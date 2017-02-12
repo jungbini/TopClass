@@ -1,0 +1,1 @@
+  add formatted fields to message details in the result page  - force scrolling on the field list if the height exceeds 1000px - fix blue indicator and still allow responsive tables for small screens  

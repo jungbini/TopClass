@@ -1,0 +1,1 @@
+  Don't generate redundant initializers for 'var' properties.  Since only 'val' properties store initializers as compile time constants in descriptors, we need to take the initializer expression from the PSI and try to evaluate it as a constant.  #KT-6661 fixed  

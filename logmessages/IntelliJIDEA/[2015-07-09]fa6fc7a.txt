@@ -1,0 +1,1 @@
+  update html 5 schema #WEB-16533 fixed  

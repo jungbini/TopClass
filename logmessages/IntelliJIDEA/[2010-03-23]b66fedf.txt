@@ -1,0 +1,1 @@
+  correctly resolve when name with same prefix is found under several roots (PY-327)  

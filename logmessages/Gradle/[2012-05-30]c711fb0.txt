@@ -1,0 +1,1 @@
+ fixed GRADLE-1670: OSGi plugin fails with ClassCastException if project.version has type other than String  

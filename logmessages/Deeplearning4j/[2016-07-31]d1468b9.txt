@@ -1,0 +1,1 @@
+  Updated the README.md file and fixed issue #1915 (#1916)  Added the information about the GPU version being supported.  

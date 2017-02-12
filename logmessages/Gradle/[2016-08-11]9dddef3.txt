@@ -1,0 +1,1 @@
+  Don't create a `SimpleDataFormat` instance for every debug log message.  

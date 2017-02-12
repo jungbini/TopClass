@@ -1,0 +1,1 @@
+  KT-1942 Package local members from Java are visible in subclasses #KT-1942 fixed  

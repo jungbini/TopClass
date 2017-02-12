@@ -1,0 +1,1 @@
+  fix curator shutdown problem in curator inv manager test  

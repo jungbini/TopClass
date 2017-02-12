@@ -1,0 +1,1 @@
+  fixed PY-9691 Doctest configuration producer loads contents of all files in clicked directory synchronously in EDT  always suggest doctests for the directory. Do check for single file  

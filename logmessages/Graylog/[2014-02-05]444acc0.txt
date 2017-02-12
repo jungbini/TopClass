@@ -1,0 +1,1 @@
+  actually close the ldap connection (it wasn't pooled)  fixes #411  

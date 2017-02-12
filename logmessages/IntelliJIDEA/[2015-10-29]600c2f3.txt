@@ -1,0 +1,1 @@
+  Enable ver.142 color schemes read in 141.x builds (Idea 14.1), fixes IDEA-146688 (Can't downgrade to 14.1: unsupported color scheme version 142) [CR-IC-7418]  

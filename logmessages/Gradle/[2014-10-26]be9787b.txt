@@ -1,0 +1,1 @@
+  fixed "EclipseWtpPluginTest#checkEclipseWtpFacet(facets)" such that it uses "facets" argument to assert that "wtp.facet.facets" are equal to it  

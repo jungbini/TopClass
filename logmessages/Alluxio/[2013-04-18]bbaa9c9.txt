@@ -1,0 +1,1 @@
+  1. add more unit tests to tachyon.client.TachyonClient 2. add unit tests for tachyon.client.RawTable 3. fix a semantics bug caused by thrift bug.  

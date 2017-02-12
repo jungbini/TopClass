@@ -1,0 +1,1 @@
+ Merge pull request #129 from frida/fix/darwin-aarch64-cif-prep  Fix non-variadic CIF initialization for Apple/ARM64  commit 530fcaf438ed6f761810179dabf973765dd36cb4  Folded up the logic for the if statement  This is a minor code style fix for the method "FAILED" [removed 3 lines and simplified the statement]  

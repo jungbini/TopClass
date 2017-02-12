@@ -1,0 +1,1 @@
+  fixed: open editor with Enter cased focus request to editor if tabs exceeded tab limit  

@@ -1,0 +1,1 @@
+  [performance fix] check containing method to have at least the same name as method usage we encountered, to avoid resolving during hierarchy visiting for detecting delegation (IDEA-128264)  

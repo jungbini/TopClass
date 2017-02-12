@@ -1,0 +1,1 @@
+  Git: semaphore.up() in startFailed() and in finally block. This fixes IDEA-75312 and should fix IDEA-75490  

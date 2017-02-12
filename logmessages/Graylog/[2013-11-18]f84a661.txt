@@ -1,0 +1,1 @@
+  add optional to return search results as CSV  to be able to switch the serialization based on the accept header, we have to use the jersey objectmapper support which requires to have a separate csv body writer  also added support for multiple content types to the api browser  fixes #204  

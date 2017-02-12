@@ -1,0 +1,1 @@
+  added TextFieldWithBrowseButton to py.test configuration to select script, fixed keywords problem in py.test  

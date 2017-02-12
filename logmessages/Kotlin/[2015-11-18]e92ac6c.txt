@@ -1,0 +1,1 @@
+  fix access to internal from tests for android projects which compiled via gradle  

@@ -1,0 +1,1 @@
+ Merge pull request #1609 from koo-taejin/#findbugs  no issue  commit 35faf57a14dd1df1ddf98c84ac6ef6888793a7d1  no issue  add setting excludeFilterFile field for findbugs-maven-plugin.  

@@ -1,0 +1,1 @@
+ Usability fixes on `CreateInputControl`  - Adding an input resets the value selected in the dropdown - Pressing enter after selecting a input type opens up the modal dialog  

@@ -1,0 +1,1 @@
+  no need to force using fractional metrics since Oracle fixed font metrics issues under Retina  

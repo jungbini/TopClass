@@ -1,0 +1,1 @@
+  restore batching to batched elasticsearch output  MessageOutput now adds a write(List<Message>) method, which in most cases simply delegates to the write(Message) method for outputs that support batching, this can make things much more efficient, but it is not required  the default is to use the single message write  fixes #647  

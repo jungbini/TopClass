@@ -1,0 +1,1 @@
+  [platform] fixes JDK version detection test  

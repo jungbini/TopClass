@@ -1,0 +1,1 @@
+ Trailing whitespace fixes per new IDE setup  

@@ -1,0 +1,1 @@
+  fix NPE problem since registered methods not properly added back  

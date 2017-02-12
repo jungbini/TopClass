@@ -1,0 +1,1 @@
+  KT-3301 Inference with several supertypes fails #KT-3301 fixed  

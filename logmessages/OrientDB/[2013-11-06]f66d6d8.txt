@@ -1,0 +1,1 @@
+ Merge remote-tracking branch 'origin/hotfix-1.6.1' into hotfix-1.6.1  commit f66d6d86aa5517f76e0ff54b913b53a21c0a89cb  fix for named parameter in update query.  

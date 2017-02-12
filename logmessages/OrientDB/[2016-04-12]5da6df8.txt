@@ -1,0 +1,1 @@
+  reapplied log fix, minor code cleanup  

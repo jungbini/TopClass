@@ -1,0 +1,1 @@
+  bugfix: you were redirected to messages context if applying quickfilter in streams or hosts pages. also removed host and hostgroup quickfilter options on host pages. #WEBINTERFACE-59  

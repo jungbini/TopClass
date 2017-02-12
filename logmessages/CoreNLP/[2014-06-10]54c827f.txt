@@ -1,0 +1,1 @@
+  Add error checking for empty or all one value training datasets for yclassifier. Fix bug in relation name normalization (e.g., country_ vs countries_...) Previously, we created an unnormalized KBPSlotFill, then sent this object to the normalization. But we actually need to normalize the name before we create the object, otherwise RelType.fromString fails.  

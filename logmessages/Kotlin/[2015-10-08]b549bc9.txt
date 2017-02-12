@@ -1,0 +1,1 @@
+  Dropped ability to specify custom PrefixMatcher in LookupElementsCollector  

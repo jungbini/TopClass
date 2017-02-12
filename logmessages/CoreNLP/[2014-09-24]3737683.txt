@@ -1,0 +1,1 @@
+  Add some casts to fix build errors on jdk 1.8 / ubuntu  

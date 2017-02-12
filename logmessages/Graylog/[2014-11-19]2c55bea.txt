@@ -1,0 +1,1 @@
+  Change overflow of scrollable tables to 'auto', fixes #968  

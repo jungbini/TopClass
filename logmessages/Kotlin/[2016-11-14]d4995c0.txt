@@ -1,0 +1,1 @@
+  Convert primary constructor to secondary: KNPE fixed #KT-14745 Fixed  

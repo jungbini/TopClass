@@ -1,0 +1,1 @@
+  Support matplotlib interactive mode if it was imported inside script. Also support it for debugger without using consoles. (PY-15520)  

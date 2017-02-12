@@ -1,0 +1,1 @@
+  first implementation of binary record serializer debug info. issue #4027  

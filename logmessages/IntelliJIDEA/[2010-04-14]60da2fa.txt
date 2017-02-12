@@ -1,0 +1,1 @@
+  fix tests: when queueing dumb mode task after refresh finish keep old behaviour if running in test mode  

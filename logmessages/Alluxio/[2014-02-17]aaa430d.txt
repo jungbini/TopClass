@@ -1,0 +1,1 @@
+  A couple minor fixes and cleanups  There were more, but I was too slow, and other people already fixed them :)  

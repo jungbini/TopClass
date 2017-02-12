@@ -1,0 +1,1 @@
+  prefix matching should depend on the actual prefix in the editor, not on the one that the completion was invoked with (IDEA-69525)  

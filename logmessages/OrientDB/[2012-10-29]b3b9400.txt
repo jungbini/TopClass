@@ -1,0 +1,1 @@
+  Patch by Fabrizio Fortino to avoid creation of index at every open! This bugged feature has been introduced some days ago. Thanks Fabrizio!  

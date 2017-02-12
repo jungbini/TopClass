@@ -1,0 +1,1 @@
+ Merge branch 'master' into fix_tests_19_mode  commit 647afcef0c69e32e808ea2dbabd7718c65c6f9d6  fix #715 and the related failing tests that were added in the previous commit.  

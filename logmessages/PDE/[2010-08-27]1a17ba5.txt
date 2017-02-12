@@ -1,0 +1,1 @@
+  Large ProcessingCore update, including better error reporting, better project lifecycle management, and redesign of SketchProject's to take advantage of existing JDT stuff. Some tie in's to the launching framework for running sketches, but nothing in the UI yet. Lots of debug stuff in the builder still.  

@@ -1,0 +1,1 @@
+  SuperClassHasFrequentlyUsedInheritors: fix description display  

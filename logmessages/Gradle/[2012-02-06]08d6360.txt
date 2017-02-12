@@ -1,0 +1,1 @@
+  Tiny fix - forgot about ignores when no other java home is found  

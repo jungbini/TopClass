@@ -1,0 +1,1 @@
+  Debugger: navigate to call site of inline function #KT-11438 Fixed  

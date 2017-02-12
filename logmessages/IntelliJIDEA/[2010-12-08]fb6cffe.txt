@@ -1,0 +1,1 @@
+  GitBranch.list(): fixed remote branch name parsing in case of -a and -r (IDEA-62643); also fixed not capturing remotes at all if executed with -r. [Reviewed by Dmitry Jemerov]  

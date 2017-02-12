@@ -1,0 +1,1 @@
+  fix saved key cache not loading at startup; patch by yukim reviewed by jbellis for CASSANDRA-5166  

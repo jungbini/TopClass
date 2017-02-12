@@ -1,0 +1,1 @@
+  artifact editor: highlighting nodes with errors fixed  

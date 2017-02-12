@@ -1,0 +1,1 @@
+  ant generation: fixed NPE (IDEADEV-32463).  

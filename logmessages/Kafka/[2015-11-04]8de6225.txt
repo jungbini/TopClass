@@ -1,0 +1,1 @@
+  HOTFIX: Fix incorrect version used for group metadata version  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Guozhang Wang  Closes #424 from hachikuji/hotfix-metadata-storage  

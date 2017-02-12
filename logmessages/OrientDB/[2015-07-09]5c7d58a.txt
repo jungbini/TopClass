@@ -1,0 +1,1 @@
+  fixed in transaction link save,removed dirty management of embedded document, removed recursion from dirty manager, issue #2629  

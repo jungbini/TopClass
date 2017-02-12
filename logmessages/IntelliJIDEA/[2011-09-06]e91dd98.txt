@@ -1,0 +1,1 @@
+  fixed PY-4426 Mako Template: Changing integrated tool to Mako takes place only after PyCharm restart  

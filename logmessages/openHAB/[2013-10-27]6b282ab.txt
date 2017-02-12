@@ -1,0 +1,1 @@
+ fixed licence issues with PR #28  

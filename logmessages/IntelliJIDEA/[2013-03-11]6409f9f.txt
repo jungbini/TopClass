@@ -1,0 +1,1 @@
+  eclipse: store package prefix in .eml (IDEA-100086); jps: update content entries after .classpath was read to make sure test folders/package prefix set up correctly  

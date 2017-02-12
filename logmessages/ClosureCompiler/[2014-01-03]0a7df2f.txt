@@ -1,0 +1,1 @@
+  Rewrite how commonjs exports are handled. Fixes lots of bugs and make them easier to type-check.  Fixes issue 1189 R=dimvar  

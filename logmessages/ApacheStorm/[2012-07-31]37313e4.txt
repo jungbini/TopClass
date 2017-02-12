@@ -1,0 +1,1 @@
+  fix bug where a topology's status would get corrupted to true if nimbus is restarted while status is rebalancing or killed  

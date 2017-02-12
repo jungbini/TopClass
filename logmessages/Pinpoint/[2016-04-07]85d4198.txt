@@ -1,0 +1,1 @@
+ bug fix. - display "no Data" when no data at scatter-chart.  

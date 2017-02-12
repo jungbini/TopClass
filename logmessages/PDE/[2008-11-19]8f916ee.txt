@@ -1,0 +1,1 @@
+  more zbuffer trouble in PLine (bug #1023)  

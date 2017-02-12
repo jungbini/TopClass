@@ -1,0 +1,1 @@
+  DBE-1035: fix JBTable not using column margin when expanding/collapsing columns  

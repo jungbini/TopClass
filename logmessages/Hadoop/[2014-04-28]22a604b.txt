@@ -1,0 +1,1 @@
+  HADOOP-10546. Javadoc and other small fixes for extended attributes in hadoop-common. Contributed by Charles Lamb.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-2006@1590786 13f79535-47bb-0310-9956-ffa450edef68  

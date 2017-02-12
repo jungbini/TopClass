@@ -1,0 +1,1 @@
+  add new required config setting to test setup and fix junit deprecation warnings  

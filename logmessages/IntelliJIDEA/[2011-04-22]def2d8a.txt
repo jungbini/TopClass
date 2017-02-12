@@ -1,0 +1,1 @@
+  fixed PY-3368 Insert documentation string stub: omit blank lines right after method definition  

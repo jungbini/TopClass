@@ -1,0 +1,1 @@
+  escape all occurrences of reserved chars  fixes #345  

@@ -1,0 +1,1 @@
+  git4idea: fixed problem with encoding. Now encoding for files should be detected more reliably (IDEADEV-34115, IDEADEV-34116, IDEADEV-34119)  

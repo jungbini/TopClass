@@ -1,0 +1,1 @@
+  allow logging in debug mode only (IDEA-90275)  

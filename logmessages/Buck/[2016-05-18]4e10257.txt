@@ -1,0 +1,1 @@
+  Fix incorrect source of class sources being used  Summary: The orderEntry for the JDK and source code were at the end of the list meaning that any class which could be decompiled to provide the source code for a class was used ahead of the sourceFolder entry which would contain the actual sources.  This 

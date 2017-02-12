@@ -1,0 +1,1 @@
+  Remove fixed known issue from release notes  

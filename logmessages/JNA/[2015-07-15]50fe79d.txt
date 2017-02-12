@@ -1,0 +1,1 @@
+  add tests for type-mapping of enums  Add changelog entry, fixes #467  

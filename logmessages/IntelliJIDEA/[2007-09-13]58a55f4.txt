@@ -1,0 +1,1 @@
+  Weblogic versions detection fixed  

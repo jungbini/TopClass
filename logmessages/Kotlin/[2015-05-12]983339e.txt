@@ -1,0 +1,1 @@
+  Detection of semicolon between enum entries together with the correct delimiter quick fix for this case.  Error message reported directly on semicolon.  

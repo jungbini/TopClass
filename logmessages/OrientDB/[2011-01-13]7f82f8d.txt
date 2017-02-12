@@ -1,0 +1,1 @@
+  Improved yet performance with huge datasets. When the mmap pool is full, then the channel technique is used. The dramatic slowness of read/write when the mmap pool is exhausted has been fixed.  

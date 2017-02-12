@@ -1,0 +1,1 @@
+  Use default session attribute for principal (#2621)  The SessionResource set a custom session attribute to find the name of the user owning the session, but the if auth plugins forced a session creation that wasn't set. Instead of trying to fix the auth plugins, rely on a shiro framework attribute to get the principal  fixes #2620  

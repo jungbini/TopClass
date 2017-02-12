@@ -1,0 +1,1 @@
+  fix duplicate F5 shortcuts in Visual Studio keymap (IDEA-10709)  

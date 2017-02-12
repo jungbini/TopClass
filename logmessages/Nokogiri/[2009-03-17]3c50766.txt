@@ -1,0 +1,1 @@
+  fixing bug where node is passed in to Node#new and caching ruby pointer in node->_private  

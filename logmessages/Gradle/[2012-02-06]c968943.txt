@@ -1,0 +1,1 @@
+  Cloned ivy's PomModuleDescriptorBuilder as GradlePomModuleDescriptor, ready for our fixes. - This code is a direct copy of ivy code, which will be assimilated over time.  

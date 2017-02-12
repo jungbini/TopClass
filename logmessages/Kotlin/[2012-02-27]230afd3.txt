@@ -1,0 +1,1 @@
+  bin/kotlin: better lookup for idea home, fix classpath  

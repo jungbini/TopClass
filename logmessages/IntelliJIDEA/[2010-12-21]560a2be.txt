@@ -1,0 +1,1 @@
+  fixed PY-2412 test runner inappropriately runs abstract trial TestCase classes  

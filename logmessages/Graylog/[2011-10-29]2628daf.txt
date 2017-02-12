@@ -1,0 +1,1 @@
+  fix ruby 1.8.7 incompatibility in full message view #WEBINTERFACE-125  

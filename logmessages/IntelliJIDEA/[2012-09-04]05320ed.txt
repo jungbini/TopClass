@@ -1,0 +1,1 @@
+  fixed PY-7441 Docstring references behave strangely  

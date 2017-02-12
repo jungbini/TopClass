@@ -1,0 +1,1 @@
+  integrate from RubyMine10: configurable plugin manager URLs; UI fixes for module dependencies and product name in tooltip  

@@ -1,0 +1,1 @@
+  Fixed symbolic link and hard link path not stripped when "strip_prefix" is set.  -- MOS_MIGRATED_REVID=134005484  

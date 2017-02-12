@@ -1,0 +1,1 @@
+  fixed clicking on stacktrace links in console when several classes are found: prefer modules over libraries, show popup if necessary (IDEA-52913)  

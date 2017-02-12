@@ -1,0 +1,1 @@
+  Distributed: fixed undo on create, where the record is deleted immediately to clean the index avoiding duplicates on second attempt  

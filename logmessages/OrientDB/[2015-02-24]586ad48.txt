@@ -1,0 +1,1 @@
+ Merge pull request #3645 from wouterv/fix-detach-non-proxied-references  Fix for #3644  commit 586ad4842b2cfc39badf43ae15f197267a576dbf  new parser - fixed insert and delete statements with named/positional parameters  

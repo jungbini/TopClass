@@ -1,0 +1,1 @@
+  fixed PY-12723 Unable to run tests with Django 1.7b1: "RuntimeError: App registry isn't ready yet."  

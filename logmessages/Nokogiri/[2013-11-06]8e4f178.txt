@@ -1,0 +1,1 @@
+  Spot a recurring bug of to_xhtml in JRuby.  

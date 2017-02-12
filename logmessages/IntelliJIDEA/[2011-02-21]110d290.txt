@@ -1,0 +1,1 @@
+  search/replace: replace-all in selection is fixed. occurrences navigation and selection  

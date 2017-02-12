@@ -1,0 +1,1 @@
+  close previous classloader before returning new classloader - https://bugs.openjdk.java.net/browse/JDK-5041014  +review REVIEW-5521  

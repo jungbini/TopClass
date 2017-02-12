@@ -1,0 +1,1 @@
+  fugly hack to fix undo move (IDEADEV-19364)  

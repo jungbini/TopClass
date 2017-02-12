@@ -1,0 +1,1 @@
+  Add static files for the embedded Chrome Trace viewer.  Summary: These resources were generated from https://code.google.com/p/trace-viewer/ using the following bug fix: https://code.google.com/p/trace-viewer/issues/detail?id=478.  Test Plan: Used with an upcoming 

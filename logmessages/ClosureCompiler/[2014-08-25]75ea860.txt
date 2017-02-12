@@ -1,0 +1,1 @@
+  Fixing a few bugs with object patterns in the parser and ReferenceCollectingCallback. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=73931059  

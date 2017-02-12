@@ -1,0 +1,1 @@
+  fixed first case of multithreading lock implementation. issue #2866  

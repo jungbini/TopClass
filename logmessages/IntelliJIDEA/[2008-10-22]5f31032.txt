@@ -1,0 +1,1 @@
+  GrailsConsole modified Gant run configuration bug for grails fixed  

@@ -1,0 +1,1 @@
+  fix another case of "Unnecessarily qualified statically imported element" inspection not working  

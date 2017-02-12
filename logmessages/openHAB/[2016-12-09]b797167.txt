@@ -1,0 +1,1 @@
+  reverted suffix on persistence add-ons (#4880)  Signed-off-by: Kai Kreuzer <kai@openhab.org>  

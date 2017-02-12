@@ -1,0 +1,1 @@
+ Merge pull request #1180 from calvinjia/web-docs-link-fix  [SMALLFIX] Update links in docs to be relative.  commit 31068b72ca552e8d8bfce3c0f507b502244cb378  Merge pull request #1179 from calvinjia/fix-contract-tests  [SMALLFIX] Move the contract test conf to integration tests.  commit 5c2aa7e0442856147632439c775b59b15f37074c  fixing indentation  

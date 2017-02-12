@@ -1,0 +1,1 @@
+  deadlock fix. MIRROR_LOCK must not be dominated by stub lock for cls file.  

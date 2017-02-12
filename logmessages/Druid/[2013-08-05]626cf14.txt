@@ -1,0 +1,1 @@
+  fix bug where the curator config name was changed in one place but not another; make some info msgs into debug msgs; fix zkworker serialization  

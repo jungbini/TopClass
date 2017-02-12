@@ -1,0 +1,1 @@
+  Index manager close bug was fixed.  

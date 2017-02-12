@@ -1,0 +1,1 @@
+  Add warning if sonar-project.properties file exists in working dir.  - don't change behaviour as this might be fixed in a later sonar-runner version  +review REVIEW-5307  

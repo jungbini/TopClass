@@ -1,0 +1,1 @@
+  Make C++ autoconfigured toolchain the default for Linux and OS X.  This is done by adding a default workspace suffix.  -- MOS_MIGRATED_REVID=118656979  

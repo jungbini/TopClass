@@ -1,0 +1,1 @@
+  ternary operation alignment fixed if TERNARY_OPERATION_SIGNS_ON_NEXT_LINE is enabled  

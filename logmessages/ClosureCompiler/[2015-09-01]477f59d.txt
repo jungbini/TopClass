@@ -1,0 +1,1 @@
+  Rollforward of cl/101985069: ES6 related fixes  Fixed VarCheck to use the RedeclarationCheckHandler when not in sanity check mode.  Fixed NodeUtil.createsBlockScope() to also return true for empty blocks that are not top-level synthetic blocks. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=102092379  

@@ -1,0 +1,1 @@
+ Revert "Revert "Expansion/improvement of compile time transforming for model rules in the DSL.""  This reverts commit 1a9872da557fc63a2af73abc4447cb28d96a4d4d.  Problems with original implementation have been fixed.  

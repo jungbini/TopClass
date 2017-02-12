@@ -1,0 +1,1 @@
+  Determine localhost IP for HttpdForTests ourselves  Summary: Sometimes Java makes up the current localhost address. I'm not sure what causes it, but this fixes the problem.  Test Plan: Put your machine into a state where localhost resolves to an unreachable host Run any test the uses the HttpdForTests.  

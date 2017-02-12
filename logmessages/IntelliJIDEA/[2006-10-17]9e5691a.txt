@@ -1,0 +1,1 @@
+  fix misaligned welcome screen (IDEADEV-10893)  

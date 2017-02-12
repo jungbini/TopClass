@@ -1,0 +1,1 @@
+  warn if lambda -> method ref fix can change semantics (IDEA-CR-16052)  

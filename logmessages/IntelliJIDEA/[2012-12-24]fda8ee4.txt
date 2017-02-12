@@ -1,0 +1,1 @@
+  [^maxim] IDEA-98012 Code completion bug in HTML files  (cherry-picked from 81863d6)  

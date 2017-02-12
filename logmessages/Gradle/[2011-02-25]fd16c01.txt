@@ -1,0 +1,1 @@
+  fixed computation of transitive project dependencies in EclipsePlugin  

@@ -1,0 +1,1 @@
+ fixed PY-2314 Doctype declaration not picked up from base template if template uses {% extends %}  

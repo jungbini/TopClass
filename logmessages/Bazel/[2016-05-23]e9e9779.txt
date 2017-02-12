@@ -1,0 +1,1 @@
+  Assert batch existence of nodes in DirtyingNodeVisitor#visit.  Now that we batch-prefetch the nodes, there is no reason to delay this check until the async Runnable runs, since we have more debugging information this way.  -- Change-Id: Ic73d99ed8de184ba1e29f0dee5375f5d45b5379d Reviewed-on: https://bazel-review.googlesource.com/3680 MOS_MIGRATED_REVID=123018542  

@@ -1,0 +1,1 @@
+  fixed PY-10233 "Method may be static" should ignore method that have overrides  

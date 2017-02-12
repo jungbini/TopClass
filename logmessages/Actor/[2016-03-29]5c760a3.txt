@@ -1,0 +1,1 @@
+ fix(android): recover + optimize fast share, disable by default  

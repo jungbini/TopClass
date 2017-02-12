@@ -1,0 +1,1 @@
+  fixed GoApplication-Wizard. There was an unnecessary dialog asking for creating a src folder which had no effect at all.  

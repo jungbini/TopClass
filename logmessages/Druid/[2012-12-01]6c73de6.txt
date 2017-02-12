@@ -1,0 +1,1 @@
+  1) Work around Jackson bug with constructor parameters and setters.  

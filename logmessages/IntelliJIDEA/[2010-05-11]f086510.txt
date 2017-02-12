@@ -1,0 +1,1 @@
+  fix "Run tests" from project view context menu on file containing tests (PY-961)  

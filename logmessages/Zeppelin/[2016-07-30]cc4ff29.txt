@@ -1,0 +1,1 @@
+tioned in http://maven.apache.org/plugins/maven-remote-resources-plugin/usage.html 1e05545 [Prabhjyot Singh] org.apache:apache-jar-resource-bundle:1.0 514c799 [Prabhjyot Singh] change 1.5-SNAPSHOT to 1.5-20160502.230123-45  (cherry picked from commit 6eb2cc5abe2512b584127edbd2e5710774b84c18) Signed-off-by: Mina Lee <minalee@apache.org>  

@@ -1,0 +1,1 @@
+  Added tests for KT-4870 "Change to constructor invocation" quick fix doesn't work  for local classes, objects and object expressions  #KT-4870 Obsolete  

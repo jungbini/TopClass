@@ -1,0 +1,1 @@
+  structured syslog fields are now parsed  into additional_fields. fixes #SERVER.93, relates #SERVER-92  

@@ -1,0 +1,1 @@
+  use command line wrapper to start groovyc; fix the way files to recompile are found  

@@ -1,0 +1,1 @@
+  Debugger: log error with attachments  

@@ -1,0 +1,1 @@
+ to such links. Of course, one should avoid to use that VersionStrategy with relative links, but this change aims at not breaking existing links even if it means not prefixing the version as expected.  Issue: SPR-13727 (cherry picked from commit c226753)  

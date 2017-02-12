@@ -1,0 +1,1 @@
+  continue WEB-10360: Now we use script preprocessor to support source map backed breakpoints (we add debugger keyword) and... in this case we MUST use script tag offset instead of absolute.  

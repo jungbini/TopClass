@@ -1,0 +1,1 @@
+  fix #1171: don't process files from the testing scope from the production one  

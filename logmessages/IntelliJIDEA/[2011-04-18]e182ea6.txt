@@ -1,0 +1,1 @@
+  IDEA-66564 (parse indeterminate FP literals in compiled annotations, ultimate fix)  

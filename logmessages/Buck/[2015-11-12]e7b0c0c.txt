@@ -1,0 +1,1 @@
+  [halide] Fix bug where Halide compiler isn't built during project generation  Summary: As title.  Test Plan: Ran 'buck project' for a project with a transitive dependency on a halide_library target, then checked buck-0.log and made sure that the required build targets for the workspace.  

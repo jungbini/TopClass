@@ -1,0 +1,1 @@
+  suggest to fix return type based on args of method call in return stmt (IDEA-140894)  

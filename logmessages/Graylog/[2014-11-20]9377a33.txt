@@ -1,0 +1,1 @@
+  Ensure that rest_listen_uri always has a trailing slash  If the trailing slash in rest_listen_uri is missing, the RestApiService won't bind the resources to the correct base URI. This should also be fixed in jersey-netty.  Fixes Graylog2/graylog2-web-interface#971  

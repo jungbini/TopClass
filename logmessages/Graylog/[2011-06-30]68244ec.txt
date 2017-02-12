@@ -1,0 +1,1 @@
+  moved oldest message determination to a method. avoiding nil bug. renamed to 'oldest object'  

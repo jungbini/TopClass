@@ -1,0 +1,1 @@
+  Remove deprecated objc_options.  RELNOTES[INC]: Any project that depended on the objc_options rule will be broken. Can be fixed by adding attrs (infoplists,copts) directly to rules depending on the options.  -- MOS_MIGRATED_REVID=117393853  

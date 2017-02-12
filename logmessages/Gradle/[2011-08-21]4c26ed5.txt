@@ -1,0 +1,1 @@
+  GRADLE-1005 - Added test for POMs that reference their own dependency as a dependency. This seems to have been fixed by Wharf.  

@@ -1,0 +1,1 @@
+  URLUtil: fix splitScheme()  * Don't add the separator to the URL part. * Scheme part: return "" instead of null to simplify work for clients.  

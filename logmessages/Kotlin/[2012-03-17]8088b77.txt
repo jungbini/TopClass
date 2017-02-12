@@ -1,0 +1,1 @@
+ #KT-1426 Implement "Optimize Imports" in plugin - fixes for used reference search (look to calls and work with java type constructors.)  

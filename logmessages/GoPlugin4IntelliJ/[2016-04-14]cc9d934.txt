@@ -1,0 +1,1 @@
+ Improve notification display (fixes #2441)  

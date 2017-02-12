@@ -1,0 +1,1 @@
+  svn merge -c 1356086 from trunk for HDFS-3157. Fix a bug in the case that the generation stamps of the stored block in a namenode and the reported block from a datanode do not match.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1356095 13f79535-47bb-0310-9956-ffa450edef68  

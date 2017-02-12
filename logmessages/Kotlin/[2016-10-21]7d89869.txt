@@ -1,0 +1,1 @@
+  Do not suggest "Remove parameter" quick-fix on lambdas  Only "Rename to _" should work in the case.  The problem is that removing lambda's parameter may lead behaviour changes. This quick-fix was not being invoked run before KT-14347 had been implemented  # Conflicts: #	idea/tests/org/jetbrains/kotlin/idea/quickfix/QuickFixTestGenerated.java  

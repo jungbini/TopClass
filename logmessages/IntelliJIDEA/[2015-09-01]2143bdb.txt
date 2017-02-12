@@ -1,0 +1,1 @@
+  fix typo in key (options.general.color.descriptor.readonly.fragment.background)  

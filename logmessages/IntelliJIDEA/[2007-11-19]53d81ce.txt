@@ -1,0 +1,1 @@
+  new debugger ui: focus management between views  

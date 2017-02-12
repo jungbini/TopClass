@@ -1,0 +1,1 @@
+  Reverted changes for issue 204: this issue cause more problems of performance and complexity than what fix. So it's invalid.  

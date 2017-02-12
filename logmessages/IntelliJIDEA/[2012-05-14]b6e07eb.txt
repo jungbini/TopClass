@@ -1,0 +1,1 @@
+  svn tree conflict resolver: 1) put local history labels when resolving to theirs of merge (to mine doesn't change files contents) 2) change resolve logic (still not sure until svnkit bugs are fixed)  

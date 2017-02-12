@@ -1,0 +1,1 @@
+  IDEADEV-40940: Groovy 1.7: Throwable at GrTypeDefinitionImpl.addMemberDeclaration() on "Implement methods" quick fix  

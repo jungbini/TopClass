@@ -1,0 +1,1 @@
+  inspection tool window: replace quick fix preview with 2 separate components: 1st when loading 2nd when selected node is ready for fix or suppression  

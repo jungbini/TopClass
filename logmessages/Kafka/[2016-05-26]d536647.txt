@@ -1,0 +1,1 @@
+  MINOR: Fix wrong comments  Author: Yukun Guo <gyk.net@gmail.com>  Reviewers: Gwen Shapira  Closes #1198 from gyk/fix-comment  

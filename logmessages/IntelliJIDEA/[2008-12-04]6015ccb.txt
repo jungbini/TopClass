@@ -1,0 +1,1 @@
+  git4idea: fixed bug with enabling ok button in the push dialog  

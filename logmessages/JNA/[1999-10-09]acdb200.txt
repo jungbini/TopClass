@@ -1,0 +1,1 @@
+ versions now used for all repositories.  * CVSROOT/commitinfo, CVSROOT/loginfo:  Change pathnames to generic versions.  * CVSROOT/checkoutlist:  Don't try to check out the removed files any longer.  

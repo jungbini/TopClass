@@ -1,0 +1,1 @@
+  [nika] internal decorator for toolwindow repaint fix  

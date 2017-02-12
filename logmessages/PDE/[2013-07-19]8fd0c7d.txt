@@ -1,0 +1,1 @@
+  hopefully fix Present mode (#1955), plus minor build tweaks  

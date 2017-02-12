@@ -1,0 +1,1 @@
+  static input fields: alphanum check, tests  fixes Graylog2/graylog2-web-interface#280  

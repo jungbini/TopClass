@@ -1,0 +1,1 @@
+ Merge pull request #562 from tucksaun/fix-duplicate-dependency  Removed duplicated dependency  commit f0c40709cdddc953834b827509b817766d9c528d  fix coordinator dynamic configs  

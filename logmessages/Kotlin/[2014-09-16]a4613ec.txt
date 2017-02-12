@@ -1,0 +1,1 @@
+  Changed completion logic: include non-imported declarations on second press even when prefix is empty  

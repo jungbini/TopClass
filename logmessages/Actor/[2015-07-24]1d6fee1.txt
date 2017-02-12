@@ -1,0 +1,1 @@
+  fix(web): fix favicon when page not loaded, disable pace ajax tracking;  

@@ -1,0 +1,1 @@
+  handle wrong timerange formats better  fixes #246  

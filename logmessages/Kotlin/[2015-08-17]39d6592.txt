@@ -1,0 +1,1 @@
+  Adding compiler id digest calculation and check to detect replaced compiler jar, minor fixes and refactorings  

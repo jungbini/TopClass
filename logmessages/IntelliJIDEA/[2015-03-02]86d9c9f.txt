@@ -1,0 +1,1 @@
+  https://ea.jetbrains.com/browser/ea_reports/791584 NPE fix  

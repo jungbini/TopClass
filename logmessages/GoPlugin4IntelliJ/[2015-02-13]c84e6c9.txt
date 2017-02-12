@@ -1,0 +1,1 @@
+  fix #1298: optional statement in labeled statement  

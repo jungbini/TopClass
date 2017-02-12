@@ -1,0 +1,1 @@
+  IDELightClassGenerationSupport: fix not generating @JvmName annotation for file facade light classes  This was a minor inconsistency between compiler and ide light classes  

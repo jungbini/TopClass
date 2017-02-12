@@ -1,0 +1,1 @@
+  fixed added first jdk in 'New Project' wizard  

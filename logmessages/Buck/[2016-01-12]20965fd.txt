@@ -1,0 +1,1 @@
+  It caused a serious performance regression, and we can do this more simply without touching the filesystem -- I was mistaken when I thought that NTFS uses locale-sensitive rules for case mapping (it doesn't).  Test Plan: CI  Reviewed By: sdwilsh  fb-gh-sync-id: 9d52edb  

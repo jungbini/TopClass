@@ -1,0 +1,1 @@
+  Updated poly examples to use beginContour/endContour, fixed stroke weight calculation in 2D  

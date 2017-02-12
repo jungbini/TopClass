@@ -1,0 +1,1 @@
+  More fix toward GlassFish WebSocket support. Still broken  

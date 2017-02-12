@@ -1,0 +1,1 @@
+  fix solr.home to work correctly when run directly from maven  

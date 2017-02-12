@@ -1,0 +1,1 @@
+ Merge pull request #3521 from calvinjia/config-fix  [SMALLFIX] Restore default worker memory size to 1GB.  commit 4736e973211eb378233d1d496d44a8c274178f89  Merge pull request #3519 from calvinjia/buffered-stream-fix-1  [SMALLFIX] Read entire buffer in buffered instreams  commit c97c9dfa0c92465351ea13a2c44b080f56fdaf60  Fix same bug in buffered blockinstream.  

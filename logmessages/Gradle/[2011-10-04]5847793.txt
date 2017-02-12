@@ -1,0 +1,1 @@
+  provide some more debugging output when the daemon receives a command object and when it finishes with it  

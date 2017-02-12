@@ -1,0 +1,1 @@
+  Fixed bug on auth proxy to being used to all the calls.  

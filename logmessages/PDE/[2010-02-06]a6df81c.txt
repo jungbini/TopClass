@@ -1,0 +1,1 @@
+  PApplet.main() no longer ignored if set (bug #1446)  

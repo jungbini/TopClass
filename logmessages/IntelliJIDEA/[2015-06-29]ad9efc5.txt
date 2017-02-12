@@ -1,0 +1,1 @@
+  Yet another attempt to fix PY-14969  Mark the main thread when calling fork() and check it in haveAliveThreads() in order to prevent killing main thread even if it is a daemon.  

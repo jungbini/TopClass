@@ -1,0 +1,1 @@
+  KAFKA-2456 KAFKA-2472; SSL clean-ups  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Jun Rao <junrao@gmail.com>  Closes #342 from ijuma/kafka-2472-fix-kafka-ssl-config-warnings  

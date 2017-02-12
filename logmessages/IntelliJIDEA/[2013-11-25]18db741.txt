@@ -1,0 +1,1 @@
+  fixed PY-11476 No error given for mismatched accolade and squarebracket  

@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=53 ("Allow session timeout configuration")  

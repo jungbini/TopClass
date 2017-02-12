@@ -1,0 +1,1 @@
+  Remove explicit GC calls in javac persistent worker.  Testing seems to have shown that the original reason for this being needed (running out of file handles due to unclosed file streams) has been fixed, meaning we don't need the GC workaround anymore.  -- MOS_MIGRATED_REVID=112088923  

@@ -1,0 +1,1 @@
+  Re-added support for http proxy authentication - Supply username/password credentials for use with any authentication scheme - Supply NTML-style credentials for use with NTLM authentication - Currently no value set for 'domain' - Integration test for proxy authentication (and TestProxyServer fixture to assist with testing)  

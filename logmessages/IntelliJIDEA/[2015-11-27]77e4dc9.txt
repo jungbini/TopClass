@@ -1,0 +1,1 @@
+  console: add testClearAndPrintWhileAnotherClearExecution to hunt down concurrent bug in ConsoleViewImpl  

@@ -1,0 +1,1 @@
+  fixed  PY-9407 Method can be static: false positive for methods with first parameter other then self  

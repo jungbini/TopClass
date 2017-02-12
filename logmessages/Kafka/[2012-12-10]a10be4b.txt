@@ -1,0 +1,1 @@
+  KAFKA-597 Refactor scheduler. Fixes a couple of bugs, and adds the ability to mock scheduled tasks.    git-svn-id: https://svn.apache.org/repos/asf/kafka/trunk@1419692 13f79535-47bb-0310-9956-ffa450edef68  

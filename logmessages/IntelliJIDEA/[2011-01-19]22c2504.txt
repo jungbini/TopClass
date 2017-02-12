@@ -1,0 +1,1 @@
+  help button in "create run/debug configuration" dialog (PY-2729); cleanup  

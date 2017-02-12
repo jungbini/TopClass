@@ -1,0 +1,1 @@
+  Ugly fix for unused imports vs Checkstyle  Checkstyle should recognize imports used in Javadocs  +review REVIEW-5645  

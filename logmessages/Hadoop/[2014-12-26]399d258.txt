@@ -1,0 +1,1 @@
+  HADOOP-11448. Fix findbugs warnings in FileBasedIPList. (ozawa)  

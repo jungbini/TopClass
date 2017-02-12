@@ -1,0 +1,1 @@
+  Stop trying to remove shutdown hook twice  This was supposed to be fixed on titan09 by f4bb650ce5de3740a16f164e5e76e7c9c202dc33, a rewrite of 1c37382e35f9d0901ed67d26aace6c539d049c82 from titan05.  Looks like I unintentionally lost the fix for double-removing the hook in the former (but not the latter).  

@@ -1,0 +1,1 @@
+  Add new messages for SetTemperature and WallThermostatControl messages. Also made small correction to timeinfo message. Added ability to build ACK message. Added debug to Base Message  

@@ -1,0 +1,1 @@
+ Merge pull request #1014 from deeplearning4j/WordVectorSerializer_fixes  Word vector serializer fixes  commit 4d5bbb4422400e664b761d09843aa333d43f8b32  Merge pull request #1029 from deeplearning4j/ab_fixcloning  Fixes and improvements for MultiLayerNetwork.clone()  commit 970d04bb3bb67260202690f095dc24dc96206117  fixed order of gradients for bidir LSTM layer  

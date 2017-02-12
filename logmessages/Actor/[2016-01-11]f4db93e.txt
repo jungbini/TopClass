@@ -1,0 +1,1 @@
+  fix(server:auth): don't accept non-username-password transactions in ValidatePassword  

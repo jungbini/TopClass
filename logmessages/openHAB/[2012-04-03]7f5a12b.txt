@@ -1,0 +1,1 @@
+  fix to allow more than one TimerTrigger in a when-clause  

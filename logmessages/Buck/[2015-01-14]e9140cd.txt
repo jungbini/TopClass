@@ -1,0 +1,1 @@
+  Add a "locales" option to android_binary rule.  Summary: This 

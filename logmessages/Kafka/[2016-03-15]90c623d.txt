@@ -1,0 +1,1 @@
+  MINOR: Add test that verifies fix for KAFKA-3047  Also clean-up `LogTest` a little.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Guozhang Wang  Closes #1071 from ijuma/kafka-3047-explicit-offset-assignment-corrupt-log-test  

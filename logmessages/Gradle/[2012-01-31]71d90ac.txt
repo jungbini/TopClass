@@ -1,0 +1,1 @@
+  use test fixtures from 'native' project in 'plugins' project  

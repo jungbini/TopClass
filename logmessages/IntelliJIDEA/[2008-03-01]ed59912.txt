@@ -1,0 +1,1 @@
+  commander is optional dependency for images; fix merging of actions from dependent plugin descriptors  

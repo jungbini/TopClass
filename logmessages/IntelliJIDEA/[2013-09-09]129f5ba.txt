@@ -1,0 +1,1 @@
+ fixed PY-10735 Map help button of the Invert Boolean dialog  

@@ -1,0 +1,1 @@
+  show pretty name for libraries (fixes #3574)  

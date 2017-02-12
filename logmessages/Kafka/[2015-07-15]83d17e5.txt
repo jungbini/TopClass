@@ -1,0 +1,1 @@
+ch for KAFKA-2123. The schedule method requires the time the task should be executed, not a delay.  Author: Jason Gustafson <jason@confluent.io>  Closes #79 from hachikuji/KAFKA-2123-fix and squashes the following commits:  6eb7ec6 [Jason Gustafson] [Minor] fix new consumer heartbeat reschedule bug  

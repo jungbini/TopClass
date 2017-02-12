@@ -1,0 +1,1 @@
+  REVIEW-240: Use JUnitTestExecutionResult testfixture for validating executed tests.  

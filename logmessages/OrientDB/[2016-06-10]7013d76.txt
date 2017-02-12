@@ -1,0 +1,1 @@
+  Distributed: fixed case with sharding and full db restore  when the server is the exclusive owner of the cluster  

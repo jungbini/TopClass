@@ -1,0 +1,1 @@
+  IDEA-76353 Throwable at CaretModelImpl.moveToOffset() on Move Line with tab character Up in Scala Console  Corrected 'logical position -> offset' mapping in case of editor with prefix text  

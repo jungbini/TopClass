@@ -1,0 +1,1 @@
+  IDEA-106146 NPE  fixed: if  there  are no mercurial repos in the project the action shouldn't be executed.  

@@ -1,0 +1,1 @@
+  fixed unit test for new S_Command c'tor including the room id  

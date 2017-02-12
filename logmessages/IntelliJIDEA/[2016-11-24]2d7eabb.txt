@@ -1,0 +1,1 @@
+  PY-21617, PY-21614: Project name not passed to Django in plugin leading to bugs  * Plugin uses 

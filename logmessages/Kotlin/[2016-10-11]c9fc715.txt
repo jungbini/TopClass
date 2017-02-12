@@ -1,0 +1,1 @@
+  Explicitly filter out classes found by DataBindingClassFinder and DataBindingComponentClassFinder for scope without sources (KT-12402) This change is temporary, and it should be reverted when the original problem in DataBinding IDE support is fixed.  

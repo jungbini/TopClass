@@ -1,0 +1,1 @@
+ allow users with stream:edit permissions to pause/resume streams  extend the permission check methods to check for an array of possible permissions  this is in addition to the streams:changestate permission and requires the corresponding web-interface PR to be visible  fixes Graylog2/graylog2-web-interface#1456  

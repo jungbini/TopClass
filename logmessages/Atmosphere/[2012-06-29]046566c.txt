@@ -1,0 +1,1 @@
+  Fix for #452 [jaxrs2] Update to last version, fix regression  

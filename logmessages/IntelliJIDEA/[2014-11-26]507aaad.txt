@@ -1,0 +1,1 @@
+  show file-level annotation for EC instead of notification #WEB-14144 fixed  

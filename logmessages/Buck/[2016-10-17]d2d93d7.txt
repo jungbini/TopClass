@@ -1,0 +1,1 @@
+  fix is_git detection when .git dir is located elsewhere  Summary: The .git dir may be in a 

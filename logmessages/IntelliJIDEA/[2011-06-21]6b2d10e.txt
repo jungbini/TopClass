@@ -1,0 +1,1 @@
+  Tests on rails project view structure fixed  

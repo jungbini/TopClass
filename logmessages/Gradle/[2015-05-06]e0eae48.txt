@@ -1,0 +1,1 @@
+  fix tests after previous change - changes will only be watched for the inputs of the tasks executed in the most recent build  +review REVIEW-5492  

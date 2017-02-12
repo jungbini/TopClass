@@ -1,0 +1,1 @@
+  json scheme: fix order + add completion for tsconfig.json  

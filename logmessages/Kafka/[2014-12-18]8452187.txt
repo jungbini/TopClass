@@ -1,0 +1,1 @@
+  KAFKA-1824 - fix ConsoleProducer so parse.key and key.separator will work again; reviewed by Neha Narkhede  

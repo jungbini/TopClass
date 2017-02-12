@@ -1,0 +1,1 @@
+  Copy buffer for every output we are writing too.  Messages could be lost, because the buffer could be cleared before all outputs wrote all messages. Using a simple copy operation for now to fix it. We should think about a better solution. /cc @kroepke @joschi  

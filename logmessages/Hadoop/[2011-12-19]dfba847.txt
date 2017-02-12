@@ -1,0 +1,1 @@
+ Amend HDFS-234 (bkjournal contrib). Fix findbugs build  - Fixes pom parent to point to hadoop-project instead of hadoop-project-dist - Fix relative path in pom to have the correct number of ../s   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1220940 13f79535-47bb-0310-9956-ffa450edef68  

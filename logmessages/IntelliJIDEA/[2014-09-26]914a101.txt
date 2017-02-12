@@ -1,0 +1,1 @@
+  gradle: fix adding custom resource output folder to module output roots if external application removes the folder  

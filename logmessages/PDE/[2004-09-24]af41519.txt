@@ -1,0 +1,1 @@
+  fixed windows dist.sh, also tweaks for a few message i/o bugs  

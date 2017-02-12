@@ -1,0 +1,1 @@
+ Merge pull request #1061 from deeplearning4j/TSNEandUI  TSNE and UI: fixes and imrovements  commit 60e8e999a7bedc9651e99d939d6ad2d5e7ab1bf7  mac safari fix, proper 404 for activations  

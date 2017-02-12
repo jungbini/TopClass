@@ -1,0 +1,1 @@
+  1) Make GroupByQuery not require a limit clause 2) Make DefaultLimitSpec not require the "limit" field to be specified in JSON 3) Move a log line in Announcer to debug  

@@ -1,0 +1,1 @@
+  Docstring inspections correctly trim quotes and string prefixes before parsing docstring  I also updated javadoc of related methods in DocStringUtil to point out the 

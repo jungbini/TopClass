@@ -1,0 +1,1 @@
+  Debugger: fix breakpoints in files with JvmName annotation Drop unnessecary logic about part classes with hashcodes #KT-9480 Fixed  

@@ -1,0 +1,1 @@
+  remove smart pointer. seems IDEA has somehow fixed the problem with tree updaters  

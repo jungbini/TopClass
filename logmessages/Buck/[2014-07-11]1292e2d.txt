@@ -1,0 +1,1 @@
+  Easy: Add logging to WatchmanWatcher  Summary: Does what it says on the tin.  Test Plan: buck build buck, confirmed debug logs in buck-out/log  

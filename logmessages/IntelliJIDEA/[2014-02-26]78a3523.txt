@@ -1,0 +1,1 @@
+  restored platform prefix autodetection to fix sql tests  

@@ -1,0 +1,1 @@
+  MINOR: Fix Streams examples in documentation  Performed minor cleanup and escaped `<` and `>` so code examples are shown correctly in the browser.  Author: Vahid Hashemian <vahidhashemian@us.ibm.com>  Reviewers: Matthias J. Sax, Guozhang Wang  Closes #2247 from vahidhashemian/doc/fix_streams_doc  

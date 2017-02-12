@@ -1,0 +1,1 @@
+  WEB-19612 Node remote interpreter creation: @NotNull assertion when default value of deployment credentials is created, id is null, while getter is marked @NotNull fix: mark @Nullable, check for null in clients maybe better solution is available  

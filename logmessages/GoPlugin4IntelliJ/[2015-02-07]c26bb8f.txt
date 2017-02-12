@@ -1,0 +1,1 @@
+  Insert new import into existing import statement even if it doesn't have parens #1258 fixed  

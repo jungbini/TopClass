@@ -1,0 +1,1 @@
+  fixed PY-14352 Cannot add user-defined interpreter path  

@@ -1,0 +1,1 @@
+  IDEADEV-25505 apply quick fix for Xml-Tag has empty body on multiple entries [reviewed by nik]  

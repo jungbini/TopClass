@@ -1,0 +1,1 @@
+  Remove unnecessary -B flag from linker command line.  This should fix working with GCC cross compilers installed into /usr/bin/ next to the host ld.  -- MOS_MIGRATED_REVID=90167821  

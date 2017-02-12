@@ -1,0 +1,1 @@
+  svn: Refactored BranchInfo, SvnMergeInfoCache - code simplified, warnings fixed, @NotNull  

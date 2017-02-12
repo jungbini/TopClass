@@ -1,0 +1,1 @@
+  [grails] add option to fallback to simple debugger  

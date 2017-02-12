@@ -1,0 +1,1 @@
+  Patch for findbugs warnings in Resource Manager (siddharth seth via mahadev)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/MR-279@1155161 13f79535-47bb-0310-9956-ffa450edef68  

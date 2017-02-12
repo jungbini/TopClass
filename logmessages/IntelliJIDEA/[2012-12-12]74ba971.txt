@@ -1,0 +1,1 @@
+  fix select trivial fragment (1 edge)  

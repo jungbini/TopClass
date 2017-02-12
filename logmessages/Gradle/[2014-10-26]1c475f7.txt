@@ -1,0 +1,1 @@
+  Refactoring in performance fixture.  Pushed out some complexity out to prep for dealing with windows issue.  

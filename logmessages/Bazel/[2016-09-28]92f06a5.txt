@@ -1,0 +1,1 @@
+  Rolled back due to casting error in Java 1.7. This is fixed now: https://github.com/bazelbuild/bazel/issues/1832  Old: matchingMethod = new Pair<>( method, argumentListConversionResult.getArguments()); New: matchingMethod = new Pair<MethodDescriptor, List<Object>>( method, argumentListConversionResult.getArguments());  -- MOS_MIGRATED_REVID=134503884  

@@ -1,0 +1,1 @@
+  maven: fix wrong calculation of crc for filterExclusions config  

@@ -1,0 +1,1 @@
+  fix and tests for PY-8836 (false positive after ndarray and int multiplication) and PY-13422 (wrong return type in numpy.ones quickdoc)  Conflicts: python/testSrc/com/jetbrains/python/PyTypeTest.java  

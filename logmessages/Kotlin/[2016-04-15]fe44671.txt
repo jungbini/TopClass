@@ -1,0 +1,1 @@
+  KT-11920: Increase visibility fix is now active for exposed visibility errors  

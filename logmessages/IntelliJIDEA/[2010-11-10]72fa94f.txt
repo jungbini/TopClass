@@ -1,0 +1,1 @@
+  IDEA-60970 (quick fix for 'field may be final' inspection should remove 'volatile' modifiers)  

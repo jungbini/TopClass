@@ -1,0 +1,1 @@
+  YARN-5142. fix findbugs warnings/errors for hadoop-yarn-server-timelineservice-hbase-tests. (Vrushali C via Varun Saxena)  

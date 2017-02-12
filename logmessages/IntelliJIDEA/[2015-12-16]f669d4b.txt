@@ -1,0 +1,1 @@
+  PY-9727: Dict update fix  EnvDict does not support update, using __setitem__ instead  

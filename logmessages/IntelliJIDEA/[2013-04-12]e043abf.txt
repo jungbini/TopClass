@@ -1,0 +1,1 @@
+  javafx css: included via related path fixed (IDEA-104584)  

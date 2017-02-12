@@ -1,0 +1,1 @@
+6 [Felix Cheung] fix bug, add doc, update text eeb341f [Felix Cheung] set hbase conf dir to classpath  

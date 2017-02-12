@@ -1,0 +1,1 @@
+  filtering tree builder tested -- attempt to reproduce the "loading" bug from options editor failed, but at least now we have some test for the rest  

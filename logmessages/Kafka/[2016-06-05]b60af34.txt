@@ -1,0 +1,1 @@
+  MINOR: Fix producer leak in `PlaintextProducerSendTest`  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Sriharsha Chintalapani <harsha@hortonworks.com>, Guozhang Wang <wangguoz@gmail.com>  Closes #1471 from ijuma/fix-leaking-producers-in-plaintext-producer-send-test  

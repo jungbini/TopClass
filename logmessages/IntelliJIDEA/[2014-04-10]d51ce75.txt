@@ -1,0 +1,1 @@
+  IDEA-51509 (IG: "String concatenation in i18n context" could suggest annotation quick fix for more variables)  

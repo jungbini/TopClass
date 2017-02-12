@@ -1,0 +1,1 @@
+  fixed bug of breaking navigation on small resolutions  

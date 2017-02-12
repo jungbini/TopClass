@@ -1,0 +1,1 @@
+  Removed upto() and downto() member functions from number types  #KT-2519 fixed  

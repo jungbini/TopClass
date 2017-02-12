@@ -1,0 +1,1 @@
+  Partial fix for IDEA-124965 (Structural Search searches outside specified scope)  

@@ -1,0 +1,1 @@
+  fix(scheme): Fixed missed user out peer on transfer ownership  

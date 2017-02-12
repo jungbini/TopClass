@@ -1,0 +1,1 @@
+  KT-6820 Find usages doesn't find delegated properties when searching get/set/propertyDelegated functions  #KT-6820 fixed  

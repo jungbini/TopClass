@@ -1,0 +1,1 @@
+  [groovy]: use classloader of Groovy plugin to fix compilation problems in gdsl files  

@@ -1,0 +1,1 @@
+  fixed  PY-7952 Doctest: AE: start (42) must not be greater than end (41) at com.intellij.openapi.editor.ex.util.EditorUtil.calcOffset on hovering multi-line doctest  

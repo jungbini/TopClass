@@ -1,0 +1,1 @@
+  EA-30889 - assert: DocumentImpl.removeDocumentListener  Suspect that given listener is null. Not sure. Added debug info.  

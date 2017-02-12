@@ -1,0 +1,1 @@
+  fixed incorrect navigation to lambda class type source  

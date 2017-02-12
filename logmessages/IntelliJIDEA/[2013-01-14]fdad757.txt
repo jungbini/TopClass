@@ -1,0 +1,1 @@
+  fixed PY-8311 Packages list UI looks bad under Darcula  

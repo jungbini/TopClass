@@ -1,0 +1,1 @@
+  HADOOP-7576. Fix findbugs warnings and javac warnings in hadoop-auth.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1163456 13f79535-47bb-0310-9956-ffa450edef68  

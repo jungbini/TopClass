@@ -1,0 +1,1 @@
+  use "-agentlib:jdwp=" way to start the debuggee for JDK 1.5+ in order to use newer JVMTI instead of older JVMDI  

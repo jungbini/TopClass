@@ -1,0 +1,1 @@
+ Merge pull request #1084 from deeplearning4j/Spark_NLP  Spark w2v is fixed and improved.  commit a1a6e63f7d291a053837da4aee926487aac5748a  Merge branch 'master' into mw_fix_bn  commit 4803e1a1f4a511e522e82ec22f135f4c49f4700f  Merge branch 'master' into mw_fix_bn  commit 0ec5276985c0e6de1339bd4a3eb57eda8c283e56  w2v doc fix  

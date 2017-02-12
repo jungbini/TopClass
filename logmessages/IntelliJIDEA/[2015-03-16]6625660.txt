@@ -1,0 +1,1 @@
+  do not wait for panel hide to dispose UiNotifyConnector in doWhenFirstShown()  this fixes memory leak in 

@@ -1,0 +1,1 @@
+  force a save before exporting.. fixes bug #157  

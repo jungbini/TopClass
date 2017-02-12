@@ -1,0 +1,1 @@
+  svn: Refactored SvnAuthenticationManager - removed unused/commented code, code simplifications, warnings fixes  

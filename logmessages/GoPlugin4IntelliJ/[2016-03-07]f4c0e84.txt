@@ -1,0 +1,1 @@
+  [resolve] unresolved struct fields when initialising map of slice of structs, fix #2197  

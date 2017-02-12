@@ -1,0 +1,1 @@
+  Configuration file cleanup and path fixes  

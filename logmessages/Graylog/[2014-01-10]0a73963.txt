@@ -1,0 +1,1 @@
+  alert wording fixes, include creator_user_id, ... Graylog2/graylog2-server#358  

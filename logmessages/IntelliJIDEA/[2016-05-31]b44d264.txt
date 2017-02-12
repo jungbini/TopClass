@@ -1,0 +1,1 @@
+  FileReferenceQuickFixProvider: don't leak PSI via "create file" fix  

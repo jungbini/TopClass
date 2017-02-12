@@ -1,0 +1,1 @@
+  - fixed minor authorization bug and made MessagesController more restful  

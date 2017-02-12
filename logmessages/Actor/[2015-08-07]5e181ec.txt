@@ -1,0 +1,1 @@
+  fix(web): don't blow up the app on Mixpanel init failure  

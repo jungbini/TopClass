@@ -1,0 +1,1 @@
+  merging distcache a.k.a blobstore design and API usage docs  formatting changes  sentence changes and spelling errors  formatting changes, sentence completion changes  fixing few more tense errors  

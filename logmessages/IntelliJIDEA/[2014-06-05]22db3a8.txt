@@ -1,0 +1,1 @@
+  get rid of RowSorters to fix a few exceptions. New Plugin UI has its own table header without swing's row sorters  

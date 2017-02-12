@@ -1,0 +1,1 @@
+  Put daemon logging back in at debug, not lifecycle.  

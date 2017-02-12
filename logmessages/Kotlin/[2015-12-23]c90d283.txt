@@ -1,0 +1,1 @@
+  Quick Fixes: Implement 'Add val/var to primary constructor parameter' quick-fix for data classes #KT-4038 Fixed  

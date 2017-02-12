@@ -1,0 +1,1 @@
+  fix casting to primitives according to the spec (IDEA-131107; IDEA-148880)  

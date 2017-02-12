@@ -1,0 +1,1 @@
+  Fix Es6TemplateLiterals to recognize more types of tagged template literals.  This fixes CallExpression, CommaExpression and MemberExpression in the Traceur test suite for template literals. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=71883815  

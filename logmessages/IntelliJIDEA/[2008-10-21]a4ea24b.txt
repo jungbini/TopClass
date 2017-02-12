@@ -1,0 +1,1 @@
+  VCS configurable restructure + bug with mapping is not shown as modified after the modification fixed  

@@ -1,0 +1,1 @@
+  fix demo command for ner in README  

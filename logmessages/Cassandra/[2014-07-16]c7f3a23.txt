@@ -1,0 +1,1 @@
+  Follow up to 7111 to fix failing unit tests on trunk  Patch by Benjamin Lerer; reviewed by Tyler Hobbs for CASSANDRA-7111  

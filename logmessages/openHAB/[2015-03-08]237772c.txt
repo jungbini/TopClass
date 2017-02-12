@@ -1,0 +1,1 @@
+ Merge pull request #2259 from llamahunter/check-null-association  Null dereference checks. Indentation fixes.  commit 60aedd68ad903932af247b2ddc0571ac60d7f4c4  Merge pull request #2262 from joltcoke/master  Comfoair: EWT bugfixes / enhancements  commit 237772c8ee0dda86399d0dfb4ec3c12b056043bf  Add SetToController flag on association group and fix cut/paste errors.  

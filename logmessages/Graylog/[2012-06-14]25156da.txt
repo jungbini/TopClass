@@ -1,0 +1,1 @@
+ fix naming issues in instrumentation, instrument message input type rates  

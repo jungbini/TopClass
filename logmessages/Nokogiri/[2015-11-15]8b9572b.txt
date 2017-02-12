@@ -1,0 +1,1 @@
+ restore default ns prefix on reparenting  specifically, on reparenting into another document  fixes #391 closes #1373  

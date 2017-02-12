@@ -1,0 +1,1 @@
+  fix reading of jet signature with type parameter referencing self  === class Something<A : Comparable<A>> ===  reported by Max  Also merge copy-paste in JavaDescriptorResolver  

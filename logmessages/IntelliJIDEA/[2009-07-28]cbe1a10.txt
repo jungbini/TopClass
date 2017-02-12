@@ -1,0 +1,1 @@
+  Spellchecker plugin: add dependecy to spellchecker-tests in main module; add groovy tests; fix offset calculation within  PsiIdentifierOwnerTokenizer; fix JSP and JSPX strategy  

@@ -1,0 +1,1 @@
+  Added quickfix for ILLEGAL_ENUM_ANNOTATIONS  

@@ -1,0 +1,1 @@
+  [platform] activation protocol quick fix (IDEA-CR-11401)  

@@ -1,0 +1,1 @@
+  cache patterns by url, not per project #WEB-17798 fixed  

@@ -1,0 +1,1 @@
+  IDEA-161524 ui: fix column width under HiDPI  * scale constant * allow resize SCOPE column  follow-up: d9b191e  

@@ -1,0 +1,1 @@
+  fix handling of duplicate words in ide proj name deduplication logic  - add clarification about deduplication logic to release notes  +review REVIEW-5642  

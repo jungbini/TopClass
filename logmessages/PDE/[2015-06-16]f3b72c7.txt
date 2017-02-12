@@ -1,0 +1,1 @@
+  set offscreen drawing surface transparent (fixes #3378)  

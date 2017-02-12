@@ -1,0 +1,1 @@
+  reverted "fixes noisy nested .jar logging" to fix starting IDEA from sources  

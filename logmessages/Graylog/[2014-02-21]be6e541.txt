@@ -1,0 +1,1 @@
+  always link to current version of stream matcher code. fixes #639  

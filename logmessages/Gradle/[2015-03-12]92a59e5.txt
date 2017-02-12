@@ -1,0 +1,1 @@
+  Use a switch to disable using shared compiler name table when compiling java code. Shared compiler name tables should be reused but due to a bug in the compiler they're not and soft references to them only build up causing performance degradation due to memory trashing in long running processes.  +review REVIEW-5433  

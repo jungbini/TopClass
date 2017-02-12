@@ -1,0 +1,1 @@
+  ProjectUtil.isSameProject check simplified and fixed to properly support directory-based projects, test added (IDEA-CR-15060)  

@@ -1,0 +1,1 @@
+  reworked IDEA-to-Firefox connection: now js debugger is started via socket instead of command line argument (WI-2396, IDEA-24024, IDEA-55076)  

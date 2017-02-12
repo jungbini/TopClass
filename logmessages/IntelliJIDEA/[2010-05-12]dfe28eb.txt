@@ -1,0 +1,1 @@
+  add nonnls quick fix even if annotations.jar is not available in jdk (IDEA-54847)  

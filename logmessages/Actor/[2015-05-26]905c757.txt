@@ -1,0 +1,1 @@
+  fix(web): add class to avatar image;  

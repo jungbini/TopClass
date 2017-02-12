@@ -1,0 +1,1 @@
+  truecaser bug fix - don't depend on IString index of possible words  

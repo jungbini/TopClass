@@ -1,0 +1,1 @@
+  fixes to init and more unit tests for timeseries  

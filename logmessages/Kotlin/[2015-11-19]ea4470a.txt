@@ -1,0 +1,1 @@
+  fix KT-10068 JsLibraryStdDetectionUtil does not use caching through JarUserDataManager  #KT-10068 Fixed  

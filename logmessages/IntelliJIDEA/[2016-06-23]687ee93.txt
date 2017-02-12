@@ -1,0 +1,1 @@
+  fixed showing 'Convert Project' dialog when opening a project in old format (IDEA-157691)  

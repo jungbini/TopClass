@@ -1,0 +1,1 @@
+  don't track offsets after completion when psi has become invalid. fixes one case of EA-75987 - assert: ShredImpl.<init>  

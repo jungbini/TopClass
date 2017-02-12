@@ -1,0 +1,1 @@
+  GRADLE-210  Gradle does not resolve version conflicts properly - Refactored Report2Classpath to Java - Added missing parent DefaultModuleDescriptor to dependency descriptors - Fixed bug in Report2Classpath with returning evicted modules - Enabled resolve report generation  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@807 004c2c75-fc45-0410-b1a2-da8352e2331b  

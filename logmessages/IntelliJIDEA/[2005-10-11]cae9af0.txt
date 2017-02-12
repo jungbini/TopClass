@@ -1,0 +1,1 @@
+  proper resolving nonqualified names in xml tags (IDEADEV-2654), additional fix  

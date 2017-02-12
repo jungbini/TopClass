@@ -1,0 +1,1 @@
+ Detect missing braces in tabs, ignore other problems until fixed  

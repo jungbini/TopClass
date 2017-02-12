@@ -1,0 +1,1 @@
+  fixed PY-17182 Conda: Not able to create conda env: NPE at java.io.File.<init>  

@@ -1,0 +1,1 @@
+replaced the references with note.getId() 11a2903 [Kavin Kumar] Fixed NPE when the input json is empty for clone notebook REST API and set the default name for the case.Added test cases too.  

@@ -1,0 +1,1 @@
+  fix for GCalEventDownloader - quoted strings are correctly parsed now  

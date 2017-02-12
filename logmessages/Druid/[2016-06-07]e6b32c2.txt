@@ -1,0 +1,1 @@
+  bug fix for getNewNodes() in ListenerDiscoverer (#3092)  

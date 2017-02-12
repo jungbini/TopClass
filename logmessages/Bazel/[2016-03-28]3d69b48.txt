@@ -1,0 +1,1 @@
+  fix passing JVM bootclasspath to proguard now that it's available (was empty before)  -- MOS_MIGRATED_REVID=118394551  

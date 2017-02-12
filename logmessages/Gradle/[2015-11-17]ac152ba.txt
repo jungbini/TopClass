@@ -1,0 +1,1 @@
+  Don't apply legacy decoration to views of managed types.  Added a temporary fix to allow `component.binaries { }` and `component.sources { }` to continue to work.  +review REVIEW-5708  

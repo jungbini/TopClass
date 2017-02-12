@@ -1,0 +1,1 @@
+ Merge branch 'fix-issue-1234'  commit 27570ef7caa07a01eca2277e7192ac32a8633c5e  field statistics component now shows loading indicator and reloads values automatically every 3 seconds  part of #1298, fixes #1275  

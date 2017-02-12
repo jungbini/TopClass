@@ -1,0 +1,1 @@
+  [hg] fix incorrect chunking of revision hash arguments for history command  For hg log command revisions are provided as a list of pairs "-r <revision>". So when spliting long command line arguments into chunks to execute the command on each of them separately "-r" should not be separated with its "<hash>".  

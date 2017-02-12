@@ -1,0 +1,1 @@
+  fixed regression in navigation to entity derived symbols  

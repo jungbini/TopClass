@@ -1,0 +1,1 @@
+  IDEA-59485 SOE during debug with soft wrap enables  

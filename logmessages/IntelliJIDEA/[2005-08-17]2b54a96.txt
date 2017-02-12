@@ -1,0 +1,1 @@
+  fixed resolving/completing anchors in html when the declarations is out of root tag ( IDEADEV-2171)  

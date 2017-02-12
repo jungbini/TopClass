@@ -1,0 +1,1 @@
+  javac ast indices: do not search java direct inheritors for unknown language classes (AssertionError fixed)  

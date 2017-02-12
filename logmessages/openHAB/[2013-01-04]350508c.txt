@@ -1,0 +1,1 @@
+  fixed a few bugs around the color item  

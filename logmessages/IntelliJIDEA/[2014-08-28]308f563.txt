@@ -1,0 +1,1 @@
+  [git] Better fix for IDEA-127139  Better to use default regexps. Just don't escape backslashes to allow escaping like \(

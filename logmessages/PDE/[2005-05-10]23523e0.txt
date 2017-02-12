@@ -1,0 +1,1 @@
+  fixes for undo mess, setting new document obj for each tab  

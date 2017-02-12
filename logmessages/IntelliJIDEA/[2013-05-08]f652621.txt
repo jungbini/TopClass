@@ -1,0 +1,1 @@
+  Bug fix: "Download sources" menu item in the context menu is always disabled.  

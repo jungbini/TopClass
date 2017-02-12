@@ -1,0 +1,1 @@
+  Changed test fixture to verify registry file permissions only on linux and os x.  

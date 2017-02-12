@@ -1,0 +1,1 @@
+  fixed PY-5588 Compatibility inspection: highlight using keyword argument in the list of base classes as errors under py2  

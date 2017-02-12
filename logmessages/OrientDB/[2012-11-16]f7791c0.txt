@@ -1,0 +1,1 @@
+  1. Support of node id as cluster position. 2. Node id tests fix.  

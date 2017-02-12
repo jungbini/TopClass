@@ -1,0 +1,1 @@
+  android(fix) dialog messages, revoke link permission  

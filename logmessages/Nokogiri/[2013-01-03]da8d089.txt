@@ -1,0 +1,1 @@
+  [BUG] Namespace definitions polluted on JRuby  When appending children after setting a prefixed attribute, the parent node has a namespace definition added where the prefix is the name of the previously defined attribute, and the href is the value of that attribute. This is total nonsense and can only be somewhere in the Java implementation.  

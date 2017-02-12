@@ -1,0 +1,1 @@
+  tabs: closing editor with multirow mode fix  

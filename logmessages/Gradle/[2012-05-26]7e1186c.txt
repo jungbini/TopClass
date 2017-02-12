@@ -1,0 +1,1 @@
+  improvements to stack trace filtering for test logging  - added more tests - fixed bugs  

@@ -1,0 +1,1 @@
+  rewrite JavaScriptDebugAware to simplify support evaluate/variable view implement dart quick evaluate initial GWT quick evaluate improve uglified quick evaluate  

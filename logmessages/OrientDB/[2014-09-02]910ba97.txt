@@ -1,0 +1,1 @@
+  Console: minor, fixed issue on log when there are no permission of folders  

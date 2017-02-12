@@ -1,0 +1,1 @@
+  Make annotations-modifiers private and fix some lost usages  It's needed to prevent usages of them as real annotation/type. But we can't remove them, because currently some modifiers are artificially resolved as annotations of those classes.  

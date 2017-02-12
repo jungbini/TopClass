@@ -1,0 +1,1 @@
+  make sources list sorting by message count numerical not alphabetical. fixes #710  

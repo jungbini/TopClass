@@ -1,0 +1,1 @@
+  fixed PY-8025 Enable rest, epytext and doctest highlighting in strings literal assigned to __doc__  

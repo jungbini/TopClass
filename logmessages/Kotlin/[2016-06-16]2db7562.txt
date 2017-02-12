@@ -1,0 +1,1 @@
+  Inspection "can be primary constructor property" with relevant quick-fix #KT-8477 Fixed  

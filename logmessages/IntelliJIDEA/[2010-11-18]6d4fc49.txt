@@ -1,0 +1,1 @@
+  added quick fix tests for Redundant Parentheses, Augment Assignment, Chained Comparisons  

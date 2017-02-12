@@ -1,0 +1,1 @@
+  Undo: fix 'cannot undo dummy file' (IDEA-92378)  

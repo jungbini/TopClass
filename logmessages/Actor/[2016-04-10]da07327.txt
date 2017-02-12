@@ -1,0 +1,1 @@
+ fix(core): handle name and nick changes on GetDiffCombine  

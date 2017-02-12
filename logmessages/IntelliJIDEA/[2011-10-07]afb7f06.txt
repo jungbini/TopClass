@@ -1,0 +1,1 @@
+  fix NPEs in status messages  

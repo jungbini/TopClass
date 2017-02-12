@@ -1,0 +1,1 @@
+  fix duplicate rows being read during mapreduce.  patch by jbellis; reviewed by Jeremy Hanna for CASSANDRA-1042  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.6@965604 13f79535-47bb-0310-9956-ffa450edef68  

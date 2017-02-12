@@ -1,0 +1,1 @@
+  Fixed bug when visible pass finishes after updateAll pass and wipes its results (Pre-Tested Commit)  

@@ -1,0 +1,1 @@
+  another fix for EA-49431 - PEBCE: PersistentEnumeratorBase.<init>  

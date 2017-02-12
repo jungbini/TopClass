@@ -1,0 +1,1 @@
+  RUBY-14125: fixed NPE in jsch. See jsch-ruby-14125.pch for changes  

@@ -1,0 +1,1 @@
+  fixes for Python Mode crashing on startup  

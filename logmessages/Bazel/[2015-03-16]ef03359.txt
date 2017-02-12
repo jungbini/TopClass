@@ -1,0 +1,1 @@
+  Set Bazel TEST_SRCDIR to runfiles root, not inside runfiles prefix.  -- MOS_MIGRATED_REVID=88739509  

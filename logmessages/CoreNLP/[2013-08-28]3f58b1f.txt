@@ -1,0 +1,1 @@
+  fixed unsupFile reading, set AnswerAnnotation and GoldAnswerAnnotation to background symbol  

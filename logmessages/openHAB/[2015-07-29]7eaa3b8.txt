@@ -1,0 +1,1 @@
+  fix issue 2979 (wrong state logged if incompatible type stored in rrd)  Signed-off-by: Jan N. Klug <jan.n.klug@rub.de>  

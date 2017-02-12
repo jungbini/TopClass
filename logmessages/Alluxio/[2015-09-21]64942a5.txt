@@ -1,0 +1,1 @@
+  fixing non-static final variable names  

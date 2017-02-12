@@ -1,0 +1,1 @@
+  IDEA-70843 (fix Hector slider for GTK+ L&F)  

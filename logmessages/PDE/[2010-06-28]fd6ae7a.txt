@@ -1,0 +1,1 @@
+  fixes to make the size() method work properly, other preproc bits  

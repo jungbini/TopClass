@@ -1,0 +1,1 @@
+  SpeedSearch selects wrong item fix (equals/hashCode)  

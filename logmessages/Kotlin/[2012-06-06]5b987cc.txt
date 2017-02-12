@@ -1,0 +1,1 @@
+  when calling function stored in local variable as unary operation, don't forget to push function instance (KT-1953) I'm sure that there are similar cases that still don't work;  please let me know if you find any #KT-1953 fixed  

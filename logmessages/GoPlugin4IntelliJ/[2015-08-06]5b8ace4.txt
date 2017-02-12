@@ -1,0 +1,1 @@
+ Merge pull request #1797 from eugene-auduchinok/new_func_template_fix  Better new function template  commit 5b8ace40de599de5312860ae6b2b98f360f69586  Do not add quickfixes without editor  

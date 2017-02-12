@@ -1,0 +1,1 @@
+  [STORM-1532]: Fix readCommandLineOpts to parse JSON correctly  In Windows env, the storm.options are not url-encoded. The parsing logic needs to be fixed to not split in the middle of raw JSON objects.  

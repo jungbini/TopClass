@@ -1,0 +1,1 @@
+  TestFifoScheduler and related fixes in app/container/scheduler.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/MR-279@1153439 13f79535-47bb-0310-9956-ffa450edef68  

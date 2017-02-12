@@ -1,0 +1,1 @@
+  HgAnnotation: return null instead of empty string for invalid cases, fix formatting.  

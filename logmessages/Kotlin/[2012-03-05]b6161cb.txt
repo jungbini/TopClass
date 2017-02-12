@@ -1,0 +1,1 @@
+  Bug with wrong 'anonymous initializer without constructor' fixed  

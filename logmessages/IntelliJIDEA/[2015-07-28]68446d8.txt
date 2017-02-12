@@ -1,0 +1,1 @@
+  from non-project non-library (e.g. light) files, resolve in allScope (fixes GeneratorTest)  

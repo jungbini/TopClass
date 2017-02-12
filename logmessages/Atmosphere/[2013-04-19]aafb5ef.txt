@@ -1,0 +1,1 @@
+  Fix for #865 Refactor/Re-implement BroadcasterCache API  + deprecate after/before filter => use BroadcastCacheInterceptor instead + deprecate HeaderBroadcasterCache because it worn't work with IE + CORS. It still works, and fixes #923  

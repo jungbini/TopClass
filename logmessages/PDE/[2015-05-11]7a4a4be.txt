@@ -1,0 +1,1 @@
+  rewrite simplifier to use the language functions and fix #3268  

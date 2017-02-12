@@ -1,0 +1,1 @@
+  FFI port of 34a14242 (fix for #252)  

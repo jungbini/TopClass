@@ -1,0 +1,1 @@
+  When there is no return statement at the end of function, provide 2 quick fixes, one to remove function result, the other is to add return statement.  

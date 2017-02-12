@@ -1,0 +1,1 @@
+  Remove debug artifacts in study code highlighting  

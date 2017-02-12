@@ -1,0 +1,1 @@
+  implement focused, focusGained(), focusLost() in OpenGL (fixes #3564)  

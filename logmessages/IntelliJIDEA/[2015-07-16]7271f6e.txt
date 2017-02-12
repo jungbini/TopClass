@@ -1,0 +1,1 @@
+  Emmet: perform quotes replacement after adding attributes  #WEB-17215 fixed  

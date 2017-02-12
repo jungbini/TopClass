@@ -1,0 +1,1 @@
+  Add debugging info when making java class files.  

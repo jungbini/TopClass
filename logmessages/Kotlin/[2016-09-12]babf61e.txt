@@ -1,0 +1,1 @@
+  Minor: message fixed in diagnostics test  

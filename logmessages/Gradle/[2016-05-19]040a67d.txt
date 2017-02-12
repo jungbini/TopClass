@@ -1,0 +1,1 @@
+  Attempt to fix `ApplyPluginIntegSpec` by propagating native dir to compile and test processes  

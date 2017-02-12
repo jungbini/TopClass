@@ -1,0 +1,1 @@
+  Renamed DefaultModuleComponentIdentifier.name field and fixed places where it was being referenced directly from Groovy code.  

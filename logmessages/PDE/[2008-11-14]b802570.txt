@@ -1,0 +1,1 @@
+  fix problem with svg polygons not drawing (bug #1005)  

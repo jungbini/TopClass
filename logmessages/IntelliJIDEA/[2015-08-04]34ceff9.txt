@@ -1,0 +1,1 @@
+  fixed EDU-382 Change call to module.getComponent() in StudyProjectComponent#getInstance  

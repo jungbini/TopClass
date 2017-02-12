@@ -1,0 +1,1 @@
+  do not create empty configuration dirictories + fix codestylesettings manager to not write default state  

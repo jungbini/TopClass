@@ -1,0 +1,1 @@
+  1. update junit to 4.10. 2. add log4j.properties to configuration. 3. upgrade unit tests to junit 4. 5. change config output to debug level.  

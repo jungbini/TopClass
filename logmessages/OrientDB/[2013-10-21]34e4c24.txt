@@ -1,0 +1,1 @@
+ Date indexing issue reported by Michael Campbell was fixed.  

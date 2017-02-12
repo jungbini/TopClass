@@ -1,0 +1,1 @@
+  provide local quick fixes for default highlighting inspection if possible  

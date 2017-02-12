@@ -1,0 +1,1 @@
+  fixed issue #4328 - SQL parse error using CLUSTER  

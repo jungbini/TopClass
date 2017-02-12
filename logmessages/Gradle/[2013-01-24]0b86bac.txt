@@ -1,0 +1,1 @@
+  Add section for distribution plugin to release notes; more fixes on userguide chapter.  

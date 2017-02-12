@@ -1,0 +1,1 @@
+  #535 Shows detail error message when web controller meets any exception.  fix method with missing return statement.  

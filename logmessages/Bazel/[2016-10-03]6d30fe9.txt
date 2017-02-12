@@ -1,0 +1,1 @@
+  Fix non-deterministic bug in locking of iterable values  The bug is due to hash collisions where an absolute identity comparison is needed.  -- MOS_MIGRATED_REVID=134976540  

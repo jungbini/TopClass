@@ -1,0 +1,1 @@
+  replace IPartitioner.getDecoratedKeyComparator with DK.compareTo, fixing NPE that was fixed in the latter but not the former.  patch by jbellis; reviewed by Stu Hood and tested by Dan Di Spaltro  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.5@889497 13f79535-47bb-0310-9956-ffa450edef68  

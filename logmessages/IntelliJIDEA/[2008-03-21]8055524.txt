@@ -1,0 +1,1 @@
+  added diagnostics for corrupt debug info (Unexpected JDWP error 35)  

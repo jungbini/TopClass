@@ -1,0 +1,1 @@
+  fix AbstractBytecodeTextTest: read expected file with UTF-8 encoding  

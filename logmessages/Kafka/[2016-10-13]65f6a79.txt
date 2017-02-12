@@ -1,0 +1,1 @@
+  KAFKA-4300: NamedCache throws an NPE when evict is called and the cache is empty  If evict is called on a NamedCache and the cache is empty an NPE is thrown. This was reported on the user list from a developer running 0.10.1.  Author: Damian Guy <damian.guy@gmail.com>  Reviewers: Eno Thereska, Matthias J. Sax, Guozhang Wang  Closes #2024 from dguy/cache-bug  

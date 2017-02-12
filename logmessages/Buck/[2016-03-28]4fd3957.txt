@@ -1,0 +1,1 @@
+  ProjectFilesystem: fix zipping up symlinks  Summary:Previously, we'd set the permissions correctly to store a file as a symlink, but we'd still store the file contents rather than the symlink target.  Test Plan: added test  Reviewed By: yiding  fb-gh-sync-id: e90a6bc fbshipit-source-id: e90a6bc  

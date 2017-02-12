@@ -1,0 +1,1 @@
+  fix order in asset packaging (app assets should override lib ones)  

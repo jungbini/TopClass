@@ -1,0 +1,1 @@
+  fix - update is now posted to the ItemRegistry directly and not through the EventBus, as this caused double event handlings in KNX-Binding for example  

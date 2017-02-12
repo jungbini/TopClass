@@ -1,0 +1,1 @@
+  STORM-511 fix updating internal state of PartitionManager  

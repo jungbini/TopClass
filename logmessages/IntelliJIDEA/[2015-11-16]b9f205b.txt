@@ -1,0 +1,1 @@
+ Use TypeEvalContext.userInitiated() for replace tuple with list quickfix (PY-15558)  The default type evaluation context doesn't allow to perform proper follow assignments chain even for AST-based trees now (which is consistent with stub-based trees). We have to specify the appropriate context manually.  

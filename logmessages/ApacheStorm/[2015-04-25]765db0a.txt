@@ -1,0 +1,1 @@
+  fix log presentation: (str nil) is empty string, (pr-str nil) is "nil"  

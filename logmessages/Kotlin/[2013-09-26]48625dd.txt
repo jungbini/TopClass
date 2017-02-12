@@ -1,0 +1,1 @@
+  Disallowed using type parameter as reified type argument.  #KT-3050 fixed  

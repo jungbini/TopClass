@@ -1,0 +1,1 @@
+  Added some int test coverage for cancellation during configuration phase when configure on demand is on, and a quick fix to make these tests pass.  

@@ -1,0 +1,1 @@
+  fix gem building to use new dependency structure  

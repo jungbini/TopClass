@@ -1,0 +1,1 @@
+  NPE in fsnotifier fixed (now moved to the right dir)  

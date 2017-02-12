@@ -1,0 +1,1 @@
+  fix(web): fix text overflow in user and gourd profile name in activity  

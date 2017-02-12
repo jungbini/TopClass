@@ -1,0 +1,1 @@
+ fixed PY-5930 Rename quickfix "Statement can be replaced with function call"  

@@ -1,0 +1,1 @@
+  fixed PY-6068 "No nosetest runner found in selected interpreter" should have quickfix to install nose  

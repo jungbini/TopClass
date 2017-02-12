@@ -1,0 +1,1 @@
+  Groovy: Completion map key: bug fix.  

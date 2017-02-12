@@ -1,0 +1,1 @@
+  Fix problems with the @Immutable annotation  Summary: Fixed classes that were marked as @Immutable but clearly weren't  Test Plan: unit tests, re-run findbugs  

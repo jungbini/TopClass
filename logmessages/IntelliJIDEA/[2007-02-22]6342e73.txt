@@ -1,0 +1,1 @@
+  better fix for IDEADEV-14743 [#4287] AE: EclipseProjectImporter$EclipseModuleConverter.a  

@@ -1,0 +1,1 @@
+  fix a deadlock when waiting under write action for the FileStatus class to be loaded by another thread, which attempts to initialize a service in <clinit> and requires a read action  

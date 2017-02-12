@@ -1,0 +1,1 @@
+  IDEA-111965 (Inspection 'equals() called on Enum value: Quick fix breaks compilation)  

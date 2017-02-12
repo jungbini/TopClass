@@ -1,0 +1,1 @@
+  add inline debugger color settings labels to options bundle  

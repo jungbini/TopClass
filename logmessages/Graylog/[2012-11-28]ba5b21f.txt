@@ -1,0 +1,1 @@
+  cleaned up. removed message stats on top  fixes #WEBINTERFACE-381  

@@ -1,0 +1,1 @@
+  Add whitespace replacement and prefix options to JSON extractor (#2481)  * Add JSON extractor option to replace whitespace in message keys  Fixes #2434  * Add JSON extractor option to add static prefix to every message key  Fixes #1646  * Disable whitespace replacement input when replacement is disabled  * Modify texts trying to add more context  

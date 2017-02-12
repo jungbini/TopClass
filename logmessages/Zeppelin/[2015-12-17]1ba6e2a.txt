@@ -1,0 +1,1 @@
+fixed grammar caf65e5 [Jungtaek Lim] fix typo / grammar from rest-notebook.md  

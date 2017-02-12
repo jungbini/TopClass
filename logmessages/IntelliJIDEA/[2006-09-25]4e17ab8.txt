@@ -1,0 +1,1 @@
+  fix blocker: IDEADEV-10027 ('Relative path to resources outside module/project dir' option is ignored)  

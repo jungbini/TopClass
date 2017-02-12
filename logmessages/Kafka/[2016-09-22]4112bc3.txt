@@ -1,0 +1,1 @@
+ 30 seconds might be too large in some cases, e.g., when the verifier finishes before those 30 seconds have elapsed.  Author: Eno Thereska <eno.thereska@gmail.com>  Reviewers: Damian Guy, Guozhang Wang  Closes #1899 from enothereska/hotfix-smoke-test-commit-interval  

@@ -1,0 +1,1 @@
+  Fixed bug in HTTP out binding when processing decimal types  

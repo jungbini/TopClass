@@ -1,0 +1,1 @@
+  refresh html5 schema #IDEA-122531 fixed  

@@ -1,0 +1,1 @@
+  javasvn update: possible livelock on update fixed build.xml target that deploys javasvn.jar makes full rebuild now  

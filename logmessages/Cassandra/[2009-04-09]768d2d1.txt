@@ -1,0 +1,1 @@
+  Clean up FileStruct API and fix key decoration bug in anticompaction.  patch by jbellis; reviewed by Jun Rao for #67  Also fix calls to isKeyInRanges in anticompaction.  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@763820 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Use local Maven installation for Maven conversion tests.  Improves isolation of the test as it fixes for example a problem where $HOME/.m2/settings.xml declares repository that requires authentication.  

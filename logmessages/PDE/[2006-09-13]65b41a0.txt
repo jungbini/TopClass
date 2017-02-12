@@ -1,0 +1,1 @@
+  fix issues with bad sketch names, improve error checking  

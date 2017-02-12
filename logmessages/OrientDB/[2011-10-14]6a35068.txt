@@ -1,0 +1,1 @@
+  Contribution by Andrey about a bug on HTTP POST of document  

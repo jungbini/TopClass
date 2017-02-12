@@ -1,0 +1,1 @@
+  fixed PY-14304 IPython Notebook: markdown cells in newly created files are not rendered properly  

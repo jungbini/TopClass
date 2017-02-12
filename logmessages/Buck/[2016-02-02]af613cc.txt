@@ -1,0 +1,1 @@
+  Use pathToSrcsList in GroovycStep (fixes #629)  Summary: Previously we ignored the provided path, but it turns out groovyc does support it, so let's be the same as everyone else.  Test-plan: CI Closes https://github.com/facebook/buck/pull/637  Reviewed By: sdwilsh  fb-gh-sync-id: a4b0a52  

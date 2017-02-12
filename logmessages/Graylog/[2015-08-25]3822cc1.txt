@@ -1,0 +1,1 @@
+  print more details about raw messages containing illegal payload  - esp print journal offset, codec name, the remote address if available and the actual root cause to aid debugging - both in online processing as well as the decode journal cli tool  fixes #1059  

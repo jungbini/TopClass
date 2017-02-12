@@ -1,0 +1,1 @@
+  get font from base label #IDEA-88300 fixed  

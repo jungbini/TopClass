@@ -1,0 +1,1 @@
+  Make unit test run faster, fix javadoc, fix scan merge error, and remove unused variable   git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@944530 13f79535-47bb-0310-9956-ffa450edef68  

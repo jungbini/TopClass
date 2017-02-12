@@ -1,0 +1,1 @@
+  fix handling of zero-length arrays in min() and max()  

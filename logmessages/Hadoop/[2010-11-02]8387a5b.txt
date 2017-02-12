@@ -1,0 +1,1 @@
+  HBASE-3181 Review, document, and fix up Regions-in-Transition timeout logic  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1029938 13f79535-47bb-0310-9956-ffa450edef68  

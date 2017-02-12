@@ -1,0 +1,1 @@
+  [Git] IDEA-59587 again. Moved New files are marked as not changed.  Root cause: comparing VirtualFiles when identifying who is the ancestor, while VirtualFile has changed due to the file move. 1. Don't work with FilePaths - instead compare paths as Strings sorted lexicographically. This might leave extra paths, but it's faster. 2. Add a test for the bug.  [Reviewed by Max]  

@@ -1,0 +1,1 @@
+  GRADLE-1580. Added a workaround to fix the problem with cyclic dependencies between core<->coreImpl that were causing grief the eclipse users.  

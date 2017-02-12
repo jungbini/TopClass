@@ -1,0 +1,1 @@
+  Fixed bug in PreprocessingReader that introduced null characters to the beginning of stream.  

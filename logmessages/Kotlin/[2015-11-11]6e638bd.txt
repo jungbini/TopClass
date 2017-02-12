@@ -1,0 +1,1 @@
+  Debugger: show line content instead of method content for breakpoint at line in drop-donw list  

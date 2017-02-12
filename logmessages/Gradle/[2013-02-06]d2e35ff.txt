@@ -1,0 +1,1 @@
+  Another attempt to fix test on windows - org.apache.maven.project.MavenProject.writeModel() uses platform line separators  

@@ -1,0 +1,1 @@
+  remove fine-grained log level control, styling  fixes #201  

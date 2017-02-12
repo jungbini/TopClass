@@ -1,0 +1,1 @@
+  Fix NPE in DebuggerUtils #EA-69703 - assert: DebuggerUtils.analyzeElementWithInline  

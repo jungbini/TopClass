@@ -1,0 +1,1 @@
+  IDEA-47090    Groovy Editor: Add inspection/quick fix to rename file to match class name, create new file with class name  

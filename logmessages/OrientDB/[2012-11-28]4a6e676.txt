@@ -1,0 +1,1 @@
+  Server HTTP protocol: fixed GET query command with nested elements that require an active connection  

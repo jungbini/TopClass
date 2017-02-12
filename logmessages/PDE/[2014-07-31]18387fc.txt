@@ -1,0 +1,1 @@
+  set alpha channel to opaque after blitting the multisampled FBO, which fixes #2679  

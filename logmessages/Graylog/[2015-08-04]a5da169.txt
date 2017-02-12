@@ -1,0 +1,1 @@
+  Log exceptions in the netty channel pipeline  This will help debugging channel handler problems in the future.  

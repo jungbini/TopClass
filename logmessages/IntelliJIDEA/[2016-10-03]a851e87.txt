@@ -1,0 +1,1 @@
+  IDEA-161976 ui: fix default `JBTable.getPreferredScrollableViewportSize` on HiDPI  

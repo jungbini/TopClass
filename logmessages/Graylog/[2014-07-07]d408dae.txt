@@ -1,0 +1,1 @@
+  Don't use appPrefixed function on disconnected.js  Although we should change where appPrefixed is defined if we need to apply the function more than once in disconnected.js. Fixes #813.  

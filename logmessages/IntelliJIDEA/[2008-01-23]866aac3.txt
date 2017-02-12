@@ -1,0 +1,1 @@
+  fix IAE on inline of local class (IDEADEV-20753)  

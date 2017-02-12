@@ -1,0 +1,1 @@
+  added return new value in changeVariable of python debug  

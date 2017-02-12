@@ -1,0 +1,1 @@
+  fixed comma selection handler (to select comma in function definition and function call)  

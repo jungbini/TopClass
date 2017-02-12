@@ -1,0 +1,1 @@
+  [NTI] Hacky fix for NTI bug when joining with empty object literal.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=138196139  

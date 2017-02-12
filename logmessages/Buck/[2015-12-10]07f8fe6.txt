@@ -1,0 +1,1 @@
+  Easy: Hook up java_test support for reporting test logs  Summary: This is a follow-up to `Support multiple test log paths, print each path on test success`.  In that 

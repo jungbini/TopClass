@@ -1,0 +1,1 @@
+  fix+refactor(web): fix focus on fast switcher input, rename some functions.  

@@ -1,0 +1,1 @@
+  do not load next recommendation if button is not enabled  believe this fixes EDU-711 Adaptive Python course works unexpectedly and hangs  

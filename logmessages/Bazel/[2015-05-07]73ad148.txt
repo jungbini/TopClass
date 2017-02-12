@@ -1,0 +1,1 @@
+  Switch to stat64/lstat64  Better fix for #174.  -- MOS_MIGRATED_REVID=93045666  

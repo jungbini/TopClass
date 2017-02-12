@@ -1,0 +1,1 @@
+ Merge pull request #4015 from gohai/serial-fixes  Serial fixes  commit a1bd7181d88d7611aeb0aaa6427f496b9bac290e  Merge pull request #4023 from erniejunior/master  Improved fix for Issue #4017 where tweak mode ignores some numbers in a second tab  commit afc8b8b8fdd0d563b4a3f7a3740bf09161a494b2  deal with NPE inside CM deleteTemp() function (fixes #4026)  

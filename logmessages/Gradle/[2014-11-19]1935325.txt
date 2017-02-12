@@ -1,0 +1,1 @@
+  ignore playrun integrationstests for now till flakyness is fixed  

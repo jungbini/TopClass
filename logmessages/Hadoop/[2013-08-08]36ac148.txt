@@ -1,0 +1,1 @@
+  HADOOP-9315. Port HADOOP-9249 hadoop-maven-plugins Clover fix to branch-2 to fix build failures. Contributed by Dennis Y.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1512096 13f79535-47bb-0310-9956-ffa450edef68  

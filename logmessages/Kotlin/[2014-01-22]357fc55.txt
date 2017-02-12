@@ -1,0 +1,1 @@
+  KT-4456 Generated wrong bytecode when Kotlin class inherited from Java Interface with method which have SAM type argument  #KT-4456 fixed  

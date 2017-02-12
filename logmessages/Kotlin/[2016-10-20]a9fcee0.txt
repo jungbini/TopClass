@@ -1,0 +1,1 @@
+  Support single-underscore named variables in JVM backend  There are mainly two kind of changes: - skipping 'componentX' calls for destructuring entries named _ - fixing local variable table for them - skip entries for destructuring entries named _ - use $noName_<i> format for lambda parameters named _  #KT-3824 Fixed #KT-2783 Fixed  

@@ -1,0 +1,1 @@
+  fixed issue with navigation to entity ref decl and completion of system entities  

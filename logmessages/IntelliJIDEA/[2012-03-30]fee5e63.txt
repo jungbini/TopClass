@@ -1,0 +1,1 @@
+  force debugger toolbar updates on debugger events (IDEA-83608 buttons in wrong state)  

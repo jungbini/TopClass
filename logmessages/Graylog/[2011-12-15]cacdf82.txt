@@ -1,0 +1,1 @@
+  shell ported to elasticsearch and passing all test  \o/ - fixes #WEBINTERRFACE-141  

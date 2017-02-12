@@ -1,0 +1,1 @@
+  Kapt3: Use annotation processor options from variant data options. This fixes DataBinding on Android Gradle plugin 2.3 (KT-14816)  

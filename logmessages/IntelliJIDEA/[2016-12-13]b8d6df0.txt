@@ -1,0 +1,1 @@
+  Temporary disable pyqt environment on windows until plugin fix  

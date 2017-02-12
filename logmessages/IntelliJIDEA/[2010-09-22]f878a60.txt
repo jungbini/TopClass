@@ -1,0 +1,1 @@
+  fix target element detection for Inline Local (PY-1585); rewrite test so that it doesn't introduce logic which is not there in production  

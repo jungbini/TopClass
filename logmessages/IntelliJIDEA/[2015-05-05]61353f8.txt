@@ -1,0 +1,1 @@
+  PY-15272 Numpy: comparison operations on arrays should return array, not bool  fixed for the binary operators, need work for the augmented assignment  

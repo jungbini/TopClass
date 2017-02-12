@@ -1,0 +1,1 @@
+  fix groovy reparse leaving error elements when changing from multiline string into a normal one after a method with an unfinished method call the newlines should be mNLS, not WHITESPACE  

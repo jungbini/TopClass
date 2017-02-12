@@ -1,0 +1,1 @@
+  fixed PY-8165 Running individual tests fails with pytest 2.3.4  

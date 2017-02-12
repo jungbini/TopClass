@@ -1,0 +1,1 @@
+  HADOOP-6243. Updating Common and Mapreduce jars fixing an NPE in handling deprecated keys. Contributed by Sreekanth Ramakrishnan.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hdfs/trunk@812572 13f79535-47bb-0310-9956-ffa450edef68  

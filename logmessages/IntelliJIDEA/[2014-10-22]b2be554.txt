@@ -1,0 +1,1 @@
+  IDEA-131685 Cleanup code quick fix / Settings: focus does not go into Inspection dialog  

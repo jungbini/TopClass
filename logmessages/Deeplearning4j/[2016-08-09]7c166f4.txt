@@ -1,0 +1,1 @@
+  fix for possible lock-out of async iterator  

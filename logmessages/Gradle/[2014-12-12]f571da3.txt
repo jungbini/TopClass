@@ -1,0 +1,1 @@
+  get rid of extra defaultFacets method in EclipseWtpFacet  instead fix facet(Closure) method  +review REVIEW-5305  

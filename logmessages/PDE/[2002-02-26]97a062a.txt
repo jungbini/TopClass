@@ -1,0 +1,1 @@
+  first pile of fixes to bagel api  

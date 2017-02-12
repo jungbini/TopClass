@@ -1,0 +1,1 @@
+  fix test cases for pull request #92: Parse key=values even with whitespace around the equals sign. Prevent ArrayOutOfBounds exception.  add TestAppender class to check for logged statements  

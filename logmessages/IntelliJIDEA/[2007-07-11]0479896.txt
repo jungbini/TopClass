@@ -1,0 +1,1 @@
+  deadlock fix: avoid unnecessary read actions to check if file is under project (IDEADEV-18777)  

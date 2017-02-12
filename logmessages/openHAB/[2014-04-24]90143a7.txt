@@ -1,0 +1,1 @@
+  fixed spelling mistake in one-wire binding filter configuration  

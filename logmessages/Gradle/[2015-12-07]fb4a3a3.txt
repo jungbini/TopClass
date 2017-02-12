@@ -1,0 +1,1 @@
+  Refactor NTLM test fixture to use connection-level authentication  - NTLM authenticates at the connection level, not at the session - This refactor more realistically mimics actually NTLM implementations - Tests will now fail if Keep-Alive isn't being set on the request when using NTLM auth  +review REVIEW-5736  

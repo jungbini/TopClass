@@ -1,0 +1,1 @@
+  fixed default fatch plan for avoid ridbag load, issue #4678  

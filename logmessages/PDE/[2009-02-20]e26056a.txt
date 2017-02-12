@@ -1,0 +1,1 @@
+  fix problem where p5 wouldn't start due to color choice (bug #1109)  

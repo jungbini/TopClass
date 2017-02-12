@@ -1,0 +1,1 @@
+ minor API fix. Add activation etc to every layer including pooling layer  

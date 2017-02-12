@@ -1,0 +1,1 @@
+  Allow undefined instead of null in window.indexedDB, take 2.  Now with upgrader_test.js fixed.  RELNOTES: n/a  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=141289133  

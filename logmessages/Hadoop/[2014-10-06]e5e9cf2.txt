@@ -1,0 +1,1 @@
+  HDFS-7169. Add SE_BAD_FIELD to findbugsExcludeFile.xml.  

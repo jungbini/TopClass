@@ -1,0 +1,1 @@
+  MINOR: Fixes javadoc of Windows, fixes typo in parameter name of KGroupedTable  Author: Michael G. Noll <michael@confluent.io>  Reviewers: Damian Guy, Ismael Juma, Guozhang Wang  Closes #1823 from miguno/trunk-windowed-javadocs  

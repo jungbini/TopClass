@@ -1,0 +1,1 @@
+  Minor: fixed a type in Javadoc  

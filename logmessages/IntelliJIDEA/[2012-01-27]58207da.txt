@@ -1,0 +1,1 @@
+  p4 integration should handle file move regardless of its cached file status, more debugging  

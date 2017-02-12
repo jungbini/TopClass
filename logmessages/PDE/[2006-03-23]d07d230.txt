@@ -1,0 +1,1 @@
+  fix endian check to avoid security exception  

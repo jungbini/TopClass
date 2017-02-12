@@ -1,0 +1,1 @@
+  fixed issue on log without requester (console)  

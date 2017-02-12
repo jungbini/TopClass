@@ -1,0 +1,1 @@
+  unused declaration: patterns fix (IDEA-160807)  

@@ -1,0 +1,1 @@
+  Changed level from warn to debug if tools jar can't be found (To make the Mac users happy).  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@879 004c2c75-fc45-0410-b1a2-da8352e2331b  

@@ -1,0 +1,1 @@
+  GRADLE-2238: Some cleanups - Change jarjar as prefix for jarjared packages - Cleanup maven3 settings builder dependency in build.gradle. - Give test a better name. - Fix exception handling for CannotLocateLocalMavenRepositoryException.  

@@ -1,0 +1,1 @@
+  Issue #2721: fixed bug on ALTER DATABASE command  

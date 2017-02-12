@@ -1,0 +1,1 @@
+  Pig: fix duplicate schema alias Patch by Alex Liu, reviewed by brandonwilliams for CASSANDRA-6309  

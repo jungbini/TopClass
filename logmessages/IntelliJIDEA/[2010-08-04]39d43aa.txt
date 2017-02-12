@@ -1,0 +1,1 @@
+  SVN: store username bug (when ssh , username is asked)  

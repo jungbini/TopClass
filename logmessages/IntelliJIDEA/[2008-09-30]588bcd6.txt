@@ -1,0 +1,1 @@
+  ant generation: Fixed bug with output detection (now runtime classpath is generated when Gwt plugin is not set for the module)  

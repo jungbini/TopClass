@@ -1,0 +1,1 @@
+  Little fix: 'redundant modifier in trait' instead of 'redundant abstract' error  

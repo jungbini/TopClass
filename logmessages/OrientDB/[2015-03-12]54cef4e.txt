@@ -1,0 +1,1 @@
+  New test case for distributed bug #3690 (already fixed few hours ago)  

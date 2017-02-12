@@ -1,0 +1,1 @@
+  Refactored "Change to constructor invocation" and new "Add constructor parameters and use them" quickfixes into one factory, making the first one always available  

@@ -1,0 +1,1 @@
+for JDBC Interpreter fc9bf55 [CloverHearts] print test case result value. dfa4769 [CloverHearts] JDBC Completion test case - fixed size 98c1cef [CloverHearts] Added JDBC Interpreter completion test case. 498975e [CloverHearts] bug fixed autocompletion for jdbc interpreter  

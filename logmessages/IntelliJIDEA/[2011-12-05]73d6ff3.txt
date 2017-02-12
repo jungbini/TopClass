@@ -1,0 +1,1 @@
+  Git push over HTTP: fix push to alternative branch  Form push spec in the "source:target" format and pass it to PushCommand. [Reviewed by irengrig]  

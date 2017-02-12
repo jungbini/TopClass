@@ -1,0 +1,1 @@
+  fix(server): bump dialog method; some cleanup in history methods  

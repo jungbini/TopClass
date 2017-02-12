@@ -1,0 +1,1 @@
+  C/C++: fix `force_static` for prebuilt C/C++ libraries  Summary: This fixes it when used with the `NativeLinkable.getSharedLibraries()` and `PythonPackagable.getPythonPackageComponents()` methods.  Test Plan: update unittest  

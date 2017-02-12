@@ -1,0 +1,1 @@
+  fixed 'create jar from modules' action for maven projects  

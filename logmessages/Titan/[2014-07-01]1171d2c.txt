@@ -1,0 +1,1 @@
+  Debugging tweaks around LinkMapReduce  Adding some log messages, including one that dumps the entire job config when LinkMapReduce is missing a required config key.  Also added a precondition in the HadoopPipeline method that implements link steps.  

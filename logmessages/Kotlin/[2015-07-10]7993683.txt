@@ -1,0 +1,1 @@
+  KT-6877 Wrong unused function inspection on anonymous object member  #KT-6877 fixed  

@@ -1,0 +1,1 @@
+  fix broken hostgroup stuff after mongoid merge  

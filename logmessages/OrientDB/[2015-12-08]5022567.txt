@@ -1,0 +1,1 @@
+  fixed bug on merge with null values, issue #4726  

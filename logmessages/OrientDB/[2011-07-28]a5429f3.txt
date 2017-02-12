@@ -1,0 +1,1 @@
+  GraphDB: fixed a typo reported by Chris in the ML. Current element was never an edge but only vertexes was considered  

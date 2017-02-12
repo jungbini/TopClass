@@ -1,0 +1,1 @@
+  give reader users permission to saved searches  also adds permission checks in the templates, basically everyone has those permissions now.  fixes Graylog2/graylog2-web-interface#545  

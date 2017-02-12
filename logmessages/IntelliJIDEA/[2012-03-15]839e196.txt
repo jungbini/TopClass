@@ -1,0 +1,1 @@
+  fixed PY-5967 manage changepassword broken according to new helpers path (helpers/pycharm)  

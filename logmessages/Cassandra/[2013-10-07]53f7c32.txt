@@ -1,0 +1,1 @@
+  fix merge from #6132 patch by jbellis; reviewed by brandonwilliams for CASSANDRA-6154  

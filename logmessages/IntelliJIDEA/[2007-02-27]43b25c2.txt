@@ -1,0 +1,1 @@
+  EP for Subversion VCS; assorted fixes to enable "browse repository" and "import to svn" when no project is open (IDEADEV-14908)  

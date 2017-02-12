@@ -1,0 +1,1 @@
+ testng configuration editor: generify and fix editor sizes (IDEA-140583)  

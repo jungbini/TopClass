@@ -1,0 +1,1 @@
+  fix(web): use actions for binding to my profile changing  

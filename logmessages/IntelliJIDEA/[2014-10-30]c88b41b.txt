@@ -1,0 +1,1 @@
+  fixed EDU-263 Python 3.2 interpreter cause wrong answer been accepted (because of exception in import)  

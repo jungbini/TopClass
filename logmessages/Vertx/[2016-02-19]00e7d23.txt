@@ -1,0 +1,1 @@
+  fix to completer impl to actually fail the Future  Signed-off-by: Joydip Basu <joydawg@gmail.com>  

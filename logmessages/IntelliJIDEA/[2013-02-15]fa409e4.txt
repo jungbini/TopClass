@@ -1,0 +1,1 @@
+  persistent fs fixes: - fixed multiple instances of JarRoot exception with the same id - fixed multiple instances of the root which 

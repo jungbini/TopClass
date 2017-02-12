@@ -1,0 +1,1 @@
+  fix(iOS) :some fixes for project settings  

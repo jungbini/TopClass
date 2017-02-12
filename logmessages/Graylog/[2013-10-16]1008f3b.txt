@@ -1,0 +1,1 @@
+  Fixing a bug that prevents two inputs of the same type being spawned if they are using metrics to track connection counts. In those cases the metric name being used for registration is not unique for the input, so the second input is getting an exception when launch() is called.  

@@ -1,0 +1,1 @@
+  Some fixes for interactive child processes: - Flush data read from child process' stdout and stderr as soon as it is read. - Disconnect from the provided input stream once the child process exits.  

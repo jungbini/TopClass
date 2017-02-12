@@ -1,0 +1,1 @@
+  ability to plug-in custom CodeFragmentFactory to debugger evaluator  

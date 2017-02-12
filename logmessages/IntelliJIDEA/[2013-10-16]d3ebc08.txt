@@ -1,0 +1,1 @@
+l format (subject + two newlines + body, with newlines skipped if the body is empty).  Join commit messages if user is amending commit in several roots at once. Maybe that's not what he wants (separate commits with separate commit messages would be preferably), but let's keep it like that for now.  (cherry picked from commit 38f3dc4b743c4f51d05fe633fd4d34a6d6fb5220)  

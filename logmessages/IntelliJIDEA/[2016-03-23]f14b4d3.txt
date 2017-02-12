@@ -1,0 +1,1 @@
+  PY-18291 Python console fixed for Docker interpreter based on UNIX file socket  Docker machine should not be used. UNIX file socket URL in Docker settings must be defined directly.  

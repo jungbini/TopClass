@@ -1,0 +1,1 @@
+e0d79c1fa15a0302bda70027e Author: Lennart Koopmann <lennart@socketfeed.com> Date:   Sat Mar 2 21:40:55 2013 +0100  finished masterbuffers  commit 58ce0b747166e1988a90c96f4d1e935f0202a46a Author: Lennart Koopmann <lennart@socketfeed.com> Date:   Sat Mar 2 18:04:57 2013 +0100  current state of masterbuffer development  

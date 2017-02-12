@@ -1,0 +1,1 @@
+  svg fixes, font work, issue 350, issue 130, copying to android  

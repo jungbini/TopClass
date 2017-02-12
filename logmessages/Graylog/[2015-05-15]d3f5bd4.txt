@@ -1,0 +1,1 @@
+  more stream search fixes  - display stream name in sidebar - search bar now sticks to the stream we search in - the entire stream description is being passed in, instead of just the id  

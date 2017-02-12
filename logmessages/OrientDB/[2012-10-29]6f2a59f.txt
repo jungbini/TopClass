@@ -1,0 +1,1 @@
+  Fixed bug on using array [] in projections: reduced code, improved it and 1 new test case  

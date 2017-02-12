@@ -1,0 +1,1 @@
+  Install ffitarget.h in $prefix/include.  

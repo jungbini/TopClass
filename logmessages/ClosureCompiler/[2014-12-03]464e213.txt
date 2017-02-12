@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE] Handle @this in function jsdocs.  - Move function-jsdoc code from GlobalTypeInfo to JSTypeCreatorFromJSDoc. - Use ownerType only to mean "polymorphic method", not to look up type variables. - Bugfix for NominalType unification. - Bugfix for @nosideeffects in jsdoc. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=81273296  

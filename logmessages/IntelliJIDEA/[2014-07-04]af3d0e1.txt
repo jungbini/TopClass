@@ -1,0 +1,1 @@
+  PY-13180 Pycharm 3.4: Right mouse click on selected text inside unicode string hangs out IDE interface for 20-30 seconds: Performance fix #3  

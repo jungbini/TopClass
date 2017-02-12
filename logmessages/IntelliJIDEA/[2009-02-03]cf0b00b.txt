@@ -1,0 +1,1 @@
+  fixed endless loop involving getNextSibling()  

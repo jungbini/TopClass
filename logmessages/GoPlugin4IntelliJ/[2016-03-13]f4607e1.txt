@@ -1,0 +1,1 @@
+  Clear cache on changing settings + fix updating notification panels on changing build tags  

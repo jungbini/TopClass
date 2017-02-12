@@ -1,0 +1,1 @@
+  Modules renamed to fix PY-16054.  This issue should be fixed by creating separate package, moving everything to it and running modules with "-m". This is under discussion now.  

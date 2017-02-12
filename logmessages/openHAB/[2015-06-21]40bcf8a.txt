@@ -1,0 +1,1 @@
+ Merge pull request #2777 from khendricks/add-lfm20-contact-fixture  Add Linear FS20Z fixture module to database  commit 40bcf8a4a6729d2d8a449080686cd11461ad9676  Add Linear FS20Z fixture module to database  

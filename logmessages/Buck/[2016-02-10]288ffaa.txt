@@ -1,0 +1,1 @@
+  python: fix PEX executor when pointing to a rule  Summary: - Make sure to add the build target to parse time deps. - For tests, export all the binary's executable commands deps as runtime deps, as they all need to be present to run.  Test Plan: added unittests  Reviewed By: Coneko, sdwilsh  fb-gh-sync-id: 98925ca shipit-source-id: 98925ca  

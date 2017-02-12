@@ -1,0 +1,1 @@
+  GRADLE-2255: Implemented first cut of a fix based on decorating the CachePolicy  - new cache policy checks other repos for cached information - todo remove ivy classes in our API (replace new introduced reference of org.apache.ivy.core.module.id.ModuleRevisionId from CachePolicy interface)  

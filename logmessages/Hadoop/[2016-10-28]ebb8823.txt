@@ -1,0 +1,1 @@
+  HADOOP-10075. addendum to fix compilation on Windows  

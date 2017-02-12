@@ -1,0 +1,1 @@
+  Work around the Javadoc failure in JDK 8  Motivation:  Since JDK 1.8, javadoc has enabled a new feature called 'doclint', which fails the build when javadoc has markup problems and more.  Modifications:  Do not fail the build until we fix our API documentation.  Result:  No more build failure because of malformed Javadoc  

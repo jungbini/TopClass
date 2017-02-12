@@ -1,0 +1,1 @@
+  Start plugins wizard #22 fix Windows-specific exceptions (non-initialized Alloy license & NPE during Darcula initialization)  

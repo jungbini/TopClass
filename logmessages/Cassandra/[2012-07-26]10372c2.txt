@@ -1,0 +1,1 @@
+  cqlsh: fix problem describing pre-cql3 CFs that are case-sensitive Patch by paul cannon reviewed by brandonwilliams for CASSANDRA-4385  

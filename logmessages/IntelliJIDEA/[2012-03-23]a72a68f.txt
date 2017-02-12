@@ -1,0 +1,1 @@
+  attempt to fix IDEA-83378 (Not possible to cycle through project windows)  

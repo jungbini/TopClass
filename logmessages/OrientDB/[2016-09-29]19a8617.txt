@@ -1,0 +1,1 @@
+  Console: fixed repair of graph in case of record not found and improvements on output  

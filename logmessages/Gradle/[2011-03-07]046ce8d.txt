@@ -1,0 +1,1 @@
+  housekeeping after code review:  -Got rid of an unnecessary interface -Stopped exposing configurer to the task users -fixed various small groovy mistakes (redundant defs, it->, etc.) -reduced duplication in some tests  

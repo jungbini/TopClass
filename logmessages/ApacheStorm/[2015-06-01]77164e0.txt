@@ -1,0 +1,1 @@
+  fix the dismatch between doc and source code in function read-all-supervisor-details  

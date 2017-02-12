@@ -1,0 +1,1 @@
+  disable one value per file validation when we are enforcing it, avoiding O(NumberOfValues^2) in debug assertions (IDEA-133154)  

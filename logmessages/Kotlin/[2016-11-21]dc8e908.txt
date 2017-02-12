@@ -1,0 +1,1 @@
+  JS: coroutines: fix handling of throw statement inside try/catch block when controller has handleSuspend function  

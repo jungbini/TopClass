@@ -1,0 +1,1 @@
+  XDebugProcess.registerAdditionalContent method restored to keep compatibility with IDEA 12 API  

@@ -1,0 +1,1 @@
+  fix java.awt.Color preview in quickDoc for some cases  

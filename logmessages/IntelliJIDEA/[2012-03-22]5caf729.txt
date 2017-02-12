@@ -1,0 +1,1 @@
+  fixed PY-5270 Move statement: unexpected move on trying to move one-line comment within indented block  

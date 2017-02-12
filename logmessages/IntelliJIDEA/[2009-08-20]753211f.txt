@@ -1,0 +1,1 @@
+  IDEADEV-39818 "Resume program" action should show "Debug" popup if no process is currently running  

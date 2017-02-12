@@ -1,0 +1,1 @@
+  Revert "Merge mulitple source folders into one."  Summary: Turns out the results of ParsingJavaPackageFinder can depend on the order of inputs and the merge sources mode tickles this problems quite a bit. Reverting till I fix the PackageFinder.  Test Plan: CI  

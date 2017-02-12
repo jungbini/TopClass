@@ -1,0 +1,1 @@
+  GRADLE-1545 - fix jar task incrementalness with the osgi plugin.  We override the Bnd-LastModified value (current system time by default) with the last mod of the classes dir if we have it.  

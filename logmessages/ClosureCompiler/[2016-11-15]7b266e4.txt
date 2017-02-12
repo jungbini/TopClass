@@ -1,0 +1,1 @@
+  Fix a bug where calculating alternate types in DisambiguateProperties didn't properly handle interfaces which have no direct implementors.  This was causing some property invalidations in J2CL-generated JS. With this change, we get about 300 bytes of code size back post-gzip.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=139253456  

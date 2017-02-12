@@ -1,0 +1,1 @@
+  Test and fix copy_resources issue - facebook#286  Summary: As discussed on facebook#286, if a resource path contained a filename that matched the name of the resource root directory then the wrong symlink target would be constructed causing the copy_resources step to fail. Closes https://github.com/facebook/buck/pull/301 Github Author: Matt Read <matt.read@lmax.com>  

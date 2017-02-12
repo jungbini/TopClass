@@ -1,0 +1,1 @@
+  fix KT-6192: VerifyError when using spreads with primitive arrays  #KT-6192 Fixed  

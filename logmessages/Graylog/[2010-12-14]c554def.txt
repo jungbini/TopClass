@@ -1,0 +1,1 @@
+  - fixed generation of rule conditions due to plucky weirdness  

@@ -1,0 +1,1 @@
+  fixed tests after fix for IDEA-90750 (Virtual Space)  

@@ -1,0 +1,1 @@
+  [resolve] regression in funtion type processing after 98be659, fix #2116  

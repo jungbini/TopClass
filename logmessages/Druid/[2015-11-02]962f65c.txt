@@ -1,0 +1,1 @@
+ fix metadata typo and rename default extension directory  

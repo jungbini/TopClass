@@ -1,0 +1,1 @@
+  fix bug with reference closing that I swore we fixed  

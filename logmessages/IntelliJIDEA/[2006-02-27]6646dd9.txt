@@ -1,0 +1,1 @@
+  after extracting method, adjust final modificators of parameters in correspondence not only with settings but also with their accessibility (usages in anon classes, modification of their values) fixing IDEDEV-3668 corresponding tests added  

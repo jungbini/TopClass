@@ -1,0 +1,1 @@
+  fix minor bug with arrays not being resized  

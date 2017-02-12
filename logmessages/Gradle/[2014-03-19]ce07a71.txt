@@ -1,0 +1,1 @@
+  Support starting JavaExec and Test task processes in debug mode by the --debugJvm invocation time switch.  We can't use `--debug` because it's already taken for enabling debug logging.  

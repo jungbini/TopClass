@@ -1,0 +1,1 @@
+  svn merge -c 1530816 FIXES: MAPREDUCE-5102. fix coverage org.apache.hadoop.mapreduce.lib.db and org.apache.hadoop.mapred.lib.db. Contributed by Aleksey Gorshkov, Andrey Klochkov, and Nathan Roberts   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1530818 13f79535-47bb-0310-9956-ffa450edef68  

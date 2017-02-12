@@ -1,0 +1,1 @@
+  if matching prefix has dots, assume it has all necessary dots and don't skip other dots as word separators (IDEA-93778)  

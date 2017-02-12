@@ -1,0 +1,1 @@
+  Implemented delete via AntBuilder again, to try to fix problems with CI build.  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@958 004c2c75-fc45-0410-b1a2-da8352e2331b  

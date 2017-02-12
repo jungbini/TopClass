@@ -1,0 +1,1 @@
+  A bug with local variable initializers fixed  

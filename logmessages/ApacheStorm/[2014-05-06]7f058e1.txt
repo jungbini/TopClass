@@ -1,0 +1,1 @@
+  fixed td close in topology-page-template.html, fixed topology stats and bolt stats.  

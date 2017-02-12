@@ -1,0 +1,1 @@
+  Do not sort values in a "string-array" when writing string asset files.  Summary: We were incorrectly sorting the values in `string-array`s while we only wanted to sort the resource ids. This 

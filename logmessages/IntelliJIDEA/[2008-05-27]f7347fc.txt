@@ -1,0 +1,1 @@
+  IDEA-18163 fixed (An *.ipr file is constanty modified) - SVN branch information - way of storing fixed  

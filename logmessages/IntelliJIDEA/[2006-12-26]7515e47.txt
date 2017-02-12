@@ -1,0 +1,1 @@
+  IDEA-10320: Map Run<> and Debug<> dialogs to project.propRunDebug.  

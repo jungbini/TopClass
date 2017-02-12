@@ -1,0 +1,1 @@
+  fix PackageScope.getAllDescriptors  http://youtrack.jetbrains.com/issue/KT-1553  

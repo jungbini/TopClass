@@ -1,0 +1,1 @@
+  update Log4J to 1.2.17 (IDEA-107922) to avoid swallowing of interrupted exceptions (https://issues.apache.org/bugzilla/show_bug.cgi?id=44157)  

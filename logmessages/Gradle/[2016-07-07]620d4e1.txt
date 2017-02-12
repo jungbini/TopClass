@@ -1,0 +1,1 @@
+  Add `Checkstyle` to the list of converted classes  This fixes backwards compatibility, as demonstrated by `TaskSubclassingBinaryCompatibilityCrossVersionSpec`  +review REVIEW-6081  

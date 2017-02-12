@@ -1,0 +1,1 @@
+  generalized CoordinatedBolt to work in arbitrary topologies, fixed bug in CoordinatedBolt collector#fail so that it doesn't call finishId in that case  

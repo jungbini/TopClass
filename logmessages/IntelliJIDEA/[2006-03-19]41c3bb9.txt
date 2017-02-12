@@ -1,0 +1,1 @@
+  fixed work with references to the depends targets initial support of AntCalls  

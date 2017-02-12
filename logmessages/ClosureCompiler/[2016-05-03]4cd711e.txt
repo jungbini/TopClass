@@ -1,0 +1,1 @@
+  Skip the hacky fix for a strange IE8 bug (described at https://www.zachleat.com/web/array-sort/), if the output language is ES5 or higher.  At some point we may control this via a 

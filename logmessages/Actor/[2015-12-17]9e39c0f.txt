@@ -1,0 +1,1 @@
+  fix(android): phoneBook permission on M  

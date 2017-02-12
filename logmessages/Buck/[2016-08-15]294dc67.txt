@@ -1,0 +1,1 @@
+  omnibus: fix building executable roots  Summary: The previous support for linking executables in the omnibus link had a few bugs: 1) Undefined symbols in the root triggered errors, which requires a 

@@ -1,0 +1,1 @@
+  CIDR: using selected 'Xcode' location to start 'iPhone Simulator' XDebugger: api for pre-selecting expressions in evaluate dialog CIDR: tests refactored  

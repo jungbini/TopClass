@@ -1,0 +1,1 @@
+  PY-21273 Fixing deadlock on debugging Python script in docker container  Excessive synchronization on calling waitForConnect() of the main debugger removed. Operations with myOtherDebuggers made safe without going into critical sections if some uncontrolled methods are called within them, particularly in isConnected() method.  

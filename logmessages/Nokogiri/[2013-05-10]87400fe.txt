@@ -1,0 +1,1 @@
+ add fix_tests_assert_match.patch to make tests pass with minitest gem  

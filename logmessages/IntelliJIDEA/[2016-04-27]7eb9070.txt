@@ -1,0 +1,1 @@
+  inspection tool window: navigate prev/next can navigate to entities with applied fixes  

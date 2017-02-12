@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE] Fix bug in GlobalTypeInfo#getScopeHelper, so that local variables shadow outer functions correctly.  (Also, don't create a DeferredCheck that is never used.)  ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=71204077  

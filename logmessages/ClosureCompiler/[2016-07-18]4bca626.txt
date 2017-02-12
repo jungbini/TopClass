@@ -1,0 +1,1 @@
+  Fix unnecessary boolean expression  This change fixes boolean expressions like `a && a` and `a || a` where both arguments are the same, by replacing the entire expression with `a`.  The clean up is being done in preparation for enabling a build error. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=127732397  

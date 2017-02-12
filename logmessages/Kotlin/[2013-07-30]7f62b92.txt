@@ -1,0 +1,1 @@
+  KT-3820 VerifyError when invoking intrinsic for range obtained from collection  #KT-3820 fixed  

@@ -1,0 +1,1 @@
+ Merge pull request #844 from metamx/derby-dependencies-fix  specify versions in parent pom  commit 7c1403a351f6d63e65f055c56a1c3944336bb7f5  Merge pull request #843 from metamx/fix-nondeterministic-test  fix non-deterministic test  commit 69146736a862b9fdb911744699857b263da3e0fc  fix dimension exclusions for timestamp and aggs  - also added tests  

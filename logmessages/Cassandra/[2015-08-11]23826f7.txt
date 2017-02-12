@@ -1,0 +1,1 @@
+  fix histogram overflow exception  Patch by tjake; reviewed by carlyeks for CASSANDRA-9973  

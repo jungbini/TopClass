@@ -1,0 +1,1 @@
+  fix selection & Ctrl+F12 on filtered items  

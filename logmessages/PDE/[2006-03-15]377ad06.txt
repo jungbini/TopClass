@@ -1,0 +1,1 @@
+ fixes for ignore files  commit 377ad065e01ce675e94de68649a95d2c22bbf2e3  fix typos  

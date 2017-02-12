@@ -1,0 +1,1 @@
+  fix json representation of messages  pull out message.plain  

@@ -1,0 +1,1 @@
+  GitBranchPopup: more fixes in UI  Display repositories at any case in multi-root config; Display repositories in the correct place (after "new branch" and other actions)  

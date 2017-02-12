@@ -1,0 +1,1 @@
+  Move some functionality from FileUtil to FileUtilLight.  This fixes git-ssh, because SSHMain script is no more dependent on trove4j.  

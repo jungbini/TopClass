@@ -1,0 +1,1 @@
+  VCS autodetection was broken twice: by Mike's default project fixes and by VCS lazy-loading (IDEADEV-16260)  

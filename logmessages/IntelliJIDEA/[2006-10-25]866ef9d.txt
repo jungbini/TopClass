@@ -1,0 +1,1 @@
+  fix svn integrate (IDEADEV-11255)  

@@ -1,0 +1,1 @@
+  new "Double brace initialization" inspection & quickfix  

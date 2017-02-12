@@ -1,0 +1,1 @@
+  fix dependencies direction in the assertion  

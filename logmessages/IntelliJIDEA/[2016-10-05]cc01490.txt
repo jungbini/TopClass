@@ -1,0 +1,1 @@
+  Upgrade Snappy library with custom fix for freeze on decompression on invalid bytes (IDEA-161935)  

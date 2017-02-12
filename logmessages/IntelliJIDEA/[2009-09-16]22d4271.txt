@@ -1,0 +1,1 @@
+  test fix: thou must never sort the array returned by getPlugins()  

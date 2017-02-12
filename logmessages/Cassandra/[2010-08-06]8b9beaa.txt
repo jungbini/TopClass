@@ -1,0 +1,1 @@
+  streaming changes. removed and combined several messages. fixed out-of-order bug. introduce stream sessions, stream headers. patch by rnirmal, reviewed by gdusbabek. CASSANDRA-1189   git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@983124 13f79535-47bb-0310-9956-ffa450edef68  

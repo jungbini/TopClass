@@ -1,0 +1,1 @@
+  fix problem with AniSprite.pde (duplicate class), and clean up the example  

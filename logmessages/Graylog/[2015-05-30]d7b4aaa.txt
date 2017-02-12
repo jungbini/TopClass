@@ -1,0 +1,1 @@
+  margining and paddding'ing. fixes #1364  

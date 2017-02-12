@@ -1,0 +1,1 @@
+  fixed OSecurity.dropUser() to support names with quotes and a regression on test cases  

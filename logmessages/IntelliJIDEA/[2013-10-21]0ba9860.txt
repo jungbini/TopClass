@@ -1,0 +1,1 @@
+  load namespaces for document even if present in tag as they may provide default namespace #WEB-7228 fixed  

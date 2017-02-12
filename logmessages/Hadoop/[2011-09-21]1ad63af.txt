@@ -1,0 +1,1 @@
+  HBASE-4153 fix TestOpenRegionHandler w.r.t. MockRegionServerServices   git-svn-id: https://svn.apache.org/repos/asf/hbase/branches/0.92@1173828 13f79535-47bb-0310-9956-ffa450edef68  

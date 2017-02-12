@@ -1,0 +1,1 @@
+  Dan Witte's windows build fixes.  

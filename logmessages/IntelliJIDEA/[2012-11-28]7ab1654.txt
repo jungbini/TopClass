@@ -1,0 +1,1 @@
+  fixed PY-8125 Change Signature: do not allow to set default value for self parameter in class methods  

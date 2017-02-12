@@ -1,0 +1,1 @@
+  fix test: first create a newly introduced parameter, then delete the obsolete ones  

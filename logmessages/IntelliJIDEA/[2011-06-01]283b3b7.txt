@@ -1,0 +1,1 @@
+  fixed PY-3126 "Chained comparison" doesn't react if one of the sides is flipped  

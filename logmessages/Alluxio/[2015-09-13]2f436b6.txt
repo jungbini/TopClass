@@ -1,0 +1,1 @@
+  fix comments from @apc999: add more checks for moveBlock  

@@ -1,0 +1,1 @@
+  test framework: NPE in composite exception fixed  

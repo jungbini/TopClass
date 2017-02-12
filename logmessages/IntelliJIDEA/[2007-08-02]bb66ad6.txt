@@ -1,0 +1,1 @@
+  Fixed keyword completion bugs with case sections  

@@ -1,0 +1,1 @@
+  make in runDebugger, don't depend on java.home  

@@ -1,0 +1,1 @@
+  First part of fix for: IDEA-77239 Cannot checkout project from github  

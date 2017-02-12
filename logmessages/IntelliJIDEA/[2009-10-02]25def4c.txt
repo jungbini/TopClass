@@ -1,0 +1,1 @@
+  test data fixed: in order to success should be run from community/.idea  

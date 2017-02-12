@@ -1,0 +1,1 @@
+  fixed missing dirty manager tracking in ridbag, issue #2620  

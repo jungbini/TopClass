@@ -1,0 +1,1 @@
+  added workaround for Ant bug in 1.8.0 and 1.8.1 versions regarding custom manifest (IDEA-66287)  

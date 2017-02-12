@@ -1,0 +1,1 @@
+  IDEADEV-24127 - Debugger: UI: the last not-tabbed view has 'Debugger' tab without 'detach' button  

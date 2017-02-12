@@ -1,0 +1,1 @@
+  fixed first case of multithreading lock implementation. issue #2866  Conflicts: core/src/main/java/com/orientechnologies/orient/core/sql/OCommandExecutorSQLSelect.java  

@@ -1,0 +1,1 @@
+  [groovy] fix highlighting of fields and local variables  

@@ -1,0 +1,1 @@
+  added org.gradle.debug system property to facilitate debugging of (daemon) JVM (similar to test.debug)  

@@ -1,0 +1,1 @@
+  make pixelDensity(displayDensity()) work properly, fixes #3436  

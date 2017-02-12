@@ -1,0 +1,1 @@
+  fast file content reverting. root entry with prefix (c:/dir or /dir)  

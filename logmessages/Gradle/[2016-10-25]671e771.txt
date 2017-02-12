@@ -1,0 +1,1 @@
+  Use Eclipse Classpath fixture to fix flaky test  Previously the test was doing string matching to check that a library named 'bar' was not present in the classpath. This failed when the name of the randomly generated test directory contained 'bar'.  Using the existing fixture should address this.  Flaky test: gradle/gradle-private#525  

@@ -1,0 +1,1 @@
+  A fix for IDEA-162922 Enter action produces 2 undo operations  

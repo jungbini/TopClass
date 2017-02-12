@@ -1,0 +1,1 @@
+  fix(server:session): subscribe to seq updates only on getDIff or getState  

@@ -1,0 +1,1 @@
+  Test and fix JSON serialization for VAE  

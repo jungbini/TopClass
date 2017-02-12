@@ -1,0 +1,1 @@
+  Merge -c 1493509 from trunk to branch-2 to fix YARN-787. Removed minimum resource from RegisterApplicationMasterResponse. Contributed by Alejandro Abdelnur.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1493510 13f79535-47bb-0310-9956-ffa450edef68  

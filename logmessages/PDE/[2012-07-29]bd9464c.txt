@@ -1,0 +1,1 @@
+  fix main() so that it handles args, also allows direct launch  

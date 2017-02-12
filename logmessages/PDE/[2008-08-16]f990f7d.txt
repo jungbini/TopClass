@@ -1,0 +1,1 @@
+  fix for runner issues (bug #877), exception highlighting and reporting, now properly parse exceptions directly from the debugger  

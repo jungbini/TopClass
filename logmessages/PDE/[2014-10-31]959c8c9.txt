@@ -1,0 +1,1 @@
+  fix getInt() with default when no attrs at all  

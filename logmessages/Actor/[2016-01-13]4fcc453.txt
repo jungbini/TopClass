@@ -1,0 +1,1 @@
+  fix+feat(iOS): fix some stickers stuff and save point for new attachment menu  

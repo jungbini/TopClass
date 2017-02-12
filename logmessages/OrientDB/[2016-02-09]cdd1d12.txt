@@ -1,0 +1,1 @@
+  Bug in calculation of allocation size for ByteBufferPool is fixed.  

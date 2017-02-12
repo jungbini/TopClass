@@ -1,0 +1,1 @@
+  return the namespace even if it's not in the cache  This fixes Nokogiri::XML::Attr#namespace not working when used with XmlReader, because namespaces never get cached in that scenario.  We can't add it to the cache at this point, because the node that defined the namespace is not available.  

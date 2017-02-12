@@ -1,0 +1,1 @@
+  XmlSerializerUtil.copyBean: fixed copying properties from base class to inheritor  

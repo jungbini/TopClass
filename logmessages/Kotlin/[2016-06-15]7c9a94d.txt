@@ -1,0 +1,1 @@
+  Ensure direcory for class file stubs always exists  This fixes the warning "classpath entry does not exist"  #KT-12352 fixed  

@@ -1,0 +1,1 @@
+ Merge pull request #1329 from Xylus/bugfix/thrift-accessors  Change accessor wiring for Thrift plugin  commit da87e9af20601e4126af05ff689899e982343c56  Merge pull request #1321 from denzelsN/master  bug fix.  commit 4e0180fbf517009b4eb1c366c343ef13e0312746  bug fix. not select calendar date in inspector page.  add period option in period calendar.  

@@ -1,0 +1,1 @@
+ Merge pull request #260 from dragonsinth/master  Bugfix: WebSocketFrameEncoder08.java for payload length > 65535 bytes  commit 2b4a9e92fb684e37007225289a9080eef5e99769  fix schoolboy error  

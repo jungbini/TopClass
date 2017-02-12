@@ -1,0 +1,1 @@
+  check whether quick doc is enabled, not only whether app is active #WEB-20554 fixed  

@@ -1,0 +1,1 @@
+  allow to control if anonymous system data collection is allowed. (opt-out) fixes #WEBINTERFACE-326  

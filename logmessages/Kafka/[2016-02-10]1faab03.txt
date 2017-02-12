@@ -1,0 +1,1 @@
+  MINOR: Remove multi-byte charactor in docs  There are multi-byte characters In quickstart.html and security.html. This PR will fix it.  Author: Sasaki Toru <sasakitoa@nttdata.co.jp>  Reviewers: Grant Henke  Closes #897 from sasakitoa/remove_multi_byte_character  

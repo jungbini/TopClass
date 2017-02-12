@@ -1,0 +1,1 @@
+> new private method(stopJobAllInterpreter) f6fe216 [CloverHearts] restful api setting-interpreterid bug fix.  

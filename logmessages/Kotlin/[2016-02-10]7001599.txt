@@ -1,0 +1,1 @@
+  [KT-4124] Fix bug when inner A.B extends inner A.C not passing outer reference there  

@@ -1,0 +1,1 @@
+  Merge -c 1245637 from trunk to branch-0.23.1 to fix HADOOP-8054. NPE with FilterFileSystem.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23.1@1245841 13f79535-47bb-0310-9956-ffa450edef68  

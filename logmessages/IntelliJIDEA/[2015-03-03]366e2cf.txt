@@ -1,0 +1,1 @@
+  fix IDEA-133542 Eclipse integration: external change or .classpath or .eml does not suggest to reload project (regression)  

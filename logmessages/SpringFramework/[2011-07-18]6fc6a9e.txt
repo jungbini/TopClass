@@ -1,0 +1,1 @@
+  fixed @Rule execution order in SpringJUnit4ClassRunner to match standard JUnit 4 behavior (SPR-8537)  

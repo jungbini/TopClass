@@ -1,0 +1,1 @@
+  HTTP: Fixed bug on static content download  

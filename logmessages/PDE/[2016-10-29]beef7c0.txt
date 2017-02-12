@@ -1,0 +1,1 @@
+  deal with pedantic code analyzer (fixes #4670)  

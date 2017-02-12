@@ -1,0 +1,1 @@
+ [SMALLFIX] Exclude Findbugs complaint about volatile increment.  

@@ -1,0 +1,1 @@
+  Fix up some bugs in newline and semicolon insertion in RefasterJS code replacements. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=80300548  

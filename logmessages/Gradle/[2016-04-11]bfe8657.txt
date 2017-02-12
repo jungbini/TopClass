@@ -1,0 +1,1 @@
+  Moved `ResolveTestFixture` into a `org.gradle.integtests.fixtures` subpackage  This has the net effect of making this class visible to the Tooling API integration tests, since the `org.gradle.integtests.fixtures` package is explicitly allowed in the filtering classloader used by the TAPI integration tests.  

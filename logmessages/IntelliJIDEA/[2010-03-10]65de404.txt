@@ -1,0 +1,1 @@
+  ProjectViewBuilder: select in for fields, inner classes, anonymous classess fixed  

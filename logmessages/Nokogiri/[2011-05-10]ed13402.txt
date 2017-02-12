@@ -1,0 +1,1 @@
+  adding a test case for an escaping bug in the beta gem  

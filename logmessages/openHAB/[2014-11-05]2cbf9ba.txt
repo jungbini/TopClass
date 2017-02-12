@@ -1,0 +1,1 @@
+ changes to the alarmdecoder binding: - added feature: can now send commands to alarm panel with openhab configuration "send_commands_and_compromise_security" - fixed bug with parsing keypad messages that contain comma in the message string - cache state to cut down on update messages going across the openhab bus  

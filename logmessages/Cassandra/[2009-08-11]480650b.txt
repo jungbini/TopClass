@@ -1,0 +1,1 @@
+  fix typo breaking CompareSubcolumnsWith.  fix timeuuid compare with byte[0]. patch by jbellis; reviewed by Evan Weaver for CASSANDRA-357  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@802977 13f79535-47bb-0310-9956-ffa450edef68  

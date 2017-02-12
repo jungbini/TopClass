@@ -1,0 +1,1 @@
+  fix artifacts in background process popup  

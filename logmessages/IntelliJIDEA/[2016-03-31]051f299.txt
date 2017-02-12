@@ -1,0 +1,1 @@
+  --Properly resolve types in the debugger using the fully qualified type name  --Properly resolve types in the debugger using the fully qualified type name  --Make pydevd_xml return FQN name  

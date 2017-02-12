@@ -1,0 +1,1 @@
+  IDEA-161925 Stream API migration: support toArray conversion, fixed mapping to initialized array, fixed final variable status, clean up in RefactoringUtil  

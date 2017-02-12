@@ -1,0 +1,1 @@
+  fix(core-cocoa): Fixing locale detection  

@@ -1,0 +1,1 @@
+  fix NPE during shutdown  this could happen when a component initiated a shutdown during our startup sequence (e.g. missing elasticsearch) the exception was harmless, but could be misleading because it wasn't the cause of the shutdown at all  fixes #588  

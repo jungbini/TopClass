@@ -1,0 +1,1 @@
+ fix issue 55 in JIRA: InetSocketAddress may resolve "localhost" to network address like "192.168.*.*". Test failed in TachyonFSTest.toStringTest:421 expected:<...achyon://localhost/1[92.168.172.43]:19998> but was:<...achyon://localhost/1[27.0.0.1]:19998>  

@@ -1,0 +1,1 @@
+  KAFKA-3749; fix "BOOSTRAP_SERVERS_DOC" typo  Author: manuzhang <owenzhang1990@gmail.com>  Reviewers: Guozhang Wang <wangguoz@gmail.com>, Ewen Cheslack-Postava <ewen@confluent.io>, Ismael Juma <ismael@juma.me.uk>  Closes #1420 from manuzhang/KAFKA-3749  

@@ -1,0 +1,1 @@
+  Changed a few more int tests to use the MavenHttpModule and IvyHttpModule fixtures.  

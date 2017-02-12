@@ -1,0 +1,1 @@
+  Do not use module maps if the crosstool doesn't support them when using the legacy feature configuration.  This requires two fixes: 1. we want to mark the module_maps feature unsupported, if the toolchain itself doesn't provide a module map 2. no legacy feature is allowed to imply the module_maps feature  -- MOS_MIGRATED_REVID=87511295  

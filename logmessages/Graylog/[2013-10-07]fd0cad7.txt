@@ -1,0 +1,1 @@
+  actually create a config file for selenium tests  cannot check for application.isTest because the application doesn't exist at that point. chicken and egg problem :(  this is better because it actually tests the same code path at the same time.  fixes #291  

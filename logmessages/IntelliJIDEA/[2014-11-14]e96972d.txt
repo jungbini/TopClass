@@ -1,0 +1,1 @@
+  fixed PY-14391 NPE at com.jetbrains.python.testing.PythonTestConfigurationProducer.setupConfigurationFromContext  

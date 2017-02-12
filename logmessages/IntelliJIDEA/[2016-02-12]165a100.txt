@@ -1,0 +1,1 @@
+  inspection toolwindow: quick fix buttons on the right rewritten to action-based  

@@ -1,0 +1,1 @@
+  HADOOP-13640. Fix findbugs warning in VersionInfoMojo.java. Contributed by Yuanbo Liu.  

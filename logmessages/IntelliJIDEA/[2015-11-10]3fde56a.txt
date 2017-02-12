@@ -1,0 +1,1 @@
+  fixed PY-16358 Intellij Plugin: manage python packages dialog is too small by default  

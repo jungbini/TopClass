@@ -1,0 +1,1 @@
+  Improved logging and trace in various places to aid debugging. Removed the heapDumpPath setting for daemon for now.  

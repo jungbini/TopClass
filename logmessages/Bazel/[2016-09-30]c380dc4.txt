@@ -1,0 +1,1 @@
+  cpp: integrate Init() into the StartupOptions constructor  This patch integrates the code of Init() function into StartupOptions's constuctor and thus fixing the TODO in startup_options.cc.  -- Change-Id: Ic041306387f5ef82fa80d8511c3e9b7be706754a Reviewed-on: https://bazel-review.googlesource.com/#/c/6332/2 MOS_MIGRATED_REVID=134759417  

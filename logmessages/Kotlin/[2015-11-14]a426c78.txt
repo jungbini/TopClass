@@ -1,0 +1,1 @@
+  Apply infix modifier on functions from stdlib where appropriate.  

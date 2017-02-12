@@ -1,0 +1,1 @@
+  fix #1308: inline defer/go without method call doesn't show an error  

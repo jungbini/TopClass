@@ -1,0 +1,1 @@
+  fixed PY-14816 IPython Notebook: Pycharm is unresponsive when trying to start notebook server  

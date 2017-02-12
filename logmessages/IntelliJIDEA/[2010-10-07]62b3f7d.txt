@@ -1,0 +1,1 @@
+  django settings chooser scope fixed (PY-2060)  

@@ -1,0 +1,1 @@
+  Set the JavaBuider's strict dependency fix message to a more meaningful one  -- MOS_MIGRATED_REVID=87167431  

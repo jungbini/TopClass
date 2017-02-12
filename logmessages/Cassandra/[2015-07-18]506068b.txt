@@ -1,0 +1,1 @@
+  JDK bug prevents clean shutdown on OSX with Java 1.8.0_20  patch by Robert Stupp; reviewed by Aleksey Yeschenko for CASSANDRA-8220  

@@ -1,0 +1,1 @@
+  property selection when resource bundle editor is activated fixed  

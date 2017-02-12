@@ -1,0 +1,1 @@
+  on syncing a user account from LDAP allow existing role assignments to survive if no group mapping has been configured  fixes #1405  

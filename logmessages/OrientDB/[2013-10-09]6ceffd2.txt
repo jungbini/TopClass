@@ -1,0 +1,1 @@
+  Minor: avoid to remove profiler on shutdown. This fixes NPE on OrientDB shutdown phase  

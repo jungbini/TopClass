@@ -1,0 +1,1 @@
+  new SQL parser - fixed IN and NOT IN conditions, now they also accept complex expressions  

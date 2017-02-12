@@ -1,0 +1,1 @@
+  inspection toolwindow: fixed a condition for ref-nodes merge  

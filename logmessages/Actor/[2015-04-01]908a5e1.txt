@@ -1,0 +1,1 @@
+  fix(iOS): Fixed crypto provider  

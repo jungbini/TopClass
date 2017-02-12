@@ -1,0 +1,1 @@
+  IDEA-103417 Incorrect Statement completion in XML  #IDEA-103417 fixed  

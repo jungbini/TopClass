@@ -1,0 +1,1 @@
+  SVN: one-click merge: infinite loop fix: state of merger was lost  

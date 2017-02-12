@@ -1,0 +1,1 @@
+  [shelf]: IDEA-149652 fix text for option Show/Hide Already Unshelved: keep action text in Context menu and change it in the toolbar according to the state.  

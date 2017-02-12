@@ -1,0 +1,1 @@
+  Bugfix at binding EM. only Datapoint.CUMULATED items could be updated and multiple jitter updates for CUMULATED. (#4351)  

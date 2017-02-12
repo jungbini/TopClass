@@ -1,0 +1,1 @@
+  [NTI] Fix bug goog.asserts handling where sometimes it wouldn't tighten the type after the assertion. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=122323682  

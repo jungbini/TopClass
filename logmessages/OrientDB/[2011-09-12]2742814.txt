@@ -1,0 +1,1 @@
+  CREATE LINK command: fixed issue 532 supporting the link type between LINK, LINKSET, LINKLIST  

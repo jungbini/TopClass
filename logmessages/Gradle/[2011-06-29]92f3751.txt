@@ -1,0 +1,1 @@
+  A previous changed resulted in sample integration tests using the samples from their source location. This is now fixed and they run against a copy in the build dir.  

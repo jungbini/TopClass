@@ -1,0 +1,1 @@
+  focus -> tree in debugger active tooltip + esc generalization  

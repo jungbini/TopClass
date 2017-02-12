@@ -1,0 +1,1 @@
+  Race condition fixed. Leads to service implementation being able to initialize twice.  

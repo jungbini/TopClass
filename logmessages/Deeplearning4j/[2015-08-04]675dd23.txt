@@ -1,0 +1,1 @@
+ Conv activate is almost there. Bias dimension is fixed and tensormul appears to be working. Issue with bias broadcast. Seeing it as RowVector but can't iterate rows over tensor. Need another conditions in BasNDArray to get around isRowVector block.  

@@ -1,0 +1,1 @@
+  fixed PY-14433 Fill Paragraph: Invalid range specified: (504,502); Throwable at com.intellij.openapi.util.TextRange.assertProperRange  

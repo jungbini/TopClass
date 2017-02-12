@@ -1,0 +1,1 @@
+  Attempt to determine which architectures are available by invoking gcc/clang with -m32 or -m64 when detecting the compiler version.  In practice only really works when building on a 32 bit host (eg cygwin32). Should be enough to fix the broken int test.  

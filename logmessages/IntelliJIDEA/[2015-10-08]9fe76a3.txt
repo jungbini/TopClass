@@ -1,0 +1,1 @@
+  [platform] minor fixes in Unix startup script  - UI messages when possible - for version detection, start JVM without agents - formatting  

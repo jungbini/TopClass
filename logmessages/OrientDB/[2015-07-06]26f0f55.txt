@@ -1,0 +1,1 @@
+  fixed validation of name on setName and unsafe keyword parsing for alter, issue #3791  

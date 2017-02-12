@@ -1,0 +1,1 @@
+  problems with bug #1094, point() and set() on os x  

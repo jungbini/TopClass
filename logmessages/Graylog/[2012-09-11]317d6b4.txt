@@ -1,0 +1,1 @@
+  multi index: index_name is now index_prefix \o/  

@@ -1,0 +1,1 @@
+  cleaning core/todo.txt, and fixing modelX/Y/Z bug #386  

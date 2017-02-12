@@ -1,0 +1,1 @@
+  fixed cut/paste action in ipython notebook  update UI on document save  

@@ -1,0 +1,1 @@
+  Platform: do not paint run configurations combobox with retina fix - no xor mode anymore  

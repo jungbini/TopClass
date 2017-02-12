@@ -1,0 +1,1 @@
+  Move 3 JIRAs to 0.90.5 where they were actually fixed   git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1157940 13f79535-47bb-0310-9956-ffa450edef68  

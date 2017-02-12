@@ -1,0 +1,1 @@
+  Two fixes: allow any functional tag after SBAR for SCONJ and correctly use ADP not PREP for IN.  

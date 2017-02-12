@@ -1,0 +1,1 @@
+  java: .class stub builder fixed  By somewhat reason an inner classes section of a .class file may contain classes not belonging to the host; such a strangers should be filtered out by name.  

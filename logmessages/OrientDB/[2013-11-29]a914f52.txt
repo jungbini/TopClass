@@ -1,0 +1,1 @@
+  Issue #1604 Several LINK_BAG issues were fixed.  

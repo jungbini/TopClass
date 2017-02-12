@@ -1,0 +1,1 @@
+  fix native cell ByteOrder patch by bes; reviewed by jbellis and tested by mshuler for CASSANDRA-7201  

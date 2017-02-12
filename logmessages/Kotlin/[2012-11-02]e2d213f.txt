@@ -1,0 +1,1 @@
+  Loading functions from superclasses before current to avoid heisenbug.  Added test with two supertypes.  #KT-2776 in progress  

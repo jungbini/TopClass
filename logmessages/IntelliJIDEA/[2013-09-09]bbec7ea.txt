@@ -1,0 +1,1 @@
+  fixed PY-10755 PyCharm mark some statements with side effects as "has no effect"  

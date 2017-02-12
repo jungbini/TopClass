@@ -1,0 +1,1 @@
+  Web: fix for brunch integration in maven build lifecircle  

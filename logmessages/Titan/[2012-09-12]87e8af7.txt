@@ -1,0 +1,1 @@
+  vearious Writable optimizations in mapreduce classes. Fixed a counting bug in SideEffectMap.  

@@ -1,0 +1,1 @@
+  OC-5350 Xcode keymap: add debug (best is cmd+D) and change run.../debug.. shortcuts so they are consistent with Run/Debug  

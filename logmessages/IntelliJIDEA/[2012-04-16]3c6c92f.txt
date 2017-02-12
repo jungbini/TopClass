@@ -1,0 +1,1 @@
+  IDEA-84688 'Recent files': preselect the last closed file fix backspace issue in speed search  

@@ -1,0 +1,1 @@
+  [hg]: IDEA-153041 Mercurial history is not following moves & renames  * provide  workaround to fix hg problem (IDEA-149897); * hg can't follow renames for provided rev set; * there are python workaround: using  -r 'follow(relFilePath) and revset' but it may not work for some versions; * annotate file from 

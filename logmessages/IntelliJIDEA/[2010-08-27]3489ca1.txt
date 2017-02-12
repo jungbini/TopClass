@@ -1,0 +1,1 @@
+  fix combobox focus ring painting for aqua laf & quartz disabled  

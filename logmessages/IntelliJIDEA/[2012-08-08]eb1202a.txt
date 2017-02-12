@@ -1,0 +1,1 @@
+  IDEA-89266 fix storing default html doctype without converter; fix paths to html5 and xhtml schemas  

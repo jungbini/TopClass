@@ -1,0 +1,1 @@
+  deleting, closing, reopening indices. fixes #401, #402  

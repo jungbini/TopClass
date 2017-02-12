@@ -1,0 +1,1 @@
+  fixed issue with not highlighting of end tag for empty elements (IDEADEV-1867)  

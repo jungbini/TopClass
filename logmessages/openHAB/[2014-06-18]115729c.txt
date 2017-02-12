@@ -1,0 +1,1 @@
+  KNX : fixed bug regarding double usage of datapoints in Item definition + Added support for DPT 7.001  

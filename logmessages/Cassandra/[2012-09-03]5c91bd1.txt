@@ -1,0 +1,1 @@
+  (cql3) fix setting compaction strategy patch by Pavel Yaskevich; reviewed by Jonathan Ellis for CASSANDRA-4597  

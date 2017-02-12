@@ -1,0 +1,1 @@
+  (fixes IDEA-55836). When generating code with annotation processors: 1. force processing production and test roots separately 2. set sourcepath parameter so that javac can resolve processed sources against other sources and generated stuff  

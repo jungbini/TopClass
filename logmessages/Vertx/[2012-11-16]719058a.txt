@@ -1,0 +1,1 @@
+ fixed problems  commit 719058a85a0ca0fc6923f1e068c6310373b88347  fix coding mistake:  change "isVerifyHost" to "setVerifyHost"  

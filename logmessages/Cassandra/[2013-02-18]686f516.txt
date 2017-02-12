@@ -1,0 +1,1 @@
+  fix potential for multiple concurrent compactions of the same sstables patch by jbellis and yukim; reviewed by slebresne for CASSANDRA-5256  

@@ -1,0 +1,1 @@
+tFormatTest that counts vertices with cassandra.input.widerows=true in the titan-hadoop configuration.  The test fails as of this commit due to a preexisting bug (fix incoming).  For #963  

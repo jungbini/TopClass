@@ -1,0 +1,1 @@
+  Make split configuration transitions work with Bazel.  Creating the split configurations in Bazel uncovered an incrementality issue: ConfigurationFactory.hostConfigCache kept state between builds untracked by Skyframe, which is not good, and therefore had to be fixed.  -- MOS_MIGRATED_REVID=97106917  

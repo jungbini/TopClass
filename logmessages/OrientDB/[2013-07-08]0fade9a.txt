@@ -1,0 +1,1 @@
+  Fixed bug on auto parsing date from JSON: the database configured format was't used and both DATE and DATETIME used the dateformat of DATETIME.  

@@ -1,0 +1,1 @@
+  copyright: fix properties file copyright update (IDEADEV-33156)  

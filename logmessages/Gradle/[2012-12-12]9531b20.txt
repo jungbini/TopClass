@@ -1,0 +1,1 @@
+  Rename plugin jvm-library to java-library distribution; fix userguide sample; some cleanup.  

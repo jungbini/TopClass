@@ -1,0 +1,1 @@
+  UIUtil. applyStyle fix. font size for borders.  

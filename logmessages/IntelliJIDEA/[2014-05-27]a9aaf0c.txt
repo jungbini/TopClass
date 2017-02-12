@@ -1,0 +1,1 @@
+ Merge branch 'python-fixes'  commit a9aaf0cbf489e6fa7871a9651bfd222fda7d7cb7  Maven: fix artifact layouts tests for added generated manifest.mf  

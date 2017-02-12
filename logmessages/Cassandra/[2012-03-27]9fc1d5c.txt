@@ -1,0 +1,1 @@
+  cqlsh: fix col. width in presence of wide unicode glyphs Patch by paul cannon, reviewed by brandonwilliams for CASSANDRA-4033  

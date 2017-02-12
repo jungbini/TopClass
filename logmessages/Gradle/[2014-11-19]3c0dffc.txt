@@ -1,0 +1,1 @@
+  Add fixture for play app with failing tests  - some restructuring of integtest packages/code - delete unused resources for custom and play new app  +review REVIEW-5258  

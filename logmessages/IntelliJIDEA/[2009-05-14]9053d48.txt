@@ -1,0 +1,1 @@
+  git4idea: IDEADEV-35679: the listener is now less sensitive to the event timing. This should fix the exception.  

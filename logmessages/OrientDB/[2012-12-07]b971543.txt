@@ -1,0 +1,1 @@
+  SQL: fixed max() and min() operator with NULLS  

@@ -1,0 +1,1 @@
+  add javascript to fix console problem in IE  

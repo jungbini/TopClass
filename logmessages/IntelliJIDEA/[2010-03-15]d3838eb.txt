@@ -1,0 +1,1 @@
+  fix lexing of backslash before empty line (PY-678)  

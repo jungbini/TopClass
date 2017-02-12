@@ -1,0 +1,1 @@
+  [java] 'remove try/finally' quick fix should not be available in a presence of a resource list  

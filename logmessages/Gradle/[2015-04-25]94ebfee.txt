@@ -1,0 +1,1 @@
+  fix failing CUnitIntegrationTest  - model report also exposes sources of testSuites  

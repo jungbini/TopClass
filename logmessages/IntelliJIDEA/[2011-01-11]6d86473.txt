@@ -1,0 +1,1 @@
+  xdebugger: correctly handle multiline error messages with empty lines  

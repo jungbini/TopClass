@@ -1,0 +1,1 @@
+  Refactor of Entity serializer call Added getRid and getVersion of proxied objects Added a small fix in ObjectTreeTest custom types test  

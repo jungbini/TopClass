@@ -1,0 +1,1 @@
+  MINOR: Make indenting in `checkstyle.xml` and `import-control.xml` consistent  They now both use 2 spaces for indents, which is what `checkstyle.xml` was already doing. `import.xml` had a mixture of tabs and 4 spaces previously.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Gwen Shapira  Closes #253 from ijuma/fix-xml-indents  

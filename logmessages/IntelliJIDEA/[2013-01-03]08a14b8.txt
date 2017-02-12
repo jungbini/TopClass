@@ -1,0 +1,1 @@
+  fix change Commit.getData()=>getParents() but not fix CommitDataGetter & not fix new format input str  

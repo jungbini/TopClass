@@ -1,0 +1,1 @@
+  bug fixed for android 2.2  

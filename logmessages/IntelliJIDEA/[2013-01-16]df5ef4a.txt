@@ -1,0 +1,1 @@
+  fixed Convert triple-quoted string: loses data in case of double quote inside the string and leads to syntax error  

@@ -1,0 +1,1 @@
+  focus stealing fix is enabled by default  

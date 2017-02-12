@@ -1,0 +1,1 @@
+ Merge pull request #600 from deeplearning4j/poolingfixes  Poolingfixes  commit 80fbd39148f40c9cd9d62c60e0b8da2971e0fd5f  local word2vec working. spark word2vec fixing  

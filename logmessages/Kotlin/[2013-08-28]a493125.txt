@@ -1,0 +1,1 @@
+  refactoring: fixes after review  rename, removed unnecessary methods, improved test  

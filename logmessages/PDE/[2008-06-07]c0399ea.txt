@@ -1,0 +1,1 @@
+  hopeful fix for bug #777 (division by zero in Create Font)  

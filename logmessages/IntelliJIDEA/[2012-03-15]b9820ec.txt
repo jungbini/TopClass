@@ -1,0 +1,1 @@
+  fix implementing methods if invoked on class name  

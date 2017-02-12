@@ -1,0 +1,1 @@
+  Allow cxx_libraries to export flags, etc.  Summary: The way exported_*_flags parses any apple_library dependencies, but we can have apple_libraries depend directly on cxx_libraries.  This fixes that parsing.  Test Plan: Add two unit tests  Reviewed By: Coneko  fbshipit-source-id: 500a0a4  

@@ -1,0 +1,1 @@
+  Fix: Timeout restorer bugfixes (fixes #555, #592)  + Timeout restoration works if session is serialized + Works properly if multiple requests are used per session  

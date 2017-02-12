@@ -1,0 +1,1 @@
+  gradle: debug log added for investigation of IDEA-138496 Error while creating/importing/opening Gradle Project  

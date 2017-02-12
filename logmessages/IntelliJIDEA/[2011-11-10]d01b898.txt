@@ -1,0 +1,1 @@
+  Python console: fixed case with module default sdk (PY-4996).  

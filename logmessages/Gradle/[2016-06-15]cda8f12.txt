@@ -1,0 +1,1 @@
+VisitorCleaner performance fix.  commit cda8f12cfff613180fb1f5dfcddadc72e0aee0a3  Unfortunately didn't fix file handle leak  

@@ -1,0 +1,1 @@
+  More fix for #41 All web.xml init-params must be configurable using atmosphere.xml  

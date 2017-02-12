@@ -1,0 +1,1 @@
+  Maven: fix: an absent application library let to an exception  

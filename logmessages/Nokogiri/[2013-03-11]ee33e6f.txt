@@ -1,0 +1,1 @@
+  Fixing a typo/bug in the windows cross-compile rbconfig-1.9.3 DLDFLAGS check.  

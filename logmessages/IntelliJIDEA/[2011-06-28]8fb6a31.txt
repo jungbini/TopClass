@@ -1,0 +1,1 @@
+  Search text field appearance fixed for GTK+ and Nimbus L&F  

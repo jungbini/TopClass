@@ -1,0 +1,1 @@
+ bug fix. - set wrong application name when open transactionList page.  

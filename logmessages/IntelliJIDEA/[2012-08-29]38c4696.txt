@@ -1,0 +1,1 @@
+  Reverted the fix "Tasks&Contexts: New choose popup for search and opening tasks" for separators in ChooseByName  

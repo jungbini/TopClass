@@ -1,0 +1,1 @@
+  Gradle: fix external project path option usage  

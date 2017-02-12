@@ -1,0 +1,1 @@
+  performGuardedChange when lookup is present #IDEA-136252 fixed  

@@ -1,0 +1,1 @@
+  Maven: a tiny little fix (reading invalid setting.xml file)  

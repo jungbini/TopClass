@@ -1,0 +1,1 @@
+  git4idea: rewritten git pull, refactored common functionality from merge dialog (fixed IDEADEV-31502, a partial fix to IDEADEV-31460, IDEADEV-31464)  

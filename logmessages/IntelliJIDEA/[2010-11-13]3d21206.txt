@@ -1,0 +1,1 @@
+  fixed suite names in test All tests in folder configuration, added locations for all type of tests  

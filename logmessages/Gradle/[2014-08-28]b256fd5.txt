@@ -1,0 +1,1 @@
+  use withArgument() when turning on debug logging instead of withArguments() because it is additive.  

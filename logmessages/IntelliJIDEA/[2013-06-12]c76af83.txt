@@ -1,0 +1,1 @@
+  rename inspection/fix according to spec (IDEA-108821)  

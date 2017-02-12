@@ -1,0 +1,1 @@
+  IDEA-89585 Code Completion for class names in Run/Debug configurations shows 'import' and 'package' at the top of the lookup  

@@ -1,0 +1,1 @@
+  remove java.ext.dirs on startup (fixes #4608)  

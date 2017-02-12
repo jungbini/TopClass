@@ -1,0 +1,1 @@
+  SSR: fix exception when search pattern method, replacement pattern method and replaced method have no body  

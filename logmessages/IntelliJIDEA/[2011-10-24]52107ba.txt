@@ -1,0 +1,1 @@
+  fix defaultMethods script in case of two type parameters of List inheritor  

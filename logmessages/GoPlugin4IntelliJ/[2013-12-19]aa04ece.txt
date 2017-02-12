@@ -1,0 +1,1 @@
+ Merge pull request #369 from dlsniper/fix-364  NPE fix #364  commit aa04ecef724c80403a976ce051778ef98755fd1d  NPE fix #364  

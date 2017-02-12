@@ -1,0 +1,1 @@
+  bug fix in storage help button in recent changes dialog  

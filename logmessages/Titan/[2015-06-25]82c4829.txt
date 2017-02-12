@@ -1,0 +1,1 @@
+  Change default homepage download to -hadoop1.zip  Titan 0.9.0 doesn't support Hadoop 2 on account of TinkerPop 3, so the automatically-generated link to titan-${version}-hadoop2.zip was broken for 0.9.0-M*.  Changing it suffix to -hadoop1.zip.  

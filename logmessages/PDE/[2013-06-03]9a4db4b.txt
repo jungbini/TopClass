@@ -1,0 +1,1 @@
+  fix incorrect mx2/my2 calculations in PImage  

@@ -1,0 +1,1 @@
+  upgrade curator, fixes #2829 (#2849)  

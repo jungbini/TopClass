@@ -1,0 +1,1 @@
+  IDEA-135537 fix for the i3 window manager: Do not close a popup when expansion hint is shown  

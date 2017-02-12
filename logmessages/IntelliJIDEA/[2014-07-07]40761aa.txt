@@ -1,0 +1,1 @@
+  artifact editor: hint position fixed  

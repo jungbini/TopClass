@@ -1,0 +1,1 @@
+  Issue #2874,  cluster page tests are partially fixed.  

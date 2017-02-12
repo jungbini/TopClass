@@ -1,0 +1,1 @@
+  JS backend: fix KT-6277 kotlinc-js: IllegalArgumentException when -output is a file name without directory prefix  #KT-6277 Fixed  

@@ -1,0 +1,1 @@
+  fixed unused vars when open same file in several projects  

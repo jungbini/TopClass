@@ -1,0 +1,1 @@
+  fix off by one in invert if statement (part od IDEADEV-28541)  

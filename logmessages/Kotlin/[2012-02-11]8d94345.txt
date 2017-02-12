@@ -1,0 +1,1 @@
+  KT-1199 - test and fix for erased case  

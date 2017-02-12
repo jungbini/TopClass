@@ -1,0 +1,1 @@
+  Annotations representation in type text fixed  

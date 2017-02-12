@@ -1,0 +1,1 @@
+  KAFKA-3650: Fix vagrant download URL  Author: Roger Hoover <roger.hoover@gmail.com>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1308 from theduderog/fix_vagrant_dl  

@@ -1,0 +1,1 @@
+  do not hold read lock for too long, during remote debugging initBreakpoints may take long  

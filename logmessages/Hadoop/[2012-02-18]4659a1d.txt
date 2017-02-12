@@ -1,0 +1,1 @@
+  Merge -c 1245276 from trunk to branch-0.23.1 to fix MAPREDUCE-3856. Instances of RunningJob class givs incorrect job tracking urls when mutiple jobs are submitted from same client jvm.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23.1@1245844 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  properly remove templates folder from project structure (fix based on WEB-13366 fix for resource roots)  

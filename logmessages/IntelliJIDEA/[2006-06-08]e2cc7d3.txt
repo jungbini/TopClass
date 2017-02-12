@@ -1,0 +1,1 @@
+  more fixes for icon property editing  

@@ -1,0 +1,1 @@
+  merge -c 1437245 from trunk to branch-2 to fix YARN-231. RM Restart - Add FS-based persistent store implementation for RMStateStore. Contributed by Bikas Saha  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1437246 13f79535-47bb-0310-9956-ffa450edef68  

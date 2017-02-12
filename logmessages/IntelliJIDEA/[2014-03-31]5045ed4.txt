@@ -1,0 +1,1 @@
+  WEB-11133 JS Debugger: Variables view is not properly updated after setting value  

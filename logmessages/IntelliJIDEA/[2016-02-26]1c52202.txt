@@ -1,0 +1,1 @@
+  CPP-4964 Quick definition for user commands and macros in CMake  fixing a bug when we showed more lines than we should (see https://youtrack.jetbrains.com/issue/CPP-4964#comment=27-1282383)  

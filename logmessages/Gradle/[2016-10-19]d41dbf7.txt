@@ -1,0 +1,1 @@
+  Attempt to fix flakiness in test for cancellation  DeploymentHandleContinuousBuildCrossVersionSpec states that it tests the stopping of the deployment handle when the build is cancelled. However the test never actually cancelled the build, relying instead on the client shutdown to force the build to stop.  This change adds an explicit cancel to the test.  

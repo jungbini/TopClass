@@ -1,0 +1,1 @@
+  Test fixes for dealing with 1.2 snapshots/RCs for build comparisons.  

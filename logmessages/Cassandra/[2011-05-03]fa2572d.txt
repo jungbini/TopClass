@@ -1,0 +1,1 @@
+  fix returning null column values in the python cql driver patch by Pavel Yaskevich; reviewed by jbellis for CASSANDRA-2593  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8@1099156 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  JetChangeFunctionSignatureAction made nested class of quickfix class (and it does not need to be QuestionAction!)  

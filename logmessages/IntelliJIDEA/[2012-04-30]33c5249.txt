@@ -1,0 +1,1 @@
+  fix unused declaration after wrapper introduced, once more (IDEA-85153)  

@@ -1,0 +1,1 @@
+  JS: fix Kotlin.isType for case of traits  

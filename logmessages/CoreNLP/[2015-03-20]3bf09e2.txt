@@ -1,0 +1,1 @@
+  updated more methods to use SemanticGraph instead of List<TypedDependency>, fixed some issues with enhanced dependencies  

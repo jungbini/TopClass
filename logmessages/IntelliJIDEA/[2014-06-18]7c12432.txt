@@ -1,0 +1,1 @@
+  NPE fix; referencing service via API, not implementation  

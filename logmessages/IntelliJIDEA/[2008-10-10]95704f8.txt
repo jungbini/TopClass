@@ -1,0 +1,1 @@
+  introduce parameter object: misc dialog fixes (IDEADEV-31162)  

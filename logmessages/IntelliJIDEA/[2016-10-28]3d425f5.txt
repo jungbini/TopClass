@@ -1,0 +1,1 @@
+  ui: fix HiDPI scaling in Editor Search and Replace UI  * do not scale `icon.getIconWidth()` * use JBDimension to avoid multiplicative scaling with `JBDimension.scale()` * do not set minimumSize depending on icon size - it's unnecessary, as actual size will be calculated as `Math.max(iconSize, minimumSize)`  follow-up: 7aa6ce4c45f898fcf7aa37ea83c6ff03de348a9d  

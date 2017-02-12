@@ -1,0 +1,1 @@
+  cc_configure: fix various small errors  - Skylark does not allow implicit concatenation that was added by the linter - osx_cc_wrapper renaming was not applied everywhere - arm toolchain was missing in the toolchain_suite  Also fix the test to use the correct cc_configure.bzl file.  -- MOS_MIGRATED_REVID=116362768  

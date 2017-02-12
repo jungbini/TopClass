@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=65 (" Issue with Jersey 1.4 and Atmoshere Spade server ")  See issue description  

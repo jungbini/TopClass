@@ -1,0 +1,1 @@
+  fixed PY-9730 Method can be static: disable inspection for methods which simply raise NotImplementedError  

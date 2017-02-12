@@ -1,0 +1,1 @@
+  add basic auth to api browser  fixes #282  

@@ -1,0 +1,1 @@
+  Use a console with verbosity set to silent to execute steps in `FilterResourcesStep`.  Summary: This fixes the issue where running these commands causes the super console to freeze.  Test Plan: Run a build target with resource filtering on with and without this change, verify that super console does not freeze with the change.  

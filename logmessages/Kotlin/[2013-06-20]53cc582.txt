@@ -1,0 +1,1 @@
+  Minor, use incrementType in for-progression codegen  This doesn't fix anything, just makes it easier to figure out values of what types are used where. Progression increment is of its own type, which may be 

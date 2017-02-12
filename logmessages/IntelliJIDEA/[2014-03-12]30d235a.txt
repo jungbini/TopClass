@@ -1,0 +1,1 @@
+  IdeRepaintManager.checkThreadViolations fix during readExternal()  

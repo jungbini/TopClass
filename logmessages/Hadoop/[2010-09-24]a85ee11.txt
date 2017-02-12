@@ -1,0 +1,1 @@
+  HBASE-2889 Tool to look at HLogs -- parse and tail -f; fix for suppression of EOFEs by Nicolas  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1000697 13f79535-47bb-0310-9956-ffa450edef68  

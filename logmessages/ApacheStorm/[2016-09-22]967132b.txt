@@ -1,0 +1,1 @@
+  [STORM-2119] - bug in log message printing to stdout  

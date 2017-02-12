@@ -1,0 +1,1 @@
+  fixed GRADLE-643: Scala plugin should infer the scala version from the compile configuration and add the appropriate dependencies to the scalaTools configuration  - if necessary, scala-base plugin now adds scala-compiler dependency to ScalaCompile.scalaClasspath - version of scala-compiler dependency corresponds to version of scala-library found on ScalaCompile.classpath  

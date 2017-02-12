@@ -1,0 +1,1 @@
+  fix #494, Struct identifiers must be prefixed with the package name if they are not defined in current package.  

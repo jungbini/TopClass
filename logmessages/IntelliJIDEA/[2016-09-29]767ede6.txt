@@ -1,0 +1,1 @@
+  revert EditorColorsSchemeImpl.setAttributes  doesn't help to fix "save unmodified" and don't fix "remove unmodified"  

@@ -1,0 +1,1 @@
+  Java inspection: Converted "Expand Annotation to Normal Form" intention into an INFORMATION-level inspection. Don't offer the fix if the annotation doesn't have the 'value()' method. Added more test data. (IDEA-158456, IDEA-157727)  

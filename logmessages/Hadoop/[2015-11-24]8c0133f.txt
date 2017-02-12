@@ -1,0 +1,1 @@
+  YARN-4298. Fix findbugs warnings in hadoop-yarn-common. Contributed by Sunil G.  

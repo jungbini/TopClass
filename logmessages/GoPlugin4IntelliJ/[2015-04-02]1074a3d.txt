@@ -1,0 +1,1 @@
+  process local type in case of type conversion, fix #1500  

@@ -1,0 +1,1 @@
+  Fix a bug in the Google-internal rule "Fileset" (not in Bazel).  -- MOS_MIGRATED_REVID=109195426  

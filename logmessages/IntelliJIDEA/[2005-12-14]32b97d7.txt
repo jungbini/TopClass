@@ -1,0 +1,1 @@
+  - fixed issue with WebSphere & TomCat remote jsp debug not working - fixed issue with remote connection to generic app server with wrong server port  

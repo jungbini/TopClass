@@ -1,0 +1,1 @@
+  add user notification for JDK bug with SSL alert WI-17251 unreconized_name when talking to https svn repo  

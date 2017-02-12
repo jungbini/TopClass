@@ -1,0 +1,1 @@
+  Update ui_text.xml  Apostrophe error fixed.  

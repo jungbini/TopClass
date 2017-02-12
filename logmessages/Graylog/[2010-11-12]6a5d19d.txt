@@ -1,0 +1,1 @@
+  fix rails3 deprecation warnings. fix tests  

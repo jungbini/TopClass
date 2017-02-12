@@ -1,0 +1,1 @@
+  IDEA-67476 (redundant 'else' quickfix is incorrect)  

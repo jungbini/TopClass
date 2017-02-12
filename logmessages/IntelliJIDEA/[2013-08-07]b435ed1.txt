@@ -1,0 +1,1 @@
+  added possibility to specify missing methods for (class, version) pair. Added updater for a new versions.  fixed PY-10497 Teach code compatibility inspection about 

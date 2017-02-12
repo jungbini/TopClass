@@ -1,0 +1,1 @@
+  HadoopIndexTask: Jackson fixes and general overriding of storage-specific stuff  

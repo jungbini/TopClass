@@ -1,0 +1,1 @@
+  Test for agents with external hg config fixed  * ignore all config files except repository config for unit test mode; * hg separated process builder changed to ShellCommand executor in tests  

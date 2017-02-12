@@ -1,0 +1,1 @@
+  IDEADEV-24045 - Debugger: UI: with detached views the keyboard shortcuts should work normally  

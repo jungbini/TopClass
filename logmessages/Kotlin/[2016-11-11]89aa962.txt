@@ -1,0 +1,1 @@
+  Revert default value for "main" parameter for Gradle JS plugin to "call"  #KT-14724 fixed  

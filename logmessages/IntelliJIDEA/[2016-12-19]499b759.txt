@@ -1,0 +1,1 @@
+  postfix templates: doesn't start write action if it isn't necessary  

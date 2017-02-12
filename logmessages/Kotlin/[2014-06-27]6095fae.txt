@@ -1,0 +1,1 @@
+  Make debugger tests work with Idea 14  

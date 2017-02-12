@@ -1,0 +1,1 @@
+  fixed factory close on server shutdown with missing activate  

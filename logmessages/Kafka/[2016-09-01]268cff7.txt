@@ -1,0 +1,1 @@
+  KAFKA-4112: Remove alpha quality label from Kafka Streams in docs  Rephrase 'alpha quality' wording in Streams section of api.html. Couple of other minor fixes in streams.html  Author: Damian Guy <damian.guy@gmail.com>  Reviewers: Guozhang Wang, Ismael Juma, Michael G. Noll  Closes #1811 from dguy/kstreams-312  

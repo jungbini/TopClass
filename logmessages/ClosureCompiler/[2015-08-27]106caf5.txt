@@ -1,0 +1,1 @@
+  Fix tree start location in VariableDeclarationList  This fixes inline JSDoc not being attached properly in exported VariableDeclarationList. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=101727718  

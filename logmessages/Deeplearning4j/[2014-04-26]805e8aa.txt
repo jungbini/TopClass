@@ -1,0 +1,1 @@
+  fixed regularization and conv nets  

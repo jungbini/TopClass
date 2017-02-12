@@ -1,0 +1,1 @@
+  Serialize properties for objects  A new special CallableKind for properties created for objects -- OBJECT_PROPERTY. Also fix PropertyPsiData.isFinal() in case of properties backed by fields  

@@ -1,0 +1,1 @@
+  fixed PY-3687 No completion for keywords in list comprehensions  

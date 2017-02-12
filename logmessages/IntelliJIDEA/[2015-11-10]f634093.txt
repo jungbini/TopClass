@@ -1,0 +1,1 @@
+  If the latest version of plugin was the same as installed and this version was considered broken then it was still offered to upgrade to this version (the same) #IDEA-147718 fixed  

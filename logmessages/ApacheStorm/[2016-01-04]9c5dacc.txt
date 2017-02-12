@@ -1,0 +1,1 @@
+  A fix for integration tests with clj  

@@ -1,0 +1,1 @@
+  xdebugger: allow to hide unrelated breakpoint types in breakpoints dialog  

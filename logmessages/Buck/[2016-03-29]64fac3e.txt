@@ -1,0 +1,1 @@
+  export_file: export directories properly  Summary:Previously, `export_file` would silently just create an empty directory. This fixes it to copy the entire directory contents.  Test Plan: added test  Reviewed By: Coneko  fb-gh-sync-id: b9fe952 fbshipit-source-id: b9fe952  

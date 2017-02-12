@@ -1,0 +1,1 @@
+  IDEA-83316 User is not able to view variable information (Ctrl+MousePointer) when is stopping on breakpoint - better fix  

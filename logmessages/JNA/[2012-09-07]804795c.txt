@@ -1,0 +1,1 @@
+  fix for issue #116 (continued yet again)  I'm failing hard... ok to merge? Indentation was fixed and I removed the try block.  

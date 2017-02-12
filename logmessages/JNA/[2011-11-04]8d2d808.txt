@@ -1,0 +1,1 @@
+  add linux x86/amd64 natives, w64 native, fix w64 compiler warnings  

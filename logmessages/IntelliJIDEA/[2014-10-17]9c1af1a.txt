@@ -1,0 +1,1 @@
+  IDEA-130605 Import Settings: "Select Components to Import" dialog has some unreadable items  fix Live Templates  

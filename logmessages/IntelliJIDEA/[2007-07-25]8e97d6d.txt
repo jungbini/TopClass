@@ -1,0 +1,1 @@
+  bug fix: IDEADEV-19205 displaying user labels in Show Changes Only mode  

@@ -1,0 +1,1 @@
+  IDEA-141007 (Java | Java language level migration aids | Unnecessary boxing inspection suggests fix which lead to exception)  

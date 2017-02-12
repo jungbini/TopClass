@@ -1,0 +1,1 @@
+  10 years old bug in editor scrolling +review CR-IC @Denis.Zhdanov  

@@ -1,0 +1,1 @@
+  Contribution from Alex Cruise about compilation fix under JDK 1.7  

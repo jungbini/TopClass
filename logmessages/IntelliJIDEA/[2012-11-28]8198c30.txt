@@ -1,0 +1,1 @@
+  fixed PY-8131 Change Signature: popup about inability to perform refactoring is not shown for lambda expressions  

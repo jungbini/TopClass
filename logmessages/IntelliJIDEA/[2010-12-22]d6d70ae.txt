@@ -1,0 +1,1 @@
+  fix compatibility of generator with python 3  

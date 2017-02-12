@@ -1,0 +1,1 @@
+  a more local fix for IDEA-154289 PsiClass and view provider can never agree on language  

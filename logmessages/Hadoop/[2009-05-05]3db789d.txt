@@ -1,0 +1,1 @@
+  Merge -r 771606:771607 from trunk to branch 0.20 to fix HADOOP-5726.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/branches/branch-0.20@771609 13f79535-47bb-0310-9956-ffa450edef68  

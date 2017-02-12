@@ -1,0 +1,1 @@
+  fixed PY-6947 Separate RST into plugin suitable for inclusion into PhpStorm/WebStorm  

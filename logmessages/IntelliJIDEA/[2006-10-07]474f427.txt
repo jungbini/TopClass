@@ -1,0 +1,1 @@
+  implicit creation & registration of nested type definitions in case thay aren't created & registered explicitly (fixing http://www.jetbrains.net/jira/browse/IDEADEV-10537)  

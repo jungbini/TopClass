@@ -1,0 +1,1 @@
+  fixed PY-9690 Show 'Insert documentation string stub' only on function name  

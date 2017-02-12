@@ -1,0 +1,1 @@
+  Fix Resource returned from CommonsHttpBackedRepository so that it continues to be usable after another resource is loaded - This implementation assumes that resources are generally read-and-throw-away, so it will perform extra GET requests rather than pre-emptively downloading URL content. - Also, fixed determination of latest when 

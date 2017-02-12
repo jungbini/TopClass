@@ -1,0 +1,1 @@
+  invoke setKeyEquivalent: after adding buttons with proper index #IDEA-108635 fixed  

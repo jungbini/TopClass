@@ -1,0 +1,1 @@
+ - additional debug messages for serial data reading - fix for NullPointerException on startup  

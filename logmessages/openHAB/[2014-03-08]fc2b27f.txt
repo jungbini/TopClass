@@ -1,0 +1,1 @@
+  Updated multi instance command class logging to make it better for debugging.  

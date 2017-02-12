@@ -1,0 +1,1 @@
+  WEB-9563 There is a bug with Emmet and BEM namings (cherry-picked from 9b45d86)  

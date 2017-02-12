@@ -1,0 +1,1 @@
+ror and imho is more readable and meaningful that the previous assertion.  

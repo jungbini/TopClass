@@ -1,0 +1,1 @@
+  First drop for #644 Add support for Jetty 9 new WebSocket API. Chrome/Safari are broken because of a bug in Jetty  

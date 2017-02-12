@@ -1,0 +1,1 @@
+  fix parsing of object literals in GQL; remove 'throws Exception' in ParsingTestCase.doTest()  

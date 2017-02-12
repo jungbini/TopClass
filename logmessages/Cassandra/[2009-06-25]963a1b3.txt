@@ -1,0 +1,1 @@
+  add tests for supercolumnfamily removal; fix bugs. (both the assert removal and the "if" removal are bug fixes.)  patch by jbellis; reviewed by Sandeep Tata for CASSANDRA-255  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@788511 13f79535-47bb-0310-9956-ffa450edef68  

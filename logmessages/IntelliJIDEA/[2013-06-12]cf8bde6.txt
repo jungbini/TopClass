@@ -1,0 +1,1 @@
+  [git log] Split VcsLogController, fix dependencies  Introduce VcsLogDataHolder to hold and refresh the DataPack on demand. Use it instead of the VcsLogController. Keep the VcsLogController although in fact unused, because it contains some interactive rebase stuff which will be used further.  

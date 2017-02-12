@@ -1,0 +1,1 @@
+  Config: make macro handling compatible with existing configs  Summary: Existing configs embed genrule commands, so recent support to support the `$(config ...)` macro broke these.  Add some code to preserve these until these configs get fixed.  Test Plan: CI  fbshipit-source-id: 5a4b572  

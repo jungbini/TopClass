@@ -1,0 +1,1 @@
+ [caldav] - add charset option - presence-simulation posibility - add test for caldav-personal - filter for categories and event name - small fixes  

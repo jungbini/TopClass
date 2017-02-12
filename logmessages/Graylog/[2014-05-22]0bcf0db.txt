@@ -1,0 +1,1 @@
+  fix rickshaw memory leaks in dashboards  replacing the DOM element that rickshaw attached to is not enough to get rid of the lingering event listeners which keep the SVG DOM elements alive having one more level of DOM element fixes the issue and allows the garbage collector to do its work  fixes issue #782  

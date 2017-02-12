@@ -1,0 +1,1 @@
+  Replaced `GradleExecutor.withNoDefaultJvmArgs()` with `useDefaultBuildJvmArgs()` and fixed implementation to honour this properly in all the implementations. Also changed implementations to consider `--daemon` and `--no-daemon` args when deciding whether the daemon is required or not.  

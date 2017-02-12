@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=36 ("Broadcaster#setScope now working as expected")  Maker sure a new instance is always created when changing the scope at runtime.  

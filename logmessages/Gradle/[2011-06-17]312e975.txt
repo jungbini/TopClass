@@ -1,0 +1,1 @@
+  Improved slightly the exception message to ease debugging.  

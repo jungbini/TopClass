@@ -1,0 +1,1 @@
+  introduce ability to support android_aar (part II, AndroidManifest.xml)  Summary: According to http://tools.android.com/tech-docs/new-build-system/aar-format, there are 4 components are mandatory for .aar file, `AndroidManifest.xml`, `class.jar`, `res/`, `R.txt`. In this 

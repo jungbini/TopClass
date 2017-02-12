@@ -1,0 +1,1 @@
+  MINOR: fix incorrect logging in StreamThread  Fix incorrect logging when unable to create an active task. The output was: Failed to create an active task %s: It should have the taskId.  Author: Damian Guy <damian.guy@gmail.com>  Reviewers: Ismael Juma, Eno Thereska  Closes #2109 from dguy/minor-logging  

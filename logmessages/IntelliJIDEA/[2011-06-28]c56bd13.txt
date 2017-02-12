@@ -1,0 +1,1 @@
+  allow empty package prefix for jsr45 configuration  

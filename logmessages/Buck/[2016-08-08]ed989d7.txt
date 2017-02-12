@@ -1,0 +1,1 @@
+  buck query: fix `rdeps` when used with symlinks/autodeps  Summary: The buck query implementation calls into the parser several 

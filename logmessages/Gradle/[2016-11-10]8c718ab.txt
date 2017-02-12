@@ -1,0 +1,1 @@
+  Log maxWorkers to info level from BuildOperationWorkerRegistry  Log statement from ParallelTaskPlanExecutor moved to debug level. Represent the size of the executor, not how many workers will be allowed to run in parallel.  

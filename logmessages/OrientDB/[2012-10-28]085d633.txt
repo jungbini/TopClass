@@ -1,0 +1,1 @@
+  Fixed 2 bugs on GROUP BY 1) empty result was retrieved in some circumstances 2) no projections now means * so you can group by a field without explicitly declare in the projection if it's part of *  

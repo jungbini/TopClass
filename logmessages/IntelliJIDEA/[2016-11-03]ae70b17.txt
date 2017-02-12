@@ -1,0 +1,1 @@
+  fixed "Collecting data..." instead of toString value in groovy ref renderer  

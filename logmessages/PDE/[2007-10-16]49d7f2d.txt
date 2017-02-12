@@ -1,0 +1,1 @@
+  major changes to how size() methods are handled to fix resize bugs  

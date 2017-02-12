@@ -1,0 +1,1 @@
+  fixed PY-6845 Class Diagrams: redundant metaclass relation for child classes  

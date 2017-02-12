@@ -1,0 +1,1 @@
+  Lazily initialize M2Installation test fixture.  - Doing this eagerly messes up the TestNameTestDirectoryProvider because we are initializing it outside the scope of a feature method.  

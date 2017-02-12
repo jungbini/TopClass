@@ -1,0 +1,1 @@
+  Fixed output scraping test fixture for changes to buildSrc task display names.  

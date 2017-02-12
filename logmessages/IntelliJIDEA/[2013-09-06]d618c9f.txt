@@ -1,0 +1,1 @@
+  fixed PY-6932 Support for Gtk+ 3 dynamic modules  

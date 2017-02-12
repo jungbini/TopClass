@@ -1,0 +1,1 @@
+  safe delete of constructor parameter: anonymous class usages are fixed  

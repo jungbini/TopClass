@@ -1,0 +1,1 @@
+  rearranging/renaming incremental module into build module, adding it to the build.xml, so it is part of the compiler.jar now; removing unneeded class, fixing visibility  

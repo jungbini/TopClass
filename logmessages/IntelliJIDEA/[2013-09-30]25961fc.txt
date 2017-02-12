@@ -1,0 +1,1 @@
+  Gradle: resolve.contributor order fix  

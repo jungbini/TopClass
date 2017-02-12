@@ -1,0 +1,1 @@
+  go to action action fixes: appropriate sorting for actions/boolean option descriptors don't process simple ui setting provider process top hits before preferences don't enlarge boolean option descriptor renderer panel action degree > group degree  

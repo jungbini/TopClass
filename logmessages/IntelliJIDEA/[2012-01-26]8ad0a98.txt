@@ -1,0 +1,1 @@
+  Fixed bug in logging initialization (compiler server).  

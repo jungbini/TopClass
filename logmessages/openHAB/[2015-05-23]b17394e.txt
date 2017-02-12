@@ -1,0 +1,1 @@
+ Merge pull request #2632 from lolodomo/freebox  Freebox binding: fix phone calls management (issue 2561)  commit b17394e2901724a49baddc002f498f1f9e986175  Freebox binding: fix phone calls management (issue 2561)  

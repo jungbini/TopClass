@@ -1,0 +1,1 @@
+  Limit length of the random part of test directory names to 5 characters to fix some native tests failing on winperf1 agent  

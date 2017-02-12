@@ -1,0 +1,1 @@
+  WEB-19469 Debugger crashing on eval() if exception breakpoints are enabled  

@@ -1,0 +1,1 @@
+  IDEA-60191 A Groovy script containing a Runnable main class doesn't have the "Run" or "Debug" actions  

@@ -1,0 +1,1 @@
+  fixed PY-15358 Rename quickfix should not be available in batch mode  

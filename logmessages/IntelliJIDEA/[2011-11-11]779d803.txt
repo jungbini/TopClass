@@ -1,0 +1,1 @@
+  fixed PY-4375 Join lines: delete escaping backslash when joining one string  

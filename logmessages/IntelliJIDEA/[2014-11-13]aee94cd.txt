@@ -1,0 +1,1 @@
+  fixed PY-14322 IPython Notebook: do not move focis out of the cell on ESC in the completion popup  

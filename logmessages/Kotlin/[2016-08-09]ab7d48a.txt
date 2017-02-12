@@ -1,0 +1,1 @@
+  Light Classes: Do not compute annotations for light elements with invalid origin (possible fix for KT-13199)  

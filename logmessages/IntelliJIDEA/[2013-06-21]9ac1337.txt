@@ -1,0 +1,1 @@
+  javaFX: generate getters/setters for javafx properties cache fixed (IDEA-109383)  

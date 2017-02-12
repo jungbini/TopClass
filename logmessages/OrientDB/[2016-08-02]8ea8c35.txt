@@ -1,0 +1,1 @@
+  fixed exception behaviour on ridbag deserialization in case of wrong value, now keep the value as it is, issue #6467  

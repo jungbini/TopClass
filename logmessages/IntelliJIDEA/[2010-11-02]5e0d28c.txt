@@ -1,0 +1,1 @@
+  fixed duplicated class nodes in project view for gwt libraries (IDEA-26915)  

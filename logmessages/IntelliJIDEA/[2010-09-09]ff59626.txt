@@ -1,0 +1,1 @@
+  fixed copying resource if pattern starts with '/' and test added  

@@ -1,0 +1,1 @@
+  Further fixes to detection of stack traces in build output.  

@@ -1,0 +1,1 @@
+  reverted 'tests: platform prefix for light CodeInsight tests'  

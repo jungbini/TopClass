@@ -1,0 +1,1 @@
+  fixed PY-13884 "Override Methods" loses @staticmethod decorator from parent  

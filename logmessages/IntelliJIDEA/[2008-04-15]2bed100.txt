@@ -1,0 +1,1 @@
+  find method duplicates: returned field fix (IDEADEV-25352)  

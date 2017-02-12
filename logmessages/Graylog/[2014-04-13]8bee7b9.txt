@@ -1,0 +1,1 @@
+  Bumping Kafka version number (whose POM is fixed) and removing its deps  

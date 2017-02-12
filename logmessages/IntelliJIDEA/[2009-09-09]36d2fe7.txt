@@ -1,0 +1,1 @@
+  fixed [RUBY-4207] : TODO's only highlight with the default color  

@@ -1,0 +1,1 @@
+  Attempt to fix C code compilation with VisualCpp  

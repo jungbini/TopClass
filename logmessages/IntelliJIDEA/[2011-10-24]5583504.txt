@@ -1,0 +1,1 @@
+  IDEA-74898 fix launching of sdk and avd managers from android sdk r14 [rev=rustam.vishnyakov]  

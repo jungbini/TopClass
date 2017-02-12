@@ -1,0 +1,1 @@
+  fixed [PY-3596] Output console of test runner prints \n\n as single n\  

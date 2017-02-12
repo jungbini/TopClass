@@ -1,0 +1,1 @@
+  fixed warning when jar is included more than once  

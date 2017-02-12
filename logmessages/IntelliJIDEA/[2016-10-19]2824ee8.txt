@@ -1,0 +1,1 @@
+  java completion: fix "{} ()" when choosing anonymous class constructor with parameters  

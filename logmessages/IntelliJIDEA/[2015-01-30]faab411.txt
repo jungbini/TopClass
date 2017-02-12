@@ -1,0 +1,1 @@
+  [vcs-log] fixing interaction between linear collapse and linear bek  

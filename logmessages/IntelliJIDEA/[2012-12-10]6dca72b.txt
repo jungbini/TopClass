@@ -1,0 +1,1 @@
+  IDEA-97130 IDEA cann't debug Griffon integration tests (cherry-picked from e4c1938) reviewer: Peter Gromov  

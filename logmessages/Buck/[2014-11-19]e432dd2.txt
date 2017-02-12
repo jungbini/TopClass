@@ -1,0 +1,1 @@
+  Fix comparison in a failing test.  Summary: `VersionstringComparator.compare` can return negative numbers other than `-1` if the first version is lower than the second version. This 

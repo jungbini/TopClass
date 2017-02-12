@@ -1,0 +1,1 @@
+  fixed live query unsubscribe on case of closed connection, issue #6217  

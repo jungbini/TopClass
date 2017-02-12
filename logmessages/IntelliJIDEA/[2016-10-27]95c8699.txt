@@ -1,0 +1,1 @@
+  Clear exception information in Python 2 (PY-21215)  It's needed for example for celery's retry for task. The fix suggested by Krzysztof Nazarewski.  

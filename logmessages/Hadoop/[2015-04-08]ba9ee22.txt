@@ -1,0 +1,1 @@
+  YARN-2901 addendum: Fixed findbugs warning caused by previously patch  

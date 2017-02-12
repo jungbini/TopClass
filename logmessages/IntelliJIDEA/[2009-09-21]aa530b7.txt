@@ -1,0 +1,1 @@
+  reenable highlighting in debugger evaluation field  

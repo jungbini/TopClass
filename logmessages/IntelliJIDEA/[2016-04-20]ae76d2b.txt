@@ -1,0 +1,1 @@
+  --Respect collect run time type information and qt-support when connecting to debugger from console  

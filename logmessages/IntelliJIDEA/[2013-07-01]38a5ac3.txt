@@ -1,0 +1,1 @@
+  AppCode: debugger tests are more strict and verbose  

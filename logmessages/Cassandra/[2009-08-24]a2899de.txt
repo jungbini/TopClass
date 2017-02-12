@@ -1,0 +1,1 @@
+  [fixed version] avoid opening multiple writers for the current file; the buffered nature of the global logWriter_ could cause problems patch by jbellis; reviewed for CASSANDRA-370 by Sammy Yu  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@807399 13f79535-47bb-0310-9956-ffa450edef68  

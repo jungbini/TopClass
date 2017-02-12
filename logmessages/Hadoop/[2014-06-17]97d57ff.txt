@@ -1,0 +1,1 @@
+  svn merge -c 1603239 merging from trunk to branch-2 to fix:HDFS-6545. Finalizing rolling upgrade can make NN unavailable for a long duration.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1603241 13f79535-47bb-0310-9956-ffa450edef68  

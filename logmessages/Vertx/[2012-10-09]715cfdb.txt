@@ -1,0 +1,1 @@
+  fixed memory leak in SockJS server and changed default session_timeout to 5 seconds to bring into line with sockjs-node  

@@ -1,0 +1,1 @@
+  fix(android): move launchMode from manifest to intents, fix binding/sharing with new activity stack model  

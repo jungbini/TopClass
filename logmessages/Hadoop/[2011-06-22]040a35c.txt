@@ -1,0 +1,1 @@
+  MAPREDUCE-2615. Make killJob go through AM and fix JobSummaryLog. (Siddharth Seth via llu)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/MR-279@1138689 13f79535-47bb-0310-9956-ffa450edef68  

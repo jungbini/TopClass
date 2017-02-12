@@ -1,0 +1,1 @@
+  MINOR: fix RocksDBStore range search  The range is inclusive according to KeyValueStore's java doc.  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Guozhang Wang  Closes #883 from ymatsuda/minor  

@@ -1,0 +1,1 @@
+  Use IDEA's color selection UI (which should be fixed for IDEADEV-32558)  

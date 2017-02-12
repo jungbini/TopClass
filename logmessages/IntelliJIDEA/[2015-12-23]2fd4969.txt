@@ -1,0 +1,1 @@
+  #PY-14614 fixed Add option to ignore PyProtectedMemberInspection in type annotations  

@@ -1,0 +1,1 @@
+  send thread from debugger to thread dump view  

@@ -1,0 +1,1 @@
+  Added metrics test cases for Cassandra and Hbase. Fixed bug that circumvented type caching (related to #489).  

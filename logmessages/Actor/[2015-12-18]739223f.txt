@@ -1,0 +1,1 @@
+  fix(server:presences): set last seen to last online + timeout  

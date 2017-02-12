@@ -1,0 +1,1 @@
+  Fixed bug on massive insertion: now disable the cache for real in all cases.  

@@ -1,0 +1,1 @@
+  KAFKA-2807: Move ThroughputThrottler back to tools jar to fix upgrade tests.  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Gwen Shapira  Closes #499 from ewencp/kafka-2807-relocate-throughput-throttler  

@@ -1,0 +1,1 @@
+  fix groovyc classpath for test sources  

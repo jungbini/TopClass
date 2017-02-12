@@ -1,0 +1,1 @@
+nctionality test 260adbb [Khalid Huseynov] remove unused import d7df363 [Khalid Huseynov] bugfix: pass userAndRoles instead of roles 85be8b7 [Khalid Huseynov] change arg HashSet -> Set 1baa549 [Khalid Huseynov] set roles on login 83dd249 [Khalid Huseynov] use correct roles in broadcast 4bd7169 [Khalid Huseynov] add roles in NotebookAuthorization  

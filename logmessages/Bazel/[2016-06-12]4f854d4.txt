@@ -1,0 +1,1 @@
+  Xml processing fixes: * Support for <item name="foo" type="id">7x0000</item> * Adds <eat-comment/> after source attributions to ensure they are not sent to the final binary * Store attributes for arrays to the string translatable=false case  -- MOS_MIGRATED_REVID=124684322  

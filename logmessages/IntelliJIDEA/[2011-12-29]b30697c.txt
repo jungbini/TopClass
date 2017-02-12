@@ -1,0 +1,1 @@
+  fixed EA-32847 - NPE: BaseQuoteHandler.isClosingQuote  

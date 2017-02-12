@@ -1,0 +1,1 @@
+  speedup gradle console filter, fix IDEA-150077  cheap check if the string starts with / or {Alpha}:\ check if the project has any gradle module wrap pattern matching with the bombed char sequence  

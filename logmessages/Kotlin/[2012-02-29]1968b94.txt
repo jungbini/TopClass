@@ -1,0 +1,1 @@
+  Fixed 'sout' before a function invocation.  #KT-1315 fixed  

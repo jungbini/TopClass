@@ -1,0 +1,1 @@
+  Fix bug where pairing would fail if there were no associations. Also, optimise association map generation to only do it once and only when it's first needed.  

@@ -1,0 +1,1 @@
+  Removed temporary fix from Sketch and a changed comment in ChangeDetector  

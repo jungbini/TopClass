@@ -1,0 +1,1 @@
+  IDEADEV-8384 unused symbol "set as dependency injection annotation" quickfix added  

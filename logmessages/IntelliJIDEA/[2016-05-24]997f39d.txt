@@ -1,0 +1,1 @@
+  surrogate pairs are representable in UTF8 #WEB-21028 fixed  

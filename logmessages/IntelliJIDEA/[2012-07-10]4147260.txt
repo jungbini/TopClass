@@ -1,0 +1,1 @@
+  [merge tool] "All changes resolved" message: show based on the component, not on the project.  May fix some focus issues.  

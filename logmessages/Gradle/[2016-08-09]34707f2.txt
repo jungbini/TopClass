@@ -1,0 +1,1 @@
+  Enable debug logging in test that parses daemon context from logs  

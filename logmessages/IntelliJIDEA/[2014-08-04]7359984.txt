@@ -1,0 +1,1 @@
+  fixed PY-13593 Create New Project: do not select python 3 interpreter by default for projects which do not support it  

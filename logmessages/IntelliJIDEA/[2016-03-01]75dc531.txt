@@ -1,0 +1,1 @@
+  multi-vm debug  set thread name for non-main vm in any case  

@@ -1,0 +1,1 @@
+  keep whitespaces inside inner tags #WEB-18909 fixed  

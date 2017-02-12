@@ -1,0 +1,1 @@
+  getSourceMirrorClass() fix for classes in default package  

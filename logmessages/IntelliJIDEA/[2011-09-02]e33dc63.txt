@@ -1,0 +1,1 @@
+  a consistent hashCode() for PsiNewExpressionImpl$1, should fix inconsistent depth  

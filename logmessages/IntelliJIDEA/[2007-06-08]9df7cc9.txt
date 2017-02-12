@@ -1,0 +1,1 @@
+  Multiple record deletion fix plus tests speed-up.  

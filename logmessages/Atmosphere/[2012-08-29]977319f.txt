@@ -1,0 +1,1 @@
+  Fix regression added by the multitab fix yesterday  

@@ -1,0 +1,1 @@
+  restore compilation after rebase of dropping external annotations; fix affected tests  

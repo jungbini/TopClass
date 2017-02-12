@@ -1,0 +1,1 @@
+  fixed issue with stale version of configurations used for short info  

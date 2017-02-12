@@ -1,0 +1,1 @@
+  ExternalAnnotator: compatibility with older clients is restored; typo fixed in collectInformation name +review CR-IC-2315  

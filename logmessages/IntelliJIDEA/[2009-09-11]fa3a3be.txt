@@ -1,0 +1,1 @@
+  fix keep ToolWindow position for split mode between project reloads  

@@ -1,0 +1,1 @@
+  fix context menu on toolwindow header (IDEA-81362)  

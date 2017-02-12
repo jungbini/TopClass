@@ -1,0 +1,1 @@
+  fixed check for null key in embedded maps.  

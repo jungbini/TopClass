@@ -1,0 +1,1 @@
+  xdebugger: rebuild standalone variables view on EDT  

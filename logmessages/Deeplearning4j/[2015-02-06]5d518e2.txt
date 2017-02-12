@@ -1,0 +1,1 @@
+  fix json config bug with distribution  

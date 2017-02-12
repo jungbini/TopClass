@@ -1,0 +1,1 @@
+  Platform: always allow writing module files (IDEA-123899) + typo in test fixed  

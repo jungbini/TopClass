@@ -1,0 +1,1 @@
+  allow users with stream edit permissions to pause/resume streams  this extends the check from the 'streams:changestate' permission to allow users with 'streams:edit' to perform the same operation.  fixes #1456  

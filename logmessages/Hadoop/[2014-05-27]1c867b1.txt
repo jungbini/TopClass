@@ -1,0 +1,1 @@
+  HDFS-6416. Use Time#monotonicNow in OpenFileCtx and OpenFileCtxCatch to avoid system clock bugs. Contributed by Abhiraj Butala  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1597868 13f79535-47bb-0310-9956-ffa450edef68  

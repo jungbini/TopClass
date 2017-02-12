@@ -1,0 +1,1 @@
+  fixed PY-7094 Insert type assertion: leads to unresolved reference when invoked in lambdas  

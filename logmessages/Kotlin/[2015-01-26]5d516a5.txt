@@ -1,0 +1,1 @@
+  No need to shorten non-affected references in quickfixes  

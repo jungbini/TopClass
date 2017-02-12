@@ -1,0 +1,1 @@
+  fix for IDEADEV-3545 (a fix from InspectionGadgetsIridia branch which was not merged in the I18N branches)  

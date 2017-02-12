@@ -1,0 +1,1 @@
+  fix hanging external editor preference (issue #1355)  

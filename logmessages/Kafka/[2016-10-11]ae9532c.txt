@@ -1,0 +1,1 @@
+  MINOR: Fixed broken links in the documentation  Author: Vahid Hashemian <vahidhashemian@us.ibm.com>  Reviewers: Jason Gustafson <jason@confluent.io>  Closes #2010 from vahidhashemian/doc/fix_hyperlinks  

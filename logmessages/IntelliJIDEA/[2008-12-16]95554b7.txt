@@ -1,0 +1,1 @@
+  fixed [RUBY-2553] : Dynamically generated value inspection reacts on value substitution  

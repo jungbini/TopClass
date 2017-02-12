@@ -1,0 +1,1 @@
+  Fixed bug on MVRB-Tree-RID-Set built with default 8 items as threshold instead of reading the configuration  

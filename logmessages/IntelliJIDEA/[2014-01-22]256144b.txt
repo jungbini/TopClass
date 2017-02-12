@@ -1,0 +1,1 @@
+  test fixed: do not assert order of ClassInheritors  

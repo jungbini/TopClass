@@ -1,0 +1,1 @@
+  1) Fix bug with Master stopping trying to be Master after he losses it once  

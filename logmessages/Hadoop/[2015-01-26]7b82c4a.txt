@@ -1,0 +1,1 @@
+  HADOOP-11450. Cleanup DistCpV1 not to use deprecated methods and fix javadocs. Contributed by Varun Saxena.  

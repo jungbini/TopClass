@@ -1,0 +1,1 @@
+  Adding 'Add open modifier to supertype' fix for FINAL_SUPERTYPE error.  

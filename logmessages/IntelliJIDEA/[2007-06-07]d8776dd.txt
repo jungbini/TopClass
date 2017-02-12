@@ -1,0 +1,1 @@
+  added generator tests fixed getter and setter bug: if there is a field and getter or setter, maches it, no one getter or setter corresponding 'll be added  

@@ -1,0 +1,1 @@
+  disabling breakpoints in dialog fixed  

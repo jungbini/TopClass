@@ -1,0 +1,1 @@
+  java soft stop  DEA-75946 Provide graceful "Exit" action during the debugging session  

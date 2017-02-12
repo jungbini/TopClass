@@ -1,0 +1,1 @@
+  1.fix resolution of ${basedir} in ant imports (IDEADEV-22796) 2.calculation of default file reference context via the value of "basedir" property  

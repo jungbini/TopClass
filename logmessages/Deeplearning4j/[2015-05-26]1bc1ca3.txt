@@ -1,0 +1,1 @@
+ Merge branch 'sd_bug_fixes' of github.com:SkymindIO/deeplearning4j into sd_bug_fixes  commit 6519ad061aea4f6e2ecf1721a316a34ee63969cc  Merge branch 'master' into sd_bug_fixes  commit ab8b231b551b022399185f07e7a0668f2517a416  Merge pull request #294 from smarthi/suneel  Few minor fixes  commit 1bc1ca35f5d0fa6a1cdf58d1318afb0607e77933  Few minor fixes  

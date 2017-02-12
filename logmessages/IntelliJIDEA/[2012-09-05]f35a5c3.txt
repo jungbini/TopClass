@@ -1,0 +1,1 @@
+  find word at caret tries to find next usage of previously searched element. fixed.  

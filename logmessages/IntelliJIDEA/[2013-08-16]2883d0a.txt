@@ -1,0 +1,1 @@
+  migration of multiple packages fixed (IDEA-90186)  

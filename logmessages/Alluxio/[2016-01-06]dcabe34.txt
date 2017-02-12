@@ -1,0 +1,1 @@
+  Modify the latest worker context in tiered store utils  Calls to reset() would invalidate the static field in TieredBlockStoreTestUtils. This has been fixed, and warnings have been added to javadoc about which methods modify global worker context configuration.  

@@ -1,0 +1,1 @@
+  The fix IDEA-94927 is partly narrowed to the particular jdk7 issue. A tiny refactoring has done.  

@@ -1,0 +1,1 @@
+  show breakpoint icon when debugger is suspended on non-line breakpoint (IDEA-70208)  

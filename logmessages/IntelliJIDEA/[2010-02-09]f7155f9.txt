@@ -1,0 +1,1 @@
+  create view method fix fixed and refactored (PY-487)  

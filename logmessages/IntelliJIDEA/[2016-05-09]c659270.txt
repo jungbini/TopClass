@@ -1,0 +1,1 @@
+  apply inspection fixes: proceed with next quick fix when one failed due to exception  

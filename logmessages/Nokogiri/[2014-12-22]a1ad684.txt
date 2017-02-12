@@ -1,0 +1,1 @@
+  Add xalan jars to fix issues with #1114  Jars downloaded from http://xalan.apache.org/xalan-j/downloads.html  

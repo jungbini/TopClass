@@ -1,0 +1,1 @@
+  fix(server:user): don't catch never-thrown exception  

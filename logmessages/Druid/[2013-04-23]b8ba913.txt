@@ -1,0 +1,1 @@
+  1) Fix bug with Master not starting up without an indexer specified 2) Fix bug with PotentiallyGzippedCompressionProvider only catching ZipExceptions and not IOException (java 6 throws IO, java 7 throws Zip) 3) Create DruidServerMetadata and use that instead of DruidServer to represent the current server  

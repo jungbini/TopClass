@@ -1,0 +1,1 @@
+  test support: npe fixed in generate text method action (IDEA-59616)  

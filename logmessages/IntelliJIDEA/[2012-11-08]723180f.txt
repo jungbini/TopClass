@@ -1,0 +1,1 @@
+  fixed PY-7971 Insert type assertion: produces invalid assertion in case of caret at the second reference in expression  

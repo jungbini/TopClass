@@ -1,0 +1,1 @@
+  fixed small bug on server admin in case of failing of acquire connection, issue #6329  

@@ -1,0 +1,1 @@
+  fixed ServletServerHttpRequest to reconstruct from "request.getParameterMap()" for form POST only (SPR-8688)  

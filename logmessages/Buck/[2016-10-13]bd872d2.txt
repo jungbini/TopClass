@@ -1,0 +1,1 @@
+  Split DebugPathSanitizer into a base class and an impl  Summary: The current path sanitizer approach doesn't work on Android (at least). This is in preparation for introducing a new approach to sanitization.  The munging-specific behavior is in the new MungingDebugPathSanitizer.  Test Plan: run tests  Reviewed By: Coneko  fbshipit-source-id: fe02f12  

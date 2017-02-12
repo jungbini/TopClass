@@ -1,0 +1,1 @@
+  Vault uses static inflater and deflater, fixed possible race condition when working with two or more projects removed hack running gc() and runFinalization() when unmapping a mapped file removed monitoring of total count of mapped bytes local history version updated  

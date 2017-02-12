@@ -1,0 +1,1 @@
+  Disallowed creating Kotlin files outside source directories.  #KT-1623 fixed  

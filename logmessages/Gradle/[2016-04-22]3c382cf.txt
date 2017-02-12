@@ -1,0 +1,1 @@
+  fix core plugin IDs after review  also don't mention them in the release notes, are they are applied by other 'user-facing' plugins  +review REVIEW-5913  

@@ -1,0 +1,1 @@
+  Git: fixed NPE EA-22563.  

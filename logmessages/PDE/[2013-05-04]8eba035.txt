@@ -1,0 +1,1 @@
+  fix for #1730, also change how update/loadPixels are called in Java2D  

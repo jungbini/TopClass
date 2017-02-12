@@ -1,0 +1,1 @@
+  fixed PY-4481 Incorrect hightlighting for the last value of a multi-line dict if not followed by comma  

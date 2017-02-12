@@ -1,0 +1,1 @@
+4 [astroshim] fix things that moon pointed out. 2f4d245 [astroshim] check windows path 7aca4bf [astroshim] move method to util 2a255ac [astroshim] change method name. e549977 [astroshim] normalize note name  

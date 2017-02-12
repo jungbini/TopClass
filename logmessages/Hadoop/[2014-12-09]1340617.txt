@@ -1,0 +1,1 @@
+  HADOOP-11378. Fix new findbugs warnings in hadoop-kms. Contributed by Li Lu.  

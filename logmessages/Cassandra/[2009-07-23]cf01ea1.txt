@@ -1,0 +1,1 @@
+  Return standard/super designation to introspection and fix typo in DD.  patch by Michael Greene; reviewed by jbellis for CASSANDRA-314  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@797209 13f79535-47bb-0310-9956-ffa450edef68  

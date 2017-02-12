@@ -1,0 +1,1 @@
+  fix WAL test that may fail randomly because of random generated data.  

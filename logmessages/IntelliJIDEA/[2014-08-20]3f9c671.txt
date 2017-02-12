@@ -1,0 +1,1 @@
+  fixed windows problem in PY-13374 Loading sign in Settings  

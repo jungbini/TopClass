@@ -1,0 +1,1 @@
+  [mac] fullscreen bottom empty space fixed + restore frame state on start  

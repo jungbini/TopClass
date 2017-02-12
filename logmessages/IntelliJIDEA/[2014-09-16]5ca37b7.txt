@@ -1,0 +1,1 @@
+  bug with adding the same plugin fixed  

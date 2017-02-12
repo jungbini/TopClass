@@ -1,0 +1,1 @@
+  Don't use configure-on-demand when building composite context  This fixes composite build so that it works properly with `--configure-on-demand`, in a build where the group/name attributes require full project evaluation to be properly configured.  

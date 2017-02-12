@@ -1,0 +1,1 @@
+  downgraded Scala samples and one integration test to Scala 2.9.1 because in 2.9.2, scaladoc requires Java 1.6 (probably a scaladoc bug)  

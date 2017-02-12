@@ -1,0 +1,1 @@
+  Improve NPE message in LookupDimensionSpec when lookup does not exist. (#3065)  The message used to be empty, which made things hard to debug.  

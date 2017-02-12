@@ -1,0 +1,1 @@
+  Fix edge case in SyslogOctetCountFrameDecoder  We have to take the skipped bytes (frame size value length + whitespace) into account when checking if the buffer has enough data to read the complete message.  This fixes an exception when reading from the buffer that mostly happened during high load situations.  Fixes #1105  

@@ -1,0 +1,1 @@
+  minor parallelization fixes and moving window casting to float  

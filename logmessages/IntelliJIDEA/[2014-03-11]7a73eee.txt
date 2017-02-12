@@ -1,0 +1,1 @@
+  IDEA-121961 Debugger: evaluate from variables doesn't include context  

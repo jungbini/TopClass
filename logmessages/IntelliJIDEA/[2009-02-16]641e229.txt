@@ -1,0 +1,1 @@
+  IDEADEV-34802 (Quickfix for "Unnecessary fully qualified name" breaks code)  

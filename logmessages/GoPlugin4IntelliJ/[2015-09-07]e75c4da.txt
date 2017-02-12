@@ -1,0 +1,1 @@
+  better processing for pointer type inside ranges, fix #1837  

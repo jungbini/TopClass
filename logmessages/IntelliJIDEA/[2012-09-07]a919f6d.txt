@@ -1,0 +1,1 @@
+  IDEA-90781 fix tuple declaration without initializer  

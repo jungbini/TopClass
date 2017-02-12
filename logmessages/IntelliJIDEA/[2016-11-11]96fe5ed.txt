@@ -1,0 +1,1 @@
+  fixed our classByName not searching the same way as in VirtualMachineProxy  

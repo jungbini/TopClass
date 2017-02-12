@@ -1,0 +1,1 @@
+  fix NPE in finding CompletionData by element's language (EA-45053)  

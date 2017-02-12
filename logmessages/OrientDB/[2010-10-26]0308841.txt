@@ -1,0 +1,1 @@
+  Issue 142: fixed error 400 -> 500 http://code.google.com/p/orient/issues/detail?id=142  

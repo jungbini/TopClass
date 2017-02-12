@@ -1,0 +1,1 @@
+  Issue #1404  1. Issue wih OFileClassic softly closed detection was fixed (OS caches were not taken in account).  2. Unsafe direct memory implementation was replaced by JNA because of JIT related issues. 3. Few multithreading improvements for OFile implementations.  

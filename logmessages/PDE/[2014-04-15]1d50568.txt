@@ -1,0 +1,1 @@
+  add debug message.. found Java 1.8 problem with build.  

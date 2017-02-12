@@ -1,0 +1,1 @@
+  fixed PY-6766 Compatibility inspection doesn't detect 'raise from'  

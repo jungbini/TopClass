@@ -1,0 +1,1 @@
+  Added a test fixture to allow test and build processes to synchronize (over http) and removed the marker file stuff from some some tooling api int tests.  

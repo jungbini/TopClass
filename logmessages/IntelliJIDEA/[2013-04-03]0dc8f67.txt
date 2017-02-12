@@ -1,0 +1,1 @@
+  Rename processor for django static prefix (PY-9362).  

@@ -1,0 +1,1 @@
+  fixed PY-5439  Renaming a script file does not rename associated run configuration  

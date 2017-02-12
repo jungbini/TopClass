@@ -1,0 +1,1 @@
+ fixed issue within MAX!Cube binding internalReceiveCommand method  

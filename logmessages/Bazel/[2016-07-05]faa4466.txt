@@ -1,0 +1,1 @@
+  Fixed cpp-rules-tests on Windows  This java test is fixable after Bazel no longer append .exe as suffix to .so cc_binary target on Windows.  -- Change-Id: I3a377839f00cf1e372f1ecb25692e86807e1ad43 Reviewed-on: https://bazel-review.googlesource.com/#/c/3964 MOS_MIGRATED_REVID=126637503  

@@ -1,0 +1,1 @@
+  IDEA-97282 (disable pointless quickfixes)  

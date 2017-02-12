@@ -1,0 +1,1 @@
+  IG: fix "Field accessed in both synchronized and unsynchronized contexts" inspection walking visitor problem  

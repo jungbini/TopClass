@@ -1,0 +1,1 @@
+e reconnected, however, any command is not working but raising exceptions" when already on notebook page e83f2d3 [Prabhjyot Singh] ZEPPELIN-223 fix: reconection in case of disconnection.  

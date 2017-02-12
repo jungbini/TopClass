@@ -1,0 +1,1 @@
+  Some refinements and fixes to application of transforms to files/artifacts:  - Don't transform a given file more than once per `Configuration`. - Pass through files from file dependencies that have the requested format. They were being discarded. - Apply transforms to the result of `ResolvedConfiguration.getResolvedArtifacts()`.  

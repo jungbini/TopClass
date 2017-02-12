@@ -1,0 +1,1 @@
+  ui: fix layout in error submitting dialog  * do not allow to stretch "assignee" panel  

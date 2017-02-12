@@ -1,0 +1,1 @@
+  YARN-5693. Reduce loglevel to Debug in ContainerManagementProtocolProxy and AMRMClientImpl (yufeigu via rkanter)  

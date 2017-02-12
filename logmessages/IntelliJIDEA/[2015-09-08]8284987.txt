@@ -1,0 +1,1 @@
+  fix modality state in GuiUtils.*invokeAndWait clients  

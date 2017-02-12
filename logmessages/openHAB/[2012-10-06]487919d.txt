@@ -1,0 +1,1 @@
+  fixed bug with KNX read flag on other GAs than the first one  

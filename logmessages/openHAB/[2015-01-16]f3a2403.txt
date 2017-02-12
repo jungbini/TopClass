@@ -1,0 +1,1 @@
+ influxdb persistence bugfix for issue 1225 https://github.com/openhab/openhab/issues/1225: log warnings not errors  

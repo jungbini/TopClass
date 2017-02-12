@@ -1,0 +1,1 @@
+  IDEA-64561 Provide navigation for XSD enum values: fix RNG  

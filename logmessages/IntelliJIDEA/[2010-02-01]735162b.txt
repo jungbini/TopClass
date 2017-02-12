@@ -1,0 +1,1 @@
+  move inner: outer class reference in hierarchy fixed (IDEA-40651)  

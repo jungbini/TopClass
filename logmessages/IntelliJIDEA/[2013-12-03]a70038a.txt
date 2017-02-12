@@ -1,0 +1,1 @@
+  merge junit and testng inspection and fix IDEA-117122 (Misordered assertEquals() arguments not reported for negative numbers)  

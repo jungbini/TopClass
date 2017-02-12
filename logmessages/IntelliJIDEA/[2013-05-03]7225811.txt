@@ -1,0 +1,1 @@
+  WEB-6967 Backspace handler bug  

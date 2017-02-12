@@ -1,0 +1,1 @@
+  AppCode: OC-10970 Support Swift in bundled color schemes (Default, Darcula, Xcode) * OC colors reuse default highlighting colors where possible * Swift colors reuse OC colors * removed possiblle keys collisions of OC colors (OC. prefix added) + bundled keymaps updated  

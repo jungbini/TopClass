@@ -1,0 +1,1 @@
+  fixed PY-14503 IPython Notebook, command-shift-up/down moves cell correctly, but scrolls to another location in the notebook  

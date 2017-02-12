@@ -1,0 +1,1 @@
+  HDFS-709. Fix TestDFSShell failure due to rename bug introduced by HDFS-677. Contributed by Suresh Srinivas.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/hdfs/trunk@825689 13f79535-47bb-0310-9956-ffa450edef68  

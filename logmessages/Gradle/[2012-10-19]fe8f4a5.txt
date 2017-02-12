@@ -1,0 +1,1 @@
+  fixed bug introduced in recent refactoring (caused a test to fail)  

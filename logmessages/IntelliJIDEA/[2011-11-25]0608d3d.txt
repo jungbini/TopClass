@@ -1,0 +1,1 @@
+  fixed 'create module from sources' for directory containing only *.groovy files (IDEA-76520)  

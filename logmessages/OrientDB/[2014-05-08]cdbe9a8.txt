@@ -1,0 +1,1 @@
+  SQL: fixed sub-query return in case the linked type is LINK  

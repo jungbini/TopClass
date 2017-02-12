@@ -1,0 +1,1 @@
+  fix dispose for libraries in project structure + directory-based storage fix: set correct requestor for file deletion  

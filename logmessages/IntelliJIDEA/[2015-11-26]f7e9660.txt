@@ -1,0 +1,1 @@
+  IDEA-141792 Alternative source available for the class ... should be closable and/or disabled - moved the settings to the general debugger  

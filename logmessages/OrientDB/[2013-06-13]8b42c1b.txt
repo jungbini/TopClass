@@ -1,0 +1,1 @@
+  Minor: fixed some NPE discovered when running in distributed cfg  

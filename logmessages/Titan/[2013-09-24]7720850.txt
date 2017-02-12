@@ -1,0 +1,1 @@
+  moved to Compare 2.4.0 Blueprints, removed SequenceFile upgraded, fixed #106, added support for has(key) and hasNot(key), fixed #141.  

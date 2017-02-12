@@ -1,0 +1,1 @@
+  KT-3563 Compiler requiring java.io.File, and it's unclear why #KT-3563 fixed  

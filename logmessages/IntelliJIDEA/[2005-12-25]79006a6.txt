@@ -1,0 +1,1 @@
+  fixed issue with complex type reference from another workspace highlighting, supporting local schema declarationd  

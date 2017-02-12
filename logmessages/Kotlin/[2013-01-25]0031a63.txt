@@ -1,0 +1,1 @@
+  KT-3277 Exception opening URLClassloader from java SDK. Obviously static class initializer doesn't have a name  EA-43194 - assert: KotlinSignatureInJavaMarkerProvider.getDescriptorForMember  #KT-3277 fixed  

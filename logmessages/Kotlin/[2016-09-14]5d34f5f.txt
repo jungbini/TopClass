@@ -1,0 +1,1 @@
+  KT-13836: fix generation of FQN of secondary constructor when it's called via typealias. Fix #KT-13836  

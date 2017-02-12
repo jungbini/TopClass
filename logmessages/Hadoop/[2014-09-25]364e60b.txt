@@ -1,0 +1,1 @@
+  HDFS-7144. Fix findbugs warnings in RamDiskReplicaTracker. (Contributed by Tsz Wo Nicholas Sze)  

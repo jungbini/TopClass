@@ -1,0 +1,1 @@
+  improved otype detection, fix pom compiler settings  

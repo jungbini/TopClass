@@ -1,0 +1,1 @@
+  Fix android_binary() so it uses resolve() instead of asReference() for the proguard config.  Summary: This fixes a bug where when a BuildTargetSourcePath was passed as the `proguard_config`, the build target was passed to `-include` instead of the path to the output file of the build target.  Test Plan: Sandcastle builds.  

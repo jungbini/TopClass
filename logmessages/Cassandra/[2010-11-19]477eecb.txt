@@ -1,0 +1,1 @@
+  fix flush and compaction races with schema updates. patch by gdusbabek and jbellis. CASSANDRA-1715  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1036937 13f79535-47bb-0310-9956-ffa450edef68  

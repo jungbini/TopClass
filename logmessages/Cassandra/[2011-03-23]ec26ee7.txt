@@ -1,0 +1,1 @@
+  fix encoding bugs in HintedHandoffManager, SystemTable when default charset is not UTF8 patch by slebresne; reviewed by jbellis for CASSANDRA-2367  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1084660 13f79535-47bb-0310-9956-ffa450edef68  

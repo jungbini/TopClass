@@ -1,0 +1,1 @@
+  fixed concurrency issue on serialization due to recursive save. issue #5279  

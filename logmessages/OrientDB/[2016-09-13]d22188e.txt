@@ -1,0 +1,1 @@
+  OSoftRefsHashMap: avoid NPE while evicting entries (fix for #6686)  

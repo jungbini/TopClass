@@ -1,0 +1,1 @@
+  WEB-12534 Code completion overriding emmet  - recalculate completion on prefix changing if there are no template and empty prefix - allow css-emmet templates in the start of style-attribute value  

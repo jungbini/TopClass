@@ -1,0 +1,1 @@
+  fixed PY-3720 SIOOBE java.lang.String.substring and PY-3724 Generate docstring leads to syntacticly incorrect code in case of single-quoted string  

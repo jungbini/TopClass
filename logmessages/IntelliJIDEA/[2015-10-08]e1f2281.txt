@@ -1,0 +1,1 @@
+  Hide debug toolwindow (PY-17137)  

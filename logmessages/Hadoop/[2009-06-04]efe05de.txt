@@ -1,0 +1,1 @@
+  HADOOP-5859. Fix "wait() or sleep() with locks held" findbugs warnings in DFSClient.  Contributed by Kan Zhang   git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk@781816 13f79535-47bb-0310-9956-ffa450edef68  

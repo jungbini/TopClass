@@ -1,0 +1,1 @@
+  Plumbers: Move plumber.add out of try/catch for ParseException.  The incremental indexes handle that now so it's not necessary.  Also, add debug logging and more detailed exceptions to the incremental indexes for the case where there are parse exceptions during aggregation.  

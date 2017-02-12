@@ -1,0 +1,1 @@
+  Fix minor command-line bug in OpenIE  

@@ -1,0 +1,1 @@
+  fix configurables modified test: avoid duplicating group names  

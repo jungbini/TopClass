@@ -1,0 +1,1 @@
+  update scheduling interval fixed (IDEA-81248)  

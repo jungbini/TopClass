@@ -1,0 +1,1 @@
+  github: fix "Checkout from GitHub" action with token without "user" scope  

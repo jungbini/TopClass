@@ -1,0 +1,1 @@
+  improved jsonpath support. fixed issue #735  

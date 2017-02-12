@@ -1,0 +1,1 @@
+  additional neg relations for  and , fixed issues with making any word containing  incorrectly becoming neg  

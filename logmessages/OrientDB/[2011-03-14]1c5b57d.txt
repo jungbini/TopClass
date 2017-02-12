@@ -1,0 +1,1 @@
+  Fixed bug on getting the global cfg for tree node size  

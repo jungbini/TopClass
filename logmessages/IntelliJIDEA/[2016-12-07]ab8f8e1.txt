@@ -1,0 +1,1 @@
+  Tests: fix PyDynamicTypesTest. There is no need to copy collected data, because it's already attached to the correct file.  

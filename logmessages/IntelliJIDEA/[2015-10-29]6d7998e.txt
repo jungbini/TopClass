@@ -1,0 +1,1 @@
+  fix CPU consumption (merge several fixes from master)  

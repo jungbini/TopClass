@@ -1,0 +1,1 @@
+  anonymous -> lambda: fix anonymous classes in enum constants  

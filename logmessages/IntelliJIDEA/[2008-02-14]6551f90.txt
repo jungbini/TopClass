@@ -1,0 +1,1 @@
+  show error message when user is trying to start debugger on already used port  

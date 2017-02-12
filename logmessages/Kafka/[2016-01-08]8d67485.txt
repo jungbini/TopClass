@@ -1,0 +1,1 @@
+  MINOR: Add property to configure showing of standard streams in Gradle  This is handy when debugging certain kinds of Jenkins failures.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Guozhang Wang <wangguoz@gmail.com>, Ewen Cheslack-Postava <ewen@confluent.io>  Closes #739 from ijuma/gradle-show-standard-streams  

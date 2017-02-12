@@ -1,0 +1,1 @@
+  Debugger: avoid class names repetition in value views  

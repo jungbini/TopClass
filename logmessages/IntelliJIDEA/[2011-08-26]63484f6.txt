@@ -1,0 +1,1 @@
+  not totally successful attempt to fix git log action after default project refactoring  

@@ -1,0 +1,1 @@
+  do not self-wrap ProcessCanceledException to fix  EA-92422 - AUCRRAE: ReadMostlyRWLock.throwIfImpatient  

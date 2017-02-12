@@ -1,0 +1,1 @@
+  Prefer using JVM system properties over command line opts, and using GRADLE_OPTS over passing sys props on command line, to make int testing on Windows safer.  The Java ProcessBuilder API on Winblows doesn't deal with CLI arguments with spaces in them (e.g http://bugs.sun.com/view_bug.do?bug_id=6468220). This change reduces the likelihood of running into such issues.  

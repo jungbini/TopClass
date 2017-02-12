@@ -1,0 +1,1 @@
+  inspection toolwindow: toolbar is not shown if quick fix is applied  

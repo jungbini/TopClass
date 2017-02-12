@@ -1,0 +1,1 @@
+  fix #1312: get project sdk for elements from libraries  

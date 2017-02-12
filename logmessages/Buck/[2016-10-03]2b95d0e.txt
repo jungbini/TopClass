@@ -1,0 +1,1 @@
+  TemporaryPath: option to keep files  Summary: Run with `KEEP_TEMPORARY_PATHS=1 ant ... test` to keep temporary files, to help dev/debugging.  Test Plan: ran tests locally with this; see the message indicating where to find the temporary files.  Reviewed By: Coneko  fbshipit-source-id: 10a2a94  

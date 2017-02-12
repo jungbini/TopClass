@@ -1,0 +1,1 @@
+  Added config hdfsspout.hdfs. Improved logging, bug fix in how hdfs specific settings are used, added storm-starter topology HdfsSpoutToplogy, outputFields now need to be specified on spout. Improved docs, updated UTs.  

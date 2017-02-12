@@ -1,0 +1,1 @@
+ fixes #1512 when using ns.upgradeToSsl(), host is resolved to ip so the hostname cert check fails  add unit test for the problem fix issue by using remoteName() instead of remoteAddress().host() when creating the sslHandler in NetSocketImpl add jks with cert with altname, otherwise cert check fails  Signed-off-by: alexlehm <alexlehm@gmail.com>  

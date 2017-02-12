@@ -1,0 +1,1 @@
+  Astyanax connection pooling bugfix  Removed a method call that leaked an AstyanaxContext<Keyspace>, which I think contains a connection pooler, on every call to AstyanaxStorageManager#openDatabase()  

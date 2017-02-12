@@ -1,0 +1,1 @@
+  KAFKA-2457; Fix how the argument is passed to `compileScala`  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Gwen Shapira  Closes #159 from ijuma/kafka-2457-fix  

@@ -1,0 +1,1 @@
+  update system tests; fix get_column_count patch by jbellis; reviewed by Evan Weaver and Sandeep Tata for CASSANDRA-139  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@794430 13f79535-47bb-0310-9956-ffa450edef68  

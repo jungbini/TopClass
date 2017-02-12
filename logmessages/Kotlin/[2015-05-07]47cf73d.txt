@@ -1,0 +1,1 @@
+  JS IDL2K fix bugs regarding union types and unknown types, any and so on  JS IDL2K better support for functional types and callback handlers  

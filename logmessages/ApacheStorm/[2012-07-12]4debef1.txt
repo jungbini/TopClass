@@ -1,0 +1,1 @@
+  fix java serialization in cluster mode  replaces kryo's JavaSerializer with one that does the serialization into its own byte array, and then uses normal byte array serialization to read/write to the stream  

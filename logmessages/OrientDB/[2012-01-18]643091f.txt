@@ -1,0 +1,1 @@
+  Fixed bug found by Anton in binary protocol on clientId in OPEN and CONNECT  

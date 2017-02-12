@@ -1,0 +1,1 @@
+  fixed FrequentEventDetector - Too many events posted  from HotSwapProgressImpl.setText  

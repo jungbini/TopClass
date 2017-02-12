@@ -1,0 +1,1 @@
+  link hostname in full message to respective host  fixes #WEBINTERFACE-163  

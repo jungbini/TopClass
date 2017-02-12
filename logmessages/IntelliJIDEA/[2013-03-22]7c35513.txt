@@ -1,0 +1,1 @@
+  a quick fix for EA-44640 (IOOBE wrong endOffset -1 in completion)  

@@ -1,0 +1,1 @@
+  Only override prefix for Android Resources  Summary:Ensure that only AndroidResourceFolder objects cause the specified package prefix to be emitted in their corresponding source folder entry in the iml.  Test Plan: - Local testing  Reviewed By: marcinkosiba  fb-gh-sync-id: a2e3c29 fbshipit-source-id: a2e3c29  

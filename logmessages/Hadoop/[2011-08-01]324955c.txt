@@ -1,0 +1,1 @@
+  Backport MAPREDUCE-2202, MAPREDUCE-2228, MAPREDUCE-2723, MAPREDUCE-2282 +  changes to fix ant tar.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/MR-279@1152932 13f79535-47bb-0310-9956-ffa450edef68  

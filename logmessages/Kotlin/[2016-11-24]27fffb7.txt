@@ -1,0 +1,1 @@
+  1.0.6 Changelog: fix wording, resort issues  

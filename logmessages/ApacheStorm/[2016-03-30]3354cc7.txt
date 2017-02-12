@@ -1,0 +1,1 @@
+  Enable/disable Debug button on UI if eventloggers are enabled. Also show tooltip on Debug button  

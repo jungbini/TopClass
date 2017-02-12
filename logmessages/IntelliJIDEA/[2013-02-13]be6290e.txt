@@ -1,0 +1,1 @@
+  [git] IDEA-100995 Fix rename detection in Show History  The bug was introduced in 2fd9ff7. Obviously, critical failure should be set to true only in the case of failure. Log such exception, report it to the consumer, and stop loading the history.  

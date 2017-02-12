@@ -1,0 +1,1 @@
+  GTK and history orientation fixes  

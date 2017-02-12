@@ -1,0 +1,1 @@
+  WinLauncher: fixed path to launcher in project file.  

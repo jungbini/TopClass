@@ -1,0 +1,1 @@
+  deal with menu quirks (bug #1260)  

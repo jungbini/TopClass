@@ -1,0 +1,1 @@
+  fixed PY-3413 Complete identifiers from context anywhere in a plain-format docstring  

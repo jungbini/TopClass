@@ -1,0 +1,1 @@
+  fix getUsedDiskSpace to look at data directories recursively.  Patch by Sammy Yu; reviewed by jbellis for CASSANDRA-394  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@808546 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  MINOR: Use `EasyMock.newCapture` instead of deprecated `new Capture`  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Gwen Shapira, Ewen Cheslack-Postava  Closes #149 from ijuma/fix-easy-mock-deprecations  

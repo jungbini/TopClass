@@ -1,0 +1,1 @@
+  Cater for versions earlier than m5 having a bug that prevented any value in JAVA/GRADLE_OPTS having a space.  

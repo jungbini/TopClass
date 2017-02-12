@@ -1,0 +1,1 @@
+  Fix NPE on WebStorm8 (fixes #671)  

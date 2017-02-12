@@ -1,0 +1,1 @@
+  Remove UriBuilder from Tools#getUriStandard, fixes #701  Additionally the handling of URIs in our Configuration classes has been made a little bit less stringly typed.  

@@ -1,0 +1,1 @@
+  Debugger: do not throw assert when context for codeFragment is null (ex. when file was changed and psi isn't valid any more)  

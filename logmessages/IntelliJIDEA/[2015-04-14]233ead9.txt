@@ -1,0 +1,1 @@
+  PushDialog: undo action supported for sync target editing; appropriate ISE fixed  

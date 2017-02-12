@@ -1,0 +1,1 @@
+  fixed issue with error handling with live query, issue #6324, #6531  

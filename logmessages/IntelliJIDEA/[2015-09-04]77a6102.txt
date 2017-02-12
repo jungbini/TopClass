@@ -1,0 +1,1 @@
+  fixed EDU-454 Unable to create new educational project if config from PyCharm EDU 1.0 was imported  

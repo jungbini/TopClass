@@ -1,0 +1,1 @@
+  add "Suppress for 'Tests' scope" quickfix to "Prohibited exception caught" inspection  

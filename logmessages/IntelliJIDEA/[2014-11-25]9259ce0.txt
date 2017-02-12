@@ -1,0 +1,1 @@
+  do not schedule unnecessary recompilation on duplicate-class check; fix data loss in classToSourceFile mapping after moving top-level class from one file to another file  

@@ -1,0 +1,1 @@
+  Bugfix for issue #1351 Configurable command interval  Signed-off-by: Oliver Libutzki <oliver@libutzki.de>  

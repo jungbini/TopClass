@@ -1,0 +1,1 @@
+  Quickfix and intention tests refactoring: refer to intention action by class when checking that it's not available (instead of listing all available actions)  

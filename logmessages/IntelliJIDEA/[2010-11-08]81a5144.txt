@@ -1,0 +1,1 @@
+  as structural search should work in mxml files; fix and uncomment tests  

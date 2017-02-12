@@ -1,0 +1,1 @@
+  * created infrastructure for editor rendering tests * fixed painting of whole-line highlighters at document end  

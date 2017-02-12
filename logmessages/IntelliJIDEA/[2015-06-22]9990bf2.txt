@@ -1,0 +1,1 @@
+  IDEA-CR-3163 - IDEA-132388 - Support escape seqeunces in cloud ssh consoles - fix plugin descriptor  

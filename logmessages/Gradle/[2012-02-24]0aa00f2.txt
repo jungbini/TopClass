@@ -1,0 +1,1 @@
+ Made the tooling api sanity timeouts in tests much more generous. They were simply too short and when the machine was busy those tests failed very easily. This does not mean those tests run slower (unless there is a bug :).  

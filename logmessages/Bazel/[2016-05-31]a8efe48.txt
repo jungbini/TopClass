@@ -1,0 +1,1 @@
+  cc_configure: removes -no-canonical-prefixes from the list of default flags  This might causes problem in a future remote execution services but in that kind of service it would make more sense to not use the auto-configured C++ toolchain.  Tested with bazel test //tools/cpp/test:*  Fixes #1204.  -- MOS_MIGRATED_REVID=123643630  

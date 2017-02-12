@@ -1,0 +1,1 @@
+  fix font/colors in completion dialog (#3906)  

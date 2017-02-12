@@ -1,0 +1,1 @@
+  fix NPE in ES HTTP sanity checks. #506  Conflicts: graylog2-radio/dependency-reduced-pom.xml graylog2-server/src/main/java/org/graylog2/indexer/Indexer.java  

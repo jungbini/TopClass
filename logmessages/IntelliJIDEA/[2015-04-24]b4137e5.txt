@@ -1,0 +1,1 @@
+  RerunFailedTestsAction  prepare to fix IDEA-79203 Re-run keyboard shortcut (Ctrl-F5) doesn't work  

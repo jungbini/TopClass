@@ -1,0 +1,1 @@
+  Bug fix. Disable action if Run configuration is not selected.  

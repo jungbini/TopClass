@@ -1,0 +1,1 @@
+  Console: fixed jdk6 problem in more elegant way (thanks to Andrey's suggestion)  

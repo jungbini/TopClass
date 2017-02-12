@@ -1,0 +1,1 @@
+ Merge pull request #2749 from Arty2/patch-3  Greek translation fixes  commit 2b1145234aaecb22aedef7e08e973e324e3e58ec  Merge pull request #2674 from ArthurYidi/editor-fix2  Fix firstLine in JEditTextArea when modifying lines above it (fixes #2654)  commit 6f1dece1339d1297e9e8075119798bce9e75a941  Greek translation fixes  

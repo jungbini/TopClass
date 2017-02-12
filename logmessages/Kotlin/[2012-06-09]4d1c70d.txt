@@ -1,0 +1,1 @@
+  document reason why we don't declare ecma 5 property name as obfuscatable use standard backing field name prefix for ecma 5 (was: _, must be: $)  

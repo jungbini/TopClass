@@ -1,0 +1,1 @@
+  attribute value separator length can be != 0 in injected languages #WEB-14935 fixed  

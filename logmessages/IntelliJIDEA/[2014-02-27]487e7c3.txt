@@ -1,0 +1,1 @@
+  fixed PY-12261 Memory leak detected in python sdk details dialog  

@@ -1,0 +1,1 @@
+  HOTFIX: Fix NPE after standby task reassignment  Buffered records of change logs must be cleared upon reassignment of standby tasks.  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #889 from ymatsuda/hotfix  

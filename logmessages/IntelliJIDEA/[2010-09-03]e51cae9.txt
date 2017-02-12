@@ -1,0 +1,1 @@
+  fixed: [IDEA-56800] ProjectRunConfigurationManager component: "coverage" extension: "merge" attribute is misplaced  

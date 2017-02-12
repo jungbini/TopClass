@@ -1,0 +1,1 @@
+  adjust array range window fixes: IDEA-132937 and  IDEA-132940  

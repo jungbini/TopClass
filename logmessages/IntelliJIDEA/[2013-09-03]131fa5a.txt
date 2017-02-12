@@ -1,0 +1,1 @@
+  Added ignore shadowed built-in quick-fix (PY-8672)  Conflicts:  python/community/src/com/jetbrains/python/inspections/PyShadowingBuiltinsInspection.java  

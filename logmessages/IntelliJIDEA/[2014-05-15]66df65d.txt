@@ -1,0 +1,1 @@
+  rename test methods to run on java 8 (ClassFormatError fixed)  

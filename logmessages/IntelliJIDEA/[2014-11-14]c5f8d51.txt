@@ -1,0 +1,1 @@
+  allow subclassing JavaDebugProcess (https://youtrack.jetbrains.com/issue/IDEA-128919#comment=27-847155)  

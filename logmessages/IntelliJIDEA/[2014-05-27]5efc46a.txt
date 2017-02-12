@@ -1,0 +1,1 @@
+  Conflicts: platform/platform-resources-en/src/messages/XDebuggerBundle.properties  

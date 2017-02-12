@@ -1,0 +1,1 @@
+  Quick Fixes: Implement 'Initialize with constructor parameter' quick-fix #KT-6604 Fixed  

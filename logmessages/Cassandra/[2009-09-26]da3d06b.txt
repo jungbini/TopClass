@@ -1,0 +1,1 @@
+  columns may be empty if the only pre-flush op was a CF-level remove op. fix (to allow this), with test.  patch by jbellis; reviewed by Teodor Sigaev for CASSANDRA-458  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.4@819121 13f79535-47bb-0310-9956-ffa450edef68  

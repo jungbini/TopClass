@@ -1,0 +1,1 @@
+  fixed silent failure in case of missing set with dotted notation in odocument.field api, issue #5308  

@@ -1,0 +1,1 @@
+  libnotify version fixed to avoid API incompatibility  https://github.com/JetBrains/intellij-community/pull/152#issuecomment-38245262  

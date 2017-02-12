@@ -1,0 +1,1 @@
+  more precise and reliable criteria for instantiation of <sequential> and <parallel> nested definitions (fixing http://www.jetbrains.net/jira/browse/IDEADEV-11310)  

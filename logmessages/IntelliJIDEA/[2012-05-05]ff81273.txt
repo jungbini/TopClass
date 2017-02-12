@@ -1,0 +1,1 @@
+  fixed PY-6500 Don't allow to run multiple install or upgrade processes for the same package  

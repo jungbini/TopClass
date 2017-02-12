@@ -1,0 +1,1 @@
+ [STORM-2037] debug operation should be whitelisted in SimpleAclAuthorizer  While enabling/disabling topology event logging, theres a call to assert-authorized-user with "debug" as the operation in ui/core.clj. This needs to be whitelisted in SimpleAclAuthorizer to get it working in secure mode.  

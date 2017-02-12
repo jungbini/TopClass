@@ -1,0 +1,1 @@
+ Merge pull request #371 from xzenon/ios/localization-fixes  fix(ios): Fixed russian localizations  commit 909edb01204a23f70ca5b1c03d835ddcb0c069a2  feat(webrtc): Adding media mode parsing, fixing media line parsing,  

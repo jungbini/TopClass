@@ -1,0 +1,1 @@
+  Fixed bug on db.exists() in remote configuration when the connection is closed. Fixed issue about server connection pool.  

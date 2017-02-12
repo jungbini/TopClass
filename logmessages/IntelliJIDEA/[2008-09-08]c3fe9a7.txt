@@ -1,0 +1,1 @@
+  Maven: groovy facet support Maven: IDEADEV-29916 fix Maven: test refactoring Groovy: groovy library detection adjusted  

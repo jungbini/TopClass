@@ -1,0 +1,1 @@
+  Convert AndroidResourceRule to use a Description.  Summary: Fixing unit tests was an incredible PITA. However, it's good that this change resulted in so many test fixes.  Test Plan: sandcastle  

@@ -1,0 +1,1 @@
+  cqlsh: fix timestamp formatting on some platforms; patch by Aleksey Yeschenko, reviewed by Jonathan Ellis for CASSANDRA-5046  

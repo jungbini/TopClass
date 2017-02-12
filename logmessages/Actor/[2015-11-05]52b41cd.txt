@@ -1,0 +1,1 @@
+  feat(web): change sentry to bugsnag  

@@ -1,0 +1,1 @@
+  restore fix "IDEA-125302 The Analyze Stacktrace menu option remembers only one log file across multiple projects"  

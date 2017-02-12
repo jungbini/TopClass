@@ -1,0 +1,1 @@
+  Fix bug1532, and in the process utterly destroy mode-detection problems by moving mode detection out of the parser, and into Java-land (in PdePreprocessor.java).  

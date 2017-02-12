@@ -1,0 +1,1 @@
+  Make buckd port detection work when debugging  Summary: Previously, this command was getting confused by the "java debugger listening" message.  This seems to fix it, though there might be other bugs lurking. :(  Test Plan: Started buckd with Java debugging args, and was able to attach to it. After attaching, it worked normally (buckd.port was populated correctly).  

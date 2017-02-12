@@ -1,0 +1,1 @@
+  HADOOP-8002. SecurityUtil acquired token message should be a debug rather than info. (Arpit Gupta via mahadev)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1236976 13f79535-47bb-0310-9956-ffa450edef68  

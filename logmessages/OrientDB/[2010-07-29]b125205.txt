@@ -1,0 +1,1 @@
+  Fixed bug of not-trimmed sql string (Thanks lmolino!)  

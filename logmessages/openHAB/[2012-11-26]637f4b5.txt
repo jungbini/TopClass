@@ -1,0 +1,1 @@
+  fix for #150 - the HttpOutBinding now utilizes the String.format() method. The current date is the first parameter and the current value (command or state) is passed in as second parameter. So an url can be formatted like this "http://host:port/resource?value=%2$s" when expected a string.  

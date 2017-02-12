@@ -1,0 +1,1 @@
+  Workaround bug in chained withType() on ModelMap<BinarySpec>  

@@ -1,0 +1,1 @@
+  java move to xbreakpoints 2: - cleanup - fixed tests - support run to cursor and smart step into - support add field/method breakpoint actions  

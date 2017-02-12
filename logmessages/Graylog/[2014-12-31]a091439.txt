@@ -1,0 +1,1 @@
+  add journal info in rest api and remove obsolete buffer cache info  also fix the generator transport to properly announce its throttling_allowed configuration field  

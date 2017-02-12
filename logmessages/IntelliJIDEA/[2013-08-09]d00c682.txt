@@ -1,0 +1,1 @@
+  Github: fix Gist dialog on multiple files selection  to show or not to show "filename" field  

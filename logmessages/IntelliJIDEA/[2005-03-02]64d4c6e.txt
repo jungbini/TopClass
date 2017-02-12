@@ -1,0 +1,1 @@
+  fix for inspect code from editor  

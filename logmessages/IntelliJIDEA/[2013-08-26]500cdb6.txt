@@ -1,0 +1,1 @@
+  fixed PY-9329 Instance attribute defined outside init: disable inspection in testCases methods which start with setUp  

@@ -1,0 +1,1 @@
+  Debugger: fix breakpoints inside generic crossinline argument body #KT-11848 Fixed  

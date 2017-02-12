@@ -1,0 +1,1 @@
+  fixed PY-4397 "Remove argument equal to default" should reformat argument list in a nicer way  

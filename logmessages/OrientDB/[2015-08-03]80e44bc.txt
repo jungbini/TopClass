@@ -1,0 +1,1 @@
+  fixed lookup on index chain when there is no entry for specific value, issue #4666  

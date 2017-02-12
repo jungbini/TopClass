@@ -1,0 +1,1 @@
+  fix bug for #887, that is cannot query multi partitions of one datasource on realtime node.  

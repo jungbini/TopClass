@@ -1,0 +1,1 @@
+  fixed PY-10334 Web2Py: empty tag: false positive for tags with python comments  moved highlighting to annotator  

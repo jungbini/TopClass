@@ -1,0 +1,1 @@
+  fixed   PY-8100 Change Signature: changing signature for __init__ method doesn't take effect in code # forbid refactoring object class  

@@ -1,0 +1,1 @@
+  Added a contributor (maven conversion bug pull request) to the release notes page.  

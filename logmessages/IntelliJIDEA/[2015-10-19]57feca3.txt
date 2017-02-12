@@ -1,0 +1,1 @@
+  IDEA-146128 "Select Run/Debug Configuration" do nothing when navigation bar hidden  

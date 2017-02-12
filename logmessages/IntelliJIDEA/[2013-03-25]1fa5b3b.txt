@@ -1,0 +1,1 @@
+  added Method may be static or a function (+ quickfix)  

@@ -1,0 +1,1 @@
+ [log] IDEA-125309 One more fix for a possible deadlock  General practice is not to invoke some external code under a lock.  Here the result handler can safely be called before the lock: if new requests arrive, they will be added to the queue in request(), and a new background task will be started after result is handled.  

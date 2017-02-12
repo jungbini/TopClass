@@ -1,0 +1,1 @@
+  extract UserInputFixture to another target  Summary: This 

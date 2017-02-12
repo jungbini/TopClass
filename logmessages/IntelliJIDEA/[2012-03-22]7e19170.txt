@@ -1,0 +1,1 @@
+  fixed PY-5192 Move Statement: breaks code in case moving down to nested try statement  

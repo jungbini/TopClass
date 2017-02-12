@@ -1,0 +1,1 @@
+ Merge pull request #413 from jasonparekh/fix-jsonarray  Fix JsonArray.equals to succeed when JsonObjects are in the array.  commit d4df2fe4c709f75984f31b6436635621ec5bcd79  Fix JsonArray.equals to succeed when JsonObjects are in the array.  Previously, there was a bug that the self item would be a HashMap but the other item would be a JsonObject.  

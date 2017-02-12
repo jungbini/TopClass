@@ -1,0 +1,1 @@
+  fixed inner function bug in copy-paste  

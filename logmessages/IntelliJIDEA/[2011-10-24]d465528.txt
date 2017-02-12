@@ -1,0 +1,1 @@
+  fix g++ non-category properties (IDEA-75276)  

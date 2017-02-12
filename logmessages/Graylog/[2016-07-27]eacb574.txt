@@ -1,0 +1,1 @@
+  Decorator UI Fixes (#2539)  * Some minor fixes for decorator UI.  These include:  - resetting the decorators form so old values are not kept on cancel - making add decorator component pure, to prevent flickering in select - checking if SearchPage is mounted before setting state in callback  * Adding some style fixes for cross-browser layout consistency.  

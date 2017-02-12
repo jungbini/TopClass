@@ -1,0 +1,1 @@
+  KAFKA-3887: KAFKA-3817 follow-up to avoid forwarding value if it is null in KTableRepartition  Also handle Null value in SmokeTestUtil.  Author: Guozhang Wang <wangguoz@gmail.com>  Reviewers: Damian Guy <damian.guy@gmail.com>  Closes #1597 from guozhangwang/KHotfix-check-null  

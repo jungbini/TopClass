@@ -1,0 +1,1 @@
+ fix handling of tasks without declared test classes available  +review REVIEW-5563  

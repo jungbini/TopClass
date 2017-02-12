@@ -1,0 +1,1 @@
+  [FUZZER]  Include common global objects in the global scope, and fix a bug in DiscreteDistribution that makes the fuzzer non-deterministic ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=56298761  

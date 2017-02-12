@@ -1,0 +1,1 @@
+  Simplistic navigation supported in the editor (for debugging purposes)  

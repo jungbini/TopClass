@@ -1,0 +1,1 @@
+  Fix check for srcs-less android_* rules  In android rules with no srcs, deps are treated like exports by strict java deps. This fixes the check for srcs-less targets to consider srcjars in addition to .java files.  This bug was fixed for java_* rules by adding the runtime_deps attribute, and disallowing deps in srcs-less rules.  -- MOS_MIGRATED_REVID=101581572  

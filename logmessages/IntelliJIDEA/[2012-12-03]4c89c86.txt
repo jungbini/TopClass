@@ -1,0 +1,1 @@
+  RUBY-12457: fixed typo in JFlex's README  

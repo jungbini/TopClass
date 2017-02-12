@@ -1,0 +1,1 @@
+  Extraction Engine: Use original topmost descriptors when validating extracted code (fixes 'mutablyFlexibleType' test which failed after migration to generic contains/remove/etc. members in collections)  

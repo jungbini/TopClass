@@ -1,0 +1,1 @@
+  Maven: correctly update maven projects tree (IDEADEV-41650) Maven: improven notification bar + some fixes  

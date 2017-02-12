@@ -1,0 +1,1 @@
+  fixed wrong connection close, and failure on tx retry. issue #2930  

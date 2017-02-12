@@ -1,0 +1,1 @@
+  update journal information on system/nodes overview page  if the journal is for each node, we render the same text information as on the detail view. code-wise the component is duplicated, which we need to refactor going forward, but that step needs discussion. will open another ticket for discussion.  fixes #1173  

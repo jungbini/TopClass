@@ -1,0 +1,1 @@
+h cda2dbf [Brent Schneeman] Merge remote-tracking branch 'upstream/master' d57eb97 [Brent Schneeman] fixed test of notebook-actionBar.html 9b75fdf [Brent Schneeman] more accurate styling 3d45544 [Brent Schneeman] span styling applied d3deac0 [Brent Schneeman] moved delete button to help protect against accidental clicks  

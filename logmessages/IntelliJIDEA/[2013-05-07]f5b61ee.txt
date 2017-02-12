@@ -1,0 +1,1 @@
+  re-layout tab labels on tab rename fix; hide Pin action if content is not pinnable enough  

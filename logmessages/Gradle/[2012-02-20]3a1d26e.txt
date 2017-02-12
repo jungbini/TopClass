@@ -1,0 +1,1 @@
+  Added sanity coverage for a jvm option that might be configured with a quoted value that may contain spaces. I want to make sure we can connect / match to that kind of a daemon (I'm pretty sure it wasn't possible until some latest fixes).  

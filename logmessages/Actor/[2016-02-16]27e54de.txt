@@ -1,0 +1,1 @@
+  fix(server:bots): dont put group members in fat seq update  

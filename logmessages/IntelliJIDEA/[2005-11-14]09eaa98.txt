@@ -1,0 +1,1 @@
+  initial variant of auto-grid layout mode (controlled by an option in settings dialog); restore awt.Robot (dispatchEvent() did not work); fix feedback painting; easier snap of components to single top-level container  

@@ -1,0 +1,1 @@
+  Mercurial: removed redundant isStarted flag; this fixes WI-4593  

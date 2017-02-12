@@ -1,0 +1,1 @@
+  MultiLayerNetwork.backprop() pre/postproc. changes; BackPropMLPTest new conf. api; misc MLN fixes  

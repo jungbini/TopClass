@@ -1,0 +1,1 @@
+  fixed python interpreter apply  we now use findSdkByName only for selecting sdk in UI, in other cases we find sdk by identity  

@@ -1,0 +1,1 @@
+  [#329] fix issue where Processors create an extra span event  

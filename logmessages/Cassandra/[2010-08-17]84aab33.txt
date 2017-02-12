@@ -1,0 +1,1 @@
+  fix sharded lock hashing on index write path.  patch by jbellis; reviewed by eevans for CASSANDRA-1402   git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@986486 13f79535-47bb-0310-9956-ffa450edef68  

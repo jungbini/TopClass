@@ -1,0 +1,1 @@
+ Merge pull request #506 from hsaputra/TACHYON-210_fix_location_checkstyle_suppression  TACHYON-210 Checkstyle check fails if you run inside a core module.  commit e248f163878ede0693e94f4b130df4655425d0cb  fix missing hdfs 1.x datanode  Signed-off-by: rootfs <hchen@redhat.com>  

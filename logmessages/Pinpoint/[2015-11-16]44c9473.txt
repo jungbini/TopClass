@@ -1,0 +1,1 @@
+ bug fix. editUserOption not set in Pinpoint User UI.  

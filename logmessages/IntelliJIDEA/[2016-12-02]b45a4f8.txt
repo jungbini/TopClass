@@ -1,0 +1,1 @@
+  external build: fixed starting javac in forked process for standalone JPS distribution  

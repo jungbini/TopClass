@@ -1,0 +1,1 @@
+  KT-1912 Formatter: smart indent doesn't work in a function literal #KT-1099 fixed #KT-1912 fixed  

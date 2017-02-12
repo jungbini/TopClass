@@ -1,0 +1,1 @@
+  js debugger: lazy load global vars  

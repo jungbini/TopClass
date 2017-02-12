@@ -1,0 +1,1 @@
+  GraphDB: fixed issue #1065 supporting an extended syntax: CREATE EDGE [<class>] [CLUSTER <cluster>] FROM <rid>|(<query>)|[<rid>]* TO <rid>|(<query>)|[<rid>]* [SET <field> = <expression>[,]*] Now this works like a charm: create edge Watched from (select from account where name = 'Luca') to (select from movies where type.name = 'action')  

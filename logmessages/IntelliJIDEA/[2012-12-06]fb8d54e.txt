@@ -1,0 +1,1 @@
+  fixed Doctest: Package requirement inspection highlight entire doctest in every project file : PY-8190  

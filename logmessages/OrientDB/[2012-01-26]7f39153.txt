@@ -1,0 +1,1 @@
+  Bug Fix in response handle: response link parsing and replacing is now fixed  Added errorCallback parameter to save method  Added successCallback parameter to query method  Added UTF8 encode and decode methods  

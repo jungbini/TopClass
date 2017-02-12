@@ -1,0 +1,1 @@
+  Improve quickfix to replace += operator with StringBuilder on left hand side with append() call now works on java.lang.Appendable and splits concatenated strings into separate append calls  

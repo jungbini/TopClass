@@ -1,0 +1,1 @@
+  fixed PY-5041 Closing pair quote not inserted if caret is before pair of quotes  

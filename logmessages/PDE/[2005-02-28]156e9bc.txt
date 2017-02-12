@@ -1,0 +1,1 @@
+  beginShape() and endShape() debugged for all three renderers  

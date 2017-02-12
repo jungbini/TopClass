@@ -1,0 +1,1 @@
+  fixed 'open in browser' for local html files  

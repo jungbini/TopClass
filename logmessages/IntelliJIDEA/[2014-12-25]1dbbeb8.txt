@@ -1,0 +1,1 @@
+  fixed PY-14395 IPython notebook: Bad grammar and style in the tooltip  

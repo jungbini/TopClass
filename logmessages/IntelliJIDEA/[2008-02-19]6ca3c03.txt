@@ -1,0 +1,1 @@
+  hacky repaint manager fix enabled for 1.6  

@@ -1,0 +1,1 @@
+  KAFKA-537 Expose clientId in ConsumerConfig and fix correlation id; patched by Yang Ye; reviewed by Neha Narkhede  git-svn-id: https://svn.apache.org/repos/asf/incubator/kafka/branches/0.8@1398893 13f79535-47bb-0310-9956-ffa450edef68  

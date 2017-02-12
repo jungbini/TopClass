@@ -1,0 +1,1 @@
+  PY-21488 Stopping docker debug process unexpectedly in the very beginning of Python debug session fixed (take 2)  

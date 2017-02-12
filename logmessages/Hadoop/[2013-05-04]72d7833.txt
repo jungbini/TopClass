@@ -1,0 +1,1 @@
+  HDFS-4791. Update and fix deletion of reference inode.  Contributed by Jing Zhao   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-2802@1479198 13f79535-47bb-0310-9956-ffa450edef68  

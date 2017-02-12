@@ -1,0 +1,1 @@
+  KT-337 Can't break a line before a dot (fixes after review)  

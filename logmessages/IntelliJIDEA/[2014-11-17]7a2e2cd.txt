@@ -1,0 +1,1 @@
+  fixed PY-13531 Stop executing $world when it looks like a python binary.  

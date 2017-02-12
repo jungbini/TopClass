@@ -1,0 +1,1 @@
+ Merge pull request #4519 from inkwellsiesta/master  fixed iterator remove() methods so they dont skip container elements  commit 731d37a39ce39fb209a17838e40af51b41a3d100  fixed iterator remove() methods so they dont skip container elements  commit 296282a157855c98e094de72acd19b71bdf6c3be  fixed iterator remove() methods so they dont skip container elements  

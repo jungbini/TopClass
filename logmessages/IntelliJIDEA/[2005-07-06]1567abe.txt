@@ -1,0 +1,1 @@
+  javasvn update: file was not properly closed on merge resolve action added, mark resolved added as separate action minor fixes in menu action state update code  

@@ -1,0 +1,1 @@
+  First pass on combining mmuls; also fix LSTM gradient check (post config check)  

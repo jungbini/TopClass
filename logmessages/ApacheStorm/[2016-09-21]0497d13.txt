@@ -1,0 +1,1 @@
+  Emit to _spoutConfig.outputStreamId  Even though KafkaSpout.declareOutputFields declaresStream using outputStreamId (if present), the message gets emitted to a stream matching the Kafka topic it was read from. Looks like it may have been a merge conflict between the fix for STORM-1210 and STORM-1379.  

@@ -1,0 +1,1 @@
+ fixed PY-9604 No option to run unit tests in the context menu  

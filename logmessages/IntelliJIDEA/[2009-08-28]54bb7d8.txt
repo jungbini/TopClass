@@ -1,0 +1,1 @@
+  fix property resolving in GSPs and when there are multiple overridding accessors  

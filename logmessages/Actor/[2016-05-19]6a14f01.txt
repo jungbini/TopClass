@@ -1,0 +1,1 @@
+  fix(core): do not apply UpdateMessageReadByMe if date is older then is conversation state  

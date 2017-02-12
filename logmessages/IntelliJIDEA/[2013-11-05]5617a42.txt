@@ -1,0 +1,1 @@
+  use correct date format in command to fix reverting changes on file with a sticky date  

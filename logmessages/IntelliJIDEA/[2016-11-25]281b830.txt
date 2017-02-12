@@ -1,0 +1,1 @@
+  java intentions/fixes 3: make files writable outside write action  

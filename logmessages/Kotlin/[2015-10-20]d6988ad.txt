@@ -1,0 +1,1 @@
+  Get rid of FIELD_IDENTIFIER at syntax level, two errors dropped, a set of tests fixed / deleted #KT-9539 Fixed  

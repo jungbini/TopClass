@@ -1,0 +1,1 @@
+  fixed EDU-408 Error when trying to upload course to stepic with incorrect credentials  

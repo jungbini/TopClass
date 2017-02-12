@@ -1,0 +1,1 @@
+  Conflicts: compiler/backend/src/org/jetbrains/kotlin/codegen/state/JetTypeMapper.java compiler/tests/org/jetbrains/kotlin/codegen/generated/BlackBoxWithJavaCodegenTestGenerated.java  

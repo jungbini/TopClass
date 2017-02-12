@@ -1,0 +1,1 @@
+  rename "Jet" from names of IDE classes; consistently use Kt prefix for PSI elements and classes directly related to specific PSI elements  

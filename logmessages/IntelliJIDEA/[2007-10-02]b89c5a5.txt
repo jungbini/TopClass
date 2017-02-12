@@ -1,0 +1,1 @@
+  1. fix content root update for "sources" step. 2. refactor: Move common functionality to base ProjectLayoutPanel  

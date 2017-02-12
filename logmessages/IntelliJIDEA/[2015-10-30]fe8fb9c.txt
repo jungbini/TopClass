@@ -1,0 +1,1 @@
+  fixed PY-17113 Right click menu is very slow to open up in PyCharm EAP PY-143.24  

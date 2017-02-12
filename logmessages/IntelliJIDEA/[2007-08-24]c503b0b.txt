@@ -1,0 +1,1 @@
+  do not show "Annotate as @NonNls" quickfix for parameters/variables annotated with @Nls (IDEADEV-20387)  

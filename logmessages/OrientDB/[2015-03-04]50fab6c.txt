@@ -1,0 +1,1 @@
+  fixed close database exception during query. issue #3678  Conflicts: graphdb/src/main/java/com/orientechnologies/orient/graph/sql/OCommandExecutorSQLDeleteEdge.java  

@@ -1,0 +1,1 @@
+ Merge pull request #1158 from verif/master  TACHYON-630, fix javadoc for BlockMetadataManagerView by adding @return  commit ed07b27c30d713e81d2529cc682889e657fa163e  TACHYON-630, fix javadoc for BlockMetadataManagerView  

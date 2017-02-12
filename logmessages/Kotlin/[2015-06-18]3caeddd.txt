@@ -1,0 +1,1 @@
+  Minor: log error if we couldn't insert an expression during debug  

@@ -1,0 +1,1 @@
+  fix "JUnit 4 test method in class extending JUnit 3 TestCase" inspection  

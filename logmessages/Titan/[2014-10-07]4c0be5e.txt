@@ -1,0 +1,1 @@
+  Some minor typo fixes in Solr docs  

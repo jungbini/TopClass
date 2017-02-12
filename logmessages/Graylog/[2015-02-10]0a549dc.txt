@@ -1,0 +1,1 @@
+  fix wording regarding pausing processing  fixes #1112  

@@ -1,0 +1,1 @@
+  Add a missing space, fix potential NPE, add comment to javadoc about reset timeout being expensive  

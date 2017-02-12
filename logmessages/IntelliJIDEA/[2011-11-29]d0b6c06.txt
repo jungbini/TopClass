@@ -1,0 +1,1 @@
+  fixed PY-3659 Don't offer to replace set function with set literal when parameter is a string literal  

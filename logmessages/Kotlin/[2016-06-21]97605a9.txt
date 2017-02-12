@@ -1,0 +1,1 @@
+  KT-3008: multiple minor fixes after code review  

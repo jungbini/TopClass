@@ -1,0 +1,1 @@
+  EA-34283 - CCE: XmlImportOptimizer$.run optimize imports for multi-root files fixed  

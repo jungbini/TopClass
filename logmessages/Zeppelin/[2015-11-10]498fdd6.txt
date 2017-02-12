@@ -1,0 +1,1 @@
+function into service and remove jQuery call 0833eb2 [Prabhjyot Singh] ZEPPELIN-372: fix for Export not working on IE 91fd7f9 [Prabhjyot Singh] fix for not working on Firefox and Safari  

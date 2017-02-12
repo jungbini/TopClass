@@ -1,0 +1,1 @@
+  avoid side-effectful and range-marker-polluting JavaCompletionContributor.beforeCompletion when checking postfix template applicability  

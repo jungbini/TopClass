@@ -1,0 +1,1 @@
+  KT-2269 fix: hashCode & equals for primitives  

@@ -1,0 +1,1 @@
+ Fixes bugs when the backed array's offset is not zero.  

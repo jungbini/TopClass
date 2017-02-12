@@ -1,0 +1,1 @@
+  Patch by Luca Garulli to manage better the getClassName() in ODocuments. Bug fixing in the Object Database after this patch. New management in OD for the OTYPE usage  

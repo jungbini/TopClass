@@ -1,0 +1,1 @@
+  Revert the attempted merge of PR #459.  +review REVIEW-5814 - This also unfixes GRADLE-3182 - The reson we are reverting this is that the "fix" caused a regression in the way include "*" dealt with directories. - We'll need to go back to the drawing board on this change.  

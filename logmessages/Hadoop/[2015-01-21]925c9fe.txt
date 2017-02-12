@@ -1,0 +1,1 @@
+  HADOOP-10668. Addendum patch to fix TestZKFailoverController. Contributed by Ming Ma.  

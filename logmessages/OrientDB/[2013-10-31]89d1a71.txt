@@ -1,0 +1,1 @@
+ console: fixed NPE on export database command when options are not specified  

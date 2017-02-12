@@ -1,0 +1,1 @@
+  fix streaming for messaging change patch by yukim, reviewed by brandonwilliams for CASSANDRA-4360  

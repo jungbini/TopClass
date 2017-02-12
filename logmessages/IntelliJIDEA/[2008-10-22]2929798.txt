@@ -1,0 +1,1 @@
+  junit integration small fix (if running under junit4 but thinks it's junit3)  

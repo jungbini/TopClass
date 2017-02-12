@@ -1,0 +1,1 @@
+  Re-fix NPE by creating list when it's needed  We depend on the fact that myResult is null if there is no __all__ in the current file, so we cannot initialize it with an empty list.  

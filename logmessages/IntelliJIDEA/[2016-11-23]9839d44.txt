@@ -1,0 +1,1 @@
+  PY-19877 Inability to reconnect to Python Console after an exception occurred fixed  When an exception is thrown on Python Console connection it is shown in Python Console output.  

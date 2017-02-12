@@ -1,0 +1,1 @@
+  getting full message was only working from recent index. fixes #WEBINTERFACE-314  

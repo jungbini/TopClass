@@ -1,0 +1,1 @@
+  Locations of directories for ant tests were fixed.  

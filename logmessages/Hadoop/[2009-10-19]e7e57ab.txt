@@ -1,0 +1,1 @@
+  Minor fix missing in HBASE-1756  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@826847 13f79535-47bb-0310-9956-ffa450edef68  

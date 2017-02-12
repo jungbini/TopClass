@@ -1,0 +1,1 @@
+  EA-79086 - Throwable: DebugUtil.currentStackTrace  make sure horizontal width available for text layout is consistently calculated in all places  

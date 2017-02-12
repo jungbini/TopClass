@@ -1,0 +1,1 @@
+  pass module dir path instead of module file path (fixes IDEA-89678)  

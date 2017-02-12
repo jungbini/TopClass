@@ -1,0 +1,1 @@
+  fix(android): close search after global search item selected  

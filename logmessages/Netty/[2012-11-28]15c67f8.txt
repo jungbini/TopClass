@@ -1,0 +1,1 @@
+  [#776] Introduce the possiblilty to specify a BossPool when construct ChannelFactory instances.  * Beside this allow to set a ThreadNameDeterminer per BossPool and WorkerPool. This allows to have 

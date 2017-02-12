@@ -1,0 +1,1 @@
+  Expanded availability of "Specify Type Explicitly" intention.  #KT-1849 fixed  

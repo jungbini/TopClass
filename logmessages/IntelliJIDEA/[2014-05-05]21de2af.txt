@@ -1,0 +1,1 @@
+  fixed PY-12848 Adding local Python SDK does not work  Regression produced in f3eda43  

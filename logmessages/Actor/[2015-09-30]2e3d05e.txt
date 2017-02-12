@@ -1,0 +1,1 @@
+  fix(iOS): Hide connect vk feature  

@@ -1,0 +1,1 @@
+  IDEA-87966 test fixed  

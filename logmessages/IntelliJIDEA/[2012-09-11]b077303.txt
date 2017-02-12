@@ -1,0 +1,1 @@
+  fixed  AssertionError: Already disposed in PythonPathCache.<init> (61) (fast open/close project)  

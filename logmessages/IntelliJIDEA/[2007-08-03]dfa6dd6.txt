@@ -1,0 +1,1 @@
+  fix hang in pathological case of live template expansion (IDEADEV-19865)  

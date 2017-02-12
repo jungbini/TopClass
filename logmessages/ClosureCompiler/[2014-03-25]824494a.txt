@@ -1,0 +1,1 @@
+  Fold some && and || expressions to comma expressions, which can then be reduced further in later passes.  This fixes a few cases where the new parser fails to apply an optimization because it parses x||y||z as (x||y)||z instead of x||(y||z). ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=63514067  

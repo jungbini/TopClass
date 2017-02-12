@@ -1,0 +1,1 @@
+  Fix a bug in tregex where variable nodes were not being correctly reset  

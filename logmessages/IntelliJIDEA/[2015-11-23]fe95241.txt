@@ -1,0 +1,1 @@
+  wait for debugger thread to finish in tests  

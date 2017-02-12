@@ -1,0 +1,1 @@
+  Added missing coverage in the eclipse plugin area before refactoring & merging a pull request. Added some tests for bug fixes that are not yet fixed, hence they're @Ignored for now.  

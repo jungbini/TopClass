@@ -1,0 +1,1 @@
+  fixing some memory leaks, and resolving compiler warnings.  

@@ -1,0 +1,1 @@
+  Fixed bug on changing the superClass with ALTER CLASS command + support of superClass into Class form of Studio web tool  

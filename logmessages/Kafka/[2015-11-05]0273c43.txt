@@ -1,0 +1,1 @@
+  MINOR: follow-up KAFKA-2730 to use two tags for broker id and fetcher id combination  Author: Guozhang Wang <wangguoz@gmail.com>  Reviewers: Ismael Juma, Guozhang Wang  Closes #434 from guozhangwang/K2730-hotfix  

@@ -1,0 +1,1 @@
+ fix for #673, #706 - thanks @JanRR for analysing and @vores8 for providing the fix  

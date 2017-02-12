@@ -1,0 +1,1 @@
+  fix caching of deprecated properties (IDEA-48149)  

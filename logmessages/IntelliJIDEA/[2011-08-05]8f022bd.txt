@@ -1,0 +1,1 @@
+  fix geget problem when a completion restarts which has shown a lookup  

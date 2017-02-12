@@ -1,0 +1,1 @@
+  Bug fix: MavenMergingUpdateQueue suspend forever if beforeRootsChange comes twice in a row without rootsChanged.  

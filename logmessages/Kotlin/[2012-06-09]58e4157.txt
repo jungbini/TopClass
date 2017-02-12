@@ -1,0 +1,1 @@
+  KT-2234 'period!!' has type Int? #KT-2234 fixed  

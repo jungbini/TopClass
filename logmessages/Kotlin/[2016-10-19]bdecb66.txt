@@ -1,0 +1,1 @@
+  KJS: fix wrongAbiVersion test after abi version was increased. Make it less fragile with the hack for JS tests.  

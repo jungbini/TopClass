@@ -1,0 +1,1 @@
+  Flex IDE: move SDK chooser to Dependencies page, fix bugs  

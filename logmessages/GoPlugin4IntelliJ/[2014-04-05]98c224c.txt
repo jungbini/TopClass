@@ -1,0 +1,1 @@
+ tests fixed, because @zolotov is too lazy  

@@ -1,0 +1,1 @@
+  a property to turn on Disposer debugging; write leak info to log  

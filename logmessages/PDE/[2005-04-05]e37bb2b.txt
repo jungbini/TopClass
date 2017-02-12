@@ -1,0 +1,1 @@
+  fixing makefile for windows new libs  

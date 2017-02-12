@@ -1,0 +1,1 @@
+  fixed adding null namespace to some prefix (IDEADEV-2466)  

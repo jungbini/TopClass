@@ -1,0 +1,1 @@
+.  ServletTestExecutionListener (STEL) now tracks whether it has already populated the RequestContextHolder.  Issue: SPR-11144  

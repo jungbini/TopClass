@@ -1,0 +1,1 @@
+  fix UI compatibility with Nimbus L&F (RUBY-5695)  

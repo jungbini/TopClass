@@ -1,0 +1,1 @@
+  Fix leftover "size" check when deciding whether to use digest or mtime. Since we no longer stored mtime for empty files, this bug meant that we always compared empty files equal (which is good). But we shouldn't be using Metadata based on mtime for them.  A follow-up change will do a refactor to make this impossible.  -- MOS_MIGRATED_REVID=128742054  

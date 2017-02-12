@@ -1,0 +1,1 @@
+  fix breaking time series in charts with single bucket. fixes #380  

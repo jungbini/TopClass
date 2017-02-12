@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=66 ("AtmosphereResourceEventListener should be invoked after the real broadcast")  See issue description  

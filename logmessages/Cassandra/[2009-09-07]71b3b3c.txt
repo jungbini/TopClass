@@ -1,0 +1,1 @@
+  fix compaction bug -- only one of the SSTR constructors was adding to openedFiles.  (fixes regression from #413). patch by jbellis; reviewed by Eric Evans for CASSANDRA-425  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@812230 13f79535-47bb-0310-9956-ffa450edef68  

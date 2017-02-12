@@ -1,0 +1,1 @@
+  Apply small fixes and improvements to release notes.  

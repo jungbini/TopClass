@@ -1,0 +1,1 @@
+  IDEADEV-39658 NPE: QuickfixUtil.positionCursor  

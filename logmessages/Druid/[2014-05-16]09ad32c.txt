@@ -1,0 +1,1 @@
+  fix race condition with merge and persist and sink adding  Conflicts: indexing-service/src/main/java/io/druid/indexing/common/task/IndexTask.java server/src/main/java/io/druid/segment/realtime/RealtimeManager.java server/src/main/java/io/druid/segment/realtime/plumber/RealtimePlumber.java  

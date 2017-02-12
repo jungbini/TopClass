@@ -1,0 +1,1 @@
+).  Extra unit tests have been added to protect against this issue occurring in the future.  The tests check that a header added using String or AsciiString can be retrieved using AsciiString or String respectively.  Modifications:  Added more unit tests  Result:  Protect against issue #4053 happening again.  

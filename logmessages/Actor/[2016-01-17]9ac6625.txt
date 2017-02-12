@@ -1,0 +1,1 @@
+  fix(server:auth): fixed username problem in anonymous auth  

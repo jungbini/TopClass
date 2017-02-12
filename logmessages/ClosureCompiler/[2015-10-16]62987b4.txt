@@ -1,0 +1,1 @@
+  fix typed getter/setter parse  

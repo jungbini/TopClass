@@ -1,0 +1,1 @@
+  external artifact builder: fixed clearing output directory on rebuild for archive artifacts  

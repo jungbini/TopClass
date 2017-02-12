@@ -1,0 +1,1 @@
+  Issue #697 was partially fixed. It is needed for Issue #856 .  

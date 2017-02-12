@@ -1,0 +1,1 @@
+  Fixing bug in ExactMatcher where int fields are not matched properly  

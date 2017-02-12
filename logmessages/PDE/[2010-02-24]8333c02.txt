@@ -1,0 +1,1 @@
+  fix for filter(DILATE/ERODE) (bug #1477)  

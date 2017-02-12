@@ -1,0 +1,1 @@
+ production environment was not meant to be set to debug log level  

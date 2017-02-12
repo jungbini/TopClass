@@ -1,0 +1,1 @@
+  HOTFIX: Increase number of retries in smoke test  Author: Eno Thereska <eno.thereska@gmail.com>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #2014 from enothereska/hotfix-smoke-test  

@@ -1,0 +1,1 @@
+  Switch SparkDl4JMultiLayer and Spark early stopping to use TrainingMaster; fix tests  

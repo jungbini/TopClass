@@ -1,0 +1,1 @@
+ug reports from users where it's not clear exactly what revision of Buck they're running.  This adds the build date and commit revision to the log.  It looks like this:  [com.facebook.buck.cli.Main] Starting up (build date 2014-10-16 13:55:56 -0700, rev 6476c6a9564c0fef7f30b96ef5278e8426298b32), args: [build, buck]  Test Plan: buck build buck, saw above message in logs  

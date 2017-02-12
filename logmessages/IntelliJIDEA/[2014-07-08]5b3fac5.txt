@@ -1,0 +1,1 @@
+  IDEA-125913 IDE erroneously propose to create JavaScript Debug Configuration from context menu of database function editor  

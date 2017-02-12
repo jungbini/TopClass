@@ -1,0 +1,1 @@
+  Fix 'smth == 0.else' case ("0.e" is valid double literal, still breaks prefix matching a bit...)  

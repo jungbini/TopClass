@@ -1,0 +1,1 @@
+  fixing IDEA crash on stub building  

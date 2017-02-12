@@ -1,0 +1,1 @@
+  fixes NPE exception in ClientState.hasKeyspaceSchemaAccess(...) method introduced by CASSANDRA-3759  

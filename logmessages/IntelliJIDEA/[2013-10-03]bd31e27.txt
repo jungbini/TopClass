@@ -1,0 +1,1 @@
+  [git] IDEA-114363 Remove AbstractHash implementation with HashImpl.  * AbstractHash is buggy and duplicates Hash => remove the implementation delegating to HashImpl. * Usages will be updated & AbstractHash will be removed later.  

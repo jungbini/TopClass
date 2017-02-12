@@ -1,0 +1,1 @@
+  show node hostname in global node dropdown menu. fixes #470  

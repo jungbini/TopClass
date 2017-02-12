@@ -1,0 +1,1 @@
+  better recover on incomplete composite literals, fix #2524  

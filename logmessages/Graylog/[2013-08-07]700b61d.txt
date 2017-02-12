@@ -1,0 +1,1 @@
+  upgraded to ElasticSearch v0.90.3  fixes #175  cc @kroepke  

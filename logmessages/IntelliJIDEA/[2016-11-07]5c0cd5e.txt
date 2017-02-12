@@ -1,0 +1,1 @@
+  run highlighting and find-in-project in "impatient" mode (which cancels whenever pending write action is detected) to fix thread starvation issues like IDEA-162320 IDEA stuck after calling Find in path during indexing  

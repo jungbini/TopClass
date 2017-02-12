@@ -1,0 +1,1 @@
+ commit is the HEAD you stashed from, and the other is the saved state of the index. => we need the first parent. 2. git show --name-status for a merge commit shows only files modified in both parents.  http://git.661346.n2.nabble.com/Bug-git-show-behaves-incorrectly-when-called-on-a-stash-object-tc7580152.html#a7580155  

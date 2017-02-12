@@ -1,0 +1,1 @@
+  Attempt to fix unexpired daemon problem. Added more trace. We will not remove the daemon from the registry if we cannot connect to the daemon because the connection issue might be temporary? We'll see how it behaves on windows.  

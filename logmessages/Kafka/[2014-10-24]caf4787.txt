@@ -1,0 +1,1 @@
+  KAFKA-1725 Configuration file bugs in system tests add noise to output and break a few tests; reviewed by Neha Narkhede  

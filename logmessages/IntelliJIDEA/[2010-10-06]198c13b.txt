@@ -1,0 +1,1 @@
+  fix lookup moving to the top-left corner (WI-3429, WI-3439, IDEA-59349)  

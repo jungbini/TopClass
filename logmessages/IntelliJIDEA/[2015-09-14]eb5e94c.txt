@@ -1,0 +1,1 @@
+  fix Progress bars in tests for IntelliJ laf on Mac  

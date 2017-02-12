@@ -1,0 +1,1 @@
+  IG: report more problems in "Malformed format string" inspection (fixes IDEA-83792)  

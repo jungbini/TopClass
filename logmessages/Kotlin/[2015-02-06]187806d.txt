@@ -1,0 +1,1 @@
+  Debugger: remove usage of JDIEval during finding local variable in frame because it invokeMethod (loadClass) for find field type which invalidates frame  

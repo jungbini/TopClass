@@ -1,0 +1,1 @@
+  adding build lib to jps-plugin artefact contents, fixing visibility of some classes  

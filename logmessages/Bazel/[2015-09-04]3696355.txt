@@ -1,0 +1,1 @@
+  sandbox: We have to move all generated outputs, not just regular files.  Fix for a part of bug #397.  -- MOS_MIGRATED_REVID=102343972  

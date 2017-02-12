@@ -1,0 +1,1 @@
+  show lookup preview for empty prefix (IDEA-CR-14687)  

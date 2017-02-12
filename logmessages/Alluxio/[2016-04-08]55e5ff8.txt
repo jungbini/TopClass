@@ -1,0 +1,1 @@
+  Add rule for manual heartbeat scheduling  The rule takes care of resetting the heartbeat scheduling afterwards, which we often weren't doing previously. This will fix ALLUXIO-1870.  

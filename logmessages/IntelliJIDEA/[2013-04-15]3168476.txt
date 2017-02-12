@@ -1,0 +1,1 @@
+  fixed  PY-9515 Multi-line parameter info: incorrect current parameter highlighting for parameters from the second line: SIOOBE at java.lang.AbstractStringBuilder.insert  

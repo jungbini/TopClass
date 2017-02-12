@@ -1,0 +1,1 @@
+  fixed wrong client session management in binary network.  

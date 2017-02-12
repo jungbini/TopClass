@@ -1,0 +1,1 @@
+  deadlock fix: don't call getService() from class initializer  

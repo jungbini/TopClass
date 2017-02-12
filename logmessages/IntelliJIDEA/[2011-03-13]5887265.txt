@@ -1,0 +1,1 @@
+  resolve works correctly in nested comprehensions (temp fix until parser is rewritten) (PY-3068)  

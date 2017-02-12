@@ -1,0 +1,1 @@
+  Add mSharedMapsLock in mLockManager to ensure all access to shared maps are serialized. Also fix the returned value in cleanupUser in TieredBlockStore  

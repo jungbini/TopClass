@@ -1,0 +1,1 @@
+  new quick fixes: add parameter, remove parameter, change function literal signature  

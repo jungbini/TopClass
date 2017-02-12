@@ -1,0 +1,1 @@
+  The missing graph grids are back  fixes #WEBINTERFACE-394  

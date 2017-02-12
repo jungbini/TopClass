@@ -1,0 +1,1 @@
+  Add some basic print/debugging support to fragment collections.  For print(fragmentCollection) you get: target: [ 'apple', 'cpp', 'java', 'jvm' ] instead of com.google.devtools.build.lib.analysis.config.FragmentCollection@402dc7f2  -- MOS_MIGRATED_REVID=116045778  

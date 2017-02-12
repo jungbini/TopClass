@@ -1,0 +1,1 @@
+  fix: show CQL help in cqlsh in web browser  patch by Robert Stupp; reviewed by Paulo Motta for CASSANDRA-7225  

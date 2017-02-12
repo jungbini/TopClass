@@ -1,0 +1,1 @@
+  Try-catch exception value is not visible in debugger's local variables #KT-3070 Fixed  

@@ -1,0 +1,1 @@
+  Fix Watchman globbing when watch created for parent of Buck project root  Summary: My previous Watchman glob logic issued queries assuming that the Buck project root was the same as the Watchman watch root.  In his 

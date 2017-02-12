@@ -1,0 +1,1 @@
+  convert junit testcase to test-ng improved and fixed according (IDEA-138767)  

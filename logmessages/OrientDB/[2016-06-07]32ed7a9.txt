@@ -1,0 +1,1 @@
+  OWALPageChangesPortion multi-portion read bug fixed + small related fixes of indexes and transactions support #6234  

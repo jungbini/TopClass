@@ -1,0 +1,1 @@
+  do fix Finish button in Data Binding Wizard on Mac (IDEA-79279)  

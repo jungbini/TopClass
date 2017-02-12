@@ -1,0 +1,1 @@
+  fix disposed editor leak (via caret in position marker tree, via document listener), and an exception on document change after editor is disposed (EA-90983 - TDDE: TraceableDisposable.throwDisposalError)  

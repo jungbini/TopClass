@@ -1,0 +1,1 @@
+  KAFKA-3794: added stream / table names as prefix to print / writeAsText  int to the console.  Author: bbejeck <bbejeck@gmail.com>  Reviewers: Matthias J. Sax <matthias@confluent.io>, Guozhang Wang <wangguoz@gmail.com>  Closes #1577 from bbejeck/KAFKA-3794-add-prefix-to-print-functions  

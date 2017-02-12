@@ -1,0 +1,1 @@
+  getting NaN in convergence test, so obviously there's a bug  

@@ -1,0 +1,1 @@
+  Fixed bug on create vertex and edge without cluster.  

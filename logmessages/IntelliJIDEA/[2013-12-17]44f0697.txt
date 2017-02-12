@@ -1,0 +1,1 @@
+  fix ClassCastException: com.intellij.openapi.fileEditor.FileEditorState$1 cannot be cast to com.intellij.openapi.fileEditor.impl.text.TextEditorState  

@@ -1,0 +1,1 @@
+  IDEADEV-24159 Package prefix is not considered for completion  

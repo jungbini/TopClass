@@ -1,0 +1,1 @@
+  enabled the ListTest to demonstrate KT-2314 - we can re-enable the kotlin-js-tests-junit test case when this is fixed  

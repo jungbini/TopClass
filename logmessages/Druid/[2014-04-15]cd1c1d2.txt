@@ -1,0 +1,1 @@
+  fix casing issue when parsing event  

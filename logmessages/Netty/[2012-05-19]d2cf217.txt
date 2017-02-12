@@ -1,0 +1,1 @@
+  Proposal for fix related to 1rst issue of #345  Thread.sleep(wait) => Thread.sleep((wait/10)*10) (see http://www.javamex.com/tutorials/threads/sleep_issues.shtml)  

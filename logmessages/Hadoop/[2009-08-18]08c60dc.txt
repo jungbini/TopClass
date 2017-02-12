@@ -1,0 +1,1 @@
+  HBASE-1768 REST server has upper limit of 5k PUT; second fix  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@805537 13f79535-47bb-0310-9956-ffa450edef68  

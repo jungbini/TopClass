@@ -1,0 +1,1 @@
+  IDEA-53386: deadlock fix. There's no need to use such a heavy PsiLock here.  

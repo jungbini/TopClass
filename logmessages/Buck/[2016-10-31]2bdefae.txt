@@ -1,0 +1,1 @@
+  fix baseRevision for Rage's VcsInfoCollector  Summary: While making changing in the way we collect the VCS info I made a mistake and made rage pick up changed files and the baseRevisionId like when we execute normal commands. This is wrong because in rage we want to get the 

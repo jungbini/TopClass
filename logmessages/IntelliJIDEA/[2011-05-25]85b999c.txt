@@ -1,0 +1,1 @@
+  fixed PY-3649 Missing docstring: suppressing on module level does nothing (made impossible to suppress docstring inspection for statement)  

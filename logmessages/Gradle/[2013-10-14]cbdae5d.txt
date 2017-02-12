@@ -1,0 +1,1 @@
+  Change formatting of fingbugs reports section.  

@@ -1,0 +1,1 @@
+  restrict field discovery to graylog2 indices  fixes #250  

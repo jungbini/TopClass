@@ -1,0 +1,1 @@
+  don't fill common prefix for patterns consisting of model-specific markup only (EA-71994 - assert: DefaultChooseByNameItemProvider.convertToMatchingPattern)  

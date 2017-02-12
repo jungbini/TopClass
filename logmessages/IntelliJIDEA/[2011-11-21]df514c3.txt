@@ -1,0 +1,1 @@
+  IDEA-77033 +action to GitBranchPopup: Checkout new branch from the branch selected as start point.  Also fixed success notification for this case.  

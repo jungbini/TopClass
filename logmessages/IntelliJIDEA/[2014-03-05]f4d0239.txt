@@ -1,0 +1,1 @@
+  fix exception at completion when multiple carets are enabled (IDEA-80056)  

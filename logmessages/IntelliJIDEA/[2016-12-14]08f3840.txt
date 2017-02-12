@@ -1,0 +1,1 @@
+  support navigation in stacktraces where class fqns are prefixed with module name (IDEA-165456)  

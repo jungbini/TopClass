@@ -1,0 +1,1 @@
+per type mentioned above, plugins providing their own implementation of Manifest will benefit from the split multi-byte characters fix.  +review REVIEW-6007  

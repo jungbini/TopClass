@@ -1,0 +1,1 @@
+  Added test case and fix for stale vertex issue with multi query. Fixes #744.  

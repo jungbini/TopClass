@@ -1,0 +1,1 @@
+  getActiveSplitters is back to be async since related side effects fixed  

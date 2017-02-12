@@ -1,0 +1,1 @@
+ fix some gammar error of README  

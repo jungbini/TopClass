@@ -1,0 +1,1 @@
+  fix CCE when resolving jsp anonymous class supers (EA-89544 - CCE: PsiClassImpl.calcBasesResolveContext)  

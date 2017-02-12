@@ -1,0 +1,1 @@
+  fix timer shutdown code to check for interruptedexceptions nested as a cause of a runtime exception  

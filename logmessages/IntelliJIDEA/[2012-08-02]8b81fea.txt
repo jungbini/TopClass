@@ -1,0 +1,1 @@
+ #RUBY-7976 fixed  

@@ -1,0 +1,1 @@
+  debugging the getTextLength() race condition  

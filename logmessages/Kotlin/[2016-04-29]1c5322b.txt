@@ -1,0 +1,1 @@
+  Quick fix for SUPERTYPE_IS_EXTENSION_FUNCTION_TYPE (#858)  * Quick fix for SUPERTYPE_IS_EXTENSION_FUNCTION_TYPE Fixes #KT-11876  * Revert accidental change  * Remove period  * ConvertExtensionToFunctionTypeFix: more tests  

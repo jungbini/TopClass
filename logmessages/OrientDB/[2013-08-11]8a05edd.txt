@@ -1,0 +1,1 @@
+  Issue #1404 Write cache memory management issues were fixed.  

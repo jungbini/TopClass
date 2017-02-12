@@ -1,0 +1,1 @@
+  allow null value for maven dependency  - fix regression in 2.3-rc-1  +review REVIEW-5376  

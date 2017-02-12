@@ -1,0 +1,1 @@
+  The upgrade to args4j broke parsing of multi-line args. This fix restores the behavior.  Closes https://github.com/google/closure-compiler/pull/2086  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=136370934  

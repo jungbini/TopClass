@@ -1,0 +1,1 @@
+  Set virtual files in LightQuickFixTestCase.java to readonly to check if quick-fix clears the read-only flag  

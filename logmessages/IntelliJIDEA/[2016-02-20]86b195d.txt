@@ -1,0 +1,1 @@
+  fixed PY-17889 Intellij idea does not run IPython notebook properly  

@@ -1,0 +1,1 @@
+  IDEA-76537 Detected invalid soft wraps recalculation. Event: exact old offsets: 0-365; recalculation old offsets: 0-365; exact new offsets: 0-365; recalculation new offsets: 0-365; old logical lines 

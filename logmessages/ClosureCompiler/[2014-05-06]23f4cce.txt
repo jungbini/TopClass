@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE] Warn for anonymous nominal types.  Also fix some ported tests that use @typedef. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=66314920  

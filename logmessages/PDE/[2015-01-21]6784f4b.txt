@@ -1,0 +1,1 @@
+  fix for ^M added to files on Windows (fixes 3014) and bulletproofing for save with temp files (fixes 2923)  

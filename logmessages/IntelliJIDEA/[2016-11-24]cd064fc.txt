@@ -1,0 +1,1 @@
+  Update jediterm terminal emulator with the fixes of IDEA-115276  

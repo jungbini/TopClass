@@ -1,0 +1,1 @@
+  fixed PY-11696 Cancel after adding new interpreter removes configured project interpreter  

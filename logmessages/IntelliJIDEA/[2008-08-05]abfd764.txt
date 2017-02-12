@@ -1,0 +1,1 @@
+  fix startup on JDK 1.5 [r=max]  

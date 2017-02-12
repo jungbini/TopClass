@@ -1,0 +1,1 @@
+  suggest macrodef quickfix only for elements that aren't themselves in macrodef  

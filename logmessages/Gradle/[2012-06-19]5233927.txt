@@ -1,0 +1,1 @@
+  Add performance sample build "lotDependencies". - This is a 25 subprojects build with 200 (transitive) dependencies. - Adapted generator.groovy to be able to configure size and depth of transitive deps. - Generated dependencies can be fixed or snapshot versions. (useSnapshotVersions flag).  

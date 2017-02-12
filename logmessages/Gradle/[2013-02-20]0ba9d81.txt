@@ -1,0 +1,1 @@
+  Don't load maven-settings when publishing using the maven-publish plugin - Fixed bug where mirror setting broke maven publishing (only for maven-publish plugin)  

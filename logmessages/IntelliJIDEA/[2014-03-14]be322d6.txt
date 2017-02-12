@@ -1,0 +1,1 @@
+  IDEA-97026 Debugger: 'Help' button in 'Customize data views' dialog should exist  

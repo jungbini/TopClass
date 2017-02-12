@@ -1,0 +1,1 @@
+  IDEADEV-23866 Ctrl-Space completion should work as Ctrl-Alt-Space if prefix starts from uppercase letter and regular completion finds nothing get<caret>(some nonempty parameter list)  

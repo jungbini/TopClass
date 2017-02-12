@@ -1,0 +1,1 @@
+  test + fix for expiring columns.  patch by Jignesh Dhruv and Sylvain Lebresne for CASSANDRA-1109  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@946481 13f79535-47bb-0310-9956-ffa450edef68  

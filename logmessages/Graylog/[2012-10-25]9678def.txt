@@ -1,0 +1,1 @@
+  only use primary shards for size and count info  We had a multiple of the actual sizes, counts and timings, because all replica stats were summed up when using getTotal(). Now reading from primaries only.  fixes #SERVER-168  

@@ -1,0 +1,1 @@
+  Removed calls to glEnable(target), fixed coloring of fonts  

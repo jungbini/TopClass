@@ -1,0 +1,1 @@
+  Fixed bug on traverse and in general with sub-queries: - in case of usage of the index during browsing the iterator is taken from the result - even on browsing result was collected but it's a worst of resource. Removed!  

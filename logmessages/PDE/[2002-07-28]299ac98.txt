@@ -1,0 +1,1 @@
+  random fixes and making windows build script  

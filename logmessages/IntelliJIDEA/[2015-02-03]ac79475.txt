@@ -1,0 +1,1 @@
+  IDEA-CR-1302 (dependency fixed)  

@@ -1,0 +1,1 @@
+  fixed PY-5226 "replace + with string formatting operator" produces bad code  

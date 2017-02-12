@@ -1,0 +1,1 @@
+  json schema: fix getting schema by relative path (have taken similar fix from master)  

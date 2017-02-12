@@ -1,0 +1,1 @@
+  added space to the left of stream links  fixes #WEBINTERFACE-207  

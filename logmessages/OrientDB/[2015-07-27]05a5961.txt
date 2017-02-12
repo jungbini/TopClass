@@ -1,0 +1,1 @@
+  fixed validation on SELECT statement with LUCENE  

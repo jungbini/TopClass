@@ -1,0 +1,1 @@
+ Correct struct definition for SECURITY_QUALITY_OF_SERVICE, fixing DDEML Bindings  

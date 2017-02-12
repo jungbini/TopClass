@@ -1,0 +1,1 @@
+  fixed incorrect smart targets for inner classes  

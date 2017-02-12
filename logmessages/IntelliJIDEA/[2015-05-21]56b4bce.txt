@@ -1,0 +1,1 @@
+  recover after exceptions when trying to show lookup (EA-65651, EA-65652) and fix one of them  

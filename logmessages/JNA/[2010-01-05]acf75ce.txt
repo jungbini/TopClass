@@ -1,0 +1,1 @@
+  fix read of NIO Buffer fields within structure  git-svn-id: https://svn.java.net/svn/jna~svn/trunk@1022 2f8a963e-d2e4-e7d0-97bf-ccb7fcea9d80  

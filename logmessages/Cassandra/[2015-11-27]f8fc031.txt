@@ -1,0 +1,1 @@
+  fix 2.2 eclipse-warnings  patch by Ariel Weisberg; reviewed by Robert Stupp for CASSANDRA-9800  

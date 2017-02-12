@@ -1,0 +1,1 @@
+  added (PY-1265) "Introduce Variable" quickfix for "Statement has no effect" inspection changed dialog in Convertlambda inspection  

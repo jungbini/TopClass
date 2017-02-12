@@ -1,0 +1,1 @@
+  KT-862  Exception when debugger starts - read action request before reading PSI is added  

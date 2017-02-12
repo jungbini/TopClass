@@ -1,0 +1,1 @@
+  xdebugger: mark new properties appeared after step in debugger trees (WI-3066)  

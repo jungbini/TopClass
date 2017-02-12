@@ -1,0 +1,1 @@
+  SimpleStrategyTest extends CleanupHelper to avoid heisenbugs from other tests' left-overs patch by jbellis  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1041109 13f79535-47bb-0310-9956-ffa450edef68  

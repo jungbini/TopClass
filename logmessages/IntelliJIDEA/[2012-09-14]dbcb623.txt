@@ -1,0 +1,1 @@
+  IDEA-87246 (Add auto-fix to inspection "'protected' member in 'final' class" to make member private.)  

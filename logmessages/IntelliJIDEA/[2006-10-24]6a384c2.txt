@@ -1,0 +1,1 @@
+  allow suppressing inspections which do not have quickfixes (IDEADEV-8884)  

@@ -1,0 +1,1 @@
+  Emmet: fix deadlock in completion  

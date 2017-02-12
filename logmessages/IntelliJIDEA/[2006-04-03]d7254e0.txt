@@ -1,0 +1,1 @@
+  enabling "Static method only used in one class" inspection and added quick fix  

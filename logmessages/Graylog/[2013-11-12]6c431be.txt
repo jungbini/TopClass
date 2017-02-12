@@ -1,0 +1,1 @@
+  treat numeric json input as their closest matching type  integral numbers will be treated as long floating point numbers will be treated as double everything else is a string  added tests  fixes #298  

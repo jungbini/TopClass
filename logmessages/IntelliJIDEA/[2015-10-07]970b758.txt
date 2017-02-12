@@ -1,0 +1,1 @@
+  PluginProjectWizardTest fixed (now plugin.xml is created in 'resources/META-INF' directory)  

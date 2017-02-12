@@ -1,0 +1,1 @@
+  IDEA-101547 Please add a clock in fullscreen mode! AffineTransform fix (mac os )  

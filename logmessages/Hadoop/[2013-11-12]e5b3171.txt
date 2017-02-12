@@ -1,0 +1,1 @@
+  HDFS-5494. Fix findbugs warnings for HDFS-2832.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-2832@1540924 13f79535-47bb-0310-9956-ffa450edef68  

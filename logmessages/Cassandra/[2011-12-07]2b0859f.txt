@@ -1,0 +1,1 @@
+  excise mention of 2189 from CHANGES since it didn't actually get fixed  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1211709 13f79535-47bb-0310-9956-ffa450edef68  

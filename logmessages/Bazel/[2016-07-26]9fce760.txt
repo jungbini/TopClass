@@ -1,0 +1,1 @@
+  Linker outputs can optionally be configured from the CROSSTOOL.  Introduces infrastructure to allow other artifact categories (such as debug symbols or compiler outputs) to be defined in other changes.  -- MOS_MIGRATED_REVID=128495797  

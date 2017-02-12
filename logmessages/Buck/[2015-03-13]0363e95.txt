@@ -1,0 +1,1 @@
+  Reduce data envy of the CommandString class  Summary: This was bugging me as I was reading the code.  Test Plan: buck test --all  

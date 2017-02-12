@@ -1,0 +1,1 @@
+  Issue with wrong data conversion of query parameter is fixed.  

@@ -1,0 +1,1 @@
+  fixed PY-6678 Assignment can be replace with augmented assignment: does nothing if there is a function in the assignment  

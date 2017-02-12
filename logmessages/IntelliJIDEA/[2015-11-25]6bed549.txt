@@ -1,0 +1,1 @@
+  allow users to set 'trace' level via Configure Debug Log Settings action  

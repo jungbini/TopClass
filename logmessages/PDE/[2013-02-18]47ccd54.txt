@@ -1,0 +1,1 @@
+  adding separate toolkit/events to hack around the erratic mouse behavior on OS X, fixes #1626  

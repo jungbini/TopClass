@@ -1,0 +1,1 @@
+  decreased LogLevel of FolderObserver to INFO in debug logconfig  

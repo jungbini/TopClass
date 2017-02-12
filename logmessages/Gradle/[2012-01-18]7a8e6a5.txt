@@ -1,0 +1,1 @@
+  fixed everything necessary to make simple ForkingJavaCompilerTest work  set working dir for worker process (default didn't work) made FileCollectionAdapter serializable stop connection when compilation is done  

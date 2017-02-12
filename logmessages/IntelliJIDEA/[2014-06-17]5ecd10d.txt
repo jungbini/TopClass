@@ -1,0 +1,1 @@
+  fixed PY-13296 Pycharm UI unresponsive  do not lock UI in case we just want to send package statistics  

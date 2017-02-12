@@ -1,0 +1,1 @@
+  fixed pom.xml entries for maven build  

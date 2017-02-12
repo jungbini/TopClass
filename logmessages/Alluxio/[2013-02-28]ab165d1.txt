@@ -1,0 +1,1 @@
+  fix a caching bug in hadoop aoi.  

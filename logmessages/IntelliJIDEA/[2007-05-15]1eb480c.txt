@@ -1,0 +1,1 @@
+  correct processing of property prefixes (IDEADEV-15250)  

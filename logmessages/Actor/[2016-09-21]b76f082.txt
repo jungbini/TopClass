@@ -1,0 +1,1 @@
+  fix(server:files): make S3 adapter compatible with minio  

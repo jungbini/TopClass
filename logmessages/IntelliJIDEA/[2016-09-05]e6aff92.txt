@@ -1,0 +1,1 @@
+  [platform] fixes a notification on patch download problems  

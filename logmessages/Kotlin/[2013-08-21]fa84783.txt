@@ -1,0 +1,1 @@
+  fix for http://youtrack.jetbrains.com/issue/KT-3911  

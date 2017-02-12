@@ -1,0 +1,1 @@
+  Fix for #257 Re-add $.atmosphere.publish API, final fix for #70 Add support for TrackMessageSize  

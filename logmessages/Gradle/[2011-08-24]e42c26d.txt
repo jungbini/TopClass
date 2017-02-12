@@ -1,0 +1,1 @@
+  Introduced a build convention of projects prefixed with internal- being regarded as not for public consumption.  Right now, this means not including them in the Gradle distribution and not requiring Javadocs like public projects.  The testing project has been renamed to testingInternal under this new convention.  

@@ -1,0 +1,1 @@
+  javadoc quickfix should keep order of added tags (IDEADEV-10023)  

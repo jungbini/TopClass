@@ -1,0 +1,1 @@
+  Fix bug with our groovydoc task that was hidden by dynamic properties.  

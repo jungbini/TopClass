@@ -1,0 +1,1 @@
+  moved all s3 related resources, fixtures, tests and integration tests into resourceS3 subproject  - required to add maven/ivy testfixtures (only compiling one class each atm)  +review REVIEW-5361  

@@ -1,0 +1,1 @@
+  fix small "Pointless bitwise expression" inspection problem caused by introduction of PsiPolyadicExpression  

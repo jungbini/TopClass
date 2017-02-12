@@ -1,0 +1,1 @@
+  link kafka and radio inputs to docs. fixes #385  

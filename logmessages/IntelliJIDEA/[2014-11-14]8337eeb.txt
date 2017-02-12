@@ -1,0 +1,1 @@
+  don't enable trigram index by default until fix of high fragmentation (IDEA-132648)  

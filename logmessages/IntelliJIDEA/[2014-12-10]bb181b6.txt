@@ -1,0 +1,1 @@
+  Use blocking read for remote debug to be able to end reading when the end process finishes (PY-14493).  

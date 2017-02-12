@@ -1,0 +1,1 @@
+ Mac color picker: fix current color text  

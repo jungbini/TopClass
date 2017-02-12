@@ -1,0 +1,1 @@
+  Ensure that prefixed attributes are properly namespaced when reparented  

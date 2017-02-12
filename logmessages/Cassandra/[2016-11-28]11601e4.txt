@@ -1,0 +1,1 @@
+  fix flakiness in HintsBufferPoolTest  patch by aweisberg; reviewed by jasobrown for CASSANDRA-12894  

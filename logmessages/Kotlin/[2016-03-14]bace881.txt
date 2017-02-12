@@ -1,0 +1,1 @@
+  Quick fix to make var with private setter final #KT-10859 Fixed  

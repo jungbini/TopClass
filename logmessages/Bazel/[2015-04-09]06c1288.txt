@@ -1,0 +1,1 @@
+  Add more debugging to help track down crash.  Note that we probably want to change the discardMetadata signature to no longer take an argument, since we have per-action metadata handling. However, I'd like to know that that's the source of the crash, if it is, which is why I'm not removing the argument right now.  -- MOS_MIGRATED_REVID=90712991  

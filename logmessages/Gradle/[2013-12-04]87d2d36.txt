@@ -1,0 +1,1 @@
+  Correctly root binary to Visual Studio solution configuration - Improved fixture for testing generated VS solution files  

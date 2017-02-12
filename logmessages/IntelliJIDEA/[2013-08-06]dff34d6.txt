@@ -1,0 +1,1 @@
+  fixed EA-45596 - UOE: ASTDelegatePsiElement.delete  

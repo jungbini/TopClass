@@ -1,0 +1,1 @@
+ fixed updating IDEA CE from IDEA UE sources  

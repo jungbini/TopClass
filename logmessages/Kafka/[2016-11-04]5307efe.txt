@@ -1,0 +1,1 @@
+  MINOR: Fix re-raise of python error in system tests  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Jason Gustafson <jason@confluent.io>  Closes #2099 from ewencp/fix-python-reraise  

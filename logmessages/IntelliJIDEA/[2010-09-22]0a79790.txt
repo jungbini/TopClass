@@ -1,0 +1,1 @@
+  tooltip gutter orientation fix  

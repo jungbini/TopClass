@@ -1,0 +1,1 @@
+  Make AnalyzerFacade an abstract class instead of interface  Seems to workaround some compiler bug  

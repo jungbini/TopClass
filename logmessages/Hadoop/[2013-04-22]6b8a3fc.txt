@@ -1,0 +1,1 @@
+  HDFS-4715. Backport HDFS-3577, HDFS-3318 and HDFS-3788: fix some WebHDFS performance issues.  Contributed by Mark Wagner   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1@1470660 13f79535-47bb-0310-9956-ffa450edef68  

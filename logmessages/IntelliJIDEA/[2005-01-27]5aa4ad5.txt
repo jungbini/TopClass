@@ -1,0 +1,1 @@
+  fixed NPE during changing second tag name reference (it gets invalid after first tag name change)  

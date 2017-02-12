@@ -1,0 +1,1 @@
+  idea check: temporarily disable non-blocking read for tests' debug mode  

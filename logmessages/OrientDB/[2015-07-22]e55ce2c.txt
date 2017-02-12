@@ -1,0 +1,1 @@
+  Issue with JMX Profiler bean was fixed.  

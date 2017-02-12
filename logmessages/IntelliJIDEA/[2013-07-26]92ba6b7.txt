@@ -1,0 +1,1 @@
+  Fixed endless loop when setting file encodings and fixed changing of line separators (got rid of concurrent write modification exception and used separator replacement function supported by non-IntelliJ editors  

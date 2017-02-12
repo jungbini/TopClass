@@ -1,0 +1,1 @@
+  [STORM-239] Allow supervisor to operate in paths with spaces in them  Works around a bug in path-escaping for Resources, described here: http://bugs.java.com/bugdatabase/view_bug.do?bug_id=4466485  

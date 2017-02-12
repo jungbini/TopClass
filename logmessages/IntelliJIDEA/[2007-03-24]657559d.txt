@@ -1,0 +1,1 @@
+  bugfixes for "Prohibited exception caught" inspection ui  

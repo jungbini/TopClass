@@ -1,0 +1,1 @@
+  Fixed bug reported in ML by Kant about SQL like operator with wildcard inside the text example: where name like 'Giu%pe'. Added more tests  

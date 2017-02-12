@@ -1,0 +1,1 @@
+  quickfix for typos in form files (IDEA-65713)  

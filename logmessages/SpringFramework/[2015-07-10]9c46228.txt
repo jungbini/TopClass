@@ -1,0 +1,1 @@
+stAttributes backed by the mocked request managed by MockMvc are stored in the RequestContextHolder before any filters are invoked by MockMvc.  Issue: SPR-13217  

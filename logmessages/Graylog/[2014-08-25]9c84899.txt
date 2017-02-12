@@ -1,0 +1,1 @@
+  Obey index prefixes in index and deflector operations  Check the validity of indices in IndicesResource before operating on them.  Fixes #689  

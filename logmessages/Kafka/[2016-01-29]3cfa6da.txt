@@ -1,0 +1,1 @@
+87eccb9a3bea56e5d7d5696aaddef1421f038903  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Grant Henke, Guozhang Wang  Closes #829 from ijuma/fix-comments-in-replica-fetcher-thread  

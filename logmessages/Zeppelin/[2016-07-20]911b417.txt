@@ -1,0 +1,1 @@
+ing error e71389d [Damien CORNEAU] remove jshint remnants e1b389f [Damien CORNEAU] remove .jsintrc 0364ad4 [Damien CORNEAU] Fix eslint for tests 7b1da05 [Damien CORNEAU] Replace JsHint by Eslint  

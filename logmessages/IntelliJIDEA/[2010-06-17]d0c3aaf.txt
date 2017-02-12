@@ -1,0 +1,1 @@
+  password safe: Removed tests that fail due to the classloader bug  

@@ -1,0 +1,1 @@
+  fix re-created keyspace disappering after 1.1.5 upgrade patch by Pavel Yaskevich; reviewed by Jonathan Ellis for CASSANDRA-4698  

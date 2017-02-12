@@ -1,0 +1,1 @@
+  moved alarm trigger to alarm tabs. changed wording  fixes #WEBINTERFACE-365  

@@ -1,0 +1,1 @@
+  tests and fix for "Assert with side effects" inspection  

@@ -1,0 +1,1 @@
+ Merge pull request #1327 from Dominator008/fixGwt  Use Guava 20.0-SNAPSHOT and GWT 2.8.0-beta1 to fix the GWT build  commit a0f17f0d16947fd8f31f9f544091137becc5012a  Use Guava 20.0-SNAPSHOT and GWT 2.8.0-beta1 to fix the GWT build  Fixes #1323  

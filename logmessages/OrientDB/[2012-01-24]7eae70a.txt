@@ -1,0 +1,1 @@
+  Fixed bug on toLowercase() and toUppercase in query when value is NULL  

@@ -1,0 +1,1 @@
+  Fix for a bug of fragment parsing. There's a flaw in ignoring bogus namespace.  

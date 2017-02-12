@@ -1,0 +1,1 @@
+  MAPREDUCE-5208. Bug-fix on branch-2 - tests weren't compiling.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1482091 13f79535-47bb-0310-9956-ffa450edef68  

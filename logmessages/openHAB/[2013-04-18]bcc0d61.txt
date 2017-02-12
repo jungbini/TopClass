@@ -1,0 +1,1 @@
+  fixed #243 - updated smack lib to 3.2.2  

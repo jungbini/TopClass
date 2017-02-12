@@ -1,0 +1,1 @@
+  use file's directory as context root when resolving references in FileIncludeProvider (fixes WEB-20021 for IntelliJ IDEA)  

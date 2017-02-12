@@ -1,0 +1,1 @@
+  debugger layout: detached view doesn't restore location + small fixes in popups  

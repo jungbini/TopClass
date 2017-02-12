@@ -1,0 +1,1 @@
+  Work around netty offheap capacity check bug  patch by tjake; reviewed by Mikhail Stepura for CASSANDRA-7196  

@@ -1,0 +1,1 @@
+  [git] add debug logging to capture the auth failure problem  IDEA-145083 and related  

@@ -1,0 +1,1 @@
+  [mac] fix software italic fonts emulation for real italic font faces (apple java bug)  

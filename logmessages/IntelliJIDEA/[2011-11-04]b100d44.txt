@@ -1,0 +1,1 @@
+  fixed PY-4692 "Goto test" in test file shows "Choose test" popup when multiple options are available  

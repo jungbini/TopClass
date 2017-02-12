@@ -1,0 +1,1 @@
+  first version of AMQP queue settings is complete  fixes #WEBINTERFACE-351  

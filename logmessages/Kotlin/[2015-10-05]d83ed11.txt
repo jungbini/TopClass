@@ -1,0 +1,1 @@
+  Add "add type to callable reference LHS" quickfix to Code Cleanup  

@@ -1,0 +1,1 @@
+  Rename jet -> kotlin in idea: completion, debugger, decompiler, highlighter  org.jetbrains.jet.plugin.* -> org.jetbrains.kotlin.idea.*  

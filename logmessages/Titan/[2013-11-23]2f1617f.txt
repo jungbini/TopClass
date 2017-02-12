@@ -1,0 +1,1 @@
+  Fixing titan-dist-all, -server jre6 packaging bug  The jre6.xslt stylesheet now removes the persistit dependencies from these two distro poms.  I also deleted the jre7.xslt stylesheet, since reversing this operation is nontrivial.  So now `git checkout` is the way to reverse it.  

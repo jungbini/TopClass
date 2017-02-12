@@ -1,0 +1,1 @@
+  STORM-2078: fix bug where worker rows were not redrawing on filter. Now it happens on drawCallback (every drw  

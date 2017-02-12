@@ -1,0 +1,1 @@
+  Made transactional timestamps fixed for the entire transaction and all associated mutations. Fixed test cases to correctly reflect that. Improved ConsistentKeyIDAllocation by making each mutation in its own transaction.  

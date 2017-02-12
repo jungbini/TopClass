@@ -1,0 +1,1 @@
+  kafka-1395; fix unit tests in AutoOffsetResetTest; patched by Guozhang Wang; reviewed by Neha Narkhede, Jun Rao  

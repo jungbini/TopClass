@@ -1,0 +1,1 @@
+  fix broken classpath for eclipse warnings  patch by Ariel Weisberg; reviewed by tjake for CASSANDRA-9803  

@@ -1,0 +1,1 @@
+  HADOOP-12714. Fix hadoop-mapreduce-client-nativetask unit test which fails because it is not able to open the "glibc bug spill" file. (cmccabe)  

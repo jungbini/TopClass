@@ -1,0 +1,1 @@
+  fixed lucene validation at parse time  

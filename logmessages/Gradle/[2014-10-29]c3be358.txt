@@ -1,0 +1,1 @@
+  Hack in a very simple algorithm for selecting platform to build based on current os  - We should be more sophisticated about this calculation, but hopefully this will fix the build  

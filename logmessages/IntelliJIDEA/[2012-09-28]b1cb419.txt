@@ -1,0 +1,1 @@
+  IDEA-92072 'Revert' and 'Branches' actions need "..." in the name (VCS popup)  Forgot to fix revert in git plugin, not only in the common actions. Also remove the text attribute from the action descriptor, since it is overwritten and not used anywhere.  

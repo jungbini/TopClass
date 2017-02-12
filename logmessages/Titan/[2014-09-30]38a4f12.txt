@@ -1,0 +1,1 @@
+  fix regex by removing filter from fieldType (+ handle empty facet/filter queries in AND statement correctly)  

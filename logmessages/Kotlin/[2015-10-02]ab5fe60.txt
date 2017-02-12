@@ -1,0 +1,1 @@
+  Corrected quickfix class name in tests  

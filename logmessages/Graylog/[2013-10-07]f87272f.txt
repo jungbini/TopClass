@@ -1,0 +1,1 @@
+  map newlines to br tags and sort full_message last  introduce new default field mapper for full_message use a sorted map for fields, sorting full_message last  fixes #262  

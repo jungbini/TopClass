@@ -1,0 +1,1 @@
+  fixed balloon shadow with the new hidpi  

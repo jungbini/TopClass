@@ -1,0 +1,1 @@
+  xdebugger: fixed restoring tree state (IDEA-77406)  

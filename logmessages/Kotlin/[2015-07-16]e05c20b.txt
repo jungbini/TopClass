@@ -1,0 +1,1 @@
+  Completion: fixed ordering for packages + exclude for package items supported too  

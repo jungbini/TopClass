@@ -1,0 +1,1 @@
+  - fixed a bug which prevents exported/imported graylog2 messages to show up in the result of the finder due to the :deleted => false condition which is not fulfilled because those records have no deleted attribute (resulting in a nil value)  

@@ -1,0 +1,1 @@
+  fixed PY-12920 **kwargs in constructor parameters disappear after "Add super class call" quick fix  

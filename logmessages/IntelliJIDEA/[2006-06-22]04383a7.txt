@@ -1,0 +1,1 @@
+  descriptor discovery; maindeploymentdescriptor possible NPE fixes; minor fixes  

@@ -1,0 +1,1 @@
+  Revert "[buck] fix python unit tests to return non-zero on failure"  Summary: We need it to unblock the repo as it broke testing  Test Plan: buck test  Reviewed By: Coneko  fbshipit-source-id: 707422f  

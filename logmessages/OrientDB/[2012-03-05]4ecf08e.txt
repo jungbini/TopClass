@@ -1,0 +1,1 @@
+  Studio: fixed query history  

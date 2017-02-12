@@ -1,0 +1,1 @@
+  android: intention to fix switch on non-constant resource fields  

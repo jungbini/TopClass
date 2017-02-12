@@ -1,0 +1,1 @@
+  custom error message when texture map is missing, fixes #3990  

@@ -1,0 +1,1 @@
+  Stream API migration various fixes  1. findFirst() scenario can pull previous assignment (not declaration) now 2. anyMatch() fix did not work if there's single assignment to non-variable (e.g. array element) 3. if non-adjacent return becomes unreachable after findFirst()/anyMatch(), it returned automatically now  

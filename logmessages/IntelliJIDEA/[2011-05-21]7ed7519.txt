@@ -1,0 +1,1 @@
+  ActionScript: quickfix to create constructor from usage/super call (IDEA-25775)  

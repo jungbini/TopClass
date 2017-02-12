@@ -1,0 +1,1 @@
+  Spellchecker: exclude hex codes from spellcheking (IDEA-52966 fixed)  

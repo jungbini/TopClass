@@ -1,0 +1,1 @@
+  fixed regression after PY-9920  fixed PY-10188 Automatically generated Nosetest run configurations fail with error complaining about project path  

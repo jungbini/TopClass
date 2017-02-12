@@ -1,0 +1,1 @@
+  Fix a bug in ChannelOutboundBuffer.forEachFlushedMessage()  Motivation:  ChannelOutboundBuffer.forEachFlushedMessage() visits even an unflushed messages.  Modifications:  Stop the loop if the currently visiting entry is unflushedEntry.  Result:  forEachFlushedMessage() behaves correctly.  

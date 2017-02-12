@@ -1,0 +1,1 @@
+  Adding isolateScope extern to angular 1.5. https://docs.angularjs.org/guide/production#disabling-debug-data.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=119345791  

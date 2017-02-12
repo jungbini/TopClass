@@ -1,0 +1,1 @@
+  Added missing equals on MetricsOptions and fixed starter test  

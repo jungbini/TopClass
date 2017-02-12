@@ -1,0 +1,1 @@
+  ninja fix rethrow InterruptedException in cassandra-stress Timing.snap  

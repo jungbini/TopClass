@@ -1,0 +1,1 @@
+  fix duplicates and wrong order in search everywhere  

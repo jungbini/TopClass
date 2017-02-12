@@ -1,0 +1,1 @@
+  fix CF.digest NPE.  patch by jbellis; reviewed by Eric Evans for CASSANDRA-149  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@772690 13f79535-47bb-0310-9956-ffa450edef68  

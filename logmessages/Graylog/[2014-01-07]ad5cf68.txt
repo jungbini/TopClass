@@ -1,0 +1,1 @@
+  fix quickvalue window positioning. fixes #289  

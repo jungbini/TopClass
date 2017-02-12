@@ -1,0 +1,1 @@
+  fix broken lucene escaping. fixes #324  

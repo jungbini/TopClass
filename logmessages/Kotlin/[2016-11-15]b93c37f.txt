@@ -1,0 +1,1 @@
+  Added tests to prove, that KT-8547 fixed  

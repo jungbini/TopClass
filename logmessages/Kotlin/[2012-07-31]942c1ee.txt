@@ -1,0 +1,1 @@
+  Reverted fix for KT-2042 Kotlin SDK must be explicitly specified for each module that uses Kotlin  #KT-2042 reopened  

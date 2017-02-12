@@ -1,0 +1,1 @@
+  don't mix default filetypes and default state of component: fix build scripts  

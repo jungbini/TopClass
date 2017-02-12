@@ -1,0 +1,1 @@
+  fix DefinitionsSearch extensions registration  

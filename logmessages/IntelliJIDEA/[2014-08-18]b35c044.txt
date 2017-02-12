@@ -1,0 +1,1 @@
+  inspections ui: CME fixed in ThreeStateCheckBoxRenderer  

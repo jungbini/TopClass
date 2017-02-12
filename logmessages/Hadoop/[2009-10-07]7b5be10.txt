@@ -1,0 +1,1 @@
+  HADOOP-6286. Fix bugs in related to URI handling in glob methods in FileContext. Contributed by Boris Shkolnik.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.21@822806 13f79535-47bb-0310-9956-ffa450edef68  

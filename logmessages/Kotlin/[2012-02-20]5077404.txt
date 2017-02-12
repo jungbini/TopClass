@@ -1,0 +1,1 @@
+  no overriden descriptors in ErrorNamedFunctionDescriptorImpl  fixes stack overflow in KT-1206  

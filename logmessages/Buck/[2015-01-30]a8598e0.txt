@@ -1,0 +1,1 @@
+  Work around race condition in ToolProvider.  Summary: We were seeing periodic `ClassCastExceptions` in annotation processors that used the Compiler Tree API defined in `tools.jar`. These occurred sporadically on heavily-loaded continuous integration machines. Adding some logging revealed that the `JavaCompiler` was being loaded with a 

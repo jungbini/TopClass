@@ -1,0 +1,1 @@
+  update menu items on app activation fix  

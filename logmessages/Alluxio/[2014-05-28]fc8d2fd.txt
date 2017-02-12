@@ -1,0 +1,1 @@
+ Merge pull request #211 from PasaLab/master  fix the problem of "no tty to run sudo"  commit fc8d2fdd3f49738216619babaf85a4bdcd56dbe8  fix potential deadlock in master client  

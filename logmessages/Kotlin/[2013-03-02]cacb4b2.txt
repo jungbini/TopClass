@@ -1,0 +1,1 @@
+  Support for generic classes in quickfix for NOTHING_TO_OVERRIDE  

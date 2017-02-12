@@ -1,0 +1,1 @@
+  fix(push): remove old credentials on new register  

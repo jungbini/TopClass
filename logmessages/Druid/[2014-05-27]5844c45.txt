@@ -1,0 +1,1 @@
+ fix issue when offset changes folding maxOverflow  

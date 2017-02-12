@@ -1,0 +1,1 @@
+  don't register 'add import' fix if there's nothing to import (PY-901)  

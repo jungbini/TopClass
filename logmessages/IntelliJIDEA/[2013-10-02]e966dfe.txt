@@ -1,0 +1,1 @@
+  avoid creation of same stubindexkeys more than once to fix assertion in ID.java:74  

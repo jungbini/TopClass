@@ -1,0 +1,1 @@
+  fixed exception on close when trying to create sketch.properties on linux and mac  

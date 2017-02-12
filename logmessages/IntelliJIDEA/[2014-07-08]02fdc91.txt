@@ -1,0 +1,1 @@
+  IDEA-126726 "Complete current statement" always adds a newline  * rollback the fix for IDEA-119926  

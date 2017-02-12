@@ -1,0 +1,1 @@
+  Property <-> Function Conversion: Add/remove 'get'/'is' prefixes automatically #KT-8812 Fixed  

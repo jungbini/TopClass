@@ -1,0 +1,1 @@
+  Fixed the deprecation warnings in our own build. Deprecated sourceSet.xxx.classesDir in favor of sourceSet.xxx.output.classesDir (still pending fixing deprecation in the code itself).  

@@ -1,0 +1,1 @@
+  make javabean getters/setter not visible as properties temporarily  fixes KT-1432  

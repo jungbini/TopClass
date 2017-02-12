@@ -1,0 +1,1 @@
+  Refactoring and many fixes of the django completion in string literals. Also tests added.  

@@ -1,0 +1,1 @@
+  editor tabs: focus lost on ctrl-f fixed  

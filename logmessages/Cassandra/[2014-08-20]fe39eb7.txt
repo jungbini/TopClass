@@ -1,0 +1,1 @@
+  (Hadoop) fix cluster initialisation for a split fetching  patch by Jacek Lewandowski; reviewed by Alex Liu for CASSANDRA-7774  

@@ -1,0 +1,1 @@
+  fixed  PY-8682 Disable Non-Ascii character warning  

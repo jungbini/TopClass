@@ -1,0 +1,1 @@
+  fix forceUpdate(): if several threads entered the method and there were files to update, all of the threads entered should leave the method synchronously after all the files scheduled for update are reindexed, no matter which thread will do actual reindexing job  

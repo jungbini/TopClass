@@ -1,0 +1,1 @@
+  Add more debug outputs for diagnosing windows failing JacocoPluginVersionIntegrationTest  

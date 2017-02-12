@@ -1,0 +1,1 @@
+  java-xdebugger: IDEA-125088 Debugger: Evaluate Code Fragment works like Evaluate Expression  

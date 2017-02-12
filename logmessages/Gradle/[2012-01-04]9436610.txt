@@ -1,0 +1,1 @@
+  Fixed the location of the defaults java home...  Moved the defaulting of the java home from the DefaultConnection to the DaemonParameters. Some more clean up is pending in this area. This should fix the build.  

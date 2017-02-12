@@ -1,0 +1,1 @@
+  test and bugfixes for "Collection declared by class, not interface" inspection  

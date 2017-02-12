@@ -1,0 +1,1 @@
+  Tentative fix for #1747.  The the theory is that the closing the file handle when the process terminates races with the reader threads, and if the closing happens not while a system call is running but between two, nativeReadStream() would return an error.  -- MOS_MIGRATED_REVID=132851092  

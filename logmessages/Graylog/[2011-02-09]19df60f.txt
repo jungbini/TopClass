@@ -1,0 +1,1 @@
+  Removed some debug messages and moved filter our config file location to graylog2.conf  

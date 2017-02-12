@@ -1,0 +1,1 @@
+  PY-14365 Do not show object and __Classobj in AutoImportQuickFix  Excluded them from the list of base classes that may be shown in description and list items in the quick fix UI.  

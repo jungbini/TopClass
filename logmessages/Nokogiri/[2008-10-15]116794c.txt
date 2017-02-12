@@ -1,0 +1,1 @@
+  commenting out self closed form bug, fixing CLASS selectors for CSS  

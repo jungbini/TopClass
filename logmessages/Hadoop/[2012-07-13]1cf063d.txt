@@ -1,0 +1,1 @@
+  svn merge -c 1298978 FIXES:MAPREDUCE-3348. Fixed a bug in MR client to redirect to JobHistoryServer correctly when RM forgets the app. Contributed by Devaraj K.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1361385 13f79535-47bb-0310-9956-ffa450edef68  

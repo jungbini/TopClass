@@ -1,0 +1,1 @@
+  fixed PY-6887 Paste changes code logic when making top-level function inner  

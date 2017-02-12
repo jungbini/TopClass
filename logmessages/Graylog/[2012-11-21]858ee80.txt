@@ -1,0 +1,1 @@
+  Changed sentence because syslog now has add fields  fixes #WEBINTERFACE-357  

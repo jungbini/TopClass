@@ -1,0 +1,1 @@
+  delegate methods: fix single field case (IDEA-154698)  

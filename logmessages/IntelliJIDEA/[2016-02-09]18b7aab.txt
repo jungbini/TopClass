@@ -1,0 +1,1 @@
+  PY-18453 Python package management facilities disablement fixed  Enabled by default for non-remote SDKs plus Vagrant, Ssh and WebDeployment credential-based SDKs.  

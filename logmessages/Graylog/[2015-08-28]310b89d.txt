@@ -1,0 +1,1 @@
+ catch APIException if creating a role fails due to duplicate names  - bubble the error text all the way to the browser so we can display a more helpful error message  fixes #1578  

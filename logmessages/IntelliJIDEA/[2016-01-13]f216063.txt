@@ -1,0 +1,1 @@
+  ElectronDebugTest  passed. Support debug pure js file in the ASAR  we resolve real file in the project using source content  

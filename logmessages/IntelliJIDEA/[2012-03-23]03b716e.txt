@@ -1,0 +1,1 @@
+  fixed emptiness of exception in PyPackageManager on finished() action  

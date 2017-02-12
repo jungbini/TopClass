@@ -1,0 +1,1 @@
+  sometimes the best assertion fix is to remove the assertion (EA-36471)  

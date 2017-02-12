@@ -1,0 +1,1 @@
+  initial WEB-7303 Add support for debugging with node-webkit  

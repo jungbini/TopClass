@@ -1,0 +1,1 @@
+  fix-3237 (#3244)  DruidBroker use FilteredServerInventoryView instead of ServerInventoryView  

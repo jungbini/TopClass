@@ -1,0 +1,1 @@
+  Frontend: fixed resolve annotation parameters on properties, accessors,  accessor parameters, function parameters when not need complete analysis.  

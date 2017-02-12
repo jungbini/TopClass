@@ -1,0 +1,1 @@
+  Include JUnit's source code for debugging.  Test Plan: Control-click on `org.junit` imports in Eclipse and verify that I am taken to the corresponding source code.  

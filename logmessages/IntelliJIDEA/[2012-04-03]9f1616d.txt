@@ -1,0 +1,1 @@
+  In case of remote debugging on Win from Unix, paths shouldn't be lowercased (PY-4244).  

@@ -1,0 +1,1 @@
+  fixed PY-4606 Applying quickfix discards end-of-line comment  

@@ -1,0 +1,1 @@
+  WI-2195: PHP debug: Watches view: commands to add and remove a watch could be added to context menu  

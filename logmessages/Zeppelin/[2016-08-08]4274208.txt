@@ -1,0 +1,1 @@
+empty invalid ticket 6da7bd4 [Khalid Huseynov] log in debug mode all invalid ticket cases c1160a7 [Khalid Huseynov] don't throw exception on ping  (cherry picked from commit 36a7e38ffd6af614ad770a6e23ec1fd98a90c809) Signed-off-by: Mina Lee <minalee@apache.org>  Conflicts: zeppelin-server/src/main/java/org/apache/zeppelin/socket/NotebookServer.java  

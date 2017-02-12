@@ -1,0 +1,1 @@
+  processing-java install tool window huge, fix for #1748  

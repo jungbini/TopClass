@@ -1,0 +1,1 @@
+  fixing ExternalChangesToVcs.testSynchronizingToVcs() CommonLVCS._init() catches Throwable, not Exception  

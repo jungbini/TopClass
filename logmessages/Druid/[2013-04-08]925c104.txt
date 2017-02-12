@@ -1,0 +1,1 @@
+  update emitter version and fix some NPEs  

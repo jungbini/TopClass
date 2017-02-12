@@ -1,0 +1,1 @@
+  make SchemeProcessor abstract class  there is the one external usage (QAPlugin, contacted to fix incompaibility) add configuration-store-tests to idea tests  

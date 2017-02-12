@@ -1,0 +1,1 @@
+  Studio: fixed rendering of graphs using the Blueprints model  

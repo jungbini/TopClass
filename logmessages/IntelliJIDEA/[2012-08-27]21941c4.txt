@@ -1,0 +1,1 @@
+  fixed PY-7089 Insert type assertion: leads to syntactically incorrect code when invoked for one-line function  

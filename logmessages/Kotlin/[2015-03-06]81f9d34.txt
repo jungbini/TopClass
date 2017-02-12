@@ -1,0 +1,1 @@
+  Add quick fix for deprecated 'class object' syntax  

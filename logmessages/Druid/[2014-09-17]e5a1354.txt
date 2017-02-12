@@ -1,0 +1,1 @@
+ Merge pull request #753 from metamx/fix-compilation  upgrade druid-api  commit e5a13544a0fe3222a0bd2c05b496ffe7dad92db6  fix column selector on varying incr index schema  

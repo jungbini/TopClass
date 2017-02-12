@@ -1,0 +1,1 @@
+  repaired Filter + took out res + introduced Bandwidth for BPass. fixed some public/private bugs  

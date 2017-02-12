@@ -1,0 +1,1 @@
+ [#88] fixed FGC calculation error when FGC count and time reset  

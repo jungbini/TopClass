@@ -1,0 +1,1 @@
+  JS: fix exception in JS front-end when checking JsName that was resolved with errors  

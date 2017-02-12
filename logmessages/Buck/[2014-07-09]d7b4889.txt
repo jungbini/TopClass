@@ -1,0 +1,1 @@
+  Super easy: Rotate up to 5 Buck debug logs  Summary: Currently, we only keep one log in buck-out/log/buck-*.log.  This was accidental; I had this in D1405028 at one point and then accidentally deleted it. This simply restores the setting.  Test Plan: Started buck twice, got two logs.  

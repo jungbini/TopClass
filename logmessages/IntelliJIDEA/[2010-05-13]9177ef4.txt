@@ -1,0 +1,1 @@
+  if line comment prefix is followed by a single space, uncomment line action deletes that space (PY-980)  

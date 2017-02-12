@@ -1,0 +1,1 @@
+  Fixed issue 544 about Object Database bug on concurrent databases opened.  

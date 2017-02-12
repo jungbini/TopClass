@@ -1,0 +1,1 @@
+  fixed PY-3836 With default python interpreter on Mac OS PyCharm in not able to find valid py.test and PY-4045 pytest does not work with virtualenv (when pytest is installed globally)  

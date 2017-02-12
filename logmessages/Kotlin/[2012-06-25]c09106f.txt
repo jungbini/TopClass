@@ -1,0 +1,1 @@
+  fixed the JS maven plugin so it can generate a single JS file with all the required kotlin JS inside  

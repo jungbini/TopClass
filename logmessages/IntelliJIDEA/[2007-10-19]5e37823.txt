@@ -1,0 +1,1 @@
+  remove single-usage garbage from API method, fix IDEADEV-20183, encoding for ContentRevision  

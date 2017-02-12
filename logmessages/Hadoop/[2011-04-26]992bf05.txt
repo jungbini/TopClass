@@ -1,0 +1,1 @@
+  HBASE-3674 Treat ChecksumException as we would a ParseException splitting logs; else we replay split on every restart -- fixup for distributed log splitting  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1096842 13f79535-47bb-0310-9956-ffa450edef68  

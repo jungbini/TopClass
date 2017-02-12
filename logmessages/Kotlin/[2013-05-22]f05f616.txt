@@ -1,0 +1,1 @@
+  KT-2422 Invalid warning "Condition is always true" #KT-2422 fixed  

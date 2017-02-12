@@ -1,0 +1,1 @@
+  fixed PY-3089 String literal assigned to __doc__ should be highlighted as a docstring  

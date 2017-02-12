@@ -1,0 +1,1 @@
+  Merge -c 1366285 from branch-1 to branch-1.1 to fix MAPREDUCE-1906. Lower minimum heartbeat interval between tasktracker and JobTracker for smaller clusters.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.1@1389995 13f79535-47bb-0310-9956-ffa450edef68  

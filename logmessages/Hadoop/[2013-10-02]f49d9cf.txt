@@ -1,0 +1,1 @@
+  Merge -c 1528533 from trunk to branch-2 to fix MAPREDUCE-5530. Fix compat with hadoop-1 in mapred.lib.CombinFileInputFormat by re-introducing isSplittable(FileSystem, Path) api and ensuring semantic compatibility. Contributed by Robert Kanter.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1528535 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Another fix for indent after semicolon for var statement with line comments  

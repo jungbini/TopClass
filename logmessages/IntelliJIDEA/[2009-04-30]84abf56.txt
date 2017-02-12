@@ -1,0 +1,1 @@
+  save everything on "ok" button after settings editing (project & application) + fix for DirectoryBasedStorage: reload state if no files were b4  

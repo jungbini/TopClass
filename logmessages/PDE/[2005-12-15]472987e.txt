@@ -1,0 +1,1 @@
+  make editor buttons properly highlight whether called by clicking or by menu items. fix for bug #242  

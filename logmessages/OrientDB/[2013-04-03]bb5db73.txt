@@ -1,0 +1,1 @@
+  MVRBTreeRID: fixed bugs on removing last persistent items  Before this patch it removed also all the new items because it called clear(). Now tests about the size of the tree. Fixed also other parts where the size() was asked but the real tree size is needed.  

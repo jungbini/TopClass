@@ -1,0 +1,1 @@
+  finalizing camera api, added source(), settings(), and format().. also fixed unhex  

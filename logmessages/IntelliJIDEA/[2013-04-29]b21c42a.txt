@@ -1,0 +1,1 @@
+ [vcs] IDEA-105707 Update Project Info: fix show 

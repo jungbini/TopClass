@@ -1,0 +1,1 @@
+  IDEA-100663 ("char unnecessarily cast to int" inspection for StringBuilder suggests behavior-changing fix)  

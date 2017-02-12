@@ -1,0 +1,1 @@
+  [platform] JAyatana agent detection corrected (IDEA-CR-5423)  Changes: - typo fixed (extra quote) - detection postponed until start - notification moved to IDE  

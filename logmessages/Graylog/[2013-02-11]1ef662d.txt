@@ -1,0 +1,1 @@
+  use time based index selection for range searches  fixes #WEBINTERFACE-433  

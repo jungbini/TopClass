@@ -1,0 +1,1 @@
+  Update syslog4j to fix hostname parsing for structured syslog messages  

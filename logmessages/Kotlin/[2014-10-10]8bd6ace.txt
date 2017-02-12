@@ -1,0 +1,1 @@
+  JS stdlib: drop wrong annotations in javautilCollectionsCode.kt and fix Collections.reverse.  

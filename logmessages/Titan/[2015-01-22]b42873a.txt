@@ -1,0 +1,1 @@
+988058183ed032b03959771864f6b37a0c (cherry-picked into titan09 as 49732814d645303fae0a6b2dd2929f642d9a2347).  Without this commit, the test fails on both titan05 and titan09.  (cherry picked from commit 41fa56113a19a58a4b93cc15c7ad386b98844595)  Conflicts: titan-test/src/main/java/com/thinkaurelius/titan/graphdb/TitanOperationCountingTest.java  

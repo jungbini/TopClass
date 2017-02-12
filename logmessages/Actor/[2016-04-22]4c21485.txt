@@ -1,0 +1,1 @@
+  fix(server:cqrs): fixed migration completion  

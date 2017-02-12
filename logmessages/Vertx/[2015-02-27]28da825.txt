@@ -1,0 +1,1 @@
+  Fixed issue that was causing non Vert.x thread tccl to be set to null which was causing a test to fail, along the way cleaned up and simplified some logic in Context, removed place in EventBus where context was being set to null, and fixed silent failure in ComplexHATest  

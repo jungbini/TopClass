@@ -1,0 +1,1 @@
+  concrete classes in hib-config fix and wrapping converters support  

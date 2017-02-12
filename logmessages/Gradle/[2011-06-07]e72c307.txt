@@ -1,0 +1,1 @@
+  housekeeping - fixed our build scripts so that they don't use deprecated idea/eclipse methods  

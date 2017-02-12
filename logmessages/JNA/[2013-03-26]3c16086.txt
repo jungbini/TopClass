@@ -1,0 +1,1 @@
+  extend ffi_prepare_args for FFI_VFP (hard-float ABI), fixing an issue with passing VFP arguments in VFP registers and the stack, while at the same time not using all core registers.  

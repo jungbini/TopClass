@@ -1,0 +1,1 @@
+  Acquire resources for tests in StandaloneTestStrategy.  This fixes --runs_per_test in Bazel.  -- MOS_MIGRATED_REVID=86197223  

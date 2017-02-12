@@ -1,0 +1,1 @@
+  fix double edge from up - down in Fragment  

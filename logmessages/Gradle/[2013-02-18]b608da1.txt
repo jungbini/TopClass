@@ -1,0 +1,1 @@
+  REVIEW-1198 Corrected the StartParameter behavior with the configure on demand flag. It fixes up the newInstance() and newBuild() methods - they now correctly copy over the setting.  

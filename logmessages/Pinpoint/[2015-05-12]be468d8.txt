@@ -1,0 +1,1 @@
+ bug fix. The information displayed on the right side graph and then click Filter Transaction information is inconsistent.  

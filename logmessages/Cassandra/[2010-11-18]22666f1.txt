@@ -1,0 +1,1 @@
+  fix sstableimport regression patch by Bryan Tower; reviewed by Sylvain Lebresne for CASSANDRA-1753  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1036384 13f79535-47bb-0310-9956-ffa450edef68  

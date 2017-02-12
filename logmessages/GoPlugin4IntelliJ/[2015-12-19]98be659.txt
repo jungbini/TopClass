@@ -1,0 +1,1 @@
+  Rework function types, fix #2103, possible performance degradation  

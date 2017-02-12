@@ -1,0 +1,1 @@
+  New photoslider example, some script fixes  

@@ -1,0 +1,1 @@
+  Tests: use preloader instead of URLClassLoader in MockLibraryUtil  This fixes runtime dependency of the compiler and thus allows to run tests which use MockLibraryUtil in case of an ABI-incompatible change; also it's slightly more efficient (noticeable when running a single test)  

@@ -1,0 +1,1 @@
+  Elvis DFA: now only left part is taken into account #KT-9100 Fixed  I had to fix a few incorrect tests using something like x!! in Elvis right part, and also one bug in our code  

@@ -1,0 +1,1 @@
+  fixed exponential building of cf graph if there was en error in chained qualified expression  

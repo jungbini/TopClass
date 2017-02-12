@@ -1,0 +1,1 @@
+  KT-6285 Rename refactoring doesn't rename named arguments when rename function parameters or private val/var constructor parameters  Just added test. Works automatically since rename parameter now delegates to change signature.  #KT-6285 fixed  

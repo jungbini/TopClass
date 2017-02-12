@@ -1,0 +1,1 @@
+  Change since for plugin, because of usage of SourcePositionHighlighter in debugger  

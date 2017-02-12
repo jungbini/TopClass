@@ -1,0 +1,1 @@
+  fix(server): added x permission to actor-cli  

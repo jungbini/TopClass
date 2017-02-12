@@ -1,0 +1,1 @@
+  fix(server): passivate GroupOffice using custom message to let stashing work  

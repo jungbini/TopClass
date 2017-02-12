@@ -1,0 +1,1 @@
+  1.automatically switch to default renderers if evaluation of methdos is not possible 2.fix assertions in tests  

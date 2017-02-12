@@ -1,0 +1,1 @@
+  fixing Flex test to work with new project model  

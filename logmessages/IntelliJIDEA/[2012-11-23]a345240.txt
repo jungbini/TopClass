@@ -1,0 +1,1 @@
+  [^maxmedvedev] fix groovy resolve SOE (cherry-picked from 17bac8e)  

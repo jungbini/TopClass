@@ -1,0 +1,1 @@
+  Try to fix slow gulp watch during development  We need to find some good default value for watchify delay on updates, now trying 200ms instead of 600ms (the default)  

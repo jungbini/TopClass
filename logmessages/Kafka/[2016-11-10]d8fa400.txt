@@ -1,0 +1,1 @@
+  MINOR: improve exception message for incompatible Serdes to actual key/value data types  Author: Matthias J. Sax <matthias@confluent.io>  Reviewers: Michael G. Noll, Guozhang Wang  Closes #2118 from mjsax/hotfixImproveSerdeTypeMissmatchError  

@@ -1,0 +1,1 @@
+  HOTFIX: Re-inserted SimpleBenchmark output for system tests  Author: Eno Thereska <eno.thereska@gmail.com>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1744 from enothereska/hotfix-ducktape-marker  

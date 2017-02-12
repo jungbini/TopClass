@@ -1,0 +1,1 @@
+  [html editor] mac osx dnd behaviour fixed (border around draggable object) + some refactorings  

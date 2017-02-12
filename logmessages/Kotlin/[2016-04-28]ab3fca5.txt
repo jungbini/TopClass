@@ -1,0 +1,1 @@
+  JS/RTTI: fix compiler crashing when translating expressions like `(continue as T)`  

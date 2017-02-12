@@ -1,0 +1,1 @@
+  Removed % from non accepted character for classes and properties and fixed encoding problem with Graph API  Fixed issue #5424  

@@ -1,0 +1,1 @@
+  fixed PY-13529 PyClassHasNoInitInspection false positive in doctests  

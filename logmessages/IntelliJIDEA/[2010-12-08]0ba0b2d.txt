@@ -1,0 +1,1 @@
+  [rev=irina.chernushina] Blinking SVN authentication test fixed  

@@ -1,0 +1,1 @@
+  also guard against negative limit  - add test for negative limit - actually test the explicit limit as well (so it doesn't get overridden by the default handling)  fixes issue #1775  

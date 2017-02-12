@@ -1,0 +1,1 @@
+  'Problems' view in 'Project Structure' dialog: concurrency issues fixed  

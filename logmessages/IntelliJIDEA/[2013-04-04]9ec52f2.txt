@@ -1,0 +1,1 @@
+  fix broken feature - import folders from build-helper-maven-plugin config @see org.jetbrains.idea.maven.importing.FoldersImportingTest.testPluginSources  

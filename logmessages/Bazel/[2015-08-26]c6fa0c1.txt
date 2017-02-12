@@ -1,0 +1,1 @@
+  Fix a bug in which the XcodeGen generates two Xcode target with the same name (case-insensitive).  RELNOTES:None  -- MOS_MIGRATED_REVID=101587647  

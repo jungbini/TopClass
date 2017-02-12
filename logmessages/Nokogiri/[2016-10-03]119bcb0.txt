@@ -1,0 +1,1 @@
+  [jruby] node equality fix  closes #1516  

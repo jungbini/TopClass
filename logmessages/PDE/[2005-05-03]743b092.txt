@@ -1,0 +1,1 @@
+  update check only once daily, fixes that were causing things to lock up on window move  

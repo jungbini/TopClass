@@ -1,0 +1,1 @@
+  IDEA-54726 Make it possible to assign object label at 'View Object Tree' debug dialog  

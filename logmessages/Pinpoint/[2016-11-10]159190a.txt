@@ -1,0 +1,1 @@
+  Fixed bug with passing parameter #286  

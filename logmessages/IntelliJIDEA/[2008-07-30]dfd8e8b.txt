@@ -1,0 +1,1 @@
+  Renewed resolver, closes PY-19 and supposedly PY-13. Introduces a new internal interface for easier resolution. Corrects fromQualifiedPackageImportFile and LookAhead tests. There is a known problem with Jython resolution using "import *", to be fixed later.  

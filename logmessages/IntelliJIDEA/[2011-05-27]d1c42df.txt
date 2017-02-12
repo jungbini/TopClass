@@ -1,0 +1,1 @@
+  fixed PY-3722 Missing docstring: duplicated word parameters in qf  

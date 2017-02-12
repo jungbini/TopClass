@@ -1,0 +1,1 @@
+  Simplify CompressedRandomAccessReader to work around JDK FD bug patch by jbellis; reviewed by Aleksey Yeschenko and tested by Cathy Daw for CASSANDRA-5088  

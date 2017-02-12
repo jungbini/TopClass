@@ -1,0 +1,1 @@
+  Add test for fix of regression in ChunkedWriteHandler. See #310  

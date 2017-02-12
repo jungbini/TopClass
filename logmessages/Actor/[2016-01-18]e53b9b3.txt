@@ -1,0 +1,1 @@
+  fix(server:core): dont allow to change name to empty  

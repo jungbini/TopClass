@@ -1,0 +1,1 @@
+  Remove slf4j usage in ServletContainerInitializer; This avoids classloader issue using atmosphere with log4j2 in Wildfly. Use ServletContext log method instead. fix #1688  

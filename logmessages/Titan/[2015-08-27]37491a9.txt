@@ -1,0 +1,1 @@
+  Add classname to ES's "Unsupported type" exception  For #1086 (not a fix, just a related improvement)  

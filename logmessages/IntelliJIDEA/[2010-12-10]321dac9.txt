@@ -1,0 +1,1 @@
+  IDEA-62501 Add "Environment variables" dialogue box to Run/Debug Groovy script configuration  

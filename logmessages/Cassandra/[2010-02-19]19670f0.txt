@@ -1,0 +1,1 @@
+  merge 911841 from trunk (removes JVM debugger commands from cassandra.in.sh).  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.6@911853 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  IDEA-163051 "Replace inefficient Stream API call chains ending with count()": fix leaves redundant casts IDEA-163050 "Replace inefficient Stream API call chains ending with count()": highlighting  

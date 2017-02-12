@@ -1,0 +1,1 @@
+  HOTFIX: fix partition ordering in assignment  workround partition ordering not preserved by the consumer group management. guozhangwang  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Guozhang Wang  Closes #868 from ymatsuda/partitionOrder  

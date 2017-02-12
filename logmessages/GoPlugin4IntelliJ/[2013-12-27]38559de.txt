@@ -1,0 +1,1 @@
+ fixes terminating statement inspection  

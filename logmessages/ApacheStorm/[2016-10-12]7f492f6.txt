@@ -1,0 +1,1 @@
+ STORM-2125 Use Calcite's implementation of Rex Compiler (quick fix)  * test code contains JDK 1.8 features * comment them out since it can be tested from master branch  

@@ -1,0 +1,1 @@
+  workaround for IBM jdk bug: optionally not to use ObjectReference.disableCollection() and ObjectReference.enableCollection()  

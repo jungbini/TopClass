@@ -1,0 +1,1 @@
+  Allocate smaller dynamic buffer to read a line  - Also fixes some inspector warnings from the previous patch - Related: #992  

@@ -1,0 +1,1 @@
+  fix candidate class files inputs hashing  

@@ -1,0 +1,1 @@
+  Component replacement chains are not working correctly at the moment. I'm adding more coverage until I'm ready to fix this.  

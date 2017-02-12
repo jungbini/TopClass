@@ -1,0 +1,1 @@
+ Fix bug during h2c upgrade where sometimes some bytes where left in the HttpDecoder and were lost during upgrade because the Http2ConnectionDecoder was not yet in the pipeline  

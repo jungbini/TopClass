@@ -1,0 +1,1 @@
+  Guard against invalid configuration parameters for inputs, fixes #897  

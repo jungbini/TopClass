@@ -1,0 +1,1 @@
+  Suggest to replace 'substring' calls by take/drop/dropLast calls when possible  Code review fixes #KT-10196 Fixed  

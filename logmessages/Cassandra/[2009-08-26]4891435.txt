@@ -1,0 +1,1 @@
+  add more (debug) logging to log recovery process.  patch by jbellis  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@808151 13f79535-47bb-0310-9956-ffa450edef68  

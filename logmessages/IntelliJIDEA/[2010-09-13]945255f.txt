@@ -1,0 +1,1 @@
+  debugger: fix views frequent rebuilds because of thread events  

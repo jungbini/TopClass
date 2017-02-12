@@ -1,0 +1,1 @@
+  fix #1446: better processing for ranges and channel types  

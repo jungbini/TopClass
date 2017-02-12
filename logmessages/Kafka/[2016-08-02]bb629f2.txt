@@ -1,0 +1,1 @@
+  KAFKA-3929: Add prefix for underlying clients configs in StreamConfig  Add prefixes for consumer and producer configs to StreamsConfig, but be backward compatible.  Author: Damian Guy <damian.guy@gmail.com>  Reviewers: Eno Thereska, Guozhang Wang  Closes #1649 from dguy/kafka-3929  

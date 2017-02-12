@@ -1,0 +1,1 @@
+  IDEA-117258 IntelliJ theme: selected tabs in Debugger and in Run <application server> views get black color  

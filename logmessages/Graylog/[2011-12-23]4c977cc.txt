@@ -1,0 +1,1 @@
+  fix bug with usernames in message comments  fixes #WEBINTERFACE-208  

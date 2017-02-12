@@ -1,0 +1,1 @@
+  Test fixes; properly handle InputType functionality in BatchNormalization layer  

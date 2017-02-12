@@ -1,0 +1,1 @@
+  fixed PY-4402 Code compatibility inspection doesn't know cPickle.load and cPickle.dump in Python 2.4 and 2.5  

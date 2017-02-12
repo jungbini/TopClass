@@ -1,0 +1,1 @@
+  added edge from try start to error through finally block  KT-2845 Wrong cf-analysys for variable initialization in try..finally #KT-2845 fixed todo: some errors now are reported for several times (each time when analyzing finally block)  

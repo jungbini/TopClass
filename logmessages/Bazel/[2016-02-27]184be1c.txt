@@ -1,0 +1,1 @@
+  Stop using preprocessed .aidl files for types in the same android_library.  This makes very little sense, because we only do this when compiling them within a rule. The preprocessed files are not shipped to other rules, meaning we treat things 

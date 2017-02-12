@@ -1,0 +1,1 @@
+  Subversion: do not refresh svn mappings if change list manager is not running in tests - fix hunging tests. sorry  

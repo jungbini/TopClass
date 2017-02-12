@@ -1,0 +1,1 @@
+  fixed duplicated path in add suggestions to Add interpreter  

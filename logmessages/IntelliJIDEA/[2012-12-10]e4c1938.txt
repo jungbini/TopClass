@@ -1,0 +1,1 @@
+  IDEA-97130 IDEA cann't debug Griffon integration tests  

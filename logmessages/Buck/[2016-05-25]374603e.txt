@@ -1,0 +1,1 @@
+  Buck plugin fix building with Buck  Summary: Fix the Buck build. Change the Default extensions to just one extension Change java version to 1.7 since we rely on Buck  Test Plan: Buck now builds and the plugin still works.  fbshipit-source-id: e17d856  

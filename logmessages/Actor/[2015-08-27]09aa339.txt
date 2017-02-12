@@ -1,0 +1,1 @@
+  fix(web): add listener for kick link only when it need  

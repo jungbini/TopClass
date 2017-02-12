@@ -1,0 +1,1 @@
+  IDEA-89061 Prefix match should be preferred over middle match when suggesting variable names  

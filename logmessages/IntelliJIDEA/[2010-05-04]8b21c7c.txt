@@ -1,0 +1,1 @@
+  1. Support for error Service Message. Errors can be reported not only in "test" context but also in suites. Suites containing errors will be marked with a small red exclamation mark. 2. several typo were fixed  

@@ -1,0 +1,1 @@
+  fixed ugly docstring in case of unknown node visiting  

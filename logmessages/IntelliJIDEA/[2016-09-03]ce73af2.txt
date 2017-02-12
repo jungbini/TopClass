@@ -1,0 +1,1 @@
+  No need in write action  Was added long ago due to a misunderstanding of the refreshAndFind method which javadoc has been fixed since then.  

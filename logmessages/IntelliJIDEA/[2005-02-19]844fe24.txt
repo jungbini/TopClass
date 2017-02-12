@@ -1,0 +1,1 @@
+  Visual glitches happened because of usage of paintImmediately in blinker where fixed.  

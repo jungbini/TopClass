@@ -1,0 +1,1 @@
+  re-enable WCE failing tests, fixes to allow proper phoneME operation w/r/t AWT classes  

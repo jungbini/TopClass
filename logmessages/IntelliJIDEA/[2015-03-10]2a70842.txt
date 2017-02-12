@@ -1,0 +1,1 @@
+  WI-26640 Debugger: "Click to set up path mapping" not clickable  

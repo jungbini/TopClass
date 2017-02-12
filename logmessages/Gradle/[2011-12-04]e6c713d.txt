@@ -1,0 +1,1 @@
+  fixed GRADLE-1822: testng configuration failures resulting in skipped tests do not fail the build  introduced TestNGConfigurationListener adapt above interface to either org.testng.IConfigurationListener2 or org.testng.internal.IConfigurationListener depending on which is on the class path  

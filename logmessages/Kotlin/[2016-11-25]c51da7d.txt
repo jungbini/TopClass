@@ -1,0 +1,1 @@
+  Refactor daemon sessions container, attempt to fix #EA-87285 and alike  

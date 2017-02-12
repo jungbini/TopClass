@@ -1,0 +1,1 @@
+  Ensure test output is printed to console without disabling line wrapping  Summary: A user reported we were printing test results after the test run with line wrapping enabled.  This fixes the issue by writing test results directly to stdout without wrapping.  Test Plan: Tests updated.  

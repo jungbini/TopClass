@@ -1,0 +1,1 @@
+  Reapply collection presizing fixes, now that CASSANDRA-12220 is fixed"  

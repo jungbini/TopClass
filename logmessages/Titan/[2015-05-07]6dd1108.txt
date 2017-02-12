@@ -1,0 +1,1 @@
+umed to be single, even for keys with existing definitions in Titan.  This resulted bugs like a property key defined with Cardinality.LIST assuming one of its potentially many values, where the particular value assumed was a side effect of input ordering without any real significance.  

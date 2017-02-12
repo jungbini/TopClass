@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE]  Fixing ported tests. - handle Function - fix bug in generics instantiation - provide way to use the warning name in the ported tests instead of the exact text - for tests which we may not want to support, prefix with disable_ ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=63349381  

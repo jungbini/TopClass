@@ -1,0 +1,1 @@
+  Repaint for the highlighter to the end of file fixed.  

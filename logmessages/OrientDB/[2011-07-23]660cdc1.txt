@@ -1,0 +1,1 @@
+  sql: fixed issue reported in ML on field names assigned in projections: now it's auto-generated for functions  

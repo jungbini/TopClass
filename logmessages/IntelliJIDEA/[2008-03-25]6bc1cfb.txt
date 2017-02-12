@@ -1,0 +1,1 @@
+  IDEADEV-25380 fixed ("New | Remote Folder..." in SVN repository browser should have Alt+Ins shortcut)  

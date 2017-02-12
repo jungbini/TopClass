@@ -1,0 +1,1 @@
+  Fixed our infrastructure for downloading gradle distros so that it behaves better when we upgrade the cache lock format. It feels that there should be a better way to fix this. Another thing that we might fix is remove the necessity to bump the artifact cache format every time we change the cache lock format.  

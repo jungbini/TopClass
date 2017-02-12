@@ -1,0 +1,1 @@
+ detection within a single commit. It is specified in other methods in GitHistoryUtils, but was forgotten here.  (cherry picked from commit ea6618753e57a15a94ba392bac958c9791ce012d)  

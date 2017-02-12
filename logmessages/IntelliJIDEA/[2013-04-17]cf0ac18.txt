@@ -1,0 +1,1 @@
+  IDEA-99509 Completion for DTD's angle bracket inserts prefix twice: commented test  

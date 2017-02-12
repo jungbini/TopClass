@@ -1,0 +1,1 @@
+  YARN-4328. Fix findbugs warnings in resourcemanager (Akira Ajisaka via Varun Saxena)  

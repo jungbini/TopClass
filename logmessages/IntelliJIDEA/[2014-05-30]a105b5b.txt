@@ -1,0 +1,1 @@
+  IDEA-125736 new debugger: disabled all exceptions breakpoint stops at every exception even in mute mode  

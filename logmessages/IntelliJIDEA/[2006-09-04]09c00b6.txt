@@ -1,0 +1,1 @@
+  deadlock fix: FileSetToBeUpdated.refreshSync() in dispatch thread performs real sync refresh (IDEADEV-8940)  

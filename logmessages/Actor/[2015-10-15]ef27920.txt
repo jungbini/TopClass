@@ -1,0 +1,1 @@
+  fix(server:messaging): don't count dialogs with hidden groups; added isArchived to dialogs  

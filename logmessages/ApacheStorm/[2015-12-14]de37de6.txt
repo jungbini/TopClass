@@ -1,0 +1,1 @@
+  More tests and tests for FileLock. fixing UT TestHdfsSpout.testSimpleSequenceFile  

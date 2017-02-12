@@ -1,0 +1,1 @@
+  Fix tag creation  IDEA-164369  It was broken in bedf7d3c when runAction was wrapped into a bg task and thus moved to a pooled thread, but doSynchronously was kept intact and was still starting a modal task inside.  To fix it, don't start the modal task, and use new procedure of executing handlers and collecting results.  

@@ -1,0 +1,1 @@
+  external annotations: fix library root setup for module libraries (IDEA-126397)  

@@ -1,0 +1,1 @@
+  don't show breakpoints when debugger is off (fixes #3093)  

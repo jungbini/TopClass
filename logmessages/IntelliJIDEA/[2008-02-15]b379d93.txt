@@ -1,0 +1,1 @@
+  Quadratic cost of deleting files from VFS fixed.  

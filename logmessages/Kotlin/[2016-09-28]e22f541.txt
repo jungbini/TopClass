@@ -1,0 +1,1 @@
+  Suggest assert/return postfix templates only for statements  #KT-14079 Fixed #KT-14090 Fixed  

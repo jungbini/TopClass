@@ -1,0 +1,1 @@
+  field access in super/this fixed (IDEADEV-33442)  

@@ -1,0 +1,1 @@
+  Upgrade to Groovy 2.3.4.  Experimenting to see if this fixes a CI issue. If it does, release notes will follow.  

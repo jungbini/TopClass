@@ -1,0 +1,1 @@
+  fixed PY-14121 IPython Notebook: missing Undo action  

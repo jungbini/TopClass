@@ -1,0 +1,1 @@
+  hack to fix sequential task in net.sf.antcontrib.logic.ForTask  

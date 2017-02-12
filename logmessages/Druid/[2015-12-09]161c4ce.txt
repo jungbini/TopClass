@@ -1,0 +1,1 @@
+ Merge pull request #2002 from navis/DRUID-2001  fixed #2001 GenericIndexed.fromIterable compares all values even when it's not sorted  commit 161c4ce28863445061e392fba295821e5a4a00de  An effort to fix transient error in BrokerServerViewTest  

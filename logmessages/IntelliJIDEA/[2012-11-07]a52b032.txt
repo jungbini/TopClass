@@ -1,0 +1,1 @@
+  fixed  PY-1611 Go To Next/Previous method should skip class fields  

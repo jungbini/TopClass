@@ -1,0 +1,1 @@
+  avoid division by zero when finding rotation anchor  the determined anchor is still not ideal for non-scalar periods (i.e. period which mix field types like 30d == 4w 2d), but it doesn't crash anymore  fixes #836  

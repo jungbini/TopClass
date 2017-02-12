@@ -1,0 +1,1 @@
+  WIP index repair/removal docs  Blocked on possible bug in fulgora or IndexRemoveJob -- example code runs without errors but doesn't actually delete the index  

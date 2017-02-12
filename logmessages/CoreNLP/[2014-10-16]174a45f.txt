@@ -1,0 +1,1 @@
+  KBestSequenceFinder was totally broken - this fixes it.  

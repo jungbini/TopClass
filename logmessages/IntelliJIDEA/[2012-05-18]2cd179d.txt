@@ -1,0 +1,1 @@
+  [merge] refactoring: use structure instead of array indices  * MergeFragment: hold TextRanges in named fields instead of operating an array via indices 0, 1, 2. * cleanup, set @NotNull/@Nullable, fix code style.  

@@ -1,0 +1,1 @@
+  Add the small changes to goodCoNLL that fix Spanish performance and generally optimze performance.  

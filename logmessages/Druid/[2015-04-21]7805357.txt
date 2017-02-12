@@ -1,0 +1,1 @@
+ Merge pull request #1301 from druid-io/fix-type  fix count agg factory type  commit 7805357ab102212141b088d53da0c97126938763  fix count agg factory type  

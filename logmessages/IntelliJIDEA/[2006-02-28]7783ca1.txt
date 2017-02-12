@@ -1,0 +1,1 @@
+  extract drop location class for XY layout; fix initial layout creation; disable multi-drop to XY containers  

@@ -1,0 +1,1 @@
+  fixed PY-8581 Fill Paragraph should not corrupt indentation PY-8937 fill paragraph works wrong on simple strings  

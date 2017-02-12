@@ -1,0 +1,1 @@
+  Debugger: location.sourceName could throw InternalError if codeIndex isn't valid  

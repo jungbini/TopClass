@@ -1,0 +1,1 @@
+  fixed PY-9847 Class has no init: disable inspection for classes with unresolved BaseClass  

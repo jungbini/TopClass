@@ -1,0 +1,1 @@
+  fixed PY-8224 Django: TestRunner: not able to run django tests under django 1.5 on py3: ValueError: level must be >= 0 PY-8223 Django: Test Runner: DeprecationWarning on trying to run django tests under django 1.5b  

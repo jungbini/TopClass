@@ -1,0 +1,1 @@
+ Merge pull request #1836 from uronce-cc/runtests  [TACHYON-1147] Update runTests to take both tachyon and ufs storage type and Fix a bug  commit 50c7e2521e9d6dbc5238166529537bb51fc7b7c9  minor naming and formatting fixes  

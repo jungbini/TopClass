@@ -1,0 +1,1 @@
+  Refactored from Groovy to Java. This also removes the warning during compile we had. Due to a bug in Groovyc 1.5.6, upgrading to groovy 1.5.6 resulted even in a compile failure for this Groovy class.  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@926 004c2c75-fc45-0410-b1a2-da8352e2331b  

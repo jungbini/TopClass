@@ -1,0 +1,1 @@
+  add some helper classes so that we can implement kdoc fully in kotlin (to work around some inference ambiguity bugs)  

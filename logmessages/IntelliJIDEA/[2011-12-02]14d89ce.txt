@@ -1,0 +1,1 @@
+  fixed PY-5202 Move statement: breaks code on moving outside with statement  

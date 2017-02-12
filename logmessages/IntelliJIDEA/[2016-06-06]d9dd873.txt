@@ -1,0 +1,1 @@
+  inspection toolwindow: npe fix   EA-83622  

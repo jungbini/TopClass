@@ -1,0 +1,1 @@
+  first spike of fix for KT-1668 to help github syntax highlighter; will rename more when Franck is done with his patches on the collection stuff  

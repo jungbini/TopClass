@@ -1,0 +1,1 @@
+  fix(session): fixed MessageAck loss in case if it is bundled into Container  

@@ -1,0 +1,1 @@
+  fixed reloading output paths settings if 'inherit compiler output' is enabled  

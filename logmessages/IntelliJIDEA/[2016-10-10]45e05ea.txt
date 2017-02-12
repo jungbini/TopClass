@@ -1,0 +1,1 @@
+r and commit date  Replace disabled button color, which is null for GTK, with gray_128 color as specified in IDEA-160683. Fixes IDEA-161650.  

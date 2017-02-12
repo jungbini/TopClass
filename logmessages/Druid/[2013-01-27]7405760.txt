@@ -1,0 +1,1 @@
+ Merge pull request #61 from metamx/fix-cache-timezone  Cache did not preserve timezone information  commit 74057600f9d0fd7db69264815d44f903848471c4  fix worker node still using db connection  

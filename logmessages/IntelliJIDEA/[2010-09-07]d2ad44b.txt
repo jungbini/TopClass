@@ -1,0 +1,1 @@
+  added caching of stack frame due to pdb bug in frame loading => fixed set value in python debug (PY-1730).  

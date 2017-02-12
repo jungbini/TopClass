@@ -1,0 +1,1 @@
+  Disabling the fix. The fix leads to wrong focus after frame activation.  

@@ -1,0 +1,1 @@
+  Added "Git: " prefix to Git current branch name. [reviewed by irengrig]  

@@ -1,0 +1,1 @@
+  fixed PY-3885 "Dictionary contains duplicate keys" inspection should highlight the duplicate keys, not the entire dictionary  

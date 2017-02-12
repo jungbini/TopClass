@@ -1,0 +1,1 @@
+ Merge pull request #1368 from mproch/issue-1342  configurable delays between gc,  fixes #1342  commit 731c0060f8e9d93ed20cdde60a97d3509f2e3ccd  Fixed bug on FLATTEN and LIMIT  

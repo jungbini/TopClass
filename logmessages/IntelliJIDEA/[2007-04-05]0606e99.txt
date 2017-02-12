@@ -1,0 +1,1 @@
+  mouse shortcuts fixed in the debug mode  

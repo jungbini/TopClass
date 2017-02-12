@@ -1,0 +1,1 @@
+  [git] Extend GitPlatformTest from PlatformTestCase  It seems there are no reasons to inherit UsefulTestCase and set up a project fixture anymore.  

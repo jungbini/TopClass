@@ -1,0 +1,1 @@
+  PresentationFactory reverted to strong map to fix IDEA-151531 Amount of matches reported in search bar doesn't correspond to reality  

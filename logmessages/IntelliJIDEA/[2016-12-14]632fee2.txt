@@ -1,0 +1,1 @@
+  [groovy] fix expection on super reference in trait without supertypes (EA-74829)  

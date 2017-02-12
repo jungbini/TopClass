@@ -1,0 +1,1 @@
+  GRADLE-2456: fix ci build & simplify string formatting  

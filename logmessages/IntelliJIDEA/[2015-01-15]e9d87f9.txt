@@ -1,0 +1,1 @@
+  IDEA-129977 Allow create-namespace fix to work on unbound XML attributes  

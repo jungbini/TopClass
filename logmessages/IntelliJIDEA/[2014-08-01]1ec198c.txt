@@ -1,0 +1,1 @@
+  fixed PY-13563 New Project: cant create project with keyboard  

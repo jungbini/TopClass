@@ -1,0 +1,1 @@
+  [patch]: (IDEA-162742) in Abort Applying dialog fix text presentation  * use html underlined tag instead of braces;  

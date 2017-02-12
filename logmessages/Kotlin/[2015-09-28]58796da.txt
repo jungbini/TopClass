@@ -1,0 +1,1 @@
+  Extract function: render local class with debug name only in debug mode  

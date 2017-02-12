@@ -1,0 +1,1 @@
+  IDEA-13188: When switching a source root between source and test root, package prefix is erased  

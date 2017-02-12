@@ -1,0 +1,1 @@
+  Fix duplicate license, fix indentation  and restore log4j.xml settings.  

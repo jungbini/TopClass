@@ -1,0 +1,1 @@
+  fix starting Tomcat: do not skip .keystore files from conf dir  

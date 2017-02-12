@@ -1,0 +1,1 @@
+  [rev=anna] IDEA-65611 "Unrecognized option: -javaagent:..." when running JUnit 3 tests in JDK 1.3 module with debugger  

@@ -1,0 +1,1 @@
+  project structure dialog: allow to apply quickfixes for artifacts from project-wide error messages  

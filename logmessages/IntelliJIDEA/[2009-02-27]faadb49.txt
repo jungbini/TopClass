@@ -1,0 +1,1 @@
+  references to resourceBundleManager extension point fixed-2  

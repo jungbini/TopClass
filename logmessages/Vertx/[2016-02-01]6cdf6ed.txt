@@ -1,0 +1,1 @@
+ FileResolver performance issue - fixes #1298  

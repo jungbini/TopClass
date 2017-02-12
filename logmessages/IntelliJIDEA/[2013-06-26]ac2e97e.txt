@@ -1,0 +1,1 @@
+  fixed PY-10107 Web2Py: update views on renaming controller function  

@@ -1,0 +1,1 @@
+  fix KT-431 Prohibit safe calls on namespaces, super etc  #KT-431 Fixed  

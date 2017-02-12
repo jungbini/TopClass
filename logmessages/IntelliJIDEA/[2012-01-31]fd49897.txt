@@ -1,0 +1,1 @@
+  add parentheses when necessary in quickfix for 'StringBuffer' can be replaced with 'String'  

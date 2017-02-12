@@ -1,0 +1,1 @@
+  fix filter() issues with new jogl  

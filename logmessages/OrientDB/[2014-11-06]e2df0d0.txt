@@ -1,0 +1,1 @@
+  fixed break of binary network compatibility with 1.7.* 2.0-M* versions.  

@@ -1,0 +1,1 @@
+  fix PsiErrorElementUtil.hasErrors (a file without error elements was considered as one with errors) (WEB-24482)  

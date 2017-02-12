@@ -1,0 +1,1 @@
+  (cqlsh) fix formatting bytearray values  patch by Stefania Alborghetti; reviewed by Jim Witschey for CASSANDRA-10839  

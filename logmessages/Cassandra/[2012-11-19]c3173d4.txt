@@ -1,0 +1,1 @@
+  ninja-fix cqlsh get_columnfamily_names_cql3 for case-sensitive keyspace names  

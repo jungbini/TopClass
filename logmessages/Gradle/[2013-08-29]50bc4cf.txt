@@ -1,0 +1,1 @@
+  Removed maybeFailWithConnection { } from tooling API fixtures, replaced by withConnection { }.  

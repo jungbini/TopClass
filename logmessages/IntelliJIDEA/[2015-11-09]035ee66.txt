@@ -1,0 +1,1 @@
+  macros: fix ignoreCase comparison; add more tests  

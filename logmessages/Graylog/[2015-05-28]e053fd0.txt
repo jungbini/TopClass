@@ -1,0 +1,1 @@
+  Do not show scroll hints for pinned field graphs  Otherwise the user may get scroll hints for all field graphs when the page is reloaded.  That implies that we need to fix the way we handled the events from the old fieldcharts.js  Refs #1284  

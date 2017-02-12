@@ -1,0 +1,1 @@
+  Avoid overwriting string fields within structures when unnecessary; fix failing direct mode tests  

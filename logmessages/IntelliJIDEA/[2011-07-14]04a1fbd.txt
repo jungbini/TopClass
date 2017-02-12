@@ -1,0 +1,1 @@
+  disabled emma in debug mode: show notification for enabled coverage only  

@@ -1,0 +1,1 @@
+  Update the installation fixture to work with windows .bat files  - Convert many more tests to use native installation fixture  

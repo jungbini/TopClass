@@ -1,0 +1,1 @@
+  In order to avoid deadlock disable prefix calculation by postfixLiveTemplate in LiveTemplateCompletionContributor  

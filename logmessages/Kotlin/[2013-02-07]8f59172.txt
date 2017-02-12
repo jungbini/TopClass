@@ -1,0 +1,1 @@
+  use declared upper bounds in type inference (not just check them) - simple cases supported #KT-2856 fixed  

@@ -1,0 +1,1 @@
+  fix int overwlow in max heap size calculations for external javac process (follow-up for IDEA-164402)  

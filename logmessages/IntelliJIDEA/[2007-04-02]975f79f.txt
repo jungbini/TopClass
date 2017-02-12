@@ -1,0 +1,1 @@
+  Make field final fix for: - Non-final field referenced in 'compareTo()' - Non-final field referenced in 'equals()' - Non-final field referenced in 'hashCode()' - Non-final field of exception class - Non-final static variable is used during class initialization - 'static', non-'final' field  

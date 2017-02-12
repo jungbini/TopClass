@@ -1,0 +1,1 @@
+  Issue #6269 Fix of tests, issue when all files are removed from registry was fixed.  

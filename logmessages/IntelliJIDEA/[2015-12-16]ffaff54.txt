@@ -1,0 +1,1 @@
+  [groovy] fix @Delegate on interface type (regression IDEA-149284)  

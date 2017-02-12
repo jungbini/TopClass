@@ -1,0 +1,1 @@
+  IDEA-143619 Quick Documentation (Ctrl-Q) for Java only shows "Fetching Documentation" - added debug logging  

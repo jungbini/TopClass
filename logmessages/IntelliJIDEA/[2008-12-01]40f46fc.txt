@@ -1,0 +1,1 @@
+  Possibility to ignore PsiErrorElement in psi debug tree presentation  

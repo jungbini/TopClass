@@ -1,0 +1,1 @@
+  added nosetests support for jython >= 2.2 fixed failed tests  

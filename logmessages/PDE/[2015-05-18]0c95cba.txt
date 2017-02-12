@@ -1,0 +1,1 @@
+  better exception handling, fixes #3293  

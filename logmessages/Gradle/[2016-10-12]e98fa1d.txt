@@ -1,0 +1,1 @@
+  Replace usage of Guava in TAPI integration test  - fix "NoClassDefFoundError: com/google/common/base/Throwables"  +review REVIEW-6309  

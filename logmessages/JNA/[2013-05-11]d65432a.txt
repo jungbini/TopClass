@@ -1,0 +1,1 @@
+  update w32 natives fix stdcall stack in libffi auto-update version resource  

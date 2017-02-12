@@ -1,0 +1,1 @@
+  STORM-558 change "swap!" to "reset!" to fix assignment-versions always empty in supervisor  

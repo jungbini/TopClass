@@ -1,0 +1,1 @@
+  Shuffle around all the constants related to the name of the //external package and the prefix of external packages in the execroot.  This is in preparation for renaming that path segment from "external" to "bazel-external" so that we can provide a symlink to it from the source tree so that the source tree looks like the execroot.  -- MOS_MIGRATED_REVID=109882753  

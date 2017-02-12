@@ -1,0 +1,1 @@
+  JS: fix translation of return statement surrounded by finally block. Temporarily suppress corresponding test case for JVM backend  

@@ -1,0 +1,1 @@
+ Fixed typos in comments, changed prefix on s3Paths to s3n from s3://, cleaned up umbrellaIntervals code in JodaUtils, modified the DbUpdater to push segment meta-data to the database in batches.  

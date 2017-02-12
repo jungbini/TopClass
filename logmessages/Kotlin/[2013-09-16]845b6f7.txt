@@ -1,0 +1,1 @@
+  fixed bug  NULL_FOR_NONNULL_TYPE can represent type mismatch error as well (later the whole method 'makeTraceInterceptingTypeMismatch' should be removed)  

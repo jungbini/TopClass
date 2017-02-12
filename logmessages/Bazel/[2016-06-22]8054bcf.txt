@@ -1,0 +1,1 @@
+  Change the BufferedReader to BufferedInputStream, as the UTF-8 bom crashes the BufferedReader. Add the errors a suppressed exceptions which is more useful for debugging.  -- MOS_MIGRATED_REVID=125609925  

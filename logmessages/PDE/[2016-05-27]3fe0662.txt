@@ -1,0 +1,1 @@
+  Temporarily add warning to PSurfaceJOGL for Raspbian issue  Installing Processing on a recent Raspbian distribution won't work without changes, due to a change they made, which is incompatible with JOGL. Put in this warning until this gets fixed.  User hitting this is e.g.: https://github.com/gohai/processing-glvideo/issues/3  

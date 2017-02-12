@@ -1,0 +1,1 @@
+  fix compiler warning from invalid chars in javadoc, like: User32.java:1511: warning: unmappable character for encoding UTF8  

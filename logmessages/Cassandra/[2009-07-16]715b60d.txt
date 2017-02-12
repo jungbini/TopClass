@@ -1,0 +1,1 @@
+  fix not including tombstone-only keys in keyRange. patch by jbellis; reviewed by Evan Weaver for CASSANDRA-286  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@794475 13f79535-47bb-0310-9956-ffa450edef68  

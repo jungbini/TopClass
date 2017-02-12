@@ -1,0 +1,1 @@
+  Gradle: war facet web roots importing fixes - IDEA-126544 Gradle WAR: Empty directories in 'war' are not included during import IDEA-126545 Gradle WAR: Resource directory in 'war' with 'into' closure not imported  

@@ -1,0 +1,1 @@
+ Merge branch 'python-fixes'  commit 588d7d83d9b7cfd32b5aa730208d6409d915caca  EA-48282 - NPE: MavenKeymapExtension.getActionPrefix add @NotNull to investigate the issue.  

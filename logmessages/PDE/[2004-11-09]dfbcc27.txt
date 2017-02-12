@@ -1,0 +1,1 @@
+  major fix to get code folder working, more error messages coming through properly  

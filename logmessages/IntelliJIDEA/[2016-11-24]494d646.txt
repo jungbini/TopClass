@@ -1,0 +1,1 @@
+  settings: fixed SIOBE in 'Schemas and DTDs' table  If it contains a file located directly under JAR root StringIndexOutOfBoundsException was thrown.  

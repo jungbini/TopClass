@@ -1,0 +1,1 @@
+  IDEA Java formatter settings updated:  * wrap at 132th column * formatter off/on comments enabled * javadoc wrapping enabled * javadoc blank lines between logical blocks enabled * no reformat of comments at first column, useful while debugging with "//" toggling  

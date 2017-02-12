@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE] Refactor Scopes to include a general Declaration  As a side effect, fix #863 on github ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=89158349  

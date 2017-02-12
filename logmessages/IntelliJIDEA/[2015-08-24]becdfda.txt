@@ -1,0 +1,1 @@
+  fix for nested class without data provider (EA-71069 - CCE: ParameterizedParametersStaticCollectionInspection$.doFix)  

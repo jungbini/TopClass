@@ -1,0 +1,1 @@
+  Started using a common fixture for java incremental compilation. Some rename job.  

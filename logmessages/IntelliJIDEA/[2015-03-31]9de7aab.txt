@@ -1,0 +1,1 @@
+  fix IntroduceVariableTest SOE: use identity comparison when correcting types be resolve scope  

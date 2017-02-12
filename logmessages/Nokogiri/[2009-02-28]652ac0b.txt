@@ -1,0 +1,1 @@
+  fixing vasprintf for windows.  Thanks Geoffroy Couprie!  

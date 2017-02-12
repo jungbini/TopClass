@@ -1,0 +1,1 @@
+ Issue #2142 was fixed. MT issues with users cache were fixed. Storage configuration and initialization were made made thread safe.  

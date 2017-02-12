@@ -1,0 +1,1 @@
+  STORM-352: fix logic for writing offsets to ZooKeeper  

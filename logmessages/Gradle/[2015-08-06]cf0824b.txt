@@ -1,0 +1,1 @@
+  fix cross version tests for testlauncher.  -move exception handling coverage into 2.7 TestLauncherCrossVersionSpec  

@@ -1,0 +1,1 @@
+  Move kotlin runtime jars to separate folder and attach them during debug idea start  Now we only attach runtime. It will be possible to attach two jars when it becomes possible to separate paths in system-independent way.  

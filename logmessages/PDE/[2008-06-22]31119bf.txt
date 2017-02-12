@@ -1,0 +1,1 @@
+  fix to make code less fragile if image or size() is altered  

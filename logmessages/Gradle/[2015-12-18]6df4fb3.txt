@@ -1,0 +1,1 @@
+  Fix bug in adding watches, sub directory events were missed  +review REVIEW-5709  

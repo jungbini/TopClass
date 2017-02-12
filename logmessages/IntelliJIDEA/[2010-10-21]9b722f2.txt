@@ -1,0 +1,1 @@
+  IDEA-59631 fix renaming of *.9.png drawable resource files  

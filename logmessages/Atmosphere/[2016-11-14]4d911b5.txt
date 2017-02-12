@@ -1,0 +1,1 @@
+  :bug: #2226 Avoid initializing `AtmosphereResourceFactory` multiple times  

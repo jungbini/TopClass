@@ -1,0 +1,1 @@
+  Preliminary support of virtualenv (PY-397, PY-244), various runner fixes. Only Run and Debug configurations understand virtualenv currently.  

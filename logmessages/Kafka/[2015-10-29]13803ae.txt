@@ -1,0 +1,1 @@
+  KAFKA-2502; Documentation for quotas  Followed the approach specified here: https://issues.apache.org/jira/browse/KAFKA-2502 I also made a minor fix to ConfigCommand to expose the right options on add-config.  Author: Aditya Auradkar <aauradkar@linkedin.com>  Reviewers: Gwen Shapira  Closes #381 from auradkar/K-2502  

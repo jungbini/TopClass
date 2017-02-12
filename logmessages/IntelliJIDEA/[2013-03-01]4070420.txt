@@ -1,0 +1,1 @@
+  no hacks, please (This will be used in NavBarListener to fix IDEA-96105)  

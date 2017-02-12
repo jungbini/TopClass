@@ -1,0 +1,1 @@
+  Platform: erroneous change in VFManager.propertyChanged fixed  

@@ -1,0 +1,1 @@
+  IDEA-142224 fix colored progress bar for people with red-green color blindness  

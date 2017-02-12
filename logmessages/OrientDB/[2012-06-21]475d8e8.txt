@@ -1,0 +1,1 @@
+  Nasty IBM JDK bug was fixed.  

@@ -1,0 +1,1 @@
+  Follow up on recent refactoring. Removed an ignored part of assertion because now the bug is fixed.  

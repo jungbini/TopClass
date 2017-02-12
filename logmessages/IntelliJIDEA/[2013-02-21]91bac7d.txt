@@ -1,0 +1,1 @@
+  svnkit 9566, with NTLM and auto-properties fixes  

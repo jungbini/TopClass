@@ -1,0 +1,1 @@
+  Fixed bug on embedded records reported by Danny: http://groups.google.com/group/orient-database/msg/c54a66e077fd5146 And updated his Test Case  

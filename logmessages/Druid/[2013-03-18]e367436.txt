@@ -1,0 +1,1 @@
+  1) Fix bug with the MergeTask not setting the binaryVersion field on DataSegments and causing the converter to run a lot.  

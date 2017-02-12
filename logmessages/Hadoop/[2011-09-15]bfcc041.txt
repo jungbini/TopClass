@@ -1,0 +1,1 @@
+  Merge r1171181 from branch-0.20-security to fix HADOOP-7602.    git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-205@1171194 13f79535-47bb-0310-9956-ffa450edef68  

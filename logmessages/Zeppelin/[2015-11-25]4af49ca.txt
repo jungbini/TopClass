@@ -1,0 +1,1 @@
+vis setting for testing Spark 1.5.x 1c75c2c [Jongyoul Lee] [Minor] Fix travis setting for testing Spark 1.5.x 46a10e7 [Jongyoul Lee] [Minor] Fix travis setting for testing Spark 1.5.x  

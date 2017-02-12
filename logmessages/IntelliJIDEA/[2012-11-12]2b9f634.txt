@@ -1,0 +1,1 @@
+  fixed PY-7895 pytest: Errors evaluating pytest expressions should be displayed as failed tests, not as unfinished ones  

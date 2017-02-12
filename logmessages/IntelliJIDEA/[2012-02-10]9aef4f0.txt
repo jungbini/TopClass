@@ -1,0 +1,1 @@
+  IDEA-80693 Groovy: Extract Closure Parameter: do not add class prefix to static fields/methods accessed from within a class where they are defined  

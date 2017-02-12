@@ -1,0 +1,1 @@
+  fix maven build if generate.javadoc is false  

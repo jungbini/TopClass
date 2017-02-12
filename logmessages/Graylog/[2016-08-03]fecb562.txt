@@ -1,0 +1,1 @@
+  Use DEBUG level in normalizeDn() to avoid noisy warnings (#2599)  * Change logging in normalizeDn() to debug to avoid noisy warnings  Group entries might be invalid DNs, which is okay. This avoids noisy WARN logging when handling groups.  * Avoid possible NullPointerException * Clarify the behavior of LdapConnector#normalizedDn()  

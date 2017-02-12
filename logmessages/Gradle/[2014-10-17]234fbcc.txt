@@ -1,0 +1,1 @@
+  Moved some logic from ToolingApiSpecification to ToolingApi fixture. Fixed execution when tests are in forking mode to actually use forking mode.  

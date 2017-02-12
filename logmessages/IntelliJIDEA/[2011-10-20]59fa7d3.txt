@@ -1,0 +1,1 @@
+  xdebugger: avoid firing 'breakpointChanged' events for temporary default breakpoints created during save  

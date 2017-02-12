@@ -1,0 +1,1 @@
+  Search Everywhere: Render function parameter types. Render extension type in prefix position #KT-13976 Fixed #KT-13977 Fixed  

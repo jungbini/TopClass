@@ -1,0 +1,1 @@
+  Blinking class object tests fixed  Now lazy descriptors for all class objects are retained by the owning class  

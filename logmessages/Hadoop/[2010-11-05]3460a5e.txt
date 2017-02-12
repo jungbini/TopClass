@@ -1,0 +1,1 @@
+  HADOOP-6758. MapFile.fix does not allow index interval definition. Contributed by Gianmarco De Francisci Morales.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1031743 13f79535-47bb-0310-9956-ffa450edef68  

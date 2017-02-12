@@ -1,0 +1,1 @@
+  Split unused function inspection (fixes #2374)  

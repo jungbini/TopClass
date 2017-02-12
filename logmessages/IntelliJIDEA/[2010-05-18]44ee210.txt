@@ -1,0 +1,1 @@
+  WI quick fix for NPE for Directories with all roots detached  

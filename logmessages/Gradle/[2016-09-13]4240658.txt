@@ -1,0 +1,1 @@
+  Process individual `CopySpec` inputs separately  This is take no. 2.  Previously input files of an `AbstractCopyTask` were declared as a single file collection. This made it impossible to tell when a file was moved from one sub-spec to another (and hence to a 

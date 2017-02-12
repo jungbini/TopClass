@@ -1,0 +1,1 @@
+  CPP-6656 Exceptions for function/macro in CMakeList.txt (master)  fixing a few exceptions that sometimes appear during file editing  

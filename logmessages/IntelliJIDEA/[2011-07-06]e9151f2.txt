@@ -1,0 +1,1 @@
+  IDEA-71753 Throwable at com.intellij.psi.impl.DebugUtil.currentStackTrace  

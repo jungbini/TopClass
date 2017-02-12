@@ -1,0 +1,1 @@
+  Make type field in CreateConditionRequest Nullable.  This fixes an error when updating an alert condition.  Fixes #912.  

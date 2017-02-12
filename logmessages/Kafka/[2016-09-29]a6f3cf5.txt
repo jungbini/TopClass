@@ -1,0 +1,1 @@
+  HOTFIX: Tools for releases prior to 0.10.1 need --new-consumer flag  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1931 from hachikuji/fix-broken-upgrade-tests  

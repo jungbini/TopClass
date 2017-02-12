@@ -1,0 +1,1 @@
+ fixed PY-4360 Tuple assignment balance is incorrect: false negative for parenthesized tuples on the left side  

@@ -1,0 +1,1 @@
+  HDFS-4461.  DirectoryScanner: volume prefix takes up memory for every block that is scanned (Colin Patrick McCabe)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1494404 13f79535-47bb-0310-9956-ffa450edef68  

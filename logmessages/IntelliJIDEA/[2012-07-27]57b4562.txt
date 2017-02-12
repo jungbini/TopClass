@@ -1,0 +1,1 @@
+  LightPLATFORM fixture test case vs Light fixture test case, no extra dependency  

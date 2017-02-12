@@ -1,0 +1,1 @@
+terpreter() 160fa02 [] move ((LazyOpenInterpreter) p).open() outside of synchronized(intpGroup) block to fix the remoteinterpreterserver deadlock 93e703d [] add synchronized (intpGroup) in open() of LazyOpenInterpreter.java, to make sure thread-locking sequence consistent between multithreading 4ec953b [] fix remoteinterpreterserver deadlock problem  

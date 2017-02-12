@@ -1,0 +1,1 @@
+  Add a way to pass extra inputs to the linking step  * This will allow swift_library to add necessary swiftmodule artifacts to the linking action, enabling debugger support.  -- MOS_MIGRATED_REVID=135512029  

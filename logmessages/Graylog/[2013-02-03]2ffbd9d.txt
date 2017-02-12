@@ -1,0 +1,1 @@
+  fix wrong http method for hosts showrange  fixes #WEBINTERFACE-432  

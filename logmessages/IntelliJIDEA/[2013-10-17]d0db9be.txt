@@ -1,0 +1,1 @@
+  proper enter bulk mode by fixing calculation of number of created directoriesd when created directory does not exist (VirtualFileCreateEvent has null file but proper directory flag)  

@@ -1,0 +1,1 @@
+  javafx: disable create field fix in batch mode  

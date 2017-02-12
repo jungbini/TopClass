@@ -1,0 +1,1 @@
+  Fix display of total count of indices. (#2365)  The indices overview includes closed indices too, but they were added separately in the display of total indices. This was fixed now to correct the number of total indices.  FIxes #2359  

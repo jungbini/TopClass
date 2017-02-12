@@ -1,0 +1,1 @@
+  win32fs fixed: cache is thread local  

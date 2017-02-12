@@ -1,0 +1,1 @@
+  HOTFIX: follow up on KAFKA-4275  Author: Matthias J. Sax <matthias@confluent.io>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #2039 from mjsax/hotfix-ktableLeftJoin  

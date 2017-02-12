@@ -1,0 +1,1 @@
+  HBASE-3625  improve/fix support excluding Tests via Maven -D property. (Alejandro Abdelnur via todd)  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1081624 13f79535-47bb-0310-9956-ffa450edef68  

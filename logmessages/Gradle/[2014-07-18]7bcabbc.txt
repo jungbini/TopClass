@@ -1,0 +1,1 @@
+  Some updates to the dependencies for codeQuality project, to fix int test execution.  

@@ -1,0 +1,1 @@
+  provide js blocks for script inside attribute values #WEB-18614 fixed  

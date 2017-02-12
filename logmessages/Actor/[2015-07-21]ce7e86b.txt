@@ -1,0 +1,1 @@
+ fix(server: rpc): delete vendor credentials on logout  

@@ -1,0 +1,1 @@
+  Type for method spec is missing in structure view, fix #1720  

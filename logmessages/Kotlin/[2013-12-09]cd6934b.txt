@@ -1,0 +1,1 @@
+  fixed bug in 'DataFlowInfo.getPossibleTypes'  parent types should be enriched as well  

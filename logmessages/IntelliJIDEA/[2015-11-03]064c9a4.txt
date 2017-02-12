@@ -1,0 +1,1 @@
+  Fixed searching for binary Python 3.5 modules on Mac OS X (PY-17282)  Our binary module regexp was special-cased for the '-linux-gnu' suffix and didn't take into account other variants.  

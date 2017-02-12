@@ -1,0 +1,1 @@
+  Specify which tests should NOT be run with an integrated composite  Instead of specifying the tests that DO work with an integrated composite, we specify which ones do not yet work. This should make it easier to identify the tests that still need fixing. Before integrated composite can be considered fully functional from the Tooling API, all of these tests need to be fixed.  

@@ -1,0 +1,1 @@
+  HDFS-10309 Balancer doesn't honor dfs.blocksize value defined with suffix k(kilo), m(mega), g(giga).  Contributed by Amit Anand  

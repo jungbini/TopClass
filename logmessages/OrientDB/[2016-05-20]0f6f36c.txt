@@ -1,0 +1,1 @@
+  fixes of low disk check backported to 2.1.x, prjhub issue #6621  

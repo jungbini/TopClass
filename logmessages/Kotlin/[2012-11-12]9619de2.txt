@@ -1,0 +1,1 @@
+  Module script generator fixed  It used to put system-dependent paths into script files, which resulted in syntactically incorrect string literals on Windows: sources += "C:\foo.kt" // \f is wrong here  Solution: convert paths to system-independent form (forward slashes)  

@@ -1,0 +1,1 @@
+  fix hints serialized size calculation patch by dbrosius reviewed by thobbs for cassandra-8587  

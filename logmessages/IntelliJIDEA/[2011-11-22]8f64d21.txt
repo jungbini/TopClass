@@ -1,0 +1,1 @@
+  debugging anonymous and inner classes in script  

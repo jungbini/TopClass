@@ -1,0 +1,1 @@
+  STORM-2105: show total and available resources per supervisor and at cluster level, and some fixes for consistency and tooltips  

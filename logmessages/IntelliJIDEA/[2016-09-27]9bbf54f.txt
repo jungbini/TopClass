@@ -1,0 +1,1 @@
+which tried to fix IDEA-148376.  It turned out that escape sequence parsing in the ColoredProcessHandler can break git log parsing for some malicious commit messages.  More correct fix will follow which will use Killable, but not Colored ProcessHandler.  

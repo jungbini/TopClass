@@ -1,0 +1,1 @@
+  improved stream alert input JS validations. fixes #494  

@@ -1,0 +1,1 @@
+  STORM-1731 Avoid looking up debug / backpressure enable flags within critical path  * preload the value of flags and use that value * topology.debug * topology.backpressure.enable * also remove unnecessary lookup: receive-queue  

@@ -1,0 +1,1 @@
+  fix KT-7879 KotlinJS - Cannot browse jslib sources #KT-7879 Fixed  

@@ -1,0 +1,1 @@
+  fix "TestDataProvider is already disposed for Project (Disposed) testEditorsAndDocumentsAreDisposed_0"  parent tear down close project anyway  

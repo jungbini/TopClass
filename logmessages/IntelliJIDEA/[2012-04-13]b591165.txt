@@ -1,0 +1,1 @@
+  EA-34233 - assert: CollapseSelectionHandler.run  Debug info is added. Suspecting FoldingModelWindow  

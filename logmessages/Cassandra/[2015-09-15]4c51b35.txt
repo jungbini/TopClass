@@ -1,0 +1,1 @@
+  Ninja-fix ambigious (and wrong, but harmless) increment  

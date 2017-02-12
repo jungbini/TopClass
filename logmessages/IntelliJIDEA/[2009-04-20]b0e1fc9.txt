@@ -1,0 +1,1 @@
+  do not remove run configuration if configuration plugin is unavailable. take 2: fix RunManagerTest  

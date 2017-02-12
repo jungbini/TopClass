@@ -1,0 +1,1 @@
+  fix text cut-off in Messages toolwindow (fix for IDEA-152454)  

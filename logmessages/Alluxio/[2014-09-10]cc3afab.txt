@@ -1,0 +1,1 @@
+ Bug fix - repeatedly write  Fix bug that writeTest will repeatedly write the same file when a thread needs to write several files.  

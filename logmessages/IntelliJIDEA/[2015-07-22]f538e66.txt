@@ -1,0 +1,1 @@
+  one more fix to really ensure that we don't add kotlin-runtime.jar instead of annotations module output when IDEA is running from sources  

@@ -1,0 +1,1 @@
+  es_aware_run_make: fix possible npe if ExecutionEnvironmentProvider is absent  

@@ -1,0 +1,1 @@
+  CPP-8171 File Cache Conflict and 'AWT events are not allowed inside write action' exception while trying to create new project in place of already existing  fixing apparently broken test  

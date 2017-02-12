@@ -1,0 +1,1 @@
+  start AMQPSyncInitializer on non-master nodes too  fixes #SERVER-278 (i hope)  

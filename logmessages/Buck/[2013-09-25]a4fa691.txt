@@ -1,0 +1,1 @@
+  Reset compressed size when combining JAR/ZIP archives.  Summary: From https://github.com/facebook/buck/pull/16.  zlib does not always deflate a resource to the same compressed size as the original input.  The input resource may have been compressed using a 

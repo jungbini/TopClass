@@ -1,0 +1,1 @@
+  fix searching deps on removed and renamed classes  

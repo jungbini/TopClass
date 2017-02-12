@@ -1,0 +1,1 @@
+  Add Null check and give decent debug message if COLUMN env var cannot be parsed.  

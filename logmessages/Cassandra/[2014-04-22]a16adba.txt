@@ -1,0 +1,1 @@
+  fix cassandra stress errors on reads with native protocol  patch by belliottsmith; reviewed by jasobrown for CASSANDRA-7033  

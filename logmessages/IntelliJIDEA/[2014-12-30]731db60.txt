@@ -1,0 +1,1 @@
+  SSR: fix "lambdas" existing template  

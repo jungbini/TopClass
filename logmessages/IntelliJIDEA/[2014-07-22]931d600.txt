@@ -1,0 +1,1 @@
+  Inspections ui: expand/collapse tree fixed  

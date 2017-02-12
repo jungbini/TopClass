@@ -1,0 +1,1 @@
+  platform: partial refresh fixed  Before, parts of the VFS tree (below some directory) may remain dirty indefinitely after non-recursive refresh in that directory  

@@ -1,0 +1,1 @@
+  "gnu" prefix removed from CommandLine classes according to https://upsource.labs.intellij.net/idea-community/review/IDEA-COMMUNITY-CR-1732  

@@ -1,0 +1,1 @@
+ Freeze of database in case of free disk space limit is reached is fixed.  

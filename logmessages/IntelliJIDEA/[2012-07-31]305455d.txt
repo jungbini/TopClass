@@ -1,0 +1,1 @@
+  IDEA-89431: Collapse Inline CSS  #IDEA-89431 fixed  

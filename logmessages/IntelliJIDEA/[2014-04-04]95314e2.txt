@@ -1,0 +1,1 @@
+  Gradle: Tooling API integration tests fix - set minimal daemonMaxIdleTime  

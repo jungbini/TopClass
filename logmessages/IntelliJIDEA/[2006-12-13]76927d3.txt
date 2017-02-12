@@ -1,0 +1,1 @@
+  one more attempt to fix ChangeListSynchronizer: don't try to reopen changes on "changelist changed"  

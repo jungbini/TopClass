@@ -1,0 +1,1 @@
+  fixed PY-10549 Unresolved reference: duplicated warning for unresolved param with type in docstring  

@@ -1,0 +1,1 @@
+  debug api - do not require run configuration and its environment to create debug session and UI (a step to unify with XDebuggerManager)  

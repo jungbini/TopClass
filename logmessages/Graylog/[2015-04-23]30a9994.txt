@@ -1,0 +1,1 @@
+  fix width of source field if it is the only other field shown as a column  this allows to render the timestamp column as fixed width, without resizing it to 50% if only two columns are shown. how i love css  

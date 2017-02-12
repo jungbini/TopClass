@@ -1,0 +1,1 @@
+  fixed performance loss on buffered stream reading  

@@ -1,0 +1,1 @@
+  IDEA-63965 fix checking device compatibility  

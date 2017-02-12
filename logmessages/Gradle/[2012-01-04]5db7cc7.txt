@@ -1,0 +1,1 @@
+  - Shuffled some classes around in o.g.integtests.fixtures to remove package cycle. - Switched on package cycle checking for a few more projects. - Switched off class cycle checking, just do packages for now.  

@@ -1,0 +1,1 @@
+  fix for "unused label" inspection quick fix "Type may be weakened" inspection  

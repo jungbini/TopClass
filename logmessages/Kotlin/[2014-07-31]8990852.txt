@@ -1,0 +1,1 @@
+  fix double renaming issue  - rebuild resource mapping cache on external layout file changes - move duplicated code to AndroidResourceManager  

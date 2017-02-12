@@ -1,0 +1,1 @@
+  add comment for default hadoop coordinates (#3257)  1) Modify CliHadoopIndexer to share constant from `TaskConfig.DEFAULT_DEFAULT_HADOOP_COORDINATES` 2) add comment to pom.xml as discussed in https://github.com/druid-io/druid/pull/3044  fix name  

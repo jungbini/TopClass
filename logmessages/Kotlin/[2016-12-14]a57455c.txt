@@ -1,0 +1,1 @@
+  Relax requirements on function modifiers in multiplatform projects  Allow to implement header functions with external/tailrec/inline/infix/operator functions  

@@ -1,0 +1,1 @@
+  fix NPE if artifact properties are broken, do not call pre/post step if properties are not enabled  

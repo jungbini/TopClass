@@ -1,0 +1,1 @@
+  [#119] fixed a bug where cursors were not displaying in TransactionView  

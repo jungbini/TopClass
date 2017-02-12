@@ -1,0 +1,1 @@
+  Patch by Victor Kalinin to fix a bug in encoding URL in orientdb-api.js  

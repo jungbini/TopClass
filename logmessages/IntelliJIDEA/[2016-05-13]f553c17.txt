@@ -1,0 +1,1 @@
+  IDEA-155913 While editing SQL string in Java, cursor jumps to other locations preventing me to make the change - temporary fix (for release branch)  typescript: useless code  

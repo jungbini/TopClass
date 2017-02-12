@@ -1,0 +1,1 @@
+  MAPREDUCE-3221. Reneabled the previously ignored test in TestSubmitJob and fixed bugs in it. Contributed by Devaraj K. svn merge -c r1197080 --ignore-ancestry ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1197082 13f79535-47bb-0310-9956-ffa450edef68  

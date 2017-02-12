@@ -1,0 +1,1 @@
+  JS backend: fix equality check for nullable types  * Generate simple check when compare with `null` literal. * Use Kotlin.equals if type of receiver or argument is nullable. * Don't call equals method if any of receiver or argument is null (at runtime, not only literal). For more information see KT-4356.  #KT-7530 fixed #KT-7916 fixed  

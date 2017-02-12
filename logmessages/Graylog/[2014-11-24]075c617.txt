@@ -1,0 +1,1 @@
+  Ensure that the node ID is consistently used in REST API and client  This should fix the issues mentioned in Graylog2/graylog2-web-interface#970, Graylog2/graylog2-web-interface#978, and #774.  

@@ -1,0 +1,1 @@
+  do not create fix in batch mode if it requires dialog (IDEA-83242)  

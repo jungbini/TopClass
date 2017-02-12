@@ -1,0 +1,1 @@
+  more relaxing fix for IDEADEV-20968: allow to create invalid packages but do not allow to move classes there  

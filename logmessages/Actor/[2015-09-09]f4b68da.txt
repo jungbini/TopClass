@@ -1,0 +1,1 @@
+  fix(web): use babel es6 polyfills, use Promise in confirm.  

@@ -1,0 +1,1 @@
+  feat(core): hide encrypted message content rom notifications, fix notifications encrypted counter  

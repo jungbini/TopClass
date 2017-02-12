@@ -1,0 +1,1 @@
+  fix LDAP REST resource object  fixes Graylog2/graylog2-web-interface#1026  

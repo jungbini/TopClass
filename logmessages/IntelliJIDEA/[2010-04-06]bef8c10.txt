@@ -1,0 +1,1 @@
+  License Support: improve panel view, fix bug with autodiscovering of license server  Conflicts:  platform/platform-resources-en/src/messages/IdeBundle.properties  

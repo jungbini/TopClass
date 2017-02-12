@@ -1,0 +1,1 @@
+  Generalize JavaBuilder's fixMessage string to a function. This allows accommodating rules that generate jars using Aspects.  -- MOS_MIGRATED_REVID=128106284  

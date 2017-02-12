@@ -1,0 +1,1 @@
+  reimplement PropertyBunch.fillFromCall() without touching PSI or stubs for builtins (fix OOME while building indices?)  

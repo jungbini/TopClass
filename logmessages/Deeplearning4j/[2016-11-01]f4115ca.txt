@@ -1,0 +1,1 @@
+  Fix gradient checks and bugs in vertices. TODO: solve NPE during backprop.  

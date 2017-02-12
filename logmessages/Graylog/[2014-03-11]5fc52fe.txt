@@ -1,0 +1,1 @@
+  don't use formatted fields for the message loader, only filter fields, but never format them  fixes #656  

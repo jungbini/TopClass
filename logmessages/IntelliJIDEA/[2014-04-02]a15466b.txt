@@ -1,0 +1,1 @@
+  better fix for IDEA-120011 quick documentation looses styling  

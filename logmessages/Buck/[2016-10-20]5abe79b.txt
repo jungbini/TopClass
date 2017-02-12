@@ -1,0 +1,1 @@
+  engine: fix flow where dep-files and their rule keys wouldn't be cached  Summary: Previously, when the build engine got a manifest-based cache hit, it would re-upload the artifact without any dep-file build metadata. This would cause users to frequently get cache hits pulling down artifacts without dep-files or their rule keys.  This 

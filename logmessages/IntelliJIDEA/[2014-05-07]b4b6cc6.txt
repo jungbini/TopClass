@@ -1,0 +1,1 @@
+  fixed PY-12660 PyCharm adds quotes in runconfiguration and fails  

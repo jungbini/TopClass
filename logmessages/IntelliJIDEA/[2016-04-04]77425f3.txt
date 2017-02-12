@@ -1,0 +1,1 @@
+  PY-18522 PY-19053 Paste raw text if there are non whitespace symbols before caret on line  This previously existed check was lost after the recent fixes for PY-18522. It also caused failures of PyCopyPasteTest.testEmpty(), so I reverted previous fix for the test.  

@@ -1,0 +1,1 @@
+  ProcessHandler fix IDEADEV-11372  

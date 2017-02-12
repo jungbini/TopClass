@@ -1,0 +1,1 @@
+  fix possibly uninitialized stub roots  

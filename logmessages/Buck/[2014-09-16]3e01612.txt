@@ -1,0 +1,1 @@
+  Add some logs to the FilterResourcesStep.  Summary: This should be helpful in debugging why Buck is sometimes not scaling down images on CI servers.  Test Plan: buck test --all  

@@ -1,0 +1,1 @@
+  fixed env tests according django 1.6  

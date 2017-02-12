@@ -1,0 +1,1 @@
+31: fixing case of the root pathname 50cf350 [Alexander Bezzubov] Merge branch 'master' into fix-rest-api-path-in-webapp 5c8bdef [Alexander Bezzubov] ZEPPELIN-31 add relative location.pathname to REST API base path  

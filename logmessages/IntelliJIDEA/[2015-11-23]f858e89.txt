@@ -1,0 +1,1 @@
+  framework detection: do not invoke 'refresh' recursively, it's enough to invoke one recursive refresh instead provided that we initialize VFS firstly (EA-69512 fixed)  

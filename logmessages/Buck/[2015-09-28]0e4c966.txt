@@ -1,0 +1,1 @@
+  Minor TestNG fixes.  Summary: Timeout is currently hardcoded at 1 minute, and we want to use the defaultTestTimeoutMillis, which is configurable through .buckconfig.  Closes https://github.com/facebook/buck/pull/346  Test Plan: `buck test`  

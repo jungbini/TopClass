@@ -1,0 +1,1 @@
+ Merge pull request #309 from hkmurakami/patch-1  [fix typo] header formatting in tutorial doc  commit 23133f3b5b064856a11ec4c4b130f562467e0170  Merge pull request #305 from metamx/npe-deprecated-fix  Remove deprecated jackson calls and fix NPE  commit be5ce88093e4930169a5875b85520731075d6dca  fix header formatting in tutorial doc  

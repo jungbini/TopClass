@@ -1,0 +1,1 @@
+  change Maven2Gradle to produce one include statement per subproject  - fixes settings.gradle compile error for huge maven module builds - much easier to read  

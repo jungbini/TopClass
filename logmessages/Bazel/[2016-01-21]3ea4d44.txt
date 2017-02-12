@@ -1,0 +1,1 @@
+  Create the convenience symlinks only after the build, and only those that point to an existing directory.  This required fixing the worker strategy so that it reads params files not through said convenience symlinks, but from the execroot.  -- MOS_MIGRATED_REVID=112682485  

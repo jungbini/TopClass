@@ -1,0 +1,1 @@
+  move CodeSmellDetector registration to RichPlatformPlugin (will fix IDEA-71759)  

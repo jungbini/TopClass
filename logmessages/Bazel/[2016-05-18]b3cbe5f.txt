@@ -1,0 +1,1 @@
+  Fix bug in lazy removal of reverse deps -- there was one remaining case where we weren't checking to see if a reverse dep already existed when we declared a reverse dep.  -- MOS_MIGRATED_REVID=122581019  

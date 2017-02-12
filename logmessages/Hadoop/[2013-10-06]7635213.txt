@@ -1,0 +1,1 @@
+  YARN-1278. Fixed NodeManager to not delete local resources for apps on resync command from RM - a bug caused by YARN-1149. Contributed by Hitesh Shah. svn merge --ignore-ancestry -c 1529657 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1529658 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Set minimal delay for updating of progress of filtering. Fix bug in cancellation of filtering  

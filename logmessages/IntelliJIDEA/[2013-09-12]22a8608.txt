@@ -1,0 +1,1 @@
+  simplify JavaScriptDebugStarter  don't implement  consider to implement com.jetbrains.javascript.debugger.FileUrlMapper instead of providing mappings directly  

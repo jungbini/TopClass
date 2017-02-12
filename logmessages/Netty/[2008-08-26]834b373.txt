@@ -1,0 +1,1 @@
+  Fixed issue: NETTY-31 (ChannelBuffers.equals() fails to compare the buffers with 

@@ -1,0 +1,1 @@
+  fix timeout reporting to dsnitch patch by vijay; reviewed by jbellis for CASSANDRA-2819  

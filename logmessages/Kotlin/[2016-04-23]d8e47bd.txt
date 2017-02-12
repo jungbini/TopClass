@@ -1,0 +1,1 @@
+  Change visibility fix message (quotes) + list of available actions in tests  

@@ -1,0 +1,1 @@
+  XmlFoldingSettings is a service; registration fixes  

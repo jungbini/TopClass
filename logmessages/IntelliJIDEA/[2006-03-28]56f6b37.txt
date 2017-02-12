@@ -1,0 +1,1 @@
+  many tweaks and fixes to Alt-Ins component creation  

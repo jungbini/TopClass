@@ -1,0 +1,1 @@
+  minor refactor for fix possibility of loop acquiring the connection to a offline server  

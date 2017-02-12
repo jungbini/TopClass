@@ -1,0 +1,1 @@
+  Fixed bug on database close: the thread local instance is removed.  

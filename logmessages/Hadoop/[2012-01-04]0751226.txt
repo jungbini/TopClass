@@ -1,0 +1,1 @@
+  HDFS-1314. Make dfs.blocksize accept size-indicating prefixes (Sho Shimauchi via harsh)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1227165 13f79535-47bb-0310-9956-ffa450edef68  

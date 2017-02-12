@@ -1,0 +1,1 @@
+  Worked around yet another case of exception from inspection when code has "native" annotation.  #KT-6764 fixed  

@@ -1,0 +1,1 @@
+  Don't assume %-formatting by default since this makes it impossible to configure custom SQL user parameters (PY-17188, PY-17382, PY-10771)  We've effectivly rolled back the fix for PY-10771 since we'll reimplement it using default SQL user parameters.  

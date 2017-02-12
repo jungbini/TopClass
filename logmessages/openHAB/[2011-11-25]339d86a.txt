@@ -1,0 +1,1 @@
+  fixed parseCommand to handle scripts and non-script commands properly  

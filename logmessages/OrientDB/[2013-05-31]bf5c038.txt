@@ -1,0 +1,1 @@
+  SQL select: fixed optimizer to avoid calling index.getSize() but rather index.getKeySize()  

@@ -1,0 +1,1 @@
+  DocumentFragment#search fix for CSS queries.  Previously, it didn't correctly match against root nodes.  Fixes #1205.  

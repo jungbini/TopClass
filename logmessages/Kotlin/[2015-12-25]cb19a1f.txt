@@ -1,0 +1,1 @@
+  Change Type Quick-Fix: Convert to Kotlin & refactor. Wrap in delegating quick fix to decrease memory footprint  

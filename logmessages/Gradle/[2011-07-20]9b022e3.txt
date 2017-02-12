@@ -1,0 +1,1 @@
+  fixed bug in FilteringClassLoader that caused FilteringClassLoaderTest to fail (java.lang.PackageS can't be compared with equals())  

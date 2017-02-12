@@ -1,0 +1,1 @@
+  report stream throughput in API and interface  fixes Graylog2/graylog2-web-interface#459  

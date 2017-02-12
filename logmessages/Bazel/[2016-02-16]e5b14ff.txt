@@ -1,0 +1,1 @@
+  Store IncludeResolver results, and legalize the files in .d file checking.  This fixes a corner case that can only happen internally - in Bazel, this is always a no-op.  -- MOS_MIGRATED_REVID=114730311  

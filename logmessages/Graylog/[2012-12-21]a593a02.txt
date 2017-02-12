@@ -1,0 +1,1 @@
+  graylog2ctl improvements  now always has absolute path, no matter started from where - required for plugin file loading. now also stores log file in log/  fixes #SERVER-250  

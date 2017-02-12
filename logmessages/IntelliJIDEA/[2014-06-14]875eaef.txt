@@ -1,0 +1,1 @@
+  fixed web2py and template panel preferred width to fit welcome screen  

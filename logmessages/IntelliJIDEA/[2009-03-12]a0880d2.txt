@@ -1,0 +1,1 @@
+  eclipse: read user libraries definitions from .metadata folder; save idea's project libraries on export; fix idea/eclipse incompatibilities on export  

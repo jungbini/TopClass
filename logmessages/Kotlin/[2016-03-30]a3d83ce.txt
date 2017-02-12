@@ -1,0 +1,1 @@
+  Adjust J2K to latest protected visibility fixes  

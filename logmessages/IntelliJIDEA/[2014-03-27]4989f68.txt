@@ -1,0 +1,1 @@
+  [git] temporary disable several tests  to be fixed later.  

@@ -1,0 +1,1 @@
+  fixed GRADLE-2566: Regression with file pattern matching: GStringImpl cannot be cast to String  

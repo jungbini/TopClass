@@ -1,0 +1,1 @@
+ Merge pull request #1066 from metamx/fix-background-caching-ordering  fix background caching not preserving result order  commit f2d66858c537c350c9e9192f6cb584ccbd595408  add test for IngestSegmentFirehose  fix failing integration tests add test for ingestSegmentFirehose  

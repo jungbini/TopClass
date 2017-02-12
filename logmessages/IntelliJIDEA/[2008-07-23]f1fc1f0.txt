@@ -1,0 +1,1 @@
+  invalid disposal in JunitRunner fixed (caused NPE)  

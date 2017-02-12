@@ -1,0 +1,1 @@
+  Chrome debugger: force to start new browser instance on Mac in 'open' command  

@@ -1,0 +1,1 @@
+  fixed behaviour of caret moving left/right when selection exists in RTL fragment  

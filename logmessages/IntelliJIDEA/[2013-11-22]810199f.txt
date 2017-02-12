@@ -1,0 +1,1 @@
+  IDEA-116824 Gradle: Provide an inspection & quickfix for multiple custom maven repo links  

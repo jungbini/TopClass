@@ -1,0 +1,1 @@
+  fixed PY-11581 RST: Header is not highlighted if there is a space after separator  

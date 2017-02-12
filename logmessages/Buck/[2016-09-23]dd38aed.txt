@@ -1,0 +1,1 @@
+  Fix javatest classpath  Summary: This fix removes a hack (promoting deps of `JavaTest` rules to first-order deps) in favor of exporting the dependencies. This will also solve the underlying issues behind https://github.com/facebook/buck/issues/888  Test Plan: New integration tests  Reviewed By: marcinkosiba  fbshipit-source-id: 87bbf06  

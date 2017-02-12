@@ -1,0 +1,1 @@
+  fixed per-log-level configuration of test logging  - now accurate and always logs at a single log level  

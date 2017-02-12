@@ -1,0 +1,1 @@
+  Add || true to increment so test doesn't exit early  The test is run with -e, so when ((wait_seconds++)) returns 1, it exits.  This fixes #1271.  -- MOS_MIGRATED_REVID=122567259  

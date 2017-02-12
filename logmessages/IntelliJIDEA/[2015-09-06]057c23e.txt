@@ -1,0 +1,1 @@
+  fixed PY-14822 Show external documentation about Python keywords  added builtin documentation for python keywords  

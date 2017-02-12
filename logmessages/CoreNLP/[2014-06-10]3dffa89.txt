@@ -1,0 +1,1 @@
+  Add cross-validation on the training data to ColumnDataClassifier. Also fix a bug in calculating precision and recall in the case of 0 tp's being present.  

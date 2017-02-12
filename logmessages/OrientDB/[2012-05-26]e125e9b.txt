@@ -1,0 +1,1 @@
+  Switched again to the custom TinkerPop Blueprints to fix problem with last second change on OrientEdge and OrientVertex constructors made protected  

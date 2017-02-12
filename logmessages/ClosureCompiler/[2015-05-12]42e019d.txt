@@ -1,0 +1,1 @@
+  Add weak usages for prefixes of type nodes.  For example if a JSDoc comment has "@implements {foo.Service.Handler}" then add a weak usage for "foo.Service" and "foo" ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=93433988  

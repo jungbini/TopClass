@@ -1,0 +1,1 @@
+  fix NPE with logger, delete extracted annotations  

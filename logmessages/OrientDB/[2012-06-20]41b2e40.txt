@@ -1,0 +1,1 @@
+  Implemented new isIdempotent() method in OCommandRequest and OCommandExecutor to check permissions on executing query command. This fixes the problem reported by Vaclav  in ML  

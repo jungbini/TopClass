@@ -1,0 +1,1 @@
+  [git] cleanup error prefixes when reporting git command result  

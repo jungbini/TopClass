@@ -1,0 +1,1 @@
+  Fix a regression to bug 1442, and add more heuristics for detecting mixed-mode errors.  

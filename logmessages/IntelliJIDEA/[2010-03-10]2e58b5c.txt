@@ -1,0 +1,1 @@
+  js debugger: show error message if breakpoint is set inside html event handler  

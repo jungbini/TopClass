@@ -1,0 +1,1 @@
+  Fixed component report fixtures to deal with the new binary locations. Could be reimplemented to be reliable later.  

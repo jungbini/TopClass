@@ -1,0 +1,1 @@
+  change Contribution to an abstract class, remove more unnecessary code, fix copyright info  

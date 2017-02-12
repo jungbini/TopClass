@@ -1,0 +1,1 @@
+  Force sandboxing to be enabled on the sandboxing tests (fixes the failing "test_sandbox_undeclared_deps_skylark" test).  -- MOS_MIGRATED_REVID=107148478  

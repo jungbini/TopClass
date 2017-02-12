@@ -1,0 +1,1 @@
+  fix ordering of the results in multiget_slice query for astyanax/thrift  

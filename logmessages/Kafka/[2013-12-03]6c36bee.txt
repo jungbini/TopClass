@@ -1,0 +1,1 @@
+  minor fix for KAFKA-1152; ReplicaManager's handling of the leaderAndIsrRequest should gracefully handle leader == -1; patched by Swapnil Ghike; reviewed by Jun Rao  

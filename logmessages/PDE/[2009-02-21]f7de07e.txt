@@ -1,0 +1,1 @@
+  blend() y coordinates inverted when using OpenGL (bug #1137)  

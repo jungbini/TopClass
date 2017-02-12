@@ -1,0 +1,1 @@
+  cqlsh: fix handling of semicolons inside BATCH queries  patch by Aleksey Yeschenko; reviewed by Brandon Williams for CASSANDRA-5697  

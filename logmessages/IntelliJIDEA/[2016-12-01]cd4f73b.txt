@@ -1,0 +1,1 @@
+  Java8MapApiInspectionTest: true unit test for getNameCandidate instead of full inspect-and-fix test  

@@ -1,0 +1,1 @@
+  fixed issue #3505 - It is not possible to select NULL as result value  

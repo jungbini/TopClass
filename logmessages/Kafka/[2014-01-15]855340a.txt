@@ -1,0 +1,1 @@
+  kafka-1202; optimize ZK access in KafkaController; also incorporating fixes in kafka-1020; patched by Jun Rao and Guozhang Wang; reviewed by Neha Narkhede and Joel Koshy  

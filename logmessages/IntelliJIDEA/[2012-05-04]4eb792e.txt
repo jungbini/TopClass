@@ -1,0 +1,1 @@
+  Fixed bug in .class as annotation parameter (compile-server).  

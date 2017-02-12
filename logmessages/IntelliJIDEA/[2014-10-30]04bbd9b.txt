@@ -1,0 +1,1 @@
+  XDebuggerSettingsManager  don't save defaults  XmlSerializerImpl  introduce serializeIfNotDefault  new method allows us to return null if element is empty (we don't need to create empty element and then check it)  

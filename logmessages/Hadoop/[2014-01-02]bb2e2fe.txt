@@ -1,0 +1,1 @@
+  YARN-1549. Fixed a bug in ResourceManager's ApplicationMasterService that was causing unamanged AMs to not finish correctly. Contributed by haosdent.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1554886 13f79535-47bb-0310-9956-ffa450edef68  

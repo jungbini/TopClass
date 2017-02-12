@@ -1,0 +1,1 @@
+  HOTFIX: Auto-repartitioning for merge() and code simplifications  follow-up to auto-through feature: - add sourceNode to transform() - enable auto-repartitioning in merge() - null check not required anymore (always join-able due to auto-through)  Author: Matthias J. Sax <matthias@confluent.io>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #1580 from mjsax/hotfix  

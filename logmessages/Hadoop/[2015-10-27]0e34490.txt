@@ -1,0 +1,1 @@
+  fix changes.txt for MAPREDUCE-6391.  

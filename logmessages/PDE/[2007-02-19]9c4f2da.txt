@@ -1,0 +1,1 @@
+  improve targa image loading and make some doc fixes  

@@ -1,0 +1,1 @@
+  Task.Modal: fix onCancel() usages  after recent changes, Modal.onCancel() is no longer executed if Modal.run() throws an exception.  

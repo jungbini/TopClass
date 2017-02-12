@@ -1,0 +1,1 @@
+  ninja fix ScheduledExecutorService spinning CPU consumption with 0 corePoolSize  

@@ -1,0 +1,1 @@
+  Add `resources` parameter to `PythonLibrary` rules  Summary: As discussed in D1348830, there are some cyclical dep issues that need to be resolved around resources before that 

@@ -1,0 +1,1 @@
+  EjbMethod removed from openapi and fixed in several ways  

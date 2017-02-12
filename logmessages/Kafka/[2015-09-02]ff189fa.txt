@@ -1,0 +1,1 @@
+  TRIVIAL: Replace "it's" with "its" where appropriate  No Jira ticket created, as the Contributing Code Changes doc says it's not necessary for javadoc typo fixes.  Author: Magnus Reftel <magnus.reftel@skatteetaten.no>  Reviewers: Gwen Shapira  Closes #186 from magnusr/feature/its  

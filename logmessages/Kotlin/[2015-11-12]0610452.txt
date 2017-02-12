@@ -1,0 +1,1 @@
+  Disabling parallel builds without daemon again and undoing apprpriate fix to broken tests problem, since it effectively cancelled fix for parallel building itself and was causing exceptions on heavy builds  

@@ -1,0 +1,1 @@
+  allow inputs being loaded as plugins again  we need to keep track of the proper classloader to find the input type. this does not support unloading, but we have no mechanism to do that anyway, at least not now  fixed #358  

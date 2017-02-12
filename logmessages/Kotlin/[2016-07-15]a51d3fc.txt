@@ -1,0 +1,1 @@
+  Create from Usage: Show target class name in the text of "Create member" quick fix  

@@ -1,0 +1,1 @@
+  First step to use ExecHandle stack for starting daemon. Not beautiful so far but I'd like the CI jobs to soak the change. Refactorings are pending. The goal is to consolidate process starting code and avoid reimplementing bugs that have been already fixed.  

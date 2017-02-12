@@ -1,0 +1,1 @@
+  fix mongodb indexes in users model  Allow null values in users.remember_token and users.api_key When new users are created, mongodb rejects inserts starting with the second user.  

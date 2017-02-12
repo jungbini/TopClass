@@ -1,0 +1,1 @@
+  fix stack overflow in groovy library detection  

@@ -1,0 +1,1 @@
+thrown when parsing IPv6 host values in `X-Forwarded-Host` request headers.  Issue: SPR-14761 (cherry picked from ea5ff87)  

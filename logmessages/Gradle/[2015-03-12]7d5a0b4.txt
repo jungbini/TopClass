@@ -1,0 +1,1 @@
+  Test case for GRADLE-3248  Broken incremental compile, not fixed yet  

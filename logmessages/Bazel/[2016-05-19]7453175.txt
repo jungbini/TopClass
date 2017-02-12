@@ -1,0 +1,1 @@
+  fix Docker rules link in a simple way  Updates #1236  This doesn't fix the real problem (`README.md` seems to be turning into `README.html` during the render process), but, depending on how much time others have to look at the document generator, this might be worth submitting.  -- Reviewed-on: https://github.com/bazelbuild/bazel/pull/1237 MOS_MIGRATED_REVID=122747784  

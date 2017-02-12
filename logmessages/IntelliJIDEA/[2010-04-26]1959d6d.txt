@@ -1,0 +1,1 @@
+  Maven: not-null assertion fix for Maven actions  

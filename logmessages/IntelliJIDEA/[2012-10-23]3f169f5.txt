@@ -1,0 +1,1 @@
+  SVN: made-aside work for Subversion locking synchronization idea: use "SQLite read access wrapper" for read operations; use inner locking for write operations  not finished since sqljet have fundamental bug, if fixed, maybe IDEA-level locking is not necessary  

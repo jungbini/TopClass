@@ -1,0 +1,1 @@
+ fix conflict  commit 204fbff026e5fdfe1964fbbaca16860f9765e614  fix conflict  commit 92506f6d184a6df552ef1c222124c468a33ba139  Merge pull request #318 from minghan/patch-1  Fix directory bug in install_zmq.sh  commit 8e10be157ad2ae047045eac4dfc0b853b93bdc16  Fix directory bug in install_zmq.sh  

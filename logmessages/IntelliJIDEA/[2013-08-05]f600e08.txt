@@ -1,0 +1,1 @@
+  simplify fix "Avoid memory leak in case: myDone executed but myRejected still keep doWhenRejected listeners (and vice versa)"  

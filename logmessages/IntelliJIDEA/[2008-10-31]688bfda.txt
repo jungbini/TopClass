@@ -1,0 +1,1 @@
+  1. correct implementation of DebuggerConfigurable.disposeUIResources() 2. clear children configurables in DebuggerConfigurable on project close and when context project changes  

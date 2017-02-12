@@ -1,0 +1,1 @@
+  IDEADEV-40003 (Replace Assignment with Postfix Expression intention)  

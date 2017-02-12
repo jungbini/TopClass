@@ -1,0 +1,1 @@
+  Update to the latest nightly that fixes the problem with codenarc tasks not being incremental.  

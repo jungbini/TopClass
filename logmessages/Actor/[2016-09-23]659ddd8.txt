@@ -1,0 +1,1 @@
+  fix(android): profile fragment avatar placeholder text size, hide call/videoCall dividers  

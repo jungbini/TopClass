@@ -1,0 +1,1 @@
+  Buck Plugin adb path and connect fail fix error messages  Summary: We need a vendor for the jetbrains plugin. Updated the 2 bad messages.  I can't English sometimes.  Test Plan: Tested by running the plugin with the new messages.  Reviewed By: cotizo  fbshipit-source-id: 13dc68a  

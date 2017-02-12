@@ -1,0 +1,1 @@
+  Test fix after making PluginResolverFactory depend on DocumentationRegistry.  

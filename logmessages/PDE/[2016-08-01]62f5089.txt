@@ -1,0 +1,1 @@
+ Merge pull request #4607 from JakubValtar/fix-async-save-resize  Fix resizing targets for async save  commit 62f5089e7ed80fbe75d0f52c451a0b8b509ace3c  store separate state information in attempt to fix #4522  

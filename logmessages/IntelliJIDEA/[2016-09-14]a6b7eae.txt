@@ -1,0 +1,1 @@
+  IDEA-161193 Unable to batch apply fixes reported by 'Simplify stream API call chains'  

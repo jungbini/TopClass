@@ -1,0 +1,1 @@
+  IDEA-135836: fix editor layout  scrollbar could be positioned on the left (EditorEx.VERTICAL_SCROLLBAR_LEFT)  

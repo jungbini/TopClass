@@ -1,0 +1,1 @@
+  IDEA-87854 some more space between plugin name and "required by..." suffixes, sort plugin list case-insensitive (as in plugin manager)  

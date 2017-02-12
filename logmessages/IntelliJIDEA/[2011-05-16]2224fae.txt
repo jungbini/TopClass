@@ -1,0 +1,1 @@
+  fixed PY-3556 Error in helpers/pycharm/docrunner.py while running doctest containing exception  

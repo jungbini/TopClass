@@ -1,0 +1,1 @@
+  YARN-5400. addendum patch to fix JDK 7 issue  

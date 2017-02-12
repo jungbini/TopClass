@@ -1,0 +1,1 @@
+  Merge -c 1241323 from trunk to branch-0.23 to fix MAPREDUCE-3817. Fixed bin/mapred to allow running of distcp and archive jobs. Contributed by Arpit Gupta.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1241324 13f79535-47bb-0310-9956-ffa450edef68  

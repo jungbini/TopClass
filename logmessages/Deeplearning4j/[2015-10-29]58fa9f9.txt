@@ -1,0 +1,1 @@
+  WordVectorsImpl#wordsNearest returns wrong results #821  - Quick fix: intermediately increase the number of nearest neighbours by the number of looked up words  

@@ -1,0 +1,1 @@
+  fixed a nasty bug around configuration objects overwriting each others key/values. Fixed #152  

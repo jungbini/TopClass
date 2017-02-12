@@ -1,0 +1,1 @@
+  Make conversion to/from java in c.s.j.p.win32.COM.util more flexible  ProxyObject and Callback both use the Convert class as helper to convert java object to/from VARIANT. This change adds more flexibility and adds tests to fixate and check conversion.  

@@ -1,0 +1,1 @@
+  Removed the gradle System.exit() protection from the GradleWorkerMain until I figure out how to fix failing UI tests.  

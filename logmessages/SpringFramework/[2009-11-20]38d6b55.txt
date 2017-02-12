@@ -1,0 +1,1 @@
+  SPR-6333 SPR-6393 + fix invalid static field  

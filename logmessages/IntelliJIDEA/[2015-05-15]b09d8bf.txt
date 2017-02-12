@@ -1,0 +1,1 @@
+  IDEA-140186 10 seconds IDE hang if debug process hanged  

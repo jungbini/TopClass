@@ -1,0 +1,1 @@
+  fixed bugs in increase/decrease and percent mapping to KNX  

@@ -1,0 +1,1 @@
+  content ui: fixed showing tabs & toolbar [rev by kirillk]  

@@ -1,0 +1,1 @@
+  vcs: fix EDT access  The fix to IDEA-151547 made the proposal to move failed changes to another list be shown not from the EDT, leading to assertion.  

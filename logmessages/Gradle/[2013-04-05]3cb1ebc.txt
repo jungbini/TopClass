@@ -1,0 +1,1 @@
+  REVIEW-2020: tweaks to template generation in buildSetup task  - always use a template - use DocumentationRegistry for generating userguide links - fix wrong referenced apilink - remove unused property in GenerateBuildFile task  

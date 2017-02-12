@@ -1,0 +1,1 @@
+  fix copy/move for Java files outside source roots  

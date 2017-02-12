@@ -1,0 +1,1 @@
+  Build fixes: clean up .class, .jar; move NokogiriJavaService to nokogiri package.  

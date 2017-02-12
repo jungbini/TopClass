@@ -1,0 +1,1 @@
+rminated() for clearer semantics 5e4b8d3 [Rick Moritz] added assertEquals import 10fd22d [Rick Moritz] Fix build and cosmetics 0455a66 [Rick Moritz] Refactoring and moving to job.isRunning check 528dbfa [Rick Moritz] ZEPPELIN-319 optionally wait an additional .5 seconds, if assertion can be expected to fail  

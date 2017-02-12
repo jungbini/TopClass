@@ -1,0 +1,1 @@
+  new project wizard: NPE fixed (IDEA-160346)  

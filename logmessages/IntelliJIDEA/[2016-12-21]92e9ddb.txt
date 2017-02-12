@@ -1,0 +1,1 @@
+  [groovy] fix FromAbstractTypeMethods support (IDEA-165684)  

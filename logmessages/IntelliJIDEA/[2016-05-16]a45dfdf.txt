@@ -1,0 +1,1 @@
+  put the proper type to the union in case of optional numpy type  preliminary fix for PY-16406 Class 'tuple' does not define 'sub', so the '-' operator cannot be used on its instance  

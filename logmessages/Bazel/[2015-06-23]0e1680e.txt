@@ -1,0 +1,1 @@
+  Bazel: fix compile.sh errors (strict java deps).  -- MOS_MIGRATED_REVID=96657212  

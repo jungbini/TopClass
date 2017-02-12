@@ -1,0 +1,1 @@
+  fixed exception for not using constituency tree case  

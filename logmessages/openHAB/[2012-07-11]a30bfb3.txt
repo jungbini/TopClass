@@ -1,0 +1,1 @@
+  fix - apply configured filters when downloading files from dropbox enhancement - query for deltas if 'hasMore==true' is returned, upload file from local to Dropbox if requested (false by default), improved logging  

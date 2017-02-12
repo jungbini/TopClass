@@ -1,0 +1,1 @@
+  Add sequence distribution type to cassandra stress: fix problem with setSeed()  Patch by Ben Slater; reviewed by Stefania Alborghetti for CASSANDRA-12490  

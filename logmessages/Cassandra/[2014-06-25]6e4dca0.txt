@@ -1,0 +1,1 @@
+  Support DISTINCT for static columns  This also fix the behaviour when DISTINCT is not used.  patch by slebresne; reviewed by thobbs for CASSANDRA-7305  

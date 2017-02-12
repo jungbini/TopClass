@@ -1,0 +1,1 @@
+  fix Linux readlink error when running processing-java (issue #1578)  

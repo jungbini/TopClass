@@ -1,0 +1,1 @@
+  winp library patched to fix problem with extracting dll to 'lib' directory under Win7  

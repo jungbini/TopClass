@@ -1,0 +1,1 @@
+  Custom foldings: fix placeholder text for folding in block comments  

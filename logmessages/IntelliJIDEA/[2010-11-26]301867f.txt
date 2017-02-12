@@ -1,0 +1,1 @@
+  added (PY-2092) Quickfix to create a function for an unresolved unqualified reference  

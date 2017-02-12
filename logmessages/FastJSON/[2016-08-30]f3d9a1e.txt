@@ -1,0 +1,1 @@
+  bug fixed for JSONPath array access. issue #799  

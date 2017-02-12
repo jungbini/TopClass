@@ -1,0 +1,1 @@
+  handlebars fix error in tag moving: EA-60140 - CCE: XmlElementFactoryImpl.createXmlDocument  

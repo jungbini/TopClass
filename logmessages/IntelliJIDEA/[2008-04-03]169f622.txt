@@ -1,0 +1,1 @@
+  IDEADEV-20830 fixed (Support svn over proxy without external configuration changes)  

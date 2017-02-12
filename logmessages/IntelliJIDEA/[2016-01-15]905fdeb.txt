@@ -1,0 +1,1 @@
+  git: rebase: make rebase dialog reuse the existing common rebase process  This fixes: IDEA-81093, IDEA-55479, IDEA-55672, IDEA-76778, IDEA-55672  

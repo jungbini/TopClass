@@ -1,0 +1,1 @@
+  Fixes WeightInitiTests error. Switches values for mean/std to fix error.  

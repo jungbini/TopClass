@@ -1,0 +1,1 @@
+  Remove vestige of the base_workspace in the installer  This should fix the current ci.bazel.io breakage.  -- MOS_MIGRATED_REVID=114892993  

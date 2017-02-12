@@ -1,0 +1,1 @@
+  ArrayList improvements:  1) remove must compare object using Kotlin.equals (the same as in contains) 2) use ArrayIterator instead of ListIterator (perfomance) 3) remove duplicated code (refactor) 4) toArray 5) fix "add((index, item)"  correct translation to JavaScript "addAt"  

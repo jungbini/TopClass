@@ -1,0 +1,1 @@
+  GRADLE-2555 - merged the bugfix manually after git 'forgot' about this change. For some reason this bugfix was not merged to the master from the release branch when we were at Gradle 1.3 release candidate.  

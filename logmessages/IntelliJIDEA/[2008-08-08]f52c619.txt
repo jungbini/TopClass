@@ -1,0 +1,1 @@
+  - fixed race condition which lead to data loss in stub index; - on file name change invalidation is scheduled with saving file content  

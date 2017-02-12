@@ -1,0 +1,1 @@
+  Add Expect: 100-Continue support to HTTP input  Previously the input blindly answered with 202 Accepted but instead it should properly support the Expect header. Failing to respond correctly resulted in loss of messages because the client's expectation was broken.  Adding a HttpChunkAggregator fixes the issue while still allowing non-chunked requests to be sent.  fix #1939  

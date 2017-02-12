@@ -1,0 +1,1 @@
+  fix(iOS): add es loc for voice, and fix loc string format  

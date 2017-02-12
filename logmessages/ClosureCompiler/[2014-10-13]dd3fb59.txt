@@ -1,0 +1,1 @@
+ [NEW TYPE INFERENCE] Fix bug in ProcessScope to not re-add namespace properties to namespaces; this has been handled in CollectNamedTypes.  We still need to fix duplicate-property warnings when one or both of the declarations is a namespace. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=77626139  

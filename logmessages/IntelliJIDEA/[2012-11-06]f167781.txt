@@ -1,0 +1,1 @@
+  IDEA-76974 Invisible blocks prevent clicks on text. fixed in better way.  

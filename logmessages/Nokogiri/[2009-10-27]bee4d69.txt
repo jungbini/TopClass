@@ -1,0 +1,1 @@
+  fixing windows tests and ruby 1.9 warnings  

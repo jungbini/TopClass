@@ -1,0 +1,1 @@
+  1. autocompletion for db field types in Generate model dialog. 2. Ability to set advertisement for TextFieldWithAutoCompletion 3. Ability to customize lookup prefix from current editor text prefix in TextFieldWithAutoCompletion  

@@ -1,0 +1,1 @@
+  add small spec about fixing the OverlappingFileException  

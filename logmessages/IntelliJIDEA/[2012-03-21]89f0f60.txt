@@ -1,0 +1,1 @@
+  fix js tests: don't load stub if there's none  

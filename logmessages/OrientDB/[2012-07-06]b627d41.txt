@@ -1,0 +1,1 @@
+  Fixed bug on build.xml file with old naming for "distributed" module  

@@ -1,0 +1,1 @@
+  KAFKA-3272: Add debugging options to kafka-run-class.sh so we can easily run remote debugging  able remote debugging to Kafka tools scripts  Author: Christian Posta <christian.posta@gmail.com>  Reviewers: Grant Henke, Gwen Shapira  Closes #955 from christian-posta/ceposta-enable-jvm-debugging-opts  

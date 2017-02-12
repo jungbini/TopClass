@@ -1,0 +1,1 @@
+le error 77c94ee [AhyoungRyu] Remove bootstrap dialog animation by default  

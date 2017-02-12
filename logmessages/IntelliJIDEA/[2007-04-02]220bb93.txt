@@ -1,0 +1,1 @@
+  bugfix: previous revision lost after changing file with purged history. bugfix: history for object did not include parent changes.  

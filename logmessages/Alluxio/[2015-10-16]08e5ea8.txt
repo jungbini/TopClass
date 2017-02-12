@@ -1,0 +1,1 @@
+  Fixed a bug in RecomputePlanner not to report a lost file if the file does not exist  

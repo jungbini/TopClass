@@ -1,0 +1,1 @@
+  cobertura|emma && fix for groovy; editor options -> lang (initial)  

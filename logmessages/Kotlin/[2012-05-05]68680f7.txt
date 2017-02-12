@@ -1,0 +1,1 @@
+  Fix a bug which caused incorrectly generated js when you call extension literal from extension function.  

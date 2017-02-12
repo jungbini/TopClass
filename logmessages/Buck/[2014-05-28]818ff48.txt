@@ -1,0 +1,1 @@
+  Fixes for several typos and typesetting problems in the docs.  Summary: I read through all the docs over the weekend, and noticed several small typos and typesetting problems. Here are some fixes.  Closes #123  Test Plan: careful inspection  

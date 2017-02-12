@@ -1,0 +1,1 @@
+  better handling of imports null case (fixes #3429)  

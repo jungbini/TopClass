@@ -1,0 +1,1 @@
+  [NTI] Add defsites to Namespaces.  CheckAccessControls benefits from this. Also includes a related bugfix in AccessControlUtils.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=128645778  

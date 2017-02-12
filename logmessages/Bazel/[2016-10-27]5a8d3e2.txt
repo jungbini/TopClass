@@ -1,0 +1,1 @@
+  Move (Bazel)TestSuiteRule to rules.test and drop the Bazel prefix.  -- MOS_MIGRATED_REVID=137365338  

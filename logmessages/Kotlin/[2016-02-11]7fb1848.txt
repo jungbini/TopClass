@@ -1,0 +1,1 @@
+  Minor, fix exception: do not try to get line start offset for line < 0 and line == lineCount()  

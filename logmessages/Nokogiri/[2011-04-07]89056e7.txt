@@ -1,0 +1,1 @@
+  removing code that was working around an old rake bug. (nod to @tmm1)  

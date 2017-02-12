@@ -1,0 +1,1 @@
+  [git] Fix GitTest: add the platform prefix.  

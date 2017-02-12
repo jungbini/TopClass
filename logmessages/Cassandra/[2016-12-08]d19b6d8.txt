@@ -1,0 +1,1 @@
+  testall failure in org.apache.cassandra.cql3.validation.entities.UFTest.testAllNativeTypes (fix missing merge in 3.11)  patch by Robert Stupp; reviewed by Alex Petrov for CASSANDRA-12817  

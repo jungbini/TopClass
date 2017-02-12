@@ -1,0 +1,1 @@
+  Debugger: compile TINY_APP in test once  

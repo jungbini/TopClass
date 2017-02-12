@@ -1,0 +1,1 @@
+  Go Build: output file customisation (fixes #1658)  

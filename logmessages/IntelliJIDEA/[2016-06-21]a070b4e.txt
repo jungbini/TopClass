@@ -1,0 +1,1 @@
+  Java inspection: intentions -> INFORMATION inspections - fix inspection metadata, add inspection descriptions  

@@ -1,0 +1,1 @@
+  Bug fixed: User activity watcher should listen state changes of "pass parent envs" checkbox in EnvironmentVariablesComponent  

@@ -1,0 +1,1 @@
+  Don't check open file limit on Elasticsearch nodes running on Windows, fixes #715  

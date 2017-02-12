@@ -1,0 +1,1 @@
+  fix reading from journal  for some reason message.payload() and message.key() do the opposite of what you expect, key is the payload, and payload is key. need to investigate  

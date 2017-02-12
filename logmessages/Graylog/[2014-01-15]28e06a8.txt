@@ -1,0 +1,1 @@
+  disable setting custom startpages for read-only user. fixes #504  

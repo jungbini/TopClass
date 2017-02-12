@@ -1,0 +1,1 @@
+  make it easier to attach a debugger to integration tests that use a forking gradle executor - example use: ./gradlew -Porg.gradle.integtest.debugmode :launcher:integTest --tests 'org.gradle.launcher.continuous.NonComponentProjectContinuousModeIntegrationTest.rebuilds when a task dependency fails and changes are made to downstream task inputs'  +review REVIEW-5493  

@@ -1,0 +1,1 @@
+  tree bugfix: selection of node causes expanding, caused expansion of selected node even if users expands another node  

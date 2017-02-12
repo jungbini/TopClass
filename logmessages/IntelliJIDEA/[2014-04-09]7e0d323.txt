@@ -1,0 +1,1 @@
+  fixed PY-12637 PEP 8 naming inspection: scandinavian letters  

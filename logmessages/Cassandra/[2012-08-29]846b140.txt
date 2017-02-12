@@ -1,0 +1,1 @@
+  fix broken system.schema_* timestamps on system startup patch by Pavel Yaskevich; reviewed by Jonathan Ellis for CASSANDRA-4561  

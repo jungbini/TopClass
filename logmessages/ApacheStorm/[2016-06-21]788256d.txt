@@ -1,0 +1,1 @@
+  STORM-2097: Improve logging in trident core and examples - Improve logging in trident core, MasterBatchCoordinator,  and examples - Added DebugMemoryMapState  

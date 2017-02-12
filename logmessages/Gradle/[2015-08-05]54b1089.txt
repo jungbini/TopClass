@@ -1,0 +1,1 @@
+  [GRADLE-3324] Moves JDK fix up to AbstractMavenPublishAction  +review REVIEW-5577  

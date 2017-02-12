@@ -1,0 +1,1 @@
+  extracted getIcon and getPresentation for using in other debuggers  

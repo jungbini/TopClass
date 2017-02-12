@@ -1,0 +1,1 @@
+  prepare to fix WEB-14454  Browserify generates incorrect data uri. "charset:" used instead of "charset=" (see https://en.wikipedia.org/wiki/Data_URI_scheme).  

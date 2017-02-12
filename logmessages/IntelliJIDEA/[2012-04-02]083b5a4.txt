@@ -1,0 +1,1 @@
+  fixed EA-35243 - PIEAE: PsiElementBase.getContainingFile  

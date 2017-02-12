@@ -1,0 +1,1 @@
+  lib licenses check: fixed 'sort' method call for new Groovy version  

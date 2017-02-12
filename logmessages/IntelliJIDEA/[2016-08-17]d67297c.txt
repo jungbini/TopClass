@@ -1,0 +1,1 @@
+  IDEA-158654 Debug becomes disabled for Run Configuration with dependency in 'Before run' section: proper fix in ExecutionManager  

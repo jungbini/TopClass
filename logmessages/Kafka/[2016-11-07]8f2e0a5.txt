@@ -1,0 +1,1 @@
+  MINOR: Fix regex on connector path param in ConnectorsResource  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Shikhar Bhushan <shikhar@schmizz.net>, Konstantine Karantasis <konstantine@confluent.io>, Jason Gustafson <jason@confluent.io>  Closes #2108 from ewencp/fix-rest-api-regex  

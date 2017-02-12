@@ -1,0 +1,1 @@
+  fix bug #803 include memory settings with exported applications on macosx  

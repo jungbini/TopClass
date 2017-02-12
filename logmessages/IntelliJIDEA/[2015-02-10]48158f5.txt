@@ -1,0 +1,1 @@
+  accept remove initializer fix in batch mode when no side effects is expected (IDEA-136243)  

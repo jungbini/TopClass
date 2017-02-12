@@ -1,0 +1,1 @@
+  MINOR: Add secondary constructor that takes only `props` in `KafkaConfig`  This fixes a compatibility break for users that use `new KafkaConfig(map)` instead of `KafkaConfig(map)`.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #728 from ijuma/add-secondary-kafka-config-constructor  

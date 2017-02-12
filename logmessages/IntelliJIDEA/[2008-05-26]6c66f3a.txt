@@ -1,0 +1,1 @@
+  Maven: module resolution fix (IDEADEV-26864)  

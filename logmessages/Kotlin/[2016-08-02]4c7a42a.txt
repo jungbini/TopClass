@@ -1,0 +1,1 @@
+  KT-13113 related: KtStringTemplateExpression.singleExpressionOrNull() fixed  

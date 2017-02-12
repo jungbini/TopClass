@@ -1,0 +1,1 @@
+ Freebox binding: fix FTP config compatibility with firmware 3.3  

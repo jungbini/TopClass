@@ -1,0 +1,1 @@
+  Let JUnit do the dirty work of clean up directories. Use this to fix test on coverage build.  +review REVIEW-5555  

@@ -1,0 +1,1 @@
+  tests + fix for bsearch returning not-found-to-the-right patch by jbellis; reviewed by Jun Rao for CASSANDRA-351  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@802078 13f79535-47bb-0310-9956-ffa450edef68  

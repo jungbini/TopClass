@@ -1,0 +1,1 @@
+  Javafx: Quick fix for event handler method's signature: don't store argument type in quick fix, recalculate it when the fix is invoked. (IDEA-151694)  

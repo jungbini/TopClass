@@ -1,0 +1,1 @@
+  make message count work with multiple server nodes  fixes #WEBINTERFACE-319  

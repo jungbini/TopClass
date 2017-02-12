@@ -1,0 +1,1 @@
+  DevKit: move highlighting from DomAnnotator to DomInspection, change JB-errorHandler warning to file-level, cleanup, add quickfix to remove obsolete attribute  

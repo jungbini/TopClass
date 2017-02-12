@@ -1,0 +1,1 @@
+  re-enable thick line code, safari paste bug fix, remove cancel on save changes  

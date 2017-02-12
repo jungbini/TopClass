@@ -1,0 +1,1 @@
+  fix [IDEADEV-11725] for simple cases: 1. when properties are defined in the same file 2. when properties are loaded from property file and the path to that property file is not defined in terms of properties  

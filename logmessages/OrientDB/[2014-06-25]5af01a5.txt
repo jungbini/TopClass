@@ -1,0 +1,1 @@
+  fixed test that are valid only for the csv serializer, forced to use everytime the csv serializer  

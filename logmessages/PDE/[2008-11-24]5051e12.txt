@@ -1,0 +1,1 @@
+  stroked lines drawing on top of everything else in P3D (bug #1032)  

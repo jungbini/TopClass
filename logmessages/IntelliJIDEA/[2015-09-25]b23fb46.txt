@@ -1,0 +1,1 @@
+  ICS: fix broken copyLocalConfig again and test  

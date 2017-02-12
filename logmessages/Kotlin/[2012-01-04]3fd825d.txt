@@ -1,0 +1,1 @@
+  KT-873 fixing wrong register calculations  

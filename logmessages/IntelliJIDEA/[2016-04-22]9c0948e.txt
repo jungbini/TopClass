@@ -1,0 +1,1 @@
+e where click was made in this case, to move caret there if mouse press is continued with a drag, just like it's done when initial mouse press is inside gutter icons area  

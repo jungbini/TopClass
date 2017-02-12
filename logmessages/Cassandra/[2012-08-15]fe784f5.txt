@@ -1,0 +1,1 @@
+  (cql3) fix defining more than one PK to be invalid patch by Sylvain Lebresne; reviewed by Pavel Yaskevich for CASSANDRA-4477  

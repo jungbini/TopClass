@@ -1,0 +1,1 @@
+  Do not throw on quick-fix creation, just return null  

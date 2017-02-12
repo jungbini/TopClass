@@ -1,0 +1,1 @@
+  fixed PY-10798 False positive on "must implement all abstract methods" inspection  

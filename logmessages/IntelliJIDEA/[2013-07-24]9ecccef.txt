@@ -1,0 +1,1 @@
+  fixed PY-10330 Web2Py: do not add __init__.py on moving view to some directory  

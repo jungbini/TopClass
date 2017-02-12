@@ -1,0 +1,1 @@
+  Server clustering: fixed bug on leader election when there are few seconds between messages  

@@ -1,0 +1,1 @@
+  Spellchecker: fix suggestions for words in camel case, improve spellchecker configuration, introduce dictionary managment  

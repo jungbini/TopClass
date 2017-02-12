@@ -1,0 +1,1 @@
+  fixed PY-6978 Cannot pass more than one command line option to py.test  

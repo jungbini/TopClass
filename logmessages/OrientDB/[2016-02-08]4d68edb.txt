@@ -1,0 +1,1 @@
+  fixed create cluster command generation for support special characters.  

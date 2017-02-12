@@ -1,0 +1,1 @@
+  Make buck install -r launch applications like the launcher does  Summary:This 

@@ -1,0 +1,1 @@
+  fix android dist check, incorporating opengl2, todo items per discussions  

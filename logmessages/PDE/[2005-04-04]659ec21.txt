@@ -1,0 +1,1 @@
+  size(300, 300, OPENGL).. rewrite of present mode.. java 1.4 only.. a zillion other runtime fixes  

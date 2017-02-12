@@ -1,0 +1,1 @@
+ fixed possibility of npe in ZookeeperClusterDataManager. #1472  1. fixed possibility of npe. 2. fixed typos  

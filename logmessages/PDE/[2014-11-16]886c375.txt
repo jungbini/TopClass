@@ -1,0 +1,1 @@
+  fixed completion offset bug, grey color disabled for now  

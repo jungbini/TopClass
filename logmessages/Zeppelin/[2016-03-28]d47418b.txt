@@ -1,0 +1,1 @@
+71a0308 [Khalid Huseynov] dont return null for bindings  

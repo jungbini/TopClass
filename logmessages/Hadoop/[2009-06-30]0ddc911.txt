@@ -1,0 +1,1 @@
+  HBASE-1588 Rig our build to support our new contribs -- stargate and THBase/ITHBase; Try and fix the broke clover build issue up on hudson  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@789559 13f79535-47bb-0310-9956-ffa450edef68  

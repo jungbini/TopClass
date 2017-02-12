@@ -1,0 +1,1 @@
+ HDAnywhere : fix NullPointerException in getIntervalList()  

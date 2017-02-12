@@ -1,0 +1,1 @@
+  fixed EA-32535 - SIOOBE: TextRange.substring  

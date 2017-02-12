@@ -1,0 +1,1 @@
+  suppress to workaround javac bug with fields with lambda initializers  

@@ -1,0 +1,1 @@
+  declare collections as interface: cleanup duplicated code; fix 'weaken to null' suggestion for variables; weakest type finder: ignore calls with type cast as parent (IDEA-145398)  

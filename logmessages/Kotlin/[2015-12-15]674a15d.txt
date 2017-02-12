@@ -1,0 +1,1 @@
+  Disable test until KT-10405 not fixed  

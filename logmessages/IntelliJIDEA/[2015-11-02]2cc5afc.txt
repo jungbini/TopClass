@@ -1,0 +1,1 @@
+  fixIDEAUrl works for Mac / Linux (IDEA-146869)  

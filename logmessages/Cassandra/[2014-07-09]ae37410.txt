@@ -1,0 +1,1 @@
+  ninja fix LegacySSTable test with new versioned files from 2.0  

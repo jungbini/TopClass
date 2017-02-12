@@ -1,0 +1,1 @@
+ tests.  Instead of failing before any test methods even run due to neglecting to start HBase, the tests now start HBase and then fail substantial assertions.  

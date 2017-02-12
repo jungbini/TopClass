@@ -1,0 +1,1 @@
+ Merge pull request #2334 from guobingkun/fix_doc  [fix doc]: Coordinator druid.coordinator.merge.on triggers an Append Task  commit b07db4089cbcf2d7105bebadfb8ca66648711ec7  fix doc: Setting druid.coordinator.merge.on will trigger an Append Task instead of Merge Task.  

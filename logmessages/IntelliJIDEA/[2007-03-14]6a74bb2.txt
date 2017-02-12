@@ -1,0 +1,1 @@
+  Partial fix for IDEADEV-13820. Parsing is correct now, error messages left to correct (illegal escape, unterminated literal, etc.)  

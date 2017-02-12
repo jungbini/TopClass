@@ -1,0 +1,1 @@
+  [groovy] groovydoc: find class from doc owner & fix doc owner for variable declarations (IDEA-147924)  

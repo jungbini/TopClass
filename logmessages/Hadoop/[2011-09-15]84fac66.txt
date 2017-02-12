@@ -1,0 +1,1 @@
+  HDFS-2331. Fix WebHdfsFileSystem compilation problems for a bug in JDK version < 1.6.0_26.  Contributed by Abhijit Suresh Shingate   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security@1170997 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  IDEA-61066 ("Overly broad 'catch' block" inspection displays false warning, causing quick fix to produce invalid code)  

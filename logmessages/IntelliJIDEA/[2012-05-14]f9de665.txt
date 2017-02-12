@@ -1,0 +1,1 @@
+  fixed PY-3245 Should complain about named param after *args on Python 2.5  

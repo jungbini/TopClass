@@ -1,0 +1,1 @@
+  YARN-1549. Fixed a bug in ResourceManager's ApplicationMasterService that was causing unamanged AMs to not finish correctly. Contributed by haosdent. svn merge --ignore-ancestry -c 1554886 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1554887 13f79535-47bb-0310-9956-ffa450edef68  

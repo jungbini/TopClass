@@ -1,0 +1,1 @@
+  A fix for IDEA-131190 Auto formatting formatting forwards but not backwards  

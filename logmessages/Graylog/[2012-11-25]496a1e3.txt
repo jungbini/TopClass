@@ -1,0 +1,1 @@
+  default timespan for quickfilter  fixes #WEBINTERFACE-376  

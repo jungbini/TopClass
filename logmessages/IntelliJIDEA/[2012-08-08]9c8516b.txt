@@ -1,0 +1,1 @@
+  If someone debugs, don't kill softly - that doesn't help. Kill very hard instead.  

@@ -1,0 +1,1 @@
+  fix NPE, wait when a new bridge becomes connected  

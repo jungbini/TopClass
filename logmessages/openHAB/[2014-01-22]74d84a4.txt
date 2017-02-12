@@ -1,0 +1,1 @@
+ Issue #776: Remote debugging was not working on Windows.  

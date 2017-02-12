@@ -1,0 +1,1 @@
+  IDEA-85626 "Field declaration" usage type group mixes together fields of class and fields of its inner classes fixed  

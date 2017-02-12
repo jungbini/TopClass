@@ -1,0 +1,1 @@
+  fix scroller in new welcome screen  

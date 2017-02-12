@@ -1,0 +1,1 @@
+  Fixed buck plugin go to BUCK file  Summary: If you go to buck file, it may stumble upon directories called buck. This fixes that issue.  Test Plan: Tested in intellij  Reviewed By: alsutton  fb-gh-sync-id: df1e51f shipit-source-id: df1e51f  

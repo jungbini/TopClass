@@ -1,0 +1,1 @@
+  Removed suppression of diagnostics for dummy files (which was needed to fix KT-6810 but it's not reproducible anymore)  

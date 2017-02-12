@@ -1,0 +1,1 @@
+  YARN-2753. Fixed a bunch of bugs in the NodeLabelsManager classes. Contributed by Zhihai xu.  

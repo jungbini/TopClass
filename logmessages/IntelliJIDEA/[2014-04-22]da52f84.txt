@@ -1,0 +1,1 @@
+  IDEA-79312 text cursor gets lost - could bee disabled by focus.fix.lost.cursor key  

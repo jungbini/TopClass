@@ -1,0 +1,1 @@
+  fix(iOS): Updated hockey app key for Modul Bank  

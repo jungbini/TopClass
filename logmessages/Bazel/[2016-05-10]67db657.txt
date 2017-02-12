@@ -1,0 +1,1 @@
+  Print an error message when the wrong type of input is given as an aspect  And add a test.  Another issue I found while attempting to reproduce #1228, but not actually a fix for that bug.  -- MOS_MIGRATED_REVID=121998625  

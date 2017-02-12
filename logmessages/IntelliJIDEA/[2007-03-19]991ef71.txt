@@ -1,0 +1,1 @@
+  assertion in RefCounHolder fixed for DomFactory, bit of performance  

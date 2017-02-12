@@ -1,0 +1,1 @@
+  platform: fixed caching of component instances (incorrect import was added during move refactoring)  

@@ -1,0 +1,1 @@
+  Use the Win32 API to create and query junctions in the C++ client.  This change makes it possible to build Bazel with itself in server mode.  Progress towards #930 . Does not completely fix it because there are still a bunch of issues that need to be taken care of, but it's usable.  -- MOS_MIGRATED_REVID=120994369  

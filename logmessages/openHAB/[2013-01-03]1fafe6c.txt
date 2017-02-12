@@ -1,0 +1,1 @@
+  changed referenced logback config to logback_debug.xml  

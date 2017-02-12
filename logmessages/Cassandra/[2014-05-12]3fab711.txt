@@ -1,0 +1,1 @@
+  Follow up on CASSANDRA-7189  fix hang when no CF name is given  

@@ -1,0 +1,1 @@
+  Minor fix to prevent concurrent modification error when adding symmetric slots  

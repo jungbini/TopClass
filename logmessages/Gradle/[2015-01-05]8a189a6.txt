@@ -1,0 +1,1 @@
+  Inlined AbstractPlayApp fixture into PlayApp  

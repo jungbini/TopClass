@@ -1,0 +1,1 @@
+  cluster lock fix for new rids and defined class + rib bag tx test #6232  

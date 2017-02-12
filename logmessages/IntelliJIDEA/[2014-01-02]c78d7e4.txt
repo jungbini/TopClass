@@ -1,0 +1,1 @@
+  LOG.debug which file is currently checked when running inspections globally (IDEA-118567)  

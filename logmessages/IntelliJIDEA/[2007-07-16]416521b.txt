@@ -1,0 +1,1 @@
+  update to latest svnkit; enable test for IDEADEV-16251 which is now fixed  

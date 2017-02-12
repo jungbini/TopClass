@@ -1,0 +1,1 @@
+ Changed tooltip text for vals captured in a closure.  #KT-1744 fixed  

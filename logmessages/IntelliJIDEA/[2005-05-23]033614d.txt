@@ -1,0 +1,1 @@
+  fixed NPEs due to usage of old highlighter for the jsp  

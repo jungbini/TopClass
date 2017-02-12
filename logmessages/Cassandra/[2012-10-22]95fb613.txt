@@ -1,0 +1,1 @@
+  fix potential infinite loop in get_count; patch by yukim reviewed by Tyler Hobbs for CASSANDRA-4833  

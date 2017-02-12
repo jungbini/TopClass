@@ -1,0 +1,1 @@
+  a cosmetic change in groovy debugger evaluation which seems to help with blinking GroovyDebuggerTest  debugged vm sometimes can't find java.lang.StackTraceElement class and check that its array can be passed to Arrays.toString. Looks like a JVM concurrency issue because in a second attempt to find the class it's returned successfully.  

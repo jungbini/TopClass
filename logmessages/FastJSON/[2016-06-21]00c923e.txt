@@ -1,0 +1,1 @@
+  enum parse support empty string. bug fixed for issue #676.  

@@ -1,0 +1,1 @@
+ Key fix is getting derivative of prevMemCellActivation for memroy cell error. Current gap where activations are not passed in and it assumes using the same layer weights for input weight gradients. A few adjustments to tests and to names to help follow.  

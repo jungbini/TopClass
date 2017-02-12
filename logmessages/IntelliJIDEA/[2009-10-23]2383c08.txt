@@ -1,0 +1,1 @@
+  fix module editors: return modifiable root model proxy to propagate events correctly  

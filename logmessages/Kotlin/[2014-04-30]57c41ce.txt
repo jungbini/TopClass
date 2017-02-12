@@ -1,0 +1,1 @@
+  Smart completion: added test for KT-4929 fixed by svtk  

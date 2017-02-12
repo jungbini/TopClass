@@ -1,0 +1,1 @@
+  fixed lighting bugs in A3D  

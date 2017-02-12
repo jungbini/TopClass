@@ -1,0 +1,1 @@
+  disabled host upsert for now. re-writing with caching mechanism to not overload mongodb on high message rates. also fixed AMQP receiver bug after merge  

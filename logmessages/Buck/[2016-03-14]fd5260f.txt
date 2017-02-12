@@ -1,0 +1,1 @@
+  Always pass charset to String.getBytes(Charset)  Summary:I'm about to add a blacklist for calling `String.getBytes()` without specifying a `Charset`. (Doing so means Buck uses the default system charset, which 

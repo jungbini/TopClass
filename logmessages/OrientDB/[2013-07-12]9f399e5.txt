@@ -1,0 +1,1 @@
+  Distributed: fixed bug on propagating commands among the cluster nodes  

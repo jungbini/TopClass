@@ -1,0 +1,1 @@
+ minor test fixes; no more toString comparison  

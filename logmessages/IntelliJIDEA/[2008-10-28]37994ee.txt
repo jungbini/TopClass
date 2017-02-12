@@ -1,0 +1,1 @@
+  git4idea: minor refactoring, fixed formatting, removed unused methods that has been replaced by OS process handler.  

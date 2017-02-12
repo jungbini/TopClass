@@ -1,0 +1,1 @@
+  fix(core): clear dialog after deleting message if head message has PENDING status  

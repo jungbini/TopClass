@@ -1,0 +1,1 @@
+  [git] Pull: remove fetch+merge hack used for JGit  JGit is no more used for HTTP operations.  This fixes IDEA-101902: git pull will be called only for the chosen remote.  

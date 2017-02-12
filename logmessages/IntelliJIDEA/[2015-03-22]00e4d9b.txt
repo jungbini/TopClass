@@ -1,0 +1,1 @@
+  IDEA-57472 Floating tool windows should be more like native windows, with maximize/minimize/close buttons (NPE fix)  

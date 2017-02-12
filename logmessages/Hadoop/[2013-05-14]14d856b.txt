@@ -1,0 +1,1 @@
+  MAPREDUCE-5240. Fix a bug in MRAppMaster because of which OutputCommitter could not access credentials set by the user. Contributed by Vinod Kumar Vavilapalli.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1482175 13f79535-47bb-0310-9956-ffa450edef68  

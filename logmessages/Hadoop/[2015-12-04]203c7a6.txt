@@ -1,0 +1,1 @@
+  Addendum fix for HDFS-9314 to fix compilation error caused by diamond operator.  Change-Id: Ia8b8142c2cd3b5ec413a7da2bf037be64040dc85  

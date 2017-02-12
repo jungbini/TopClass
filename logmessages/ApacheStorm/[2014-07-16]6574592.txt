@@ -1,0 +1,1 @@
+  Fix bug in storm spout/bolt  initialization - first write a file names as the pid number and then send the pid to parent  

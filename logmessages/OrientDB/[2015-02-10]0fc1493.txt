@@ -1,0 +1,1 @@
+  fixed issue on fieldtype of not deserialized field #3418  

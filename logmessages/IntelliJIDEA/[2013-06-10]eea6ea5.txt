@@ -1,0 +1,1 @@
+  IDEA-108602 Gradle: Integrate 'debug task' to the execution system  Trimming vm options before distributing them to the gradle api. It seems that the later is rather fragile in a way that it fails if the options starts with white space  

@@ -1,0 +1,1 @@
+  fixed mutual subclass visibility issue, removed use of PsiSearchHelper in favor of ClassInheritorSearch  

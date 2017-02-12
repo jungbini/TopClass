@@ -1,0 +1,1 @@
+  add method to Codec to allow modifying the default value of arbitrary configuration fields  fixes #738  ConfigurationField now provides an accessor to modify the default value after construction  

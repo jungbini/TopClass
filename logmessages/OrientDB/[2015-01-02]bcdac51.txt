@@ -1,0 +1,1 @@
+  removed the temporary fix of binary fetch plan. issue #3263  

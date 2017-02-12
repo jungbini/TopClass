@@ -1,0 +1,1 @@
+  IDEA-122792: do not schedule toolbar refresh for partially initialized target component  this is better fix for 193b3ae  if target component is not shown yet, ModalityState.stateForComponent() will return NON_MODAL, causing memory leak  

@@ -1,0 +1,1 @@
+  Conflicts: hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/protocol/TestBlockListAsLongs.java  (cherry picked from commit 1ca2ab4013268ccab72e88a311a37262dcd867b9)  

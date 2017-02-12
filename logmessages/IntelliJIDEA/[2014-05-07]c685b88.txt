@@ -1,0 +1,1 @@
+  fix "already disposed" from EditorNotifications  

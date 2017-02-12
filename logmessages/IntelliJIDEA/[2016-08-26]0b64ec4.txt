@@ -1,0 +1,1 @@
+  IDEA-160325 Replace Arrays.asList(...).stream() with Stream.of(...) quick fix removes generic type parameter which may lead to compilation error  

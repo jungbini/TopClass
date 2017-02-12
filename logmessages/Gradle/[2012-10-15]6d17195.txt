@@ -1,0 +1,1 @@
+  Added MavenHttpRepository fixture, to be used to declare expectations about http requests to the artifacts of an HTTP maven repository. Started using this in a few integration tests.  

@@ -1,0 +1,1 @@
+  Type checking fixes: Python strings are iterable, classes are callable  

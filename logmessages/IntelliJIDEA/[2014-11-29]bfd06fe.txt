@@ -1,0 +1,1 @@
+  [vcs-log] add color manager and fix new filter creation  

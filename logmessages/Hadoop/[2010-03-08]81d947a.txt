@@ -1,0 +1,1 @@
+  Javadoc, copyright, static analysis cleanup. Bug fix in HConnectionManager.java, code removal in Put.java.    git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@920548 13f79535-47bb-0310-9956-ffa450edef68  

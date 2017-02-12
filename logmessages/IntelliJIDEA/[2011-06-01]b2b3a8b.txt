@@ -1,0 +1,1 @@
+  fixed PY-3764 Incorrect highlighting in triple double-quoted docstrings inspection  

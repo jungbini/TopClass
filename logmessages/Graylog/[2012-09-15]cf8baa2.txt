@@ -1,0 +1,1 @@
+  fix nullpointerexception when performing message cleanup  

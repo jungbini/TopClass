@@ -1,0 +1,1 @@
+  fixed issue #4177 - Cannot create unique_hash_index in distributed mode  

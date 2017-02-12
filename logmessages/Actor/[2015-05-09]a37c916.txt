@@ -1,0 +1,1 @@
+  fix(js): More fixes on lists, fixed crash on empty message in dialog list  

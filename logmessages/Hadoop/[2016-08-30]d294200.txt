@@ -1,0 +1,1 @@
+  HADOOP-13563. hadoop_subcommand_opts should print name not actual content during debug  Signed-off-by: Allen Wittenauer <aw@apache.org>  

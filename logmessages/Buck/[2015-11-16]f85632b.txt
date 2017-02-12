@@ -1,0 +1,1 @@
+  Changes for fixing buck build  Summary: Buck plugin can't be built from command line due to missing jars and incorrect deps. Changes for fixing the same.  Test Plan: Built locally and verified that the ideabuck plugin jar is generated in buck-out.  

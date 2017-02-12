@@ -1,0 +1,1 @@
+  RunContentDescriptor should not register itself as data provider  it is client responsibility (so, we can don't worry about unregister)  DebuggerSessionTab is not modified  but it is not used anymore (will be removed later after review)  

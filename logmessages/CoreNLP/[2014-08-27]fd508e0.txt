@@ -1,0 +1,1 @@
+  AnCora processor test: use SpanishTreeNormalizer when reading; add a third tree test fixture (no test yet)  

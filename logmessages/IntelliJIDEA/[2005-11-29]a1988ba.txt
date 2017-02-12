@@ -1,0 +1,1 @@
+  fixed stack overflow when entity used in dtd was not found  

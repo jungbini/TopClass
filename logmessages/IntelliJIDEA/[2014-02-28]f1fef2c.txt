@@ -1,0 +1,1 @@
+  correction to editor fixture to fix failing tests (IDEA-80056)  

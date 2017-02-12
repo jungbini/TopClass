@@ -1,0 +1,1 @@
+  Disable the workaround for the Ruby bug #8074 for Ruby >= 2.1.0.  

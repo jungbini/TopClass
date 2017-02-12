@@ -1,0 +1,1 @@
+  Enable VM crash protection on w32, linux Move native library init from Pointer to Native Fix Pointer.setNativeLong bug Make library initialization explicit in Pointer/NativeLibrary Javadoc cleanup  git-svn-id: https://svn.java.net/svn/jna~svn/trunk@279 2f8a963e-d2e4-e7d0-97bf-ccb7fcea9d80  

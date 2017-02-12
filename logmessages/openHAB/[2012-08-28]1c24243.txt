@@ -1,0 +1,1 @@
+  fix for #110 - handleNewCall does now check null values in incoming asterisk event  

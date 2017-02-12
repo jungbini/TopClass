@@ -1,0 +1,1 @@
+  svn merge -c 1547173 merging from trunk to branch-0.23 to fix: HDFS-5557. Write pipeline recovery for the last packet in the block may cause rejection of valid replicas.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1547181 13f79535-47bb-0310-9956-ffa450edef68  

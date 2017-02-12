@@ -1,0 +1,1 @@
+  fixed NPE in case of task file invalidation  

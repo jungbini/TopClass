@@ -1,0 +1,1 @@
+  Removed Darcula color scheme from bundle list until IDEA-89181 is fixed.  

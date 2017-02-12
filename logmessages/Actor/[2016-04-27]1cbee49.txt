@@ -1,0 +1,1 @@
+  fix(android+core): upload picture after kill app  

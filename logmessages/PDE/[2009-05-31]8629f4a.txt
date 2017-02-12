@@ -1,0 +1,1 @@
+  fix problem with imageMode(CENTER) in P2D (bug #1232)  

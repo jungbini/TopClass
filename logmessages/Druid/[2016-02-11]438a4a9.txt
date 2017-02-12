@@ -1,0 +1,1 @@
+ Merge pull request #2453 from DreamLab/fix/topn_sorting_anomaly  Fix for unstable behavior of HyperLogLog comparator  commit 6b45a9e4a795d85d244decdb08d0f1b43857ced9  Merge pull request #2449 from b-slim/fix_docs  fix docs about search query limit  commit 438a4a99708eed151c8a97cae18fdcab14192ea3  fix docs about search query limit  

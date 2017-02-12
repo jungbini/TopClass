@@ -1,0 +1,1 @@
+ properly resize alert annotator on window resize. fixes #728  

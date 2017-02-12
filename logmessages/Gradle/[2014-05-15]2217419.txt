@@ -1,0 +1,1 @@
+  Doc fixes for renamed IvyModuleDescriptor class  

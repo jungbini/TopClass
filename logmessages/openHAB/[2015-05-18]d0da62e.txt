@@ -1,0 +1,1 @@
+  ItemUIRegistry: Improved getLabel error logging and fixed warning in getState error logging.  Signed-off-by: Pauli Anttila <pauli.anttila@gmail.com>  

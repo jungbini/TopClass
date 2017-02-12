@@ -1,0 +1,1 @@
+  fix tests  HeavyTestFixtureBuilderImpl must allow allowNonPublicClasses as our production does  

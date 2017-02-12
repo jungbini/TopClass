@@ -1,0 +1,1 @@
+  use up to date TransactionGuard when dispatching swing events; hopefully this will fix flaky TransactionTest  

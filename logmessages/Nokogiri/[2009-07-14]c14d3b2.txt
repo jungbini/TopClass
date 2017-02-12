@@ -1,0 +1,1 @@
+  fixing a segfault when an empty string is sent to Node#inner_html=. closes #88  

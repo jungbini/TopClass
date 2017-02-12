@@ -1,0 +1,1 @@
+  fix initial selection in file chooser when only part of the entered path exists (IDEADEV-37035)  

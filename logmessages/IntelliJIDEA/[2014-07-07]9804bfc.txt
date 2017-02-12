@@ -1,0 +1,1 @@
+  Plain completion contributor: better api  use a boolean key to indicate plain prefix matcher need.  

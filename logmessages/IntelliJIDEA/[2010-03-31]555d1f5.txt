@@ -1,0 +1,1 @@
+  IDEA-53403 GroovyHotSwap Plugin causes Debugger Session to fail if jdk < 1.5  

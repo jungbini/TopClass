@@ -1,0 +1,1 @@
+  actually fix CSV export on stream results filter on that stream  fixes #452  

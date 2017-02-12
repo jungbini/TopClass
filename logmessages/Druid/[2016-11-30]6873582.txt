@@ -1,0 +1,1 @@
+  Add, fix equals, hashCode, toString on various classes. (#3723)  * TimeFormatExtractionFn: Add toString.  * InDimFilter: Add toString, allow accepting any Collection of values.  * DimensionTopNMetricSpec: Fix toString.  * InvertedTopNMetricSpec: Add toString.  * HyperUniqueFinalizingPostAggregator: Add equals, hashCode, toString.  

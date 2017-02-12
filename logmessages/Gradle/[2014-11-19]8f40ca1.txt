@@ -1,0 +1,1 @@
+  test play app is running in common AbstractPlayAppIntegrationTest  - remove PlayRunIntegrationTest - remove unused playNew resources - remove unused method in PlayRun - remove explicit log level setup (debug) in PlayApplicationRunner  TODO: - fix test on windows - fix CustomPlayApp sample to run correctly  

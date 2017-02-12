@@ -1,0 +1,1 @@
+ Document warning configuration and fix strdup (#define based on compiler)  

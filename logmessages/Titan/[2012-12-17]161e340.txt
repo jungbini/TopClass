@@ -1,0 +1,1 @@
+  Fixed bug that causes Titan to not load the right edges when a limit is applied to the query. This bug had two consequences: 1) For queries with limits and constraints, it would only load a partial result set (or an empty one). 2) Subsequent queries on the same vertex would also return only partial result sets (even if those queries did not have a limit on them).  

@@ -1,0 +1,1 @@
+ Merge branch 'python-fixes'  commit 2dedd15433fb7fbd78265a429c8c3249550c9e39  fixed high CPU usage in qt type provider (getReferenceExpressionType used in Inspections)  

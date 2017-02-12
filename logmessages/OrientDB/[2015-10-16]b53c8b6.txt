@@ -1,0 +1,1 @@
+  fixup imports of Assert to testng, add lucene to modules in parent pom  

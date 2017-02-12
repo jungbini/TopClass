@@ -1,0 +1,1 @@
+  ignore lines that begin with "." in dex metadata since these lines represent dex store configuration and not files  Summary: metadata files can have store metadata which is indicated with a "." prefixing the line  Test Plan: update unit tests  Reviewed By: marcinkosiba  fbshipit-source-id: 17a467d  

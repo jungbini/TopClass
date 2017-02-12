@@ -1,0 +1,1 @@
+  fixed layout: 'coverage' and 'structural search' plugins included in both UE and CE  

@@ -1,0 +1,1 @@
+  MINOR: Security doc fixes  Simple fixes that have tripped users.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #745 from ijuma/security-doc-improvements  

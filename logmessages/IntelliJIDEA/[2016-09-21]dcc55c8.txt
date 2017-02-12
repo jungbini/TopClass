@@ -1,0 +1,1 @@
+  [groovy] unnecessary semicolon: check siblings not leafs  This fixes various cases like semicolon right after '->'  in closure and just before closing '}'.  

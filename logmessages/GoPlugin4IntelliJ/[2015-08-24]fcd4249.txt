@@ -1,0 +1,1 @@
+  add simple go project generator for small IDEs, fix #1763  

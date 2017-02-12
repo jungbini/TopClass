@@ -1,0 +1,1 @@
+  fixed [RUBY-6943]: test runner shoud compact multiline tests descriptions  

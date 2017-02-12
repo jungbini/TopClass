@@ -1,0 +1,1 @@
+  work on loglevel management  fixes #173, relates #201  

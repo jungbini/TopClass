@@ -1,0 +1,1 @@
+  Encode linefeed in SimpleXmlWriter; fix failing multiline scala test.  

@@ -1,0 +1,1 @@
+  KT-4568 Bugfix: Reformatted code to adhere to style guides. Removed unreachable cases in when expression for ConvertNegatedExpression. Fixed last element access. Changed array list to simple list.  

@@ -1,0 +1,1 @@
+  ignore case with D and F modifiers (fixes #3707)  

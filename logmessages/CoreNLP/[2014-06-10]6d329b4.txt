@@ -1,0 +1,1 @@
+  fixed bug in matching phrases (dependence on rawFreq)  

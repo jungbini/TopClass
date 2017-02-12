@@ -1,0 +1,1 @@
+  fix filetextfield path completion: do not hide current directory if lastChar != File.separatorChar + break currentSelection cycle if match found  

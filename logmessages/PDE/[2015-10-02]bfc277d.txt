@@ -1,0 +1,1 @@
+  inits ptexture, fixes #3947  

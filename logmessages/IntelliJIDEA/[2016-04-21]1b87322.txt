@@ -1,0 +1,1 @@
+  inspection tool window: do node include suppressed and fixed nodes to statistics  

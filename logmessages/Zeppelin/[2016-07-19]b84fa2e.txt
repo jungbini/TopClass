@@ -1,0 +1,1 @@
+ tag in navbar 2eca49c [CloverHearts] Merge branch 'master' into navbar-userid-padding cb055f1 [CloverHearts] fixed user config button in navbar  (cherry picked from commit daceee568874a1c98c54ae487700858d2300854b) Signed-off-by: Mina Lee <minalee@apache.org>  Conflicts: zeppelin-web/src/components/navbar/navbar.html  

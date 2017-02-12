@@ -1,0 +1,1 @@
+  fix present mode on os x  

@@ -1,0 +1,1 @@
+  IDEA-102173 Android XML: automatically insert app-level namespace when complete custom attrs instead of inserting it without an prefix  

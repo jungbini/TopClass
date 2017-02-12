@@ -1,0 +1,1 @@
+  [NTI] Handle function declarations on namespaces more precisely (by calling visitFunctionLate, like prototype methods).  Bugfixes: - Don't specialize ? to an imprecise type in comparisons, it can lead to spurious warnings. - Don't crash when meeting incompatible functions. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=111482222  

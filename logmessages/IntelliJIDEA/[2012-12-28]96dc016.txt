@@ -1,0 +1,1 @@
+  fix String build in CollitLogData fix clear Cache in Hash add simple memory usage test  

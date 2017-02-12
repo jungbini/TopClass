@@ -1,0 +1,1 @@
+  fixed PY-5139 Missing docstring inspection should have a quickfix  

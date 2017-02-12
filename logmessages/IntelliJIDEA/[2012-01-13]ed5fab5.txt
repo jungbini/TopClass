@@ -1,0 +1,1 @@
+  android+maven: fix resource overlays; remove useless setting from facet editor  

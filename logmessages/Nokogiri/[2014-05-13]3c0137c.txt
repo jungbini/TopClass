@@ -1,0 +1,1 @@
+  Add support for building a universal binary.  If the target ruby is universal, the bundled libraries must be built with the same architecture specification as the ruby itself.  This should fix #1096.  

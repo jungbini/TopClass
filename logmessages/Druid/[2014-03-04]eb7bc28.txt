@@ -1,0 +1,1 @@
+ fix synchronization  getDimvalues can also add to the dimension, protect it properly  

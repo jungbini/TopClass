@@ -1,0 +1,1 @@
+  fixed PY-2915 Convert double-quoted string to single-quoted string: breaks code in case of escaped characters  

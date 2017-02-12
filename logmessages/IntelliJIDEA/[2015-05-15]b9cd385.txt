@@ -1,0 +1,1 @@
+  [groovy] fix space existance between token within strings (IDEA-140304)  

@@ -1,0 +1,1 @@
+  Use Condition instead of a BooleanFunction.  Relates to IDEA-109511 Quick-fix of "Git Add" for tracked files.  

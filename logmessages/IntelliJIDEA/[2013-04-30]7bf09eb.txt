@@ -1,0 +1,1 @@
+  IDEA-105729 No change in the project when maven profile is activated with a property revert bad fix.  

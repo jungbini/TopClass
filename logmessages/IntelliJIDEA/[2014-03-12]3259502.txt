@@ -1,0 +1,1 @@
+  fix NavBar blinking and resizing on Color Scheme change due to async tweaking in updateUI  

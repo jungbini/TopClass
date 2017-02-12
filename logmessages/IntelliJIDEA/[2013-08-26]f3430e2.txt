@@ -1,0 +1,1 @@
+  fixed PY-9400 Not added super class call with suggestion box  

@@ -1,0 +1,1 @@
+  HADOOP-11369. Fix new findbugs warnings in hadoop-mapreduce-client, non-core directories. Contributed by Li Lu.  

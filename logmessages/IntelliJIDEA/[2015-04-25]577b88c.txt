@@ -1,0 +1,1 @@
+  Xml/Jsp formatter tests fixes (WEB-12840, WEB-16223)  

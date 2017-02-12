@@ -1,0 +1,1 @@
+  execution to platform move [missing dependencies resolution + load settings from template fix + context action is now per Executor, not Runner]  

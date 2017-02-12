@@ -1,0 +1,1 @@
+  IDEA-138483 Issue with setting of dynamic variable in debugger of groovy script  

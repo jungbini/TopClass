@@ -1,0 +1,1 @@
+  KT-3553 Problem with propagation for extension functions  #KT-3553 fixed  

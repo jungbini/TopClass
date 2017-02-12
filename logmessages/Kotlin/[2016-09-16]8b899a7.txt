@@ -1,0 +1,1 @@
+  Allow to avoid rebuilding application in debugger tests on local machine  

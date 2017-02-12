@@ -1,0 +1,1 @@
+ Merge pull request #598 from metamx/fix-bysegment  fix BySegmentQueryRunner  commit 93f97a5d865d4184b2a2fc2ca8e10df183d38eb4  fix bysegment-query-runner  

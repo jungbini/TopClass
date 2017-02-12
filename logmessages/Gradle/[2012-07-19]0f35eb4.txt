@@ -1,0 +1,1 @@
+  GRADLE-2318: fix failing ci build; extract html parsing to ApacheDirectoryListingParser; todo: cleaning up ApacheDirectoryListingParser.  

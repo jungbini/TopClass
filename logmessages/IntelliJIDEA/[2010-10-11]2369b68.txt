@@ -1,0 +1,1 @@
+  problem description: navigation 2 injected elements fixed: text range is already translated to parent file offsets  

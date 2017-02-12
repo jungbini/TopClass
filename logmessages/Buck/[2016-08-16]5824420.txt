@@ -1,0 +1,1 @@
+  lua: fix builds using native starter  Summary: A previous change to support merging the native starter into the omnibus support also dropped the native starter deps when not using omnibus.  Test Plan: CI  Reviewed By: yiding  fbshipit-source-id: d6b650c  

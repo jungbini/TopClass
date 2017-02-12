@@ -1,0 +1,1 @@
+  fixed bug when trying to initialize rule variables from within rules  

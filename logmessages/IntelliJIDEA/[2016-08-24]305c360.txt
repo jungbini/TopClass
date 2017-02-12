@@ -1,0 +1,1 @@
+  eslint, provide short descriptions for properties; fix so that description is correctly combined if $ref is also used  

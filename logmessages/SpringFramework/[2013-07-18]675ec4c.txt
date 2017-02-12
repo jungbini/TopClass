@@ -1,0 +1,1 @@
+://github.com/SpringSource/spring-framework/commit/aaded7e30b06cc70a354856a2288acd04045b673  It appears that CNVR doesn't treat a request for "*/*" 

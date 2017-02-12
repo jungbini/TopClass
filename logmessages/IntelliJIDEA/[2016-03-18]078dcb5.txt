@@ -1,0 +1,1 @@
+  postfix templates: log error instead of fail if there is a duplicate template  

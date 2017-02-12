@@ -1,0 +1,1 @@
+  fix IDEA not app-napping 1. stop activity after indicator is cancelled 2. don't start activities for delegate indicators  

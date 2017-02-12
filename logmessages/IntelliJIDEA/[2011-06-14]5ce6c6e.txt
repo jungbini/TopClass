@@ -1,0 +1,1 @@
+  Template debugger: exception breakpoint icon is missing on suspending on exception in templates (PY-3901).  

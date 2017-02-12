@@ -1,0 +1,1 @@
+  show alternative source notification only when debugger is stopped in the file  

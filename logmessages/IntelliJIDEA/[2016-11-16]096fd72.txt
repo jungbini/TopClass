@@ -1,0 +1,1 @@
+  maven: write action is unnecessary in some quick fixes  

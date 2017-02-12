@@ -1,0 +1,1 @@
+  [r=nik] isRebuild() criteria fixes  

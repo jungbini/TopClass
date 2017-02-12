@@ -1,0 +1,1 @@
+  fix temporarily missing schema after upgrade from pre-1.1.5 patch by Marcus Eriksson; reviewed by jbellis for CASSANDRA-5061  

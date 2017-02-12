@@ -1,0 +1,1 @@
+  Use debug logging for querying IP addresses  Warn shows up in the stack trace and it is basically never a problem. It looks like some ephemeral network devices can become unavailable during scanning.  

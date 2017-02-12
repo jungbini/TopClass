@@ -1,0 +1,1 @@
+  ide.debugMode fix -- was accidentaly set to true  

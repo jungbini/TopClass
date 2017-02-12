@@ -1,0 +1,1 @@
+  Keep line breaks after annotaion and before type, better fix for (IDEA-146132)  

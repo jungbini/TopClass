@@ -1,0 +1,1 @@
+  use real FileCollection implementation in test and fix invalid tests  +review REVIEW-5623  

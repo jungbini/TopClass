@@ -1,0 +1,1 @@
+  fix some references on setup to be "init" now. Add short story about adding commandline gradle-version property to the wrapper task  

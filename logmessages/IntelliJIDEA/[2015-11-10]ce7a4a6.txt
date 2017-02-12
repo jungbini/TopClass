@@ -1,0 +1,1 @@
+  IDEA-CR-6540. fixed exe launchers.  

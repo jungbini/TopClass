@@ -1,0 +1,1 @@
+  Minor fix for delete topic  

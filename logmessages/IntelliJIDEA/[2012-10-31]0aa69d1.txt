@@ -1,0 +1,1 @@
+  fix NPE while creating constructor from super if it has optional params  

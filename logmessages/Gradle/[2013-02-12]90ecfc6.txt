@@ -1,0 +1,1 @@
+  REVIEW-1471 Project lifecycle fixture now handles correctly project paths with whitespace  

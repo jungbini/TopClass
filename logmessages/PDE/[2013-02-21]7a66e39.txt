@@ -1,0 +1,1 @@
+  check number of max number of samples in addition to availability of multisampling extension to make sure that no MSAA renderbuffer is created, fixes #1644  

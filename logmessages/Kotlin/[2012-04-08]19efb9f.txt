@@ -1,0 +1,1 @@
+  Got rid of live templates in completion after dot.  #KT-1676 fixed  

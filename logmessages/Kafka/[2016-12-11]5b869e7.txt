@@ -1,0 +1,1 @@
+  KAFKA-4497: LogCleaner appended the wrong offset to time index. Backport the fix to 0.10.1.  

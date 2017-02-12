@@ -1,0 +1,1 @@
+  Parse floats with 'F' or 'f' suffix  

@@ -1,0 +1,1 @@
+  don't paint grid lines between grid cells occupied by the same component; ResizeProcessor fixes  

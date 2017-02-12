@@ -1,0 +1,1 @@
+  don't skip style/script content when there's no token type to parse them as corresponding language #IDEA-141736 fixed  

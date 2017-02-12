@@ -1,0 +1,1 @@
+  fixed PY-15722 IPython Notebook: do not propose to start server if there is one already running from console  

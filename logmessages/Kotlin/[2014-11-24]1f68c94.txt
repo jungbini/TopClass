@@ -1,0 +1,1 @@
+  Fix several bugs in serialization of inner generic classes  - Interner was working incorrectly with parents - nested classes were serialized in codegen out of any context  #KT-5660 Fixed  

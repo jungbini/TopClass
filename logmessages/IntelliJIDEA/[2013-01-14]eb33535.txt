@@ -1,0 +1,1 @@
+ fixed building of configurables tree - the case with more than two-depth hierarchy (cherry picked from commit e588e49eec86ea34ed288a1a62c1530d7470e43e) [rev=Dmitry.Avdeev]  

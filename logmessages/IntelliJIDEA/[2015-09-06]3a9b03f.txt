@@ -1,0 +1,1 @@
+  PY-16761 Handle starred parameters in docstring references, change signature and various quickfixes  

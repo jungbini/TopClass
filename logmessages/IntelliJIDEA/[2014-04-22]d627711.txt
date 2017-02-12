@@ -1,0 +1,1 @@
+  fixed EA-55749 - AIOOBE: PyStructuredDocstringFormatter.formatDocstring  

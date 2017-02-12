@@ -1,0 +1,1 @@
+  fix and tests for arrays' hashcode generation  

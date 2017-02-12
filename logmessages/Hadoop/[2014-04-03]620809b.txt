@@ -1,0 +1,1 @@
+  HDFS-6190. Minor textual fixes in DFSClient. Contributed by Charles Lamb.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1584376 13f79535-47bb-0310-9956-ffa450edef68  

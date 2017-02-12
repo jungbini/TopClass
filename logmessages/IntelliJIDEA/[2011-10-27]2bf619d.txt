@@ -1,0 +1,1 @@
+  EA-30918 - IAE: XDebuggerHistoryManager.addRecentExpression  

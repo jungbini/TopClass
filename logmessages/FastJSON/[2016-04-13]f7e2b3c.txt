@@ -1,0 +1,1 @@
+  support enumset. fixed issue 268. https://github.com/alibaba/fastjson/issues/268  

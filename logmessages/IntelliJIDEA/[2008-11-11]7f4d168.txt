@@ -1,0 +1,1 @@
+  fixed issue that inplace rename does not work when reference text range is not the same as element it is in.  

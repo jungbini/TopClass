@@ -1,0 +1,1 @@
+  fixed PY-5191 Move Statement: not able not to move down the very last indented statement with EOF right after it  

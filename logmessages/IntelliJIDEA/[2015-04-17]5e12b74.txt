@@ -1,0 +1,1 @@
+  [git] IDEA-138787 fix success notification for noop situation  

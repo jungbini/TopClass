@@ -1,0 +1,1 @@
+  fixed issues with showing popups underneath invisible components (IDEADEV-7981, IDEADEV-7982)  

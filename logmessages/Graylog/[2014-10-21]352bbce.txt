@@ -1,0 +1,1 @@
+  Add fields of all SD-ELEMENTS, not just the first.  Before this only the fields of the first RFC5424 SD-ELEMENT have been added to the fields map. This is fixed now by iterating over all existing SD-ELEMENTS returned by the syslog parser.  Known problem:  If two 

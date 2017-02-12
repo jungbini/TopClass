@@ -1,0 +1,1 @@
+  GRADLE-1823: fixed wrong path separator in script - splitted the generation of script content and writing to file - added StartScriptGeneratorTest for testing content of scripts  

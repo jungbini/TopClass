@@ -1,0 +1,1 @@
+  IDEADEV-36887 NotNull assertion error fixed  

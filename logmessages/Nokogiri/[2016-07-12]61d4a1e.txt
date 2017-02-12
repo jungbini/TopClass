@@ -1,0 +1,1 @@
+ intead -> instead typo fix in extconf.rb  [ci skip]  

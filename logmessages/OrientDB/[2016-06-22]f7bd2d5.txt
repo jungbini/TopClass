@@ -1,0 +1,1 @@
+  Fixed logging bug when the tx in the db is already active and the autoTx flag is false  

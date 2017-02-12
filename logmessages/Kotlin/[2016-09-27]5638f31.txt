@@ -1,0 +1,1 @@
+  Refactoring: no need in DebugProcessImpl.ResumeCommand for getting command action  

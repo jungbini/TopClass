@@ -1,0 +1,1 @@
+  - fix IDEADEV-16870, folders' rename in the proper changelist - remove unused method into local usage  

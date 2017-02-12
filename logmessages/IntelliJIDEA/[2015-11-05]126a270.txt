@@ -1,0 +1,1 @@
+  Typo fixed, since setUseTabs was used twice  

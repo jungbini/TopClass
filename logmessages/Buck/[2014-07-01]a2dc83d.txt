@@ -1,0 +1,1 @@
+  Fix warnings identified by Eclipse.  Summary: The majority of the fixes are: * `{@link}` tags that were not updated with API changes. * Closing unclosed resources. * Missing `@Override` tags.  Test Plan: Look in Eclipse: almost all of the yellow icons are gone. Sandcastle builds.  

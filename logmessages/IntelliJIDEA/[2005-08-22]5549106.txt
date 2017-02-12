@@ -1,0 +1,1 @@
+  fixed wrong error messages in javascript due to jsp insertions  

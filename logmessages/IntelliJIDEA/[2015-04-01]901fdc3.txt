@@ -1,0 +1,1 @@
+  Remove unused properties for "Extract Method" from PyBundle and add several new ones  Also I dropped common wordy prefix "cannot.perform.refactoring" from their names where possible.  

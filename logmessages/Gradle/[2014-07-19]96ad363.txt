@@ -1,0 +1,1 @@
+  Changed the test fixtures to discover the tool chains once rather than each time they are queried.  

@@ -1,0 +1,1 @@
+  Fixed bug reported by Andi Egloff in the ML on ODocument.iterator(): didn't load/check fields.  

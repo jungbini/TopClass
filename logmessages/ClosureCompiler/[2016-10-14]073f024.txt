@@ -1,0 +1,1 @@
+  Make the lint warning for sorting goog.requires, and the suggested fix that adds new ones, understand the sorting rules for goog.modules, which have "shorthand" goog.requires.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=136210403  

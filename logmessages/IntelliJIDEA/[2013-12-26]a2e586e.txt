@@ -1,0 +1,1 @@
+  fixed PY-11673 Error on project creation  

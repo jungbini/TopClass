@@ -1,0 +1,1 @@
+  html5 assumes empty string as value of attribute without explicit one validate that value as usual #WEB-16321 fixed  

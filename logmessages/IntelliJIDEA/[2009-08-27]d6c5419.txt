@@ -1,0 +1,1 @@
+  app engine: fixed problem with groovy and support for jpa  

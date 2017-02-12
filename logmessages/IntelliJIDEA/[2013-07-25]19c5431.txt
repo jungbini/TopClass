@@ -1,0 +1,1 @@
+  fixed PY-9661  reduced weight for wrap after comma. It's still enough for PY-7230  

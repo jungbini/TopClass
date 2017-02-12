@@ -1,0 +1,1 @@
+  remove "a" tag that has meaningless href attribute. bug fix. - double invoke add logic when select favorite application.  

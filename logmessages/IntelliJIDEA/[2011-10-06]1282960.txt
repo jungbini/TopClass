@@ -1,0 +1,1 @@
+  improved lexer and parser for substitutions and attributes, so fixed some bugs fixed PY-4578 Validate parameter count for calls to <%def > blocks in Mako templates PY-4574 Better highlighting for function definitions in Mako  

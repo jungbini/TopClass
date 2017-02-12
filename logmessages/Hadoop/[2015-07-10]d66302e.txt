@@ -1,0 +1,1 @@
+  HDFS-8749. Fix findbugs warnings in BlockManager.java. Contributed by Brahma Reddy Battula.  

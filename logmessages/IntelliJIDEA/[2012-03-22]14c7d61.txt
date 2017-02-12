@@ -1,0 +1,1 @@
+  IDEA-83245 ("Remove unnecessary boxing" quickfix breaks code)  

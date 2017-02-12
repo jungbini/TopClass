@@ -1,0 +1,1 @@
+  firefox rdp is ugly, so, we must remove breakpoint on mute instead of just disable WEB-14886 Firefox debugger: IllegalStateException when mute breakpoints  

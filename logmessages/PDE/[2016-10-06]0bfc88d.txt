@@ -1,0 +1,1 @@
+  pre-apply PShape transformation, fixes #4662  

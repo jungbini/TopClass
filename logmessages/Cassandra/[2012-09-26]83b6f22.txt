@@ -1,0 +1,1 @@
+  cqlsh: fix extra space in tab completion Patch by Aleksey Yeschenko, reviewed by brandonwilliams for CASSANDRA-4334  

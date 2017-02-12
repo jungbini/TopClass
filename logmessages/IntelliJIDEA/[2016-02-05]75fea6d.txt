@@ -1,0 +1,1 @@
+  fixed not symmetric plus signs inside folding anchors - signs too small on default linux configuration  * search for the lowest nearest even number 5.7 -> 6 6.7 -> 6 5.0 -> 4 * renamed odd to even (it was a typo)  

@@ -1,0 +1,1 @@
+  IDEADEV-11364: NPE fix  

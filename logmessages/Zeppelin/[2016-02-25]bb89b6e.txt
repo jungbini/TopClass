@@ -1,0 +1,1 @@
+ting.md aa56917 [Felix Cheung] add rat exclude to the right list 4a14447 [Felix Cheung] fix rat 5d5e067 [Felix Cheung] move 4360a47 [Felix Cheung] move to .github 43f9418 [Felix Cheung] format update 045308a [Felix Cheung] jira link 60e361b [Felix Cheung] add template  

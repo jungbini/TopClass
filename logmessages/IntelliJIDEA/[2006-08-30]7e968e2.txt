@@ -1,0 +1,1 @@
+  IDEADEV-8796 empty method inspection fix for hierarchies  

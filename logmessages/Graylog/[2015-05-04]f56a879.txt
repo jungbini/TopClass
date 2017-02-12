@@ -1,0 +1,1 @@
+  persist field selection in store and properly put it into the url to support bookmarking  * pagination keeps the currently selected fields * for copying the url the fields are also in the location hash * location hash wins over query param  fixes #1255  

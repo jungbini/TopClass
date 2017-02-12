@@ -1,0 +1,1 @@
+  [hg] : clean tests; change QueueProcessor to MergingUpdateQueue in HgRepositoryUpdater  * tests should become more stable, but not fixed yet  

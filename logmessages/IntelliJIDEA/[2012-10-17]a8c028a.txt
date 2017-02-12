@@ -1,0 +1,1 @@
+  fix applying of predefined style when code style configurable is wrapped in a tab  

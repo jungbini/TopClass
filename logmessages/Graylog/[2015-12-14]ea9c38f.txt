@@ -1,0 +1,1 @@
+  Make tests work again after switching to an index template  - Pass the ES config object intot the IndexCreatingLoadStrategyFactory to make sure the index is created with the correct settings. - Adjust index name in all fixtures.  

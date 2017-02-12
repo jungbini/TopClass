@@ -1,0 +1,1 @@
+  fixed PY-11341 Invalid case for identifier expected inspection after as in with statement  

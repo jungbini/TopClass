@@ -1,0 +1,1 @@
+  do not spellcheck data uri's #WEB-20505 fixed  

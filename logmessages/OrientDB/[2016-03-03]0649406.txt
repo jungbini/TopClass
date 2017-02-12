@@ -1,0 +1,1 @@
+  fixed token sending only on the first request on a connection.  

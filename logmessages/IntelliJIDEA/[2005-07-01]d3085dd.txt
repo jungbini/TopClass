@@ -1,0 +1,1 @@
+  - fixed issue with parsing attribute containing / in unquoted value - fixed reparse problem  

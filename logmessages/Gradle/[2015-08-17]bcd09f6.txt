@@ -1,0 +1,1 @@
+  Make platform-play depend on diagnostics text fixtures  +review REVIEW-5596  

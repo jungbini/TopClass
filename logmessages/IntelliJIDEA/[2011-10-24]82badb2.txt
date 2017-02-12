@@ -1,0 +1,1 @@
+  EA-30744 - assert: EditorImpl.logicalToVisualPosition  Debug info is added  

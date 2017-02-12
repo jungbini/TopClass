@@ -1,0 +1,1 @@
+  Template debugging with Django 1.9 (PY-17923)  The template debug setting was changed in Django 1.8. Also the 'source' field of the Node was removed in Django 1.9, so we should get template filename and line in a 

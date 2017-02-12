@@ -1,0 +1,1 @@
+  fix message with coverage/debugger rejection when $MODULE_DIR$ is set as working directory for tests (IDEA-118572)  

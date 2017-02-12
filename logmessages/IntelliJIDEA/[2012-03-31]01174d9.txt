@@ -1,0 +1,1 @@
+ fixed PY-6186 compatibility inspection does not believe in intern()  

@@ -1,0 +1,1 @@
+  fix up dist scripts to include the release number  

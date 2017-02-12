@@ -1,0 +1,1 @@
+  corrections after review: json schema performance fix, IDEA-157546 IDEA freeze during running inspection profile  

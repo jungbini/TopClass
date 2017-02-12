@@ -1,0 +1,1 @@
+  a hacky fix for IDEA-98228 Autocompletion for String does equalsIgnoreCase() instead of equals()  

@@ -1,0 +1,1 @@
+  move check for polluted ~/.m2/repository into build logic  - to fix problem with running tests in parallel - only check automatically in ci environment  

@@ -1,0 +1,1 @@
+  SystemDock is commented out until a fix for IDEA-107214 will be ready.  

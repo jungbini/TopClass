@@ -1,0 +1,1 @@
+  IDEA-125176 Check that token is not empty before trying to update boards  Also add diagnostic records to log and remove debug dumping of formatted responses (this data may be retrieved using standard httpclient logs).  

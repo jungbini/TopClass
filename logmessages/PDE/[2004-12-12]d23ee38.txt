@@ -1,0 +1,1 @@
+  using TEXT_ANTIALIAS instead of ANTIALIAS hint for creating fonts.. hopefully fixes macosx smoothing issue  

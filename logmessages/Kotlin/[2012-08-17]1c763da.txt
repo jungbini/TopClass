@@ -1,0 +1,1 @@
+  uncommented test now KT-1718 is fixed  

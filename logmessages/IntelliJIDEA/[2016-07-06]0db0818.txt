@@ -1,0 +1,1 @@
+  [CodeStyleManager] minor, after review fix. Decided not to deprecate method because we can.  

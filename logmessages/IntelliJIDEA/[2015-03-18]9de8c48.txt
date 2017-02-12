@@ -1,0 +1,1 @@
+  Enable debug user's files called like ignored library files (e.g. "io.py") (PY-15265)  Do not ignore filename which is in DONT_TRACE dict, but belongs to project roots  

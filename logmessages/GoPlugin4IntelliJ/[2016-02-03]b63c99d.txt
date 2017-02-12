@@ -1,0 +1,1 @@
+  Improve the placeholder count inspection  fixes #2194, fixes #2306  

@@ -1,0 +1,1 @@
+ fixing NPE in iterator issue #1201 on google code  

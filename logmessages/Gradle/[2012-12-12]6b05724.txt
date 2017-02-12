@@ -1,0 +1,1 @@
+  REVIEW-655 Added test fixture code for dependency resolution failures. Tightened coverage for the dependency resolve actions failure conditions.  

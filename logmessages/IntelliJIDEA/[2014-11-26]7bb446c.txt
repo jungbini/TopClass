@@ -1,0 +1,1 @@
+  IDEA-127182 decompile to debuggable style when possible - correctly map lines from stack traces  

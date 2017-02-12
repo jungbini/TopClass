@@ -1,0 +1,1 @@
+  Merge -c 1361813 from trunk to branch-2 to fix MAPREDUCE-4427. Added an 'unmanaged' mode for AMs so as to ease development of new applications. Contributed by Bikas Saha.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1361815 13f79535-47bb-0310-9956-ffa450edef68  

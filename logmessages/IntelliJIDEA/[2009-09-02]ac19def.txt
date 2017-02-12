@@ -1,0 +1,1 @@
+  disable run/debug actions in dumb mode instead of hiding them  

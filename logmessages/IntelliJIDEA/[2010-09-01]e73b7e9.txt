@@ -1,0 +1,1 @@
+  WI-586 Spellchecker quick-fix items order: Make 'Change to' the first item  

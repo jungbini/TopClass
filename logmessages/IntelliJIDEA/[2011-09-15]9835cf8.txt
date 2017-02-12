@@ -1,0 +1,1 @@
+  use fs-independent line separators in build log to fix tests on Windows agents  

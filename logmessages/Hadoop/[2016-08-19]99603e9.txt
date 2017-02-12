@@ -1,0 +1,1 @@
+  HADOOP-13428. Fixed hadoop-common build files to generate j

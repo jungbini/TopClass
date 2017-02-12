@@ -1,0 +1,1 @@
+  Fixed bug on SQL function append(): now get the record's field if specified  

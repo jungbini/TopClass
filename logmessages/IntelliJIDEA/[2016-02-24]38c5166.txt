@@ -1,0 +1,1 @@
+  inspections tool window: dispose contract fixed  

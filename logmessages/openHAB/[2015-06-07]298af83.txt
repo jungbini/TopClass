@@ -1,0 +1,1 @@
+ Merge pull request #2698 from gerrieg/astro  Astro: debugging messages and a small fix  commit 298af8339c248ce44b97942126d4670149704bf9  Added planet debug logging for daily job.  

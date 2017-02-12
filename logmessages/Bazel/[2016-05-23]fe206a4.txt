@@ -1,0 +1,1 @@
+  Allow fail() function to accept any argument  e.g.  fail(3)  This is mostly useful for debugging (typical error messages will continue to use strings).  -- MOS_MIGRATED_REVID=123008379  

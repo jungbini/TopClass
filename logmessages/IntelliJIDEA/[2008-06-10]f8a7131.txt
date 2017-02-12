@@ -1,0 +1,1 @@
+  fix: pressing Enter in dialogues cases them to close even if completion is shown  

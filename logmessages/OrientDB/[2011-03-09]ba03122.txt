@@ -1,0 +1,1 @@
+  Fixed bug on SQL UPDATE: modified record count was wrong in some case.  

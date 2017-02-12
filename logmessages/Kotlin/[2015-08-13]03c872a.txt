@@ -1,0 +1,1 @@
+  Bug fix: range operator can produce defined values with not all possible values known  

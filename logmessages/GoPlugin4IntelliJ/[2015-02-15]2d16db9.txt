@@ -1,0 +1,1 @@
+  fix #1300: Functions with multiple return parameters used in function calls are flagged as "not enough parameters"  

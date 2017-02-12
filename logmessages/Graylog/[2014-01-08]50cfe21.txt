@@ -1,0 +1,1 @@
+  add permissions to remaining REST resources  fixes issue #244  

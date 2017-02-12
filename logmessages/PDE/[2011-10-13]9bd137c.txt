@@ -1,0 +1,1 @@
+  Fixed bug preventing libraries/tools from being installed when a folder by the same name already exists  

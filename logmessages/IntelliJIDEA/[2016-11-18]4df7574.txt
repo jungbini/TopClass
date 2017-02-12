@@ -1,0 +1,1 @@
+  IG: fix tail recursion quickfix when the value of a parameter is dependent on the previous value of another parameter (IDEA-164124)  

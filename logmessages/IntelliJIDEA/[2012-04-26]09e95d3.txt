@@ -1,0 +1,1 @@
+ enable some more plugins in pycharm started under debugger  

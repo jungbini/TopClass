@@ -1,0 +1,1 @@
+wards so that we can break the loop in case of failure.  patch by Aleksey Yeschenko; reviewed by Benedict Elliott Smith  

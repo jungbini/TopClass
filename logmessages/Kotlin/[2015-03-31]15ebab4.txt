@@ -1,0 +1,1 @@
+  JS: add tests for quickfix: autoimport for Kotlin/Javascript projects  

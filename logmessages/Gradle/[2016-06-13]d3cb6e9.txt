@@ -1,0 +1,1 @@
+ that can be used in place of the standard ASM `ClassReader`, and pretends that it's reading a Java 8 file when confronted with a Java 9 class format. This is a temporary fix that needs to be removed as soon as ASM 6 is released. As such, the `jdk9` spec has been updated to make sure we don't forget.  +review REVIEW-6054  

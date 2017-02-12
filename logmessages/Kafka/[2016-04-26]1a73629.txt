@@ -1,0 +1,1 @@
+  KAFKA-3607: Close KStreamTestDriver upon completing; follow-up fixes to be tracked in KAFKA-3623  Author: Guozhang Wang <wangguoz@gmail.com>  Reviewers: Eno Thereska, Michael G. Noll, Ismael Juma  Closes #1258 from guozhangwang/K3607  

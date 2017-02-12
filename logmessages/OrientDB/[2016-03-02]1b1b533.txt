@@ -1,0 +1,1 @@
+  Prjhub issue #6285 , index deadlock was fixed.  

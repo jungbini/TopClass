@@ -1,0 +1,1 @@
+  STORM-1082 fix nits for properties in kafka tests  

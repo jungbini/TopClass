@@ -1,0 +1,1 @@
+  yet another fix for #1154: No methods in element of pointer to slice  

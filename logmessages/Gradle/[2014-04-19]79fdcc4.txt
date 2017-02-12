@@ -1,0 +1,1 @@
+  Fixed one of the problems with incremental java compilation wrt jar change detection. On the way to fix the current jar change model.  

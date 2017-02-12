@@ -1,0 +1,1 @@
+  [vcs]: IDEA-164613 New Label panel background fixed for custom colorScheme  * get Background color from Editor after its creation; * EditorTextField->Editor background forcibly changed for oneLine mode!  

@@ -1,0 +1,1 @@
+  LimitedTemporaryStorage: Fix perf bug. (#3432)  FilterOutputStream has an inefficient implementation of write(byte[], int, int). So let's extend OutputStream directly and use efficient implementations of all methods.  

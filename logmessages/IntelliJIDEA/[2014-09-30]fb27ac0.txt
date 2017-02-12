@@ -1,0 +1,1 @@
+  IDEA-130360 (Add quick fix to "Design for extension" inspection)  

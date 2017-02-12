@@ -1,0 +1,1 @@
+  Type intersection fix: T & (final A) is no more calculated as just A #KT-7801 Fixed  

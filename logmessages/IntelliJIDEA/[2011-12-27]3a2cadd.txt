@@ -1,0 +1,1 @@
+  EA-32769 disable the action for null or disposed project.  If assertion fires again, then it is a bug in the action system.  

@@ -1,0 +1,1 @@
+  don't add default set of selected fields to every url, only do so when the search bar is shown  fixes sample message loading for stream testing (which really should be refactored to not assume the location.hash contains nothing else than index and message id)  

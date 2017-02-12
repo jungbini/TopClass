@@ -1,0 +1,1 @@
+ngly, since Windows test cases can only be run on Windows systems and are affected by this change (since C:\foo\bar type URIs start getting treated as if C: was the scheme) the Windows specific tests are split into their own test methods with an Assumption of the OS being Windows so they are ignored on other platforms  

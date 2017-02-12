@@ -1,0 +1,1 @@
+  Fix "unresolved widget fqname" bug in Gradle  

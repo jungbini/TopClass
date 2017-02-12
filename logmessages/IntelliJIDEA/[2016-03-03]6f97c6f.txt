@@ -1,0 +1,1 @@
+  fixed editing cell on enter  do not provide EDITOR, cause it'll catch this typing event  

@@ -1,0 +1,1 @@
+  IDEA-113175 Expanding nodes in Variables(Debug tools window) while debug application throws exception  

@@ -1,0 +1,1 @@
+  PY-16656 Add test cases. Issue was fixed when enter and space handlers started to use PyDocstringGenerator  

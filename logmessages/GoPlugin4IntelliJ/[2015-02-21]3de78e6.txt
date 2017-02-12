@@ -1,0 +1,1 @@
+  Parameter information not shown for chained functions; fix #1342  

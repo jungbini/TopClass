@@ -1,0 +1,1 @@
+ Merge branch 'index-improvement' into hotfix-1.6.2  commit b18d77de59a5e704692247fc130ca18309cbb455  Issue 1759: Fixed bug in OSBTreeBonsai initialization  

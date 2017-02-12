@@ -1,0 +1,1 @@
+  Tests for KT-1714 Reference to function is generated with private getter method  #KT-1714 fixed  

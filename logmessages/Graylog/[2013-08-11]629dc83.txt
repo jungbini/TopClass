@@ -1,0 +1,1 @@
+  extractors now persistent  fixes #179  

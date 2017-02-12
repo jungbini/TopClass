@@ -1,0 +1,1 @@
+  Removed FIXMEs thru preparation for future calimero version where calimero bugs (#5, #8) have been fixed. Test cases testing faulty behavior will then be skipped. Test cases testing correct behavior will be skipped until then.  

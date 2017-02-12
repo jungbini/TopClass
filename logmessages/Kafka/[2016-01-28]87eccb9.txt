@@ -1,0 +1,1 @@
+  KAFKA-2143: fix replica offset truncate to beginning during leader migration.  Author: Jiangjie Qin <becket.qin@gmail.com>  Reviewers: Gwen Shapira, Guozhang Wang  Closes #129 from becketqin/KAFKA-2143  

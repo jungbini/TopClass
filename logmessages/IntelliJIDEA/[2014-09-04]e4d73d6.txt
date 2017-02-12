@@ -1,0 +1,1 @@
+  full SVG support: symbol element fixed, attributes search improved #WEB-12667 fixed  

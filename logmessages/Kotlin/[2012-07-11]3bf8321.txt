@@ -1,0 +1,1 @@
+  Fixed evil bug in processing command-line args: classpath was added as annotations path.  

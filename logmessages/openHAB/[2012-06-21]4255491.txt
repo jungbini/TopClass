@@ -1,0 +1,1 @@
+  fix to let the rollershutter-widget be rendered even if the item is of type GroupItem but it's BaseItem is of the correct type  

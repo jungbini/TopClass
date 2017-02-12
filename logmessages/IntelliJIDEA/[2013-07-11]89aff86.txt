@@ -1,0 +1,1 @@
+  fixed PY-10144 Compatibility inspection: dict.itervalues() and dict.iteritems() are not highlighted for python3.3  

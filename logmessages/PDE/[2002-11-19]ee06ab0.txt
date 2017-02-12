@@ -1,0 +1,1 @@
+  working on macosx java resize bug  

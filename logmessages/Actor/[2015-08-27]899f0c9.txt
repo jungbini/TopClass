@@ -1,0 +1,1 @@
+  fix(server): place migration after extension initialization  

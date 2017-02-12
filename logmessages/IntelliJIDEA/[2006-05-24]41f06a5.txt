@@ -1,0 +1,1 @@
+  pluggable "Add to Favorites" action; fix "Add to New Favorite List"  

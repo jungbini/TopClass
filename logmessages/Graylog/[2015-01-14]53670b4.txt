@@ -1,0 +1,1 @@
+  use lower case for user names  avoid problems with case insensitive ldap users, where user accounts would be created for each login with 

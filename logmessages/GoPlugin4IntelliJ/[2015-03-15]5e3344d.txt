@@ -1,0 +1,1 @@
+  fix #1430: Auto completion do not show shorthand declared local variable in outer scope  

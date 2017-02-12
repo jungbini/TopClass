@@ -1,0 +1,1 @@
+  fixed 64 bit check for python 2.4 (PY-2688)  

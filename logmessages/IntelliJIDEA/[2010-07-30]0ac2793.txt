@@ -1,0 +1,1 @@
+  fix @NotNull instrumentation for enum constructor parameters with ASM 3.3 (IDEA-56943); move NotNullVerifyingInstrumenterTest to java-tests  

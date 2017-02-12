@@ -1,0 +1,1 @@
+f65 [Lee moon soo] Cache ${HOME}/.m2/repository/.cache/maven-download-plugin to reduce download attempt  

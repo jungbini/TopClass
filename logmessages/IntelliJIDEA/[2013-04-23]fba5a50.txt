@@ -1,0 +1,1 @@
+  fixes: use THashSet(FileUtil.PATH_HASHING_STRATEGY) instead of simple HashSet; all paths in the model are are already canonicalized, so use toSystemIndependentName()  

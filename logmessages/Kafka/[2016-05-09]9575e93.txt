@@ -1,0 +1,1 @@
+  KAFKA-3684: SinkConnectorConfig does not return topics in config validation.  Author: Liquan Pei <liquanpei@gmail.com>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1356 from Ishiihara/bug-fix-validate  

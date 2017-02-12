@@ -1,0 +1,1 @@
+  Java: Created an inspection (with a quick fix) that checks if a package is exported to the same module where it's declared. Tests added. (IDEA-164129)  

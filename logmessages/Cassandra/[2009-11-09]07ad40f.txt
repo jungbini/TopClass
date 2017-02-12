@@ -1,0 +1,1 @@
+  fix broken functional test (expect Super3 in list of CFs)  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@834186 13f79535-47bb-0310-9956-ffa450edef68  

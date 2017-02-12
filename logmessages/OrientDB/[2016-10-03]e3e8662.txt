@@ -1,0 +1,1 @@
+  HA: fixed issue on parsing of the port  Reported by a user: https://github.com/orientechnologies/orientdb/issues/6710#issuecomment-2 51067930  

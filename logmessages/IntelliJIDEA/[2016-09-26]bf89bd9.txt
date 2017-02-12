@@ -1,0 +1,1 @@
+  prefer files from the original resolve context in debugger fields, this helps when we have same fqn classes in the project (for example in a lib and a module), in this case now we choose some random file.  

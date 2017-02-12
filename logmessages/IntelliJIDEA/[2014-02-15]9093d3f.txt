@@ -1,0 +1,1 @@
+  Platform tests: do not change detected platform with initPlatformPrefix  

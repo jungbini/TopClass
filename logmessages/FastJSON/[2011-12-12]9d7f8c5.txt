@@ -1,0 +1,1 @@
+  bug fixed : BrowserComptible not work  

@@ -1,0 +1,1 @@
+  IDEA-60561 (New inspection: "Unnecessary outer class qualifier" (with quickfix))  

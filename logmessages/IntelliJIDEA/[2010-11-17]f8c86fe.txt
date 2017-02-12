@@ -1,0 +1,1 @@
+  added restriction to maximal hint length in debugger (PY-2225)  

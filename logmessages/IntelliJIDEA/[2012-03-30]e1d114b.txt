@@ -1,0 +1,1 @@
+  fixed PY-6148 Wrong "Package installed successfully" message if the superuser password dialog has been closed  

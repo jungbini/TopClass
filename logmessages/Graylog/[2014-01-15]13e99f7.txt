@@ -1,0 +1,1 @@
+  add option to accept self-signed certificates on LDAPS connections  make sure SSL checkbox is checked when editing LDAP settings and ldaps url was set  fixes Graylog2/graylog2-server#367  

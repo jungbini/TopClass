@@ -1,0 +1,1 @@
+  - detect proper encoding for html5's <meta charset="charsetname"> - [performance fix] avoid (light) parsing of html content if there is no charset\s*= pattern inside the string  

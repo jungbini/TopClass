@@ -1,0 +1,1 @@
+  fix for #371, also moved the included PersistenceService to it's own bundle persistence.gcal  

@@ -1,0 +1,1 @@
+  IDEA-125558 new debugger: double result in evaluate expression  

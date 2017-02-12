@@ -1,0 +1,1 @@
+  proper Y axis values for dashboard chart widgets. fixes #621  

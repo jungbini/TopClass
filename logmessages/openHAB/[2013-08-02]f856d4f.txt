@@ -1,0 +1,1 @@
+  fixed automatic startup of actions  

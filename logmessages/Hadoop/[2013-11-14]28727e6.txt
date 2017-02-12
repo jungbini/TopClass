@@ -1,0 +1,1 @@
+  svn merge -c 1542054 merging from trunk to branch-2 to fix HDFS-5438. Flaws in block report processing can cause data loss.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1542057 13f79535-47bb-0310-9956-ffa450edef68  

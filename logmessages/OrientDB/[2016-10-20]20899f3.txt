@@ -1,0 +1,1 @@
+  fix for activate the database on the current thread in case of remote live query, issue #6836  

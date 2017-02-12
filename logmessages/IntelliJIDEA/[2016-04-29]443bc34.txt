@@ -1,0 +1,1 @@
+  [vcs-log] fix log tab numbers in split mode  

@@ -1,0 +1,1 @@
+  NetSocket implementation can redeliver the same buffer when paused fixes #1601  

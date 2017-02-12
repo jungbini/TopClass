@@ -1,0 +1,1 @@
+  Move log warnings about ignored ivy file content down to debug level.  - Ideally, these should only be logged once when the module is actually resolved from a remote repository. - Once we don't use ivy.xml for internal meta-data persistence, we should be able to move these messages up to WARN, I think. - Also, used the correct string substitution characters for log messages  

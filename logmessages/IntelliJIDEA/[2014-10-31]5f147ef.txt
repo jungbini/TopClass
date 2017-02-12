@@ -1,0 +1,1 @@
+  fix comparison level when checking type arguments applicability (IDEA-132063)  

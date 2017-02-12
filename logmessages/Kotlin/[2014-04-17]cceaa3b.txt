@@ -1,0 +1,1 @@
+  Fix bug in ShortenReferences visitor (do not skip PSI elements after modication)  

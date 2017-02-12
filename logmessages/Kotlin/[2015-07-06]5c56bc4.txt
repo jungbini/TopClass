@@ -1,0 +1,1 @@
+  Supported excluded packages/classes in auto-import quick fix.  #KT-2413 in progress  

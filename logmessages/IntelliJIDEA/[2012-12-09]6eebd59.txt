@@ -1,0 +1,1 @@
+  fix not full log graph build & fix tests  

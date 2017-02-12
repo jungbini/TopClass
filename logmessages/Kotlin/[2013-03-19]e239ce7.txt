@@ -1,0 +1,1 @@
+  Don't compute type and use reference for MakeClassAnAnnotation quick fix  

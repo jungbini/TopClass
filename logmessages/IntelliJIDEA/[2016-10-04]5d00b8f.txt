@@ -1,0 +1,1 @@
+  IDEA-161418 Missing example of "Inline parameters hint" in color scheme settings  complete moving ParameterHintsPresentationManager from java-impl to lang-impl (fix for IDEs other than IDEA)  

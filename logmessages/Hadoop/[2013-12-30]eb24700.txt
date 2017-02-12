@@ -1,0 +1,1 @@
+  MAPREDUCE-5685. Fixed a bug with JobContext getCacheFiles API inside the WrappedReducer class. Contributed by Yi Song. svn merge --ignore-ancestry -c 1554320 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1554321 13f79535-47bb-0310-9956-ffa450edef68  

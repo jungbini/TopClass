@@ -1,0 +1,1 @@
+  fixed PY-6543 Django manage.py commands not working  

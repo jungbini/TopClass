@@ -1,0 +1,1 @@
+  revert patch for #3530 since the bug it fixes only affects 1.0.3  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8@1206235 13f79535-47bb-0310-9956-ffa450edef68  

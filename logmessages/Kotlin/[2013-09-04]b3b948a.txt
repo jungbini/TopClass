@@ -1,0 +1,1 @@
+  Fix movement bug when expression is followed/preceded by comment at the functional literal block boundary  

@@ -1,0 +1,1 @@
+  Fix resolution process for qualified references with unknown qualifier  Also fixed typo in algorithm of type inference from used attributes and add docstring regarding previous problem with Cython indexes.  

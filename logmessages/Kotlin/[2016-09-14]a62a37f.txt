@@ -1,0 +1,1 @@
+  Added tests for parameter names in function type from SAM-adapter + fixed KT-13861  #KT-13861 Fixed  

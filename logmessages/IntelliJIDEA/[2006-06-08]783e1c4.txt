@@ -1,0 +1,1 @@
+  Memory leak via weak value hash map in FileManagerImpl fixed.  

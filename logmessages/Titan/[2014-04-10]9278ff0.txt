@@ -1,0 +1,1 @@
+  Ignored test cases that do method counting - those will be fixed once titan05 is stable. Fixed two bugs related to the ManagementSystem.  

@@ -1,0 +1,1 @@
+  add IndexMergerV9  add unit tests for IndexMergerV9 and fix some bugs  add more unit tests and fix bugs  handle null values and add more tests  minor changes & use LoggingProgressIndicator in IndexGeneratorReducer  make some static class public from IndexMerger  minor changes and add some comments  changes for comments  

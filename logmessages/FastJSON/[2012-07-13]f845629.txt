@@ -1,0 +1,1 @@
+  bug fixed parse typed doubleValue, such as '123-E15D'  

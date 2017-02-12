@@ -1,0 +1,1 @@
+  exception during annotate copied file fixed  *file status should be "added" if  file was "copied" , because we do not provide beforeRevision in this case (if file status is copied then HgUtil.getOriginalFileName assert statement become false, exception appeared )  

@@ -1,0 +1,1 @@
+  fixed PY-17195 Assertion failed in PySdkUpdater  

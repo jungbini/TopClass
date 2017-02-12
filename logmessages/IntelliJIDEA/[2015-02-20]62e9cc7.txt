@@ -1,0 +1,1 @@
+  quick fix  avoid NPE if we cannot find font by console type  

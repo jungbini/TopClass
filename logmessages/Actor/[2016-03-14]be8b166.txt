@@ -1,0 +1,1 @@
+  perf+fix(core+ios): Performance optimizations and bug fixing  * Fixing Contacts sync non-unique uids * Remove obsolete RSA encryption * Added SparseBooleanArray * Removed Relayouting in YYLabel * Better UITableView updates  

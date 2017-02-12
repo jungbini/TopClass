@@ -1,0 +1,1 @@
+  Add exception handling to TranslationRequestHandler; fix NullPointerException in AbstractBeamInferer  

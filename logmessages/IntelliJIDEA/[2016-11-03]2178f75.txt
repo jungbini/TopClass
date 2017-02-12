@@ -1,0 +1,1 @@
+  [groovy] follow up IDEA-CR-15243  - fix caching - prevent recursion by using PsiElementRecursiveWalkingVisitor - split visitor in two for better readability  

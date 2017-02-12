@@ -1,0 +1,1 @@
+  fix packaging for AbstractIvyPublishIntegTest in ivy subproject  

@@ -1,0 +1,1 @@
+  Make Bazel's documentation nicer.  Remove cross-links between "Using Bazel" documents. The navigation panel on the left side is enough.  Also fix a broken list in install.md  -- MOS_MIGRATED_REVID=89310507  

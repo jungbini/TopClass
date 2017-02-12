@@ -1,0 +1,1 @@
+  logs components work in debug sessions  

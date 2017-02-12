@@ -1,0 +1,1 @@
+  [vcs] FileHistoryPanelImpl: fix possible getVirtualFile() NPEs  Including IDEA-141978.  

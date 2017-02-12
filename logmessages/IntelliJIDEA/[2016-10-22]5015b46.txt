@@ -1,0 +1,1 @@
+  IG: quickfix to fix signature of @Before and @Test methods (IDEA-162559)  

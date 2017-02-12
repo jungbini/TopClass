@@ -1,0 +1,1 @@
+  quick-configure extractor from message view. fixes #347  

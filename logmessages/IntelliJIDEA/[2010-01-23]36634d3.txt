@@ -1,0 +1,1 @@
+  toolwindow resized by keybaord only when focused -- a fix  

@@ -1,0 +1,1 @@
+  Restructure the tests.  Moved the common path logic into base classes. Refactored the inspection to look alike (and behave like proper inspections). Probably broken some of them. Fill fix later.  Signed-off-by: Mihai Claudiu Toader <mtoader@gmail.com>  

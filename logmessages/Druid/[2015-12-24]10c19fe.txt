@@ -1,0 +1,1 @@
+ Merge pull request #2151 from navis/fix-testfail-xxServerViewTests  Another try to fix xxServerViewTests  commit 10c19fe9f8b7753642d2c5b3ab66d3d27f65a161  Another try to fix DruidCoordinatorTest#testCoordinatorRun  

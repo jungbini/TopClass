@@ -1,0 +1,1 @@
+ep knowledge of the inner working of Gradle. It assumes the parameters for the cache won't change between the embedded run of Gradle through GradleBuild type task or other.  

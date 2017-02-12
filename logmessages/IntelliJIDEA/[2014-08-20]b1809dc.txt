@@ -1,0 +1,1 @@
+  [git tests] allow custom debug log categories in specific tests  

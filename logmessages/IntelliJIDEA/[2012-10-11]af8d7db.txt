@@ -1,0 +1,1 @@
+  Bug fix: exclude 'target' directory even if it does not exists.  

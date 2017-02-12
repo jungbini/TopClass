@@ -1,0 +1,1 @@
+  Test fixes after script class renames.  +review REVIEW-5395  

@@ -1,0 +1,1 @@
+  ninja: fixed typo in CHANGES.txt for CASSANDRA-12642  

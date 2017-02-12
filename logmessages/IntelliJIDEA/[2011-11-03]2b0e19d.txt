@@ -1,0 +1,1 @@
+  workaround Collections.sort bug on Apache Harmony (EA-30430)  

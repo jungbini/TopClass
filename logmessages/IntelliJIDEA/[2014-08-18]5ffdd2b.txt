@@ -1,0 +1,1 @@
+  inspections ui: SeverityEditorDialog AssertionError fixed while pressing "Colors&Fonts" button  

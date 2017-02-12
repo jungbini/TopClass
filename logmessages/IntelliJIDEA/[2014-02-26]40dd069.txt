@@ -1,0 +1,1 @@
+  fixed PY-12272 Project Interpreter Setting Page: invalid alignment for multiproject list and packages table  

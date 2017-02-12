@@ -1,0 +1,1 @@
+  fix for eclipse compiler crash when run under perversive jdk with space chars in path  

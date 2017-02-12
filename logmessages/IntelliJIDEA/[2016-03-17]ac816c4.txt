@@ -1,0 +1,1 @@
+  cherry-pick several scaling fixes for gutter icons  

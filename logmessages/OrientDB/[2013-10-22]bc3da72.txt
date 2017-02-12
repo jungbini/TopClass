@@ -1,0 +1,1 @@
+  Truncation of time part of datetime query parameters was fixed.  

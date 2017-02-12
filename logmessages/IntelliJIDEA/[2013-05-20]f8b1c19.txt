@@ -1,0 +1,1 @@
+  fixed  PY-9840 Enter in comment leads to inconsistent caret position  

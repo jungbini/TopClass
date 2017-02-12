@@ -1,0 +1,1 @@
+  fix for #2297, default bg color problem  

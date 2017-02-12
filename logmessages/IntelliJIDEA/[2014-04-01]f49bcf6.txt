@@ -1,0 +1,1 @@
+  fixed PY-12551 Project Interpreters: deadlock after removing detected interpreter in the list  

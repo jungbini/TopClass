@@ -1,0 +1,1 @@
+  Issue #2023. Traverse strategy breadth first strategy bug. Traverse path.  

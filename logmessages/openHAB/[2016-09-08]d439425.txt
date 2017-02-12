@@ -1,0 +1,1 @@
+  Added ZWave Philio PAN03 1x3.0kW meter/switch (#4623)  * Update products.xml  Added entry for Philio PAN03.  * added pan03.xml  * Beautified  * fixed id  * Finalized device specification  

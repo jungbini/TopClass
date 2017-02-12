@@ -1,0 +1,1 @@
+  Performance fix: compare file and document text length instead of entire text  

@@ -1,0 +1,1 @@
+  added partial fix for KT-2765 so we can specify the paths to where annotations.xml files can be found  

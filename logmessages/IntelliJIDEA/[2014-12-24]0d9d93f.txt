@@ -1,0 +1,1 @@
+  IDEA-85298 When stopped at breakpoint, line should be highlighted in all panels containing that file - fixed hover color  

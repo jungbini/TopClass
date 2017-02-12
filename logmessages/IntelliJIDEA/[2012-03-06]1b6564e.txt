@@ -1,0 +1,1 @@
+  xdebugger: add default breakpoints to new project  

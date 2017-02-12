@@ -1,0 +1,1 @@
+  exclude from detection: return default state instead of 'null' from 'getState' method to fix problem with not saved settings  

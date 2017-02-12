@@ -1,0 +1,1 @@
+  GRADLE-2318: Handle multiple versions of one module in MavenRepository Test fixture.  

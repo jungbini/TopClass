@@ -1,0 +1,1 @@
+  Root selection in StructureView fixed  

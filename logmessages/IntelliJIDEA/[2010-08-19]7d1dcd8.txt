@@ -1,0 +1,1 @@
+  project not initialized: brute force fix  

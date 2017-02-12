@@ -1,0 +1,1 @@
+  fix exception under JDK 7 (EA-28757 - ISE: TabLabel.paintOffscreen, IDEA-79916)  

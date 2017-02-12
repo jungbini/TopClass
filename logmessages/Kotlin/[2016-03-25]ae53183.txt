@@ -1,0 +1,1 @@
+  Fix java build when kotlin is changed  See SimpleKotlinGradleIT#testSimpleCompile  #KT-11350 fixed  

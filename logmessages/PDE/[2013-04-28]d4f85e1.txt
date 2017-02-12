@@ -1,0 +1,1 @@
+  API cleanups, fix #1660 and #1680 for JSON, plus #1734 for Table  

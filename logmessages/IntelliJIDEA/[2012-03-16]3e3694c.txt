@@ -1,0 +1,1 @@
+  EA-34609 fix assertion  

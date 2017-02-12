@@ -1,0 +1,1 @@
+  fixed  PY-10081 Insert documentation string stub: Do not insert rst annotations when generating docstring in plain format  

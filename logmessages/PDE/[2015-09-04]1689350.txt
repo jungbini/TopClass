@@ -1,0 +1,1 @@
+  FX - fix bug in measuring text  

@@ -1,0 +1,1 @@
+  fixed GRADLE-3094: Scala plugin doesn't work when Gradle is run with Java 8  - Note that according to Scala release notes, latest Scala (2.11.1) doesn't really support Java 8 yet. Even when switching our integration tests to Scala 2.11.1, Scala compilation would fail with `VerifyError`s when running with Java 8.  

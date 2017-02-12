@@ -1,0 +1,1 @@
+  inspections: do not create InspectionsResultView instance if not need (leakage of GlobalInspectionContextImpl#myView fixed)  

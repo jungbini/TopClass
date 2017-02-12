@@ -1,0 +1,1 @@
+  Issue #2063: duplicate messages will be overriden with the help of toString(), using concurrentLinkedQueue rather than ClientQueue implementation to fix long-polling missing messages  

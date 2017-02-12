@@ -1,0 +1,1 @@
+  fixed version in manifests (#4394)  Signed-off-by: Kai Kreuzer <kai@openhab.org>  

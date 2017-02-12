@@ -1,0 +1,1 @@
+  KAFKA-4031; Check if buffer cleaner is null before using it  A small fix to check null before using the reference  Author: Som Sahu <sosahu@microsoft.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1718 from soumyajit-sahu/nullCheckForDirectBufferCleaner  

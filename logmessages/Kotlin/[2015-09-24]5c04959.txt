@@ -1,0 +1,1 @@
+  Debugger: fix evaluation for local classes #KT-5104 Fixed  

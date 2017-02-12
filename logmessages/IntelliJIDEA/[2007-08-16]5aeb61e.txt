@@ -1,0 +1,1 @@
+  IDEADEV-13153: bug allowing assigning null to @NotNull variables.  

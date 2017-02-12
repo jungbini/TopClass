@@ -1,0 +1,1 @@
+  fixed caret movement in virtual space (after RTL line's end)  

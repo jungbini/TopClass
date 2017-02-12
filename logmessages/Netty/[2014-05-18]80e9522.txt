@@ -1,0 +1,1 @@
+  Fix IndexOutOfBoundsException in OpenSslEngine  Motivation:  - In unwrap(), it does not check if the current index of dsts has reached at its end offset, resulting in IndexOutOfBoundsException. - SSLEngine does not update the position of the source buffer correctly when SSL.writeToSSL() returns a negative value.  Modifications:  Fix them all  Result:  Less bugs  

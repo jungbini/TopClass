@@ -1,0 +1,1 @@
+  Added getFixes() to PyExternalProcessException instead of withHandler()  These exceptions and fixes are now used for displaying notifications in the notification area of the package management panel.  

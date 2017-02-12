@@ -1,0 +1,1 @@
+tory(..., Consumer) not to use '--follow', but follow renames manually: 1. Get history without '--follow' 2. Check if the first commit in the history was ADDING the file or RENAMING it. 3. If it was a rename, then get history for the previous version of file name - and so on.  

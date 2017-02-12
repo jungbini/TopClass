@@ -1,0 +1,1 @@
+  fix,feat(iOS,core): Fix remove own stream from peer connection and enabled SDP optimizer  

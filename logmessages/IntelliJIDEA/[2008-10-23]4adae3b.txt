@@ -1,0 +1,1 @@
+  settings: tree selection after refilter issues fixed  

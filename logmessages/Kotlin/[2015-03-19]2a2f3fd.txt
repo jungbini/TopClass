@@ -1,0 +1,1 @@
+ Revert "Fixed test data according to fixed bug in IDEA JPS."  This reverts commit 72c05b45a034fa8906f5b739d9928f5c0f0c3d04.  

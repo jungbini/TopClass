@@ -1,0 +1,1 @@
+  SVN 1.7: svnkit 8788, some bugs fixed; changed compare with branch according to changed API  

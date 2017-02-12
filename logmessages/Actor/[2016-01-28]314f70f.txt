@@ -1,0 +1,1 @@
+  fix(server:user): run afterCreate user hook after user creation scope  

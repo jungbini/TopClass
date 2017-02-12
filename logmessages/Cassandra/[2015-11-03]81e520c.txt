@@ -1,0 +1,1 @@
+  (cqlsh) fix COPY using wrong variable name for time_format  patch by Stefania Alborghetti; reviewed by Paulo Motta for CASSANDRA-10633  

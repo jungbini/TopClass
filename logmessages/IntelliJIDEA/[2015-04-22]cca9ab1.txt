@@ -1,0 +1,1 @@
+  fixed PY-15466 Cannot save module settings: NPE (no workaround found)  

@@ -1,0 +1,1 @@
+  Tab completion does not work in Debugger Python Console (PY-21504)  Reuse tab completion from integrated Python console  

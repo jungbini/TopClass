@@ -1,0 +1,1 @@
+  Disable --watchfs on OSX in preparation for enabling it by default.  There's no timeline right now, but it's unusable on OSX and Oracle has no plans of fixing it.  -- MOS_MIGRATED_REVID=106486015  

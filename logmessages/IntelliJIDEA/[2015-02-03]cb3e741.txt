@@ -1,0 +1,1 @@
+  fixed PY-7574 "Python Integrated Tools" doesn't appear in settings search when matched  Used new searchable options contributor, removed usage of deprecated NonDefaultProjectConfigurable  

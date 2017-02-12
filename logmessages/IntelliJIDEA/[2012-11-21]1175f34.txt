@@ -1,0 +1,1 @@
+  Run/Debug Configuration dialog: Apply button is wrongly enabled  

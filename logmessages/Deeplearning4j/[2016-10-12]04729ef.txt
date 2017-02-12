@@ -1,0 +1,1 @@
+ Merge pull request #2174 from deeplearning4j/mw_reset  Xavier WeightInit adds & CifarIterator fix  commit 04729efebf92fe55b68a3e48d7a24f1ff6185ac5  Stats update schema fix for activations stats; switch SbeStatsReport to infer layer/param names from maps  

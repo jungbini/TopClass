@@ -1,0 +1,1 @@
+  another fix for IDEA-126598 Find in open files does not find occurrences in files outside of project  

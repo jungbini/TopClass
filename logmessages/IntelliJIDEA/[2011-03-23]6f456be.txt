@@ -1,0 +1,1 @@
+  all custom dom descriptions to be equal to each other (fixes the occasional assertion from ant)  

@@ -1,0 +1,1 @@
+  check revicion for null changed to emptyOrSpaces; comment for reading bookmarks from .hg/bookmarks added; rename content panel using 'my' prefix; getHelpId(), getPreferredFocusedComponent(), getServiceDimensionKey() methods implemented  

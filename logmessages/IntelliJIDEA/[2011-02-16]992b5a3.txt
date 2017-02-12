@@ -1,0 +1,1 @@
+  @NotNull, fix calculating SDK for out of project files during completion (PY-1975)  

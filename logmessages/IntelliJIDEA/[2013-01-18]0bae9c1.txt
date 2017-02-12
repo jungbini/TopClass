@@ -1,0 +1,1 @@
+  fixed PY-8518 Undo for Refill paragraph doesn't work properly  

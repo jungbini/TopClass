@@ -1,0 +1,1 @@
+  Move titan.properties into a Titan subpackage  fixes #597  Also makes TitanConstants's static initializer a little more defensive with message-bearing Preconditions  

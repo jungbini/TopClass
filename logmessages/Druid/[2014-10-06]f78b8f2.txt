@@ -1,0 +1,1 @@
+ fix ApproximateHistogram combining factory  

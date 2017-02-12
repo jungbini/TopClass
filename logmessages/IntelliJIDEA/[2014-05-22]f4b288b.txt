@@ -1,0 +1,1 @@
+  fix gray gap in ComboBox under Darcula and IntelliJ lafs  

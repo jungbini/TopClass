@@ -1,0 +1,1 @@
+ fix(web): reset renderMessagesCount on selected dialog change  

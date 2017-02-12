@@ -1,0 +1,1 @@
+  fixed bug with empty task files, improved navigation to task  

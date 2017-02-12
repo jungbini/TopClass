@@ -1,0 +1,1 @@
+  fixed PY-10145 Web2Py: disable smart type completion inside views  

@@ -1,0 +1,1 @@
+  Fixed issue on graph at POJO level: the internal status of object didn't bind correctly RID and Version. Now has been fixed.  

@@ -1,0 +1,1 @@
+  Issue #4873 , several bugs in handling of ids of files were fixed.  

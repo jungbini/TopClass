@@ -1,0 +1,1 @@
+ault profile is removed if A has a set of default profiles greater than zero. If A consists only of [default], B will inherit it during the merge correctly; if A consists of [p1, p2], B will result in [p1, p2] as well; if B consists of [p1] and A of [p2, p3], B will result in [p1, p2, p3] post-merge.  Issue: SPR-9761, SPR-9444  

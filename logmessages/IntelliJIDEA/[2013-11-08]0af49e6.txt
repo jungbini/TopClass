@@ -1,0 +1,1 @@
+  fix two psi elements per one ast element in stub-ast switch: psi1 is taken from stub psi2 is eagerly created during chameleon parsing another thread gets the ast when some psi1 parent is already switched and psi1 is not, it walks down the ast and gets psi2  

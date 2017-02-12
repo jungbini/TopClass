@@ -1,0 +1,1 @@
+  Makes the use of dump_syms_stub non-fatal.  It appears as though the --objc_generate_debug_symbols flag generates a viable dSYM bundle before the build is failed by this stub script. This change makes the stub a warning instead of an error so that users can utilize the generated dSYM to do debugging.  -- MOS_MIGRATED_REVID=119958618  

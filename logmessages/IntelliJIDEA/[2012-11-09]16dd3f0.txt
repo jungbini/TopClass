@@ -1,0 +1,1 @@
+  fixed resolve in sub injected fragments of doctests  

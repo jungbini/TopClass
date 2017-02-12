@@ -1,0 +1,1 @@
+  fixed broken shortcut for next task window action  

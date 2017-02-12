@@ -1,0 +1,1 @@
+  cqlsh copy: fix missing counter values  patch by Stefania Alborghetti; reviewed by Tyler Hobbs for CASSANDRA-12476  

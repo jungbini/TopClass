@@ -1,0 +1,1 @@
+  disallow textSize() <= 0 (fixes #3110)  

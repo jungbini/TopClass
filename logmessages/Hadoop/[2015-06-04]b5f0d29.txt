@@ -1,0 +1,1 @@
+  HADOOP-12018. smart-apply-patch.sh fails if the patch edits CR+LF files and is created by 'git 

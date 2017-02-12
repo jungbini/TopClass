@@ -1,0 +1,1 @@
+  Fixed bug with history stop working after executing empty last history item (PY-3232).  

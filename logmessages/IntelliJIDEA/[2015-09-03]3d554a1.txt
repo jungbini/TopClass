@@ -1,0 +1,1 @@
+  fixed testAutoRendererConfigurable - pt.2  

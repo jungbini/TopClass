@@ -1,0 +1,1 @@
+  maven-plugin: log actual compiler arguments  mvn --debug prints compiler arguments  

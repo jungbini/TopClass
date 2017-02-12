@@ -1,0 +1,1 @@
+  KAFKA-2795: fix potential NPE in GroupMetadataManager.addGroup  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Onur Karaman, Guozhang Wang  Closes #488 from hachikuji/KAFKA-2795  

@@ -1,0 +1,1 @@
+  Temporally revert Findbugs refactoring due to failing 'SamplesCodeQualityIntegrationTest'  

@@ -1,0 +1,1 @@
+  fixed PY-4048 Bugs in type detection with sphinx combined parameter type and description  

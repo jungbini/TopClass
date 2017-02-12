@@ -1,0 +1,1 @@
+  xdebugger: cancel watch editing on session events  

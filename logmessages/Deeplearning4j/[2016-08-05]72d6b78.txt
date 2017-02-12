@@ -1,0 +1,1 @@
+ Fix ComputationGraphUpdater bug with 0-param layers (subsampling etc)  

@@ -1,0 +1,1 @@
+  attribute value parsing in JSP fixed (it can contain JSP expression)  

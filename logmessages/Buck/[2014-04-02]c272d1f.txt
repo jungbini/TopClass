@@ -1,0 +1,1 @@
+  Fix missing resource close  Summary: another findbugs bug  Test Plan: sandcastle  

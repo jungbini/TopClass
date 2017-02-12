@@ -1,0 +1,1 @@
+  IDEA-94322 (Improper 'Replace StringBuilder with String' quickfix)  

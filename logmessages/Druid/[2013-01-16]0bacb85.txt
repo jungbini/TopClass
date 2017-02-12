@@ -1,0 +1,1 @@
+  fix duplicate keys, shutdown gracefully and make sure we check all multiget keys in memcached benchmark  

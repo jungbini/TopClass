@@ -1,0 +1,1 @@
+  fix - empty provider due to inheritance from AbstractActiveBinding  

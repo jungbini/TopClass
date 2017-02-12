@@ -1,0 +1,1 @@
+ Merge pull request #745 from deeplearning4j/word2vecfixes  fixed word2vec tests  commit 932bfd9a00d5f7adfbcaeebd527025f53391534e  fixed word2vec tests  

@@ -1,0 +1,1 @@
+  initial approach to project view for Web2Py projects  fixed PY-10075 Web2Py: project root as an application root  

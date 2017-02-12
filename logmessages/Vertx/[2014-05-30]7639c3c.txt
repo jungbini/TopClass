@@ -1,0 +1,1 @@
+  Provide simpler solution to DefaultHttpClientRequest race condition, also fixed race in NetTest and some work on Clustered event bus test  

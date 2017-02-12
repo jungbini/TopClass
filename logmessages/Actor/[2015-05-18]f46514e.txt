@@ -1,0 +1,1 @@
+  fix(sms): changed default sms-wait-interval to 1 min  

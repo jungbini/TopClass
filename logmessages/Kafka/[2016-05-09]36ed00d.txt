@@ -1,0 +1,1 @@
+  KAFKA-3421; Follow up to fix name of SourceTask method and add documentation of connector status REST API  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1355 from ewencp/kafka-3421-follow-up  

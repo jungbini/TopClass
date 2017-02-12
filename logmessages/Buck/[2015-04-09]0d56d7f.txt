@@ -1,0 +1,1 @@
+  Support exported_linker_flags in project generation.  Summary: Xcode project generation is ignoring exported_linker_flags and treating linker_flags as if they were exported_linker_flags. This fixes that.  Test Plan: CI new tests  

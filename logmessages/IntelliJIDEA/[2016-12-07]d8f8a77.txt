@@ -1,0 +1,1 @@
+  inspections: allow to assign "fix only" severity for locally available global tools  

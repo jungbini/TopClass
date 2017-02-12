@@ -1,0 +1,1 @@
+  allow file closing in tabless mode, fix exception when switching to this mode with no files open in the editor  

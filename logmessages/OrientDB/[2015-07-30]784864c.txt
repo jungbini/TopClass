@@ -1,0 +1,1 @@
+  fixed unwind in case of Light weight Edges, issue #4668  

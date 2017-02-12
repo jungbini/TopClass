@@ -1,0 +1,1 @@
+  fixed PY-3942 Test runner doesn't seem to notice py.test tests have completed when using classes  

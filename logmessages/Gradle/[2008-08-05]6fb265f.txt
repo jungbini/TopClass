@@ -1,0 +1,1 @@
+  GRADLE-174: - Include most of org.gradle.api in generated javadocs - Added package descriptions - Added more javadocs to Project, and fixed some not-quite-right ones  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@684 004c2c75-fc45-0410-b1a2-da8352e2331b  

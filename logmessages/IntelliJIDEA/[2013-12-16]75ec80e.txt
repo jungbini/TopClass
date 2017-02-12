@@ -1,0 +1,1 @@
+  IDEA-118266 time measurements for all Mercurial commands added and log command debug output suppressed.  

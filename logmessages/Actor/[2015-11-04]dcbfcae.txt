@@ -1,0 +1,1 @@
+  fix(server:bots): md5 token without prefix and salt  

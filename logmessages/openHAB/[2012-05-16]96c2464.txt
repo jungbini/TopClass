@@ -1,0 +1,1 @@
+  fix for enhancement #88 - removed validation of ItemType to allow item types other then StringItem  

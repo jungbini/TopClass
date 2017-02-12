@@ -1,0 +1,1 @@
+  IDEA-67963 Autoboxing not working for array initializers in debugger evaluation  

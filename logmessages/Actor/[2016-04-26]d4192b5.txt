@@ -1,0 +1,1 @@
+ fix(server): dont throw exception if pool is disabled  

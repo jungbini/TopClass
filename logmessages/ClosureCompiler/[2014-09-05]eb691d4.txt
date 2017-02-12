@@ -1,0 +1,1 @@
+  Create a class that applies suggested fixes to code and use that in the RefasterJS debugging servlet. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=74896202  

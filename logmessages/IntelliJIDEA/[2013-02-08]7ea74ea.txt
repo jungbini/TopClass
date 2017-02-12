@@ -1,0 +1,1 @@
+  Do not ask authentication in common authenticator for every request; ask only for proxy or pass to explicitly registered authenticators  will fix IDEA-100247 Creating library from Maven asks for proxy authentication credentials also changes (same result, less code) fix for IDEA-100094 Git: strange proxy login dialog without proxy enabled when working with https git repository  

@@ -1,0 +1,1 @@
+  Incremental fix for #318 [runtime] JBossWebCometSupport EOF issue  

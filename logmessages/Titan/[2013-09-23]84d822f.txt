@@ -1,0 +1,1 @@
+  fix HazelcastKCVManager to respect "transactional" flag + warning about nested transactions  

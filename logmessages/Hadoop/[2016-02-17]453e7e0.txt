@@ -1,0 +1,1 @@
+  MAPREDUCE-6341. addendum patch to fix typos. Contributed by John Michael Luy.  

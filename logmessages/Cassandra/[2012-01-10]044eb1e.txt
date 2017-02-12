@@ -1,0 +1,1 @@
+  fix CLI `show schema` command insert of an extra comma in column_metadata patch by Yuki Morishita; reviewed by Pavel Yaskevich for CASSANDRA-3714  

@@ -1,0 +1,1 @@
+  added format specifier quick fix for the python string format inspection  

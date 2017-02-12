@@ -1,0 +1,1 @@
+  [vcs-log] fix IAE: current user might be null EA-66066  

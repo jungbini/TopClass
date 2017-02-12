@@ -1,0 +1,1 @@
+  add XDebuggerManager topic about debug processStarted/Stopped  hotswap must not depend on "View -> LiveEdit" checkbox setting  

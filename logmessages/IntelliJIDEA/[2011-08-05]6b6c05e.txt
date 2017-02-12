@@ -1,0 +1,1 @@
+  Effects combo box fixed for GTK+ L&F  

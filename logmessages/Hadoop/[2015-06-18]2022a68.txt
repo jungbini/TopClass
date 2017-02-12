@@ -1,0 +1,1 @@
+  HDFS-8466. Refactor BlockInfoContiguous and fix NPE in TestBlockInfo#testCopyConstructor() (Contributed by Vinayakumar B)  

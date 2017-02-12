@@ -1,0 +1,1 @@
+  Issue #2874,  sbtree tests without wal are fixed.  

@@ -1,0 +1,1 @@
+  [Tachyon-1333] Improved mount path checking  For correctness and simplicity, we place a few restrictions on mounting paths:  1. You cannot mount a UFS path that is a prefix or a suffix of an already-mounted UFS path 2. You cannot mount to a Tachyon path that shadows a path in the default underfs 3. The UFS path you are mounting must exist at mount time  

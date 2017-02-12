@@ -1,0 +1,1 @@
+  fixes #6406 by adding missing exports to OSGi manifest.  

@@ -1,0 +1,1 @@
+  Make some intentions not have state.  Hopefully fixes #849 for good.  

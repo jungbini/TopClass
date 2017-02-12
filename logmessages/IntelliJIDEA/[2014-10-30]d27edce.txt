@@ -1,0 +1,1 @@
+  Do not indent children of top level XML/HTML document (fixes WEB-392 HTML always auto-indenting if no parent tag and WEB-541 (X)HTML and body indentation)  

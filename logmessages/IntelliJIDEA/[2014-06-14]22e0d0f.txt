@@ -1,0 +1,1 @@
+  fixed labels on template language panel  

@@ -1,0 +1,1 @@
+  fixed PY-8571 Unwrap for elif suite should highlight the entire if statement  

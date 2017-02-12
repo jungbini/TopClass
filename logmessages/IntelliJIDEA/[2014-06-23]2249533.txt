@@ -1,0 +1,1 @@
+  fixed incorrect "view text" \n presentation for short strings  

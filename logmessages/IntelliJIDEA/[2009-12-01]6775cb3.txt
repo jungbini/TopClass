@@ -1,0 +1,1 @@
+  IDEADEV-35207 Mouse clicks are recognized only after mouse up in some places [fix in bg processes statusbar]  

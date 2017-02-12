@@ -1,0 +1,1 @@
+  PY-20452 Fixed: PyCharm 5.0.5 regex inspection bug with removing redundant escape  Update PyStringLiteralExpressionManipulator and use it inside PyStringLiteralExpressionImpl.updateText. PyStringLiteralExpressionManipulator.getRangeInElement is used for getting content range and handleContentChange is used for replacing literal with new content which includes quotes.  

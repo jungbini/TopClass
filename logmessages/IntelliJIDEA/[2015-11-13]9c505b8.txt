@@ -1,0 +1,1 @@
+  PY-17564 Use AddImportHelper#addFromImport in MoveFromFutureImportQuickfix  It's safer when PyBlock.IMPORT_GROUP_BEGIN marker is inserted for new imports in single place (via methods of AddImportHelper).  As an additional benefit of this approach, moved __from__ import statement is inserted in alphabetical order.  

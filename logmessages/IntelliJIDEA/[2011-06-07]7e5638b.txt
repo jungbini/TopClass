@@ -1,0 +1,1 @@
+  care about structure while computing prefixes  

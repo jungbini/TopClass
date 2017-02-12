@@ -1,0 +1,1 @@
+  Bug fix: use mavenProject.getActivatedProfilesIds()  

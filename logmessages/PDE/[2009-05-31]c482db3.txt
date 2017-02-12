@@ -1,0 +1,1 @@
+  apply patch for window distortion problem (bug #1176)  

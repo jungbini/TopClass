@@ -1,0 +1,1 @@
+  fix merge error; recompile Cassandra.java with thrift 0.7.0  

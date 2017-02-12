@@ -1,0 +1,1 @@
+  YARN-4265 Addendum patch to fix compilation issue caused by project version number  

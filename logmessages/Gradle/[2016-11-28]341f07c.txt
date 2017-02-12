@@ -1,0 +1,1 @@
+in a configuration wasn't consistent depending on the hierarchy of configurations. The reason is that the hierarchy of configurations was represented as a `Set<String>` instead of its ordered `LinkedHashSet<String>` counterpart.  

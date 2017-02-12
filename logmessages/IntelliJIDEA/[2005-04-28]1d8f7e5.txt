@@ -1,0 +1,1 @@
+  Problem with placing field on the same line as comment fixed.  

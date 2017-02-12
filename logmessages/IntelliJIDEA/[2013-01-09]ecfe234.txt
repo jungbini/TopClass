@@ -1,0 +1,1 @@
+  fixed PY-8404 Change signature: update validation on changing Use default value in signature checkbox  

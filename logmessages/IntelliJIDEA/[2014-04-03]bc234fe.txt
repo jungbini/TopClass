@@ -1,0 +1,1 @@
+  WEB-6069 CoffeeScript Debugger doesn't show value of the variables  

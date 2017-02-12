@@ -1,0 +1,1 @@
+  fixed PY-3086 Version compatibility inspection shouldn't highlight any imports as errors if they're under an if statement  

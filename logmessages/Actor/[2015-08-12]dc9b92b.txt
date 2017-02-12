@@ -1,0 +1,1 @@
+  fix(web): component return null when connection state is unknown;  

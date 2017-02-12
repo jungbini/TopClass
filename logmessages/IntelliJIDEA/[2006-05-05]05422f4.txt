@@ -1,0 +1,1 @@
+  name element and id element of structured element made lazy added ant comment element fixed lose of predefined properties on clearing aches of ant project  

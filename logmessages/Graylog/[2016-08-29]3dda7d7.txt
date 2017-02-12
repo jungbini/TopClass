@@ -1,0 +1,1 @@
+  make key_prefix configuration optional (#2757)  fixes #2755  

@@ -1,0 +1,1 @@
+ test and workaround for libxml in-context parsing bug. closes #362.  

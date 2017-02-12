@@ -1,0 +1,1 @@
+  fix(android): handle null global counter  

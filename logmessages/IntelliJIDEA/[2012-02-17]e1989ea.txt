@@ -1,0 +1,1 @@
+  save *.iml file immediately when new module/project is created (IDEA-67033, and also fixes IDEA-81435)  

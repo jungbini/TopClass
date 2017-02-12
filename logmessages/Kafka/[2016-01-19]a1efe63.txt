@@ -1,0 +1,1 @@
+  MINOR: Fix javadoc for `PartitionInfo.leader()`  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Guozhang Wang  Closes #789 from ijuma/fix-partition-info-leader-doc  

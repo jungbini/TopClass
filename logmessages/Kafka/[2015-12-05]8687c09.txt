@@ -1,0 +1,1 @@
+  MINOR: backport fix to partition assignor order (KAFKA-2931)  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Guozhang Wang, Gwen Shapira  Closes #630 from hachikuji/KAFKA-2931-0.9  

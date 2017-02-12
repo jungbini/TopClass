@@ -1,0 +1,1 @@
+  WEB-6780 JS Debugger / Variables: "Jump to Source" not working: This action should be available only for object or functions.  

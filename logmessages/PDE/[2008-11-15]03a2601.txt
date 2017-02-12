@@ -1,0 +1,1 @@
+  fix problem with "Show Sketch Folder" on Mac OS (bug #1010)  

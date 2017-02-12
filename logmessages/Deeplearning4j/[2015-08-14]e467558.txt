@@ -1,0 +1,1 @@
+ Merge pull request #562 from deeplearning4j/ab_gradtestsandfix  Gradient fixes and numerical gradient tests  commit e467558c108a6c81e3f62cb4790696631cc8739b  Minor fix in BaseUpdater  

@@ -1,0 +1,1 @@
+  Fix most of QueryCommandIntegrationTest on Windows  Summary: There are two legit test failures, but this fixes the issues related to newlines and the wrong slashing style in paths.  Addresses part of https://github.com/facebook/buck/issues/319  Test Plan: Ran the tests in IntelliJ  

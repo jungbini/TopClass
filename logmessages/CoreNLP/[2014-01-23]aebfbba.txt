@@ -1,0 +1,1 @@
+  support individual class features for TargetClassBigram, add debug options for LexicalReorderingFeaturizer, DiscriminativeAlignments, DiscriminativePhraseTable, TargetClassUnigram  

@@ -1,0 +1,1 @@
+  IDEA-135033 Storage for activation status fixed & .gdsl files within library sources ignored  

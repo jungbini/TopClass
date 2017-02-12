@@ -1,0 +1,1 @@
+  support alpha in debugger icon renderer  

@@ -1,0 +1,1 @@
+few issues.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #987 from ijuma/console-consumer-cleanups  

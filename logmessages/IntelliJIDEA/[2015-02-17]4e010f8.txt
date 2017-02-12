@@ -1,0 +1,1 @@
+ SSR: fix replacing/deleting simple annotations  

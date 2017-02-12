@@ -1,0 +1,1 @@
+  Merge branch 'STORM-2126_fix_npe_due_to_race_in_compute_new_sched_assignments' of https://github.com/abellina/storm into STORM-2126  STORM-2126: fix NPE due to race condition in compute-new-sched-assign  

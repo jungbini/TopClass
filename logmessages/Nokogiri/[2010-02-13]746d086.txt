@@ -1,0 +1,1 @@
+  fixing psuedo selectors and element selectors inside a not() function. closes #205  

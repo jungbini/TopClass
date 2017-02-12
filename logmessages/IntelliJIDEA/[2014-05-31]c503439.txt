@@ -1,0 +1,1 @@
+  quickfix for IDEA-125710 (Wrong selection behavior in file history window)  

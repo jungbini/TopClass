@@ -1,0 +1,1 @@
+  fix(rpc): zero friends/members in public group if user is not member of it  

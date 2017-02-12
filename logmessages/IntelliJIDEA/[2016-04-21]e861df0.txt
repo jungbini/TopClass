@@ -1,0 +1,1 @@
+  IDEA-CR-10285 set limit to 60, fix quotes  

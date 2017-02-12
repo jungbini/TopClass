@@ -1,0 +1,1 @@
+  possible NPE fixed (SVNRepository was created without authentication manager)  

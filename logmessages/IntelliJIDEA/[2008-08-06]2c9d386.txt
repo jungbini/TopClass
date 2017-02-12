@@ -1,0 +1,1 @@
+  let the ProcessHandler stop the application instead of destroying it from debugger (IDEADEV-28533)  

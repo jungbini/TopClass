@@ -1,0 +1,1 @@
+  Fixed off-by-1 bug in parsing constant chunks of new style formatted strings  

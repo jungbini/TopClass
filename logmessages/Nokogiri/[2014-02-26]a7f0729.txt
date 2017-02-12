@@ -1,0 +1,1 @@
+ Fix incorrect namespace comparison to use attribute prefix instead of element prefix  

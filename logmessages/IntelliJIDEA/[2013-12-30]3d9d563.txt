@@ -1,0 +1,1 @@
+  quick documentation: fix formatting stripping html tags (IDEA-118673)  

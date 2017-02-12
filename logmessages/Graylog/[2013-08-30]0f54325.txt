@@ -1,0 +1,1 @@
+  use basic auth for PUT/POST/DELETE  now logs the actual request on  debug use authentication for all http methods, credentials are only overridable for GET, because that's the only one we need right now  

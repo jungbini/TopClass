@@ -1,0 +1,1 @@
+  live template settings: fix isModified to account for group name change (part of IDEA-150535)  

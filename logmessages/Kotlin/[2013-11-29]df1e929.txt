@@ -1,0 +1,1 @@
+  Generified subpackages obtaining, fixed it for mixed packages.  

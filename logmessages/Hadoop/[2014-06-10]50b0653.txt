@@ -1,0 +1,1 @@
+  HADOOP-9555. HA functionality that uses ZooKeeper may experience inadvertent TCP RST and miss session expiration event due to bug in client connection management. Contributed by Chris Nauroth.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1601709 13f79535-47bb-0310-9956-ffa450edef68  

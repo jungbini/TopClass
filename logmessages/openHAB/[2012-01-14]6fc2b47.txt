@@ -1,0 +1,1 @@
+  Fixed synchronization bug when resuming a suspended request (second issue mentioned in https://groups.google.com/forum/?hl=en#!topic/openhab/UQl3fvIiaWA)  

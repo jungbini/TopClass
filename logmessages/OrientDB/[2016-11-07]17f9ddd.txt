@@ -1,0 +1,1 @@
+  Graph: fixed issue on OrientEdge.toString() when the graph is closed  

@@ -1,0 +1,1 @@
+  fix(iOS): Fixing wallpaper localization typo, replaced default bg  

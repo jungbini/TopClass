@@ -1,0 +1,1 @@
+  fix Unresolved reference inspection in Evaluate expression (PY-14309)  We should pass fake context for element in code fragment in order to resolve it.  

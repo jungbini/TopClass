@@ -1,0 +1,1 @@
+havior for Git 1.7.1: old version; no easy workaround; multiline subjects are not recommended.  (cherry picked from commit a6f80fcd9c0bd095f15aa2b40701f308106f8529)  

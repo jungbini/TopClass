@@ -1,0 +1,1 @@
+  Fix bugs in NodeSet. One is that the single argument of slice method might be a range. Another is that the result of 

@@ -1,0 +1,1 @@
+  allow changing other people's passwords  check for permissions like in the associated server issue require old password for admin's own password, but not for other accounts  fixes #406  

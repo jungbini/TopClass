@@ -1,0 +1,1 @@
+  fixed PY-9448 Add ability to directly create pdf's from sphinx documentation  

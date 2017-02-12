@@ -1,0 +1,1 @@
+  KT-2606 Filter java.util.* import #KT-2606 fixed added FilteringScope  

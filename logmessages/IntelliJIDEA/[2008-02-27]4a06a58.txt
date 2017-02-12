@@ -1,0 +1,1 @@
+  fixing 1. unnecesary index data appends 2. MemoryIndexStorage unnecesary data reads 3. MapIndexStorage.getKeys() now returns recently added keys (the cache was not cleared before querying the persistent map)  

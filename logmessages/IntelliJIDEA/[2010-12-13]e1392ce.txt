@@ -1,0 +1,1 @@
+  (halfway fix, kirillk!!) IDEA-62856 "Detachable editor tabs" doesn't work for Database console  

@@ -1,0 +1,1 @@
+  WI-11020 fixed errors on default project JS and SQL configuration saving  

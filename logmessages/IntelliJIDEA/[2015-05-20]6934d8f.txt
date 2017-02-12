@@ -1,0 +1,1 @@
+ IDEA-132852 Debugger: values in editor are still shown after disconnect - fix for closing toolwindow  (cherry picked from commit f53bb941155bc8546492bc2a1bcd39013a9a7490)  

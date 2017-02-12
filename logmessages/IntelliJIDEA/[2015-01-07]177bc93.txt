@@ -1,0 +1,1 @@
+  enhance dependencies calculation for cache element descriptor, use depending file information for elements produced via entity expansion. This change fixes XmlRenameTest.testRenameDtdUsedViaEntity sporadic failures  

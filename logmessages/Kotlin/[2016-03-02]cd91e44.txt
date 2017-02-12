@@ -1,0 +1,1 @@
+  Minor fix: intention description directory renamed  

@@ -1,0 +1,1 @@
+  Changed update link to a button, fixed minor bugs, refactored list panel  

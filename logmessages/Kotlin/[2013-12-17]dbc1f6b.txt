@@ -1,0 +1,1 @@
+  Fix autopopup completion with irrelevant variants after typing 'f' suffix for float number  #KT-4312 Fixed  

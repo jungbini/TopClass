@@ -1,0 +1,1 @@
+  HDFS-6917. Add an hdfs debug command to validate blocks, call recoverlease, etc. (cmccabe)  

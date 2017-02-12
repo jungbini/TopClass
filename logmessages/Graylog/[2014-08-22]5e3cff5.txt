@@ -1,0 +1,1 @@
+  Possible fix for issue #890  - added additional check to ensure sampling of data only applies to search result chart widgets  

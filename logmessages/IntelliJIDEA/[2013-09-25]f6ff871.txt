@@ -1,0 +1,1 @@
+  IDEA-114001 XDebuger Breakpoint Properties: enable in tree is not saved IDEA-114002 XDebuger breakpoint properties: don't close the dialog by double click IDEA-114004 XDebugger breakpoint properties: checkboxes synchronization is broken  

@@ -1,0 +1,1 @@
+  EA-34864 - assert: CaretModelImpl.moveToOffset  Debug info has been added  

@@ -1,0 +1,1 @@
+  fix type for composite literal, fix #1879 and fix #1942  

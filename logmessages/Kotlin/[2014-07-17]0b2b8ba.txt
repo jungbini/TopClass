@@ -1,0 +1,1 @@
+ Fixed KT-5493: NPE fix  

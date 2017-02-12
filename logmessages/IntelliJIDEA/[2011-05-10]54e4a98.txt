@@ -1,0 +1,1 @@
+  DebuggerManagerThread.invokeAndWait fix: "release() called too early"  

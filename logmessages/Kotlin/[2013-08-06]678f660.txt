@@ -1,0 +1,1 @@
+  JS backend: made as intrinsic map accessing methods and fixed accessing to native map.  

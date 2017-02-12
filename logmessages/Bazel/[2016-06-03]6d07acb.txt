@@ -1,0 +1,1 @@
+  Add @loader_path to -rpath for xctest targets.  This fixes test timeouts when the app tested is using Swift. In theory this also prevents similar problems with any code that uses dynamic libs packaged in the IPA.  -- MOS_MIGRATED_REVID=123976581  

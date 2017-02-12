@@ -1,0 +1,1 @@
+  added test case for issue #1373 - aggregate functions do not work on embedded documents collection  (already fixed)  

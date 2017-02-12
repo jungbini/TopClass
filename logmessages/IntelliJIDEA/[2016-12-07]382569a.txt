@@ -1,0 +1,1 @@
+  Test Comparable IteratorPosition using assertThat  which makes failure messages (and maybe assertion code) more readable, and avoids http://errorprone.info/bugpattern/SelfComparison.  

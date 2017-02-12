@@ -1,0 +1,1 @@
+  skip creating coverage toolwindow in test mode (fixes a possible  _LastInSuiteTest.testProjectLeak failure)  

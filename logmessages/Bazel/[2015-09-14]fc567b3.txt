@@ -1,0 +1,1 @@
+  Fix a bug, when we have dependency from one aspect to another aspect1->aspect2 and aspect2 fails then aspect1 throws IllegalStateException.  -- MOS_MIGRATED_REVID=102976139  

@@ -1,0 +1,1 @@
+  OStorageExistException was introduced to fix pool autocreate issue.  

@@ -1,0 +1,1 @@
+  fixed issue #4260 - Cannot obtain an OUser instance when the username contains a single quote character  

@@ -1,0 +1,1 @@
+  redundant cast: try to infer cast operand type from cast parent (fix testInferFromTypeCast)  

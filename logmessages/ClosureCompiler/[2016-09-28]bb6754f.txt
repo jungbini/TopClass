@@ -1,0 +1,1 @@
+  GWT Transpiler no longer clobbers global state  RELNOTES: Fix bug where transpile.js was polluting global namespace with GWT exports  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=134587869  

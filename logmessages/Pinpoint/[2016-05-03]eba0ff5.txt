@@ -1,0 +1,1 @@
+ bug fix. cannot focus on input of select2 in modal  

@@ -1,0 +1,1 @@
+  removed done TODO because both 'fixed' and 'installed' facets can be configured (see tests)  

@@ -1,0 +1,1 @@
+  Prefix paths with the "file://" protocol  This is required for error positioning  

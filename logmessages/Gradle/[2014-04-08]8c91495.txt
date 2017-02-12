@@ -1,0 +1,1 @@
+  REVIEW-4589: Internalised the configuration of deps in fixture  - Create the config and dependency for resolving within fixture - Cannot use detached configuration due to lack of resolution strategy control  

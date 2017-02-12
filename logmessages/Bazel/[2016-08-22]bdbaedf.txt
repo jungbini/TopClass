@@ -1,0 +1,1 @@
+  Move $swiftstdlibtoolwrapper to ReleaseBundlingToolsRule, the accurate place for rules to inherit from which require it.  This fixes a apple_watch2_extension bug in which this swift tool is unavailable (because it is undefined).  -- MOS_MIGRATED_REVID=130961298  

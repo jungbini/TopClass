@@ -1,0 +1,1 @@
+  ui: fix editor tabs height for multiple rows & rows > 2 + text vertical alignment for same case  

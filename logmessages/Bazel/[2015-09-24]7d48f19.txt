@@ -1,0 +1,1 @@
+  [Docker] Correctly append ./ prefix to dotted files in archives  Previously, dotted files were though of having the './' prefix.  -- MOS_MIGRATED_REVID=103864015  

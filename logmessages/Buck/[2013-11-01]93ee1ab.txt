@@ -1,0 +1,1 @@
+  In BuildRuleResolver, assert that a rule is added only once.  Summary: This seems to have uncovered a bug in AndroidBinaryRuleTest.  Test Plan: Sandcastle builds.  

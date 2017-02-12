@@ -1,0 +1,1 @@
+  JS backend: fixed the division operation for integral types.  #KT-2342 fixed  

@@ -1,0 +1,1 @@
+  fix starting js debugger in Firefox on Mac  

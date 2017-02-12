@@ -1,0 +1,1 @@
+  non-retina versions of button icons showing up in contribs (fixes #4715)  

@@ -1,0 +1,1 @@
+  Remove unneeded annotation  It was a temporary workaround due to client Skylark code that was sensitive to type(). That code has been fixed.  -- MOS_MIGRATED_REVID=135920620  

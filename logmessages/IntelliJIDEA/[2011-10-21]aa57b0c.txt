@@ -1,0 +1,1 @@
+  Bug fix: return type for 'DomainClass.withSession()' calculates incorrectly for grails 1.3.7  

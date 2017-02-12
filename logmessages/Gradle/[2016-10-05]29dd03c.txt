@@ -1,0 +1,1 @@
+  Show more detailed task execution status at the end of the build  Also fix percent rounding and make `TaskExecutionStatistics` immutable.  +review REVIEW-6285  

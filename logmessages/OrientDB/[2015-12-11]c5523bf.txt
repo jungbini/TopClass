@@ -1,0 +1,1 @@
+  Binary compatibility issue was fixed, messenger twister class was removed because used only in tests.  

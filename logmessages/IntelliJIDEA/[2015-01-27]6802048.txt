@@ -1,0 +1,1 @@
+  [vcs-log] fix concurrency issue in collapse all / expand all actions  

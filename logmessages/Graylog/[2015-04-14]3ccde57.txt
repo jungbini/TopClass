@@ -1,0 +1,1 @@
+  Journal details are now being exposed as metrics in addition to the separate REST resource  the rest resource will be marked as deprecated soon  fixes #1112  

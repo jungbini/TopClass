@@ -1,0 +1,1 @@
+  IDEA-82242 Scroll the tabs with mouse wheel bugfix  

@@ -1,0 +1,1 @@
+  Support connection close header in HttpClient - fixes #1250  

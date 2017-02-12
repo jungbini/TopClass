@@ -1,0 +1,1 @@
+  proper data context fallback for non-project-related editors (probably fixes DBE-2299)  

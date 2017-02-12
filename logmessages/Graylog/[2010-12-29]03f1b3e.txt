@@ -1,0 +1,1 @@
+  make regex standard for all filter (message) fields. fix broken blacklist show action  

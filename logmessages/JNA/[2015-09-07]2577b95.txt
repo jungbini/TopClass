@@ -1,0 +1,1 @@
+ fix mingw struct return when using SYSV ABI fix msvcc stdcall closures  

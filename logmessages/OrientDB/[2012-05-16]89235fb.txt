@@ -1,0 +1,1 @@
+  Fixed bug on query with invalid RID in index  

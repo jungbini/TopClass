@@ -1,0 +1,1 @@
+  hiding sidebar, rebuild graph with window size  you can hide the sidebar by calling hideSidebar() already. TODO: think about a clever position for a hide button and implement another one to show the sidebar again.  relates #298, fixes #305  

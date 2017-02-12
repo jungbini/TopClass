@@ -1,0 +1,1 @@
+  fixed issue when one of the configured credentials throws an exception  

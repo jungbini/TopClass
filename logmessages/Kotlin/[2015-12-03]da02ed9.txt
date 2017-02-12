@@ -1,0 +1,1 @@
+  GroupingMessageCollector: ensure that messages without location are reported first  Should fix CompileKotlinAgainstCustomBinariesTest.testIncompleteHierarchyInJava(Kotlin) tests  

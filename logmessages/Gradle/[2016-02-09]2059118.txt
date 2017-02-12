@@ -1,0 +1,1 @@
+  Recognize Stuart Armitage for scala compiler fixes.  +review REVIEW-5815 - Fixed both GRADLE-3395 and GRADLE-3394  

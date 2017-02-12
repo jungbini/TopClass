@@ -1,0 +1,1 @@
+  fixes for empty universal search queries  * used indices should not break with nil error * empty search string should result in all() search on indices in selected timeframe  fixes #WEBINTERFACE-415, #WEBINTERFACE-398  

@@ -1,0 +1,1 @@
+  fix button firing so that mouse movement does not interfere (fixes #3529)  

@@ -1,0 +1,1 @@
+  Module's testRuntimeClasspath fixed, now includes module's self tests compile output  

@@ -1,0 +1,1 @@
+  last resources for keyword search REST resource. fixes #245  

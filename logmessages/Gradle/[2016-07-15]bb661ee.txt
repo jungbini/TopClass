@@ -1,0 +1,1 @@
+  GRADLE-3504 Fix support for logging formatted messages with an exception.  This fix is for a regression in Gradle 2.4. In Gradle versions 2.3 and earlier a logging statement like so would include the passed exception stacktrace in the log. This is also consistent with SLF4J logger behavior.  logger.error("This is a {} error", "bad", new Exception());  

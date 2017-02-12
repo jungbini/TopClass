@@ -1,0 +1,1 @@
+  don't offer "create subclass" fix when class is final or all of its constructors are private (IDEADEV-28802)  

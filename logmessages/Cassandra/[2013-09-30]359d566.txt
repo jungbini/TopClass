@@ -1,0 +1,1 @@
+  fix broken process search pattern  Patch by Laurent Raufaste; reviewed by eevans for CASSANDRA-6090  

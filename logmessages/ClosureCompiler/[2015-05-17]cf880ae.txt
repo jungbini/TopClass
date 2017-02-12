@@ -1,0 +1,1 @@
+ Report an error if --process_jquery_primitives and --process_closure_primitives are both enabled.  This will make it easier to debug issues like #918. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=93860787  

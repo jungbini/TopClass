@@ -1,0 +1,1 @@
+  introduce variable: caret position fix & enable for more situations  

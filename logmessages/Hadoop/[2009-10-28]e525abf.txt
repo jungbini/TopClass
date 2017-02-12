@@ -1,0 +1,1 @@
+  HBASE-1816 Master rewrite; fix flag that reported fail on open, always  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@830783 13f79535-47bb-0310-9956-ffa450edef68  

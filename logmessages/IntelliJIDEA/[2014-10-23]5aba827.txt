@@ -1,0 +1,1 @@
+  fixed EDU-245 More clear UI for creating task windows  

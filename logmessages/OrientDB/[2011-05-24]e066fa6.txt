@@ -1,0 +1,1 @@
+  Fixed bug with ENUM setted in documents reported in ML by Pieter  

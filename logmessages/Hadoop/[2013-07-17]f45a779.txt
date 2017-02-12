@@ -1,0 +1,1 @@
+  svn merge -c 1503976 merging to branch-2 to fix HADOOP-9738. TestDistCh fails. Contributed by Jing Zhao.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1503978 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  housekeeping - left over task after Daz attempted to fix the deprecation warnings. Now the beforeMerged/whenMerged hooks are triggered for workspace as well. We don't merge anything with the Workspace model and the model does not have state but the hooks are enabled for the sake of consistency and compatibility (previous GenerateX... tasks did use before/when for workspace).  

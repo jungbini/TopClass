@@ -1,0 +1,1 @@
+f76980d54c3aa2cfa435a8c79.  I missed some config namespace references in that commit that I should have updated, breaking some scanjob helper classes.  

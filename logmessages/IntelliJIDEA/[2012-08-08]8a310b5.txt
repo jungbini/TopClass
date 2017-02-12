@@ -1,0 +1,1 @@
+  lldb reports weird objc-description for char* type. workaround for this in ProtobufFrontend. testValues fix.  

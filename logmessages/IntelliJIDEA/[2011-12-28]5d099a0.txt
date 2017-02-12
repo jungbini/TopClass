@@ -1,0 +1,1 @@
+  fixed PY-5365  Incorrect "Expression can be simplified" inspection for "== 0" expressions.  

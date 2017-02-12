@@ -1,0 +1,1 @@
+  JS stdlib: fix bug with using "__proto__" as element of DefaultPrimitiveHashSet.  

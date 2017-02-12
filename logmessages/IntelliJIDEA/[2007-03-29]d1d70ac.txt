@@ -1,0 +1,1 @@
+  JSPX: expand selection (Ctrl-W) should select whole comment including prefix/suffix (IDEADEV-15742)  

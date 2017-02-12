@@ -1,0 +1,1 @@
+ Merge pull request #817 from teichsta/npw-with-security-external  fix for #669  commit 3ff2a1d1bb5739b178a3298af8bae464b89417ab  fix for #669  

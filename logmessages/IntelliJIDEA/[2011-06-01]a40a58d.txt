@@ -1,0 +1,1 @@
+  CDI migrated to FacetDependentToolWindow && dependency fix for tests  

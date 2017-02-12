@@ -1,0 +1,1 @@
+  WatchKit 1 app fixes  Summary: Fixes inability to build a fat iOS binary containing a WatchKit 1 app.  Also adds a step to copy the WatchKit stub binary to `_WatchKitStub/WK` which is expected by Apple to be present.  Test Plan: CI  Reviewed By: Coneko  fbshipit-source-id: 891392d  

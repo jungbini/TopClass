@@ -1,0 +1,1 @@
+  Make python exetutable zip a real self-extracting binary  Only by doing this, we can load shared library from packaged python binary. Also fixed some bugs in building python executable zip.  -- Change-Id: I80fb5f99cf06f78b86c3e5de410578a350d31846 Reviewed-on: https://bazel-review.googlesource.com/#/c/4263 MOS_MIGRATED_REVID=129726147  

@@ -1,0 +1,1 @@
+  Add minimal 32- and 64-bit ELF parsers  Summary: This adds fast, minimal implementations of ELF parsers for both 32- and 64-bit ELF, with just enough functionality to lookup and return the data in specific ELF sections.  Subsequent 

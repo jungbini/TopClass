@@ -1,0 +1,1 @@
+  Fixed bug reported by Raf in to ML about unmarshalling of values that starts with #: OrientDB JSON reader thought it was a Link. So I've added a check if also contains ":"  

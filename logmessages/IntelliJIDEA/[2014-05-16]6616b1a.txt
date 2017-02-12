@@ -1,0 +1,1 @@
+  [git tests] Log debug GitHandler stuff if test failed  

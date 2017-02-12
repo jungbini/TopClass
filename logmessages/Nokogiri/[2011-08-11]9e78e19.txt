@@ -1,0 +1,1 @@
+  Don't override gcc optimize flag in extconf.rb  This change allows me to compile Nokogiri with:  $ rake compile CFLAGS="-O0"  For easier debugging.  

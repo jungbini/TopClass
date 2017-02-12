@@ -1,0 +1,1 @@
+  "is" over enum entry is now an error + new tests + test fixes  

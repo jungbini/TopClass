@@ -1,0 +1,1 @@
+  Return zero for 'fixedArgs' if method is not varargs  

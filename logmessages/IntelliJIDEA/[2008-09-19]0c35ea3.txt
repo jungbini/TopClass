@@ -1,0 +1,1 @@
+  correctly deal with multiple prefixes for the same namespace uri  

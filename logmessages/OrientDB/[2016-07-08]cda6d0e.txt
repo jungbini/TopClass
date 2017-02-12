@@ -1,0 +1,1 @@
+  minor fix of error management in remote startup, issue #6395  

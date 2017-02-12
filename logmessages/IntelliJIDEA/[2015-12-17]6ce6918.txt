@@ -1,0 +1,1 @@
+  family name for DOM quick fixes corrected accordingly to 'QuickFix.getFamilyName' javadoc  

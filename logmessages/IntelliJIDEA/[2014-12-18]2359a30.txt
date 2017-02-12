@@ -1,0 +1,1 @@
+  gradle: fix deadlock during build classpath resolve IDEA-133361 Deadlock  

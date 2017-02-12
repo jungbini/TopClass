@@ -1,0 +1,1 @@
+  fix for #141 - thanks Sandro for the proposal  

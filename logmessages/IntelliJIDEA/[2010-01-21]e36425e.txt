@@ -1,0 +1,1 @@
+  IDEA-27144 Spring 3.0 API added;generics & vararg support fix  

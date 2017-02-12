@@ -1,0 +1,1 @@
+  Test fixes  1. Removed static processing for FormatterUtilHelper; 2. Merged FormatterUtilHelper with WhiteSpaceFormattingStrategy;  

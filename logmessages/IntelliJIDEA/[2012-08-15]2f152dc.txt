@@ -1,0 +1,1 @@
+  EA-38238 fix assertion: check android facet  

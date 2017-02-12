@@ -1,0 +1,1 @@
+  Double-checked locking implementation fixed  

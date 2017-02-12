@@ -1,0 +1,1 @@
+  Introducing filter query in RelativeSearchResource  Needed to fix stream search and do stream searching with a filter instead of a query parameter. Implementation in other search types follows.  

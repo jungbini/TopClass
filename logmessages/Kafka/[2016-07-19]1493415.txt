@@ -1,0 +1,1 @@
+  KAFKA-3812: fix state store directory locking in Kafka Streams  Move all state directory creation/locking/unlocking/cleaning to a single class. Don't release the channel until the lock is released. Refactor code to make use of new class  Author: Damian Guy <damian.guy@gmail.com>  Reviewers: Eno Thereska, Ismael Juma, Guozhang Wang  Closes #1628 from dguy/kafka-3812  

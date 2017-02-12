@@ -1,0 +1,1 @@
+  Minor, move top level function to companion object  Package 'org.jetbrains.kotlin.idea.quickfix' already contains top level functions in module 'idea-analysis' and top level functions in another module cause compilation errors because of package facade class clash  

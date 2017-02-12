@@ -1,0 +1,1 @@
+  fixed PY-9365 Make function from method: leads to unresolved attribute reference for method usages in class  

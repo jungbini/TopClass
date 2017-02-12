@@ -1,0 +1,1 @@
+  bug fix for checking if a segment exists on a node  

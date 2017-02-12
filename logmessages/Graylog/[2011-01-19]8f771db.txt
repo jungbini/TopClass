@@ -1,0 +1,1 @@
+  fix wrong require name in gemfile. add missing resource to first user call.  

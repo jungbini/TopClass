@@ -1,0 +1,1 @@
+  KAFKA-4364: Remove secrets from DEBUG logging  leverage fix from KAFKA-2690 to remove secrets from task logging  Author: rnpridgeon <ryan.n.pridgeon@gmail.com>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #2115 from rnpridgeon/KAFKA-4364  

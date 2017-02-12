@@ -1,0 +1,1 @@
+s like `/resources/main.svg#icon-hamburgermenu`.  Issue: SPR-14928  

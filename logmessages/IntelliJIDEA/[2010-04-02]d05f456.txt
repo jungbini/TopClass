@@ -1,0 +1,1 @@
+  string format inspection improve, fix PY-734  

@@ -1,0 +1,1 @@
+  fix whitespace issues in new XML lib, also add methods (issue #904)  

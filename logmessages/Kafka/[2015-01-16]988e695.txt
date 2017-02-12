@@ -1,0 +1,1 @@
+  KAFKA-1723; (followup patch to fix javadoc for java 8) make the metrics name in new producer more standard; patched by Manikumar Reddy; reviewed by Jun Rao  

@@ -1,0 +1,1 @@
+  bugfix for java project that it can handle pathVariables properly  

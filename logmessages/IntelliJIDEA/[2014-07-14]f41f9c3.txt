@@ -1,0 +1,1 @@
+  Debugger reader performance fixed, now uses BaseOutpuReader (PY-11393).  

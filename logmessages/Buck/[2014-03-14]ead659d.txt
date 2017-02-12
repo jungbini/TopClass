@@ -1,0 +1,1 @@
+  Fix the rule key hack in `ResourcesFilter`.  Summary: Resource filtering is off in debug builds, so it's not worth the complexity (in rule key computation) to avoid dependency on resource rules for release builds.  Test Plan: sandcastle  

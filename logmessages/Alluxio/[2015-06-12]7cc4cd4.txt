@@ -1,0 +1,1 @@
+  no need to specify IP !  fix host ip finding for vb  host name ends with .local  use ifconfig eth1 instead of relying of output sequence of ip addr  

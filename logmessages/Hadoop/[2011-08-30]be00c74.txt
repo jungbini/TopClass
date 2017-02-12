@@ -1,0 +1,1 @@
+  HBASE-4276  AssignmentManager debug logs should be at INFO level for META/ROOT regions.  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1163400 13f79535-47bb-0310-9956-ffa450edef68  

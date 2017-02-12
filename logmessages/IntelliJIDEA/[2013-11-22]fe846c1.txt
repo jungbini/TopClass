@@ -1,0 +1,1 @@
+  [log] fix action's update()  Use current event's presentation, not the template one.  

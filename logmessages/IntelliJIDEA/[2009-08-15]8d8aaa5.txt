@@ -1,0 +1,1 @@
+  lazy inspections loading fixed (IDEADEV-39661)  

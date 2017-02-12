@@ -1,0 +1,1 @@
+  bug fixed for \u001A serialize, fixed issue 304. https://github.com/alibaba/fastjson/issues/304  

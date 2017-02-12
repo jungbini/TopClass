@@ -1,0 +1,1 @@
+  Proper lookup symbols generation from java file, fixes kotlin from java dependency detection; fixing build.gradle to fix kotlin to java dependency tests  

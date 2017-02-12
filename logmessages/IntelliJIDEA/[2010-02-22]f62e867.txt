@@ -1,0 +1,1 @@
+  http://ea.jetbrains.com/browser/ea_problems/18792 IDEA-52407 (Quickfix 'add braces' for Control flow without braces throws exception)  

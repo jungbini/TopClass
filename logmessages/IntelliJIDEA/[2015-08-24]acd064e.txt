@@ -1,0 +1,1 @@
+  use same editor for offset and element #WEB-17865 fixed  

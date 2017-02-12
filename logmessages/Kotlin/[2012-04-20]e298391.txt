@@ -1,0 +1,1 @@
+  Fixed tests.  #KT-1799 fixed  

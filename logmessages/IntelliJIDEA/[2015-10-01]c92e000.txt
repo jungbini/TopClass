@@ -1,0 +1,1 @@
+  Fixed a couple of bugs Improved UI significantly Now extract code style action is launchable without editor  

@@ -1,0 +1,1 @@
+  fixed PY-14430 Inspection fails for Numpy Arrays return by some functions  Used appropriate type for arrays, trim array element type names (f.i array of ndtype float -> array)  

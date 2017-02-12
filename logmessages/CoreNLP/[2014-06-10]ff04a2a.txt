@@ -1,0 +1,1 @@
+  Fixed small bug in JointBayesRelationExtractor and refactored serialization code to make it possible to save ensemble models.  

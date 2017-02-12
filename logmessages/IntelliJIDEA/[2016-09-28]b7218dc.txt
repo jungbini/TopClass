@@ -1,0 +1,1 @@
+  Java inspection: Typo fixed in documentation for EqualsReplaceableByObjectsCallInspection (IDEA-161707)  

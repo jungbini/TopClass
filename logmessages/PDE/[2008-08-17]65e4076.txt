@@ -1,0 +1,1 @@
+  major refactoring work to clean up sketch api, also fix bug #807 to not hardwire extensions  

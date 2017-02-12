@@ -1,0 +1,1 @@
+  fixes for handling variables declared in java tree via setAttribute  

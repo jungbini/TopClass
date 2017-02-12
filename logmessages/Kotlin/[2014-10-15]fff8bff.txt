@@ -1,0 +1,1 @@
+  Debugger: do not throw exception on getting source position for Kotlin object  

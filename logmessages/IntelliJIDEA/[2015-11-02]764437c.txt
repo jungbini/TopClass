@@ -1,0 +1,1 @@
+  increase netty (built-in server) worker count to 2 (more performant server is required since some js debugger changes)  

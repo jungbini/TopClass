@@ -1,0 +1,1 @@
+  moved the jdbc string template API out of the test case :) and fix up some cruft in the API docs  

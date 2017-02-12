@@ -1,0 +1,1 @@
+  ninja fix condition to ensure close in ConnectionHandler  

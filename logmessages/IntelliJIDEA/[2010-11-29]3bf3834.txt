@@ -1,0 +1,1 @@
+  AS UML: refactor 'New Class', 'New Component' actions (fix for IDEA-61974, IDEA-61326)  

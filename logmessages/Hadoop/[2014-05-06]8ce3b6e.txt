@@ -1,0 +1,1 @@
+  HADOOP-10573. fix hadoop native client CMakeLists.txt issue with older cmakes (Wenwu Peng via Colin Patrick McCabe)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HADOOP-10388@1592806 13f79535-47bb-0310-9956-ffa450edef68  

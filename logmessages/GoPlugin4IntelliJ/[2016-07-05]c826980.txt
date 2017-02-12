@@ -1,0 +1,1 @@
+  Better recover on type declarations list + do not complete keywords inside type declarations list  Partial fix of #2445  

@@ -1,0 +1,1 @@
+  add scala-lang sample  - remove duplication jarFile fixture method in JavaLanguageIntegrationTest  +review REVIEW-5273  

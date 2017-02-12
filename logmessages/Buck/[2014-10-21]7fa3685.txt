@@ -1,0 +1,1 @@
+  Add an option for `[apple] xcode_developer_dir` in .buckconfig.  Summary: This will be used in an upcoming integration test for the `#compilation-database` flavor. In practice, Buck's default of using `xcode-select --print-path` will work fine for most people.  Test Plan: I have a pending 

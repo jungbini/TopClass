@@ -1,0 +1,1 @@
+  YARN-1867. Fixed a bug in ResourceManager that was causing invalid ACL checks in the web-services after fail-over. Contributed by Vinod Kumar Vavilapalli.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1581662 13f79535-47bb-0310-9956-ffa450edef68  

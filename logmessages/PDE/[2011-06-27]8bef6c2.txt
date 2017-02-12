@@ -1,0 +1,1 @@
+ try to fix avd emulator requirement when not using emulator  

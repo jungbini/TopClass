@@ -1,0 +1,1 @@
+  YARN-5967. Fix slider core module findbugs warnings. Contributed by Jian He  

@@ -1,0 +1,1 @@
+  HA: fixed bug on installing a shared database from remote servers  Fixed issue #6666  

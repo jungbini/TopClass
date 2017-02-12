@@ -1,0 +1,1 @@
+  Debugger: replace one read action with lock for extract variable and for analyze file  

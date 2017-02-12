@@ -1,0 +1,1 @@
+  vcs: avoid rewriting ShortcutSet for global actions while registering local shortcuts  this fixes issues like IDEA-119375  

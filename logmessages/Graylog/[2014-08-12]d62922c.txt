@@ -1,0 +1,1 @@
+  Fix problems with new extractor examples  Add missing file on bb27008 and fix casting problem. Related to #796.  

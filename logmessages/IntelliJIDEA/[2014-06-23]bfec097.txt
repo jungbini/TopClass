@@ -1,0 +1,1 @@
+  fixed PY-13228 Add method in class from test case bug  

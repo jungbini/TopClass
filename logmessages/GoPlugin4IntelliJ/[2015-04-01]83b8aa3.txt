@@ -1,0 +1,1 @@
+  don't switch between stub/psi, fix #1487  

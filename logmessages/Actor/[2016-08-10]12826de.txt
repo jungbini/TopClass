@@ -1,0 +1,1 @@
+  fix(core): add newly crated group to search  

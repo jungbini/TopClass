@@ -1,0 +1,1 @@
+  repeated ctrl+space should focus lookup even if it just fills common prefix (and even if it actually doesn't)  

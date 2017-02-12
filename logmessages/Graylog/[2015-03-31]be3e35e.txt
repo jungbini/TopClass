@@ -1,0 +1,1 @@
+  Use POST to test extractors, fixes #1190  

@@ -1,0 +1,1 @@
+  fix an off by 1 error with the line offsets (bug #1263)  

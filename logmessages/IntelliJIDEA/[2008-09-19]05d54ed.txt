@@ -1,0 +1,1 @@
+  RunnerLayoutUi -- "minimize" icon updated + removed unnecessary "close" icon on additional tab component in debugger  

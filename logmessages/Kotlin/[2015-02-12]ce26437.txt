@@ -1,0 +1,1 @@
+  Corrected test data because it will be fixed by KT-6545  

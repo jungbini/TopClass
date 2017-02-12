@@ -1,0 +1,1 @@
+  Sonos : fix parsing of items without specified OH Command in the bindingconfiguration  

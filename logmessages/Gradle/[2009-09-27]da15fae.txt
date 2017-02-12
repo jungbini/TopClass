@@ -1,0 +1,1 @@
+  Notify listeners in the order they are added, to fix the output when the build fails (otherwise the reporting happens in the order determined by the listeners' hash codes).  

@@ -1,0 +1,1 @@
+  cs: use any var in declaration statement fixed (IDEA-58344)  

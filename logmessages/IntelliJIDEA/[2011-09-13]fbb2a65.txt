@@ -1,0 +1,1 @@
+  AppCode:Debugger: correctly filling Evaluate dialog's field from the selected debugger variable + refactorings + class renderer  

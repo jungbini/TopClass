@@ -1,0 +1,1 @@
+ fixed PY-9367 Instance attribute defined outside init: missing underscore in inspection name  

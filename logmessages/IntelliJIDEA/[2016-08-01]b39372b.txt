@@ -1,0 +1,1 @@
+  Fix multihints creation from stepic course after fixing migration from v3eap to v3  

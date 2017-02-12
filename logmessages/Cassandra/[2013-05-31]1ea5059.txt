@@ -1,0 +1,1 @@
+  fix bug in intersection checking, and improve collection of max/min column  Patch by marcuse, reviewed by pcmanus for CASSANDRA-5600  

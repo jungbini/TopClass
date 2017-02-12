@@ -1,0 +1,1 @@
+  direct searching for message field values. fixes #400  

@@ -1,0 +1,1 @@
+  [groovy] compute the set duplicated signatures instead of method->signature map  This should fix the `GroovyHighlightingTest.testDuplicateMethods()`  

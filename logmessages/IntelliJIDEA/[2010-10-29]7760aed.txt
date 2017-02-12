@@ -1,0 +1,1 @@
+  fixed [RUBY-7045] Enable MacOS native file Chooser for Settings|Images|Executable Path  

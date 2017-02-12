@@ -1,0 +1,1 @@
+ REFIID#equals is now defined based on content again (regression fix)  

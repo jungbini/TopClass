@@ -1,0 +1,1 @@
+  REVIEW-4552/REVIEW-4556/REVIEW-4557: Added better documentation for SFTP repositories. Some minor fixes to tests and clean up.  

@@ -1,0 +1,1 @@
+  IDEA-163039 fix banner icon for child nodes of the Code Style configurable  

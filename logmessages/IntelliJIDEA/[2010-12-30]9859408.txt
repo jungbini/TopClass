@@ -1,0 +1,1 @@
+  IDEA-63592 Column selection bug when interacting with virtual whitespace  Don't perform any actions for block selection lines that ends before it.  

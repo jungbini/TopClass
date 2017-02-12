@@ -1,0 +1,1 @@
+  loading jps model from eclipse: fixed adding library dependencies  

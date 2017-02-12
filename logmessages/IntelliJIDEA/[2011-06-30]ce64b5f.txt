@@ -1,0 +1,1 @@
+  sm library with broken dependency replaced with fixed version + api updated  

@@ -1,0 +1,1 @@
+  adding several bugs to the todo list, plus a fix for bug #1423  

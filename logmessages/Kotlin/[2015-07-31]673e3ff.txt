@@ -1,0 +1,1 @@
+  Merge for boolean variables fixed  

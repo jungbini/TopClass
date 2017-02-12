@@ -1,0 +1,1 @@
+  fix some path functions which break under windows tests  Summary: Have some path functions in include log parser do more rigorous filename-char scrubbing, so tests (specifically, `Paths.get(stringWithIllegalChars)`) won't break.  Test Plan: watch CI  Reviewed By: Coneko  fbshipit-source-id: 38b9a27  

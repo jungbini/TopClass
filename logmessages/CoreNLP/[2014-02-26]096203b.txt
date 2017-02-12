@@ -1,0 +1,1 @@
+  change nplm.hh order from 7 to 15, start adding NPLMFeaturizer in src-research, toString for Featurizable, minor fix in PhraseExtractNeuralTraining  

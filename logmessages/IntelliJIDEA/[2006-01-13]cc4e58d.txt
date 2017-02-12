@@ -1,0 +1,1 @@
+  fix processing of dot vs. slash in descriptor names  

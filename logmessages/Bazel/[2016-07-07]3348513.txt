@@ -1,0 +1,1 @@
+  More pieces of RClassGeneratorAction  Add the rclass_generator.sh, and fill in the boiler-plate for mock tools, etc. Mostly cargo- culting references to resources_processor.sh.  Rename earlier pieces to use RClassGenerator prefix instead of AndroidResourceCompilation.  -- MOS_MIGRATED_REVID=126831848  

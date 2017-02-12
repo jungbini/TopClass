@@ -1,0 +1,1 @@
+  regenerated versions.xml fix for PY-8696 False positive for bz2 module (code compatibility inspection)  

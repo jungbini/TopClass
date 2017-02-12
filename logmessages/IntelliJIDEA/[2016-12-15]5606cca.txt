@@ -1,0 +1,1 @@
+  [groovy] fix resolve of operator assignment LHS (IDEA-165470)  

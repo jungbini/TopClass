@@ -1,0 +1,1 @@
+  GRADLE-883 Fixed groovydoc bug.  

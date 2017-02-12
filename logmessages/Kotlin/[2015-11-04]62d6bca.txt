@@ -1,0 +1,1 @@
+  Provide overloads both for Strings and CharSequences of removePrefix, removeSuffix, removeSurronding, trim* and pad*, replaceRange & removeRange  

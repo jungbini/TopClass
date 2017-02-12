@@ -1,0 +1,1 @@
+  OrientDB Studio, now remembers the previous queries and commands, fixed other bugs and improved layout.  

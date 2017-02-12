@@ -1,0 +1,1 @@
+  IDEA-97477 "Pretty print" variable values copied from the debugger  

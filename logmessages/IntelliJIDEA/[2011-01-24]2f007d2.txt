@@ -1,0 +1,1 @@
+  fixed PY-2334 Buildout custom manage.py for unit tests. (All custom stuff should be defined outside main block)  

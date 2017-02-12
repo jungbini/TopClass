@@ -1,0 +1,1 @@
+  move all stupid casts to the one place: extract ExpressionPostfixLookupElement  

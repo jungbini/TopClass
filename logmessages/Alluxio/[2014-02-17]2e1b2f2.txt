@@ -1,0 +1,1 @@
+  Update to enable group write permissions to the tachyon.worker.data.folder to fix issue #123  

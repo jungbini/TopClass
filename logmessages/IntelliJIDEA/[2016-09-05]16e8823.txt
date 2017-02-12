@@ -1,0 +1,1 @@
+  [platform] prepares patch update in a platform code  - fixes IDEA-160738 - makes the patch preparation more controlled and visible - reduces a number of restarts by one  

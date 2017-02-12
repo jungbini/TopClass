@@ -1,0 +1,1 @@
+  fix inspection description (IDEA-142547)  

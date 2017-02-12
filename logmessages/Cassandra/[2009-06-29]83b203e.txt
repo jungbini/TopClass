@@ -1,0 +1,1 @@
+  add test catching buggy update of header on flush; refactor so there is only one version of code doing those writes (the correct one). patch by jbellis; reviewed by Jun Rao for CASSANDRA-264  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@789465 13f79535-47bb-0310-9956-ffa450edef68  

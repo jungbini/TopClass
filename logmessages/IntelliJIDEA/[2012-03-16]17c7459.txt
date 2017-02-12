@@ -1,0 +1,1 @@
+  fixed PY-5953 Duplicate menuitems in context menu on Ctrl-Shift-R on folder  

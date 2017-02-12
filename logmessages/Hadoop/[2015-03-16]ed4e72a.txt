@@ -1,0 +1,1 @@
+  YARN-2854. Addendum patch to fix the minor issue in the timeline service documentation.  

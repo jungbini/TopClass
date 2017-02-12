@@ -1,0 +1,1 @@
+  fix bug on remove of edge with wrong case label, issue #4013  

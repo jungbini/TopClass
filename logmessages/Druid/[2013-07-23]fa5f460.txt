@@ -1,0 +1,1 @@
+ Merge pull request #201 from metamx/fix-rt  Fix issue with realtime nodes selecting intervals that are too large in the results  commit fa5f46057c0d19e7dbdb842db00f51d8356dcd8e  fix spacing issue  

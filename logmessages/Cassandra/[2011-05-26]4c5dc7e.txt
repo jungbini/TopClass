@@ -1,0 +1,1 @@
+  fix potential stack overflow during compaction (take 2) patch by jbellis; reviewed by brandonwilliams for CASSANDRA-2626  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8.0@1128020 13f79535-47bb-0310-9956-ffa450edef68  

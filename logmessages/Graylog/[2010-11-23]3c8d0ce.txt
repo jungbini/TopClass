@@ -1,0 +1,1 @@
+  start livetail server as child process (fork). remove debug messages. \o/  

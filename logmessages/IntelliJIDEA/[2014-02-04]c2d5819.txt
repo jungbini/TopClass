@@ -1,0 +1,1 @@
+  Fix Grails test: "Create variable" quick fix is not present in GSP. +review CR-IU  

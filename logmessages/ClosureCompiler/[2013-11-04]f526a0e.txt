@@ -1,0 +1,1 @@
+  Add browser prefixed page visibility API externs.  http://www.w3.org/TR/page-visibility/ ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=55933248  

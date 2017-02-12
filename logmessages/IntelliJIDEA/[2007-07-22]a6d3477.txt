@@ -1,0 +1,1 @@
+  make disabled debugger actions not visible in popups  

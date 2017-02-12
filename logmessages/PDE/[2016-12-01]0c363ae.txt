@@ -1,0 +1,1 @@
+  use debug.txt instead of debug; add pref to disable system proxy  

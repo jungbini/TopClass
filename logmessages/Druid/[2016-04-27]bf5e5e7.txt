@@ -1,0 +1,1 @@
+  fix #2886 (#2887)  Fixes https://github.com/druid-io/druid/issues/2886  

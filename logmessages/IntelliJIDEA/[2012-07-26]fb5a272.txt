@@ -1,0 +1,1 @@
+missing .entries listener for svn 2) force-refresh wc.db and .entries after commit from IDEA 3) force notify annotations about commit  

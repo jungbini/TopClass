@@ -1,0 +1,1 @@
+  IDEA-146918 ("Scope of variable is too broad" quick fix removes comment)  

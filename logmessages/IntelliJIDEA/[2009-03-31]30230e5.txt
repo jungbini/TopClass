@@ -1,0 +1,1 @@
+  linux focus stealing: do not let WINDOW_GAINED_FOCUS pass throght + fixes for FrameStateManager to make refresh/save work under this condition  

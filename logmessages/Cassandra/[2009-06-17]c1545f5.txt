@@ -1,0 +1,1 @@
+  fix off-by-one error in Range.contains(Token): the endpoint (right) of the range is always supposed to be exclusive, but it was inclusive in the non-wrapping case.  patch by Stu Hood; reviewed by jbellis for CASSANDRA-236  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@785697 13f79535-47bb-0310-9956-ffa450edef68  

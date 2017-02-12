@@ -1,0 +1,1 @@
+  Add method for fixed-size pools to ExecutorFactory  - Make StoppableExecutor implement ExecutorService instead of just Executor - Make BuildOperationProcessor use ExecutorFactory to create executors - Implement Stoppable in DefaultBuildOperationProcessor so the executor will be stopped on shutdown.  

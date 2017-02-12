@@ -1,0 +1,1 @@
+  git: correct dirty scope fix  

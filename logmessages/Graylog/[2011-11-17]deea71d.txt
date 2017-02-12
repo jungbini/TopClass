@@ -1,0 +1,1 @@
+  now flushing message queue at JVM shutdown  fixes #SERVER-69  

@@ -1,0 +1,1 @@
+  fixed EA-49219 - IOE: CheckUtil.checkWritable  

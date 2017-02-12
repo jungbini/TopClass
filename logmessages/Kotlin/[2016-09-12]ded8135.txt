@@ -1,0 +1,1 @@
+  JS: when deciding whether inner class of a local class captures `this`, don't check for subtyping, since frontend generates strict classes in descriptors. Remove fix for #KT-13583, since it's no more needed. Fix #KT-13792  

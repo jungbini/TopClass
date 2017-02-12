@@ -1,0 +1,1 @@
+  GRADLE-850: fix more progresslogging tests  

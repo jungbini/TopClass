@@ -1,0 +1,1 @@
+  svn: fix assertion in live provider (that loads revision history for select revision)  

@@ -1,0 +1,1 @@
+  WI-6210: Debugger craches IDE on attempt to change "very long" value  

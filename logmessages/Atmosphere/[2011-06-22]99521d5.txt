@@ -1,0 +1,1 @@
+  Incremental fix for http://java.net/jira/browse/ATMOSPHERE-131 ("Inconsistent transport implementation")  Allow pluggable WebSocketProcessor  

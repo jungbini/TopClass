@@ -1,0 +1,1 @@
+  reject wrap fix if types are incompatible: fix AdvHighlightingTests  

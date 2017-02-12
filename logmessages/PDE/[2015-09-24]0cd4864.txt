@@ -1,0 +1,1 @@
+  bring back "done" message (fixes #3861)  

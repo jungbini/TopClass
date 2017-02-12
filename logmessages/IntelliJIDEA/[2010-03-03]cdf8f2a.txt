@@ -1,0 +1,1 @@
+  fixed  problem with actions enabled/disabled propery when switching between "Run Rake Task.." and "Launch Rails Generator" + API extracted  

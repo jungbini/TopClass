@@ -1,0 +1,1 @@
+  reduce amount of debugger communication within read action  

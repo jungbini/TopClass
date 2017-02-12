@@ -1,0 +1,1 @@
+  HADOOP-10548. Improve FsShell xattr error handling and other fixes. Contributed by Charles Lamb.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-2006@1591202 13f79535-47bb-0310-9956-ffa450edef68  

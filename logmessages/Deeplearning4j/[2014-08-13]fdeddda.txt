@@ -1,0 +1,1 @@
+  fix compilation errors on jblas ndrray  

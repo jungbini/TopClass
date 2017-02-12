@@ -1,0 +1,1 @@
+  Updated mock SDK version for Python 2 in light project descriptors to fix tests  

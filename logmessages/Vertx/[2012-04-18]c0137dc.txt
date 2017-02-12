@@ -1,0 +1,1 @@
+  fixed bug with sockjs end handlers being called  

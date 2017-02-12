@@ -1,0 +1,1 @@
+ Merge pull request #741 from emeroad/#740_backport_bindValue_array_index_bug_fix  #740 backport. bindValue array index bug fix.  commit 08d441cbb02f5dcd15b9ff17322050a6c2d08990  #740 backport. bindValue array index bug fix. - backport #737  

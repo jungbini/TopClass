@@ -1,0 +1,1 @@
+  Dotted line painting fixed. g.copyArea() doesn't work well with scrolling  

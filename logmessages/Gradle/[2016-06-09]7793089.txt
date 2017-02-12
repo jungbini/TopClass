@@ -1,0 +1,1 @@
+  Added NekoHTML to the relocation blacklist  This fixes the bug that prevented the neko `XercesBridge` being instantiated, due to incomplete relocation.  

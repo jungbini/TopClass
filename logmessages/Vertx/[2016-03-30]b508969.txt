@@ -1,0 +1,1 @@
+ Fix bug where the client responses was not ended properly for trailers  

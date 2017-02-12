@@ -1,0 +1,1 @@
+ Merge pull request #798 from bronze1man/pr-identifiers-without-packageName  fix #494, Struct identifiers must be prefixed with the package name if hey are not defined in current package  commit 1a65448a6505029811bdae401ca1efe959692088  fix #801, closures result parameter unsolve bug  

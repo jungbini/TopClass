@@ -1,0 +1,1 @@
+  fix(iOS): Fixing double notifications and keyboard closing  

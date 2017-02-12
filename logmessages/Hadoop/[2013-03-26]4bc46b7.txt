@@ -1,0 +1,1 @@
+  svn merge -c 1461146 FIXES: MAPREDUCE-4875. coverage fixing for org.apache.hadoop.mapred (Aleksey Gorshkov via bobby)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1461149 13f79535-47bb-0310-9956-ffa450edef68  

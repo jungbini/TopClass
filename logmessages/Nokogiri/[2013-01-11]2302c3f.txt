@@ -1,0 +1,1 @@
+  fix #831. The XmlReader shouldn't consume the entire input stream before calling the block.  

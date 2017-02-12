@@ -1,0 +1,1 @@
+HadoopConfiguration and adds a test of the new partitioned vertex filter setting.  The test code is a bit clumsy since I've tried to avoid requiring Giraph for the titan-hadoop tests -- this could probably be streamlined once TP3's MapReduceGraphComputer is implemented.  

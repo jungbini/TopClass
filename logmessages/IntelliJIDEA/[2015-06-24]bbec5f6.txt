@@ -1,0 +1,1 @@
+  merge: finish current activities before showing confirmation dialog  * this fixes issue with incomplete highlighting update on applying last issue  

@@ -1,0 +1,1 @@
+  Use smart element pointer instead of weak reference to fix the IDEA-160333 Override/implements gutter icon not navigating  

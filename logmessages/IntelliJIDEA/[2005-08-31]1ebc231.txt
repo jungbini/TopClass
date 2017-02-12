@@ -1,0 +1,1 @@
+  fix for IDEADEV-2319 and new option to "Only report qualified static usages from a static context" for parity with "Unqualified static usage" inspection  

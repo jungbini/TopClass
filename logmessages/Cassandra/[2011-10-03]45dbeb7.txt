@@ -1,0 +1,1 @@
+  Fix bug where the FailureDetector can take a very long time to mark a host down. Patch by brandonwilliams, reviewed by Paul Cannon for CASSANDRA-3273  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8@1178563 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  telemetry: fix typo and wrong config param name  

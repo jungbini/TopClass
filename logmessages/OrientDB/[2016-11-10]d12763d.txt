@@ -1,0 +1,1 @@
+  HA: fixed management of shared command in the middle of killing a server  

@@ -1,0 +1,1 @@
+  BasicModelUtils edge case with NaNs fixed (mix of languages and weird corpus issue)  Spark W2V token preprocessor missing fixed  stopWords persistence is handled properly across all models now  

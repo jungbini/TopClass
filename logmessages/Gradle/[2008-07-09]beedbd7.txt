@@ -1,0 +1,1 @@
+  Fixed bug with not setting gradle.home  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@615 004c2c75-fc45-0410-b1a2-da8352e2331b  

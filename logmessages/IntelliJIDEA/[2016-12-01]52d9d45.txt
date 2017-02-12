@@ -1,0 +1,1 @@
+  [fix] ui: allow to override background color for Editor notification panel  pass background color in constructor, so it could be used in `createActionLabel` call  follow-up: 0de9910, 1e42810, 9089601  

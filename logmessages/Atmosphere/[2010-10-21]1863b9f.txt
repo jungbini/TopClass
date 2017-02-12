@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=45 ("Bayeux support is broken")  Fix Bayeux support with 1.1.2  

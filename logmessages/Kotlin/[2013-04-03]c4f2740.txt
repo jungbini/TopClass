@@ -1,0 +1,1 @@
+  KT-3469 AssertionError: Couldn't find super type for super function  Class descriptor for Java class was recreated in KotlinSignatureInJavaMarkerProvider.  #KT-3469 fixed  

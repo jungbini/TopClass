@@ -1,0 +1,1 @@
+  chore(android): fix example app attach menu custom fragment  

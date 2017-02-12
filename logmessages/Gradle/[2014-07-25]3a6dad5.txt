@@ -1,0 +1,1 @@
+  REVIEW-5029 some more renamings after reviewing  - ProjectClassDirectoryBinary -> ClassDirectoryBinarySpec - PluginOnApplyAction -> PluginApplicationAction - ComponentModelInspectionPluginApplicationAction feels to be a long name. though not as long as average spring class name ;-) - fix test name for ComponentModelInspectionPluginApplicationAction  

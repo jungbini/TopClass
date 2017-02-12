@@ -1,0 +1,1 @@
+  svn merge -c 1325531 Merging from trunk to branch-0.23 to fix HDFS-3256.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1455991 13f79535-47bb-0310-9956-ffa450edef68  

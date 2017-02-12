@@ -1,0 +1,1 @@
+ update curator version to 2.8.0 to get fix for https://issues.apache.org/jira/browse/CURATOR-168  

@@ -1,0 +1,1 @@
+  Patch by Alessandro Nadalin to fix issue 662 (use constants instead of wired values)  

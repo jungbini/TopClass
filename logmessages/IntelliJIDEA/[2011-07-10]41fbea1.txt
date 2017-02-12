@@ -1,0 +1,1 @@
+  [mac] make Ok button the rightmost for ok-cancel dialogs + fix button layout for wizards  

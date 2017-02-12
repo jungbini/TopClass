@@ -1,0 +1,1 @@
+  Test ES local-mode config precedence  Added test for #552 and associated fix by e4a976ec2de08357567165a986c93edd36c5600e  

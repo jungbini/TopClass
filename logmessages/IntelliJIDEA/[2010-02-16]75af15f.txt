@@ -1,0 +1,1 @@
+  VCS: fix group by structure for Changes | Local= again, for move between changelists also. sorry.  

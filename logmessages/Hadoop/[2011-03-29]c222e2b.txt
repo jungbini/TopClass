@@ -1,0 +1,1 @@
+  HBASE-3711 - amend patch to fix compilation error  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1086747 13f79535-47bb-0310-9956-ffa450edef68  

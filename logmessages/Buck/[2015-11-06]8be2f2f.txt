@@ -1,0 +1,1 @@
+  Fix SSID detection  Summary: The process executor adds coloring by default. That breaks the code used to parse the networksetup tool's output.  Test Plan: CI, step through code in debugger  

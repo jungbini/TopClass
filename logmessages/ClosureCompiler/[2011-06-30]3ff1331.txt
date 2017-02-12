@@ -1,0 +1,1 @@
+  Almost at all instances GearsHttpRequest and XMLHttpRequest are used synonymously. However, method 'open' has 

@@ -1,0 +1,1 @@
+  add GlobalSettings class to guard against missing config entry  if the class isn't loaded none of the special config file handling, nor any of the guice injector setup would be done, leading to a non-working process.  fixes #387  

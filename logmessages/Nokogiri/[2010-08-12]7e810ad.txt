@@ -1,0 +1,1 @@
+  Fix new errors/failures came along with bbebdccc36536fd8272d, also, fix namespace related bug and tweaked object creation.  

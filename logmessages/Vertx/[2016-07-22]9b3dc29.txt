@@ -1,0 +1,1 @@
+  Load the ndots value on linux from /etc/resolv.conf and allow a value of 0 - fixes #1525  

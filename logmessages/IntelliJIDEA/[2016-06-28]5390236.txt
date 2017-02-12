@@ -1,0 +1,1 @@
+  regexp: fix conversion from highlighting to parsing in tests  

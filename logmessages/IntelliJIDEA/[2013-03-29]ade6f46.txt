@@ -1,0 +1,1 @@
+  fixed PY-9136 The TeamCity plugin breaks tests with current Python 2.7  added *args to TeamcityTestResult.__init__ according to http://hg.python.org/cpython/rev/0362d64c783  

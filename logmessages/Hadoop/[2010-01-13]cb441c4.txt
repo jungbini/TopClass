@@ -1,0 +1,1 @@
+  fix another problem with src/contrib/ec2/build.xml on trunk  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@898907 13f79535-47bb-0310-9956-ffa450edef68  

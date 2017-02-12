@@ -1,0 +1,1 @@
+  console: fix blank console bug caused by invoking "clear(); print();" while previous "clear()" is being executed in EDT  

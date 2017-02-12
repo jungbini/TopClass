@@ -1,0 +1,1 @@
+  - Ported DefaultActorFactoryTest to use new concurrent fixture. - Some tweaks to ConcurrentSpec: - async { } doesn't define any instants. - every operation defines an implicit end instant.  

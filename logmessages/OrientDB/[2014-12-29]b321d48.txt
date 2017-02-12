@@ -1,0 +1,1 @@
+  fix binary network and record load issue on sql exclude method.  

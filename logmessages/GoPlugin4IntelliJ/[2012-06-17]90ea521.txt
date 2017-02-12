@@ -1,0 +1,1 @@
+  Provide 4 fixes for const declaration problem, Add missing constant, remove redundant expression for those declarations with extra expresssions. Remove redundant constant, add missing expression for those declarations with extra constants.  

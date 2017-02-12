@@ -1,0 +1,1 @@
+  generate IDEA Groovy stubs to our own directory, possibly fixes stub class files (IDEADEV-42120)  

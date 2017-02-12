@@ -1,0 +1,1 @@
+  Drop ant-1.7 from project, advance Ant to 1.8.2  Ant 1.8.2 has the API (namely, CompilerAdapterExtension#getSupportedFileExtensions) which will allow to fix a critical bug in <withKotlin/> task (see KT-7870)  

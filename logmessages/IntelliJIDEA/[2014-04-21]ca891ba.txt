@@ -1,0 +1,1 @@
+  java-xdebugger: imitate old frames renderer  

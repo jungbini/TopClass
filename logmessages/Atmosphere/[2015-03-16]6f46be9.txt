@@ -1,0 +1,1 @@
+  :bug: Prevent adding scanned interceptor to the overall list #1877. This fixes  #1845  

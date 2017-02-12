@@ -1,0 +1,1 @@
+  fixed PY-9598 Add docstring parameter **kwargs  

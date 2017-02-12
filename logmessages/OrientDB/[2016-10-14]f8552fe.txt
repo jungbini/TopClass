@@ -1,0 +1,1 @@
+  Fixed bug by using lock manager with longs even if it was defined as integer.  Unified also all the calls to the interfaces API (so it can be easily replaced). Furthermore, Ive declared the fileId as Long so there is no auto-boxing anymore.  

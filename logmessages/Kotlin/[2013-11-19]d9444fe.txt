@@ -1,0 +1,1 @@
+  printScopeStructure() introduced for debugging  

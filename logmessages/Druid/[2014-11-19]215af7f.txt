@@ -1,0 +1,1 @@
+ Backport filtered Aggregator fixes + enhancements  - fix NPE on IncrementIndex - refactor code to support AND, OR filter - tests for AND & OR filter - handling for missing column / null values  

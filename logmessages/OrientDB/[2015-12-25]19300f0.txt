@@ -1,0 +1,1 @@
+  Issue #5352 was fixed but Javadocs and tests need to be added.  

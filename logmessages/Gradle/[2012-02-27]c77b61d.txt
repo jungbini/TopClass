@@ -1,0 +1,1 @@
+  more Spock-related test fixes  - JUnit rules must now declare a field type, and that type must implement MethodRule/TestRule - turned TestProxyServer into a rule (it was already used as if it was a rule) - extended org.junit.rules.ExternalResource instead of implementing TestRule in some places  

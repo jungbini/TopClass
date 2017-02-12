@@ -1,0 +1,1 @@
+  LVCS: -correct refresh handling -history building bug fix -some working with roots bugs has been fixed VFS: -support for tests to be able to track async tasks DUMMY-FS: -file deletion bug  (didn't fire fileDeleted event)  

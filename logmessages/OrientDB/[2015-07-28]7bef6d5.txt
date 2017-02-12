@@ -1,0 +1,1 @@
+  fixed https://github.com/orientechnologies/orientdb-lucene/issues/44  

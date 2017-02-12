@@ -1,0 +1,1 @@
+  KT-1161 Formatter: indent parameters after function call on new line (not very beautiful but it will be refactored in future) #KT-1161 fixed  

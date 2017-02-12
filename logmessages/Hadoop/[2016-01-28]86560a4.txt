@@ -1,0 +1,1 @@
+  MAPREDUCE-6595. Fix findbugs warnings in OutputCommitter and FileOutputCommitter. Contributed by Akira AJISAKA.  

@@ -1,0 +1,1 @@
+  Issue with index reload was fixed.  

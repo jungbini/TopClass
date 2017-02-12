@@ -1,0 +1,1 @@
+  REVIEW-3315: don't generate resources in source folder and get rid of additional .gitignore entry.  - put generated version resources file into generatedResourcesDir - use groovy instead of groovy-all. - fall back to fixed version for scalatest and groovy until we have a convenient way to declare custom versionselectors because they pull in beta and rc versions  

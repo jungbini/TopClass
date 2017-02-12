@@ -1,0 +1,1 @@
+  don't allow setting reserved fields from converters  setting reserved fields like timestamp or gl2_source_input will prevent graylog2 from functioning correctly. ignore those fields when converting extracted fields, and increment the error count of the extractor  fixes #365  

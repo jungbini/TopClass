@@ -1,0 +1,1 @@
+  Fix bug in rule-level timeout for test  Summary: The thread that was used to wait for the process when a timeout was specified was never started, which meant that any subprocess that didn't exit almost immediately was marked as timed out.  Test Plan: Add test to check for this case.  

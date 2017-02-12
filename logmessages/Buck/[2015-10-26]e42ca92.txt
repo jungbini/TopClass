@@ -1,0 +1,1 @@
+  Revert "Switch parsers to the new one."  Summary: * The new parser seems to have bad performance when many targets are resolved independently, for example when calling `buck build` with a large number of arguments. This 

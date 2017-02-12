@@ -1,0 +1,1 @@
+  fix(server): make history shared in channels by default  

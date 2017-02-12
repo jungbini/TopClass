@@ -1,0 +1,1 @@
+  Super easy: Remove unused class com.facebook.buck.debug.DebugLog  Summary: This class is unused. We have real logging now, so we don't need this class any more.  Test Plan: ant test  

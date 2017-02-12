@@ -1,0 +1,1 @@
+  better fix for IDEA-82335 (Replace ?: with if breaks the semantics)  

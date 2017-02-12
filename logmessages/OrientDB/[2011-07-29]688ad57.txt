@@ -1,0 +1,1 @@
+  Contribution by Luca Molino to fix the problem on export/import of database with NULL clusters  

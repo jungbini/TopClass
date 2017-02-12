@@ -1,0 +1,1 @@
+  RUBY-16981: RubyDebuggerProxy can both emulate catchpoint removal and use support provided by ruby-debug-ide  

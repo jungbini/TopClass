@@ -1,0 +1,1 @@
+  [souliss]some bugfixes - cherry-picked from #3816  Signed-off-by: Thomas Eichstdt-Engelen <thomas@openhab.org>  

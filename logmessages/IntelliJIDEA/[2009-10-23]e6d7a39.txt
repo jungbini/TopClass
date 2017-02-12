@@ -1,0 +1,1 @@
+  More proper "show tree handle" fix for the project view. Let's assume only directory and package node show their handle by default until open even if they in fact don't have any child nodes.  

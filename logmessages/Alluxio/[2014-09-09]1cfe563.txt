@@ -1,0 +1,1 @@
+  Change LOG.debug to use SLF4J parameterized message to reduce String concat.  Remove toString on log to use parameterized logging.  Remove toString on log to use parameterized logging.  Revert style format change in core/pom.xml.  

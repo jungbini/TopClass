@@ -1,0 +1,1 @@
+  Workaround ASM bug by downloading newer version from IDEA 14  

@@ -1,0 +1,1 @@
+  fix(android): send logs correct levels  

@@ -1,0 +1,1 @@
+  trival fix to make hash code positive; patched by Joel Koshy; reviewed by Jun Rao  git-svn-id: https://svn.apache.org/repos/asf/incubator/kafka/trunk@1177516 13f79535-47bb-0310-9956-ffa450edef68  

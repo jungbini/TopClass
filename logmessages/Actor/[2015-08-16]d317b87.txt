@@ -1,0 +1,1 @@
+  fix(server): fixed problem of delivering message to a user without authIds, fixed restriciton of sending messages to self  

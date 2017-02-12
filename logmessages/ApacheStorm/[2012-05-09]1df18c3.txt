@@ -1,0 +1,1 @@
+  fix critical issue with worker heartbeating impl: make sure nimbus only checks worker heartbeats for assigned slots  

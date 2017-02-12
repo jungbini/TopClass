@@ -1,0 +1,1 @@
+  Remove ref counting in SSTableScanner, fix CompactionTask ordering  Patch by jmckenzie; reviewed by belliottsmith as a follow-up for CASSANDRA-8399  

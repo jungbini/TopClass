@@ -1,0 +1,1 @@
+ Uses maven surefire 2.18-SNAPSHOT to fix https://jira.codehaus.org/browse/SUREFIRE-1090 in CI until 2.18 is released  

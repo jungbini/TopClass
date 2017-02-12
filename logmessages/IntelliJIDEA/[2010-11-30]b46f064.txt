@@ -1,0 +1,1 @@
+  simpler and more correct fix for PY-1958  Conflicts:  python/testSrc/com/jetbrains/python/PyEditingTest.java  Conflicts:  python/src/com/jetbrains/python/editor/PythonEnterHandler.java  

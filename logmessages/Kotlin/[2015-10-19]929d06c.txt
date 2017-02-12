@@ -1,0 +1,1 @@
+  Create from Usage: Implement  'Create property as constructor parameter' quick-fix #KT-8426 Fixed  

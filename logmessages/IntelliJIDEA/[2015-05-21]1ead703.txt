@@ -1,0 +1,1 @@
+  IDEA-140543 (Inspection: "Dynamic regular expression could be replaced by compile pattern" creates buggy code)  

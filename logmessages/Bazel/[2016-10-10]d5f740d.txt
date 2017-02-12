@@ -1,0 +1,1 @@
+  Move MemoizingRequest from c.g.testing.junit.junit4.runner to c.g.testing.junit.runner.internal.junit4  Other minor changes:  - reduce visibility of MemoizingRequest.createRunner() - Fix bug in CancellableRequestFactory where createRequest() can be called multiple times  -- MOS_MIGRATED_REVID=135722005  

@@ -1,0 +1,1 @@
+  HADOOP-13120. add a --debug message when dynamic commands have been used  

@@ -1,0 +1,1 @@
+  fix ButtonGroup renderer; remove duplicated code  

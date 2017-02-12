@@ -1,0 +1,1 @@
+  HADOOP-5679. Resolve findbugs warnings in core/streaming/pipes/examples. Contributed by Jothi Padmanabhan.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk@772911 13f79535-47bb-0310-9956-ffa450edef68  

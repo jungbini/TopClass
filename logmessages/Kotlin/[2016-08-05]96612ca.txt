@@ -1,0 +1,1 @@
+  JS: add tests to show that #KT-12865 fixed as well  

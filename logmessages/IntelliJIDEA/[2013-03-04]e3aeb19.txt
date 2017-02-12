@@ -1,0 +1,1 @@
+  Fixed NPE in multiprocess debug termination (PY-9048).  

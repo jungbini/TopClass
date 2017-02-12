@@ -1,0 +1,1 @@
+  IDEA-68576 usability fix: password field should be focused by default [rev=nnmatveev]  

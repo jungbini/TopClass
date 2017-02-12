@@ -1,0 +1,1 @@
+  fixed PY-14129 IPython Notebook: disable statement seems to have no effect inspection for the cells  

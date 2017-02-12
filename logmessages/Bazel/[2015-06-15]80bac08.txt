@@ -1,0 +1,1 @@
+  Remove the debug_key attribute from android_binary and the associated -ks argument from the ApkBuilder invocation, because it turns out that ApkBuilder doesn't support it.  -- MOS_MIGRATED_REVID=96035676  

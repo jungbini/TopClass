@@ -1,0 +1,1 @@
+  YARN-1170. YARN & MapReduce proto definitions fixed to specify protobuf package as hadoop.yarn and hadoop.mapreduce respectively. Contibuted by Binglin Chang.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1523652 13f79535-47bb-0310-9956-ffa450edef68  

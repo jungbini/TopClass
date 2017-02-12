@@ -1,0 +1,1 @@
+  Make arrow functions non-indexable because there isn't really a good place to put the node for them anyway (see attached bug). ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=116306486  

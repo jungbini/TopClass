@@ -1,0 +1,1 @@
+  write text files with \r\n on Windows (fixes #3455)  

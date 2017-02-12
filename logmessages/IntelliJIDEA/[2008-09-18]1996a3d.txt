@@ -1,0 +1,1 @@
+  to avoid memory leak, don't create debugger configurables ahead of time (IDEADEV-30349)  

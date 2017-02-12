@@ -1,0 +1,1 @@
+  More logging & NPE fix for IDEA-25704  

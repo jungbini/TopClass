@@ -1,0 +1,1 @@
+  WEB-6302 fix migrating from obsolete buggy setting html5 language level to the new one  

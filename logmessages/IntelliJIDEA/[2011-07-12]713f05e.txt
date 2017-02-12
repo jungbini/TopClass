@@ -1,0 +1,1 @@
+  fixed PY-3916 One line doc-strings are 

@@ -1,0 +1,1 @@
+  KT-8255 Intention actions popup: there are duplicates between quickfixes and intentions  #KT-8255 Fixed  

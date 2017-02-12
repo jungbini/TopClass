@@ -1,0 +1,1 @@
+  Address comments from #1320:  * add a note about the behavior of distributed data structure * fix mistake in the AsyncMap javadoc  Signed-off-by: Clement Escoffier <clement.escoffier@gmail.com>  

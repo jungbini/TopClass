@@ -1,0 +1,1 @@
+  Quick Fixes: Add test for KT-6430 (Create parameter quick fix inserts platform types into Kotlin code)  

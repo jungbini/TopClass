@@ -1,0 +1,1 @@
+  fixed PY-6147 Not able to create new project because of missing Python Interpreters control  

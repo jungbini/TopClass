@@ -1,0 +1,1 @@
+  [NTI] Bugfix to allow all interface methods to not return. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=97584573  

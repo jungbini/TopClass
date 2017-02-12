@@ -1,0 +1,1 @@
+  Revert "[git] IDEA-132265 Don't send update event on repository initialization"  This breaks GitBranchWidget, because it doesn't update its state on start. There is no good enough fix for the problem until the GitRepositoryManager is fixed and become more synchonous in terms of getting repository for root (IDEA-132330)  

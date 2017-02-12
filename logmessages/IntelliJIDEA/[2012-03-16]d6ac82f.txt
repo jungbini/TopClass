@@ -1,0 +1,1 @@
+ IDEA-82857 fix javadoc during delegate with default parameter  

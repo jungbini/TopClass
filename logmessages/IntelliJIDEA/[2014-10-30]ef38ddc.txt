@@ -1,0 +1,1 @@
+  java: ClsFile.findElementAt() behaviour fixed  

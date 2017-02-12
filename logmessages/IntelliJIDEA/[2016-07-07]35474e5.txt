@@ -1,0 +1,1 @@
+  export code style to .editorconfig #WEB-15687 fixed  

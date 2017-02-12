@@ -1,0 +1,1 @@
+  Added 'synthetic' flag for bridge method.  #KT-3155 fixed  

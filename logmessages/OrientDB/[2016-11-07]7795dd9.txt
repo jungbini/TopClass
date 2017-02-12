@@ -1,0 +1,1 @@
+  fixed issue with ridbags dirty management in remote, issue #6541  

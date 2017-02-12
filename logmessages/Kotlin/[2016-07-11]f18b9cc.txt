@@ -1,0 +1,1 @@
+  Implement 'not' postfix template  #KT-4710 In Progress  

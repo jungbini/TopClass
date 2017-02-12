@@ -1,0 +1,1 @@
+  IDEA-66048,  IDEA-66010, user activity delay removed again. waiting for fix in balloon to prevent blinking  

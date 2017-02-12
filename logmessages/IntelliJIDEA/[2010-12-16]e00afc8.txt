@@ -1,0 +1,1 @@
+  fixed PY-2519 Join 2 ifs: disable intention if nested if contains also elif/else clause  

@@ -1,0 +1,1 @@
+  don't lowercase tags in html #WEB-14679 fixed  

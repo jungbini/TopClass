@@ -1,0 +1,1 @@
+  GRADLE-2181: fix libc#stat interface definition; minor cleanup.  

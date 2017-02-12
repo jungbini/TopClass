@@ -1,0 +1,1 @@
+  fixes for #3047 patch by Sam Overton; reviewed by jbellis for CASSANDRA-4429  

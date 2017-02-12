@@ -1,0 +1,1 @@
+  fixed regression in PY-8127 Change Signature: show just one dialog with proposition to change base method with several base classes  

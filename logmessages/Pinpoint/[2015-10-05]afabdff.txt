@@ -1,0 +1,1 @@
+ Merge pull request #1038 from jaehong-kim/statistics-distributed-fix  add snappy.hbase  commit afabdffcdb18a67a6dd95132d031a93265350e49  Support cluster's client and cluster's server in web and collector project.. #1017  fixed possibility of npe.  

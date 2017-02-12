@@ -1,0 +1,1 @@
+  Maven: settings bugs fixes (IDEADEV-37095)  

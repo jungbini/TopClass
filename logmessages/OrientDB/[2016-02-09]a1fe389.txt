@@ -1,0 +1,1 @@
+  Distributed: fixed issue with selecting of master cluster  Merged 2f02541e5af8a61a735a7454fe95ee3f6ed480f8  

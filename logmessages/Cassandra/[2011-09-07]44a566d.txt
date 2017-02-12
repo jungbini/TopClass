@@ -1,0 +1,1 @@
+  fix of the CQL count() behavior patch by Jonathan Ellis and Pavel Yaskevich; reviewed by Eric Evans and Pavel Yaskevich for CASSANDRA-3068  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1166273 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Bug fix: debugger does not stop on breakpoint in reloaded class.  

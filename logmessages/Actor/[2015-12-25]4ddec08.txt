@@ -1,0 +1,1 @@
+  fix(iOS) : fix strings ru/ch/pt  

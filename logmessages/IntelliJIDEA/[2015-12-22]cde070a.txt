@@ -1,0 +1,1 @@
+  [vcs]: IDEA-149151 Cannot move focus through "Unshelve..." dialog  by TAB; fix focus request with IdeFocusManager instead  

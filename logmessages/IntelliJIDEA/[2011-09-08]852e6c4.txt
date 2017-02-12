@@ -1,0 +1,1 @@
+  [r=kb] ComboBox backport from master to fix swing crash (IDEA-73933 Idea fails and needs restart while setting value in debugger)  

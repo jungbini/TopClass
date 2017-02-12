@@ -1,0 +1,1 @@
+  Remote Processes: using localhost and no http for rmi servers Maven: remote exceptions fixed (EA-22796, EA-23294, IDEA-60517, IDEA-60211, IDEA-58439, IDEA-60518)  

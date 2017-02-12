@@ -1,0 +1,1 @@
+  IDEA-91251 Can`t read information in debugger (red on grey in darcula)  

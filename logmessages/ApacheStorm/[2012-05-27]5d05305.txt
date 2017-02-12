@@ -1,0 +1,1 @@
+  fix TestGlobalCount to anchor tuples to it doesn't cause errors in tests  

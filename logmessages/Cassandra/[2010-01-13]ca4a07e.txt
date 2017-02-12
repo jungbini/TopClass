@@ -1,0 +1,1 @@
+  fix missing update of local deletion time introduced in #658. patch by jbellis; reviewed by goffinet for CASSANDRA-689  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@898895 13f79535-47bb-0310-9956-ffa450edef68  

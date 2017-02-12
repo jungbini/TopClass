@@ -1,0 +1,1 @@
+  fixed button background on editor status for os9, tweaked for osx  

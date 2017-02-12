@@ -1,0 +1,1 @@
+  IDEA-71304 Editor: Correct brace highlighting for the active debugger line  1. Returned bounding line highlighter to the first non-white space offset with the comment that explains the rationale; 2. Corrected highlighting processing in order to make more respect to the 'lines in range' highlight target area;  

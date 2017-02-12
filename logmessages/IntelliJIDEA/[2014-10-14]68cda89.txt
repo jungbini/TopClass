@@ -1,0 +1,1 @@
+  fixed PY-13505 Gtk3 support disappearing after first run of my program.  

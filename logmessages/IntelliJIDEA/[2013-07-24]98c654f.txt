@@ -1,0 +1,1 @@
+  fixed PY-10329 Web2Py: missing completion of default web2py environment inside models, controllers and views  

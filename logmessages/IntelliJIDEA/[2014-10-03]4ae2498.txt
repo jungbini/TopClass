@@ -1,0 +1,1 @@
+  ProgressManager.runProcessWithProgressSynchronously() and the likes no longer run in implicit read action (to fix the giant hole when it was possible to run write action during read action running)  

@@ -1,0 +1,1 @@
+  Github: use standard YesNoDialog  * mac issue with Modal thread seems fixed  

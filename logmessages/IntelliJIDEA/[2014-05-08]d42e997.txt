@@ -1,0 +1,1 @@
+  We treat not started threads as alive, to support debugging of Python 3.4 threads created by start_new_thread.  

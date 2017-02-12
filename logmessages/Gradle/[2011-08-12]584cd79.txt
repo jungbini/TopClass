@@ -1,0 +1,1 @@
+  added integration test related to GRADLE-1706 (doesn't prove that the issue is fixed because the test also passes with 1.0-m4)  

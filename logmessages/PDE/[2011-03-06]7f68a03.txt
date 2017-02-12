@@ -1,0 +1,1 @@
+  fix chrome and firefox 4 animation stuttering  

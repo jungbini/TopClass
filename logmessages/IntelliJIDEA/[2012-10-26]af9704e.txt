@@ -1,0 +1,1 @@
+  method refs: fix qualifier when static method is moved; show conflict if instance method is moved  

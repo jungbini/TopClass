@@ -1,0 +1,1 @@
+  JET-72 Type inference doesn't work when iterating over ArrayList: substitutions fixed for methods inherited from generic superclasses  

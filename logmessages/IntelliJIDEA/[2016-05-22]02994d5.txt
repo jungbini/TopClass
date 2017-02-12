@@ -1,0 +1,1 @@
+  [vcs-log] fix root indicator height in progress footer (make it the same as the other part of the footer)  

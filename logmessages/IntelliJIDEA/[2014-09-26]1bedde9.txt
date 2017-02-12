@@ -1,0 +1,1 @@
+  IDEA-125375 (Applying quick fix "Remove unused import" leaves non-compilable code)  

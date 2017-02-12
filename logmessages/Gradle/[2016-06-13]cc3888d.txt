@@ -1,0 +1,1 @@
+  Handle leaking file handles on Windows.  Surfaced after introducing aux classpath fix for Pmd Plugin in integration tests.  + review REVIEW-6056  

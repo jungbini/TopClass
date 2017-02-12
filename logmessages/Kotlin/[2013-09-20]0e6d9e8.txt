@@ -1,0 +1,1 @@
+  JS backend: fix is for trait. #KT-3519 fixed  

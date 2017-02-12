@@ -1,0 +1,1 @@
+  Auto-import fix also honors visibility  

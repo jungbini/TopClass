@@ -1,0 +1,1 @@
+  fix propagating SuperColumn tombstones from Memtable to caller. patch by jbellis; reviewed by Eric Evans for #101  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@769628 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  rework the entirety of LDAP checking  this change enables ActiveDirectory to authenticate properly adds STARTTLS switched to Apache DS LDAP API, for a saner implementation  fixes Graylog2/graylog2-web-interface#384 fixes Graylog2/graylog2-server#318  

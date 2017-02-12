@@ -1,0 +1,1 @@
+  fixed PY-10446 Chameleon: when enabled breaks auto indentation for html tags  fixed for Chameleon and for Web2Py templates  

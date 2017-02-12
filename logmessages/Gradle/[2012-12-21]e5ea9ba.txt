@@ -1,0 +1,1 @@
+  Configuration on demand - cleaned up the integ test code.  Added fixture method for checking what projects were evaluated. It only works when running with --info but it should be good enough for now. The integ test coverate still needs more work (more coverage, bust the test into several smaller cases, etc.)  

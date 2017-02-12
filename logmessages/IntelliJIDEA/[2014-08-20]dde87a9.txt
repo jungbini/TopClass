@@ -1,0 +1,1 @@
+  workaround for IDEA-124066 Debugger expression evaluation: ClassCastException when using Java 8 Stream API - disabled for now  

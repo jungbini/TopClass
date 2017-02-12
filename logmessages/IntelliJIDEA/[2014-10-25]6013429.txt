@@ -1,0 +1,1 @@
+  fixed NPE while opening first task in new study project  

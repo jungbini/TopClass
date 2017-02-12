@@ -1,0 +1,1 @@
+  fix when evaluating breakpoint condition, use context psi element from the place where the breakpoint was hit rather than from the place where the breakpoint is set  

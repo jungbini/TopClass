@@ -1,0 +1,1 @@
+  javasvn updated: move moves properties along with files, wc lock related fixes cleanup action added  

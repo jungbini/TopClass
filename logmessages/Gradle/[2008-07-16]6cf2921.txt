@@ -1,0 +1,1 @@
+  Upgraded to new ivy version which has a fix for a shh deployment bug (setting wrong permissions).  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@653 004c2c75-fc45-0410-b1a2-da8352e2331b  

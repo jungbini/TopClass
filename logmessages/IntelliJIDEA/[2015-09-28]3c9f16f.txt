@@ -1,0 +1,1 @@
+  extract super from anonymous fixed; no rename could be suggested EA-71255 - assert: JavaPullUpHelper.doMoveClass  

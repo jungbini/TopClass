@@ -1,0 +1,1 @@
+  fix(server:auth): device info migration for old transactions  

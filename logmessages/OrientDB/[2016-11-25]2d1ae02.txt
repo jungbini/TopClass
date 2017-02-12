@@ -1,0 +1,1 @@
+  HA: fixed issue with SQL function running distributed  Fixed issue https://github.com/orientechnologies/orientdb/issues/6945  

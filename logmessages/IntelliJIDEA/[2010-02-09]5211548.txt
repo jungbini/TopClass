@@ -1,0 +1,1 @@
+  fixes for ui:with tag in gwt ui.xml files (IDEA-26900)  

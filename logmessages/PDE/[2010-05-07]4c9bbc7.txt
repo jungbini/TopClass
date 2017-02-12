@@ -1,0 +1,1 @@
+  Point sprites in PShape3D work: fixed potential memory leak (ported from GLGraphics), added some convenience methods  

@@ -1,0 +1,1 @@
+  fixed another GC issue where nodes need to mark their parent document. this popped up in a test case where the document was no longer referred to, but a node set was. shrug.  

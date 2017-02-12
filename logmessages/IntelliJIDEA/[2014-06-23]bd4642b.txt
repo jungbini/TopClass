@@ -1,0 +1,1 @@
+  fixed PY-13330 Create new pyramid project: default for created templates directory should be related to inner project folder  

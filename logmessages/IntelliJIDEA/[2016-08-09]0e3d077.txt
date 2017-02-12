@@ -1,0 +1,1 @@
+  fix inheritance of abstract and default methods when multiple defaults are present  

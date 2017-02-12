@@ -1,0 +1,1 @@
+  IDEADEV-28863 SIOOBE: CompletionData.getReferencePrefix [@serega]  

@@ -1,0 +1,1 @@
+  Warning generation on non-exhaustive whens over enums + a set of tests + fixed test #KT-6227 Fixed  

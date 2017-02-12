@@ -1,0 +1,1 @@
+  backport part of abe39e9 to fix compilation  

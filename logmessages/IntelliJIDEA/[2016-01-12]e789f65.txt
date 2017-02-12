@@ -1,0 +1,1 @@
+  IDEA-150258 Debugger: couldn't set line breakpoint in static initializer at line with lambda  

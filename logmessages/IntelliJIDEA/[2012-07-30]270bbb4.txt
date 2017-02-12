@@ -1,0 +1,1 @@
+  fixed PY-7045 Intention for specifying type of reference in Python 3 annotation  

@@ -1,0 +1,1 @@
+  fix rendering of of text when font style for default text is bold (regression since a fix for IDEA-144224)  

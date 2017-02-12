@@ -1,0 +1,1 @@
+  [groovy] fix NPE in `DeclarationCacheKey.toString()`  

@@ -1,0 +1,1 @@
+  properties navigation fixed (IDEADEV-15677)  

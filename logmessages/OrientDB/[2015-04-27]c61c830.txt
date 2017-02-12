@@ -1,0 +1,1 @@
+  fix error on database generation for the distribution  

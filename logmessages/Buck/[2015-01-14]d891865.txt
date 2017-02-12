@@ -1,0 +1,1 @@
+  Fix AndroidExopackageBinaryIntegrationTest to mirror AndroidBinaryIntegrationTest.  Summary: AndroidExopackageBinaryIntegrationTest#testNativeExopackageHasNoNativeLibraries has an incorrect assertion. This fixes it to mirror AndroidBinaryIntegrationTest#testRawSplitDexHasSecondary.  Test Plan: travis  

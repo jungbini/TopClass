@@ -1,0 +1,1 @@
+  IDEADEV-8968: No undo stack exception fixed.  

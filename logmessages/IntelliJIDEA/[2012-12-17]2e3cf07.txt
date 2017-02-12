@@ -1,0 +1,1 @@
+  fixed inappropriate align in Replace format with str.format intention  

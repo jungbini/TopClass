@@ -1,0 +1,1 @@
+  Update .classpath.  Summary: Buck showed up with errors in Eclipse. Hopefully this fixes the problem.  Test Plan: * Look at the Buck project in Eclipse, no more red. * ##$ buck test --all## still pass  

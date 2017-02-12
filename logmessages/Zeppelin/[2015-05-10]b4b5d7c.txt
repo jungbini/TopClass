@@ -1,0 +1,1 @@
+69: cobertura-maven-plugin disabled for web a46bdec [Alexander Bezzubov] ZEPPELIN-69: cobertura-maven-plugin version moved to pluginManagement  

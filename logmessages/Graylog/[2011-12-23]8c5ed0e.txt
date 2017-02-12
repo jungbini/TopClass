@@ -1,0 +1,1 @@
+  updating message comments was broken  fixes #WEBINTERFACE-209  

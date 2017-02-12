@@ -1,0 +1,1 @@
+  fixed remote debug run conf. ui. added suspend on connect option (PY-2452)  

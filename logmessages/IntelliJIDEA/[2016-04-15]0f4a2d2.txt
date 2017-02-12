@@ -1,0 +1,1 @@
+  configure debug log settings: do not mix categories configured in log.xml with user-defined categories (otherwise categories removed from log.xml in a new produce version will remain in PropertiesComponent)  

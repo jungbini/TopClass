@@ -1,0 +1,1 @@
+  Removed unneeded VertiesVerticesMapReduce.Combiner. Remove depedency on Tokens.F. Fixed a bug in VertexEdgeMapReduce.  

@@ -1,0 +1,1 @@
+ Merge pull request #262 from NFLabs/fix_d3_format  Fix d3 data formmating for chart drawing  commit 857225a0a71da5e1f3b56669db85567d302fb7ce  Merge pull request #257 from NFLabs/fix_area_line_chart_xlabels  fix area/line chart xaxis tickformat  commit 4ec1b0f9eae3cef544f0ba217a3fb91dbbfc7709  fix area/line chart xaxis tickformat  

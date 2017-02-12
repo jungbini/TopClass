@@ -1,0 +1,1 @@
+  Add MessageCollector#hasErrors, get rid of MessageSeverityCollector  Also fix duplicated wrapping of a message collector into a message severity collector (in CLICompiler and in the beginning of doExecute in K2JVMCompiler/K2JSCompiler)  

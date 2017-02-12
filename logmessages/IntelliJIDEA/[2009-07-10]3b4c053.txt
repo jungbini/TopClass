@@ -1,0 +1,1 @@
+  TreeUi: memory leaks fixed when TreeStructure produces new objects  

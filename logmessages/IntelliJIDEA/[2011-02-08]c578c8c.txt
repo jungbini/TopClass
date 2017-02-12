@@ -1,0 +1,1 @@
+  fixed behavoir of find next/prev action after find action.  

@@ -1,0 +1,1 @@
+  WEB-17477 Debugger: cannot stop on breakpoint when "Do not step into library scripts" option enabled  

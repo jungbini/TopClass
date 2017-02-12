@@ -1,0 +1,1 @@
+  fix default FilteredServerView to actually be filtered  

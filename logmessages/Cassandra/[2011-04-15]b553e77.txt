@@ -1,0 +1,1 @@
+  fix duplicate results from CFS.scan patch by Pavel Yaskevich and jbellis for CASSANDRA-2406  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1092722 13f79535-47bb-0310-9956-ffa450edef68  

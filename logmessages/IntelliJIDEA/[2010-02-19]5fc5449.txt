@@ -1,0 +1,1 @@
+  IDEA-38524: Add quickfix to escalate inaccessible member visibility  

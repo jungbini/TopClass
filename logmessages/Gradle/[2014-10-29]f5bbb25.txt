@@ -1,0 +1,1 @@
+  Fix dependsOn in webDist userguide example.  Before, running gradle clean explodedDist resulted in an empty build/explodedDist directory. This change fixes it by making explodedDist depend on all subprojects assemble task.  

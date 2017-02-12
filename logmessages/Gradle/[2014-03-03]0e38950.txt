@@ -1,0 +1,1 @@
+  Added ConfigurableOperation.getResult() to allow tooling int tests to use the ExecutionResult fixture on the result of a tooling api integration test.  

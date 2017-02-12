@@ -1,0 +1,1 @@
+  ProjectCategoryUsagesCollector: fix persisting usages  

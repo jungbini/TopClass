@@ -1,0 +1,1 @@
+  Fixed bug about setting OID inside the object after saving  

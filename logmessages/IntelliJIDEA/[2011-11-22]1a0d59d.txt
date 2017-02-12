@@ -1,0 +1,1 @@
+  EA-31894 - assert: EditorImpl.xyToVisualPosition  Fail condition is added to the debug processing  

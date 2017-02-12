@@ -1,0 +1,1 @@
+  Fix expanding collections with long values in debugger (PY-16866)  When we view the value of the long variable, we run Evaluate expression command instead of Get Variable, so we need prepare variables for the Python side.  

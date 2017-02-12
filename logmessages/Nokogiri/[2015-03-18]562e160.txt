@@ -1,0 +1,1 @@
+  reset the namespace cache when replacing the document's innerHtml  the reset is needed to associated the namespace info with the nodes  fixes #1180  Sponsored by Lookout Inc.  

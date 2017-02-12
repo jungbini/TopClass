@@ -1,0 +1,1 @@
+  -fixed: issue with Collection parse failure if found command inside a valid quoted string  

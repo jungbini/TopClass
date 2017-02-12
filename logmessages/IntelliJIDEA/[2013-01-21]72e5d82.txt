@@ -1,0 +1,1 @@
+  fixed PY-8483 Disable rename reference quick-fix for unresolved references in doctests in rst files  

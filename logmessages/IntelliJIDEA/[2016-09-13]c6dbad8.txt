@@ -1,0 +1,1 @@
+  [platform] fixes NPE in update info dialogs (IDEA-161183)  

@@ -1,0 +1,1 @@
+  fix declaration of value for activation on pre output  

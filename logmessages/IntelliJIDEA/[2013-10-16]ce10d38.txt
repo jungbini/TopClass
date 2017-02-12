@@ -1,0 +1,1 @@
+  IDEA-103266 Suggest names for vars by method names without 'get' prefix  

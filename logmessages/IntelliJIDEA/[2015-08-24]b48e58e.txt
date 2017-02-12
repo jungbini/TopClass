@@ -1,0 +1,1 @@
+  fixed push course to stepic for multiple answer placeholders in one line  

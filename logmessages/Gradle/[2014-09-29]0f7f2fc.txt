@@ -1,0 +1,1 @@
+  Copy only serializable system properties into build parameters.  This is a fix for bug in Eclipse 4.4 tracked as https://issuetracker.springsource.com/browse/STS-3922  

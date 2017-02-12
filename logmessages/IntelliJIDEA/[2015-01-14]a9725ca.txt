@@ -1,0 +1,1 @@
+  preserve generics signature on inner class make static fix (IDEA-135223)  

@@ -1,0 +1,1 @@
+  Checked that "KT-6898 References to type arguments of unresolved class name are not resolved" has been fixed  

@@ -1,0 +1,1 @@
+  - Log test progress - Changed test events and TestDescriptor impls to be immutable - Simplified AttachParentTestResultProcessor to fix some problems when running multiple concurrent suites  

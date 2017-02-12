@@ -1,0 +1,1 @@
+  fix broken link and button confirmation dialogs  fixes #WEBINTERFACE-185, #WEBINTERFACE-186  

@@ -1,0 +1,1 @@
+  [r: nicity] WI-6048   Web IDE slows down tremendously up with big one-lined css file open  Compilation fix  

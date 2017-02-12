@@ -1,0 +1,1 @@
+  Alloy LAF fix: Broken menu layout in full-screen under Windows  

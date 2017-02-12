@@ -1,0 +1,1 @@
+  new debugger ui: initial detach for invisible tabs fix  

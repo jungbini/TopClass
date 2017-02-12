@@ -1,0 +1,1 @@
+  lookup preview fixes  don't invoke runForEachCaret recursively don't show preview when there's selection or in-place refactoring without selection  

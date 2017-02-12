@@ -1,0 +1,1 @@
+  fixed artifactId of config.core bundle  

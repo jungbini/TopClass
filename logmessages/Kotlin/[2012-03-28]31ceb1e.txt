@@ -1,0 +1,1 @@
+  KT-1636 Idea consumes the whole heap with Kotlin plugin #KT-1636 fixed  

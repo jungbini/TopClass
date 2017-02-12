@@ -1,0 +1,1 @@
+  IDEA-54317 Waiting for "stopping of background task" hangs - debug information  

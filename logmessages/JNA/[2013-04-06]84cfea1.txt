@@ -1,0 +1,1 @@
+  make resource prefix available via Platform  

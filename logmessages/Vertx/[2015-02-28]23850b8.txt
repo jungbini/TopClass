@@ -1,0 +1,1 @@
+  set context from non vert.x thread fix  

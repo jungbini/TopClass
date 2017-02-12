@@ -1,0 +1,1 @@
+  Add quick fix to remove single lambda parameter if it's unused #KT-14593 Fixed  

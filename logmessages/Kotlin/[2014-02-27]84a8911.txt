@@ -1,0 +1,1 @@
+Infix Operators: plus, minus, times, rangeTo, mod, div * Unary Prefix Operators: plus, minus, not * Array Index Operator: get * In Operator: contains  

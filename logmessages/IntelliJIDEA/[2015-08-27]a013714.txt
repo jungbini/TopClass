@@ -1,0 +1,1 @@
+  GPUB: fix missing error when pin & recoverWhile are present  

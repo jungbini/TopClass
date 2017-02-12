@@ -1,0 +1,1 @@
+  fix StringTokenizerDelimiterInspection (it did not escape double-quote, EA-89721)  

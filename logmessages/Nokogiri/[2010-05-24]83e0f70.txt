@@ -1,0 +1,1 @@
+ Compatibility macros are needed even in debug.  

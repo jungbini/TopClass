@@ -1,0 +1,1 @@
+  do not trigger field value alerts when no messages were found  fixes #642  

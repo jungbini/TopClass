@@ -1,0 +1,1 @@
+  Backport Node#set to be a private method.  fixes #564  

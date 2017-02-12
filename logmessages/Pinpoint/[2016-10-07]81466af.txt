@@ -1,0 +1,1 @@
+  bug fix - prevent other click until when complete to load transaction detail page.  

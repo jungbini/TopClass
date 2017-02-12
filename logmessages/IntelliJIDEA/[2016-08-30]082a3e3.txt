@@ -1,0 +1,1 @@
+  IDEA-160423 Caret#selectWordAtCaret should never operate on a 

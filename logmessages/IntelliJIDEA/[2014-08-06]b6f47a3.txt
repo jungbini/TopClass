@@ -1,0 +1,1 @@
+  PasswordSafe: fix frequent and/or simultaneous prompt appearances & cleanup  

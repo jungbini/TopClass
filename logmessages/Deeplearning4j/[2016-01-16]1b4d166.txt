@@ -1,0 +1,1 @@
+  Json and equals for GraphNodes; additional tests; various fixes  

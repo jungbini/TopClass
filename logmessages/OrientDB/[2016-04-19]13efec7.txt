@@ -1,0 +1,1 @@
+  Leave OvertexTtransformer untouched,  fixing https://github.com/orientechnologies/orientdb/issues/5987, has too many risks.  

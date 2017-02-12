@@ -1,0 +1,1 @@
+  YARN-3294. Allow dumping of Capacity Scheduler debug logs via web UI for a fixed time period. Contributed by Varun Vasudev  

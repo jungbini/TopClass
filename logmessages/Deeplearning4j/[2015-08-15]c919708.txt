@@ -1,0 +1,1 @@
+ Merge pull request #579 from Lewuathe/fix-classification-test  Fix unit test for NeuralNetworkClassificationTest failure  commit c9197085c91d561e58f13edfdb6f082b56439af4  CNN test fixes.  

@@ -1,0 +1,1 @@
+  IDEADEV-40896 (Quickfix for Collections.EMPTY_LIST,EMPTY_SET,EMPTY_MAP replaceable with Collections.emptyList(),emptySet(),emptyMap() inspection produces bad code)  

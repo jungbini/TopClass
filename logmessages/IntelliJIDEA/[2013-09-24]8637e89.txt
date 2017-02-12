@@ -1,0 +1,1 @@
+  register JavaBreakpointType, but hide under system property java.debugger.xBreakpoint  

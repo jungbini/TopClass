@@ -1,0 +1,1 @@
+  Darcula: forgotten folded text foreground (+ fixes EditorTextField.setPlaceholder rendering)  

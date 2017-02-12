@@ -1,0 +1,1 @@
+  Some fixes to DefaultModuleResolutionFilter to so that artifact exclude rules always accept any module. Fixed the implementations of acceptsSameModulesAs() for artifact exclude rules, so that we avoid retraversing the graph when a new incoming edge is added with an artifact exclude rule.  

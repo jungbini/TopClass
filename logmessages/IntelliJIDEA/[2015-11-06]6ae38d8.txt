@@ -1,0 +1,1 @@
+  Unify line separators in documentation for Python keywords  It also fixes PyQuickDocTest#testReturnKeyword test on Windows.  

@@ -1,0 +1,1 @@
+  merge: implement new merge as external tool  * do not use DefaultProject - 

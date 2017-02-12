@@ -1,0 +1,1 @@
+  Fix bug with build types implementation that meant specified project properties were only created, not set with the appropriate value.  

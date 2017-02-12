@@ -1,0 +1,1 @@
+  resource bundle editor: delete properties on multiple selection fixed  

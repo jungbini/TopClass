@@ -1,0 +1,1 @@
+  add implementation of EMBEDDEDMAP, fixed issue on embedded record managent. isse #681  

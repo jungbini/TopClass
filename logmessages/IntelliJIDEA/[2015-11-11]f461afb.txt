@@ -1,0 +1,1 @@
+  WEB-19029 Search Everywhere should recognize Run Configuration without Debug mode  

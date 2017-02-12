@@ -1,0 +1,1 @@
+  TYPE_ARGUMENTS_REDUNDANT quickfix added to this branch, tested and completed  

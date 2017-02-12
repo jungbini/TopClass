@@ -1,0 +1,1 @@
+  fixed GRADLE-1330: StackOverflowError in Eclipse plugin in case of circular dependencies  

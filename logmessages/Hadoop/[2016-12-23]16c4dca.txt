@@ -1,0 +1,1 @@
+  HDFS-11258. Addendum patch to fix compile issue. Contributed by Jimmy Xiang.  

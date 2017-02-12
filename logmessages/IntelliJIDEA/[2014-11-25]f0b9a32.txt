@@ -1,0 +1,1 @@
+  IDEA-133432 IDE hangs when deleting a line multiple times because of xdebugger  

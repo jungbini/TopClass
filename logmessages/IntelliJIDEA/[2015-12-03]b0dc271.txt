@@ -1,0 +1,1 @@
+  fixed PY-17658 String/unicode literals in function signatures are not color-coded  

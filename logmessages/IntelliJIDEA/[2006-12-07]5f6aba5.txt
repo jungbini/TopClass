@@ -1,0 +1,1 @@
+  show intention/quickfix correctly when analysis is in progress  

@@ -1,0 +1,1 @@
+  assorted fixes to viewing tags from CVS log (IDEADEV-11278, IDEADEV-11304)  

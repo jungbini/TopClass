@@ -1,0 +1,1 @@
+  Small fixes before 0.0.8  

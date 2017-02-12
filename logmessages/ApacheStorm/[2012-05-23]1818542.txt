@@ -1,0 +1,1 @@
+  reduce receive buffer size to see if it fixes the heartbeating problem  

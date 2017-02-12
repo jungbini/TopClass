@@ -1,0 +1,1 @@
+  fixed PY-11495 Create function: do not propose quick-fix for unresolved parts of fqn  

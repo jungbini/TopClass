@@ -1,0 +1,1 @@
+  fix blocker bug preventing to add SDK  

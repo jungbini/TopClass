@@ -1,0 +1,1 @@
+  Split components check ability story in two  Binaries first, then components And some minor fixes in the design doc  

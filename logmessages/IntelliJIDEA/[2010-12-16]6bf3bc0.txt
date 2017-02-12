@@ -1,0 +1,1 @@
+  fixed PY-2512 "Convert dict literal to dict constructor" breaks code  

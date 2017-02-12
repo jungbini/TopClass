@@ -1,0 +1,1 @@
+  EA-39782 EA-38635 fix "already disposed" assertions  

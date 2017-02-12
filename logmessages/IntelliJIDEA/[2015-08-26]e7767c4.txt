@@ -1,0 +1,1 @@
+  PY-9795 Use DocStringUpdater API to remove parameters from docstring in DocstringQuickfix and other places  

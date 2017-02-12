@@ -1,0 +1,1 @@
+  fix Stack Overflow (IDEADEV-27845)  

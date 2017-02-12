@@ -1,0 +1,1 @@
+  [git] GitConfig: strip refs/heads or /remotes prefix before searching for branches  

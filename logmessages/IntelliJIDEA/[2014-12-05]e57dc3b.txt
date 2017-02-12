@@ -1,0 +1,1 @@
+  fixed EA-61404 - assert: PyUpdatePropertySignatureQuickFix.applyFix  

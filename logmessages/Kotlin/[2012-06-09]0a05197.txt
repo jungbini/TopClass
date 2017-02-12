@@ -1,0 +1,1 @@
+  remove attempt to optimize using 'if' statement as the last one in a loop which created far more problems that it fixed  #KT-1978 Fixed  

@@ -1,0 +1,1 @@
+  abstract class can be interface: switch inspection on without highlighting so the fix would be available (IDEA-161703)  

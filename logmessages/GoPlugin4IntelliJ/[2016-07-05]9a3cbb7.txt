@@ -1,0 +1,1 @@
+  pin var specification, fix #2445  

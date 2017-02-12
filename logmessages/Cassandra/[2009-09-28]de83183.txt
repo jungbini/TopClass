@@ -1,0 +1,1 @@
+  Replace DebuggableScheduledThreadPoolExecutor with non-Scheduled Executors and Timers.  This allows logging exceptions from repeated tasks, which is basically impossible with STPE. patch by jbellis; reviewed by Jun Rao for CASSANDRA-455  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@819665 13f79535-47bb-0310-9956-ffa450edef68  

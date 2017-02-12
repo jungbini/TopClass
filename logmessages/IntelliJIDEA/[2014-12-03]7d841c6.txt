@@ -1,0 +1,1 @@
+  external build: temporary reverted fix for recompilations on duplicate-class check because now it helps to preserve consistency for mappings  

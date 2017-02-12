@@ -1,0 +1,1 @@
+  Move some composite-build types back into :core  These classes effectively form a contract between the :launcher and the :toolingApiBuilders subproject. This stuff is quite tangled, and should be refactored and cleaned up at a later date.  This change should help fix the build, however.  

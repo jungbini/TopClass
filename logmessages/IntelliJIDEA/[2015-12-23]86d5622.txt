@@ -1,0 +1,1 @@
+  IDEA-149613 Language level in a new project is 6 by default: fixing tests  

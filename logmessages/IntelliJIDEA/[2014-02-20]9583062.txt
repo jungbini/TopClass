@@ -1,0 +1,1 @@
+  Postfix completion: do not show 'enable template in autopopup' checkbox if show.template.in.completion.list is enabled  

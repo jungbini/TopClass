@@ -1,0 +1,1 @@
+  GRADLE-1730 - Merged start script generation stuff for the gradle distribution and the application plugin, so that there's only 1 place to fix problems. - Added more int test coverage for application plugin and gradle command-line.  

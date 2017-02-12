@@ -1,0 +1,1 @@
+  don't show debugger settings if no implementations (we should not show Debugger Settings in Database IDE, for example)  

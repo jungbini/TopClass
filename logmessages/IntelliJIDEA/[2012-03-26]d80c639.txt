@@ -1,0 +1,1 @@
+  fixed PY-6067 Offer to install pip and distribute if they are not installed in the current interpreter  

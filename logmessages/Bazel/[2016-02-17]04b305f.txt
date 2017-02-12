@@ -1,0 +1,1 @@
+  Fix tree pruning bug with constructor delegation  -relax disables checks in Resolve to catch constructors that do not explicitly delegate to a superclass constructor when no nullary superclass constructor exists. Now that we're not using -relax, those constructor calls have to be preserved.  -- MOS_MIGRATED_REVID=114875860  

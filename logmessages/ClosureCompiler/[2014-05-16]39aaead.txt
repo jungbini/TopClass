@@ -1,0 +1,1 @@
+  Test fix to enable DeclaredGlobalExternsOnWindow to be enabled. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=67283078  

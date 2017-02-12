@@ -1,0 +1,1 @@
+  using CORNER for rectMode and ellipseMode by default in PShapeOpenGL, fix #2086  

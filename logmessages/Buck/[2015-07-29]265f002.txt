@@ -1,0 +1,1 @@
+  Strip debug symbols when bundling.  Summary: apple_bundle uses dsymutil to create a separate debug symbol file but leaves the debug symbol references in the binary. This fixes that.  Test Plan: CI  

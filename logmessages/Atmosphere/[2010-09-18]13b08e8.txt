@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=54 ("Delayed Broadcast Message Out of Order with String")  See description above.  

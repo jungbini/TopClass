@@ -1,0 +1,1 @@
+  method refs: fix getClass() return type in case of method references  

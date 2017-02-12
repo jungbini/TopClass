@@ -1,0 +1,1 @@
+  upgrade mysql connector for bug with recent MySQL version  

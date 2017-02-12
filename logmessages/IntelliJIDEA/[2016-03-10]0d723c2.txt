@@ -1,0 +1,1 @@
+  [text-completion] text autocompletion auto-popups on symbols that are added to prefix by provider IDEA-152845  

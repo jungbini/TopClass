@@ -1,0 +1,1 @@
+  restore and fix completion of 'else' in conditional expressions (PY-2397)  

@@ -1,0 +1,1 @@
+  Fixed the issue where serverConnection is reused and the responded flag was fixed to true.  Signed-off-by: Erdi Calli <erdicalli@gmail.com>  

@@ -1,0 +1,1 @@
+  [ann] Exceptions with interfaces in multi-catch: assignability and control flow fix  

@@ -1,0 +1,1 @@
+  Ipython Notebook: fixed cell movement for cells with the same text  There is no need to replace the whole document if text in cells were the same. We should explicitly add synchronize request because document is not modified.  

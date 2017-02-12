@@ -1,0 +1,1 @@
+  fix test_helper includes to allow working with snailgun  

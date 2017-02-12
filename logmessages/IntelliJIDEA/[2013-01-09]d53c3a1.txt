@@ -1,0 +1,1 @@
+  WEB-5977 Implement sass-stubs function in IDEA  #WEB-5977 fixed  

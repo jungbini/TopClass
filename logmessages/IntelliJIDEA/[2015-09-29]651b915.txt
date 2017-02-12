@@ -1,0 +1,1 @@
+  fixed compatibility with Kotlin plugin (EA-73726) cherry picked from b38a8aa6d1f4  

@@ -1,0 +1,1 @@
+  Fixed KT-2483 "Add import" quick fix offers adding import to non-API class  #KT-2483 Fixed  

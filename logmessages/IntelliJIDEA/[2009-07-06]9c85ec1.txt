@@ -1,0 +1,1 @@
+  Use template builder in "Reuse of local variable" quickfix  

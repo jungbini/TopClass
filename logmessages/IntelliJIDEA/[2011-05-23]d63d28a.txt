@@ -1,0 +1,1 @@
+  fixed PY-3636 missing parameter self  

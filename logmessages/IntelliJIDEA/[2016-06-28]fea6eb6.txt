@@ -1,0 +1,1 @@
+  Java inspection: Cleanup after merging pull request for "Replace coll.stream().forEachOrdered(..) with coll.forEach(..)" Got rid of nullability warning in methodCall.resolveMethod().getName(). Moved the "forEachOrdered" fix into a separate class to resolve inspection warning "getFamilyName() shouldn't depend on the context".  

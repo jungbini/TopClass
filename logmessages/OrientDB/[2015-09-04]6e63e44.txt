@@ -1,0 +1,1 @@
+  fixed issue #4523 - subquery issue for Delete Vertex Command  

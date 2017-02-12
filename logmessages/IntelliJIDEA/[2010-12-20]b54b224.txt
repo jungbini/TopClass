@@ -1,0 +1,1 @@
+  fixed PY-2516 Split into 2 ifs: broken code with suites on the same line to if and else clauses  

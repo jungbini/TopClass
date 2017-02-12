@@ -1,0 +1,1 @@
+  fix for when bootstrap source has no data in the range requested patch by jbellis; reviewed by Jaakko Laine for CASSANDRA-541  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@835891 13f79535-47bb-0310-9956-ffa450edef68  

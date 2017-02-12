@@ -1,0 +1,1 @@
+  Move endpoints from prefix /api/master/block to /api/master  

@@ -1,0 +1,1 @@
+  revise rules when to use Jdk7DirectoryWalker  - filename encoding bug affects JDK7 when file.encoding != sun.jnu.encoding and file.encoding isn't an unicode encoding  +review REVIEW-5623  

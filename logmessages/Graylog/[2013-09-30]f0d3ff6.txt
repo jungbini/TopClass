@@ -1,0 +1,1 @@
+  up/down positioning for quickvalues. fixes #263  

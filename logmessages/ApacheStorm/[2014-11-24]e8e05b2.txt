@@ -1,0 +1,1 @@
+  STORM-573 is fixed. timeout-ms value can be passed as param to comlete-topology in testing4j.clj for Java projects.  

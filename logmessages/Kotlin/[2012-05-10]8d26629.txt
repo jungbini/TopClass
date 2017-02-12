@@ -1,0 +1,1 @@
+  Resolution diagnostic improvement #KT-1940 fixed  

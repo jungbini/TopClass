@@ -1,0 +1,1 @@
+  Disable references to single_arch_{cpu,platform}.  These two Skylark symbols are functions, not variables.  I attempted to correct the references to match the symbol type, but I cannot get the tests to fully pass -- so better disable this until properly fixed.  -- MOS_MIGRATED_REVID=131942175  

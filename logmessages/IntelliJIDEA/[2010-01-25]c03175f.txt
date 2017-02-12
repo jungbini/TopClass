@@ -1,0 +1,1 @@
+  fix parsing of extended slices, change PSI for slices, select word handler for slices is now redundant  

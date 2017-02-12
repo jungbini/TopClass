@@ -1,0 +1,1 @@
+  fixed old values cleanup after undo. issue #3377  

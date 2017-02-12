@@ -1,0 +1,1 @@
+  fix ValueParameterDescriptor.index read from class files  (ReadClassDataTest now also checks for indices)  

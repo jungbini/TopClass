@@ -1,0 +1,1 @@
+ Avoid duplicate node registration in NodeService  This fixes an issue where NodeService#registerServer() created a duplicate entry for a node instead of updating the existing one.  

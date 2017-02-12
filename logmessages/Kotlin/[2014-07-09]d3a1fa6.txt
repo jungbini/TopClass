@@ -1,0 +1,1 @@
+  KT-5405 J2K: convert for's through indices of some list or array into use of ".indices" + fixed a bug in for-statement conversion  #KT-5405 Fixed  

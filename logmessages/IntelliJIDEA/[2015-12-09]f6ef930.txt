@@ -1,0 +1,1 @@
+  allow specific regions to be removed on PSI invalidation (IDEA-131718) - required for folding of conditional compilation branches in CLion  fix typo  

@@ -1,0 +1,1 @@
+  bug fixed for jsoncreator primive type default values. issue #802  

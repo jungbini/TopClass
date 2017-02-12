@@ -1,0 +1,1 @@
+  Errors logging/reporting was improved. Now each error/warning contains test framework id. Also log errors will be thrown usually in "debug mode" and warnings in default normal mode  

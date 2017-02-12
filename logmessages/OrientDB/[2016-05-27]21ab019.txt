@@ -1,0 +1,1 @@
+  fixed potential leak in case of long running client sessions  

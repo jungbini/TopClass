@@ -1,0 +1,1 @@
+  1) Delete the files that have moved to druid-api and get them through the druid-api dependency.  Still need to fix Searchable on StorageAdapter, but other than that, everything should compile.  

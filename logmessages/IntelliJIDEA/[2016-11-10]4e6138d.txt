@@ -1,0 +1,1 @@
+ fix tests falling after fix WEB-23995 JSON schema: "type is not allowed" for valid schema and instance  

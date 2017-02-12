@@ -1,0 +1,1 @@
+  Fixed bug on anonymous classes in Object Database implementation  

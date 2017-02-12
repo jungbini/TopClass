@@ -1,0 +1,1 @@
+  Minor typo fix (IDEA-116432 Incorrect Spelling of Eclipse)  

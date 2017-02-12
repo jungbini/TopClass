@@ -1,0 +1,1 @@
+  Gradle-2187: fix test with groovy and no java home.  

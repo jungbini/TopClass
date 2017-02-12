@@ -1,0 +1,1 @@
+  when memoizing, remember which computation caused reentrancy and when the same reentrant computation invokes the same memoized computation, use the memoized result. ResolveClassTest declared fixed and uncommented  

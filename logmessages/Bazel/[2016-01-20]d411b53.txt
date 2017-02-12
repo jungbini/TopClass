@@ -1,0 +1,1 @@
+  Stop explicitly disabling useOptimizedZip  javac's bespoke zip implementation is now off by default: https://bugs.openjdk.java.net/browse/JDK-7018859  -- MOS_MIGRATED_REVID=112600878  

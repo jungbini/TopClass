@@ -1,0 +1,1 @@
+  hacky fix for IDEA-76183 (CVS incoming changes not working if cvs server uses symlinks to repository)  

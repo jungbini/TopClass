@@ -1,0 +1,1 @@
+  Quickfix that adds missing parameters in BDD step definitions inserts types in docstring  Finally removed method StructuredDocString#createParameterType.  

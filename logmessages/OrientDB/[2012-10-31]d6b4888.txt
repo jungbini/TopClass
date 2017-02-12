@@ -1,0 +1,1 @@
+  Fixed bugs on Studio and drop classes/properties/indexes  

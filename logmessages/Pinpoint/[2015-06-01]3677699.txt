@@ -1,0 +1,1 @@
+ Merge pull request #507 from denzelsN/master  bug fix.  commit 3677699b56dc1356d450872d1f41428360f61d42  bug fix. From string to Date conversion error in IE.  

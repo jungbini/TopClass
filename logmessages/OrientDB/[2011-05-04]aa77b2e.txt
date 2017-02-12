@@ -1,0 +1,1 @@
+  Contribution by Luca Molino to fix the issue 251 about the usage of Proxied headers  

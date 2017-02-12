@@ -1,0 +1,1 @@
+  fixed ipython notebook cell resize.  Now we use vertical flow layout instead of grid bag layout. Editable cells are self contained so we have invisible prompt labels in them.  

@@ -1,0 +1,1 @@
+  Auto-import fix to use dependency rules (as in Java)  

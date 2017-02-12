@@ -1,0 +1,1 @@
+  IdeaTitledBorder. fix with updating UI  

@@ -1,0 +1,1 @@
+  fixed adding breakpoint to all opened projects  

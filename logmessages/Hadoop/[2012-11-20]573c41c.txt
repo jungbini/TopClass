@@ -1,0 +1,1 @@
+  HDFS-4179. BackupNode: allow reads, fix checkpointing, safeMode. (shv)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1411508 13f79535-47bb-0310-9956-ffa450edef68  

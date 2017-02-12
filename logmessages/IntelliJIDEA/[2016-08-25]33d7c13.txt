@@ -1,0 +1,1 @@
+  [vcs-log] minor: remove some extra empty lines, fix format  

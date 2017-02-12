@@ -1,0 +1,1 @@
+ IDEA-126829 Debbuger - quick evaluate expression is always collapsed  

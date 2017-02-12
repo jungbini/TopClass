@@ -1,0 +1,1 @@
+  github: fix test  * fix NPE on tearDown() * do not call super.tearDown() on exception in beforeTest()  

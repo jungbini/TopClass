@@ -1,0 +1,1 @@
+  KT-7693 Unused constructor parameter is not detected if class is constructed with named argument  #KT-7693 fixed  

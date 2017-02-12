@@ -1,0 +1,1 @@
+ Merge branch 'hotfix-1.6.3' into develop  commit 73a88646238d2fb18d2a5b6a5b8f570ea8667216  Merge branch 'hotfix-1.6.3' of https://github.com/orientechnologies/orientdb into hotfix-1.6.3  commit 0567b9dfdf9aa2960c4a3f5158a7549f13784789  Hash index iteration was fixed.  

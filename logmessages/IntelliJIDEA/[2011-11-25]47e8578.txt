@@ -1,0 +1,1 @@
+  fixed detection for already added facets (EA-26990, EA-31952) [rev. by Dmitry A.]  

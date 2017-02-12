@@ -1,0 +1,1 @@
+  fix #1206: Not find the fields of a struct in a slice  

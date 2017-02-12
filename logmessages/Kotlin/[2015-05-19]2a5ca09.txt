@@ -1,0 +1,1 @@
+  DeprecatedSymbolUsageFix - correct dealing with implicit receivers + fixed KT-7776 in completion  #KT-7776 Fixed  

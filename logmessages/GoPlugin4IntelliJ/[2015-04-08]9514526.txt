@@ -1,0 +1,1 @@
+ parser issue with literal maps, fix #1532; call func with anonymous func within if statement, cause parser stop, fix #1535  

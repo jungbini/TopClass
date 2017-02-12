@@ -1,0 +1,1 @@
+  lh: erroneous assertion removed lh: useless cpu usage in the dialogs fixed  

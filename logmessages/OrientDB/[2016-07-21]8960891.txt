@@ -1,0 +1,1 @@
+  Remote protocol: fixed issue when a server is killed  Refactored also methods to make more clear the meaning of them (internal class, no impact on user API). Fixed issue http://www.prjhub.com/#/issues/7258  

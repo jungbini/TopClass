@@ -1,0 +1,1 @@
+  TreeUi: fix for 14917 -- no need for LOG.error()  

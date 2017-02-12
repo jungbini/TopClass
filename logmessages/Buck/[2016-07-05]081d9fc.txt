@@ -1,0 +1,1 @@
+  fix doc typos for asflags and cxxppflags  Summary: These were typoed to 'csflags' and 'cppxxflags' rexpectively.  Test Plan: Visual examination of /concept/buckconfig.html  Reviewed By: andrewjcg  fbshipit-source-id: 4dc66f3  

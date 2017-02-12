@@ -1,0 +1,1 @@
+  fixes for namespace prefixes declared outside root tag  

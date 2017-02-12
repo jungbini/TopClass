@@ -1,0 +1,1 @@
+  fixed PY-16285 IPython Notebook: unresolved reference inspection doesn't work  added association with module for ipython code cells so we can find module sdk  

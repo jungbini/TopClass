@@ -1,0 +1,1 @@
+ Merge pull request #314 from metamx/igalDruid  Updates to Documentation to improve concepts and update small bugs in the segment flow  commit 2186bd6cb758c5b2b7fdbb648eaac70903b94688  Minor fixes and documentation changes  

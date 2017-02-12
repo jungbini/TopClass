@@ -1,0 +1,1 @@
+  regex: fix handling of empty character class (which is not allowed in Java, Python & Ruby, but allowed in JavaScript)  

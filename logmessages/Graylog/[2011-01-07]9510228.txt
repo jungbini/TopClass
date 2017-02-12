@@ -1,0 +1,1 @@
+  fix comparison of Fixnum with ActiveSupport::TimeWithZone bug  

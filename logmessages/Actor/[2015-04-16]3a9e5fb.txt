@@ -1,0 +1,1 @@
+  fix(android): Emoji pager and stickers fixes  

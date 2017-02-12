@@ -1,0 +1,1 @@
+  tweak for potential obscure bug in quicksort font char lookup  

@@ -1,0 +1,1 @@
+  add OS X quit handler (fixes #3301)  

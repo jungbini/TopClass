@@ -1,0 +1,1 @@
+  GRADLE-2104 fix checkstyle violations on SshDummyauthenticationProvider  

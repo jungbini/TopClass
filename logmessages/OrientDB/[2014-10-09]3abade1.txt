@@ -1,0 +1,1 @@
+  Enabling streaming from JDBC driver  Prevents OOM errors on large datasets, fixes #8  

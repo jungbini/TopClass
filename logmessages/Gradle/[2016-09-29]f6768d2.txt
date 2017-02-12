@@ -1,0 +1,1 @@
+  Denormalize multiline string to fix tests  +review REVIEW-6269  

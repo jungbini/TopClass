@@ -1,0 +1,1 @@
+  Issue #1647 fixed bug with whitespaces at the end  

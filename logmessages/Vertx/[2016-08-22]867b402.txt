@@ -1,0 +1,1 @@
+  WriteStream javadoc improvements - fixes #1518  

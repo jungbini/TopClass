@@ -1,0 +1,1 @@
+  I fixed ArrayWithoutInitializationExpression class for object array and multi dimension array. And I added 2 tests to check object Initialization.  

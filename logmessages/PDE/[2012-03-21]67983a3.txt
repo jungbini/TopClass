@@ -1,0 +1,1 @@
+  another fix for issue #877, now using a proper regex to fix a regression  

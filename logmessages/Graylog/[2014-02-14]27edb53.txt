@@ -1,0 +1,1 @@
+  in fact assets do not have to be in /app at all  move them back  fixes #588  

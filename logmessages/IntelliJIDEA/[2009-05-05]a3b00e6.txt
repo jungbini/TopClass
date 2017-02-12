@@ -1,0 +1,1 @@
+  P4: Update errors view: clobber writable hotfix added (opens files for edit)  

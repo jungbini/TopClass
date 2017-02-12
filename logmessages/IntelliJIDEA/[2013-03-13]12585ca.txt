@@ -1,0 +1,1 @@
+  FileNameCache: enable caching always don't store common prefix (saves 8 entry bytes vs. less prefix average length)  

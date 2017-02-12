@@ -1,0 +1,1 @@
+  fix coffeescript minification test - there was no bug in minification. minification removes variables that don't cause a side-effect and that's why the test was failing.  +review REVIEW-5521  

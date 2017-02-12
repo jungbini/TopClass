@@ -1,0 +1,1 @@
+  override httpclient dependency to be version 4.1.1 to fix conflicts with aws sdk  

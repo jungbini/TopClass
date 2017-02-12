@@ -1,0 +1,1 @@
+  git log: fix running selection in [details] changed files tree (list)  

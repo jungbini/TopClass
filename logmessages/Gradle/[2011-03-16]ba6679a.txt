@@ -1,0 +1,1 @@
+  fixed incorrect wildcard usages related to org.gradle.api.internal.Factory<T>  

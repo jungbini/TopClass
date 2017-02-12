@@ -1,0 +1,1 @@
+  Improve Hadoop job output dir log message  The output dir for each individual job is now logged at DEBUG, instead of logging a string prefix common to all jobs that wasn't actually a directory or file by itself.  

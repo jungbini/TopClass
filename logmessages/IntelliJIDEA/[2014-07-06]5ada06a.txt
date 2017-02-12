@@ -1,0 +1,1 @@
+  [git] No ellipsis for the author name is needed: combobox is adjusted automatically  This fixes IDEA-91620 and IDEA-121825  

@@ -1,0 +1,1 @@
+  fix compilation using jdk 1.5: remove @Override usages on methods implementing an interface method  

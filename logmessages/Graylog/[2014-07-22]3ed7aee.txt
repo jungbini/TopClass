@@ -1,0 +1,1 @@
+  Only write the git.properties file if the content changes.  This fixes an issue with slow assets loading in dev mode.  

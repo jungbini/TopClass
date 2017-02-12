@@ -1,0 +1,1 @@
+  HADOOP-13213. Small Documentation bug with AuthenticatedURL in hadoop-auth. Contributed by Tom Ellis.  This closes #97.  

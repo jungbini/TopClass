@@ -1,0 +1,1 @@
+  renamed facility to level for consistency  fixes #WEBINTERFACE-424  

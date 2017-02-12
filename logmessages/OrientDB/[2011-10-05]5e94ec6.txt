@@ -1,0 +1,1 @@
+  Fixed bug reported by Nicole in ML about the usage of special characters in schema class and fields.  

@@ -1,0 +1,1 @@
+  fix DSS to generate unique racks when possible patch by jbellis; reviewed by Jeremy Hanna for CASSANDRA-1103   git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@945914 13f79535-47bb-0310-9956-ffa450edef68  

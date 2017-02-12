@@ -1,0 +1,1 @@
+  IDEADEV-40127 CME: IdeaServerManagerImpl.processStorages + fix ComponentVersionsProcessingTest to not save configs to bin dir  

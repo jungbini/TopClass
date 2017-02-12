@@ -1,0 +1,1 @@
+ GitUpdateProcess: surround the update process with "updating..." progress indicator.  This fixes "pushing - fetching - pushing (wrong) - merging" indicator text sequence when auto-updating during the push.  

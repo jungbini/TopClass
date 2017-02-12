@@ -1,0 +1,1 @@
+  REVIEW-3562 fixed potential problem with checkstyle tool dependencies resolution.  

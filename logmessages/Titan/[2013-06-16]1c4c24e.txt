@@ -1,0 +1,1 @@
+n value on every invocation.  This should alleviate one potential cause of timeout mismatch exceptions as discussed in #302.  

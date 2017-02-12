@@ -1,0 +1,1 @@
+  init IDEA-135094 gwt: support name mappings  only Variables view fixed (function parameters is not supported)  

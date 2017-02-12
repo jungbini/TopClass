@@ -1,0 +1,1 @@
+ Merge pull request #3605 from efeller/authentication_fix  [ALLUXIO-2040] Make the Mesos principal property optional  commit 1727f2f724c8ad97909b8e7302c6b3397156d741  Reword and fix formatting  

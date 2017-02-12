@@ -1,0 +1,1 @@
+  fix "'StringBuffer' may be 'StringBuilder'" inspection problem descriptor  

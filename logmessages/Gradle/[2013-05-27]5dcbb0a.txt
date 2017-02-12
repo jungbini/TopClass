@@ -1,0 +1,1 @@
+  fix javadoc in ConfigurationContainer (use create instead of deprecated add method in sample code snippet)  

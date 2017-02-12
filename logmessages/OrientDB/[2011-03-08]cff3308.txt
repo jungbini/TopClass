@@ -1,0 +1,1 @@
+  Contribution by Luca Molino about Console: now the UP arrow searches starting from current value as prefix  

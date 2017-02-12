@@ -1,0 +1,1 @@
+  Check for ClassKind in getClassifier() and getObjectDescriptor() implementations in java scopes  # KT-3124 fixed  

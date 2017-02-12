@@ -1,0 +1,1 @@
+  Java inspection: Replace Arrays.asList().stream() with Stream.of() when asList is statically imported. Use PSI tree modifications in quick fixes instead of text manipulations. Tests added. (IDEA-157459)  

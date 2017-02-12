@@ -1,0 +1,1 @@
+  IDEA-24742 When execution point is highlighted using border style instead of color, an extra line is... - fix after review  

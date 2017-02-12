@@ -1,0 +1,1 @@
+ Merge pull request #4411 from JakubValtar/bugfix-fx  cursors, window icons, and dispose() for JavaFX  commit 4359bebb77e44b648042fb1d11bf580e55b65002  Merge pull request #4410 from JakubValtar/bugfix-tabs  Fix drawing lines with tabs  commit b1f09eb3363a2b0b3cb7bfbcbe8996238d6df8af  ASTGen: fix find usage  

@@ -1,0 +1,1 @@
+  Duplicated error messages in @CompileStatic context fixed. Recoursive visitor is replaced with simple visitor, so we don't go inside child psi elements which can be inside @CompileStatic context  

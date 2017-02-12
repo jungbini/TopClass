@@ -1,0 +1,1 @@
+  fix compiler options loading for eclipse (IDEA-97059 Problems view doesn't display errors in other modules)  

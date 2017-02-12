@@ -1,0 +1,1 @@
+ fix exceptions from pasting code into Editor (#4522, #4761)  

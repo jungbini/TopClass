@@ -1,0 +1,1 @@
+  use brace highlighter for navigation #WEB-18200 fixed #WEB-18201 fixed #IDEA-111328 fixed #IDEA-12068 fixed  

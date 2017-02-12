@@ -1,0 +1,1 @@
+  fix(core): notify notifications actor on chat read by opening, mark as read if unread counter is non zero  

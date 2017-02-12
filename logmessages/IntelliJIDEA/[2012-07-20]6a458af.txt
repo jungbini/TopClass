@@ -1,0 +1,1 @@
+  VCS: VCS root iteration 1) do not ask children twice 2) bug with child another vcs fixed (forgot init) 3) clear case more optimal run for unversioned 4) tests for vcs root iterator, vcs util file iteration, clear case unversioned/ignored guesses & detection  + standard directory data for tests generator class + data  

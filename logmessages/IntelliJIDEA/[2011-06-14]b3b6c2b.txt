@@ -1,0 +1,1 @@
+  J2D_PIXMAPS=shared (seems to fix menu painting under GTK+ L&F; NetBeans uses this as well) (PY-2559)  

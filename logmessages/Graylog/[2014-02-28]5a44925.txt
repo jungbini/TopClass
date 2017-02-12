@@ -1,0 +1,1 @@
+  don't show lock/unlock buttons for empty dashboards  you can't move anything anyway  fixes #670  

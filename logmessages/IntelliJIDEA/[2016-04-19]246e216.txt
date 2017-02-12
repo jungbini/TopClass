@@ -1,0 +1,1 @@
+  IDEA-150906 Mac scroll tuning: fix fade out of the overlay scroll bar IDEA-154802 Scrollbars on OS X hide abruptly (regression)  

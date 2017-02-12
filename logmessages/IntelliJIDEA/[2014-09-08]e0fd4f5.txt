@@ -1,0 +1,1 @@
+  fixed EDT exception (find new project action )  

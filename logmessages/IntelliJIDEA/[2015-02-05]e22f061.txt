@@ -1,0 +1,1 @@
+  do not store more than we show for long values in debugger  

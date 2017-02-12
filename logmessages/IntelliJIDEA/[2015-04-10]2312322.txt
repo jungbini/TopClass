@@ -1,0 +1,1 @@
+  Set initially selected second column in OptionTableWithPreviewPanel (in order for key events to be dispatched by value editors, which are positioned on the second column, fixes IDEA-136070)  

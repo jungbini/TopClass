@@ -1,0 +1,1 @@
+  call isAvailable() for DO_NOT_SHOW fixes in tests  

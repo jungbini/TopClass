@@ -1,0 +1,1 @@
+  Removed reified to fix the bootstrap. The @library annotation prevents from making the function inline.  

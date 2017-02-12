@@ -1,0 +1,1 @@
+  Improve the speed of regex matches which only care about a prefix of the word  

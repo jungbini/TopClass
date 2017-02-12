@@ -1,0 +1,1 @@
+  fix rare bug in supervisor where it would continuously fail to clean up workers because the worker was already partially cleaned up  

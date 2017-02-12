@@ -1,0 +1,1 @@
+  LocalHashTable - all  issues related to metadata save procedure were fixed.  

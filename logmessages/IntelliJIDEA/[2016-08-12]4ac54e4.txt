@@ -1,0 +1,1 @@
+  [platform] fixes missed notifications on flat file watch root changes on macOS (IDEA-159022)  

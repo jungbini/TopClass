@@ -1,0 +1,1 @@
+  include elasticsearch.yml.example in packages  fixes #SERVER-198  

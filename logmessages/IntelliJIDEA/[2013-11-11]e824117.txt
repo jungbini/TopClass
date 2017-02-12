@@ -1,0 +1,1 @@
+  Quick fix for RefParserTest  More complete TestLogObjectsFactory implementation will follow.  

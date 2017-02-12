@@ -1,0 +1,1 @@
+  fixes #4055  Signed-off-by: Kai Kreuzer <kai@openhab.org>  

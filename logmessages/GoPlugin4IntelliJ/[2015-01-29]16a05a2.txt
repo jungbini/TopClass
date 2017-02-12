@@ -1,0 +1,1 @@
+ replaced /null/nil/ in the go livetemplate  -quick fix on replacing null with nil in the go.xml template  great work thanks for all the effort, the alpha branch is great.  Signed-off-by: Brent Salisbury <brent@socketplane.io>  

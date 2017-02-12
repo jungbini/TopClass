@@ -1,0 +1,1 @@
+  init WEB-7728 Built-in HTTP server should be more visible Created JS Debug configuration MUST use remote url instead of local file  

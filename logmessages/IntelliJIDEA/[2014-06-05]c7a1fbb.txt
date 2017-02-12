@@ -1,0 +1,1 @@
+  fixed NPE in debuggers that do not use value markers  

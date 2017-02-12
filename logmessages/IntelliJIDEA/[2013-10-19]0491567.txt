@@ -1,0 +1,1 @@
+  fixed race for for concurrent read access of byte buffers from vfs  

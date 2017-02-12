@@ -1,0 +1,1 @@
+  HOTFIX: fix consumer config for streams  guozhangwang My bad. I removed ZOOKEEPER_CONNECT_CONFIG from consumer's config by mistake. It is needed by our own partition assigner running in consumers.  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #959 from ymatsuda/hotfix3  

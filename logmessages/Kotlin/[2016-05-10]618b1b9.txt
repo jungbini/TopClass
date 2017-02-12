@@ -1,0 +1,1 @@
+  Refactored replace with safe/dot call fixes  

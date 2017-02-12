@@ -1,0 +1,1 @@
+  lots of fixups to handle warnings and deprecations, also change jde-mode to just java-mode for emacs  

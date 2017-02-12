@@ -1,0 +1,1 @@
+ Merge pull request #2533 from dlsniper/split-unused-function-inspection  Split unused function inspection (fixes #2374)  commit 765cfe734f1548042652f3f3c988152d0618fccb  Introduce inspection for direct assignment to struct field in maps (fixes #2252)  

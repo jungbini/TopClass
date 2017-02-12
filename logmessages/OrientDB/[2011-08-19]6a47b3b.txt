@@ -1,0 +1,1 @@
+  Removed usage of generics in loop to avoid crash of OpenJDK: http://bugs.sun.com/view_bug.do?bug_id=6682380  

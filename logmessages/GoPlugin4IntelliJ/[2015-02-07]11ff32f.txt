@@ -1,0 +1,1 @@
+  fix #1267: no more chan or map completion inside qualified types  

@@ -1,0 +1,1 @@
+  Ninja fix SelectionColumnMappingTest broken by CASSANDRA-9771  

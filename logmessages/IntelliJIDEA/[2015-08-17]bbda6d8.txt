@@ -1,0 +1,1 @@
+  fix operation assignment (IDEA-143986)  

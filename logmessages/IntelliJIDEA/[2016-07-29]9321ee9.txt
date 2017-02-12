@@ -1,0 +1,1 @@
+  better fix for list background that works with group titles  

@@ -1,0 +1,1 @@
+ bugfix in the way house codes and unit codes are packed into a single byte. The 4 bit house code has to be packed into the 4 most significant bits of the address byte. The previous version of the code only works for devices in house code A.  

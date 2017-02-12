@@ -1,0 +1,1 @@
+  allow search pattern that match zero length string to attempt to search again in hope of finding nonzero prefix [r=s.dmitriev]  

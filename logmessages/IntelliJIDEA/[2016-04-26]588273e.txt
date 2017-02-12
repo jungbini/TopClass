@@ -1,0 +1,1 @@
+  cleanup yellow code, add toString for easier debugging, javadoc  

@@ -1,0 +1,1 @@
+  fixed PY-9266 Running doctest for __test__ in module from PyCharm returns "TypeError: unsupported operand type(s) for +: 'NoneType' and 'int'"  

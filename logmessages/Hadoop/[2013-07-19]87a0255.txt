@@ -1,0 +1,1 @@
+  Fixed CHANGES.txt to reflect that all fixes in 2.1.1-beta are now in 2.1.0-beta.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1504738 13f79535-47bb-0310-9956-ffa450edef68  

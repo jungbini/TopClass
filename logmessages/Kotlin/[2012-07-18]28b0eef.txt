@@ -1,0 +1,1 @@
+  - KT-2353 convert a selection of Java code to Kotlin by copy paste (or context menu) - Apply patch from Sergey Ignatov #KT-2353 fixed  

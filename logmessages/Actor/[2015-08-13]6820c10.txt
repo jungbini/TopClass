@@ -1,0 +1,1 @@
+  fix(server:dialog): message read in private, user join in group  

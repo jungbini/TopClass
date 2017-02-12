@@ -1,0 +1,1 @@
+ Fix for KT-4357: Compiler error with infix call to Array.get  #KT-4357 Fixed  

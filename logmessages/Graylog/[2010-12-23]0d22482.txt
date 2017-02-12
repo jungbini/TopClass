@@ -1,0 +1,1 @@
+  make use of new append_params parameter for next/previous page link. just a really quick fix  

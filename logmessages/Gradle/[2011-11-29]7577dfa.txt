@@ -1,0 +1,1 @@
+  Fix for merging source directories in eclipseClasspath - Ignore "dir" attribute in SourceFolder: was previously only working because of a bug in Groovy < 1.8  

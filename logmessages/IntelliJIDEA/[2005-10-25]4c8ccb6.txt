@@ -1,0 +1,1 @@
+  fix NPE on module library edit  

@@ -1,0 +1,1 @@
+  fixed GRADLE-1473: Maven and Application plugins conflict on the "install" task  - renamed install task of application plugin to 'installApp'  

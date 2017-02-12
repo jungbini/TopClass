@@ -1,0 +1,1 @@
+  Update AppText.properties  Minor grammar errors fixed.  

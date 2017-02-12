@@ -1,0 +1,1 @@
+  fiddle with the fiddleria (escape lucene syntax)  fixes #290  

@@ -1,0 +1,1 @@
+  better fix for IDEA-105485 Cyclic dependency after updating to 2.7.1 RC2  

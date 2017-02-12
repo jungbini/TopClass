@@ -1,0 +1,1 @@
+  For open-source Error Prone, disable checks that are more stylistic than functional.  This will improve signal-to-noise ratio for Android and our external users.  Specifically, disables ClassName, DepAnn, LongLiteralLowerCaseSuffix, MultipleTopLevelClasses, and StaticAccessedFromInstance.  -- MOS_MIGRATED_REVID=123459006  

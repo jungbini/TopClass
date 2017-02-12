@@ -1,0 +1,1 @@
+  `:language-native` no longer leaks due to `BuildOperationLogger` fix  

@@ -1,0 +1,1 @@
+  Fix gradient view shape and fix updater tests  

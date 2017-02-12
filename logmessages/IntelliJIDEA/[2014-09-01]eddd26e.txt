@@ -1,0 +1,1 @@
+  improve "Unsafe lazy initialization of 'static' field" inspection and quickfix (IDEA-24275)  

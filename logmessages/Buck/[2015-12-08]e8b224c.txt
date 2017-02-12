@@ -1,0 +1,1 @@
+  [halide] Fix bug in HalideLibrary.getNativeLinkableInput  Summary: Fix a bug where we are returning an incorrect path to the archive file.  Test Plan: - Used 'buck build' to build an application which depends on a halide_library target; checked the linker argfile to make sure the correct path was used.  Reviewed By: vladb  fb-gh-sync-id: 63869d7  

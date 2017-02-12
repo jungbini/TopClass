@@ -1,0 +1,1 @@
+  HADOOP-12013 Generate fixed data to perform erasure coder test. Contributed by Kai Zheng  

@@ -1,0 +1,1 @@
+  Another fix for JS library scope UI [r=K.Safonov]  

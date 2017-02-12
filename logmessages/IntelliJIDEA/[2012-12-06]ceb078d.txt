@@ -1,0 +1,1 @@
+  fixed PY-8189 Doctest: Import this name quick-fix breaks doctest when invoked inside one  

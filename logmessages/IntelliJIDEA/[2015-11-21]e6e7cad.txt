@@ -1,0 +1,1 @@
+  type migration: type parameters migration class resolving fixed  

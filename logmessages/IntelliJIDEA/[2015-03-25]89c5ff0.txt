@@ -1,0 +1,1 @@
+  v8 profiling, expand fixes: delay width recalculation (do it for group of events, not for every event), send data changed event also for group of events for tree table adapter use notification method for batch expands (cancel widths recalculation while doing batch expand)  

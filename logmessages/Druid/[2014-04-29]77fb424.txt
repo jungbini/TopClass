@@ -1,0 +1,1 @@
+  fixed borked description of whirr.hardware-id  

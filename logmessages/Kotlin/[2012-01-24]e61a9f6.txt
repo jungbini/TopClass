@@ -1,0 +1,1 @@
+  crazy bug with constructing object of the same class as calling class  

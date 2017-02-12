@@ -1,0 +1,1 @@
+ Merge pull request #1381 from himanshug/fix_seg_metadata_regression  Fixing the regression caused by #1172  commit 6b23e02d2bf3f67ed9619453e65a2299a20a1c76  retry transient exceptions for PostgreSQL, fixes #1382  

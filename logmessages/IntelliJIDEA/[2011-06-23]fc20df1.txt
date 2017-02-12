@@ -1,0 +1,1 @@
+  IDEA-71304 Editor: Correct brace highlighting for the active debugger line  Don't bound line highlighter to the first non-space offset. Bind it to the line start offset instead.  

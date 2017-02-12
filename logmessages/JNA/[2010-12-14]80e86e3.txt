@@ -1,0 +1,1 @@
+  Bug: fix issues with starting/stopping services, caused by the service resetting progress checkpoint to 0. Add getters for service handle and service manager handle in W32Service and W32ServiceManager respectively.  CR: dBlock  git-svn-id: https://svn.java.net/svn/jna~svn/trunk@1176 2f8a963e-d2e4-e7d0-97bf-ccb7fcea9d80  

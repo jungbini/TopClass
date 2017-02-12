@@ -1,0 +1,1 @@
+  Distributed: fixed problem on replication reported by Rob when a node is shut downing  

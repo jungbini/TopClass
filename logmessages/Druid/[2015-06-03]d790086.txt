@@ -1,0 +1,1 @@
+  fix public IP not working in EC2 autoscaling  

@@ -1,0 +1,1 @@
+  awkward hack to avoid double JS-confirm  fixes #WEBINTERFACE-324  

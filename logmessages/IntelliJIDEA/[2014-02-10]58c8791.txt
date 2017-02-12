@@ -1,0 +1,1 @@
+  Gradle: war artifact/facet creation fix.  related issues: http://youtrack.jetbrains.com/issue/IDEA-119187 http://youtrack.jetbrains.com/issue/IDEA-119818 http://youtrack.jetbrains.com/issue/IDEA-120407  

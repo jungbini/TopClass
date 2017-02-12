@@ -1,0 +1,1 @@
+  Add react prefix to eslint options  

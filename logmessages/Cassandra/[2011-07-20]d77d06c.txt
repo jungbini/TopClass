@@ -1,0 +1,1 @@
+  fix help to not imply that you can change comparators  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8@1148595 13f79535-47bb-0310-9956-ffa450edef68  

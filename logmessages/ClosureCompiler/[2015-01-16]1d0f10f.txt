@@ -1,0 +1,1 @@
+ Merge pull request #783 from alexeagle/bugfix_782  Include a space before single quote and bang when pretty-printing  commit 1d0f10f44ea6bc4668242bdbea761b872b8acffc  [NEW TYPE INFERENCE] Bug fixes for instantiation of polymorphic function types.  The 

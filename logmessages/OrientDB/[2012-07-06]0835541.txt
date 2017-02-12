@@ -1,0 +1,1 @@
+  Issue 897 was partially fixed. FREEZE/RELEASE DATABASE commands were implemented.  

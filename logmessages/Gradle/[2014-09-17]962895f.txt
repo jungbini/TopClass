@@ -1,0 +1,1 @@
+  [javafx-groovy-classpath-fix] Adds Extension Classloader to the Groovy compile classloader  On the Oracle JVM 8 the Extension Classloader is needed on the Groovy compile classpath in order to use the JavaFX classes. This allows Groovy projects compiled with Gradle to have the same behavior as Java projects where these classes are visible without being explicitly added.  

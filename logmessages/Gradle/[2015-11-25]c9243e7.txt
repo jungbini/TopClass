@@ -1,0 +1,1 @@
+  Use a consistent task naming scheme for the lifecycle and worker tasks of native binaries.  Also fixed up the descriptions of these tasks.  

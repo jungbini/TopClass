@@ -1,0 +1,1 @@
+ bug fix. - font rendering in window chrome.  

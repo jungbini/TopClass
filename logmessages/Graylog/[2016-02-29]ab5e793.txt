@@ -1,0 +1,1 @@
+  Fix stream search URL for "Replay search" functionality for widgets.  This fixes a bug, where a wrong URL is generated when the "Replay search" button is used on a dashboard widget that is scoped to a stream. This changeset also adds a redirect for legacy URLs.  Fixes #1835  

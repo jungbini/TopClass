@@ -1,0 +1,1 @@
+  Changed layout of library panels. Fixed bugs with filtering.  

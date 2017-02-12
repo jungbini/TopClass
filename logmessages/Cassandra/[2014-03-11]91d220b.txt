@@ -1,0 +1,1 @@
+  nodetool no longer shows node joining (Also fix nodetool status) patch by Vijay; reviewed by driftx for CASSANDRA-6811  

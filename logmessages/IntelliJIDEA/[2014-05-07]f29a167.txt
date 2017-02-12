@@ -1,0 +1,1 @@
+  fixed PY-12679 Remove redundant parenthesis: false negative for duplicated parenthesis in complicated and or statements  

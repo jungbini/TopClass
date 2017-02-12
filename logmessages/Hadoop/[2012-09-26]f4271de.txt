@@ -1,0 +1,1 @@
+  svn merge -c 1390616 to fix HADOOP-8843. Old trash directories are never deleted on upgrade from 1.x.  Contributed by Jason Lowe   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1390621 13f79535-47bb-0310-9956-ffa450edef68  

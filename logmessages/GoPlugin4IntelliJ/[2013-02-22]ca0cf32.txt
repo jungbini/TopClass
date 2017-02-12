@@ -1,0 +1,1 @@
+  Resolved parenthesized pointer convertion.  fixed issue [200](https://github.com/mtoader/google-go-lang-idea-plugin/issues/200)  

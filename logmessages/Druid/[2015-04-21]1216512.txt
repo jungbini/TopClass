@@ -1,0 +1,1 @@
+ Updates groupBy doc:  * changes sample dimension names to be more meaningful * fixes timestamps in example output * adds formatting to names appearing in paragraphs for easier reading  

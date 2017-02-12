@@ -1,0 +1,1 @@
+  Update test that demonstrates task executed multiple times for composite build  This is a bug that should be addressed: project dependencies are not handled in a way that allows us to prevent the duplicate execution  

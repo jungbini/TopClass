@@ -1,0 +1,1 @@
+  fix unshelving rename of file modified after rename (IDEADEV-16216)  

@@ -1,0 +1,1 @@
+  Cleanup: Mark single-parameter constructors as explicit.  This should fix the following cpplint.py warning: Single-parameter constructors should be marked explicit.  [runtime/explicit] [5]  -- Change-Id: I2bf74ced08f86bd5a4e6d57720188327bbd9efe6 Reviewed-on: https://bazel-review.googlesource.com/#/c/1452/ MOS_MIGRATED_REVID=95109413  

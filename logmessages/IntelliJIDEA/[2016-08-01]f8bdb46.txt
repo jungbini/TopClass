@@ -1,0 +1,1 @@
+  Minors: show PyCharm debug info only for the True value of environment variable  

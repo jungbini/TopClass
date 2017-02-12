@@ -1,0 +1,1 @@
+  store fair unqualified names in sql indices & fix resolve  

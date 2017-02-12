@@ -1,0 +1,1 @@
+  github: fix 'open in browser' url  /tree/ - for directories /blob/ - fol files GitHub automatically converts one to another  Except one case: root folder. /blob/master -> 404, not into /tree/master  

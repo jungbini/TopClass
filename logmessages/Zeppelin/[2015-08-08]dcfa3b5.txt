@@ -1,0 +1,1 @@
+snappy and lz4 jars for deployment  

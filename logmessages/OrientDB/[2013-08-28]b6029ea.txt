@@ -1,0 +1,1 @@
+ Console: fixed issue #1645 by introducing the "verbose" setting. By default is 2. Set to 1 to avoid output but only errors and 0 for no output at all  

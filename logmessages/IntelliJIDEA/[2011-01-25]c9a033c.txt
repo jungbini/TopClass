@@ -1,0 +1,1 @@
+  fixed django test. added notification about import errors (import settings/manage files)  

@@ -1,0 +1,1 @@
+  Added stories for fixes to GRADLE-2752 and GRADLE-2516  

@@ -1,0 +1,1 @@
+ remove the delay loop, may fix #3315, #3316, #3303, #3363  

@@ -1,0 +1,1 @@
+  fix description label foreground for darcula  

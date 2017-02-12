@@ -1,0 +1,1 @@
+  do not allow submitting the filter form  fixes #1287  

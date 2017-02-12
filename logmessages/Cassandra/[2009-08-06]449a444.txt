@@ -1,0 +1,1 @@
+  fix range query buglet; add debug logging patch by jbellis; tested by Mark Robson for CASSANDRA-348  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@801676 13f79535-47bb-0310-9956-ffa450edef68  

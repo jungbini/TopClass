@@ -1,0 +1,1 @@
+  fixed PY-12779 Configure Template directories quick-fix: open project structure settings page right away  

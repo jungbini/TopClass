@@ -1,0 +1,1 @@
+  Regression introduced by the fix of PY-19192 fixed  The root remote path of a path mapping should be replaceable itself. Regression caught by PyRemotePathMapperTest.testReplicatedFolderInsideSysPath().  

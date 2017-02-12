@@ -1,0 +1,1 @@
+  Adding docs in README.md, Fixed bugs in instantiating Spout (found in Sys Testing), Added sample topology under hdfs-starter. Renamed logger from LOG to log  

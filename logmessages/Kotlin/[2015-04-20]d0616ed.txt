@@ -1,0 +1,1 @@
+  fix KT-7512  JS: project with external library lead to deadlock and IDEA freeze due to wrong storage manager configured  #KT-7512 Fixed  

@@ -1,0 +1,1 @@
+  API for Bas Leijdekkers: allow replacing standard "unresolved reference" quickfixes  

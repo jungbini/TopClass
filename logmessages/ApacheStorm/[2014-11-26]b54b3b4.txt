@@ -1,0 +1,1 @@
+  Switched to more compact table layout, fixed issue with ff layout, and fixed tooltips.  

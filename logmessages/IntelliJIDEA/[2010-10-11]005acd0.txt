@@ -1,0 +1,1 @@
+  IDEA-4384 Refactorings should obey "align when multiline"  Test fixes  

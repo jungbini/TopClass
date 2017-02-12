@@ -1,0 +1,1 @@
+  fix File.toURL deprecated api to get correct url for resources from classloader  

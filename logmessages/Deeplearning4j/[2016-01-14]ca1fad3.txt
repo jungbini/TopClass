@@ -1,0 +1,1 @@
+  Attempted simplifying spark train and rolled back when found to be not impactful and data lost from rdd. Fixed a few bugs in MLN in how many params are counted and reseting iterator in forward when pretrain is present. Expanded spark tests.  

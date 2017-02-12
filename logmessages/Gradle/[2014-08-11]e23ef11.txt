@@ -1,0 +1,1 @@
+  Added some details about the component report to the native binaries chapter.  - Extracted a fixture to fix up the output of the component report based on which tools happens to be available on the current machine - Made this available to the user guide samples runner. - Don't hard code the cunit output in the user guide (and fix it for changes to source locations).  

@@ -1,0 +1,1 @@
+  no longer requiring rule regex to fully match  fixes #SERVER-284  

@@ -1,0 +1,1 @@
+  fix(core): RequestLoadGroupedDialogs with optimizations - fixes dying ApiBroker  

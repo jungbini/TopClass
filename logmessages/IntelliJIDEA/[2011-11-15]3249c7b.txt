@@ -1,0 +1,1 @@
+  fixed PY-5037 "Assignment can be replaced with augmented assignment" quick fix doesn't work  

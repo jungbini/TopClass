@@ -1,0 +1,1 @@
+  fixing ant completion. just a mystery: special hacking filters for xml insertion handlers are not needed now  

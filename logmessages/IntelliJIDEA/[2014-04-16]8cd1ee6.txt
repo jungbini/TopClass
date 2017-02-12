@@ -1,0 +1,1 @@
+  remove assignment: fix for assignment nested in expression, not statement (IDEA-123903)  

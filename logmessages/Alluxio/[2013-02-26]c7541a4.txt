@@ -1,0 +1,1 @@
+  clean code. fix bug in inputstream  

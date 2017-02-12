@@ -1,0 +1,1 @@
+tespace from expressions configured via @DisabledIf. Consequently, results such as "  true  " would evaluate to "false".  This commit fixes this problem by trimming all expressions configured via @DisabledIf.  Issue: SPR-14614  

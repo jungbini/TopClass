@@ -1,0 +1,1 @@
+  fix speed search in structure view popup: caret now always at the end + do not reset invalid element highlighting on navigation keys  

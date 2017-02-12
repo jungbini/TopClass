@@ -1,0 +1,1 @@
+  Backport fix from CASSANDRA-10806 (CASSANDRA-10935)  

@@ -1,0 +1,1 @@
+  fixed EDU-429 Import inspection doesn't work in PE-142.4424  

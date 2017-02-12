@@ -1,0 +1,1 @@
+  Buck plugin add show debug option in Buck settings  Summary: Our debug window can be kind of confusing, if people don't know what it is, so remove it.  Test Plan: Tested in intellij by checking and unchecking the box.  Reviewed By: alsutton  fb-gh-sync-id: f2b6e2f fbshipit-source-id: f2b6e2f  

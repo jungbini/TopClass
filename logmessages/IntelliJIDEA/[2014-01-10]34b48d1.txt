@@ -1,0 +1,1 @@
+  IDEA-96199 Debugger editor not disposed resulting in PSI leaks  

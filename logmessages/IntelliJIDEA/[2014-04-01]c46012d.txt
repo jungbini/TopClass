@@ -1,0 +1,1 @@
+  fixed PY-12546 Completion: except keyword should not be available in try block after else or finally  

@@ -1,0 +1,1 @@
+  [Recent Tests] on shift enter execute handleSelect on proper popup. Allows to debug configurations from next step popup.  

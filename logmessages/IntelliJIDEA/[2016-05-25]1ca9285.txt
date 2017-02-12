@@ -1,0 +1,1 @@
+  pull up: fix search by signature in superclass (IDEA-140710)  

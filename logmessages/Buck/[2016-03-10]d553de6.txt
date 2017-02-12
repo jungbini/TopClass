@@ -1,0 +1,1 @@
+  Fix windows build  Summary:Travis isn't working until https://github.com/travis-ci/travis-ci/issues/5707 is fixed, so at least having appveyor would be nice :) Closes https://github.com/facebook/buck/pull/686  Reviewed By: Coneko  fb-gh-sync-id: e867f94 shipit-source-id: e867f94  

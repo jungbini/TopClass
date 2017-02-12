@@ -1,0 +1,1 @@
+  Bug fix: IDEA Inserts incorrect string in case 'foo([aaa<caret>])'  

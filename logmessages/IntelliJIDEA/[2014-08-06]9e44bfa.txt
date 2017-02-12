@@ -1,0 +1,1 @@
+  PY-6020 Clean up and fix several style complains in ImportCandidateHolder  

@@ -1,0 +1,1 @@
+  layout fixes for "create class" dialog (IDEADEV-40489)  

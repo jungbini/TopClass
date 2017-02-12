@@ -1,0 +1,1 @@
+  fix some reader user stuff  fixes #WEBINTERFACE-194  

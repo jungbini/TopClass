@@ -1,0 +1,1 @@
+  fix problems with moving popup left/right  

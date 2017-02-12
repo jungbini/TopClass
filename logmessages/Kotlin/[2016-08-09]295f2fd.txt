@@ -1,0 +1,1 @@
+  Fix GeneratedClassloader creation in scripts compilation, fixes test  

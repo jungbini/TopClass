@@ -1,0 +1,1 @@
+  experimental vertical toolbar in the debug content  

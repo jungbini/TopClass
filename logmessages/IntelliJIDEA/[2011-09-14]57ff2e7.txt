@@ -1,0 +1,1 @@
+  fixed PY-4348 update documentation for python tests configuration  

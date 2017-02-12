@@ -1,0 +1,1 @@
+  fixed PY-5201 Move statement: changes code logic on moving one-line compound statement outside nested one  

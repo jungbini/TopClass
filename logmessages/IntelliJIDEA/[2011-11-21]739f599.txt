@@ -1,0 +1,1 @@
+  Test SVN binary permissions fixed  

@@ -1,0 +1,1 @@
+  IDEA-128025 Expand selection in multiple carets through injections still failing  fixed 'split line' behaviour in PHP strings  

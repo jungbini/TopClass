@@ -1,0 +1,1 @@
+  Explicitly also put Answer into GoldAnswer. This seems to have gotten lost somewhere. Hopefully this is an okay way to fix it.  

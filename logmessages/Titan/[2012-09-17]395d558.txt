@@ -1,0 +1,1 @@
+  a bug fix to TextFileLineIterator and new images for documentation.  

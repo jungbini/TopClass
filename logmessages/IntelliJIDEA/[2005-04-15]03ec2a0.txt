@@ -1,0 +1,1 @@
+  - removed jsptag*impls - supported specific content of attribute'description to contain list of possible values - fixed jsp resolve regressing from prev changes  

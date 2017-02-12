@@ -1,0 +1,1 @@
+  fix incorrect boolean check for hierarchy scope  

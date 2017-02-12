@@ -1,0 +1,1 @@
+ [#8] Minor fixes. - Rename SpringBeanInterceptor to AbstractSpringBeanCreationInterceptor - rewrite comments in English - add widely used Spring bean annotations to pinpoint.config  

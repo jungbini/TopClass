@@ -1,0 +1,1 @@
+  Fixed bug reported by Steven Tomer on remote deletion of a record in TX that is already deleted  

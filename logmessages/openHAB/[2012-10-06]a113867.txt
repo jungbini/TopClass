@@ -1,0 +1,1 @@
+  fixed percent conversion of KNX DPT 5.004  

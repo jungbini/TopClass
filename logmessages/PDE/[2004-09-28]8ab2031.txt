@@ -1,0 +1,1 @@
+  fixes based on library work.. also properly load qtjava  

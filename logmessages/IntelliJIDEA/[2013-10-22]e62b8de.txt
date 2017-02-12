@@ -1,0 +1,1 @@
+  IDEA-114703 Groovy: "Unnecessary qualified reference" quick fix could be renamed  

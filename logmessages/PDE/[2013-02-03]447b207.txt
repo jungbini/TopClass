@@ -1,0 +1,1 @@
+  fix "Bounds out of range" when outdenting a block of text  

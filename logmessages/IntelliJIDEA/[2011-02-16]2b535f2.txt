@@ -1,0 +1,1 @@
+  fixed [PY-2902] Django Test: NPE at com.intellij.ide.util.treeView.AbstractTreeBuilder.select  

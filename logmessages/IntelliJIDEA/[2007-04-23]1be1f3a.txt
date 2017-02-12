@@ -1,0 +1,1 @@
+  fix ctrl-Q optimizations (window bounds must be set in any case)  

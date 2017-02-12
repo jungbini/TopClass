@@ -1,0 +1,1 @@
+  fixing incorrect event sending when the tab was not really unselected  

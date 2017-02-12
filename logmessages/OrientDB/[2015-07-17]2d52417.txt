@@ -1,0 +1,1 @@
+  fixed issue #4583 - delete edge from collection of rids  

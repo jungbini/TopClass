@@ -1,0 +1,1 @@
+  Deprecate and @GenIgnore CompositeFuture#result(int) in favor of CompositeFuture#resultAt(int) - fixes #1605  

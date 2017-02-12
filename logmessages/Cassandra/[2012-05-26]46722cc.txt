@@ -1,0 +1,1 @@
+  fixes small CLI bug introduced by CASSANDRA-3865  

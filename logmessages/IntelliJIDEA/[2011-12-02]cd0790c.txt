@@ -1,0 +1,1 @@
+  IDEA-77976 Dragging tool windows problem + minor UI fix for floating mode (do not paint top border :)  

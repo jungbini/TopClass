@@ -1,0 +1,1 @@
+  fix OutputStream leak in Patcher's Bootstrap #485  

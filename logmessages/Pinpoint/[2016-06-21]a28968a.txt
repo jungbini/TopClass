@@ -1,0 +1,1 @@
+ bug fix. - not run realtime feature of scatter chart  

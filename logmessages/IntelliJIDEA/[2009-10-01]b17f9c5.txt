@@ -1,0 +1,1 @@
+  Convert method to closure intention fix  

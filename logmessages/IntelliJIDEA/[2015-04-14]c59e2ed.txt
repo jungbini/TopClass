@@ -1,0 +1,1 @@
+  [git] extract reading interactive rebase data file to a separate class  Preparation to fix IDEA-138787  

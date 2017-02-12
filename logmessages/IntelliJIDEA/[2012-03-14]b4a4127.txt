@@ -1,0 +1,1 @@
+  fixed PY-5525 Move statement: loses code on moving one-line comment up to function with nested indent  

@@ -1,0 +1,1 @@
+  coverage: fix copying agent jars for non-idea coverage (IDEA-147673)  

@@ -1,0 +1,1 @@
+  Correctly handle PING and CLOSE frames in the DefaultHttpClient.  See https://bugs.eclipse.org/bugs/show_bug.cgi?id=414764  

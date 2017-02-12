@@ -1,0 +1,1 @@
+  fix popups: avoid double l&f init + avoid our own popupfactory wrapping  

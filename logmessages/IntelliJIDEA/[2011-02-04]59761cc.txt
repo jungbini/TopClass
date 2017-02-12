@@ -1,0 +1,1 @@
+  fixed sorting in licenses table (damn language without type-checking!)  

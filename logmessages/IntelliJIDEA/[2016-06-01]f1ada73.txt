@@ -1,0 +1,1 @@
+  ``verboseOnly`` added to call some code only if appropriate env var is set.  Some checks may be heavy, but required to debug hard-to-find bugs. You may run code with out them, and enable em with   ``_PYCHARM_VERBOSE_MODE``  

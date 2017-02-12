@@ -1,0 +1,1 @@
+  Another fix to improve reconnect logic. Listener thread wasn't being shut down in some cases.  

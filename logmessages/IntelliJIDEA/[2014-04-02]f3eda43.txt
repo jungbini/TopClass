@@ -1,0 +1,1 @@
+  fixed PY-12506 Updating skeletons is run twice  setupSdkPaths is called from PythonSdkDetailsStep (see callBack) so there is no need to call it second time  

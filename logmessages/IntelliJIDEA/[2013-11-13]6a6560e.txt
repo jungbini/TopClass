@@ -1,0 +1,1 @@
+  don't check script inside true html files #WEB-9833 fixed  

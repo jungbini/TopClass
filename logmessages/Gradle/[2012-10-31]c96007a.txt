@@ -1,0 +1,1 @@
+  GRADLE-2485 Debug option can be set via allJvmArgs.  

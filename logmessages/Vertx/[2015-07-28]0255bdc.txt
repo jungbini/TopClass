@@ -1,0 +1,1 @@
+  Fix bug in converter when a json object/array uses a java collection instead of a json object/array  

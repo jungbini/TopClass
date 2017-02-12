@@ -1,0 +1,1 @@
+  message retention settings now part of config file not coming from WI anymore. fixes #SERVER-107  

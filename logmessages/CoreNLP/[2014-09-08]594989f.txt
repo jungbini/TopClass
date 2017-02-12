@@ -1,0 +1,1 @@
+  Improve thrown exceptions, document used options in serialized files -- still apparent bug if you try to save list of feature factories so serializing them individually.  

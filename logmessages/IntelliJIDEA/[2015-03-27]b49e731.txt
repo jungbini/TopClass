@@ -1,0 +1,1 @@
+  PY-15350 Add test case. Problem itself was fixed earlier by usage of PyUtil.deleteElementSafely in refactoring  

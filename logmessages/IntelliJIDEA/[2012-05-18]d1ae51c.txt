@@ -1,0 +1,1 @@
+  Update trove, fixes http://youtrack.jetbrains.com/issue/IDEA-86228 and like  

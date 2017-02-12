@@ -1,0 +1,1 @@
+  [git] simplify and fix NPE: use utility method returning boolean instead of overriding onCancel  

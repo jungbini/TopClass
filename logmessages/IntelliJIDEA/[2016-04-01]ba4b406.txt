@@ -1,0 +1,1 @@
+  remove unnecessary invokeLater from some java intentions & quick fixes  

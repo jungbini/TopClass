@@ -1,0 +1,1 @@
+  IDEADEV-3784 + npe fixes in debugger  

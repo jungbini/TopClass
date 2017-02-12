@@ -1,0 +1,1 @@
+  IDEA-48674, IDEA-60338 First basic completion shouldn't show generic DefaultGroovyMethods(Object, ...), show them on second one Don't suggest getters/setters for Groovy properties until there's a get/set/is prefix  

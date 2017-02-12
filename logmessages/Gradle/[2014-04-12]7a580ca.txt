@@ -1,0 +1,1 @@
+  Make sure test fixtures clean up GradleLauncher properly.  

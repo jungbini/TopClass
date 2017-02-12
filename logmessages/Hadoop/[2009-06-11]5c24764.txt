@@ -1,0 +1,1 @@
+  HADOOP-5869. Fix bug in assignment of setup / cleanup task that was causing TestQueueCapacities to fail. Contributed by Sreekanth Ramakrishnan.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk@783672 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  one more missing invokeLater() for plugin update checks (EA-76738 - Throwable: DebugUtil.currentStackTrace)  

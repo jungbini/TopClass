@@ -1,0 +1,1 @@
+  NPE fixed, also better navigation for the fake type  

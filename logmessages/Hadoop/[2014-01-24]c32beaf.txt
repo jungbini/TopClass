@@ -1,0 +1,1 @@
+  svn merge -c 1561223 merging from trunk to branch-2 to fix:HDFS-5728. Block recovery will fail if the metafile does not have crc for all chunks of the block. Contributed by Vinay.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1561224 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  HOTFIX: Avoid mutable default arguments in system test services  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Apurva Mehta <apurva.1618@gmail.com>, Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1947 from hachikuji/hotfix-producer-perf-service  

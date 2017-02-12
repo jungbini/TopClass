@@ -1,0 +1,1 @@
+  extended "Type may be weakened" usefulness, fix for CCE  

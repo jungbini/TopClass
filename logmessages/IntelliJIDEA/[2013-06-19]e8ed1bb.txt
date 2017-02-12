@@ -1,0 +1,1 @@
+  WEB-6663 Don't require URL to open in JS debug run configuration, or validate the config to enforce non-empty path  

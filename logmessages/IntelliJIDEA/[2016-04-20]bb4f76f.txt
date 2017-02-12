@@ -1,0 +1,1 @@
+  inspection tool window: temp fix for funny looking inspection description  

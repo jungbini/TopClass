@@ -1,0 +1,1 @@
+  reduce stub-based PsiAnchor size by removing debug info that has well served its purpose  

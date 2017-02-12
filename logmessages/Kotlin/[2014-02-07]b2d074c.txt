@@ -1,0 +1,1 @@
+  Quickfix to add 'override' to equals, hashCode, toString in project  To help users migrate to the newest Kotlin version in two clicks  

@@ -1,0 +1,1 @@
+  clean up path handling code  Summary: Correct `getEffectivePath` in `AbstractIncludeLogEntry`: * Clarify the path-altering code there, make it clearer how the prefix of currentFile is determined (to yield the effective directory used as the include path in the inclusion). * Lays a little of the groundwork used in a future 

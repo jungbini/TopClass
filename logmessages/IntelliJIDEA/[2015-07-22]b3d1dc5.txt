@@ -1,0 +1,1 @@
+  test discovery: prefix testng/junit tests to detect test frameworks which generated the tests  

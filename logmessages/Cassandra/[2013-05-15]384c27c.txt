@@ -1,0 +1,1 @@
+  cqlsh: fix DESCRIBE after case insensitive USE  patch by Aleksey Yeschenko; reviewed by Brandon Williams for CASSANDRA-5567  

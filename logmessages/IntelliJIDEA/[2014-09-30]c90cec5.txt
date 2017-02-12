@@ -1,0 +1,1 @@
+  fix "stale start offset" completion exceptions caused by missing injected<->host offset recalculation when inserting items  

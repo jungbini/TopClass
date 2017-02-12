@@ -1,0 +1,1 @@
+  trove repacked: bug in THashMap.Entry.setValue()  

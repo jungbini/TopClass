@@ -1,0 +1,1 @@
+  generate html5 tag table descriptors #WEB-10489 fixed  

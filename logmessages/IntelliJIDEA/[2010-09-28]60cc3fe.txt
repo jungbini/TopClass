@@ -1,0 +1,1 @@
+  Conflicts:  platform/platform-impl/src/com/intellij/openapi/editor/impl/softwrap/mapping/CachingSoftWrapDataMapper.java  

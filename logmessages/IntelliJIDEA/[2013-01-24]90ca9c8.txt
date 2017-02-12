@@ -1,0 +1,1 @@
+ fixed PY-8439 Unresolved reference: false positive for separate doctests in rest files  

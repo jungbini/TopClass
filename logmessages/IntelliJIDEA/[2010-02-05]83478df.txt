@@ -1,0 +1,1 @@
+  IDEA-51905 (CVS: Update Project and Repository/Incoming views don't work if the VCS rooot is set to <Project Root>, but the project root itself doesn't contain CVS admin files), reverts of checks made for other VCSes; fix of Clear Case thinking new modules are under CC  

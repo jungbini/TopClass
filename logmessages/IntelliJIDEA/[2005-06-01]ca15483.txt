@@ -1,0 +1,1 @@
+  fixed unsynchronized access to a flag controlling whether the node must be rebuilt  

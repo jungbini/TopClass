@@ -1,0 +1,1 @@
+  cleanup and fixed some minor problems with the "'this' reference escaped in object construction" inspection  

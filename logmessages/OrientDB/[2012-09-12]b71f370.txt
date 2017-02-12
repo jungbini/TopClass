@@ -1,0 +1,1 @@
+  Patch provided by Lev Sivashov. Issue 811 fixed (Automatically rebuild indexes after the server fail).  

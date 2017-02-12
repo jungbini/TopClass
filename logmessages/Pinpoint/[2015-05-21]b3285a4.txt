@@ -1,0 +1,1 @@
+ #452 fixed start-hbase script to work when hbase installation exists  

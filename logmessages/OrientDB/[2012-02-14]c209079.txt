@@ -1,0 +1,1 @@
+  Fixed bug on Fetch Plan map building. Should fix issue 709  

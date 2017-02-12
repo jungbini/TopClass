@@ -1,0 +1,1 @@
+  fix test (following recent changes to HighlighterLayer and DebuggerColors)  

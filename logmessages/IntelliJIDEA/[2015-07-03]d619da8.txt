@@ -1,0 +1,1 @@
+  revert 28a13b77d1b4d98bddcf68d6f7cff321c7c641e9 due to performance problems - skip read only blocks while building formatting model (IDEA-142200, should fix adjustLineIndent performance problem)  

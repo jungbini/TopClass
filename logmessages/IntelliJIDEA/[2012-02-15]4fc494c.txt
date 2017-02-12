@@ -1,0 +1,1 @@
+  IDEA-81189 (fix double clicking in Nimbus/GTK+ trees)  

@@ -1,0 +1,1 @@
+  HADOOP-5981. Fix a bug in HADOOP-2838 in parsing mapred.child.env. Contributed by Amar Kamat.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk@783665 13f79535-47bb-0310-9956-ffa450edef68  

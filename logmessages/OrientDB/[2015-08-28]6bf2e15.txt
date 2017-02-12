@@ -1,0 +1,1 @@
+  fixed issue #4790 - Updating property with type ANY only works every other time  

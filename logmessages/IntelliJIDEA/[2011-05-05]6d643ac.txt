@@ -1,0 +1,1 @@
+  fixed PY-3278 False positive for 'Super constructor call is missing'  

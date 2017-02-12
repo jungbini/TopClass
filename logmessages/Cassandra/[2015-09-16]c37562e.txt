@@ -1,0 +1,1 @@
+  Fix Mmapped File Boundaries  This patch fixes two bugs with mmap segment boundary tracking, and introduces automated correction of this bug on startup  patch by benedict; reviewed by tjake for CASSANDRA-10357  

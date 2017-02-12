@@ -1,0 +1,1 @@
+  Serial: Revert jSSC to the version that was shipped with 2.1  This removes some debug code that was temporarily added and turns yield() back into a 100ns delay, which probably won't make a 

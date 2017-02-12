@@ -1,0 +1,1 @@
+  Do not ignore stdout/stderr from the convert step.  Summary: This should help debug why the convert step fails sometimes.  @force-sandcastle  Test Plan: sandcastle  

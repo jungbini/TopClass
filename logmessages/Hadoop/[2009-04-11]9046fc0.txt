@@ -1,0 +1,1 @@
+  remove excessive/annoying compressor related debug logging now that the issue warranting it has been resolved  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@764259 13f79535-47bb-0310-9956-ffa450edef68  

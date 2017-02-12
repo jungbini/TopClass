@@ -1,0 +1,1 @@
+  crash fix for Mac OS with multiple screens  see 36d70ee8c5c7b886c1b973ceb49c0a9f6c3a0ca7 for details  

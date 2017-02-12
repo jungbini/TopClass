@@ -1,0 +1,1 @@
+  HA: fixed bug with missing close of storage before to receive the backup form the network  

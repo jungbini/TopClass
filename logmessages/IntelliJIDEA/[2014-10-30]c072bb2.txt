@@ -1,0 +1,1 @@
+  EA-62255 - fix exception happening when changes are undone on auto-import-enabled file  

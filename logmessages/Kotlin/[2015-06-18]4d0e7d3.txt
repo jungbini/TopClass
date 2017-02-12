@@ -1,0 +1,1 @@
+  fix KT-7932 plugin generates absolute path to kotlin-jslib.jar for JS module (in .iml files) #KT-7932 Fixed  

@@ -1,0 +1,1 @@
+  IDEA-100113 fix proguard launching with "plain java" dependencies, tests  

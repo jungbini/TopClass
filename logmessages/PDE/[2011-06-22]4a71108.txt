@@ -1,0 +1,1 @@
+  trying to revert to old rendering code, remove debug info from examples window  

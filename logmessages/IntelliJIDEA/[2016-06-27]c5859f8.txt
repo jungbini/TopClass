@@ -1,0 +1,1 @@
+  revert original fix for IDEA-152628  performing IO in background thread while holding read lock sometimes leads to EDT freeze (when there's a pending write action)  

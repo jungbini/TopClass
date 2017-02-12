@@ -1,0 +1,1 @@
+  WEB-9173 JS Debugger should use symbol maps from Chrome (Scripts tab)  

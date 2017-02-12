@@ -1,0 +1,1 @@
+  Type<*> is inferred now if Type<A> and Type<B> common supertype is Type<X> and X is not within parameter upper bound. #KT-7585 Fixed. #EA-68943 Fixed.  It provides also a fix for KT-7585 (empty type intersection assertion). A set of relevant tests, one fixed test  

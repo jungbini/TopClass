@@ -1,0 +1,1 @@
+  Ctrl+P on typing fixed (RUBY-3088)  

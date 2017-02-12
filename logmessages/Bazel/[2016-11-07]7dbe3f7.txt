@@ -1,0 +1,1 @@
+  Fix a bug that causes unnecessary warning "setting 'linkstatic=1' is recommended if there are no object files", when versioned shared library is in srcs fields like "a.so.2.0".  In appearsToHaveObjectFiles(), we take into account SHARED_LIBRARY, but no VERSIONED_SHARED_LIBRARY.  Fixes #310 .  -- MOS_MIGRATED_REVID=138408789  

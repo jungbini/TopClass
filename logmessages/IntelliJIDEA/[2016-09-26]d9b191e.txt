@@ -1,0 +1,1 @@
+  IDEA-161524 ui: fix column width under HiDPI  * otherwise default value from TableColumn is used (75px) * this reverts changes from 795a337  

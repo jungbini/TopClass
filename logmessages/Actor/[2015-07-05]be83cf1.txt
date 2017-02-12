@@ -1,0 +1,1 @@
+  chore(*): fixing bash in installDeps  

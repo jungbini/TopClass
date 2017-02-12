@@ -1,0 +1,1 @@
+  fix npe while conversion of psi to compiler element  

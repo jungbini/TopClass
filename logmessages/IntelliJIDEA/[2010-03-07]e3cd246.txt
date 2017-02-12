@@ -1,0 +1,1 @@
+  double shortcuts re-fixed, previous fix caused even dispatching troubles  

@@ -1,0 +1,1 @@
+  YARN-3649. Allow configurable prefix for hbase table names like prod, exp, test etc (Vrushali C via Varun Saxena)  

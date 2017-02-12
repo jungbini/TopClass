@@ -1,0 +1,1 @@
+  Fix the excepton when Skylark rule has 2 executable attributes pointing to the same artifact.  This fix is that we pick the random executable. Filed #987 for a better fix (the current behavior just crashes the build randomly and the real fix is involved).  -- MOS_MIGRATED_REVID=115835198  

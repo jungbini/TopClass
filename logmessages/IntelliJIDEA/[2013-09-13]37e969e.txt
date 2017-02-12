@@ -1,0 +1,1 @@
+  python: added ability to move multiline statements  fixed PY-6587 Move Statements: inconsistent selection on moving more than one statement up or down.  

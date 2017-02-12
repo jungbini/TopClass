@@ -1,0 +1,1 @@
+  HADOOP-11916. TestStringUtils#testLowerAndUpperStrings failed on MAC due to a JVM bug. Contributed by Ming Ma.  

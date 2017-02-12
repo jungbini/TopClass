@@ -1,0 +1,1 @@
+  Don't print out action cache if it has more than 1000 entries. This prevents IDE OOMing when a large action cache is in scope during debugging.  -- MOS_MIGRATED_REVID=89127817  

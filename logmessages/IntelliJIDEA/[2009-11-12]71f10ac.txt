@@ -1,0 +1,1 @@
+  TreeUi: NPE fix for isAutoExpand  

@@ -1,0 +1,1 @@
+  Implement multiproject IC in Gradle  #KT-13528 fixed  

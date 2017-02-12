@@ -1,0 +1,1 @@
+  :bug: For legacy reason, do not allow removal of the last Broadcaster #1885  

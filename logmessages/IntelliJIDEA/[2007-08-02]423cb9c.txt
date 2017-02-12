@@ -1,0 +1,1 @@
+  deadlock fix: 'cvs add' does not require read action (IDEADEV-19817)  

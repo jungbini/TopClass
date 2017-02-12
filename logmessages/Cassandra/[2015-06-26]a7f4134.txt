@@ -1,0 +1,1 @@
+  Strong Leak Detection  When -Dcassandra.debugrefcount=true the globally extant Ref instances will be walked looking for instances that cannot ordinarily be reached, and for circular self references. Errors will be logged for any found.  patch by benedict; reviewed by snazy for CASSANDRA-9423  

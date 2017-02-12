@@ -1,0 +1,1 @@
+  int/long/float/double field support empty string, bug fixed for issue https://github.com/alibaba/fastjson/issues/479  

@@ -1,0 +1,1 @@
+  Drop unnecesary logic about additional context for lambda in debugger  

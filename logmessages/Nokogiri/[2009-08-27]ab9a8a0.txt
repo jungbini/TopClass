@@ -1,0 +1,1 @@
+  inner_html takes the same arguments as to_html.  fixes #117  

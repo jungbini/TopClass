@@ -1,0 +1,1 @@
+  fix reparse when a text was just appended to the document end  

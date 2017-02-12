@@ -1,0 +1,1 @@
+  fixed paths to Groovy jar in community projects  

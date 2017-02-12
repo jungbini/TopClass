@@ -1,0 +1,1 @@
+  Fix a race in SslHandler.flushPendingEncryptedWrites()  - Ensure all pending encrypted writes are flushed by looping again - Potential fix for #994  

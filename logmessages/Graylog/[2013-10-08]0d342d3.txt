@@ -1,0 +1,1 @@
+  do not include hostname in node ID  fixes Graylog2/graylog2-web-interface#297  

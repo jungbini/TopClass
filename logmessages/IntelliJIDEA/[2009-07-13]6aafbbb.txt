@@ -1,0 +1,1 @@
+  Velocity: formatter turned on, SOE fixed in AbstractXmlBlock, DelegatingFormattingModelBuilder introduced  

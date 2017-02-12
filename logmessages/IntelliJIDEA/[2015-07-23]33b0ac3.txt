@@ -1,0 +1,1 @@
+  skip iterating excluded dirs #WEB-17380 fixed  

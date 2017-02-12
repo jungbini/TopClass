@@ -1,0 +1,1 @@
+  fixed EA-35467 - assert: PsiFileImpl.getStubTree  

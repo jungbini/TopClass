@@ -1,0 +1,1 @@
+ bug fix. realtime chart initialize bug. display wrong y axis value when change minimum y setting. scatter chart "loading" popup initialize bug  

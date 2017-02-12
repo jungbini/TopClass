@@ -1,0 +1,1 @@
+  fix closing jsp context chooser panel  

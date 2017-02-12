@@ -1,0 +1,1 @@
+  Fix bug in MinimizeExitPoints which causes us to remove a 'break' resulting in incorrect code.  Fixes #554 on Github. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=71589594  

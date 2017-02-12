@@ -1,0 +1,1 @@
+  GRADLE-1355 - Some fixes to idea project file generation following reorganisation of int tests.  

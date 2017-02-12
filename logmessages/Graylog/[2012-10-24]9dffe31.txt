@@ -1,0 +1,1 @@
+  gracefully handle failed universal search requests  fixes #WEBINTERFACE-342  

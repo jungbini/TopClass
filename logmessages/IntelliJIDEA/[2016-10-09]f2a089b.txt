@@ -1,0 +1,1 @@
+  [java] stubs for 'requires' and 'exports' statement (NPE fix)  

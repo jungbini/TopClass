@@ -1,0 +1,1 @@
+  Always check for duplicate object literal keys. This check can be suppressed with "@suppress {es5strictMode}" but it's generally trivial to just fix it.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=133270205  

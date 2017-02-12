@@ -1,0 +1,1 @@
+ Merge pull request #1888 from metamx/router-cancellation-forward  forward cancellation request to all brokers, fixes #1802  commit 657a5ac346bcf9779d0ee78bc8b3f009d66a0346  fix pull-deps remoteRepository option  

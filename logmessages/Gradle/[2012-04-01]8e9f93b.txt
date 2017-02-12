@@ -1,0 +1,1 @@
+  Reworked CommandLineActionFactory so that it configures logging as early as possible. This means that 1) debug and info logging is visible while parsing the command-line and building the action, and 2) --stacktrace/--no-color work if something goes wrong parsing the command-line or building the action.  

@@ -1,0 +1,1 @@
+nDefinitions() in GenericGroovyXmlContextLoader and GenericGroovyXmlWebContextLoader.  Due to the recent bug fix for GroovyBeanDefinitionReader regarding full support for XML config files, these Groovy context loaders can now simply use a GroovyBeanDefinitionReader instead of a GroovyBeanDefinitionReader plus an XmlBeanDefinitionReader.  Issue: SPR-12769  

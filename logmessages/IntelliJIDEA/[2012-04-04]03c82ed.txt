@@ -1,0 +1,1 @@
+  fixed PY-5623 "Chained comparisons can be simplified" fix gives wrong result  

@@ -1,0 +1,1 @@
+  Fixed bug with devices that do not have a status GA  

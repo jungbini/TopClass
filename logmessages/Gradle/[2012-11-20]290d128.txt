@@ -1,0 +1,1 @@
+  GRADLE-2522 some related fixes: - dynamically check if AppleScriptEngine is available as Oracle and OpenJDK start shipping support and some apple jvms don't - 

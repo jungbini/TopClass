@@ -1,0 +1,1 @@
+  do not try to merge stubs if version changed: take three, NPE fix  

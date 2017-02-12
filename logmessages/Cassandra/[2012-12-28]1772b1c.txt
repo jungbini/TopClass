@@ -1,0 +1,1 @@
+  fix default bloom_filter_fp_chance for LeveledCompactionStrategy; patch by Aleksey Yeschenko, reviewed by Jonathan Ellis for CASSANDRA-5093  

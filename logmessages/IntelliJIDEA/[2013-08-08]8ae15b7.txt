@@ -1,0 +1,1 @@
+  ReferenceSearch: fix non-physical LocalSearchScope case  

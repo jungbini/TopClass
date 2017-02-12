@@ -1,0 +1,1 @@
+  Improvements to skylark tests  Debug the rule_test generates feature. Implement the rule_test provides feature, using regexp on the provider repr.  Also, add docstrings and reformat to comply with Google python style guide.  -- MOS_MIGRATED_REVID=98687673  

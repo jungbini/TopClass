@@ -1,0 +1,1 @@
+  KT-1950 Don't complete if after val KT-1894 Do not suggest "trait" after fun #KT-1950 fixed #KT-1894 fixed  

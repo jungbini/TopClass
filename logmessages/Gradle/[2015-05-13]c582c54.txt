@@ -1,0 +1,1 @@
+  Updated version number of newest TestNG version since it contains the fix for https://github.com/cbeust/testng/issues/639.  

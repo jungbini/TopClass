@@ -1,0 +1,1 @@
+  fixed bug on traking of changes in case of tree ridbag, issue #6299  

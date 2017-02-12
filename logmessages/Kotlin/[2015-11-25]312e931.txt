@@ -1,0 +1,1 @@
+  Code cleanup - removing public modifier, obsolete constants, fixing typos, etc.  

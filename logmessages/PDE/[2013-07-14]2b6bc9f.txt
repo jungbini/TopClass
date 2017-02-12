@@ -1,0 +1,1 @@
+  improved completion sorting, fixes to ignore case completion  

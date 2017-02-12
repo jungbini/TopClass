@@ -1,0 +1,1 @@
+  IDEA-127739 Navigation Tab Stage 7: "Usages" provider, fix for 'tabless' editor requestFocus(), persistance for PreviewManager  

@@ -1,0 +1,1 @@
+  IDEA-94477 (false-positive "<code> can be replaced with {@code}", quick-fix leads to incorrect result)  

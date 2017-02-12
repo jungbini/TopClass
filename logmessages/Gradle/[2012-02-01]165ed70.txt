@@ -1,0 +1,1 @@
+  Some fixes after the peer review (using apilinks and GradleConnector->GradleLauncher).  

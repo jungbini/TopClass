@@ -1,0 +1,1 @@
+  Fix a bug in the named relation code in semgrex by making various fields final  

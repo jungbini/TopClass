@@ -1,0 +1,1 @@
+eckout to it. Seems like a bug we inherited from the Spark script.  Author: Ismael Juma <ismael@juma.me.uk>  Closes #84 from ijuma/kafka-2328-merge-script-no-detached-branch and squashes the following commits:  ae201dd [Ismael Juma] KAFKA-2328; merge-kafka-pr.py script should not leave user in a detached branch  

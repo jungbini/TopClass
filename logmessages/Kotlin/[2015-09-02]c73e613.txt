@@ -1,0 +1,1 @@
+  Debugger: Fix exception while computing inline lambda context when debug info is unavailable #EA-72494 - AIE: StackFrameProxyImpl.visibleVariables  

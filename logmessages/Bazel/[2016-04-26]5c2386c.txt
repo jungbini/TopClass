@@ -1,0 +1,1 @@
+  Turn on -g by default for dbg builds.  * Adds a flag to Objective-C copts set. * Adds a method to get Swift compilation flags, these are slightly 

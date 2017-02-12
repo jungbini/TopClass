@@ -1,0 +1,1 @@
+  Show first indices in /health. Show rest on click.  fixes #WEBINTERFACE-313  

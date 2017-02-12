@@ -1,0 +1,1 @@
+  Maven: tooltips in the tree fix Maven: unnecessary 'use embedded maven' buttons removed  

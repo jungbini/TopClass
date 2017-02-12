@@ -1,0 +1,1 @@
+  disabled any-sticky-dialogs fixes for OSs other that Linux  

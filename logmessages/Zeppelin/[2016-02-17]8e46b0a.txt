@@ -1,0 +1,1 @@
+ssage in catch statement ce25396 [Ravi Ranjan]  Add LOG.error in catch statement 0247d3f [Ravi Ranjan] Modified test case to test create new paragraph using '+' sign between paragraph 2fbf220 [Ravi Ranjan] modified Debug message and in checkthat value of pargarphs used instead of <true> or <false> 9b1d777 [Ravi Ranjan] Add new selenium test case for create new paragraph button  

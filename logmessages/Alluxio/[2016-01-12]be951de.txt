@@ -1,0 +1,1 @@
+  Fixing a concurrency bug and enabling IS in FindBugs.  

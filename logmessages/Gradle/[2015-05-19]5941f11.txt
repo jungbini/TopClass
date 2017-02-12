@@ -1,0 +1,1 @@
+  Properly fix the test not to leak file handles.  +review REVIEW-5504  

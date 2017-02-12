@@ -1,0 +1,1 @@
+  Invalidate jar cache at the end of a Gradle build  #KT-12912 fixed  

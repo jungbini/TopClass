@@ -1,0 +1,1 @@
+  fix over-eager namespace pruning when reparenting  this fix is @ccutrer's from #1333  fixes #1332  

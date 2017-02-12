@@ -1,0 +1,1 @@
+  moved tokenizer filter to a converter  fixes #177  

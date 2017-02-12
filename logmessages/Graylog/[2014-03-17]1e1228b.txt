@@ -1,0 +1,1 @@
+  annotation selector CSS fix. #535  

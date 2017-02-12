@@ -1,0 +1,1 @@
+  editor tabs: scrolling fix on history navigation  

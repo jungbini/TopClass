@@ -1,0 +1,1 @@
+  Improve AddInitKeyword quickfix  - Extract quickfix method - Delete redundant semicolon - Do not replace initializer PSI element  

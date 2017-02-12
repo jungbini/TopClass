@@ -1,0 +1,1 @@
+  double project components loading fix ( IDEADEV-23996)  

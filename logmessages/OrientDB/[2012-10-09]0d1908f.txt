@@ -1,0 +1,1 @@
+  Fixed a bug on browsing clusters in transaction as issue https://github.com/tinkerpop/blueprints/issues/312  

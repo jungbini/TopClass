@@ -1,0 +1,1 @@
+  Copy old plugins from previous installation. If some of them are incompatible PluginManager will deal with it. Invoke "check update" on the startup if "installed.txt" exists. #IDEA-144610 fixed  

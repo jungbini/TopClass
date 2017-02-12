@@ -1,0 +1,1 @@
+  Additional NEWS and test fixes for 2.0 (part of CASSANDRA-5909)  

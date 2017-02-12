@@ -1,0 +1,1 @@
+  fixed IndexOutOfBoundsException on check action  

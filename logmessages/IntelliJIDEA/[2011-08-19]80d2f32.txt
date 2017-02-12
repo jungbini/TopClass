@@ -1,0 +1,1 @@
+  fixed PY-1738 Pressing Enter inside string literal should split it in two, as in Java  

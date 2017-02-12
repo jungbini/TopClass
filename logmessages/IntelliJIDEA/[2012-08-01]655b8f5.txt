@@ -1,0 +1,1 @@
+  fixed  PY-7085 Specify type for reference using annotation: missing intention for specifying annotation for return values  

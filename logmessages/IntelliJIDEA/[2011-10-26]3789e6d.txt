@@ -1,0 +1,1 @@
+  fixed PY-4802 Mako: Formatter for mako template  

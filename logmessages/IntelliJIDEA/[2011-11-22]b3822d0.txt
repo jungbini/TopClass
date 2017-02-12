@@ -1,0 +1,1 @@
+  fix missing toolbar & current editor on dialect change/floating  

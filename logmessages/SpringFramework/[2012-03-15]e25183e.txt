@@ -1,0 +1,1 @@
+oding to JiBX so it gets used when unmarshalling instead of the default encoding.  Issue: SPR-7865  

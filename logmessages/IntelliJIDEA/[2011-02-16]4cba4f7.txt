@@ -1,0 +1,1 @@
+  Fixed resolveModulesInRoots to make work resolve for django project name. Needed to fix PY-2239.  

@@ -1,0 +1,1 @@
+  Smarty: WI-5634 fix on tag's brace matching [r=d.zhdanov]  

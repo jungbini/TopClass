@@ -1,0 +1,1 @@
+  ~ fix: temp: Invert core plugin loading option for testing  

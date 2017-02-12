@@ -1,0 +1,1 @@
+  [rev=nik] with a live template prefix, tab should expand live template even if the autopopup is still open (IDEA-62018)  

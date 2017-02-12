@@ -1,0 +1,1 @@
+  chop Impl suffix when generating field name  

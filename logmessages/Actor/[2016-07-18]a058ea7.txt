@@ -1,0 +1,1 @@
+  fix(android): Fixing crashing on toolbar update when detached from activity  

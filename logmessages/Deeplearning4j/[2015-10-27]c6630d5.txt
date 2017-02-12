@@ -1,0 +1,1 @@
+ Merge pull request #815 from deeplearning4j/cnnpreproc  Improve CNN/FF and CNN/RNN preproc tests; fix cnn preprocs for f vs. c order input  commit c6630d504f20acfb36f4623fc808a54e2246e16b  Improve CNN/FF and CNN/RNN preproc tests; fix cnn preprocs for f vs. c input order  

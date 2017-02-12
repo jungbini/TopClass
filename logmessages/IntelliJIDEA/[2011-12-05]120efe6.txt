@@ -1,0 +1,1 @@
+  fixed PY-5221 Move statement: Throwable at com.intellij.psi.impl.PsiToDocumentSynchronizer.a  

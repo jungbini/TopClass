@@ -1,0 +1,1 @@
+  fix PY-14506 Deadlock during debugging of PyQt5 application  

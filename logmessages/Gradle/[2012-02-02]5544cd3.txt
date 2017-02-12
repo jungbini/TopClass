@@ -1,0 +1,1 @@
+  GRADLE-2060 fixed handling of -Dgradle.user.home  The priority sequence for setting gradle user home is now: 1. -g / --gradle-user-home=... 2. -Dgradle.user.home=... system property passed via cmdLine 3. gradle.user.home system property 4. GRADLE_USER_HOME environment variable  

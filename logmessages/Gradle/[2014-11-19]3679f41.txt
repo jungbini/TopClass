@@ -1,0 +1,1 @@
+  enable play run integtests for non-windows boxes  -fix run integTest for CustomPlayApp  +review REVIEW-5258  

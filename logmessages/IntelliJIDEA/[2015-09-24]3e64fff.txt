@@ -1,0 +1,1 @@
+  Mac laf: fix search fields view in go to popups  

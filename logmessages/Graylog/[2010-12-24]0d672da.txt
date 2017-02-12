@@ -1,0 +1,1 @@
+  - fixed bug with new data model where favorising streams did not work  

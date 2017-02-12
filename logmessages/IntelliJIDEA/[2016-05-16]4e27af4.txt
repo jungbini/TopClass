@@ -1,0 +1,1 @@
+  use method from JDK to detect text requiring complex layout (also fixes IDEA-155936)  

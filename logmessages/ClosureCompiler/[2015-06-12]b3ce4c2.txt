@@ -1,0 +1,1 @@
+  [NTI] Fix bugs with .bind and property additions in random scopes. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=95861845  

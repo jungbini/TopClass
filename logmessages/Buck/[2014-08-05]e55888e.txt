@@ -1,0 +1,1 @@
+  Register the default flavour of an android_prebuilt_aar.  Summary: Currently, it's hard to address these on the command line since the default flavour is not registered. This fixes this issue.  Test Plan: buck test --all  

@@ -1,0 +1,1 @@
+  do not store reference to PyFile in add function quickfix  

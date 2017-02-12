@@ -1,0 +1,1 @@
+  OSProcessHandler  bug with sequence of startNotified textAvailable fixed  

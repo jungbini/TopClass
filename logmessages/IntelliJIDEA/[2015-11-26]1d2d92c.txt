@@ -1,0 +1,1 @@
+  fix "analyze stacktrace" in yet another way  

@@ -1,0 +1,1 @@
+  small ui fixes, mnemonics, enter on replace field replaces current occurrence  

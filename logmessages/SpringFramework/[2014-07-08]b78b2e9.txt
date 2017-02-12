@@ -1,0 +1,1 @@
+ the lowest value means the highest priority so if several beans are candidates for injection, the one having the lowest value will be used.  Issue: SPR-10548  

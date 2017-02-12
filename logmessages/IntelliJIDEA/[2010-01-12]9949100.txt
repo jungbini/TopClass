@@ -1,0 +1,1 @@
+  build searchable options, couple more installer fixes  

@@ -1,0 +1,1 @@
+  nullable stuff: leave buggy assignment to be warned by dfa (IDEA-100172)  

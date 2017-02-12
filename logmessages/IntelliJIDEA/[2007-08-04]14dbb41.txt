@@ -1,0 +1,1 @@
+  IDEADEV-19885: '@' prefix in Ctrl+N causes only annotation types to be shown.  

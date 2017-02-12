@@ -1,0 +1,1 @@
+  [Mercurial] IDEA-55953: fixed NumberFormatException when comparing revisions.  

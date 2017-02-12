@@ -1,0 +1,1 @@
+  Patch by Maciek to fix the issue 1091  

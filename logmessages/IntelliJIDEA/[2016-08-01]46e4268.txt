@@ -1,0 +1,1 @@
+  Fixed "Variable assigned to itself" quickfix (IDEA-148688)  

@@ -1,0 +1,1 @@
+  fixed token flag check for avoid wrong token read.  

@@ -1,0 +1,1 @@
+  fix #1287: Parsing function calls with variadic parameters fails  

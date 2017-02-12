@@ -1,0 +1,1 @@
+  Extracted a common superclass for the archive test fixtures.  

@@ -1,0 +1,1 @@
+  don't hide completion popup in debugger on mouse wheel events (IDEA-76260)  

@@ -1,0 +1,1 @@
+  cp checkstyle and findbugs conf files b/w mr and hdfs  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/branches/HADOOP-4687/hdfs@780255 13f79535-47bb-0310-9956-ffa450edef68  

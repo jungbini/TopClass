@@ -1,0 +1,1 @@
+  fixed stupid bug (copy-paste sucks): use !equals instead of !=  

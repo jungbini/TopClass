@@ -1,0 +1,1 @@
+  svn merge -c 1366295 from branch-1 for HDFS-3696. Set chunked streaming mode in WebHdfsFileSystem write operations to get around a Java library bug causing OutOfMemoryError.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.1@1373318 13f79535-47bb-0310-9956-ffa450edef68  

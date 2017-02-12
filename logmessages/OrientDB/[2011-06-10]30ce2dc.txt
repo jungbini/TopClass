@@ -1,0 +1,1 @@
+  Fixed severe bug on adaptive lock: removed volatile keyword from the "users" counter and used AtomicInteger instead  

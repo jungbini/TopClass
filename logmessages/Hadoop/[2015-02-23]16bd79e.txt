@@ -1,0 +1,1 @@
+  HADOOP-10478. Fix new findbugs warnings in hadoop-maven-plugins. Contributed by Li Lu.  

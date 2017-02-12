@@ -1,0 +1,1 @@
+  NPE fixed when undeployAll is called  Signed-off-by: Julien <jlehuraux@chyro.fr>  

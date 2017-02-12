@@ -1,0 +1,1 @@
+  xdebugger: class moved from api to impl, dependency xdebugger-api on platform-impl removed  

@@ -1,0 +1,1 @@
+  sql resolve/highlighting impros, alter support, mysql ddl, minor fixes  

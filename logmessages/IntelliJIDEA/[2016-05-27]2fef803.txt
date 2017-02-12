@@ -1,0 +1,1 @@
+ vcs: Marked "ChangesTreeList.setScrollPaneBorder()" deprecated, fixed usages  

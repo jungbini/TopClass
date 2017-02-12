@@ -1,0 +1,1 @@
+  Remove redundant debugging line of code from Sonos binding  

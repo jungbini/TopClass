@@ -1,0 +1,1 @@
+  svn merge -c 1550335 merging from truk to branch-0.23 to fix:HDFS-5637. Try to refeatchToken while local read InvalidToken occurred.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1563972 13f79535-47bb-0310-9956-ffa450edef68  

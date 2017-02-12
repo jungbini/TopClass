@@ -1,0 +1,1 @@
+  Move conversion of super() constructor calls to after checks.  Related to https://github.com/google/closure-compiler/issues/1669 This is a first step toward fixing it.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=136738368  

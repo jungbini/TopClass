@@ -1,0 +1,1 @@
+  fix+feat(iOS) : add last seen settings controller + fix slk for build  

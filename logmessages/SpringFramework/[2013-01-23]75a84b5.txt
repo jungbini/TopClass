@@ -1,0 +1,1 @@
+  Fixed potential SLF4J version mismatch through referring to fixed Hibernate EntityManager 3.4.0.GA-A bundles  

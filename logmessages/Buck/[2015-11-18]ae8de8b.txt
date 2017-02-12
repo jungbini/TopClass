@@ -1,0 +1,1 @@
+  Fix daemon always jettisoning cache if globs present in ignore directories  Summary: We hit a serious perf issue where Buck was always dropping its cache for many users.  I reproduced the issue and pinned down the regression to the 

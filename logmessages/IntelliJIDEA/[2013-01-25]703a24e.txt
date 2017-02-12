@@ -1,0 +1,1 @@
+  always trim line comment start prefix when checking whether a line is commented (needed for PY-3153)  

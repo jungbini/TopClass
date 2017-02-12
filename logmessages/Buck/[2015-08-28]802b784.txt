@@ -1,0 +1,1 @@
+  Perf: Decouple watchman glob from buckd functionality  Summary: Currently, the Watchman-based glob feature of Buck is coupled to the Buck daemonizing functionality. (We don't bother setting up the Watchman watch if we're not daemonized.)  This 

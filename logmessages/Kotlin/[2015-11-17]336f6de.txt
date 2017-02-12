@@ -1,0 +1,1 @@
+  Passing a log file name in logger-compatible format on Windows in tests, fixes problems with daemon tests on Windows  

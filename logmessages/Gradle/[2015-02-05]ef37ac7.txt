@@ -1,0 +1,1 @@
+  temporary simple fix for integTests on windows until we figured out why the hell the PID in the daemon log is null  

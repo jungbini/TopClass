@@ -1,0 +1,1 @@
+  HDFS-7227. Fix findbugs warning about NP_DEREFERENCE_OF_READLINE_VALUE in SpanReceiverHost (cmccabe)  

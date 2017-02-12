@@ -1,0 +1,1 @@
+  fix CLTest post-#6764 patch by Benedict Elliott Smith; reviewed by jbellis for CASSANDRA-6764  

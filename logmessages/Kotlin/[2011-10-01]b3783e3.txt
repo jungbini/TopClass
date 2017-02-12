@@ -1,0 +1,1 @@
+  JetLiteFixture uses CoreEnvironment instead of code copy-pasted from IDEA lite fixture  

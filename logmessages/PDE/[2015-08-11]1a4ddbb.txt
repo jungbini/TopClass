@@ -1,0 +1,1 @@
+  include name of sketch in "save changes" dialog (fixes #3418)  

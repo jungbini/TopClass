@@ -1,0 +1,1 @@
+  IDEA-87812 The button "Clear the contents of the console" on the debug console is not available  

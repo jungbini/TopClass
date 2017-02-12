@@ -1,0 +1,1 @@
+ Merge pull request #2809 from metamx/fix2694  Fix test for snapshot taker to better check for lookup perist failure  

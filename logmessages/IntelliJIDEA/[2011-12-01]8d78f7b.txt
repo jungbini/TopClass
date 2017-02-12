@@ -1,0 +1,1 @@
+  EA-31437 - assert: DocumentFoldingInfo.writeExternal  Debug info is added  

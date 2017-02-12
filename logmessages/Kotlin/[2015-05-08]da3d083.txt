@@ -1,0 +1,1 @@
+  Quick fix for enum entry super constructor syntax fix, together with a set of tests  

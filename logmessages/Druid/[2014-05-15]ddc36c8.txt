@@ -1,0 +1,1 @@
+ Merge pull request #543 from metamx/fix-combining-sequence-yielder  fix broken CombiningSequence.toYielder behavior  commit ddc36c89cc5a53f6a201c43cbf839f5c960b21a2  union query fix and a broken test  

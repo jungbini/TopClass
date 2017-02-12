@@ -1,0 +1,1 @@
+  - Fixed problem on 'create database' and 'create cluster' console commands. - Removed buggy 'create record' command in favor of new SQL 'insert' available in the next days.  

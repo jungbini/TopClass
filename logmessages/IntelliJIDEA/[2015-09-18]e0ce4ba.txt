@@ -1,0 +1,1 @@
+  fixed incorrect update of slot variables while stepping  

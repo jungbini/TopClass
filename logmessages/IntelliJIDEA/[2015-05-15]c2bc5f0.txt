@@ -1,0 +1,1 @@
+  IDEA-140341 Debugger stops in anonymous class constructor  

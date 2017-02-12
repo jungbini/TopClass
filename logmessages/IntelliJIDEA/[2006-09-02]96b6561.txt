@@ -1,0 +1,1 @@
+  fix IDEADEV-8746: RMI stubs are not created for module if it is a part of a module cycle  

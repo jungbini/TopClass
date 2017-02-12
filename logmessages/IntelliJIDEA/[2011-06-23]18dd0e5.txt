@@ -1,0 +1,1 @@
+  Platform: Common program parameters panel always returns non-null env vars (npe fix)  

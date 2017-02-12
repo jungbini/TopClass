@@ -1,0 +1,1 @@
+  VcsLinkedText renamed and extended JLabel; fix problem with wrong remote in edit mode.  

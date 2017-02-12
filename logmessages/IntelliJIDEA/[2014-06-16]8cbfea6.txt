@@ -1,0 +1,1 @@
+  fixed 'change library level' action: keep position in classpath, 'exported' and 'scope' values (IDEA-100632)  

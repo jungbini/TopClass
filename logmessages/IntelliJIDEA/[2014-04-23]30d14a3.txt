@@ -1,0 +1,1 @@
+  fix RTF background colouring and make it compatible with Mac (IDEA-67767)  

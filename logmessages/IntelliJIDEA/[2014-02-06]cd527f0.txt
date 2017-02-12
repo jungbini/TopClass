@@ -1,0 +1,1 @@
+  cleanup, prepare to fix WEB-9756 Quick evaluate expression popup: long values are cut and cannot be copy correctly  don't set timeout for hint  our platform is not smart, hint will be hidden even if mouse over hint. In any case other flags are enough to hide hint on user activity  

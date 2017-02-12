@@ -1,0 +1,1 @@
+  Merge of -r 746337:746338 from trunk to branch 0.20 to fix HADOOP-5275.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/branches/branch-0.20@753599 13f79535-47bb-0310-9956-ffa450edef68  

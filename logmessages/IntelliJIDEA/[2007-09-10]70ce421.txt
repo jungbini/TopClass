@@ -1,0 +1,1 @@
+  more tests and fixes for moving xml attributes  

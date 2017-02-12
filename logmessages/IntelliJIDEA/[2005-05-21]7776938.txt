@@ -1,0 +1,1 @@
+  fixed parent titles in Commander and project element bookmarks (were broken)  

@@ -1,0 +1,1 @@
+  Put in fix to single capitalized letters appearing at the end of a sentence. This fixes dozens of errors and only fails when you get space separated acronyms at the end of a sentence (like 'to the U. S.'), which are very rare.  

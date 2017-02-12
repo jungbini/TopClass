@@ -1,0 +1,1 @@
+  fixed merge f-up and the counter issue in the compute() method I created  

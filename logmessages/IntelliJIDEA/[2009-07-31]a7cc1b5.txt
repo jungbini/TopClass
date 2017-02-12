@@ -1,0 +1,1 @@
+  touch libraries configs on save fix (directory-based storage)  

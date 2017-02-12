@@ -1,0 +1,1 @@
+  Allow to gracefully shutdown node from web interface. fixes #717  

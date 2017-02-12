@@ -1,0 +1,1 @@
+  IDEA-56553 Thread dump in debugger should show locks held by each thread, patch applied  

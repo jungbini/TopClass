@@ -1,0 +1,1 @@
+  fix(tests): increase timeout to pass test on build server  

@@ -1,0 +1,1 @@
+  karma debug: fix NPE (WEB-22522)  

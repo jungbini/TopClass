@@ -1,0 +1,1 @@
+  status bar widgets fix: encoding and branch  

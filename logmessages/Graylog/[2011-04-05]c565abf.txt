@@ -1,0 +1,1 @@
+  loggly forwarder now fully working includig custom timeouts. minor fixes.  

@@ -1,0 +1,1 @@
+  fix(iOS) : welcome label frame and contacts locale fix  

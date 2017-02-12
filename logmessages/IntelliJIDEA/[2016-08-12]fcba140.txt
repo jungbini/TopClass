@@ -1,0 +1,1 @@
+  Java inspection: Renamed the inspection "Replace diamond with explicit type arguments" to a noun-based name - typo fixed. (IDEA-157727)  

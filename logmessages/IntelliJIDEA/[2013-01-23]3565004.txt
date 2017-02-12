@@ -1,0 +1,1 @@
+  Import error in case of custom django project structure caused test runner failure fixed PY-8545 Django test runner fails due to wrong import  

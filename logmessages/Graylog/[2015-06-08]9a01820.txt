@@ -1,0 +1,1 @@
+  Make Alarm Callbacks API compatible to Graylog 1.0.x again  Fixes #1221, fixes #1222, closes #1224  

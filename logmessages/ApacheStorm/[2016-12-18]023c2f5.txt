@@ -1,0 +1,1 @@
+  STORM-2251 Integration test refers specific version of Storm which should be project version  * fix integration-test's pom.xml to have root pom as parent, and remove version and storm version  

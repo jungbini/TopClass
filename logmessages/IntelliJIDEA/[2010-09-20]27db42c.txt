@@ -1,0 +1,1 @@
+  Reduce matcher actual prefix size to avoid huge mem/cpu spikes on automaton minimization  

@@ -1,0 +1,1 @@
+  fix bug in sstable blacklisting with LCS patch by jbellis; reviewed by yukim for CASSANDRA-4343  

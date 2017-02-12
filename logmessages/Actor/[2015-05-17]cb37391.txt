@@ -1,0 +1,1 @@
+  feat(iOS): Showing upload/download icons, unified file cell, fixed cell updating  

@@ -1,0 +1,1 @@
+  Fix a bug in moveBlockMeta where we don't check the destination tier's available bytes.  

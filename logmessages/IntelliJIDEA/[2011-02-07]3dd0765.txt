@@ -1,0 +1,1 @@
+  IDEA-64873 (Auto-fix for inspection "Instance field access not qualified with 'this'" creates broken code.)  

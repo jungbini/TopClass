@@ -1,0 +1,1 @@
+: if revisions passed to 'hg status' are equal, then there was nothing to update => don't get the changed files. 3. Remove adding to MODIFIED, LOCALLY_DELETED groups since they are nothing to do with Update Info.  [reviewed by irengrig]  

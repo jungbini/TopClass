@@ -1,0 +1,1 @@
+ Merge pull request #3651 from dominicdesu/fixMaxTestsForJava16  Make maxCube tests compatible with Java 1.6  commit 444ab1d14729c02c2cd83c3f96d5260627322e33  Merge pull request #3641 from coolweb/master  Mystrom Binding fix  commit c4f43ced99260d3850a3692ebbdae5de4e292022  Mystrom Binding fix  Fix if the master device is not configured into the openhab config file.  

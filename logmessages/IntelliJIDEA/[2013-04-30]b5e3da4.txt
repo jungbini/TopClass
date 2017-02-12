@@ -1,0 +1,1 @@
+  fixing "dispatch thread assertion": id-to-key index may be created not only on startup, but as a part of certain index rebuild procedure  

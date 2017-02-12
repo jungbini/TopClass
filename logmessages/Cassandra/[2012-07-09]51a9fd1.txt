@@ -1,0 +1,1 @@
+  fix 1.0.x node join to mixed version cluster, other nodes >= 1.1 patch by Pavel Yaskevich; reviewed by Jonathan Ellis for CASSANDRA-4195  

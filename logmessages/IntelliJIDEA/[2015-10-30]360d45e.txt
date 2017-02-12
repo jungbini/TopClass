@@ -1,0 +1,1 @@
+  provide current file in the context of all debugger views  

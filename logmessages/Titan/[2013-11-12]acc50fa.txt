@@ -1,0 +1,1 @@
+  inlined size into assert and fixes #478.  

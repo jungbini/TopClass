@@ -1,0 +1,1 @@
+  Properly and consistently sort editor color schemes (fixes IDEA-162904 Default "Editor colors and fonts" is "All hallow's eve")  

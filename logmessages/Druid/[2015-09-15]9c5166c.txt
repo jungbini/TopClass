@@ -1,0 +1,1 @@
+ Merge pull request #1743 from dclim/example-segment-publisher-fix  Disable metadata publishing attempt in example script  commit 518a1a3f9e7df1e78749d5e1db4ec48c4b6572a0  Merge pull request #1734 from metamx/test  fix broken integration-test  commit 9c5166c89cab87b04883767581dc56ebee5ce9c0  fix broken integration-test  

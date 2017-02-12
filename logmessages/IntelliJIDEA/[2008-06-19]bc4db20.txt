@@ -1,0 +1,1 @@
+  fixed exceptions in the inspections build; added diagnostics for inadvertently injecting to wrong file;  

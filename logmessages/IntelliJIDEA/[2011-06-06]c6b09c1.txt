@@ -1,0 +1,1 @@
+  NavBar fixes IDEA-70474, IDEA-66157, IDEA-66559 (Alt+Home and then quickly Alt+Insert result in navigation bar collapse and the Generate action working as if it were invoked in the editor)  

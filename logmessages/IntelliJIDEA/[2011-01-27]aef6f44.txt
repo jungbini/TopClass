@@ -1,0 +1,1 @@
+  fixed PY-2796 Py2.4 compatibility: missing highlighting when yield value is assigned to a variable  

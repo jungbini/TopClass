@@ -1,0 +1,1 @@
+  Don't stop in debugger internals on exception breakpoint in jython.  

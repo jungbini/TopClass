@@ -1,0 +1,1 @@
+  VFS, WindowsFileSystem: fix UNIX_ROOT retrieval  Executing bash.exe directly instead of through cmd.exe doesn't seem to work. This change fixes that problem.  Fixes https://github.com/bazelbuild/bazel/issues/1463 (again)  -- MOS_MIGRATED_REVID=136364606  

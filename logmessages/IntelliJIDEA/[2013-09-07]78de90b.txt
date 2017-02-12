@@ -1,0 +1,1 @@
+  fixed PY-10740 Error trying to create new Pyramid project  removed duplicated code  

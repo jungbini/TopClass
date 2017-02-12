@@ -1,0 +1,1 @@
+ Merge pull request #2545 from deeplearning4j/ab_2542_testfixes  Set seeds properly for dropout layer tests  commit 07647a6233afdb5d516a2f7bbc4b7754f312c59f  update documents(fix typos)  

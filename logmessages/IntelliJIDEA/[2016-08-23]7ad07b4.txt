@@ -1,0 +1,1 @@
+  CompilerMessage#getSourcePath return null in case of multiple sources (fast fix for IDEA-CR-13211)  

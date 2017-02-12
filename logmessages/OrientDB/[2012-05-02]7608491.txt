@@ -1,0 +1,1 @@
+  Fix for issue 778. Bug fix in Object class registration. Bug fix in custom types management. Added test-case for custom types serialization.  

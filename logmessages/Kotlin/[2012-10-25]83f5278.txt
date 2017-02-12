@@ -1,0 +1,1 @@
+  easy debug  LibrarySourcesConfig accepts source dir as source (idea send files in any case, but for easy debug run configurations we want to specify only source dir)  (cherry-picked from e194435)  

@@ -1,0 +1,1 @@
+  [patch]: IDEA-142061 Applying patch deletes blank lines  * use StringUtil.join instead of manual appending; * fix empty sting appending: because when first element is empty string then stringBuilder.length remain 0 and line separator was not added;  

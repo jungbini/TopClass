@@ -1,0 +1,1 @@
+  MINOR: Fix exception message in Copycat's Time logical type.  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Guozhang Wang  Closes #291 from ewencp/fixup-time-logical-type  

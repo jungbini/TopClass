@@ -1,0 +1,1 @@
+  GRADLE-2889 Avoided dependency leaks for detached configurations.  configuration.getPath() does not return unique value for detached configurations (e.g. in 2 

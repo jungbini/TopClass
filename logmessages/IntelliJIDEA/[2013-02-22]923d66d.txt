@@ -1,0 +1,1 @@
+  do not search for element on previous line  fixed PY-8595 Unwrap/Remove action should not be available with caret/selection after the statement with caret on empty line  

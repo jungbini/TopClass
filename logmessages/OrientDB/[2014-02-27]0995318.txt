@@ -1,0 +1,1 @@
+  Console: fixed reuse of closed graph (typically after a drop database)  

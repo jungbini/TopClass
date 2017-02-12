@@ -1,0 +1,1 @@
+  [java] fixes keyword highlighting in doc-commented module-info files  

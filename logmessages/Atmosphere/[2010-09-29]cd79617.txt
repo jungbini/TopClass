@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=59 ("No flags/exception while broadcasting to a broken pipe")  The AtmosphereResourceEventListener will now be called as well as the AtmosphereResource removed from the active list of its associated broadcaster  

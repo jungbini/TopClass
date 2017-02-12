@@ -1,0 +1,1 @@
+  IDEA-11807 - Several mouse-functions don't work when there is an active debugger session  

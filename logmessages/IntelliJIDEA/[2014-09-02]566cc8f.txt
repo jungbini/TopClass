@@ -1,0 +1,1 @@
+  load data from provider at first  Well, we don't need to load local data if provider has one, but a lot of related issues should be fixed before we can implement it  

@@ -1,0 +1,1 @@
+  git4idea: IDEADEV-42214: fixed bug in lock suspending/resuming logic  

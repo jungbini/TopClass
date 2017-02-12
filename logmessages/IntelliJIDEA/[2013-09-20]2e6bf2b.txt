@@ -1,0 +1,1 @@
+  fixed PY-10843 Converting from concatenation to str.format intention does not work in PyCharm  

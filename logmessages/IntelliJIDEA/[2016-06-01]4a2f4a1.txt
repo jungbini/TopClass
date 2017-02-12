@@ -1,0 +1,1 @@
+  IDEA-156235 [follow-up] apply changes from AndroidStudio (2)  The fix relates to a11y.  @author: Renaud Paquay <rpaquay@google.com>  * Set the "labelFor" property for all labels * Re-order controls so that they are created in TAB order. This is useful for screen readers "overview" functionality.  

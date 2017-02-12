@@ -1,0 +1,1 @@
+  [platform] passing manifest attributes to ClassLoader.definePackage, stability fix (IDEA-CR-4856)  

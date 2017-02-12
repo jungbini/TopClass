@@ -1,0 +1,1 @@
+  initial code to handle file opening via protocol handler: one step to fix of IDEA-129532 - open file from Mac's finder  

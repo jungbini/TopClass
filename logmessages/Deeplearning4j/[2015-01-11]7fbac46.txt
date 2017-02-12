@@ -1,0 +1,1 @@
+ fixed SVMLight record factory and tests to be based on 1-based text formats of vector indexes. Yes Adam, you were right. This is the github commit log equivalent of eating crow.  

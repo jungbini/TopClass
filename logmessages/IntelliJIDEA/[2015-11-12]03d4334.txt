@@ -1,0 +1,1 @@
+  eliminate wildcards elimination in flattening intersection types (IDEA-143194); fully follow specification in determining target type - javac would be fixed (JDK-8142876), eclipse already obeys the spec  

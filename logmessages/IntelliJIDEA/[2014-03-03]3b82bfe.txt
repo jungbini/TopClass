@@ -1,0 +1,1 @@
+  fixed PY-12211 Virtualenv interpreters associated with the current project are unsorted  

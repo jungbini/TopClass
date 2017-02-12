@@ -1,0 +1,1 @@
+ficationManagerImpl#doNotify and displayed as HTML. Thus HTML tag braces (< and >) should be escaped, but only they since the text is passed directly to HTML <BODY> tag and is not a part of an attribute or else (no need in escaping quotes).  Cherry-picked from 5c46d809d9ce2692a2f0d0b47623119b12bf5909  

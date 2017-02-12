@@ -1,0 +1,1 @@
+  Debugger: step into default property getter/setter #KT-7287 Fixed  

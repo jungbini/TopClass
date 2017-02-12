@@ -1,0 +1,1 @@
+  a better fix for IDEA-155913  fixed offset<->logicalPosition conversions for injected fragments  

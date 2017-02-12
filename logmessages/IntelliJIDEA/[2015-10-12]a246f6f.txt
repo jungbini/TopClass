@@ -1,0 +1,1 @@
+  IDEA-146074 Quick-fix for inferred @Contract requires the file to be writable  

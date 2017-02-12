@@ -1,0 +1,1 @@
+  switch to OS X native full screen (fixes #2641) and remove native code for hiding menubar  

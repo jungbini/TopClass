@@ -1,0 +1,1 @@
+  improved generic support. fixed issue #569  

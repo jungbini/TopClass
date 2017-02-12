@@ -1,0 +1,1 @@
+  fix attempting to flush empty rows patch by jbellis; reviewed by jasobrown for CASSANDRA-6374  

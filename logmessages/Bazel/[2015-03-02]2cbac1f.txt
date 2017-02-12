@@ -1,0 +1,1 @@
+  Add J2ObjC support for proto option: "objc_class_prefix", which provides prefix names for generated protos.  -- MOS_MIGRATED_REVID=87539098  

@@ -1,0 +1,1 @@
+  added rename argument quick fix for the Incorrect call arguments inspection  

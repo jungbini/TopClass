@@ -1,0 +1,1 @@
+  KT-10670: Debugger: Evaluate Expression/Watches fail for inline function parameter initialized with default value  #KT-10670 Fixed  

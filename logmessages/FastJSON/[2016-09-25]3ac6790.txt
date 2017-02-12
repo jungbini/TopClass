@@ -1,0 +1,1 @@
+  bug fixed for JSONField.deserializeUsing. issue #829  

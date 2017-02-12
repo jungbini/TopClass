@@ -1,0 +1,1 @@
+  IDEA-108265. Multiple recent tasks at once could be provided. Minor issues are fixed. AppId is now one per process.  

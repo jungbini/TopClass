@@ -1,0 +1,1 @@
+  fix convolutional layer to broadcast bias  

@@ -1,0 +1,1 @@
+  Use labels in load statements  This will fix some issue with loading skylark rules from @bazel_tools.  Tested with ./compile.sh all and also a project that use pkg_tar from @bazel_tools (which is broken at HEAD).  -- Change-Id: Iffbb7134ef5fee497890c4d01b85084973d45ad0 Reviewed-on: https://bazel-review.googlesource.com/2800 MOS_MIGRATED_REVID=113508661  

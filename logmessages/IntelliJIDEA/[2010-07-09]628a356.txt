@@ -1,0 +1,1 @@
+  IDEA-51134: Refactor / rename could work for JSP taglib prefix  

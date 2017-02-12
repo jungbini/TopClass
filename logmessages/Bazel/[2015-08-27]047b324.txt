@@ -1,0 +1,1 @@
+  Remove the awkward default value marker from --symlink_prefix.  The wording of the help text is somewhat awkward, but we cannot mention "Bazel" explicitly because the string "Bazel" comes from Constants.java .  -- MOS_MIGRATED_REVID=101664076  

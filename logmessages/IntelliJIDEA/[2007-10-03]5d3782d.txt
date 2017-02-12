@@ -1,0 +1,1 @@
+  [reviewed by Max] fix: Ant target shortcut does not work until Ant window opened for first time (IDEADEV-21971)  

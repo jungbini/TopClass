@@ -1,0 +1,1 @@
+  create test dirs and separate test config xml.  patch from johano.  fixes #22  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@760464 13f79535-47bb-0310-9956-ffa450edef68  

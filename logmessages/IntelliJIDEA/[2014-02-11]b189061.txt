@@ -1,0 +1,1 @@
+  Problem With outdated HgRepository information when branch or bookmark created fixed.  

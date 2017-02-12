@@ -1,0 +1,1 @@
+  Attempt to fix non-ascii character test - Change file encoding to UTF-8 - Update characters used  

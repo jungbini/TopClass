@@ -1,0 +1,1 @@
+  fixed IDEA class version detection in IDEA SDK: don't require write access to openapi.jar  

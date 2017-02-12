@@ -1,0 +1,1 @@
+  ZEPPELIN-37 Dependency convergence error fix for junit and apache mina-core  

@@ -1,0 +1,1 @@
+  Platform: deleting shortcut from bound and inherited action fixed  Details:  * when we delete a shortcut from child's action, the parent shortcuts are copied and assigned to che child * when there is no such a shortcut to delete, nothing happens  * when we delete a shortcut from a bound action, the base action's shortcuts are copied to the dependent action  

@@ -1,0 +1,1 @@
+  HBASE-2412 [stargate] PerformanceEvaluation; and related fixes  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@931038 13f79535-47bb-0310-9956-ffa450edef68  

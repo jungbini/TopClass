@@ -1,0 +1,1 @@
+  Error in usage of indexes for query optimization was fixed.  

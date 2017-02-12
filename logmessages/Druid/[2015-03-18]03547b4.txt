@@ -1,0 +1,1 @@
+ Using new release of the http-client. This new version 1.0.1 it has a bug fix that was  causing can not add a handler exceptions. Bug description can be found [here](https://github.com/metamx/http-client/pull/16)  

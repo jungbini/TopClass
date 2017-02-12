@@ -1,0 +1,1 @@
+  [FreezeLogger] do not report if under debug  

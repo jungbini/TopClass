@@ -1,0 +1,1 @@
+ Merge pull request #2343 from jordanorelli/master  fixes #2341 - inconsistent bounds checks  commit e73e08c6375bf787724ce3fc941ab5b39be38421  disable the OS X export button on Windows and Linux (fixes 2642)  

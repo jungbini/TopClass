@@ -1,0 +1,1 @@
+  fix the wrongly weighted value for the priority. the before default should be smaller than the after default priority  

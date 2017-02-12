@@ -1,0 +1,1 @@
+  IDEA-80336 Run/Debug tool window: generic UI: old Horizontal Toolbars setting is used, but cannot be changed  

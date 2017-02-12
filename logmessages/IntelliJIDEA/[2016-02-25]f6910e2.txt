@@ -1,0 +1,1 @@
+  inspections: interrupt inspecting when close tab is clicked in inspection tool window fixed + do not create view if don't need  

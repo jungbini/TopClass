@@ -1,0 +1,1 @@
+  svn merge -c 1589528 merging from trunk to branch-2 to fix:HDFS-6217. Webhdfs PUT operations may not work via a http proxy. Contributed by Daryn Sharp.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1589529 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  compile server: fixed project name reading & appended project location hash to caches directory name  

@@ -1,0 +1,1 @@
+  remote debug arquillian testNG tests  

@@ -1,0 +1,1 @@
+  dfa: combine merge by equality and type into a generic relation-based merge  this improves dfa performance and fixes cases when a single global != relation would prevent states from merging  

@@ -1,0 +1,1 @@
+  Disable tests that requires JDK 8 when using compile.sh  Also fix the OS X travis build file.  -- MOS_MIGRATED_REVID=96683399  

@@ -1,0 +1,1 @@
+  Fix sandboxing test  Sandboxing has still a bug, the tools package is shipped as symlinks leading outside of the sandbox and the tools are unreachable. This change also introduce a new test that fails due to that error.  -- MOS_MIGRATED_REVID=93887236  

@@ -1,0 +1,1 @@
+  don't prompt for quit on close with windows/linux (bug #1076)  

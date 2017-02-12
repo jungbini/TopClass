@@ -1,0 +1,1 @@
+  Detect and help user fix a missing /usr/include/iconv.h on OS X.  This should address #1111.  

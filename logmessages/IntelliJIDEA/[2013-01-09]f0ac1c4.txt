@@ -1,0 +1,1 @@
+  Startup crash on icon loading fixed  

@@ -1,0 +1,1 @@
+  [ide-console][bug-fixes] Disable process on closed dialog window Fix history bugs (lost completion focus, occasional flush) Faster incomplete icon change Correct console window title Other small gui decorations  

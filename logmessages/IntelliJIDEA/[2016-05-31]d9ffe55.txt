@@ -1,0 +1,1 @@
+  fix minor ide class resources are loaded first  

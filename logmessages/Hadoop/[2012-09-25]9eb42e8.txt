@@ -1,0 +1,1 @@
+  Merge -c 1374095 from branch-1 to branch-1.1 to fix MAPREDUCE-4558. Disable TestJobTrackerSafeMode.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.1@1390009 13f79535-47bb-0310-9956-ffa450edef68  

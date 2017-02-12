@@ -1,0 +1,1 @@
+  fix for bug #844, text rect drawing outside the box  

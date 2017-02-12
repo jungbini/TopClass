@@ -1,0 +1,1 @@
+  add selection evaluator setting into Debug tool window  

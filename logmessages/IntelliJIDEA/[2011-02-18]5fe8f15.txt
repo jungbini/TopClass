@@ -1,0 +1,1 @@
+  IDEA-65434 Ctrl+Shift+Enter bug in conditional blocks  Corrected situation when we complete statement with empty code block and code style is set to keep simple instructions in one line  

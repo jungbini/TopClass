@@ -1,0 +1,1 @@
+  add offset when calculating poly normals, fix #2314  

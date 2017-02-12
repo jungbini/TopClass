@@ -1,0 +1,1 @@
+  fixed  PY-6595 Add "Rename" intention for unresolved indentifier  

@@ -1,0 +1,1 @@
+  quickfix to collapse identical catch sections into multi-catch  

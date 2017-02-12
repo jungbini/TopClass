@@ -1,0 +1,1 @@
+  Only have stream dashboards  fixes #WEBINTERFACE-373  

@@ -1,0 +1,1 @@
+  Correctly quotes JAVA_HOME in Bazel's compile.sh  Part the fix for bug #128  Tested by making JDK point to a folder with space.  -- MOS_MIGRATED_REVID=91295878  

@@ -1,0 +1,1 @@
+  Fix string comparison bug in NeuralNetConfiguration  The previous implementation tests for reference equality and not string equality with equals().  

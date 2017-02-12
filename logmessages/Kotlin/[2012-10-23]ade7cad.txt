@@ -1,0 +1,1 @@
+  fix warnings about type nullability  (cherry-picked from b7bb6ef)  

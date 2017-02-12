@@ -1,0 +1,1 @@
+  Debugger, XDebugger: ctrl+c to copy value  

@@ -1,0 +1,1 @@
+  svn: Refactored BaseSvnFileAnnotation - code simplified, duplication and unused code removed, warnings fixed  

@@ -1,0 +1,1 @@
+  Fixed a bug: every other command isn't added to history if history size = max history size.  

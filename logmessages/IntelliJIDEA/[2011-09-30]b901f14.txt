@@ -1,0 +1,1 @@
+  fixed PY-4581 "Old-style class contains call for super method" false positive when superclass is unresolved  

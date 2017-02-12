@@ -1,0 +1,1 @@
+  fix TwitterSampleSpout by relying on Java serialization for Status objects  

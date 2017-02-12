@@ -1,0 +1,1 @@
+  disable eager PSI calculation to fix a deadlock  

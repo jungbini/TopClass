@@ -1,0 +1,1 @@
+  EA-26971 - assert: CaretModelImpl.moveToOffset  1. Debug info is added; 2. Green code policy is applied;  

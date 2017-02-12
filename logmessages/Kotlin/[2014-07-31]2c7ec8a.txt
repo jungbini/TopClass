@@ -1,0 +1,1 @@
+  KT-5531 Introduce separate 'kotlin.internal.mode' property and use it to trigger red/black rectangles and debug information in error tooltips  #KT-5531 fixed  

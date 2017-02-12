@@ -1,0 +1,1 @@
+  take care of ellipse/rect/image modes in PShape (fixes #3685)  

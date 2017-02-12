@@ -1,0 +1,1 @@
+  fix for js mode hang (issue #936) and reopen server in browser menu item  

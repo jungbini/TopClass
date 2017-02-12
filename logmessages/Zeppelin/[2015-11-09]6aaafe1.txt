@@ -1,0 +1,1 @@
+t for opening new created notebook and fix indentation b307483 [Mina Lee] [ZEPPELIN-309] Redirect to created/cloned notebook page on notebook creation/clone  

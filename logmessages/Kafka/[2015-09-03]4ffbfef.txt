@@ -1,0 +1,1 @@
+  MINOR: Fix trace/debug logs in RequestChannel  Author: Ashish Singh <asingh@cloudera.com>  Reviewers: Ismael Juma, Gwen Shapira  Closes #192 from SinghAsDev/KAFKA-2461-2  

@@ -1,0 +1,1 @@
+  fix blinking Spring tests; avoid cglib's class naming conflicts with assertj and mockito  

@@ -1,0 +1,1 @@
+  allow 'okay' response codes for API client. fixes #315  

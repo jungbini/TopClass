@@ -1,0 +1,1 @@
+  GRADLE-3382 - Fix IndexOutOfBounds exception when our short-circuiting ClassNodeResolver attempts to lookup a lowercase class name. This is typically caused by a syntax error in the build script. Report the actual syntax error rather than a bogus message claiming a bug in Groovy exists.  +review REVIEW-5793  

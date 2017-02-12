@@ -1,0 +1,1 @@
+  ThinLTO changes for upstreamed compiler implementation and other fixes to blaze handling.  - Converted to correct upstreamed options - Handling of bitcode when creating dynamic libraries - New LTOBackendAction derived from SpawnAction that discovers and adds the imported bitcode files identified by the LTO indexing step.  -- MOS_MIGRATED_REVID=126344132  

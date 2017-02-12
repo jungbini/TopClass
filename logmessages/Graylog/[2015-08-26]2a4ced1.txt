@@ -1,0 +1,1 @@
+  update to java-grok:0.1.3-graylog  - allows to use - and ' characters in date format strings - added test  fixed #1333  

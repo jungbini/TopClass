@@ -1,0 +1,1 @@
+  Fixed bug with BETWEEN in SQL queries reported by Laurence today in the Google Group  

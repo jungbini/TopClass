@@ -1,0 +1,1 @@
+  HDFS-1702. Federation: fix TestBackupNode and TestRefreshNamendoes failures. Contributed by Suresh Srinivas.    git-svn-id: https://svn.apache.org/repos/asf/hadoop/hdfs/branches/HDFS-1052@1076485 13f79535-47bb-0310-9956-ffa450edef68  

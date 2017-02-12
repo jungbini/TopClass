@@ -1,0 +1,1 @@
+  Added getSliceContents() method to BindingContext returning immutable map for particular slice (for testing and debug purposes).  

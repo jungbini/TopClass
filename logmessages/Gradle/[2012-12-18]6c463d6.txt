@@ -1,0 +1,1 @@
+  Moved the AbstractDependencyResolutionTest to the internalIntegTesting fixutures so that other subprojects can take advantage of it.  

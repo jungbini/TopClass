@@ -1,0 +1,1 @@
+ fix highlighting for return values in method with other errors  

@@ -1,0 +1,1 @@
+om warn to debug, but leaves at warn level other messages dealing with the ability reflectively read enum values from within annotations.  Issue: SPR-9233  

@@ -1,0 +1,1 @@
+  IDEADEV-25124 Smart completion after "new" fails on inner class method return type completion fixes  

@@ -1,0 +1,1 @@
+  fixes #775.  libxml will throw an error if we tried to replace a text node in a document fragment since it tries to find an element node or a document node in the parents of the node being replaced. To make this possible we add an element node and replace that node instead.  

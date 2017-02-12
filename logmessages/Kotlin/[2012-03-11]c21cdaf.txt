@@ -1,0 +1,1 @@
+  Start working with spaces: KT-1532 IDEA should remove extra whitespaces when reformmating code KT-1378 Code formatting: spaces around ':'  #KT-1532 fixed #KT-1378 fixed  

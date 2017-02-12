@@ -1,0 +1,1 @@
+  HADOOP-13850 s3guard to log choice of metadata store at debug. Contributed by Mingliang Liu  

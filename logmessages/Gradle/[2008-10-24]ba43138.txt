@@ -1,0 +1,1 @@
+  Fixed bug that the extension was not properly set for the selcted archive method.  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@951 004c2c75-fc45-0410-b1a2-da8352e2331b  

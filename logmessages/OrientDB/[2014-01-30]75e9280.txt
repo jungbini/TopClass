@@ -1,0 +1,1 @@
+  Console: minor bug fixed on db.restore where the file wasn't closed correctly after the restore  

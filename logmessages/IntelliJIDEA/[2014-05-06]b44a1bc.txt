@@ -1,0 +1,1 @@
+  Removed unnecessary EP, introduced Rename Handler for Python Magic Literals: fixing some tests  

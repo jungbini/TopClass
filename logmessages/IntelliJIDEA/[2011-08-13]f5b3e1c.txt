@@ -1,0 +1,1 @@
+  GitUntrackedFilesHolder: fix file removal.  Keep 2 sets of suspicious files - possibly untracked and possibly removed from untracked (i.e. tracked).  

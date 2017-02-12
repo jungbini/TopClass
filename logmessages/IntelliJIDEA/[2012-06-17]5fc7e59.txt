@@ -1,0 +1,1 @@
+  allow '\r' in debugger text viewer  

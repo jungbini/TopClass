@@ -1,0 +1,1 @@
+  Additional check of analyze resul, prevents a problem of passing BindingContext.EMPTY to the generation stage, fixes kapt tests in gradle plugins  

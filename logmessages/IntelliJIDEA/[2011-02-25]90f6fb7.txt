@@ -1,0 +1,1 @@
+  less enthusiastic reporting of duplicate if branches to prevent the quickfix from changing the semantics of code  

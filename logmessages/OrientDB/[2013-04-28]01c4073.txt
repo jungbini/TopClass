@@ -1,0 +1,1 @@
+  Fixed bug on toJSON: this is the case of a collection of maps  

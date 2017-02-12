@@ -1,0 +1,1 @@
+  Make the ArtifactCache hash function fixed.  Summary: We don't support varying the artifact cache hash function so there is no point in having this be a constructor param.  Test Plan: CI  

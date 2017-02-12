@@ -1,0 +1,1 @@
+  Prefix file content hashes  This is to ensure files with contents always have 

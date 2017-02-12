@@ -1,0 +1,1 @@
+  IDEA-108240 (Quick fix for inspection 'log statement not guarded by log condition' accidentally changes semantics of handled sourcecode)  

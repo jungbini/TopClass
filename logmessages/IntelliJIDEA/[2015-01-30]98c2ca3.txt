@@ -1,0 +1,1 @@
+  [revert: the fix doesn't work] CPP-2282 Environment variable is not saved when changes are confirmed while field is still in focus (Windows/Linux)  

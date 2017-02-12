@@ -1,0 +1,1 @@
+  Decompiler fix: enum entries are now separated by , and have ; at the end, relevant tests fixed  

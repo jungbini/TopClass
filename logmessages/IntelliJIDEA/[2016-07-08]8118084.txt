@@ -1,0 +1,1 @@
+  Rename tracing flag for PyDBDaemonThread, because it's checked in trace_dispatch function and protects debugger from a deadlock with IronPython (PY-20002)  

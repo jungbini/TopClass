@@ -1,0 +1,1 @@
+  fixed PY-7088 Insert docstring stub: leads to syntactically incorrect code when invoked for one-line function  

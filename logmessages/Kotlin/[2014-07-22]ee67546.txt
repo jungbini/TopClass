@@ -1,0 +1,1 @@
+ Merge pull request #499 from MichaelNedzelsky/kt5345  JS backend: fixed KT-5345  -- type mismatch on Int / Float division.  #KT-5345 fixed  commit ee67546f8ffd648101ee24be78da79fd0f869b8b  JS backend: fix kt-5345 (Type mismatch on Int / Float division)  

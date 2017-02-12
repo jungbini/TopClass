@@ -1,0 +1,1 @@
+  IDEADEV-18754 Spring + aop: provide inspection to find advices without pointcut or pointcut-ref attributes IDEADEV-18193 spring + aop: "Create method" quickfixes for xml-based aop configuration  

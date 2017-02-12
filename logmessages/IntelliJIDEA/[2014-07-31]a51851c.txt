@@ -1,0 +1,1 @@
+  fixed PY-13376 Create New Project: round create button border when button is inactive  

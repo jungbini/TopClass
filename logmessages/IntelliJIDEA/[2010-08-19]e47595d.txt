@@ -1,0 +1,1 @@
+  fix location of plugin.xml added testsrc to source folders  

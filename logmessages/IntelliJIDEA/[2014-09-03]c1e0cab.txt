@@ -1,0 +1,1 @@
+  JDK editor: fixed cleaning JDK roots on 'apply' (IDEA-65708)  

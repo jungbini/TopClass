@@ -1,0 +1,1 @@
+  Allow to set the metrics factory programmatically on MetricsOptions - fixes #1432  

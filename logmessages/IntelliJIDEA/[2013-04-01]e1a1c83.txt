@@ -1,0 +1,1 @@
+  javafx: open in scene builder: typo fixed  

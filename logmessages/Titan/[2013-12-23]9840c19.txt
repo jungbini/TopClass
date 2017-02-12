@@ -1,0 +1,1 @@
+  Tweak getSlice and getKeys metrics names  * prevent getSlice from attempting to log metrics with an empty-string name prefix when metrics are disabled  * rename com.thinkaurelius.titan.getKeys.iterator.* to com.thinkaurelius.titan.stores.getKeys.iterator.* to conform with the naming pattern of every other storage metric  

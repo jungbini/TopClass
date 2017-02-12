@@ -1,0 +1,1 @@
+  AC/C++: fix for tests depending on editor position  

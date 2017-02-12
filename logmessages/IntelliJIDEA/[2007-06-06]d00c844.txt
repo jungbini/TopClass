@@ -1,0 +1,1 @@
+  fix remembering svn settings (IDEADEV-17545)  

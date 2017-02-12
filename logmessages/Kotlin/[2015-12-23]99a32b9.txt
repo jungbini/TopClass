@@ -1,0 +1,1 @@
+  Implemented missed checks for local functions #KT-10449 Fixed  Relevant code/test fixes  

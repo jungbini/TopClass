@@ -1,0 +1,1 @@
+  fix for #94 - removed regex completely to allow any configuration string. OwServer will complain later if id isn't correct.  

@@ -1,0 +1,1 @@
+  Made "Remove val/var from parameter" quick fix local.  

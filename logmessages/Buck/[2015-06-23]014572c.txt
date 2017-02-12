@@ -1,0 +1,1 @@
+  Do not format ConsoleEvent message if there are no arguments  Summary: There are cases where the message passed to `ConsoleEvent` contains character sequences that are interpreted as format arguments for `String.format()`. This 

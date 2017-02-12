@@ -1,0 +1,1 @@
+  EA-26844 - AIOOBE: BulkChangesMerger$Context.processPositiveGroup  1. Deferred changes merging algorithm is corrected; 2. 'Debug bulk document change' processing mode support is added;  

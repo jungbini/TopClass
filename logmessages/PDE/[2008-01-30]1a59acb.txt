@@ -1,0 +1,1 @@
+  implementation of curveTangent() from davbol (bug #715)  

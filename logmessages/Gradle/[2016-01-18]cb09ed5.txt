@@ -1,0 +1,1 @@
+  Some more cleanup on idea tapi model  - update javadoc - rename sourceLanguageLevel -> languageLevel as it matches idea namings - fix IdeaModelBuilderTest - tweak release notes after renamings  +review REVIEW-5740  

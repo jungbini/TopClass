@@ -1,0 +1,1 @@
+  libLicenses gant: fix usage of absent property 'classpath' for class: org.jetbrains.jps.model.library.impl.JpsLibraryImpl see build error at http://buildserver/viewLog.html?buildTypeId=IDEA_Trunk_Installers&buildId=4505274  

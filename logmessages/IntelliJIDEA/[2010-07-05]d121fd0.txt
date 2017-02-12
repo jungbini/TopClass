@@ -1,0 +1,1 @@
+  [Mercurial] IDEA-56180: remembering visited URLs, logins and passwords. Also fixed a bug which was preventing cloning (related to IDEA-55930).  

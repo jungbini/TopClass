@@ -1,0 +1,1 @@
+ Merge pull request #1986 from Graylog2/fix-gelf-chunk-handler  Fix handling of invalid GELF messages with more than 128 chunks (cherry picked from commit ad47def73ae32fbbdc291e702db9df2811f61800)  

@@ -1,0 +1,1 @@
+  fix nodeprobe compilation problem introduced by #801 patches.  patch by jbellis  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.6@916974 13f79535-47bb-0310-9956-ffa450edef68  

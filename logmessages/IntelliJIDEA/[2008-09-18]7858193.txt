@@ -1,0 +1,1 @@
+  toolwindow tabs invalidation fix  

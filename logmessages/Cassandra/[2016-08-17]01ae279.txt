@@ -1,0 +1,1 @@
+  Ninja: temporarily remove test-clientutil-jar from test-all  This is a temporary measure to fix test-all until CASSANDRA-11635 can be properly fixed and allow test-clientutil-jar to work again.  

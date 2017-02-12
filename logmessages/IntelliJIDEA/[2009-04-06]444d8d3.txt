@@ -1,0 +1,1 @@
+  [RUBY-3040]. We shouldn't report inconsistency of tests structure as error, warning is also suitable. Such situation can apper during debuging even if test runner is correct.  

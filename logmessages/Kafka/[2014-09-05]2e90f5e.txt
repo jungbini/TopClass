@@ -1,0 +1,1 @@
+  KAFKA-1054; Eliminate Scala Compilation Warnings  Changes: - Suppressed compiler warnings about type erasure in matching via unboxing by Jon Riehl. - Suppressed warning caused by slight 

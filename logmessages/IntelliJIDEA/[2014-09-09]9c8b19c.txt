@@ -1,0 +1,1 @@
+  fix assertion in editor selection model  

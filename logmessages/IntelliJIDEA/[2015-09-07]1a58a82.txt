@@ -1,0 +1,1 @@
+  Do not stop on the first line of code twice (PY-2966)  When we start debug session, we call execfile in pydevd run function. It produces an additional 'call' event for tracing and we stop on the first line of code twice. We should ignore it.  

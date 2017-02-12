@@ -1,0 +1,1 @@
+  fixed network deserialization in case of reference loop in transaction  

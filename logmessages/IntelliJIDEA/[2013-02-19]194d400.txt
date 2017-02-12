@@ -1,0 +1,1 @@
+  [github] Create Gist: fix github host url for Enterprise. IDEA-101450  Instead of always using https://api.github.com, use the host defined in the settings.  

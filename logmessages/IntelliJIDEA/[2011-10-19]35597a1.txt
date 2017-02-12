@@ -1,0 +1,1 @@
+  junit tests view: fix selection stealing when test was selected from keyboard  

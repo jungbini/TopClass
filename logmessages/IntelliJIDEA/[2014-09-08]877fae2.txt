@@ -1,0 +1,1 @@
+  fixed PY-13868 Move statement on a comment inside a dict deletes the dict  

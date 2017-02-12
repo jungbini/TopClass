@@ -1,0 +1,1 @@
+ Introduce inspection for structure initialization (fixes #2094)  

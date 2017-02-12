@@ -1,0 +1,1 @@
+  Performance fix for postfix completion: 1. Don't use PARTIAL_FOR_COMPLETION resolve mode 2. Attempt to use resolve in physical file instead of synthetic one  

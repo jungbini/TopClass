@@ -1,0 +1,1 @@
+  regexp: fix lexing of character classes when nesting is not allowed  

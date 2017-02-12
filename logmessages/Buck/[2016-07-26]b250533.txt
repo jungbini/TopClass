@@ -1,0 +1,1 @@
+  Easy: Log result of buck.py profile  Summary: When running with `--profile-buck-parser`, we no longer actually log the results of the Python profile anywhere.  This logs the results to the debug logs if the flag is passed.  Test Plan: `buck build --profile-buck-parser targetname`, confirmed Python profile showed up in logs  Reviewed By: Coneko  fbshipit-source-id: 309efa3  

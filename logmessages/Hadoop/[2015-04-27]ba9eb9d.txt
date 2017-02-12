@@ -1,0 +1,1 @@
+  Addendum fix for HDFS-7749 to be compatible with HDFS-7993  

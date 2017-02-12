@@ -1,0 +1,1 @@
+  IDEA-135623 fix change type detection  Create a fake EmptyTextFilePatch which doesn't hold any patch texts, but only detects the file type.  A better fix would be to return 

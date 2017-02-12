@@ -1,0 +1,1 @@
+  some cleanup on scala-lang support  - extract ScalaToolProvider interface - fix classycle issue with having default zinc version definition in ScalaLanguagePlugin - extract IncrementalTestJvmComponent out of TestJavaComponent - add TestJointCompiledComponent to explicitly test joint scala/java compilation in scala-lang  +review REVIEW-5273  

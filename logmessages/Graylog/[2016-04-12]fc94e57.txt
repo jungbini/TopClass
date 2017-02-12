@@ -1,0 +1,1 @@
+  override timestamp to now for bad timestamp values (#2065)  If the timestamp field of a message is incompatible to the ES format we are using, or an unknown data type (non Date, DateTime or String), force the timestamp to be "now".  This prevents bad extractors or inputs from causing these malformed messages to be discarded.  fix #2064  

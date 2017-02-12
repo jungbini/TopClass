@@ -1,0 +1,1 @@
+  fix ssr tests: parse actionscript patterns in function context; fix replacement of only statement in function block  

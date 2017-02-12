@@ -1,0 +1,1 @@
+  Final fix for #1160, remove event listener after it has been used  

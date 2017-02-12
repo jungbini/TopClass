@@ -1,0 +1,1 @@
+  IDEA-20123 web browser behaviour problem + fix context popup in wrong editor [reviewed by gregory.shrago]  

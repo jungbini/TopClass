@@ -1,0 +1,1 @@
+  trim lines once more after removing prefix and suffix  

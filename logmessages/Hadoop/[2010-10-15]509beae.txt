@@ -1,0 +1,1 @@
+  HBASE-3113 Don't reassign regions if cluster is being shutdown; part 2 -- fix wrongly named exception and let out IOEs when opening regions on RS  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1023115 13f79535-47bb-0310-9956-ffa450edef68  

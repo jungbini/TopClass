@@ -1,0 +1,1 @@
+  Quick-Fixes: Support USELESS_CAST diagnostic in "Remove cast" quick-fix #KT-6422 Fixed  

@@ -1,0 +1,1 @@
+ction e8a5e58 [Damien Corneau] Set name to Note + note.id on note creation d585a0d [Damien Corneau] Add ordering service and order notebook list  

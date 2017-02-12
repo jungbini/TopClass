@@ -1,0 +1,1 @@
+  MAPREDUCE-430. Fix bug related to Task getting stuck due to OutOfMemoryErrors. Contributed by Amar Kamat.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20@795722 13f79535-47bb-0310-9956-ffa450edef68  

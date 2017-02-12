@@ -1,0 +1,1 @@
+  fixing problem with recycled xml reader attribute nodes. closes gh-44.  

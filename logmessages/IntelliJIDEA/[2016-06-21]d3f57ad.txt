@@ -1,0 +1,1 @@
+  Input doesn't work in Debug Console (PY-19853)  Clear input buffer before waiting for input  

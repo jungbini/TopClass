@@ -1,0 +1,1 @@
+  svn merge -c 1589405 merging from trunk to branch-2 to fix:HADOOP-10527. Fix incorrect return code and allow more retries on EINTR.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1589407 13f79535-47bb-0310-9956-ffa450edef68  

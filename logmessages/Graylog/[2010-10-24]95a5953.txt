@@ -1,0 +1,1 @@
+  last-minute bugfix: hosts with space in their name could not be selected using quick jump  

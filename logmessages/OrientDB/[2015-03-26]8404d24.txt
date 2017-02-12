@@ -1,0 +1,1 @@
+  Fixing bug when using a token issued for a user in subclass of OUser  

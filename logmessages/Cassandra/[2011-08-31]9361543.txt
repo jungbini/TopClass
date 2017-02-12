@@ -1,0 +1,1 @@
+  fix race that allowed multiple simultaneous leveled compaction tasks patch by jbellis; reviewed by Ben Coverston for CASSANDRA-3087  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1163688 13f79535-47bb-0310-9956-ffa450edef68  

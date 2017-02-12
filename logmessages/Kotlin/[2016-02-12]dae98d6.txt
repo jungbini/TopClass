@@ -1,0 +1,1 @@
+  Call System.gc only when when log level is debug, fixes KT-11022  

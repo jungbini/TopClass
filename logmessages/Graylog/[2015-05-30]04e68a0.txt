@@ -1,0 +1,1 @@
+  styling for dashboards. fixes #1367  

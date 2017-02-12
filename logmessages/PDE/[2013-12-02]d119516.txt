@@ -1,0 +1,1 @@
+  update to Minim binaries to fix a NullPointerException caused by exiting a sketch while an AudioPlayer is playing  

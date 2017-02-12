@@ -1,0 +1,1 @@
+  workaround for combo boxes, fixes #3212  

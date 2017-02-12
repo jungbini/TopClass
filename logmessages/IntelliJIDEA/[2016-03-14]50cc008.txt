@@ -1,0 +1,1 @@
+  Add filter for cython extensions for debugger in PyCharm Edu (PY-18633)  

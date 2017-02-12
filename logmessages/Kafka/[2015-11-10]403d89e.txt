@@ -1,0 +1,1 @@
+  KAFKA-2798: Use prefixedd configurations for Kafka Connect producer and consumer settings so they do not conflict with the distributed herder's settings.  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Gwen Shapira  Closes #486 from ewencp/kafka-2798-conflicting-herder-producer-consumer-configs  

@@ -1,0 +1,1 @@
+  fix regression in resolve (losing found variant)  

@@ -1,0 +1,1 @@
+  new rle tga code from toxi, some fixes to save() error handling in PImage  

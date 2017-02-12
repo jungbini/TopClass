@@ -1,0 +1,1 @@
+  fix(iOS): Fixed media pick status bar color  

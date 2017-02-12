@@ -1,0 +1,1 @@
+  VCS: clear repository/incoming changes caches button also fixed outdated panel blinking in case tehre are several VCS roots also for IDEA-84638 "Invalidate Caches..." does not clear VCS cache  

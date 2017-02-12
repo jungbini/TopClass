@@ -1,0 +1,1 @@
+  fixed PY-7356 Django: missing newline in test command output without valid manage.py file specified  

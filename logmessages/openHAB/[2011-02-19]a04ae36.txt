@@ -1,0 +1,1 @@
+  fixed inclusion of icons in bundle  

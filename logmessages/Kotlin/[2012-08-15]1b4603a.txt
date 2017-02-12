@@ -1,0 +1,1 @@
+  KT-1389 Ctrl-Alt-B on class declaration does not work - one more test, remove class info from test info, fix order of test data #KT-1389 In Progress  

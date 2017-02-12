@@ -1,0 +1,1 @@
+  removing debug info from run as external applet  

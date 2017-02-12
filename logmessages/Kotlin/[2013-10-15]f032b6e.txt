@@ -1,0 +1,1 @@
+  Eliminate redundant descriptorToDeclaration call from factory for "Change signature" quick fixes  

@@ -1,0 +1,1 @@
+  write server activity if AMQP connections breaks  fixes #SERVER-227  

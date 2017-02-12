@@ -1,0 +1,1 @@
+  YARN-1783. Fixed a bug in NodeManager's status-updater that was losing completed container statuses when NodeManager is forced to resync by the ResourceManager. Contributed by Jian He. svn merge --ignore-ancestry -c 1575437 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.4@1575439 13f79535-47bb-0310-9956-ffa450edef68  

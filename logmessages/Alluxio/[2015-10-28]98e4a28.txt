@@ -1,0 +1,1 @@
+ Merge pull request #2022 from calvinjia/abstract-tfs-smallfix-1  [SMALLFIX] Fix style in AbstractTFS javadoc.  commit 0e0f547902830744aed0b1aad5aa65d9d07a8dba  Merge conflicts between authorization branch and master, fix failed cases  commit 98e4a284bdf04a1c3c78b85a896b29951200ed46  Enable Findbugs to prevent instance modificiation of static state  

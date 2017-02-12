@@ -1,0 +1,1 @@
+  mmap: improved speed of buffer close and fixed the NPE case  

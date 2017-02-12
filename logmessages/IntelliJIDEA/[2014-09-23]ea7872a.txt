@@ -1,0 +1,1 @@
+  allow to show debug values on breakpoint line  

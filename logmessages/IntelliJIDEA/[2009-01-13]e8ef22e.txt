@@ -1,0 +1,1 @@
+  fix Ctrl+Space sorting after ServiceManager.<caret>  

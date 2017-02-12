@@ -1,0 +1,1 @@
+  Do not let anyone change HTML highlighting attributes (fixes WEB-13867 Can't change color of HTML tag names, WEB-13867 Can't change color of HTML tag names)  

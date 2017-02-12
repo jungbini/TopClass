@@ -1,0 +1,1 @@
+  Support Git submodules as nested roots  Submodules in Git don't have a .git dir. Instead they have .git file referencing to the actual Git repository located in <super_project>/.git/modules/<module_name>  To get the .git dir use GitUtil.findGitDir  This fixes IDEA-80047 and IDEA-79674  

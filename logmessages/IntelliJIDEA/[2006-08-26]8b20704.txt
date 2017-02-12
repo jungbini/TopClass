@@ -1,0 +1,1 @@
+  Severe memory leak when using classic settings view fixed.  

@@ -1,0 +1,1 @@
+  Update min version  ...so we can get rid of the workaround for JDK bug  

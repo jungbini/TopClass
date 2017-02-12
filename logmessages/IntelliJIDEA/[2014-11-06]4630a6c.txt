@@ -1,0 +1,1 @@
+  Block support: fix retrieving reparseable node on change at the end of file  

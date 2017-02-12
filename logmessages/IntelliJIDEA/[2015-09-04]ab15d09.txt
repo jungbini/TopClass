@@ -1,0 +1,1 @@
+  IDEA-144745 Some kind of incorrect saving/loading of VirtualFile flags/userdata breaks autodetect of file type  reverting cda5507 and a757517 to fix show-stopper bug CPP-4431  

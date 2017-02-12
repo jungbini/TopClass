@@ -1,0 +1,1 @@
+  fixed PY-12651 Unify PyCharm and plugin template folder handling  extracted PyContentEntriesEditor and reused in python plugin  

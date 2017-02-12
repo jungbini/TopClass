@@ -1,0 +1,1 @@
+  fix field mapper for filtered fields.  the field mapper was run on a copy of the fields, not on the message result itself, leading to incorrect display of messages using a map decorator now for both filtered and formatted fields  fixes #601  

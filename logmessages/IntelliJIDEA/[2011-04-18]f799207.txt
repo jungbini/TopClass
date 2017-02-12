@@ -1,0 +1,1 @@
+  don't depend on buggy hashCode when binding a lookup element to prefix matcher  

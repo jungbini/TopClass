@@ -1,0 +1,1 @@
+  Fixed bug found by bayoda on binary content  

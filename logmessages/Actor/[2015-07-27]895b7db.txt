@@ -1,0 +1,1 @@
+  feat+fix(server): persist bot token, fixed serialization id of AvatarUpdated event  

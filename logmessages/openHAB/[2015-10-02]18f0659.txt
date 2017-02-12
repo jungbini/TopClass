@@ -1,0 +1,1 @@
+ fixed conflict on openhab_default.cfg  

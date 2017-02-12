@@ -1,0 +1,1 @@
+  added remove return statement quick fix for the return from init inspection  

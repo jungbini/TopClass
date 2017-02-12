@@ -1,0 +1,1 @@
+  IDEA-77412: XSLT debug: ConnectException is reported much later after Debugger GUI shows completed process  

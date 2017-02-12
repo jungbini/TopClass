@@ -1,0 +1,1 @@
+  Fixed detection of stacktraces in test fixtures when platform line separator isn't \n.  

@@ -1,0 +1,1 @@
+  fixed paths to updater log files  

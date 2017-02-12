@@ -1,0 +1,1 @@
+  Merge -c 1194854 from branch-0.20-security to branch-0.20-security-204 to fix MAPREDUCE-2355.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-204@1194856 13f79535-47bb-0310-9956-ffa450edef68  

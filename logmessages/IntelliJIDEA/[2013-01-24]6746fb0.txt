@@ -1,0 +1,1 @@
+  a better fix for IDEA-61160: don't save documents when there's an open lookup anywhere  

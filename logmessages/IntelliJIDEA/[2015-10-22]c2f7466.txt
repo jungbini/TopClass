@@ -1,0 +1,1 @@
+  cleanup, move nodejs.debugger.use.jb.support to registry (easy set)  

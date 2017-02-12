@@ -1,0 +1,1 @@
+  IDEA-158165 ui: fix goto popups preferred size  

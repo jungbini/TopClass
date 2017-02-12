@@ -1,0 +1,1 @@
+  more code style settings editor fixes: do not dispose panels on reset (do reset instead)  

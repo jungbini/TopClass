@@ -1,0 +1,1 @@
+  KT-1643 Don't overwrite Kotlin run configurations on every run #KT-1643 fixed  

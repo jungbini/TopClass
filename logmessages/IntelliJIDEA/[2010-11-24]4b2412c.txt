@@ -1,0 +1,1 @@
+  inplace run configuration fix for nav bar  

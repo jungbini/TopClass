@@ -1,0 +1,1 @@
+  check for negative offset #IDEA-145786 fixed  

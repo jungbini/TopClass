@@ -1,0 +1,1 @@
+  in debugger evaluation, java local variable is a possible target for a groovy reference. Let it not be  

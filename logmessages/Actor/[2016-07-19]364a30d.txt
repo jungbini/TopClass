@@ -1,0 +1,1 @@
+  feat,fix(groups): make group with shared history when short name set; allow group members to change group info by default  

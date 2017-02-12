@@ -1,0 +1,1 @@
+  Add "CreateTypeFix". The fix will be shown when an unqualified type name is an unresolved symbol.  

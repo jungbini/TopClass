@@ -1,0 +1,1 @@
+  xdebugger: added option to show 'debug' tool window only when debug process is suspended [rev by N.Matveev]  

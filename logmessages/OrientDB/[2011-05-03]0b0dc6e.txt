@@ -1,0 +1,1 @@
+  Committed patch of issue 307 by Tomas to bypass Java5 bug. This issue remains open since other steps are needed yet  

@@ -1,0 +1,1 @@
+  AntLoggerFactory inner class made static to fix NoSuchMethodException in Logger.setFactory  

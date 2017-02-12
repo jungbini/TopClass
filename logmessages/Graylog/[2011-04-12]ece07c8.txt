@@ -1,0 +1,1 @@
+  make starrtls_auto configurable via email.yml, fix wrong output of subscriptions task. NOT tested yet #NO_ISSUE  

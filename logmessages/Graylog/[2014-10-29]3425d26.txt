@@ -1,0 +1,1 @@
+  Pinned JavaScript build process to a specific react version (hopefully fixing build on travis)  

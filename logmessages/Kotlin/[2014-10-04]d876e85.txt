@@ -1,0 +1,1 @@
+  Added API for changing type ref for function/variable and refactored code in some quickfixes to use it  

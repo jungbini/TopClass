@@ -1,0 +1,1 @@
+  more bug fixes, cleanup, add beginRecord to PDF (bug #1227)  

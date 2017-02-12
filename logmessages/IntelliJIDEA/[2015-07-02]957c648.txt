@@ -1,0 +1,1 @@
+  change emmet edit points shortcut for old OSX keymap too #WEB-16977 fixed  

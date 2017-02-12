@@ -1,0 +1,1 @@
+  Script: fixed issue when variable had same name as functions  

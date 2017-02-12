@@ -1,0 +1,1 @@
+anch 'origin/master' into ZEPPELIN-1390 f5531ab [Jun] [ZEPPELIN-1390] Fix Python and R number versions 6ad8049 [Jun] [ZEPPELIN-1390] SparkInterpreter does not work for Spark2 version of HDP 2.5  

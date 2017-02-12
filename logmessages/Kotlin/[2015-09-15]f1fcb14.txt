@@ -1,0 +1,1 @@
+  Suppress warning intention fix: now multi declaration is not a possible intention target but its initializer is, relevant test fixes  

@@ -1,0 +1,1 @@
+  try field for extractor conditions  fixes #183  

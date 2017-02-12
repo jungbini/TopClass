@@ -1,0 +1,1 @@
+  @Override quick fixes: suggest to pull method up; pull members up, extract interface/superclass (IDEA-55720 )  

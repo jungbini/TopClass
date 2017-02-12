@@ -1,0 +1,1 @@
+  Additional fixes to CHANGES.txt to move jiras under the correct 2.x revision.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1466778 13f79535-47bb-0310-9956-ffa450edef68  

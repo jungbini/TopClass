@@ -1,0 +1,1 @@
+  - make MarkObject dialog appear faster - fix selection clearing after object was marked/unmarked  

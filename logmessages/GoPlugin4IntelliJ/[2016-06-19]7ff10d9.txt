@@ -1,0 +1,1 @@
+  Detected if defer and go calls are directly to recover or panic (fixes #2202)  

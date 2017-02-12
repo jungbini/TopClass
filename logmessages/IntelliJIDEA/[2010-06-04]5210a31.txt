@@ -1,0 +1,1 @@
+  store end offset for tokens in token index, fix bugs in token based search  

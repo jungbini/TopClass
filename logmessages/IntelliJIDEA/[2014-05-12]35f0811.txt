@@ -1,0 +1,1 @@
+  fixed PY-12915 No project interpreter found after project creation  

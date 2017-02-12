@@ -1,0 +1,1 @@
+ Fix bugs in MathUtils  The previous implementations of rootMeansSquaredError() and adjustedrSquared() were incorrect.  This is exactly the same as Canova/#110 and Canova/#111. Devs should consider removing MathUtils from either Canova or deeplearning4j.  

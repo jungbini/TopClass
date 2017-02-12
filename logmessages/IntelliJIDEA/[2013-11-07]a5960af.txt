@@ -1,0 +1,1 @@
+  java: no need to check package prefix for annotations on ref adjustment  

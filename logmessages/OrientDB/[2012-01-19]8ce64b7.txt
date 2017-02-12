@@ -1,0 +1,1 @@
+  Issue 678 was fixed.  

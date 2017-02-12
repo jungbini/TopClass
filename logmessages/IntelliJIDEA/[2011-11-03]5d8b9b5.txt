@@ -1,0 +1,1 @@
+  fixed PY-4218 Test runner incorrectly shows passing run when py.test gets an error collecting  

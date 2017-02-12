@@ -1,0 +1,1 @@
+  fix RoutesCompileIntegrationTest with Play 2.4.0  

@@ -1,0 +1,1 @@
+  REVIEW-1396: fixed docs for `IdeaProject.projectLibraries` defaults  

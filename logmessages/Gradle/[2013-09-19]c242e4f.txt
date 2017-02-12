@@ -1,0 +1,1 @@
+  Support multiple build type variants for each native component  - Added buildType type and container - buildType is named and has a 'debug' property - Default to a single 'debug' build type - Create a native binary variant for each build type - Currently no automatic settings for a build type - Very basic integration test for build types  

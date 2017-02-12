@@ -1,0 +1,1 @@
+  HBASE-1887 Update hbase trunk to latests on hadoop 0.21 branch so we can all test sync/append; some more fixes  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@822596 13f79535-47bb-0310-9956-ffa450edef68  

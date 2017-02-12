@@ -1,0 +1,1 @@
+  KT-7021 Don't mark companion object as unused if some stuff from it is used  #KT-7021 fixed  

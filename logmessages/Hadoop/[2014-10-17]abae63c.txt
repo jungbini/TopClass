@@ -1,0 +1,1 @@
+  YARN-2699. Fixed a bug in CommonNodeLabelsManager that caused tests to fail when using ephemeral ports on NodeIDs. Contributed by Wangda Tan.  

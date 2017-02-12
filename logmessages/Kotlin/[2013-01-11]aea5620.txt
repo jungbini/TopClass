@@ -1,0 +1,1 @@
+  Simplified code.  #KT-2601 fixed  

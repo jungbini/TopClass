@@ -1,0 +1,1 @@
+ bug fix. - do not loading automatically transaction detail view.  

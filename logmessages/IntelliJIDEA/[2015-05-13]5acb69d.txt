@@ -1,0 +1,1 @@
+  drop markers when caret set changes #WEB-16069 fixed  

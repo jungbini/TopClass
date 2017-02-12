@@ -1,0 +1,1 @@
+  fixed bug. lastmeta data may be null in certain cases  

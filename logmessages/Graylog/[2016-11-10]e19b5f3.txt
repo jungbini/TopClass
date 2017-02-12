@@ -1,0 +1,1 @@
+ added `resolved_at` fields are persisted as Date instances, keeping consistency with the data already stored in the collection.  * Add is_interval field to Alert  We need a way to 

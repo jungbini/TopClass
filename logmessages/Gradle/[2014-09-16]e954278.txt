@@ -1,0 +1,1 @@
+  Fix for CheckstylePluginIntegrationTest.is incremental sporadically failing (fixing incorrect class names)  +review REVIEW-5194  

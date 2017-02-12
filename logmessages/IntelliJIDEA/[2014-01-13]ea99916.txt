@@ -1,0 +1,1 @@
+  IDEA-21297 Debugger does not react to "F2" key which should open "Set Value" dialog  apply F2 shortcut to quick evaluate as well  

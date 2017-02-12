@@ -1,0 +1,1 @@
+  fixed PY-2809 After installing unittest2, setUpClass/tearDownClass not called  

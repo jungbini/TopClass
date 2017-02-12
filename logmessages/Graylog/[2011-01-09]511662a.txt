@@ -1,0 +1,1 @@
+  work better with structured messages. now using host from message if set. also fixing bug causing wrong severity in some cases. still very beta. will be tested by some users who have problems with structured users  

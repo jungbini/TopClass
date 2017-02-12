@@ -1,0 +1,1 @@
+ Merge pull request #1651 from eclipse/support-local-address-for-tcp-clients  Support local address for TCP clients - fixes #1569  commit e3affd7fcb286bd393336ae1c7574db944a1ef6d  Improve HttpClientRequest reset support - fixes #1642  

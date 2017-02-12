@@ -1,0 +1,1 @@
+  Do not cache ignored file hashes.  Summary: DefaultFileHashCache caches hashes for input files and invalidates them based on file changes. If it caches hashes for ignored files this causes problems as those cached hashes will never be invalidated. This change stops DefaultFileHashCache caching the hashes for ignored files to fix the problem.  Test Plan: buck test --all  

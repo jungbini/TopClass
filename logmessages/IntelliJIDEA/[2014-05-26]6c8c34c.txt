@@ -1,0 +1,1 @@
+  avoid assert on IDE close with active debug session  

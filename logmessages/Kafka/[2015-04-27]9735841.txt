@@ -1,0 +1,1 @@
+  KAFKA-2121 Follow-up: minor bug fix as pointed out by Sean Lydon  

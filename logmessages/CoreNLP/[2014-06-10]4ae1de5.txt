@@ -1,0 +1,1 @@
+  move findSrcAvgPos to PhraseAlignment, add PhraseAlignmentTest, fix cases where there is no internal alignment, rename NPLMFeaturizer to SrcNPLMFeaturizer  

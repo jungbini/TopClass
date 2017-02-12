@@ -1,0 +1,1 @@
+  Fixed bug on using operator [] and added one more test case  

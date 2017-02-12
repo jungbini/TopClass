@@ -1,0 +1,1 @@
+  Fix for MakeOverriddenMemberOpenFix  Fixes bugs which led to BindingContextUtils#descriptorToDeclaration throwing exception  

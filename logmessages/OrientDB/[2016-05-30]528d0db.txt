@@ -1,0 +1,1 @@
+  SQL: fixed issue on calling gremlin function with no targer  Example: `select expand( gremlin( "g.V().has('@class', 'Person').order{it.a.name <=> it.b.name}[0..9]" ) )`  

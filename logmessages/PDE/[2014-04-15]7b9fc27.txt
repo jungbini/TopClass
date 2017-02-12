@@ -1,0 +1,1 @@
+  paper over Oracle Java bug for user.dir #2181  

@@ -1,0 +1,1 @@
+  simplify flip comma intention, fix it for groovy, merge PR #359 from github  

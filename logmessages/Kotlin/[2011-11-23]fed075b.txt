@@ -1,0 +1,1 @@
+  fix DescriptionRenderer failure if FunctionDescriptor.getReturnType returns null  

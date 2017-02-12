@@ -1,0 +1,1 @@
+  netatmo: fix logic for rf and battery level to match the levels that are (#4910)  displayed with the apps.  

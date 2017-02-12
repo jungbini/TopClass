@@ -1,0 +1,1 @@
+  fix process declaration of static import of property  

@@ -1,0 +1,1 @@
+  fix PY-1509 Debug variable inspection pane/tree does not support MultiValueDict  

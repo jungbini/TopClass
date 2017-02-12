@@ -1,0 +1,1 @@
+  fix android cross parser tests  - reorganize tests folder structure - fix class attribute ignored in ide xml parser  

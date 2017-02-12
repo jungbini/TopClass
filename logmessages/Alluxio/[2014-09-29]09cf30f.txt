@@ -1,0 +1,1 @@
+ Merge pull request #458 from hsaputra/smallfixes_logging  Simple cleanups for Tachyon logging.  commit 09cf30fa0023aceb26e7f3ff7315a63fe5ed72ae  Simple fixes for logging: 1. Change LOG to private final static in BlockHandlerLocal class. 2. Change access to LOG via static object instead of via instance variable. 3. Fix extra space in logging message.  

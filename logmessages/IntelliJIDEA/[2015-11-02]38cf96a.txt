@@ -1,0 +1,1 @@
+  IDEA-147048 Improve version selection for 'add missing dependency to pom.xml' quick fix  

@@ -1,0 +1,1 @@
+  generic debugger settings: step 3  root settings (Debugger node content)  Java transformed  AppCode is not yet supported  must be one page instead of node -> data views.  

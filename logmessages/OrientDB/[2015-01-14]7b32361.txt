@@ -1,0 +1,1 @@
+  fixed multivalue manual index insert, issue #2741  

@@ -1,0 +1,1 @@
+  fix IncorrectOperationException on character literal with unescaped double quote  

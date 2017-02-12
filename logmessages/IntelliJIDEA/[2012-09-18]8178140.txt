@@ -1,0 +1,1 @@
+  ensure only one thread is scheduling index rebuild (fixes deadlock in tests)  

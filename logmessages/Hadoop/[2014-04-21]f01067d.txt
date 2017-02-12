@@ -1,0 +1,1 @@
+  svn merge -c 1588970 merging from trunk to branch-2 to fix:HADOOP-10526. Chance for Stream leakage in CompressorStream. Contributed by Rushabh Shah.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1588971 13f79535-47bb-0310-9956-ffa450edef68  

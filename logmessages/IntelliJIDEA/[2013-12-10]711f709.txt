@@ -1,0 +1,1 @@
+  IDEA-117989 JUnit: Run/Debug java test output "scroll to stacktrace" not working as expected  

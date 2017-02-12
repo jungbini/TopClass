@@ -1,0 +1,1 @@
+  fixed PY-8490 Change signature: validation error about missing default value is not shown once some of the parameter is selected  

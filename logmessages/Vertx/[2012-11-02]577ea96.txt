@@ -1,0 +1,1 @@
+  Fix JsonArray.equals to succeed when JsonObjects are in the array.  Previously, there was a bug that the self item would be a HashMap but the other item would be a JsonObject.  

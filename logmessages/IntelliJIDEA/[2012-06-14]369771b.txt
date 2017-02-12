@@ -1,0 +1,1 @@
+  RUBY-11320: ERB_RAW_EXPRESSION_START can also start ruby expression so we must filter out errors if next element is ERB_RAW_EXPRESSION_START #RUBY-11320 fixed  

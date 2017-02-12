@@ -1,0 +1,1 @@
+  Copy over the JSDoc when extracting a class. This fixes cases like the one reported at https://github.com/google/closure-compiler/pull/1871 ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=126432293  

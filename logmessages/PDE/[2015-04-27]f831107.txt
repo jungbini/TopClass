@@ -1,0 +1,1 @@
+  fix getComponent() in AWT, tweak JOGL to compile properly  

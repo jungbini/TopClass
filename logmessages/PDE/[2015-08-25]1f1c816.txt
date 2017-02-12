@@ -1,0 +1,1 @@
+ FX - fix AIOOBE when pressing ESC on Mac  

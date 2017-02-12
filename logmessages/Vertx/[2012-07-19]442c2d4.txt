@@ -1,0 +1,1 @@
+ Merge pull request #294 from dsklyut/master  fix in installApp gradle task.  commit 442c2d473c5051d66d5899b24dd8944af0e2dc52  fix in installApp gradle task.  missing separator in dest dir  

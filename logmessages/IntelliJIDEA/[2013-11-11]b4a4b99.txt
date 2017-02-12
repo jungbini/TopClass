@@ -1,0 +1,1 @@
+  temporary fix for layouts of small IDEs  

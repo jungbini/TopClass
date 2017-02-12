@@ -1,0 +1,1 @@
+  fixed starting app engine on mac for jdk 1.6.0_24 (IDEA-69684)  

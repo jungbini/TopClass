@@ -1,0 +1,1 @@
+  Use precompiled headers when prefix header is set.  Summary:This adds support for precompiled headers on toolchains that supports it (currently clang). When compiling in combined mode, and prefix header exists, a pch file is generated from it for each language and each combination of compiler flags.  The pch file is not cached due to it being 

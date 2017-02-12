@@ -1,0 +1,1 @@
+  Further changes to test fixtures:  - Don't start isolated daemons with the massive heap settings that are used for the shared daemon. - Start all build processes with `-ea`. - Validate that when a test explicitly requests a daemon, that these daemons are isolated from the other tests.  

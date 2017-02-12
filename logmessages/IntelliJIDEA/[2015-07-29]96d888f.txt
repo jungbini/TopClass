@@ -1,0 +1,1 @@
+  [ui] fixes app activation/deactivation tracking via window focus events (IDEA-142728)  

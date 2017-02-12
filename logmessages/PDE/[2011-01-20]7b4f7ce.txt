@@ -1,0 +1,1 @@
+  initial steps toward fixing up android mode again  

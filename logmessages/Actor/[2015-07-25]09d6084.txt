@@ -1,0 +1,1 @@
+  loc(iOS): App name translation, fix zh core translation  

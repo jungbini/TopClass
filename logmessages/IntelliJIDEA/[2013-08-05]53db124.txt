@@ -1,0 +1,1 @@
+  fixed EA-46972 - IAE: LookupElementBuilder.create  

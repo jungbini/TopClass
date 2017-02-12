@@ -1,0 +1,1 @@
+  IDEA-33331 (Inspection String.equals("") on JDK 5 or up should use String.isEmpty in quickfix)  

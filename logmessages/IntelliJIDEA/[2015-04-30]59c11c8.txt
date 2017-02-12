@@ -1,0 +1,1 @@
+  parse html comments according to html5 #WEB-14928 fixed  

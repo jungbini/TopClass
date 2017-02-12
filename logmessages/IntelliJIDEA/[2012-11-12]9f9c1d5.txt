@@ -1,0 +1,1 @@
+  logging and minor fixes for helper upload and skeleton download  

@@ -1,0 +1,1 @@
+  fix add that should have been addAll.  patch by Jaakko Laine; reviewed by jbellis for CASSANDRA-603  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@890507 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  move service registration to correct place (fixes exception on attach module)  

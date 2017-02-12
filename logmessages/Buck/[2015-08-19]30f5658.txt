@@ -1,0 +1,1 @@
+  Fix Makefile Parser on Windows  Summary: The parser didn't handle Windows-style newlines.  This change fixes it to handle them on any platform.  Test Plan: `ant test -D"test.class"="MakefilesTest"`  

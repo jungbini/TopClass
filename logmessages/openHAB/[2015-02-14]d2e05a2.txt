@@ -1,0 +1,1 @@
+  Fix bug with queuing messages to non-listening devices Low priority messages were not queued, but were sent immediately!  

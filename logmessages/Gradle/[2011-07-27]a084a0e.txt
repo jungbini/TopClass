@@ -1,0 +1,1 @@
+  [ToolingAPI for IDEA] More fixes to the sample, relaxed the assertions in the samples test, fixed generic return types.  

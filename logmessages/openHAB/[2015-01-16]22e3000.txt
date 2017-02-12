@@ -1,0 +1,1 @@
+ Merge pull request #1977 from Flowdalic/xmpp  Improve XMPP action, add support for java-pinning and fix #967  commit 22e30006db815a302631e823d4fbd95a9d030105  influxdb persistence bugfix for issue 1879 https://github.com/openhab/openhab/issues/1879 fixed page handling  

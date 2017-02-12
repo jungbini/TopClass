@@ -1,0 +1,1 @@
+  fixed PY-10777 super() should be allowed for PyQT classes  

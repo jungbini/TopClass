@@ -1,0 +1,1 @@
+  fixed [IDEA-62275] In dumb mode check whether TestLocationProvider implements DumbAware  

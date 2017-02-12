@@ -1,0 +1,1 @@
+  Fixed bug on parsing SQL UPDATE with maps between SET clause  

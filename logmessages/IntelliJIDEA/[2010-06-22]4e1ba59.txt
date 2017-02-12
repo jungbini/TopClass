@@ -1,0 +1,1 @@
+  content manager selection change fix when app is inactive + RunnerLayer requests attention on app icon  

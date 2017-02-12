@@ -1,0 +1,1 @@
+  Support Maven 3 Bug fix (avoid NPE)  

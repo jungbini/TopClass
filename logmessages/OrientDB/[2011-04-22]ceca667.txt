@@ -1,0 +1,1 @@
+  - fixed bug on usage of LONG type in queries - auto conversion of big Integers in Longs - auto conversion to long of date in queries when compare a date field with a number  

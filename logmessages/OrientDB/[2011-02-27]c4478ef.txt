@@ -1,0 +1,1 @@
+  Fixed test bug when the storage remained open  

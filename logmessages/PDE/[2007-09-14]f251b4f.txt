@@ -1,0 +1,1 @@
+  fix for bug #606, and minor tweak to openStream gz stuff  

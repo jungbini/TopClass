@@ -1,0 +1,1 @@
+  IDEA-59608 The ordering of Run/Debug configurations seems to change randomly  

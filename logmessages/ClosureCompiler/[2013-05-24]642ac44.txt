@@ -1,0 +1,1 @@
+  Add scrollIntoViewIfNeeded fixes issue 1006 R=blickly  

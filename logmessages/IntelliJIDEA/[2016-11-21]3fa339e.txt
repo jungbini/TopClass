@@ -1,0 +1,1 @@
+  IDEA-164016 Replace Optional.isPresent() checks with functional-style expressions fix produces non-compilable code  

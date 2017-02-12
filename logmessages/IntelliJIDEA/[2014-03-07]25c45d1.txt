@@ -1,0 +1,1 @@
+  added rename quick fix to the protected member inspection  

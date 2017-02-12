@@ -1,0 +1,1 @@
+  fix broken stream graph range selection  fixes #WEBINTERFACE-219  

@@ -1,0 +1,1 @@
+ add ability to execute scratch files, fix #1544 generate unique suffix + go extension before execution  

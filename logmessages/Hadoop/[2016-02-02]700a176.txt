@@ -1,0 +1,1 @@
+  HADOOP-12757. Findbug compilation fails for 'Kafka Library support'. (aajisaka)  

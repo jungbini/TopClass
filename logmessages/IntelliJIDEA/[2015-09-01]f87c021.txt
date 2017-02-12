@@ -1,0 +1,1 @@
+  LongLineInspection fixed to doesn't process injected code (IDEA-144554)  

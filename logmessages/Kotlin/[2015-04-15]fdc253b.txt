@@ -1,0 +1,1 @@
+  Bugfix: support several resource directories in AndroidPsiTreeChangePreprocessor  

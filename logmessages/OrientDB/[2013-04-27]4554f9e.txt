@@ -1,0 +1,1 @@
+ freeze during creation class on first access was fixed and tested deregisterClass method was added fix typo in 2q test removing class from local cache if class was removed from db was added  

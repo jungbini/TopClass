@@ -1,0 +1,1 @@
+  Moved some test fixture code to the test sources.  

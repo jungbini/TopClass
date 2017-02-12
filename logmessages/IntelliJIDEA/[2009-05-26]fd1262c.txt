@@ -1,0 +1,1 @@
+  "Hide side" fix when no editor open  

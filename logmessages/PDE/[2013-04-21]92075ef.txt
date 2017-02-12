@@ -1,0 +1,1 @@
+  Made PGL object static, removed references to parent and renderer in Texture and FrameBuffer object, fixed PGraphicsOpenGL.dispose()  

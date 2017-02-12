@@ -1,0 +1,1 @@
+  tiny fix for a NPE when sketch.properties is there but lacks server.port in js mode  

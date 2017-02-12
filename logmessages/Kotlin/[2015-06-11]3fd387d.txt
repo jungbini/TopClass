@@ -1,0 +1,1 @@
+  JS/RTTI: support unsafe casts  #KT-2670 fixed  

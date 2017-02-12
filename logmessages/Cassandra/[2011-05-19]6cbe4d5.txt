@@ -1,0 +1,1 @@
+  merge fix for CASSANDRA-2481   git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7.6-2@1124945 13f79535-47bb-0310-9956-ffa450edef68  

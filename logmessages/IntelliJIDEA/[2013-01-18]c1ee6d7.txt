@@ -1,0 +1,1 @@
+  Test framework dependencies fixed so that platform prefix autodetection actually works  

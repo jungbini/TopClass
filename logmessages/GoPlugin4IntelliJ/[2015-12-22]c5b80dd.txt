@@ -1,0 +1,1 @@
+  Introduce inspection for range iteration on illegal type (fixes #1847)  

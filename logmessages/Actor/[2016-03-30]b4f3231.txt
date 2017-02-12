@@ -1,0 +1,1 @@
+  fix(android): downgrade android support libs - fix memory leaks  

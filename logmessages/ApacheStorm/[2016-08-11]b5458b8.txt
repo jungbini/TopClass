@@ -1,0 +1,1 @@
+  Fix parent version of storm-druid and storm-kinesis  * during the rollback they still keep versions since it's manually fixed after the release process  

@@ -1,0 +1,1 @@
+  Fix to a bug in the intention to move lambda expressions inside parentheses, type arguments were being deleted  

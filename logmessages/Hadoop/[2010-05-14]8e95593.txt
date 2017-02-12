@@ -1,0 +1,1 @@
+  HBASE-2551 Forward port fixes that are in branch but not in trunk (part of the merge of old 0.20 into TRUNK task) -- part 1  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@944510 13f79535-47bb-0310-9956-ffa450edef68  

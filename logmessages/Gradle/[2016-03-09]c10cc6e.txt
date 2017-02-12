@@ -1,0 +1,1 @@
+  Block symlink creation on Windows.  +review REVIEW-5852 - Part of fixing GRADLE-2891 - We really don't want to create symlinks even when it is technically supported by the operating system.  

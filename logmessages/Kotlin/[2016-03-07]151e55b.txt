@@ -1,0 +1,1 @@
+  Use descriptors for building SAM constructors  It helps to get rid of semantics duplicating and fixes known bugs  - SOE in OnlyAbstractMethodFinder.find - type enhancement for SAM constructors  #KT-11287 Fixed #KT-11322 Fixed EA-77989 Fixed  

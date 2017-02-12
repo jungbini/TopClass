@@ -1,0 +1,1 @@
+  fixes #611 part2 also work with sbt projects  

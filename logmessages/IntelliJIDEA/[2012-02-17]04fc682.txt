@@ -1,0 +1,1 @@
+  Quickfix for adding imported package to requirements.txt or setup.py  

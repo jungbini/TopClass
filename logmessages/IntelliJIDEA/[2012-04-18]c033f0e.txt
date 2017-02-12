@@ -1,0 +1,1 @@
+  IDEA-80976 fix 'clear log before launch' option  

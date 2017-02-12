@@ -1,0 +1,1 @@
+  IDEA-CR-7907: move java-specific Git cloud's detection to dedicated module - fix community build  

@@ -1,0 +1,1 @@
+  EA-40521: added more assertions and debug information plus rearranging the code to make adding text to history more atomic  

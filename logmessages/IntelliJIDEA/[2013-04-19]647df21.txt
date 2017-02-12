@@ -1,0 +1,1 @@
+  [vcs] Unversioned Dialog: reuse existing actions  Extension of the fix for IDEA-105068: instead of creating new instances of actions, use existing ones. Delete action should have a separate icon, so create a separate presentation for it. It fixes IDEA-67408.  

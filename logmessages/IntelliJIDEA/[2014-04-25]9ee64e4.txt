@@ -1,0 +1,1 @@
+  fix "go to source/type"  XSourcePosition doesn't provide column number, so, we must override createNavigatable  

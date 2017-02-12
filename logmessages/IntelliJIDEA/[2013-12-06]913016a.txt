@@ -1,0 +1,1 @@
+  rename & injections (fix for InjectedLanguageEditingTest.testRenameInPlaceDoesCorrectRangeMarking)  

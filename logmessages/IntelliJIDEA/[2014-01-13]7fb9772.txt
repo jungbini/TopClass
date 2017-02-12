@@ -1,0 +1,1 @@
+  fixed PY-11800 Parameter unfilled false positive for decorators with '*' arguments.  

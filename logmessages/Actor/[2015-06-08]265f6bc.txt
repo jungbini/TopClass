@@ -1,0 +1,1 @@
+  fix(iOS): Better navigation bar color on profiles  

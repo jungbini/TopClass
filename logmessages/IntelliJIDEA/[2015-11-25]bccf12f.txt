@@ -1,0 +1,1 @@
+  explicit inheritance for color attributes #RUBY-17395 fixed  

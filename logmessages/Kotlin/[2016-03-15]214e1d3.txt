@@ -1,0 +1,1 @@
+  Simplify comparison fix introduced #KT-10509 Fixed  

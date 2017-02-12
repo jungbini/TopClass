@@ -1,0 +1,1 @@
+  fixed GRADLE-1461: serverUrl property of sonar task is ignored  

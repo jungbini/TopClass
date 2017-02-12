@@ -1,0 +1,1 @@
+  Add project awareness to buck watchman interaction  Summary: This makes buck use watchman's ability to watch entire repositories, but only return results relative to a certain project path. This is needed because some operating systems have a finite amount of filesystem event subscriptions, and having both buck and source control watching the tree from 

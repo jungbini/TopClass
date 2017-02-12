@@ -1,0 +1,1 @@
+  reparse python files if analyze docstring settings changed rerun code analyze on apply fix a PY-8925 "Analyze Python code in docstrings" check box always returns to selected state  

@@ -1,0 +1,1 @@
+  used a simple implementation of withIndices() which offers a more consistent API (lists are easier to use than Iterables) and works around a JS generation bug so that ListTest now works in JS in a browser (though not, alas, in selenium/rhino/htmlunit)  

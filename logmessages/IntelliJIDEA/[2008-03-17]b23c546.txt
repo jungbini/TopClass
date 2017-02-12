@@ -1,0 +1,1 @@
+  xdebugger: ability to cancel unneeded computations & watches view, initial  

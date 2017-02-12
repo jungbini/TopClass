@@ -1,0 +1,1 @@
+  fix a smart pointer race (EA-87466 - assert: SmartPointerManagerImpl$FilePointersList.removeReference)  when adding a new pointer reference, resize could empty the pointer list and unregister it  

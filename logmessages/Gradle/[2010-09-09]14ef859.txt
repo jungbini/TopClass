@@ -1,0 +1,1 @@
+  - Some fixes for logging system changes in master branch - The -d, -i and -q command-line options now work  

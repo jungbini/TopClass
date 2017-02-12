@@ -1,0 +1,1 @@
+  Diagnostic message fixed for 'PRIVATE_SETTER_FOR_OPEN_PROPERTY'  

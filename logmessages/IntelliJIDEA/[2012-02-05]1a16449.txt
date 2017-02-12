@@ -1,0 +1,1 @@
+  RI: fixed flavor detection for Windows.  

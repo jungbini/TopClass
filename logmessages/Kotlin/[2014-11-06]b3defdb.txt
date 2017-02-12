@@ -1,0 +1,1 @@
+  JS tests: create JetFiles by JetPsiFactory instead of by PsiManager to avoid to access to PsiManager after it disposed.  That fixed js tests after changes in DiagnosticsWithSuppression.  

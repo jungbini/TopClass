@@ -1,0 +1,1 @@
+  fixing hpricot's off-by-one bug with nth-and-friends.  

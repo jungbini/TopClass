@@ -1,0 +1,1 @@
+  fix(iOS): Disabling mint because it is still doesn't support bit code  

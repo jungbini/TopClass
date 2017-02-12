@@ -1,0 +1,1 @@
+  fix bug in TransactionalSpoutBatchExecutor where cleanup could happen before the new metadata is saved  

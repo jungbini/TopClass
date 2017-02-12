@@ -1,0 +1,1 @@
+  getUseScope() fixed for destructuring declarations #KT-14181 Fixed  

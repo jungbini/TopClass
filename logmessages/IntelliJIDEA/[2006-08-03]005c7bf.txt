@@ -1,0 +1,1 @@
+  enabled "Make Method Varargs" intention and fixed some bugs in it. all predicates now have package access  

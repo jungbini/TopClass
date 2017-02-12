@@ -1,0 +1,1 @@
+  IDEA-121621 Java 1.8: "Replace with collect" quick fix inserts unresolved method reference  

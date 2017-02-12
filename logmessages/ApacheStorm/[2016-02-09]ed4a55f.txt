@@ -1,0 +1,1 @@
+  STORM-1520 Nimbus Clojure/Zookeeper issue ("stateChanged" method not found)  * fix a bug which passes wrong type of parameter to ClusterStateListener.stateChanged() * we passed ConnectionState from Curator which method needs storm's ConnectionState  

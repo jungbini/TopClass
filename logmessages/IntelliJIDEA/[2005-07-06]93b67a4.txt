@@ -1,0 +1,1 @@
+  performance problem fixed - Locale creation is too damn slow  

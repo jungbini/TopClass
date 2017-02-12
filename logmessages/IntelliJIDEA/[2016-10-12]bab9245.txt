@@ -1,0 +1,1 @@
+  [devkit] PropertyKeyReferenceProvider: fallback to resolve bundle in projectScope if not resolved in module scope  this fixes some problems in IJ project  

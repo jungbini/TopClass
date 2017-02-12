@@ -1,0 +1,1 @@
+  ImmediatePainter: caret count threshold (#IDEA-163905 fixed)  

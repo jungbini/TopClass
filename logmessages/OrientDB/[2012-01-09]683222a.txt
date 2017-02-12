@@ -1,0 +1,1 @@
+  Avoided to format message if log debug is disabled  

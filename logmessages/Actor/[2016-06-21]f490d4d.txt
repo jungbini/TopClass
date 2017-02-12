@@ -1,0 +1,1 @@
+  fix(core+ios): Force renegotiation needed after streams change, work-around for video source receiving in iOS  

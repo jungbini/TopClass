@@ -1,0 +1,1 @@
+  Regression: WordVectorsImpl#readBinaryModel() can't read GoogleNews-vectors #396 - fix for #390 reverted.  

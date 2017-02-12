@@ -1,0 +1,1 @@
+  fixed popup selection (inpacts evaluation dialog)  

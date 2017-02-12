@@ -1,0 +1,1 @@
+ show loading indicator when widget data has not been loaded yet  - fix initial rendering for graph, histogram and numeric visualizations  fixes #1324  

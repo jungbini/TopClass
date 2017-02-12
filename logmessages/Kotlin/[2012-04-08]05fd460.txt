@@ -1,0 +1,1 @@
+  Replaced diagnostic factories so they show type FQ names instead of short names.  #KT-1137 fixed  

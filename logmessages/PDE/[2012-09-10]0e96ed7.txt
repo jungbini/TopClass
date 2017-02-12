@@ -1,0 +1,1 @@
+  fix up key event handling (issue #1225)  

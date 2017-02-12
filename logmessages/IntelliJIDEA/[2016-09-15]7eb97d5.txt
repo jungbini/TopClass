@@ -1,0 +1,1 @@
+  [platform] fixes IDE launch from a bin/ directory on Unix (IDEA-161265)  

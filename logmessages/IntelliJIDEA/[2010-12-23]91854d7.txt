@@ -1,0 +1,1 @@
+  new "String concatenation argument in call to 'format()'" inspection, fixes IDEA-57528  

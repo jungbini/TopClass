@@ -1,0 +1,1 @@
+  fixed [RUBY-8864] Column mode hotkey combination doesn't work on OSX  

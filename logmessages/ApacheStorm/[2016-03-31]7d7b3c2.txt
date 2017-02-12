@@ -1,0 +1,1 @@
+ Showing tooltip on Debug button only when disabled and event loggers are disabled. Also enable/disable of Debug button along with toltip in component page  

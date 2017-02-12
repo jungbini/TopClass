@@ -1,0 +1,1 @@
+  Bug [ruby-4502] (ClassCast in RFileUtil) fixed  

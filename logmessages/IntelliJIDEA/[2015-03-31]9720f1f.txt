@@ -1,0 +1,1 @@
+  fix IDEA-131109 White text on white background in dialogs  

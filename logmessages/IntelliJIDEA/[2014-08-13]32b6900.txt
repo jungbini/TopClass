@@ -1,0 +1,1 @@
+  EDIDE-122 reloading empty file fixed  

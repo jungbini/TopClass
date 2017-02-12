@@ -1,0 +1,1 @@
+  don't invoke the quick fix for qualified references  

@@ -1,0 +1,1 @@
+  allow to use log4j-extras classes in log configuration  our documentation refers to contrib classes, which, if referenced as documented, prevent proper appender configuration make log4j:apache-log4j-extras available to bootstrap module  fixes #1042  

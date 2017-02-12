@@ -1,0 +1,1 @@
+  fixed PY-4693 "Create test" has empty lines in the list of methods  

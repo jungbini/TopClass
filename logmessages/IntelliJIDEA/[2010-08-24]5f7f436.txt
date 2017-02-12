@@ -1,0 +1,1 @@
+  UI: expandable items bug fix  

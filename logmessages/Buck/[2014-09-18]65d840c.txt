@@ -1,0 +1,1 @@
+  Bump args4j to the latest release.  Summary: We're lagging behind the latest release and didn't include the source jar, so debugging command line parsing problems is tricky.  Test Plan: buck test --all  

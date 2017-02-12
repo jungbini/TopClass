@@ -1,0 +1,1 @@
+ Resorting from clearing metrics registrations to checking if logged in.  This fixes the issue where global throughput is not shown anymore after a logout/login-cycle, which is caused by cleared metrics not being re-registered due to single initialisation of GlobalThroughputStore.  Fixes #1876  

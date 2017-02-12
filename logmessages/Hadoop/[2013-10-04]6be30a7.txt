@@ -1,0 +1,1 @@
+  YARN-1219. FSDownload changes file suffix making FileUtil.unTar() throw exception. Contributed by Shanyu Zhao.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1529084 13f79535-47bb-0310-9956-ffa450edef68  

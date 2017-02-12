@@ -1,0 +1,1 @@
+  Bugfix  * Show "Error:" in front of an Error result * Add CSS to resemble the look of the old shell.  

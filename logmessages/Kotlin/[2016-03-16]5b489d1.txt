@@ -1,0 +1,1 @@
+  Debugger: use StackFrameProxy from IDEA instead of StackFrame from JDI to show error message when debug info in corrupted #EA-76187 - IE: FrameVisitor.findLocalVariable Fixed  

@@ -1,0 +1,1 @@
+  correctly fix self references when moving one of several classes in a file to a 

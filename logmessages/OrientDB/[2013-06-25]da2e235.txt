@@ -1,0 +1,1 @@
+  SQL: fixed out() and in() to get dynamic parameters  

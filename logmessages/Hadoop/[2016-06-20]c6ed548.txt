@@ -1,0 +1,1 @@
+  HDFS-10547. DiskBalancer: fix whitespace issue in doc files. Contributed by Anu Engineer.  

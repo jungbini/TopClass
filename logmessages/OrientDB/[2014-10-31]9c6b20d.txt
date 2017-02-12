@@ -1,0 +1,1 @@
+  fixed database drop from console after server restart, issue #2918  

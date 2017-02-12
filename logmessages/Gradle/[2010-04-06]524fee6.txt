@@ -1,0 +1,1 @@
+  - Some fixes to case in user guide  

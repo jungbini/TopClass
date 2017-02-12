@@ -1,0 +1,1 @@
+  HDFS-988. Fix bug where savenameSpace can corrupt edits log. (Nicolas Spiegelberg via dhruba)    git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-append@953184 13f79535-47bb-0310-9956-ffa450edef68  

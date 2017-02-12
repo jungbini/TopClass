@@ -1,0 +1,1 @@
+  fixed PY-2656 "Convert double quoted string to single quoted" intention incorrectly changes escaped quotes inside the string  

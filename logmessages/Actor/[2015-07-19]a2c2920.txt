@@ -1,0 +1,1 @@
+  fix(iOS): Background fetching, notification tap, added sync progress bar  

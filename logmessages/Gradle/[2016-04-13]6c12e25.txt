@@ -1,0 +1,1 @@
+  GRADLE-3275, GRADLE-3434: Recursively expand union rules when processing intersections of excluded build tokens, to fix user reports of clashes between exclusions and transitive dependencies in their build files.  +review  

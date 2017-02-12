@@ -1,0 +1,1 @@
+  NPE related to ColoredOutputTypeRegistry was fixed  

@@ -1,0 +1,1 @@
+  java fixing (segv)Exception when called with non-document  

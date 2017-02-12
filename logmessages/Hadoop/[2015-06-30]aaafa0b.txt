@@ -1,0 +1,1 @@
+  HADOOP-12159. Move DistCpUtils#compareFs() to org.apache.hadoop.fs.FileUtil and fix for HA namespaces (rchiang via rkanter)  

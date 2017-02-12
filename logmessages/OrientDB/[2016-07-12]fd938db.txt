@@ -1,0 +1,1 @@
+  NPE in develop branch on fuzzy checkpoint was fixed.  

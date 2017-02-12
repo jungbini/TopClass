@@ -1,0 +1,1 @@
+  Test for IllegalArgumentException bug from JVM backend (KT-6149)  JVM backend fails with IllegalArgumentException: Argument for @NotNull parameter 'descriptor' of org/jetbrains/jet/codegen/PropertyCodegen.gen must not be null  #KT-6149 Fixed  

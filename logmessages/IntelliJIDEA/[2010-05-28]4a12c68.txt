@@ -1,0 +1,1 @@
+  fixed computation of reference provider with maximum priority [rev by max]  

@@ -1,0 +1,1 @@
+  Fix lint errors of IntelliJ plguin.  Summary: Add plugin directory into lint directories in `build.xml` and fix all lint errors.  Test Plan: ant lint  

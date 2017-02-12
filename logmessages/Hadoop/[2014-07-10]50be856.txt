@@ -1,0 +1,1 @@
+  YARN-2088. Fixed a bug in GetApplicationsRequestPBImpl#mergeLocalToBuilder. Contributed by Binglin Chang  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1609584 13f79535-47bb-0310-9956-ffa450edef68  

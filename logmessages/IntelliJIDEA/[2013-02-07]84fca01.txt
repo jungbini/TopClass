@@ -1,0 +1,1 @@
+  [vcs] "Filter update info by scope" action fixes  * Remember the filter state in the settings. * Let it show (but disable) even if filtering is turned off. * Set action description.  

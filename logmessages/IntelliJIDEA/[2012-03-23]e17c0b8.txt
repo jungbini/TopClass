@@ -1,0 +1,1 @@
+ RI: fixed cleaning of skeletons.  

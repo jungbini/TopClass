@@ -1,0 +1,1 @@
+  IDEA-107276: XSLT Run/Debug does not create output file  

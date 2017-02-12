@@ -1,0 +1,1 @@
+  git log: sometimes it forgets to refresh (due to stopping previous task) -> fixed  

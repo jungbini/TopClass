@@ -1,0 +1,1 @@
+ Merge pull request #4073 from dbadia/fixes  Trailing whitespace fixes per new IDE setup  commit a9d0c1671f2ce196f48db3b1f7495fb00b758deb  Freebox binding: fix FTP config compatibility with firmware 3.3  

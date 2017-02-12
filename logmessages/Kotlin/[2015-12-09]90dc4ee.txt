@@ -1,0 +1,1 @@
+  adding generation states destroying to module-based compilation, to fix kapt usage with this compilation path  

@@ -1,0 +1,1 @@
+  More fixes for #1338: Add a new AtmosphereResource.forceBinaryWrite API  

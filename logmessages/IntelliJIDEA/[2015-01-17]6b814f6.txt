@@ -1,0 +1,1 @@
+  SSR: fix speed search in Used Templates History  

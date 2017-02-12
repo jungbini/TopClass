@@ -1,0 +1,1 @@
+  fix get (not get_slice) of entire supercolumn.  patch by jbellis; reviewed by Stu Hood for CASSANDRA-508  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.4@830569 13f79535-47bb-0310-9956-ffa450edef68  

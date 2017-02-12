@@ -1,0 +1,1 @@
+  Introduce our own AbstractIterator, that is easier for debugging  patch by benedict; reviewed by ariel for CASSANDRA-9985  

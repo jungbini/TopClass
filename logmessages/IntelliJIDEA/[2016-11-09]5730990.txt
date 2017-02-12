@@ -1,0 +1,1 @@
+  Do not open classes view when debug session is not for jvm application  

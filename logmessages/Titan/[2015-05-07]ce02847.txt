@@ -1,0 +1,1 @@
+  Fix ConfigElement.getPath bug when including root  

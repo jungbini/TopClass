@@ -1,0 +1,1 @@
+  remove datasource from hadoop output path (#3196)  fixes #2083, follow-up to #1702  

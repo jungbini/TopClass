@@ -1,0 +1,1 @@
+  create module library from files: use LinkedHashMap to fix blinking tests  

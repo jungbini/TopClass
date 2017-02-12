@@ -1,0 +1,1 @@
+ Merge branch 'hotfix-1.6.1' of https://github.com/orientechnologies/orientdb into hotfix-1.6.1  commit f27ea6037951d78b819e836c44d7c678765e28b2  Merge branch 'develop' of https://github.com/orientechnologies/orientdb into hotfix-1.6.1  commit 9675f175a6de1a500fa024e1f9b07f4d4d4cfeee  Compile error was fixed.  

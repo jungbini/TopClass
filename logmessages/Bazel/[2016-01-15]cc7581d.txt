@@ -1,0 +1,1 @@
+  Actually fix test_fetch to not errexit by ls-ing a non-existent directory  Fixes #769.  -- Change-Id: I085b0a9c9faed45bee8cf4185a71531b95a66e14 Reviewed-on: https://github.com/bazelbuild/bazel/pull/779 MOS_MIGRATED_REVID=112228906  

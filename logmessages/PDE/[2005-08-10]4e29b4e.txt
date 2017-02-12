@@ -1,0 +1,1 @@
+  patch fix for console bug #118 from david mellis.  

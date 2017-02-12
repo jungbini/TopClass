@@ -1,0 +1,1 @@
+ Merge pull request #1585 from guobingkun/fix_transient_error  Fix transient error in BrokerServerViewTest  commit 479b09c2ddc6b27992df25ee1f251a2dd0eb8d12  fix transient error in BrokerServerViewTest  

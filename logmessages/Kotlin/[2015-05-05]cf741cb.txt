@@ -1,0 +1,1 @@
+  Enum parsing changed: first entries, then members. Grammar fixed accordingly.  A set of compiler tests and some plugin tests changed accordingly. Compiler Kotlin code changed accordingly.  

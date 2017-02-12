@@ -1,0 +1,1 @@
+  fixed issues #2898 and #2893 about index usage with OR operator  

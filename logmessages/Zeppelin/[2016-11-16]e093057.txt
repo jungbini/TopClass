@@ -1,0 +1,1 @@
+back, fix path 78e7907 [Khalid Huseynov] add note about sparkmaster to each section 887b499 [Khalid Huseynov] update docker file path yarn mode 9e4ad68 [Khalid Huseynov] add sparkmaster hostname note  

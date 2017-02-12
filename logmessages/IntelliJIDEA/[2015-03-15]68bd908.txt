@@ -1,0 +1,1 @@
+  scrollToEnd in pooled thread assertion fix  

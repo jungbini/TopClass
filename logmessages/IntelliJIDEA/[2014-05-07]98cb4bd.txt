@@ -1,0 +1,1 @@
+  java-xdebugger: display object id and correct string coloring  

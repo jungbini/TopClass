@@ -1,0 +1,1 @@
+  Build.log file should be written in a directory relative to the project root.  Summary: I am working on writing integration tests to verify only certain rules get rebuilt. To do that, I parse `buck-out/bin/build.log`. This was not working because the build.log was being created in ~/devtools/buck and not the temporary folder created for the test. This fixes it.  

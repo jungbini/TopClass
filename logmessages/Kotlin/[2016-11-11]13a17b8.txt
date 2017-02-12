@@ -1,0 +1,1 @@
+  Use 162.SNAPSHOT builds for IDEA to pick up fix for IDEA-162379  

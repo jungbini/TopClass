@@ -1,0 +1,1 @@
+  deadlock fix: don't init UI components when initializing StringDescriptorInspection  

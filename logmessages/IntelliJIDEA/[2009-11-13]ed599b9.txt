@@ -1,0 +1,1 @@
+  calculate prefix for path completion contributor properly  

@@ -1,0 +1,1 @@
+  HiDPI, fix default CSS properties for Darcula  

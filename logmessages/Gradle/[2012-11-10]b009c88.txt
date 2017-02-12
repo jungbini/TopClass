@@ -1,0 +1,1 @@
+  fixed GRADLE-1513: Concurrency Bug With JUnit Test Listener  - replacing StringBuilder with StringBuffer seems to solve this problem reliably  

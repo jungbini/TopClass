@@ -1,0 +1,1 @@
+  IDEA-68659 XPath: "Undeclared namespace prefix" error could have a quick fix  

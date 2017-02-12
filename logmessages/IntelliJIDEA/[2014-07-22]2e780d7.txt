@@ -1,0 +1,1 @@
+  turn off contract inference for overrideable methods: fix logic  

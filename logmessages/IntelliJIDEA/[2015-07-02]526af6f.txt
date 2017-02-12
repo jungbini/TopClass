@@ -1,0 +1,1 @@
+  PseudoFunctionStyleMethodInspection: removed transformation of lambda generating function, fixed most of type parameters issues  

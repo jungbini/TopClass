@@ -1,0 +1,1 @@
+  fix OutputLogging related tests taking changed ProgressCompleteEvent ctor into account.  

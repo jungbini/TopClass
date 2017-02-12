@@ -1,0 +1,1 @@
+  first step (disable unlisted tool on init) to fix IDEA-158936 Locked profiles  do not save and modify on init, change only on explicit user edit action  

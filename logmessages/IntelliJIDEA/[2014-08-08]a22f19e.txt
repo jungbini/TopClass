@@ -1,0 +1,1 @@
+  init: reuse XDebugSessionTab (task is not done, hidden)  XDebugViews must not hold XDebugSession  

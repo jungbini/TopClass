@@ -1,0 +1,1 @@
+  fixed PY-8163 Create parameter for reference: PIEAE at com.intellij.psi.impl.PsiElementBase.getContainingFile when trying to add paramter with last comma at declaration of the function  

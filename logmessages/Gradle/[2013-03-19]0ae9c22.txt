@@ -1,0 +1,1 @@
+  GRADLE-2111: fix javadoc and variable naming.  

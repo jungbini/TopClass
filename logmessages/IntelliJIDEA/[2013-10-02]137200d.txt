@@ -1,0 +1,1 @@
+  fixed PY-10995 Wrapping on right margin deletes code with slashes at the end of miltiline statements.  If we didn't process auto-formatted events from document - document could be broken by replacement. Do not insert replacement string to the broken textrange  

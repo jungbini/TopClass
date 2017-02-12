@@ -1,0 +1,1 @@
+  synchronize all completion prefix matches (IDEADEV-38192)  

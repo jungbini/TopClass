@@ -1,0 +1,1 @@
+  style+fix(web): limit max-width and add text overflow to document messages add overflow rule to message body to fix message spreading.  

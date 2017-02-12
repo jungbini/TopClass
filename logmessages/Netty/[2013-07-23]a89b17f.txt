@@ -1,0 +1,1 @@
+ set to null as early as possible to remove the chance of any write attempts made after the closure.  

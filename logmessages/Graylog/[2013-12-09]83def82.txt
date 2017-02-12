@@ -1,0 +1,1 @@
+  remove sha-256 hash from api-browser password field  fix authorization lookup for admin user  

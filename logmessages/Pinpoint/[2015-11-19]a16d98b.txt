@@ -1,0 +1,1 @@
+ bug fix. reinit realtime chart when change period time in url.  

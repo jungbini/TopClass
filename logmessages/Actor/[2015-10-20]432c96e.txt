@@ -1,0 +1,1 @@
+  fix(server): don't put userId 0 to fat seq  

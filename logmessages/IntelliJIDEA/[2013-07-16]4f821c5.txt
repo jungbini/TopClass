@@ -1,0 +1,1 @@
+  fix compilation: workaround for bug in old javac versions  

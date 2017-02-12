@@ -1,0 +1,1 @@
+  Added more coverage for eclipse wtp mapping, and fixed broken int tests when current Jvm is not Java 7.  

@@ -1,0 +1,1 @@
+  StreamToLoopInspection fixed when collection result is non-trivial generic type involving ? extends wildcards  

@@ -1,0 +1,1 @@
+  Add toString implementation to ClassLoaderScopes  To aid debugging of ClassLoader issues.  See gradle/gradle-script-kotlin#143  

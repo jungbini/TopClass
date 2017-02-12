@@ -1,0 +1,1 @@
+  Fixed bug reported by Stefan Ollinger: just removed check of db open on all the methods that don't require it.  

@@ -1,0 +1,1 @@
+  Bug fix: Provide resolve scope for method 'GrLightMethodBuilder.setReturnType(...)'  

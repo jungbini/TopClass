@@ -1,0 +1,1 @@
+  live query test is disabled , issue #5152 is fixed  

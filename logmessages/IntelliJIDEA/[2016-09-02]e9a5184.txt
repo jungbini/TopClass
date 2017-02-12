@@ -1,0 +1,1 @@
+  unused declaration: fix export to xml/html with new settings; tests added  

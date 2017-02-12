@@ -1,0 +1,1 @@
+  Convert error on retrieving gradle plugin settings to warning - fixes #KT-13975, #EA-87275, #EA-87677 and alike  

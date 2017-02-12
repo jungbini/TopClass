@@ -1,0 +1,1 @@
+  - Fixed bug reported by Walter Raboch about the algorithm that frees memory resources in cache - new method to free resources when things are critical - Left debug messages at WARN level  

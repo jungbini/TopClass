@@ -1,0 +1,1 @@
+  up down stack trace in the debug console  

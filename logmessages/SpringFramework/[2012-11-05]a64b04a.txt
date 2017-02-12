@@ -1,0 +1,1 @@
+ that the fully- qualified 'spring-framework' name is used consistently, such that names follow the pattern  spring-framework-${version}-${classifier}.zip  This includes the naming of the root-level directory within the -dist zip.  Issue: SPR-9954  

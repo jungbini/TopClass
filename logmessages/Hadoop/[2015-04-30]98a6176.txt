@@ -1,0 +1,1 @@
+  HDFS-8300. Fix unit test failures and findbugs warning caused by HDFS-8283. Contributed by Jing Zhao.  

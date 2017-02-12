@@ -1,0 +1,1 @@
+  IDEA-135207 github: fix token authentication behind proxy with basic auth  Without setting AuthScope, PreemptiveBasicAuthInterceptor might use proxy password from CredentialsProvider. So the request contained both "Authorization: Basic <proxy password>" and "Authorization: token <token>" headers.  

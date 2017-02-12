@@ -1,0 +1,1 @@
+  require admin privileges to set session timeout values fixes Graylog2/graylog2-server#405  

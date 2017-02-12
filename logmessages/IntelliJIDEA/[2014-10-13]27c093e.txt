@@ -1,0 +1,1 @@
+  IDEA-131188 IDEA becomes very slow to respond - fixed VirtualMachine leaks  

@@ -1,0 +1,1 @@
+  [groovy] fix nested index processing. Accessing 'Stubs' during processing 'groovy.trait.methods'. Apply Java 8 fixes  

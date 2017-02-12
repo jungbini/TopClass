@@ -1,0 +1,1 @@
+  fix average compaction bucket size calculation.  patch by jbellis; reviewed by Stu Hood for CASSANDRA-814  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.6@915565 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  simple perf fix: don't visit the same roots twice  

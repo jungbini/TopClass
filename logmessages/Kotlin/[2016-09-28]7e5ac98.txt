@@ -1,0 +1,1 @@
+  Avoid exception when getting relative path  #KT-14056 fixed Target versions 1.0.5  

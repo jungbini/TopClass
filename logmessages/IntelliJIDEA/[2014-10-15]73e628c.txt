@@ -1,0 +1,1 @@
+  jscs: exclude file in config quick fix (not ideal implementation though)  

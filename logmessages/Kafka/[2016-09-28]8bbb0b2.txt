@@ -1,0 +1,1 @@
+  HOTFIX: Remove git conflict markers in streams.html  Author: Guozhang Wang <wangguoz@gmail.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1922 from guozhangwang/KHotfix-streams-html  

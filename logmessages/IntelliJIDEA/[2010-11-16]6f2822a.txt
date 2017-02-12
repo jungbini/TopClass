@@ -1,0 +1,1 @@
+  support tabs in fixture's checkResult  

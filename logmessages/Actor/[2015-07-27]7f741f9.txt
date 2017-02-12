@@ -1,0 +1,1 @@
+ fix(server:push): delete old push credentials by token  

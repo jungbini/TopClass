@@ -1,0 +1,1 @@
+  fix test runner compatibility with old pythons and weird tests (PY-1976)  

@@ -1,0 +1,1 @@
+  fullscreen rewritten using eAWT (fixes IDEA-77906 when Java for Mac OS X update 2 will be available)  

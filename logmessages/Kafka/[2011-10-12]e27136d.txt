@@ -1,0 +1,1 @@
+  KAFKA-141 Follow up patch to fix the cpp files; patched by Lorenzo, nehanarkhede; reviewed by junrao, jjkoshy  git-svn-id: https://svn.apache.org/repos/asf/incubator/kafka/trunk@1182158 13f79535-47bb-0310-9956-ffa450edef68  

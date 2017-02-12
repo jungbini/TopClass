@@ -1,0 +1,1 @@
+  base tag support: file reference helper for local paths silence inspections for urls #WEB-497 fixed  

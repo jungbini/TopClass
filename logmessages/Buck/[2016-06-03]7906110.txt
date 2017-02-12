@@ -1,0 +1,1 @@
+  Buck plugin fix console event error  Summary: If the ToolWindow hasn't been initiated and we try to display, we're going to get an error  Test Plan: tested in IntelliJ  Reviewed By: jimpurbrick  fbshipit-source-id: a4f29ff  

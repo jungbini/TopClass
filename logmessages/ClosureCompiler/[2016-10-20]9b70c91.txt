@@ -1,0 +1,1 @@
+  Avoid conflicting fixes when there are both missing/extra requires and the requires are not sorted correctly.  Also changes the linter to not emit any output when --fix is enabled.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=136766272  

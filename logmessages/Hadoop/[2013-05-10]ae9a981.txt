@@ -1,0 +1,1 @@
+  HADOOP-9556. disable HA tests on Windows that fail due to ZooKeeper client connection management bug. Contributed by Chris Nauroth.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1480880 13f79535-47bb-0310-9956-ffa450edef68  

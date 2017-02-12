@@ -1,0 +1,1 @@
+  Make some more coercion errors more human-readable  Summary: A few more container type coercers were suppressing inner coercion errors containing actionable information for the user, replacing them with more obscure higher-level errors messages (e.g. "cannot coerce to ImmutableMap" instead of "no such file or dir: 'foo/bar.java'"). This 

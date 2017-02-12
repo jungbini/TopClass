@@ -1,0 +1,1 @@
+  -fix insert value in editor -add hack for 1D arrays -show errors only for proper tasks -add evaluate exit when model changes -add last run state  

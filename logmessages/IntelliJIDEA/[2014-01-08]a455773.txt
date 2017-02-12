@@ -1,0 +1,1 @@
+  continue WEB-2093: fix reset, set empty text  

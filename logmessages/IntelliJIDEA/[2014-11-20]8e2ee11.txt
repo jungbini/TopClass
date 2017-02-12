@@ -1,0 +1,1 @@
+  IDEA-126120  fixed for intersection types  

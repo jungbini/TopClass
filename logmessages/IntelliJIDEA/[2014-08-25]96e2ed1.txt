@@ -1,0 +1,1 @@
+  DocumentationManager: fix triple QuickDoc action invocation  

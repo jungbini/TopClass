@@ -1,0 +1,1 @@
+  registry js.debugger.step.over.skip.same.line  

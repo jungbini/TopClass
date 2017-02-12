@@ -1,0 +1,1 @@
+  Completion: fixed insertion of java class names that require escaping  

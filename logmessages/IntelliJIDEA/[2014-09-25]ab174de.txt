@@ -1,0 +1,1 @@
+  allow to find classes with package prefixes  

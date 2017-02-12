@@ -1,0 +1,1 @@
+ fix(server): moved commons configuration from reference.conf to application.conf  

@@ -1,0 +1,1 @@
+  fixed (PY-2409) Exception from dict keys completion  

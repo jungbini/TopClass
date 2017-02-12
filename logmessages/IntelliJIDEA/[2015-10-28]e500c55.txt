@@ -1,0 +1,1 @@
+  PY-16921 PyCustomType members resolve fix: convert mimic class to instance to allow instance fields resolving  

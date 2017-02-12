@@ -1,0 +1,1 @@
+ fix problem with defaults reset and base renderer  

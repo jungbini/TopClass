@@ -1,0 +1,1 @@
+  move path calculation to FileNameCache thus, completely encapsulate name & suffix storage there  

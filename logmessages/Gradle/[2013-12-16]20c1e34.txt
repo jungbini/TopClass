@@ -1,0 +1,1 @@
+  GRADLEREV-15 - Test fix.  getOptions() is always called during tests because of the call to setTestReportDir().  

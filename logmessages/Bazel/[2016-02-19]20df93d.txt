@@ -1,0 +1,1 @@
+  No longer automatically set _GLIBCXX_DEBUG, _GLIBCXX_DEBUG_PEDANTIC, _GLIBCPP_CONCEPT_CHECKS for debug objc builds.  -- MOS_MIGRATED_REVID=115022288  

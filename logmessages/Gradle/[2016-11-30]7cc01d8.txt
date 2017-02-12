@@ -1,0 +1,1 @@
+  Update wrapper to latest nightly  This includes the fix for non reproducible classpaths when declaring a client module dependency.  +review REVIEW-6394  

@@ -1,0 +1,1 @@
+  Added more tests for options classes and fixed a few bugs along the way  

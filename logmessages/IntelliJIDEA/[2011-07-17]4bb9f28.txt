@@ -1,0 +1,1 @@
+  fixed PY-4192 Python Console window shows "super()" syntax as error even when using Python 3 (disabled compatibility visitor in console)  

@@ -1,0 +1,1 @@
+  Activate disabled tests now that GRADLE-3526 is fixed  +review REVIEW-6231  

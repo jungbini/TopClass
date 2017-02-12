@@ -1,0 +1,1 @@
+  added default value to Registry.is call to fix MissingResourceException from Kotlin  

@@ -1,0 +1,1 @@
+  Added 3.2.5 javadoc, fixed links in index.html.  git-svn-id: https://svn.java.net/svn/jna~svn/trunk@1064 2f8a963e-d2e4-e7d0-97bf-ccb7fcea9d80  

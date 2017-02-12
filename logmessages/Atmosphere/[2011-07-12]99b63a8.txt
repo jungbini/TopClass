@@ -1,0 +1,1 @@
+ Merge pull request #27 from mrtidy/master  fix for issue with long-polling getting empty body  commit 99b63a81c769d7d3263752d58aadeb7d821acadc  More license fixes  

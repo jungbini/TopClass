@@ -1,0 +1,1 @@
+  COPY FROM on large datasets: fixed problem on single core machines  patch by Stefania Alborghetti; reviewed by Adam Holmberg for CASSANDRA-11053  

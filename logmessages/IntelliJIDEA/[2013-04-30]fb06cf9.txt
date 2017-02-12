@@ -1,0 +1,1 @@
+ [git] GitMergeProvider: make code more clear  Use a enum for 3-positional reverse state instead of nullable Boolean.  Relates to the fix for IDEA-78808  

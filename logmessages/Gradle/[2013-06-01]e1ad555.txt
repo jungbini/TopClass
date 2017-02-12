@@ -1,0 +1,1 @@
+  Fixed linking of binaries under visual c++ when debug output is enabled.  

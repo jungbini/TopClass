@@ -1,0 +1,1 @@
+  perform heavy grooviness checks only when something is debugged, not on action update  

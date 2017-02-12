@@ -1,0 +1,1 @@
+  fixed PY-12825 Remove unused parameter: do not allow to remove last argument after star when refactoring function with keyword-only arguments  

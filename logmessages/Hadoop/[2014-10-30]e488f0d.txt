@@ -1,0 +1,1 @@
+  HADOOP-11250. fix endmacro of set_find_shared_library_without_version in CMakeLists (Yi Liu via Colin P. McCabe)  

@@ -1,0 +1,1 @@
+  fixed PY-9253 Broken "add field to class" adds the field to the instance instead.  moved tests to the separate testCase  

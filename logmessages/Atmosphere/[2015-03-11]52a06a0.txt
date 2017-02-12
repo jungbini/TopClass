@@ -1,0 +1,1 @@
+  :bug: #1870 Do not clear listeners when shared  

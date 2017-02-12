@@ -1,0 +1,1 @@
+  IDEA-81214 Conflict Resolver confusion with Mercurial  bug fixed  * If we have merge in progress, which means we have 2 heads (parents), so the revision with greater revision number (not the second one ) is "their" revision pulled from the parent repo, and the revision with lesser revision number (not always first) is the local change.  

@@ -1,0 +1,1 @@
+ fixed issue on newline characters in projections with AS keyword, eg. SELECT foo\nas\nbar\nfrom baz  

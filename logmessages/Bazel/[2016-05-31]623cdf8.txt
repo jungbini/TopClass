@@ -1,0 +1,1 @@
+  Replace Constants.PRODUCT_NAME with a startup option --product_name=bazel and (finally) delete Constants.java.  For bazel the file Constants.java is the only source of src/main/java/com/google/devtools/build/lib:common and since it was exporting guava then many dependencies needed to be fixed.  -- MOS_MIGRATED_REVID=123648270  

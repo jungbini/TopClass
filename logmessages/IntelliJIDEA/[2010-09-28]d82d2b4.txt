@@ -1,0 +1,1 @@
+  maven: npe fix in 'add dependency' action + notnulls  

@@ -1,0 +1,1 @@
+  Fixed bug on Metadata retrieving in case of database creation without 'open()' call  

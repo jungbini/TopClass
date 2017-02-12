@@ -1,0 +1,1 @@
+  Minor improvements to JavaFX fix for Groovy  - Use ClassLoader.systemClassLoader.parent to find the ext class loader (instead of looking for javafx specifically) - Added test for compiling java referencing JavaFX on JDK8 - Removed test that adds specific dependency on JavaFX jar in JDK<8  

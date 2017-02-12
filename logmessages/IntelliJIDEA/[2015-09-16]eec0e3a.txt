@@ -1,0 +1,1 @@
+  maven: debug log added for MavenResourceCompilerConfigurationGenerator  

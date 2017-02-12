@@ -1,0 +1,1 @@
+  IDEA-61548: Toggling line breakpoint by clicking on a gutter doesn't work before debugger has been touched  

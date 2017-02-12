@@ -1,0 +1,1 @@
+  MAPREDUCE-4749. Fixed a bug in TaskTracker because of which kill-actions get delayed progressively. Contributed by Arpit Gupta. svn merge --ignore-ancestry -c 1407717 ../branch-1   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.1@1407718 13f79535-47bb-0310-9956-ffa450edef68  

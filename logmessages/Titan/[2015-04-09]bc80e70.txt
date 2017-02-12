@@ -1,0 +1,1 @@
+nStrategies and the private helper method called only by that method (assertNumStep).  It is possible to refactor this test to be TP3-strategy-oblivious, but then much of its distinctive value would be lost.  Leaving it broken for the time being.  I gave this only one close read through the git-

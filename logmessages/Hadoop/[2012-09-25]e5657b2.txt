@@ -1,0 +1,1 @@
+  Merge -c 1379203 from branch-1 to branch-1.1 to fix HADOOP-8748. Refactor DFSClient retry utility methods to a new class in org.apache.hadoop.io.retry.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.1@1390031 13f79535-47bb-0310-9956-ffa450edef68  

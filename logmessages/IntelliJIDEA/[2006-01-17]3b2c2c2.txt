@@ -1,0 +1,1 @@
+  "Loop variable not updated inside loop" improvement added "length one string parameter in indexOf() calll" fixed typo improved "lenght one string in concatenation"  

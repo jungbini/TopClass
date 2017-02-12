@@ -1,0 +1,1 @@
+  fixing Node#each semantics so JRuby will to_a correctly.  

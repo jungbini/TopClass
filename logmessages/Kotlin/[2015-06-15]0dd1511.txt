@@ -1,0 +1,1 @@
+  KT-3639 Can't find sources of AbstractIterator when navigating from stack strace  #KT-3639 fixed  

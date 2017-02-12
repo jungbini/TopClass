@@ -1,0 +1,1 @@
+  Wait on compaction to finish; another attempt at fixing TestSplitTransactionOnCluster  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1125230 13f79535-47bb-0310-9956-ffa450edef68  

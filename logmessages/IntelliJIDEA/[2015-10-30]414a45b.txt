@@ -1,0 +1,1 @@
+  use clipping to draw part of glyph vector  this aligns rendered text better with its selection or highlighting background, and fixes IDEA-147093  

@@ -1,0 +1,1 @@
+  Switched back to use BinaryContainer for rule that attaches the binaries of a component.  This was broken by a previous change, and is a temporary fix.  

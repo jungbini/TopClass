@@ -1,0 +1,1 @@
+  fixed compilation (dissapeared method in b68191e)  

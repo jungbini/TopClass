@@ -1,0 +1,1 @@
+  workaround for bug #16 (unterminated multiline comment)  

@@ -1,0 +1,1 @@
+  accessor for private constructors #KT-2716 fixed  also on the way done small refactoring of JetTypeMapper - few code duplicates replace by methods - mapToCallableMethod(ConstructorDescriptor) introduced  

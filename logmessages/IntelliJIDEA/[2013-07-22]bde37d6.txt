@@ -1,0 +1,1 @@
+  track list selection change in inspection's options panel  fixed PY-10325 Code compatibility inspection - version selector broken  

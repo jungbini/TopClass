@@ -1,0 +1,1 @@
+ This is causing problems for Messenger.  The proper fix involves incorporating the proguard mapping into the `LinearAlloc` estimate, which is not too hard, but more work than I want to put into this right now.  Reverting to the old behavior.  Test Plan: Revert.  

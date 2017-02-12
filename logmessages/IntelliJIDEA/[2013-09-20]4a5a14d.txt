@@ -1,0 +1,1 @@
+  fixed PY-8484 "Insert documentation string stub" should prompt to choose docstring format if it's currently set to plain  

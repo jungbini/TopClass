@@ -1,0 +1,1 @@
+  IDEADEV-26472 -> correct fix for IDEADEV-20970: store correct value for {Double, Float}*{Nan, INFINITY}  

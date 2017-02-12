@@ -1,0 +1,1 @@
+  gutter colors migration, IDEA-131263, fix EditorColorsSchemeImplTest  

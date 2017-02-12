@@ -1,0 +1,1 @@
+  fixed PY-6223 Default location for new virtualenvs on Mac OS X is based on filesystem root (/)  

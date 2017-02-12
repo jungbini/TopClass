@@ -1,0 +1,1 @@
+Mapping definition to change properties like useSuffixPatternMatch, useSuffixPatternMatch...  This commits adds new attributes on the mvc:annotation-driven XML tag that allows to configure such flags: * use-suffix-pattern-match * use-trailing-slash-match * use-registered-suffix-pattern-match  Issue: SPR-10163  

@@ -1,0 +1,1 @@
+  Enable intention actions factories to return multiple quickfixes  

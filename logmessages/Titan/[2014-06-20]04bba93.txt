@@ -1,0 +1,1 @@
+  Add failing test for edges exceeding tx-cache-size  There seems to be buggy behavior when the number of edges on a vertex exceeds the tx-cache-size number. If you remove an edge from the vertex, it can reappear when you call getEdges on the vertex. I added a unit test which demonstrates this.  

@@ -1,0 +1,1 @@
+  HDFS-6163. Fix a minor bug in the HA upgrade document. Contributed by Fengdong Yu.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1582421 13f79535-47bb-0310-9956-ffa450edef68  

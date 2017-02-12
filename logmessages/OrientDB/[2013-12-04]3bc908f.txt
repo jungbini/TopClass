@@ -1,0 +1,1 @@
+ Merge remote-tracking branch 'origin/hotfix-1.6.2' into hotfix-1.6.2  commit 3bc908fc6c2696861a64bbeeed62521093468af6  Issue #1865 was fixed.  

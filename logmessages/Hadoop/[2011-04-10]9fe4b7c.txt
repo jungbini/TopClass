@@ -1,0 +1,1 @@
+  HBASE-3750  HTable.putTable() should release resources for discarded tables (doc fix)  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1090863 13f79535-47bb-0310-9956-ffa450edef68  

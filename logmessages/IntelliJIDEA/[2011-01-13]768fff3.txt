@@ -1,0 +1,1 @@
+  starting firefox debugger on mac: open firefox window if it is hidden or minimized to dock  

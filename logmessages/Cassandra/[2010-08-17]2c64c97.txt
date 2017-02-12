@@ -1,0 +1,1 @@
+  fix updating index when value is changed.  patch by jbellis; tested by Tyler Hobbs for CASSANDRA-1373  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@986397 13f79535-47bb-0310-9956-ffa450edef68  

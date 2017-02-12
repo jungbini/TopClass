@@ -1,0 +1,1 @@
+  WI-6566 Empty output in command line toolwindow: fixed bug with too early processHandler.startNotify() in ScriptRunnerUtil; removed command execution "cmd \c" wrapping.  

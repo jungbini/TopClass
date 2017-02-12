@@ -1,0 +1,1 @@
+  fix: app activation event processing should not supress normal event processing. sync on frame activation/deactivation didn't work  

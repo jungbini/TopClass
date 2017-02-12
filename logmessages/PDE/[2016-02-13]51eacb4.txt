@@ -1,0 +1,1 @@
+ Merge pull request #4204 from jdf/master  Fix crashing bugs that happen when the user's name has non-ASCII characters on Windows.  commit 51eacb42c41946646adeafdc3925f2de0276cb12  switch to Java 8u74 which fixes JavaFX smoothing bug (#3795)  

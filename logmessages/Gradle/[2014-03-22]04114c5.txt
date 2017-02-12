@@ -1,0 +1,1 @@
+  Incremental java compilation. Fixed a bug, made sure that inner classes are also removed.  

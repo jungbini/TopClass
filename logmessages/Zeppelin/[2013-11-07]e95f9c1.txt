@@ -1,0 +1,1 @@
+  ZEPPELIN-41 fix: migrated to slf4j, common versions moved to parent dependencyManagement, sibling dependencies updated to use {project.version}  

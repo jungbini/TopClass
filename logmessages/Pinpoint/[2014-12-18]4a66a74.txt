@@ -1,0 +1,1 @@
+ #119 code clean-up - findbug, pmd, klocwork normal Priority - logger field not initialized - fix Double.compare  

@@ -1,0 +1,1 @@
+  fixes #3092 window collapse when dragging  

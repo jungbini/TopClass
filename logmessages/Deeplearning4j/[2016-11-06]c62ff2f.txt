@@ -1,0 +1,1 @@
+  Formatting fixes: avoid negative iteration values; fix date; avoid NaN ratio on 0/0  

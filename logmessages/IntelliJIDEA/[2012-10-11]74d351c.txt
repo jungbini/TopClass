@@ -1,0 +1,1 @@
+  fixed adding duplicate roots for jar directories  

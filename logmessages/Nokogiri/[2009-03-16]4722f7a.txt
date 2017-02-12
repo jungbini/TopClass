@@ -1,0 +1,1 @@
+  fixing soap4r rdoc  

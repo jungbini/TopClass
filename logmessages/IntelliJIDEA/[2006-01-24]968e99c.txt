@@ -1,0 +1,1 @@
+  NPE fix for procesess asynchronously run with null Project.  

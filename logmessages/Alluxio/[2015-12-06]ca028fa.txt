@@ -1,0 +1,1 @@
+  fixing some issues. Thread safe or not of SwiftDirectOutputStream still open  

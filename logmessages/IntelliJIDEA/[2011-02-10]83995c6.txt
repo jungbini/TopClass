@@ -1,0 +1,1 @@
+  IDEA-65126 Move method and folding bug  1. Move statement up/down processing now tries to preserve fold regions state; 2. Corresponding test is added;  

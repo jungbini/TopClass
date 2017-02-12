@@ -1,0 +1,1 @@
+  [groovy] icons update - add icons for abstract field, method and property - update property icon - fix variable icon overriding field icon - use separate property icon istead of layer for property fields - use Java icon for class initializer  

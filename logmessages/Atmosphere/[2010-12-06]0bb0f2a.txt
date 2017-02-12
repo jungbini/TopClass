@@ -1,0 +1,1 @@
+  Bugfix when using GuiceFilter to manage all servlets and filters  

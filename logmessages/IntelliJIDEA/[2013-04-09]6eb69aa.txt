@@ -1,0 +1,1 @@
+  fixed PY-9405 Method can be static: handle existing decorators  

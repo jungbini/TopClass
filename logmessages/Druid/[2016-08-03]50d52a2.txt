@@ -1,0 +1,1 @@
+  ability to not rollup at index time, make pre aggregation an option (#3020)  * ability to not rollup at index time, make pre aggregation an option  * rename getRowIndexForRollup to getPriorIndex  * fix doc misspelling  * test query using no-rollup indexes  * fix benchmark fail due to jmh bug  

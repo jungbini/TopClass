@@ -1,0 +1,1 @@
+le in outer repo, try to type smth or copy/past in active editor, thus  base revision will be empty, but not null-> produce exception *Refactor  parseChangeFromResult method for future easy debugging such exception.(remember arguments) (cherry picked from commit be5b2a3aefb4d021f444ee009ac0424bc287d7f0)  Reviewed by Kirill Likhodedov  

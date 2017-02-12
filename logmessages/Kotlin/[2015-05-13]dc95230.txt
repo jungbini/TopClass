@@ -1,0 +1,1 @@
+  report 'trait' keyword as deprecated, provide quickfix for replacing with 'interface'  

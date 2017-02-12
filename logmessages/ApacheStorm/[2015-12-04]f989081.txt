@@ -1,0 +1,1 @@
+  fix test: wait duration could be exactly 1000 ms  

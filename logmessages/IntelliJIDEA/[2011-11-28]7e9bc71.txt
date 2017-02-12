@@ -1,0 +1,1 @@
+  fixed PY-5097 PyPy interpreter is marked as Unknown in interpreters list  

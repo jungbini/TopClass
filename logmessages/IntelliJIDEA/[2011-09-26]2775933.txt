@@ -1,0 +1,1 @@
+  move disable inspection action in the middle of all "side" fixes (IDEA-74690)  

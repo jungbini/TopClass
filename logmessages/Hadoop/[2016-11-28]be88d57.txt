@@ -1,0 +1,1 @@
+  MAPREDUCE-6743. nativetask unit tests need to provide usable output; fix link errors during mvn test  

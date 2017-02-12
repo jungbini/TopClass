@@ -1,0 +1,1 @@
+  fix indent after inserting newline after comment in function body (PY-641)  

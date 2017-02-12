@@ -1,0 +1,1 @@
+  fix for KnxBinding which ignores KNXEvents under certain circumstances  

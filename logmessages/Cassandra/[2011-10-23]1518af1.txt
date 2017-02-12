@@ -1,0 +1,1 @@
+  use CF/KS names as snapshot prefix for drop + truncate operations patch by Yuki Morishita and jbellis for CASSANDRA-2997  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-1.0@1187844 13f79535-47bb-0310-9956-ffa450edef68  

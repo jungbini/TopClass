@@ -1,0 +1,1 @@
+  CPP-5661 When debugger reports an error during evaluation or variable collection, it should be reported in UI  

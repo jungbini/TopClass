@@ -1,0 +1,1 @@
+  fix(core+ios): Fixing cancelling answer, fixing missing answer/decline buttons  

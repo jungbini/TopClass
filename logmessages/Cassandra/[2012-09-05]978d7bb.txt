@@ -1,0 +1,1 @@
+  fix clientutil.jar dependencies patch by dbrosius and eevans reviewed by eevans for CASSANDRA-4566  

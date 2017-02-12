@@ -1,0 +1,1 @@
+  Add unit test for `DirtyPrintStreamDecorator`.  Summary: This fixes `DirtyPrintStreamDecorator` so that: (1) It uses delegation instead of inheritance. (2) For methods that return a `PrintStream`, it returns the `DirtyPrintStreamDecorator` instead of the delegate.  Test Plan: DirtyPrintStreamDecoratorTest.  

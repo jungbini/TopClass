@@ -1,0 +1,1 @@
+  client fixed to perform correct modification sequence (write psi, force psi changes to document and write document)  

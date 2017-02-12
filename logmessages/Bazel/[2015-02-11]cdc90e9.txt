@@ -1,0 +1,1 @@
+  As a follow up to []. This changelist creates an intermediary FileWriteAction to store the list of lcov files in a file before calling the code coverage report binary. Cleanup on the COVERAGE_REPORT to support multiple actions.  RELNOTES: HTML code coverage report fix for large targets.  -- MOS_MIGRATED_REVID=86033675  

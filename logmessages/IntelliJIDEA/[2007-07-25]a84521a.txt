@@ -1,0 +1,1 @@
+  IDEADEV-19351, IDEADEV-19352 StackOverflow fix  

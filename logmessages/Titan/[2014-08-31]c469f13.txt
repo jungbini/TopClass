@@ -1,0 +1,1 @@
+  Documentation: add prev/next links to header  Both the fixed header and the floating/sticky header now have chapter-previous and chapter-next links.  These links complement rather than replace the existing links just above the copyright footer.  

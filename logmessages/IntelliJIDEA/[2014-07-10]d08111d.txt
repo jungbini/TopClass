@@ -1,0 +1,1 @@
+  XML Colors settings: fix description text (missing line breaks)  

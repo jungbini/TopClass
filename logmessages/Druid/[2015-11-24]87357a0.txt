@@ -1,0 +1,1 @@
+  fixed #2001 GenericIndexed.fromIterable compares all values even when it's not sorted  

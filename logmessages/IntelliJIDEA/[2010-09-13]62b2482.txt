@@ -1,0 +1,1 @@
+  quick fix for IDEA-58475: Impossible to add new ApplicationServer  

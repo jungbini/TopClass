@@ -1,0 +1,1 @@
+  fixed configuration for run integration tests  

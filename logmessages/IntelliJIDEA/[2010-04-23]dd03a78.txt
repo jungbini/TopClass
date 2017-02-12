@@ -1,0 +1,1 @@
+  CodeInsight fixture to use find usages options from handler  

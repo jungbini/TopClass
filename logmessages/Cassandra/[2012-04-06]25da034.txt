@@ -1,0 +1,1 @@
+  fix terminination of the stress.java when errors were encountered patch by Pavel Yaskevich; reviewed by Brandon Williams for CASSANDRA-4128  

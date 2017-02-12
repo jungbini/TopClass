@@ -1,0 +1,1 @@
+  PY-19015: fix for "rerun" for failed tox tests  Tox fetches env id (like py27) and provides it to configuration.  

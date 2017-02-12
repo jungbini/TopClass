@@ -1,0 +1,1 @@
+  fix "Can be replaced with comparison" false positive if extension method called 'equals' is used Fixes #KT-13480  

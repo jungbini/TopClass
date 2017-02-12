@@ -1,0 +1,1 @@
+  IDEA-122637 CCE at com.intellij.debugger.ui.XBreakpointGroupingByClassRule.getGroup  

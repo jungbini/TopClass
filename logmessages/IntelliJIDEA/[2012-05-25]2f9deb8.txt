@@ -1,0 +1,1 @@
+  IDEA-36326 Quickfix for converting erroneous array access to list access implemented  

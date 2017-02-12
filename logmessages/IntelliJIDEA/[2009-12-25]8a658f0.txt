@@ -1,0 +1,1 @@
+  VCS: fix for patch with only new files in it  

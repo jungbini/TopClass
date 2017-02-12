@@ -1,0 +1,1 @@
+  KT-3459 "import java.util.*" is removed by optimize imports if the only usage is a SAM constructor  #KT-3459 fixed  

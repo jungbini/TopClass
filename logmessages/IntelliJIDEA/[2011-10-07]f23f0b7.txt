@@ -1,0 +1,1 @@
+  project structure error highlighting: show warnings with quickfixes for unused project libraries  

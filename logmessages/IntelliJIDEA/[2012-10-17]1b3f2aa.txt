@@ -1,0 +1,1 @@
+  fixed PY-2808 Add possibility to specify additional command line parameters in test run configuration  

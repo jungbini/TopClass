@@ -1,0 +1,1 @@
+  fixed PY-14302 IPython Notebook: overlapping balloon notifications on run server failure + check ipython presense in interpreter  

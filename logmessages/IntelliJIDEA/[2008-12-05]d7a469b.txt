@@ -1,0 +1,1 @@
+  VCS: rollback little fix (refresh if process canceled)  

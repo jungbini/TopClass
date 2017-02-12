@@ -1,0 +1,1 @@
+  HDFS-2890. DFSUtil#getSuffixIDs should skip unset configurations. Contributed by Aaron T. Myers.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-1623@1240447 13f79535-47bb-0310-9956-ffa450edef68  

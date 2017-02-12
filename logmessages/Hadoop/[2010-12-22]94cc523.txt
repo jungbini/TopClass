@@ -1,0 +1,1 @@
+  Adding a fix for this test that was missing   git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1052023 13f79535-47bb-0310-9956-ffa450edef68  

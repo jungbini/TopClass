@@ -1,0 +1,1 @@
+  fix NPE on invoking completion manually  

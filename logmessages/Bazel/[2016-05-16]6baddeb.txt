@@ -1,0 +1,1 @@
+  Add deprecation warning for --objc_generate_debug_symbols.  RELNOTES: --objc_generate_debug_symbols is now deprecated.  -- MOS_MIGRATED_REVID=122432600  

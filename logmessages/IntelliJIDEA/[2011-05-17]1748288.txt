@@ -1,0 +1,1 @@
+  IDEA-69490 Ctrl+F (Find) opens with old search value: very dirty urgent hack to fix it. [rev=yole]  

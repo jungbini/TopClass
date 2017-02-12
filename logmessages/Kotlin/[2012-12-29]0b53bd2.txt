@@ -1,0 +1,1 @@
+  KT-2397 Prohibit final methods in traits with no implementation #KT-2397 fixed  

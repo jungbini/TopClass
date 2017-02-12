@@ -1,0 +1,1 @@
+  Fix bare instance creation  Fix https://bugs.eclipse.org/bugs/show_bug.cgi?id=469604 by checking whether or not `-ha` is the first parameter. In that case, it creates the vert.x instance without deploying a vertical Also update the command line documentation  Signed-off-by: Clement Escoffier <clement.escoffier@gmail.com>  

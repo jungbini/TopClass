@@ -1,0 +1,1 @@
+  debugger: allow restoring several tree nodes with the same name (e.g. a varaible and a watch with the same name)  

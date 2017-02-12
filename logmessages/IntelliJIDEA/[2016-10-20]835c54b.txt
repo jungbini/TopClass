@@ -1,0 +1,1 @@
+  IDEA-161294 ui: fix Find Usages popup rendering under HiDPI  

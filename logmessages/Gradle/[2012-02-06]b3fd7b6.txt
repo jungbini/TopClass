@@ -1,0 +1,1 @@
+  Updated the findbugs plugin to use the new reporting infrastructure  

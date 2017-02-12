@@ -1,0 +1,1 @@
+ Merge pull request #1229 from denzelsN/master  bug fix.  commit e32dc03f3104d723444efb974e340549c000a709  bug fix. reinit realtime chart when change depth.  

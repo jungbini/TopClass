@@ -1,0 +1,1 @@
+ Stream documentation updates  I mostly fixed an error on what {Read/Write}Stream do, as the documentation currently has it wrong in a key sentence.  I also did a few edits there and there to improve the text flow.  Signed-off-by: Julien Ponge <julien.ponge@insa-lyon.fr>  

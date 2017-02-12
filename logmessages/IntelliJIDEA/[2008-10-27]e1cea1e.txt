@@ -1,0 +1,1 @@
+  [rev ilyas] synthetic context for GroovyFileImpl fix to make its injection possible nah  

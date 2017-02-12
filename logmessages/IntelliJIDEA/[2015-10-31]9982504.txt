@@ -1,0 +1,1 @@
+  completion: don't override CharFilter decision by heuristics based on selected item (that would allow a better fix for KT-9813)  

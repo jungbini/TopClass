@@ -1,0 +1,1 @@
+  skip autopopup in string literal prefix (PY-6004)  

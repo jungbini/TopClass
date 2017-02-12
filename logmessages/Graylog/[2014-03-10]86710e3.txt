@@ -1,0 +1,1 @@
+  improve JSON field type handling for GELF processing. fixes #438  

@@ -1,0 +1,1 @@
+  HDFS-7502. Fix findbugs warning in hdfs-nfs project. Contributed by Brandon Li.  

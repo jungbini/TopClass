@@ -1,0 +1,1 @@
+  Add common shortcut for adding unversioned files (Ctrl/Cmd+Alt+A) to VcsActions.xml. This fixes IDEA-75576 since it references the action.  

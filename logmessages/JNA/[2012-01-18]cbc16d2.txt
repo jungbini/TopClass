@@ -1,0 +1,1 @@
+  Fixed bug in WinspoolUtil.getPrinterInfo1() and WinspoolUtil.getPrinterInfo4() where the first element's fields was never populated  

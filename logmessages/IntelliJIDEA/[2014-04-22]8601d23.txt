@@ -1,0 +1,1 @@
+  [git] Compilation fix: the test class was removed on master, and not updated by cherry-picks anymore.  

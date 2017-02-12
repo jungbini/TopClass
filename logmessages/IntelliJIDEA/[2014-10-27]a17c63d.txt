@@ -1,0 +1,1 @@
+  IDEA-131922 Debugger: Inspect from Referring Objects causes NPE at ClassRenderer.createFieldDescriptor()  

@@ -1,0 +1,1 @@
+ Add a fix for "unnecessary cast" warnings, and some tests for the ErrorToFixMapper. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=80656268  

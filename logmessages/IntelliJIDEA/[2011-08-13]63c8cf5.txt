@@ -1,0 +1,1 @@
+  fix tests: the completion-related typed handlers should really be the first, sync means sync  

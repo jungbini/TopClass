@@ -1,0 +1,1 @@
+ fix for missing context when embedding broker  

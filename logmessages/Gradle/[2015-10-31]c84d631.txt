@@ -1,0 +1,1 @@
+  Add comment to GradleRunner advertising that capturing standard stream output does not work for Gradle < 2.9 when debugging.  +review REVIEW-5615  

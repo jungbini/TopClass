@@ -1,0 +1,1 @@
+  don't complete KDoc tag names if we have a non-empty prefix which is not a tag name #KT-7476 Fixed  

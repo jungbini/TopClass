@@ -1,0 +1,1 @@
+  fixed PY-5203 Move statement: statement should not jump into docstring  

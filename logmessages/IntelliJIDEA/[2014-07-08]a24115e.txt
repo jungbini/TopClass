@@ -1,0 +1,1 @@
+  adding plugin module to existing project fixed  

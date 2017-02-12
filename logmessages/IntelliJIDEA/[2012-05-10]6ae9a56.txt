@@ -1,0 +1,1 @@
+  fixed PY-6522 List of suggested paths for new virtualenv interpreter should not include multiple pythons from same virtualenv  

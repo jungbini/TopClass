@@ -1,0 +1,1 @@
+  drop subtag cache on changes in non-physical files, should fix tests  

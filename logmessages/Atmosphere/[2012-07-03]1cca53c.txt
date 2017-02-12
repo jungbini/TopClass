@@ -1,0 +1,1 @@
+  More fix for #420 (see the cloneState method). Added missing annotation and some comments  

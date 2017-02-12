@@ -1,0 +1,1 @@
+  HOTFIX: fix ProcessorStateManager to use correct ktable partitions  guozhangwang  * fix ProcessorStateManager to use correct ktable partitions * more ktable tests  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Guozhang Wang  Closes #635 from ymatsuda/more_ktable_test  

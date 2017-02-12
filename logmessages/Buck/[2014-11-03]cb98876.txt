@@ -1,0 +1,1 @@
+  Merge duplicate bits of code in ProjectGenerator  Summary: `ProjectGenerator#setTargetBuildConfigurations` contained separate paths for combined and other projects that had pieces of code that were the same in both paths and had the same or almost the same functionality. This 

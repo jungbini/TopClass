@@ -1,0 +1,1 @@
+  IDEA-136722 Copying bean fields from Variables debugger frame is broken  

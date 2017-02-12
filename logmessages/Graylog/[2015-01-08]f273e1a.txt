@@ -1,0 +1,1 @@
+  fix grok tester resource  remove obsolete pattern string  #377  

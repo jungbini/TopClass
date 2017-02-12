@@ -1,0 +1,1 @@
+  Fix text value generation for folded scalars  This fixes the problem with newlines and over-indented lines spanned across several-EOLs sequences. See test for the example.  

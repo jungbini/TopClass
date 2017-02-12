@@ -1,0 +1,1 @@
+  JS backend: added regression tests for closure bugs.  #KT-4236 In Progress #KT-4600 In Progress #KT-4237 In Progress #KT-4207 In Progress #KT-4218 In Progress #KT-4263 Obsolete  

@@ -1,0 +1,1 @@
+  IDEA-43728 - fixed incorrect commands postponing while evaluation in progress  

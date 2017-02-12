@@ -1,0 +1,1 @@
+  data deprecations (empty constructors, non val/var arguments, vararg, superclasses) are now errors, relevant tests fixed  

@@ -1,0 +1,1 @@
+  use ConcurrentHashMap in host counting singleton  fixes #SERVER-86  

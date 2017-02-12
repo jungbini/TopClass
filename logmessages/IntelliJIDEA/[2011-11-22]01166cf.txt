@@ -1,0 +1,1 @@
+  IDEA-77019 Apply patch breaks code code was definitely wrong for update with merge, not sure that I've fixed for rebase  

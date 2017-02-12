@@ -1,0 +1,1 @@
+  expected type considered less important a sorting criterion than statistics and prefix (IDEA-94884, IDEA-93198)  

@@ -1,0 +1,1 @@
+  Reuse remove Variable fix for constants  Closes #123.  Signed-off-by: Mihai Claudiu Toader <mtoader@gmail.com>  

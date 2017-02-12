@@ -1,0 +1,1 @@
+  fixed GRADLE-2460: Scala compiler is unable to find a javac compiler under Mac OS with Java 1.7, gradle 1.1  - really a fix for the underlying issue that system properties like os.name and os.version were carried over from client JVM to daemon JVM, which would cause troubles if they weren't using the same JDK  

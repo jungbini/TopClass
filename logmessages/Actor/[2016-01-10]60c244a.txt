@@ -1,0 +1,1 @@
+  fix(iOS) : fix sticker button and open sticker keyboard if predictive mode(on)  

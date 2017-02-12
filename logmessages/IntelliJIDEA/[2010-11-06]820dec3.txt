@@ -1,0 +1,1 @@
+  added restriction to debug command line to execute only on paused process  

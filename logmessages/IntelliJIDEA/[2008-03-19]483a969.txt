@@ -1,0 +1,1 @@
+  IDEADEV-17249 fixed ("Checkout from SVN" should be able to run in background)  

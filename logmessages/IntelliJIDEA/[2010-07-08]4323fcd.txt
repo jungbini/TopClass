@@ -1,0 +1,1 @@
+  simplified time-limited execution mode, probably fixes timeout problems  

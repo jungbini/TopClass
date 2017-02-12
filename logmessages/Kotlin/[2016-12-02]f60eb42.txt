@@ -1,0 +1,1 @@
+  Add script runtime to maven, fixes #KT-14708  

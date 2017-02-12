@@ -1,0 +1,1 @@
+  Fixed a quick fix for enum entry short super constructor syntax (situation with a preceding comment / annotation). Four extra tests. isAvailable().  

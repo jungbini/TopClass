@@ -1,0 +1,1 @@
+  EA-59230 (NPEs around getMirror() fixed)  

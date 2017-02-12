@@ -1,0 +1,1 @@
+  fixed PY-13281 Create New Project: remove web2py template engine from web projects creation options  

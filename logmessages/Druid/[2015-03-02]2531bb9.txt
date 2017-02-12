@@ -1,0 +1,1 @@
+  Docfix: Update Cache config pages  * Update Broker-Config.md Cache options table * Update Historical-Config.md Cache options table (broker->historical)  

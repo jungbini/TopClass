@@ -1,0 +1,1 @@
+  Clarify --process_closure_primitive default  Also fix a couple typos.  

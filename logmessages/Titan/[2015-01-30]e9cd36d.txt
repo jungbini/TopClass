@@ -1,0 +1,1 @@
+  Fix timeout around an ES test index state change  The old helper method for awaiting state transition on a graph index appears to return prematurely; adding a 5 second sleep afterward fixed a test assertion failure.  Switching to a newer state transition helper that doesn't seem to have this problem.  

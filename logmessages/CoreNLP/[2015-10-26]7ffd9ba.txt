@@ -1,0 +1,1 @@
+  Fix logic in extractPrefixedProperites. From Edmond Lepedus  

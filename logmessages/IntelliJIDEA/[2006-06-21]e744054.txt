@@ -1,0 +1,1 @@
+  more on modified/restoreDefault; introduce AbstractBooleanProperty; fix loading icons from IconEditor  

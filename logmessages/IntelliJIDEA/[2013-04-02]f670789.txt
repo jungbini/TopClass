@@ -1,0 +1,1 @@
+  fixed PY-1140 Unittest run console "Statistics" pane does not remember layout.  

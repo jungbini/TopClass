@@ -1,0 +1,1 @@
+  fixed compilation after return requirement for local functions added  

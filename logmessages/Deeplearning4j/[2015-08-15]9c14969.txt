@@ -1,0 +1,1 @@
+ Working through LSTM to align to fix activate and backprop.  

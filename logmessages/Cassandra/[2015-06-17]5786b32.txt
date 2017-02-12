@@ -1,0 +1,1 @@
+  Serialize ClusteringPrefix in microbatches, using vint encoding  patch by benedict; reviewed by sylvain for CASSANDRA-9708  

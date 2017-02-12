@@ -1,0 +1,1 @@
+  Distributed: fixed multiple issues  - record locked when a node is killed - delta sync doesnt use the right version - partition key now supports -2 to use any empty queue - when a node is offline, any exception is transformed to OOfflineNodeException - handled safer edge cases  

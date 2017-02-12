@@ -1,0 +1,1 @@
+  move runtime information about nodes to system resource  fixes #267 by lazily loading system information into Node object  

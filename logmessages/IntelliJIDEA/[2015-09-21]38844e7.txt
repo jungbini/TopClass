@@ -1,0 +1,1 @@
+  [platform] fixes UOE on shell environment loading (IDEA-CR-5094)  

@@ -1,0 +1,1 @@
+  quick fix http://jetbrains-feed.appspot.com/message/2034019 (cherry-picked from 41df434)  

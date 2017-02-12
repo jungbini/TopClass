@@ -1,0 +1,1 @@
+10182e6 [Jeff Zhang] ZEPPELIN-1197. Should print output directly without invoking function print in pyspark interpreter  

@@ -1,0 +1,1 @@
+  [dynamodb] Java 7 compatibility fixes in tests (#4702)  

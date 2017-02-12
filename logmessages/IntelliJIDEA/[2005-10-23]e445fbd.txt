@@ -1,0 +1,1 @@
+  http://www.jetbrains.net/jira/browse/IDEA-5461 fixed  

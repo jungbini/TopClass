@@ -1,0 +1,1 @@
+  fixed PY-6505 "Replace + with string formatting operator" is available in a context which has nothing to do with strings  

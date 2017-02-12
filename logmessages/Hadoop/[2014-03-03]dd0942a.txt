@@ -1,0 +1,1 @@
+  YARN-1758. Fixed ResourceManager to not mandate the presence of site specific configuration files and thus fix failures in downstream tests. Contributed by Xuan Gong. svn merge --ignore-ancestry -c 1573695 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1573697 13f79535-47bb-0310-9956-ffa450edef68  

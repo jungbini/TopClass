@@ -1,0 +1,1 @@
+  Cleanup deprecated Kotlin symbol usages. Fix bug with incompatible collection types in org.jetbrains.settingsRepository.git.resolveConflicts.  

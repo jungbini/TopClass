@@ -1,0 +1,1 @@
+  SpellChecker plugin: refactoring, add StringWithMistakesInspection, improve tests (extend JavaCodeInsightFixtureTestCase), bug fixes: (exclude from spellchecking tags author and link, use PsiNameHelper to avoid keywords spellchecking, avoid double check in jsp and js files, improve rules for splitting words in complex cases)  

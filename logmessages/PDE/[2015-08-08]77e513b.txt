@@ -1,0 +1,1 @@
+  create sketchbook subfolders on startup (fixes #3548)  

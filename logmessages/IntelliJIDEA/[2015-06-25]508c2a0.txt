@@ -1,0 +1,1 @@
+  IDEA-132813 correct fix  don't save module file twice (1 - regular save 2 - forced save)  

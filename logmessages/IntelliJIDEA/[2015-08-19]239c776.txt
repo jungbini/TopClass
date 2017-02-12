@@ -1,0 +1,1 @@
+  EDU-380 Merge PyDebugFileLineMarkerProvider and PyExecuteFileLineMarkerProvider  there is no need in additional actions at all, because there are created in ExecutorRegistry for every executor  

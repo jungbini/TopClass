@@ -1,0 +1,1 @@
+  no need to have configurable as fixed width (IDEA-62771)  

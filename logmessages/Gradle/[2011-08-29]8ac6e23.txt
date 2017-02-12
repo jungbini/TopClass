@@ -1,0 +1,1 @@
+  Improved the link in the sonar user guide chapter. Now it should link to the current stable or latest snapshot depending on the release. It should also fix the nightly build.  

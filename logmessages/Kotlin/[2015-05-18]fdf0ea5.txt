@@ -1,0 +1,1 @@
+  Enum warnings fixed: deprecated delimiters, short super constructors, both in project and in libraries  

@@ -1,0 +1,1 @@
+  MAPREDUCE-6225. Fix new findbug warnings in hadoop-mapreduce-client-core. Contributed by Varun Saxena  

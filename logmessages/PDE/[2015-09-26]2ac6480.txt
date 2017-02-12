@@ -1,0 +1,1 @@
+ change "will" to "must" for clarity (fixes #3878)  

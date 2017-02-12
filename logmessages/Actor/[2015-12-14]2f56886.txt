@@ -1,0 +1,1 @@
+  fix(server): setting verison to 1.0.66-SNAPSHOT  

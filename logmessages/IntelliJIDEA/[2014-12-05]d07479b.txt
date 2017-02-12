@@ -1,0 +1,1 @@
+  [vcs-log] fix multiple selection with space  

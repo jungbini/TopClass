@@ -1,0 +1,1 @@
+  set Editor for Injected languages highlighter  fixed PY-7862 Doctest: closing quote is not inserted automatically inside doctest  

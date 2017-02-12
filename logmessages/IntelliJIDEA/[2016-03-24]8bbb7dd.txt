@@ -1,0 +1,1 @@
+  fixing SOE in Ant initialization for headless mode  

@@ -1,0 +1,1 @@
+  IDEADEV-8262 project already disposed problem fix  

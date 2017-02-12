@@ -1,0 +1,1 @@
+  Replace plus operator with string template  This fixes the conversion issue: there is no "JavaClass<T>.plus(s: String)" overload.  

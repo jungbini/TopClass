@@ -1,0 +1,1 @@
+  update gson to 2.5 support ASAR (https://github.com/atom/asar)  required to debug packed electron ap do not use VFS to load compiled script or source map  use Java 8 NIO Path directly  

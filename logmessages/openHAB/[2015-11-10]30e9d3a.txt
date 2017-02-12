@@ -1,0 +1,1 @@
+  AlarmDecoder binding: made serial port speed configurable and fixed serial port conflicts with other bindings  

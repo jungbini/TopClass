@@ -1,0 +1,1 @@
+  fix LRUVertexCache.get on absent items  

@@ -1,0 +1,1 @@
+  Pattern suffix issue in AnnotationMethodHandlerAdapter  SPR-9333  

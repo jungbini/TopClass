@@ -1,0 +1,1 @@
+  Do not suggest operation references in postfix templates  #KT-14087 Fixed  

@@ -1,0 +1,1 @@
+  1. repaint of screen to bottom fixed when document shrinks on modification 2. repaint fixed when document become empty  

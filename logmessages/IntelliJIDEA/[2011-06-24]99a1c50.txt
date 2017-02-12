@@ -1,0 +1,1 @@
+  IDEA-71362 XSLT debug: NPE at RemoteBreakpointImpl.setEnabled() on setting a breakpoint with running debug session  

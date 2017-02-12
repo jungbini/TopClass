@@ -1,0 +1,1 @@
+  diamonds: fix conflicting names between constructor and class type parameters (rename the constructor type parameters)  

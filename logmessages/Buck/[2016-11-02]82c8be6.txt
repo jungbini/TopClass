@@ -1,0 +1,1 @@
+  fix empty log list for buck doctor  Summary: This adds a check if there are no interesting builds just exit properly.  Test Plan: CI  Reviewed By: plamenko  fbshipit-source-id: c30716e  

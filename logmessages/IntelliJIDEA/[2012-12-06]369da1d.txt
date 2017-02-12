@@ -1,0 +1,1 @@
+  RUBY-11747 Color names overwrites to hex version if choose in completion  #RUBY-11747 fixed  

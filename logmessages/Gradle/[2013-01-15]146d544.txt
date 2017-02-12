@@ -1,0 +1,1 @@
+  enhanced ModelToPropertiesConverter for use with sonar-runner  - handle collection values - support prefixing of property keys - also convert values of post-processed properties - use Properties class instead of Map  

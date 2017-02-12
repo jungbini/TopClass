@@ -1,0 +1,1 @@
+  prepare to fix KT-3008  pass moduleDependencies  (cherry-picked from 9216cc0)  

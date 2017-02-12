@@ -1,0 +1,1 @@
+  fixed issue #4276 - Sql select fail on from a class with 'edge' name  

@@ -1,0 +1,1 @@
+ Merge pull request #3517 from JakubValtar/bugfix-size  Remove size() from setup() when copying to settings()  commit 8f3be88cfb38d4591e25107a2859b36da6c1c027  make size protected again (fixes #3519)  

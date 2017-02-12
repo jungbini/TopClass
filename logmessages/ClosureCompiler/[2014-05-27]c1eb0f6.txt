@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE] Replace recursive toString() calls with appendTo(StringBuilder)  Also fix toString result for "function()" ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=67982701  

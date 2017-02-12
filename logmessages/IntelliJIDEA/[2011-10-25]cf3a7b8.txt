@@ -1,0 +1,1 @@
+  BookmarkManagerTest.testBookmarkIsSavedAfterRemoteChange test is fixed  

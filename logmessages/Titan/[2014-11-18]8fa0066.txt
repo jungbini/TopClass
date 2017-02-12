@@ -1,0 +1,1 @@
+  Adding test for #786  This test runs in the aurelius-release profile.  I implemented it as an Expect-based integration test in titan-dist because that was the most straightward approach within the existing test harness that allowed for restarting the JVM in the middle of the test logic, which is necessary to catch a regression on this particular bug.  

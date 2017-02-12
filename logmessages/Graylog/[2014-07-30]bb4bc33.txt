@@ -1,0 +1,1 @@
+  delay launching persisted inputs until after the node is in RUNNING state  otherwise this could lead to read many messages before the system is actually capabable of processing data. nothing would've gotten lost, however it added unnecessary time to the start up could use lots of memory  fixes #638  

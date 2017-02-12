@@ -1,0 +1,1 @@
+  fix memory leak: [thread local] strong ref for SaxBuilder also references Element processed  

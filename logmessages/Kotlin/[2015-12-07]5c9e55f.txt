@@ -1,0 +1,1 @@
+  DFA bug fix: assignment of unstable to stable uses predictable type set (see test)  

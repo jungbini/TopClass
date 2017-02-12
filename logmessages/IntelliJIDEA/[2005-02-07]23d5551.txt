@@ -1,0 +1,1 @@
+  fixed: usageview does not group by files non-java usages when "group by files structure" is on.  

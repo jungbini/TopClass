@@ -1,0 +1,1 @@
+  fix read repair to use requested consistency level on digest mismatch, rather than assuming QUORUM. Patch by brandonwilliams and jbellis, reviewed by brandonwilliams for CASSANDRA-1316.  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.6@979465 13f79535-47bb-0310-9956-ffa450edef68  

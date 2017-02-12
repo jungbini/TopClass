@@ -1,0 +1,1 @@
+  fix TGA problems with Movie Maker (issue #2851)  

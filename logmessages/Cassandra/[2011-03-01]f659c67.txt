@@ -1,0 +1,1 @@
+  fix Hadoop ColumnFamilyOutputFormat droppingof mutations patch by Eldon Stegall and Jeremy Hanna; reviewed by jbellis for CASSANDRA-2255  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1075627 13f79535-47bb-0310-9956-ffa450edef68  

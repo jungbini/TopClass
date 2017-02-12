@@ -1,0 +1,1 @@
+  OOM in remote client and FileNotFoundException in hash index were fixed.  

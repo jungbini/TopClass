@@ -1,0 +1,1 @@
+gular version 2b3d52d [1ambda] fix: Resolve bower install hangs  (cherry picked from commit ba50d49485972f6405d0d4a5d7f45a21cd9a95ff) Signed-off-by: Lee moon soo <moon@apache.org>  

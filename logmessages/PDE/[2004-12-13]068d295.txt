@@ -1,0 +1,1 @@
+  may have fixed the hanging bug.. or at least fixed it for opengl  

@@ -1,0 +1,1 @@
+  refactor test case to work around a  compiler bug that was failing a test  

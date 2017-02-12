@@ -1,0 +1,1 @@
+  don't animate scrollbar in tests (should fix LoadProjectTest blinking on mac)  

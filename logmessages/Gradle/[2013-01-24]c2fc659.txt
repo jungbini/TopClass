@@ -1,0 +1,1 @@
+  GRADLE-2650: always set http.keepAlive = "true" to work around bugs in HttpClient-4.2.2  

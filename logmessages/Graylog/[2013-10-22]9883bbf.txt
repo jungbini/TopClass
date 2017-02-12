@@ -1,0 +1,1 @@
+  reimplement server node refresh  adds a very basic disconnected page do not redirect on XHR when all backend servers are unavailable, instead return 504  fixes #303  

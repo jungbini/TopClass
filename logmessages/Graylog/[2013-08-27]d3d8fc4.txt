@@ -1,0 +1,1 @@
+  show links to input docs. fixes #187  

@@ -1,0 +1,1 @@
+  HDFS-7029. Archival Storage: fix TestDFSInotifyEventInputStream and TestDistributedFileSystem. Contributed by Tsz Wo Nicholas Sze.  

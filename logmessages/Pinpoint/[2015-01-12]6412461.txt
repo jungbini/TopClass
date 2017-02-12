@@ -1,0 +1,1 @@
+  bug_fix_amchart - version up 3.11.3->3.12.0  

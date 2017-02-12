@@ -1,0 +1,1 @@
+  HADOOP-6312. Remove unnecessary debug logging in Configuration constructor. Contributed by Aaron Kimball   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@826141 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  in attempt to fix just one test rewrite half the java method call completion; but the code now is much more self-contained, and the test is fixed  

@@ -1,0 +1,1 @@
+  - added new check for nested access of indices (that might lead to deadlock) - removed debug trace in flush when stub indices haven't been initialized  

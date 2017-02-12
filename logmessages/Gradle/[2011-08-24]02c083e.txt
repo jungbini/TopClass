@@ -1,0 +1,1 @@
+  GRADLE-1758 housekeeping, added some explicit coverage for stopping daemons, fixed one issue that could cause the NPE in the daemon. Some tiny refactoring.  

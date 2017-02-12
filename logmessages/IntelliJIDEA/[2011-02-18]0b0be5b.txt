@@ -1,0 +1,1 @@
+  untested new ""'if' replaceable with 'switch'"" inspection with quickfix that (replaces to string switch under jdk1.7)  

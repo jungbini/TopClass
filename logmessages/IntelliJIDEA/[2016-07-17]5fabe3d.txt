@@ -1,0 +1,1 @@
+  git branch delete: display base branch name without refs/remotes prefix  

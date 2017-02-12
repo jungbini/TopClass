@@ -1,0 +1,1 @@
+  Change snapshot version in gradle configurator and AddKotlinLib quick fixes.  

@@ -1,0 +1,1 @@
+ bug fix - not applied to application list when change favorite list  

@@ -1,0 +1,1 @@
+  1) Refactor the BrokerMain into a BrokerMain and a BrokerNode to allow for extensions 2) Rename ServerMain to ComputeMain 3) Refactor ComputeMain to ComputeMain and ComputeNode to allow for extensions 4) Remove "TheSizeAdjuster", was old legacy stuff that's not relevant anymore 5) Fix bug with registering 

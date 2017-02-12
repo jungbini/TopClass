@@ -1,0 +1,1 @@
+  Styling of decorator list (#2744)  * Do not move decorator help link with first decorator Using padding with the scrollable list item takes that space as part of the preview that gets dragged, and in this case it includes the help link.  This change gives height to the help link container instead, fixing the display issue. * Fix scrolling on decorator list  Fixes #2743  

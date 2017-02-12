@@ -1,0 +1,1 @@
+  fix bug introduced in 46d9b5  relates #WEBINTERFACE-324  

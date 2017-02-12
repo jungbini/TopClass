@@ -1,0 +1,1 @@
+  Offset mapping bug fix. Definitely getting better.  

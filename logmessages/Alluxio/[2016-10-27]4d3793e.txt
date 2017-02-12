@@ -1,0 +1,1 @@
+ Merge pull request #4266 from PasaLab/docfix-running--alluxio-on-gce-zyf-1027  [DOCFIX] Update Running-Alluxio-on-GCE.md of Chinese version  commit 4d3793e37a496a81a08c22c2ba92fc0d736f024b  Fix bug  

@@ -1,0 +1,1 @@
+  bugfix: GELF header decoding was not according to current GELF specs. now working with current gelf-rb but all other libraries will need an update  

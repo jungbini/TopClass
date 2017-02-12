@@ -1,0 +1,1 @@
+  fixed PY-7438 Specify return type in docstring: disable intention for unresolved reference: NPE at com.jetbrains.python.codeInsight.intentions.SpecifyTypeInDocstringIntention.invoke  

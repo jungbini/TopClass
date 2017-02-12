@@ -1,0 +1,1 @@
+  Housekeeping - renamed the 'model' sample into 'eclipse' sample. Added some more to the sample. Added some toStrings() so that sample output is more interesting and debugging easier.  

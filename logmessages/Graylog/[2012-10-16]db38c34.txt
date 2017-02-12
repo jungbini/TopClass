@@ -1,0 +1,1 @@
+  added outputbuffer_processors to graylog2.conf  fixes #SERVER-169  

@@ -1,0 +1,1 @@
+  fixed path to base persist directory for rand example  

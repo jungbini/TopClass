@@ -1,0 +1,1 @@
+  fix preselecting Map after new  

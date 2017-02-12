@@ -1,0 +1,1 @@
+  java-decompiler: NPE in test fixture; diagnostic  

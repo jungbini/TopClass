@@ -1,0 +1,1 @@
+  be loud when mongodb isn't available during startup  fixes #659  

@@ -1,0 +1,1 @@
+  fix concurrency issue with the map; introduce new exception; add incomplete retry query runner test  

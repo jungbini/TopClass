@@ -1,0 +1,1 @@
+  fixed quickfix for unresolved reference adding self  

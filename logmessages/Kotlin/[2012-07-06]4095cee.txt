@@ -1,0 +1,1 @@
+  Android module: fix incorrect command for stopping emulator  

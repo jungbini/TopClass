@@ -1,0 +1,1 @@
+  JS backend: minor -- fix typo in fromFakeClasses.kt  

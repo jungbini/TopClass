@@ -1,0 +1,1 @@
+  KJS: fixes after backporting changes with supporting class literals.  * Remove features which unsupported in 1.0.x; * Slightly rewrite code generation for class literals; * Don't deprecate jsClass extension property since no alternatives to get JsClass or KClass from expression in 1.0.x; * Slightly rewrite tests.  

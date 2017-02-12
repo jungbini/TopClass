@@ -1,0 +1,1 @@
+  Gracefully handle `Thread.interrupt()` during parsing  Summary: Previously, when we received an `InterruptedException` while parsing a BUCK file, this would be thrown as a flavor of `IOException` which we converted into a parse exception.  This 

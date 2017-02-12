@@ -1,0 +1,1 @@
+  fix regression in CVS conflict processing (IDEADEV-19536)  

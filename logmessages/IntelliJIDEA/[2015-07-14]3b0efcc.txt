@@ -1,0 +1,1 @@
+  Debugger does not show all fields of classes that extends built-ins (PY-9894)  Additionally check the object's fields for built-in collections via default resolver.  

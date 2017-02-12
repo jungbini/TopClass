@@ -1,0 +1,1 @@
+  merge: MultipleFileMergeDialog can be parent  fix issue with modal progress, that didn't block this dialog.  

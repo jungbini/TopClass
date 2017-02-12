@@ -1,0 +1,1 @@
+  fixed unix dist script  

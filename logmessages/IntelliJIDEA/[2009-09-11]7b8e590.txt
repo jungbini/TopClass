@@ -1,0 +1,1 @@
+  one more fix for moving Java files outside of source roots  

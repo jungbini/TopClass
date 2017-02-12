@@ -1,0 +1,1 @@
+  IDEA-135132 Usability issues with resource bundles: NPE in Tab Action on resource bundle editor fixed  

@@ -1,0 +1,1 @@
+  Testing framework now allows checking only specified warnings and highlightings (bug fixed) (c280b5094ed1f9ee4b0801e61d5cb796bb5a5399)  

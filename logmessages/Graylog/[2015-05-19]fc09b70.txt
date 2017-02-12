@@ -1,0 +1,1 @@
+  tweak icons for expand/collapse messages  fixes #1291  

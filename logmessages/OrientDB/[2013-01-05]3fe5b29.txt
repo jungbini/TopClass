@@ -1,0 +1,1 @@
+  Important: fixed some bugs opening a damaged database. In some cases the user can't access to the database anymore and this is super critical  It's much better to report a problem and loose some records than avoiding the access to the database! Every implementation in OrientDB should take care about it.  

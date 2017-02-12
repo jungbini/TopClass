@@ -1,0 +1,1 @@
+  fixed PY-11610 Django johnny-cache breaks django_test_manage.py  

@@ -1,0 +1,1 @@
+  GRADLE-1774 fixed project properties with equals - introduced AbstractPropertiesCommandLineConverter for handling property based cmdline options. - extracted logic from SystemPropertiesCommandLineConverter to AbstractPropertiesCommandLineConverter - introduced ProjectPropertiesCommandLineConverter for projectProperties  

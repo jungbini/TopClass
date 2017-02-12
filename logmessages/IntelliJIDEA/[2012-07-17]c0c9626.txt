@@ -1,0 +1,1 @@
+  RUBY-10432: haml lexer should generate pseudo start tag token for all tags (not only implicit). #RUBY-10432 fixed  

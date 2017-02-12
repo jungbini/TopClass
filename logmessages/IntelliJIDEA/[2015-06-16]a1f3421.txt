@@ -1,0 +1,1 @@
+  fix moving through boundary between bidi runs with nonadjacent levels  

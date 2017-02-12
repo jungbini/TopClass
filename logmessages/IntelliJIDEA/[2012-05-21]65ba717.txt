@@ -1,0 +1,1 @@
+  RUBY-11132: changed SlimEnterHandler to honor "use tabs" setting #RUBY-11132 fixed SlimEnterHandler now replace as many spaces as possible by tabs if "use tabs" is set  

@@ -1,0 +1,1 @@
+  fix+reactor(web): fixed an issue sudden appearance of the activity panel;  

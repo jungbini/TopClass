@@ -1,0 +1,1 @@
+  do not write Activity for missing master all the time. fixes #423  

@@ -1,0 +1,1 @@
+  Reverting MAPREDUCE-4162 until dependency issue can be fixed.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1335646 13f79535-47bb-0310-9956-ffa450edef68  

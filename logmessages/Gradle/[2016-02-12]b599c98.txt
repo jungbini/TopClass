@@ -1,0 +1,1 @@
+  Recognize Pavel Fadeev for fixing exclude('*')  +review REVIEW-5814 - More background on GRADLE-3182  

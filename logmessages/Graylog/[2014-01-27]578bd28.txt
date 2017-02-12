@@ -1,0 +1,1 @@
+  change syslog processor log levels. fixes #570  

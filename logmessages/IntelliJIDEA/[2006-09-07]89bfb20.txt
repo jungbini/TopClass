@@ -1,0 +1,1 @@
+  use GlobalSearchScope for resolve while evaluation expressions in debugger  

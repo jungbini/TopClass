@@ -1,0 +1,1 @@
+ update Java version, other notes from bug reports  

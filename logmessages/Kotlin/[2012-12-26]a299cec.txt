@@ -1,0 +1,1 @@
+  KT-3174 Call resolver doesn't understand type is not-nullable after ?. safe call #KT-3174 fixed  

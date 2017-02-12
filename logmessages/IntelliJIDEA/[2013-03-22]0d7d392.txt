@@ -1,0 +1,1 @@
+  fixes for http://crucible.labs.intellij.net/cru/CR-IC-307  

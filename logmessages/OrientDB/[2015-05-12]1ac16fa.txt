@@ -1,0 +1,1 @@
+  fix ClassCastException in SQL select when using 'order by' clause against expand()  

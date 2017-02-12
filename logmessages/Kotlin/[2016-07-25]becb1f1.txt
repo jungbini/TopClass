@@ -1,0 +1,1 @@
+  Make stack values for assignment-like operations lazy  As well as for other kinds of expressions  Within attached test they were generated twice in case of last expression of coroutine block, because coroutine related codegen part is built upon assumption that all expressions should be generated lazily  Also add a test about unary postfix increment/decrement  #KT-13156 Fixed  

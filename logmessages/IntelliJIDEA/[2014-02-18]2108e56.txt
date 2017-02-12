@@ -1,0 +1,1 @@
+  fix for PY-12186 Project interpreter: not able to select element in appeared settings menu  

@@ -1,0 +1,1 @@
+ Merge pull request #2055 from jkukul/documentation-fixes  Minor documentation fixes.  commit 8248f7f40cdcdb6debee2e0f2465c5e73c52d821  Minor docs fixes in 'Evaluate Druid' section.  

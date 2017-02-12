@@ -1,0 +1,1 @@
+  fix: envlope animation causes EDT lock  

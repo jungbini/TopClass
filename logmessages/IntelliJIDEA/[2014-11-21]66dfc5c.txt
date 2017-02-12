@@ -1,0 +1,1 @@
+  fixed PY-14488 Pycharm community 4 terminates with exception after installing and importing setting from old one  

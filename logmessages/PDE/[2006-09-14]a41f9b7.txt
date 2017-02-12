@@ -1,0 +1,1 @@
+  adding fixes to find/replace and cmd key for switching tabs  

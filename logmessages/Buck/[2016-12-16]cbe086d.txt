@@ -1,0 +1,1 @@
+  dbuck: Make it portable  Summary: Fixes: #1044.  Decompose non portable one liner for killing older debugger instances and make it work on Linux, BSD and Mac OS X. Closes https://github.com/facebook/buck/pull/1051  Test Plan: Start one instance of dbuck Start another instance Confirm that the first instance was killed  Reviewed By: k21  fbshipit-source-id: fcb91f6  

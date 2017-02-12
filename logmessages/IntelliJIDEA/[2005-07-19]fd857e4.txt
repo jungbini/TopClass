@@ -1,0 +1,1 @@
+  fixed: VssCheckout from UsageView with multiple files selected checked out only one file  

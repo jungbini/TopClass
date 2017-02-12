@@ -1,0 +1,1 @@
+  external build: show message if build process is waiting for debugger connection  

@@ -1,0 +1,1 @@
+  Fix JsFileParser to be more strict in parsing goog.require statements.  This fixes a bug introduced in an earlier CL where goog.require in string literals were getting parsed as actual dependencies. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=119678153  

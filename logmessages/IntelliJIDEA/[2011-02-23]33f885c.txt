@@ -1,0 +1,1 @@
+  preserve selection during inline rename/ refixed  

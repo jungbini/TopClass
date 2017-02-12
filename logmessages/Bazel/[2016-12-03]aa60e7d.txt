@@ -1,0 +1,1 @@
+  Add strip_prefix and strip_include_prefix attributes of cc_library.  Design doc is at https://docs.google.com/document/d/18qUWh0uUiJBv6ZOySvp6DEV0NjVnBoEy-r-ZHa9cmhU .  RELNOTES: cc_library now supports the strip_prefix and strip_include_prefix attributes for  control of include paths.  -- PiperOrigin-RevId: 140950225 MOS_MIGRATED_REVID=140950225  

@@ -1,0 +1,1 @@
+  fix vcs tests by adding explicit vfs refreshes  

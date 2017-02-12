@@ -1,0 +1,1 @@
+  cleaning up the prefs, remove debug msg  

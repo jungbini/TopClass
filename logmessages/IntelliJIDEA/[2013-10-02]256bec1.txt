@@ -1,0 +1,1 @@
+  advance stub versions as we fixed problem with before / after events in FileBasedIndexImpl  

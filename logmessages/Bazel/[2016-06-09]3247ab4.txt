@@ -1,0 +1,1 @@
+  Adds the path to the debug keystore to the apk_manifest.  -- MOS_MIGRATED_REVID=124510100  

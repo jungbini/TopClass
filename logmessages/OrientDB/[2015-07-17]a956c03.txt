@@ -1,0 +1,1 @@
+  fixed diplay raw record for remote storage, issue #4596  

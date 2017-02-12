@@ -1,0 +1,1 @@
+  fix bug where embedded quotes only worked for last quote  

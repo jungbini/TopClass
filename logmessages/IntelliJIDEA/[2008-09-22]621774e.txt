@@ -1,0 +1,1 @@
+  editor tabs + splitter endless repaint fixed  

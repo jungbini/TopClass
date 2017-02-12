@@ -1,0 +1,1 @@
+  WEB-10367 JavaScript Debugging in Firefox hangs PhpStorm  

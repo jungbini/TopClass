@@ -1,0 +1,1 @@
+  Drop filling inheritance flag for undefined attributes (fixes IDEA-146888 Syntax highlighting loss of colour in EAP-143.434)  

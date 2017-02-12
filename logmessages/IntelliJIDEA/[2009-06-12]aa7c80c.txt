@@ -1,0 +1,1 @@
+  IDEADEV-37762 (Inspection that warns about Class.newInstance() with quickfix to convert to Class.getContstructor().newInstance())  

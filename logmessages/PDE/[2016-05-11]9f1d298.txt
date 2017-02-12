@@ -1,0 +1,1 @@
+  makes OBJ parsing less strict, fixes #3156  

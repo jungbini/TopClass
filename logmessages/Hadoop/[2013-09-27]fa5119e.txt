@@ -1,0 +1,1 @@
+  Merge -c 1527033 from trunk to branch-2.1-beta to fix MAPREDUCE-5531. Fix compat with hadoop-1 in mapreduce.(TaskID, TaskAttemptID) by re-introducing missing constructors. Contributed by Robert Kanter.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1527035 13f79535-47bb-0310-9956-ffa450edef68  

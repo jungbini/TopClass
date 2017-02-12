@@ -1,0 +1,1 @@
+  Significant rewriting/improvements to the query engine. Fixes #44. Fixes possible double constraint counting bug. Fixes null handling in general. Speeds up query execution by smarter interval intersection. Extends test cases.  

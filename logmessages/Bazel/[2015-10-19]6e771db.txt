@@ -1,0 +1,1 @@
+  Recognize SourceDebugExtension attributes in ijar  This doesn't change behaviour (they continue to get dropped from the interface jar), but it avoids some spurious "skipping unknown attribute" warnings.  -- MOS_MIGRATED_REVID=105767979  

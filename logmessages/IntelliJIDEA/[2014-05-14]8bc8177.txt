@@ -1,0 +1,1 @@
+  fixed PY-11929 Insert type assertion should be disabled for references introduced in dict comprehensions  

@@ -1,0 +1,1 @@
+  Fix bug in compact storage metadata handling  patch by slebresne; reviewed by jasobrown for CASSANDRA-5189  

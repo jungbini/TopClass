@@ -1,0 +1,1 @@
+ Merge pull request #282 from dlsniper/fix-colors  Add missing properties  commit e61bfb8c2a61f801e5767c015ce4bd6d25c35c91  fix indentation  

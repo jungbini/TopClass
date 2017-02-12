@@ -1,0 +1,1 @@
+  Findbugs suggest this class be static, and I don't see a reason it shouldn't be  Summary: Playing with Findbugs and pointing it at Buck  Test Plan: sandcastle  

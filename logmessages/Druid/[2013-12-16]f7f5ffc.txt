@@ -1,0 +1,1 @@
+  add S3 segment move test and fix bug caught by test  

@@ -1,0 +1,1 @@
+  fix chained modifiers execution (new query executor)  

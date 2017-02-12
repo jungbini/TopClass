@@ -1,0 +1,1 @@
+  Debugger: check that virtual machine allows to get bytecodes  

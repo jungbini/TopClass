@@ -1,0 +1,1 @@
+  KT-2125 Inconsistent error message on UNSAFE_CALL #KT-2125 fixed  

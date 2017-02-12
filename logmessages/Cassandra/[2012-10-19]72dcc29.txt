@@ -1,0 +1,1 @@
+  fix indexing empty column values patch by jbellis for CASSANDRA-4832  

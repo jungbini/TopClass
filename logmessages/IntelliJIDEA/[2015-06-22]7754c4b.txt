@@ -1,0 +1,1 @@
+  logging to fix IDEA-141738 Quick Lists: AIOOBE at com.intellij.ui.CollectionListModel.setElementAt  

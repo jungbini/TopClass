@@ -1,0 +1,1 @@
+  Disable test on windows until linking MinGW and Cygwin are fixed  

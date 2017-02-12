@@ -1,0 +1,1 @@
+  IDEA-113922 incorrect statusbar text when hover Mercurial > Update to fixed  

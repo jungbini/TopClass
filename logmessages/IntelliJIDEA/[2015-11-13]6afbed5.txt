@@ -1,0 +1,1 @@
+  quick fix which adds exception from field initializer to constructor signature (IDEA-142284)  

@@ -1,0 +1,1 @@
+ Merge pull request #872 from apc999/cleanup3  [TACHYON-413] Code cleanup and doc fix in NettyDataServer  commit 24ea05c8492183cec4b02533363429e65cda1d1f  bug in precondition of not syncing tachyon from master, should only happen when provider is vb and tachyon is local.  

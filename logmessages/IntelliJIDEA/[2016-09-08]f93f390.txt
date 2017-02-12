@@ -1,0 +1,1 @@
+  [shelf]: implement separated silent shelve/unshelve actions  * add icons and shortcuts; * fix keymap tests;  

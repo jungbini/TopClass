@@ -1,0 +1,1 @@
+  [TACHYON-1129] Fix a bug that returns wrong value to indicate if worker is local  

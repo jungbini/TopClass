@@ -1,0 +1,1 @@
+  PY-16373 Return accidentally removed "locally" suffix from the name of local auto import quickfix  

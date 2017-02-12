@@ -1,0 +1,1 @@
+  IDEA-131653 The "Value Auto Tooltip" option in the Debugger Settings menu does not work properly  

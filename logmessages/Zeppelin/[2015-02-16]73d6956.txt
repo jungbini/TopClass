@@ -1,0 +1,1 @@
+ [HOTFIX] add build options for cdh 5.x - fixed typo  

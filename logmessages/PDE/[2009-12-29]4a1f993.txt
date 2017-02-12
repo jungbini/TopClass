@@ -1,0 +1,1 @@
+  Added alphabetical index to IndexWriter. Various fixes for other writers.  

@@ -1,0 +1,1 @@
+ Merge pull request #964 from deeplearning4j/cnnhwfix  Fix height vs. width issue in max pooling backprop  commit 5d11c4e61fefeb1a5230606c5d21695d8ec742ca  Cleanup and bug fix on shuffle indexing  

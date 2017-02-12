@@ -1,0 +1,1 @@
+  Fix CI build - fix testclass lookup in HtmlTestExecutionResult - split test scoped ignored classes to extra package to support JUnit 4.0 in JUnitCrossVersionIntegTest  

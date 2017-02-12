@@ -1,0 +1,1 @@
+  fix renaming package containing nested forms/images (IDEADEV-28896); fix renaming images used in forms  

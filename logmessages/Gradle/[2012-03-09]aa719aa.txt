@@ -1,0 +1,1 @@
+  Updated new default after fixing GRADLE-1881. eclipse.project.name instead of project.name.  

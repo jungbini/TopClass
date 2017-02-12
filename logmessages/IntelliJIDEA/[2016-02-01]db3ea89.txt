@@ -1,0 +1,1 @@
+ 'Problems' view in 'Project Structure': fixed escaping of error messages (IDEA-151029)  

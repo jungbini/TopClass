@@ -1,0 +1,1 @@
+  'Add annotations to classpath' quickfix supported when IDEA is running from sources  

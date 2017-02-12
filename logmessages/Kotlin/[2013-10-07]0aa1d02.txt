@@ -1,0 +1,1 @@
+  JS backend: fixed bug with the sourcemap generation when binary operation used as statement.  

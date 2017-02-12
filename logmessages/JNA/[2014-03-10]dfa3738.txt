@@ -1,0 +1,1 @@
+  Ensure the linker supports @unwind sections in libffi. From Mozilla bug 756740. https://bugzilla.mozilla.org/show_bug.cgi?id=778414  Also tracked as issue #42. https://github.com/atgreen/libffi/issues/42  

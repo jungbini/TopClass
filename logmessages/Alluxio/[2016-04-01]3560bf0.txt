@@ -1,0 +1,1 @@
+ Merge pull request #2954 from PasaLab/DOCFIX-debugging-guide  [DOCFIX] add the chinese version of DebuggingGuide.md  commit fb421d6288f758c56f0e60f365c5dab99bfac724  Merge pull request #2955 from PasaLab/docfix-GCE  [DOCFIX] Add the Chinese version of Running-Alluxio-on-GCE.md  commit 3560bf06712f89741953c283494ce291135d2535  fix a sentence  

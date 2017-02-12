@@ -1,0 +1,1 @@
+  Maven: module wizard 'inherit id/version' fix + inherit jdk fix (IDEADEV-39700)  

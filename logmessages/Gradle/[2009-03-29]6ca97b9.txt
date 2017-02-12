@@ -1,0 +1,1 @@
+  GRADLE-426: - merged the java project from the userguide into the sample java projects, and include the code as snippets (and fixed the broken bits) - some more words for the java tutorial chapter - added more java and groovy plugin int tests  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@1306 004c2c75-fc45-0410-b1a2-da8352e2331b  

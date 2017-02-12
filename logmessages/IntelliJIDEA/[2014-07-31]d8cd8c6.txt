@@ -1,0 +1,1 @@
+  fixed new project size and name for Community Edition  PY-13268 New Project: Do not show select project type step in Community Edition  

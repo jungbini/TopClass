@@ -1,0 +1,1 @@
+  Fix diagnostic messages for properties. Fix IDE tests. Update quick fixes in IDE (TODO: review new inheritance-related diagnostics with regards to quick fixes)  

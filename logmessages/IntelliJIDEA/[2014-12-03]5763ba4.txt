@@ -1,0 +1,1 @@
+  IPP: fix convert catch to throws inside a lambda  

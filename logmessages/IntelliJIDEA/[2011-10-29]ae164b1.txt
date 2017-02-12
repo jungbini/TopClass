@@ -1,0 +1,1 @@
+  revert file dialog focus bug: provided invisible component for focus request  

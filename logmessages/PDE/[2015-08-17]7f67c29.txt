@@ -1,0 +1,1 @@
+  move processing-java to /usr/local/bin (fixes #3497)  

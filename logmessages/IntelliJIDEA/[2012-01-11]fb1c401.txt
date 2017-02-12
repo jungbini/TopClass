@@ -1,0 +1,1 @@
+  IDEA-79252 Add missing dependency quick fix on unresolved class references in Groovy  

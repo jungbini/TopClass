@@ -1,0 +1,1 @@
+  Another fix for EA-19269 (when a text is not properly covered with formatting blocks) + working test.  

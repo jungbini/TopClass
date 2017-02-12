@@ -1,0 +1,1 @@
+ bug fix. - wrong analytics send of auto update click.  

@@ -1,0 +1,1 @@
+  Refactored and extended tests for inspections and quickfixes.  

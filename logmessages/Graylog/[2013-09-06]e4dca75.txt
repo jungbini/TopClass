@@ -1,0 +1,1 @@
+  set index to readonly after cycling away deflector  fixes #216  

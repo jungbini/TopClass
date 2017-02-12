@@ -1,0 +1,1 @@
+  Perform folding for prefix literal expressions with addition operator: e. g. "+3" (IDEA-127689)  

@@ -1,0 +1,1 @@
+  fix editable combobox borders under some LAFs  

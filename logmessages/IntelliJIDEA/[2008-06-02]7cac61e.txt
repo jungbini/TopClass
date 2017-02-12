@@ -1,0 +1,1 @@
+  register HintAction from ProblemDescriptor as a quick fix  

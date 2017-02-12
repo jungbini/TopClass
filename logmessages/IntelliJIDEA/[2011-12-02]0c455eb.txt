@@ -1,0 +1,1 @@
+  fixed PY-5195 Move Statement: loses code on moving nested function  

@@ -1,0 +1,1 @@
+  Updater: restart after update fixed (IDEA-82294)  

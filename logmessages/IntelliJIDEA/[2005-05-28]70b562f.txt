@@ -1,0 +1,1 @@
+  1. Flatten titles for inactive toolwindows. 2. Frame menu background problem fixed.  

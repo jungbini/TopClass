@@ -1,0 +1,1 @@
+  fix a PY-7318 Converting dictionary creation to dictionary literal does not handle duplicate items correctly  

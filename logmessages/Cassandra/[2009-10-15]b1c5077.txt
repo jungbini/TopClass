@@ -1,0 +1,1 @@
+  fix token to cover (left, right] like the rest of Cassandra (and Range.toString).  patch by Stu Hood; reviewed by jbellis for CASSANDRA-495  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@825684 13f79535-47bb-0310-9956-ffa450edef68  

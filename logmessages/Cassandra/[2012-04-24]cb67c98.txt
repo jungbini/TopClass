@@ -1,0 +1,1 @@
+  fix stress tool that hangs forever on timeout or error patch by Pavel Yaskevich; reviewed by Brandon Williams for CASSANDRA-4128  

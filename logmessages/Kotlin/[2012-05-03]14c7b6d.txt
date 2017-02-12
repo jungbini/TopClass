@@ -1,0 +1,1 @@
+  Made "Specify type explicitly" intention available for loop parameters.  #KT-1890 fixed  

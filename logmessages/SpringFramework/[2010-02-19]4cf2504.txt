@@ -1,0 +1,1 @@
+  + backport template fix from trunk (rev 3014) + change pom version to 3.0.1.RELEASE-A (instead of RELEASE.A)  

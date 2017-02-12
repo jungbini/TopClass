@@ -1,0 +1,1 @@
+ #10 from AhyoungRyu/ZEPPELIN-1279-ahyoung 076fdba [AhyoungRyu] Change zeppelin_mesos_conf.png file 1cbe9d3 [astroshim] fix spark version and mesos 2b821b4 [astroshim] fix docs 159bafc [astroshim] fix anchor d8c43b4 [astroshim] add navigation c808350 [astroshim] add image file and doc a3b0ded [astroshim] create dockerfile for mesos  

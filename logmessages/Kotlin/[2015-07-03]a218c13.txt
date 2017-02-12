@@ -1,0 +1,1 @@
+  Adjust testData: JDK collections behave like non-platform in backend  Some of that changes looks like regression and should be fixed soon  

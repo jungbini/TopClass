@@ -1,0 +1,1 @@
+  fixed OUser and ORole superclass management in import database, issue #5485  

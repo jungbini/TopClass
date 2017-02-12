@@ -1,0 +1,1 @@
+  Change ToolingApiSpecification to stop daemon processes before cleaning up temporary folders  - Todo: fix specs that are not extending ToolingApiSpecification  

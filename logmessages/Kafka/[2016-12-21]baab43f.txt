@@ -1,0 +1,1 @@
+  MINOR: KStream JavaDoc fix  Author: Matthias J. Sax <matthias@confluent.io>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #2284 from mjsax/javaDoc  

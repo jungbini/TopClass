@@ -1,0 +1,1 @@
+ Spellchecker: fix state serialization - do not save default settings  

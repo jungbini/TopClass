@@ -1,0 +1,1 @@
+  IDEA-144727 Allow to quickly hide/show object types - fixed for evaluate dialog  

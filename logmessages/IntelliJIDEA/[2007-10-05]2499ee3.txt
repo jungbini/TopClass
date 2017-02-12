@@ -1,0 +1,1 @@
+  [reviewed by maxim mossienko]: brute force NPE and SOE fixes.  

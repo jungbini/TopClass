@@ -1,0 +1,1 @@
+  Javafx: Quick fix for event handler method's signature: added TODO comment about handling wildcard types. (IDEA-151694)  

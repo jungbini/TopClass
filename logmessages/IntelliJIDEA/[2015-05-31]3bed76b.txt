@@ -1,0 +1,1 @@
+  [log] VcsLogRefresherTest: remove the suite method added for debugging purposes  

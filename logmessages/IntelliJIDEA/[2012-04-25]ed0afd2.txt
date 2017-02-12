@@ -1,0 +1,1 @@
+  IDEA-79715 Groovy: Inspection "There is no default constructor available in class *"  must have a quickfix  

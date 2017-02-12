@@ -1,0 +1,1 @@
+  Make sidebar affix appear over of the main content  Fixes issues with elements inside the sidebar showing behind the main content.  

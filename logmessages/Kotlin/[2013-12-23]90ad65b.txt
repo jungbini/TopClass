@@ -1,0 +1,1 @@
+  Made rename refactoring inplace for loop, catch and function literal parameters.  #KT-1296 fixed  

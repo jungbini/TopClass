@@ -1,0 +1,1 @@
+  IDEA-154724 ui: fix editor code lens under HiDPI  

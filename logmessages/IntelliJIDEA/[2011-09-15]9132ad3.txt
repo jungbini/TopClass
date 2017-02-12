@@ -1,0 +1,1 @@
+  fix NavigateFromSourceTest: it seems like we should not reset multiple selection if one of the selected elements is the one we want to select by navigate action  it will fight for selection with NavigateToSource action otherwise: try to enable both options and multiple select then RMB -> selection is reseted :(  

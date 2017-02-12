@@ -1,0 +1,1 @@
+  Put in snapshot. Issue when in tx rid set conversion leads to index data lost was fixed.  

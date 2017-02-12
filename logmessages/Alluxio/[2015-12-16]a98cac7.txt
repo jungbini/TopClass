@@ -1,0 +1,1 @@
+  tachyon-fuse: fixed tachyon.fuse.fs.name property and doc  

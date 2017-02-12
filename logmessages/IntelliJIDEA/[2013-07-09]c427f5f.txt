@@ -1,0 +1,1 @@
+  Docstrings highlighting: Do not stop on the first line after backslash  fixed PY-10254 Highlight of multiline expressions in doctests  

@@ -1,0 +1,1 @@
+  OIndexFullText: register all word prefixes  

@@ -1,0 +1,1 @@
+  Removed old workaround for running on Java 5, which causes tasks that use `IsolatedAntBuilder` to fail when run in testkit with debug mode.  

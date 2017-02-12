@@ -1,0 +1,1 @@
+  fixed PY-5200 Move statement: ineffective moving of nested if block  

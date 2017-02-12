@@ -1,0 +1,1 @@
+  MINOR: Add application id prefix for copartitionGroups in TopologyBuilder  This is bugfix that is already in trunk but not backported to 0.10.0.  Author: Guozhang Wang <wangguoz@gmail.com>  Reviewers: Damian Guy <damian.guy@gmail.com>, Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1735 from guozhangwang/Kminor-topology-applicationID-0.10.0  

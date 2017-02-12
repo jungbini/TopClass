@@ -1,0 +1,1 @@
+ Merge pull request #2309 from metamx/fix2308  Fix overlord scheduled executor injection  commit 0c5f4b947cbae17d3d89b17adf08245bf2988443  Merge pull request #2301 from metamx/fix-2299_2  fix reference counting for segments  commit 59ea186af7a539cdf6a203abaf912649c7ef41f6  fix reference counting for segments  

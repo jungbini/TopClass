@@ -1,0 +1,1 @@
+  HDFS-2835. Fix findbugs and javadoc issue with GetConf.java. Contributed by Suresh Srinivas.    git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1238779 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+ use uppercase strings to compare two hex-value strings fixes issue: FS20 - Converting Value to raw-message fails #1635 see https://github.com/openhab/openhab/issues/1635  

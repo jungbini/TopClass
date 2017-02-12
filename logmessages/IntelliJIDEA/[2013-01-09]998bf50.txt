@@ -1,0 +1,1 @@
+  fixed  PY-8405 Change Signature: invalid base method is proposed to be refactored for multiple inheritance  

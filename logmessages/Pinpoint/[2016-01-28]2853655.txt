@@ -1,0 +1,1 @@
+ bug fix. - not display when fail count is zero  

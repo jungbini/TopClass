@@ -1,0 +1,1 @@
+  IDEA-162800 Run indicator missing from run and debug popups  

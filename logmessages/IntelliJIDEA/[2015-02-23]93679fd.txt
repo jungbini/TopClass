@@ -1,0 +1,1 @@
+  platform: class path fixes and cleanups  - no more duplicates in class path - correct order of entries copied from app class loader hierarchy - dysfunctional case of Ant class loaders dropped  

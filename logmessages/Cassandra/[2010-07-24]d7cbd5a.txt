@@ -1,0 +1,1 @@
+  backport CASSANDRA-685 fix from r963941 in trunk  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.6@978791 13f79535-47bb-0310-9956-ffa450edef68  

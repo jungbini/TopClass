@@ -1,0 +1,1 @@
+  fix build  wrong pom dependency use netty's Base64 codec instead of the version coming in some drools package  

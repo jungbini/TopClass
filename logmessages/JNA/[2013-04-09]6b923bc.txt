@@ -1,0 +1,1 @@
+  avoid superfluous rebuilds on windows, fix md5 checksum with newer ant  

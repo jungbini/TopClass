@@ -1,0 +1,1 @@
+  IDEA-56238 (Dotted line effect does not always paint dotted line)  fixed error highlighting after end of line for dotted line, strikeout and bold underscore effects  

@@ -1,0 +1,1 @@
+-references.  Existing problem: multiple-root branches with same names (both on the panel and in the filter).  

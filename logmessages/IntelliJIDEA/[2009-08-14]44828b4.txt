@@ -1,0 +1,1 @@
+  package prefix while copying resources  

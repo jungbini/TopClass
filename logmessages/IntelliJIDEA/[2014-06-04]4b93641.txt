@@ -1,0 +1,1 @@
+  fix html parsing (big thanks to cdr)  

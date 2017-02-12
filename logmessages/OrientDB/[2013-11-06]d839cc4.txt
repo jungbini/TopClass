@@ -1,0 +1,1 @@
+  Issue when less than limit records are returned in indexed queries was fixed.  

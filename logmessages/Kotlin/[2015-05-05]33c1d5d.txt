@@ -1,0 +1,1 @@
+  JS fix tests failed due to api change  

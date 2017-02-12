@@ -1,0 +1,1 @@
+  made lock free + potential race fixed  

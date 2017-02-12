@@ -1,0 +1,1 @@
+s in HgCommitCommand is Empty. Need to commit all files in changeList,but  can't call setFiles() method.  see HgCheckinEnviroment->commit() method *Check if filePaths is empty, then  try to commit without chunk. *May produce ShellCommand error if there are many merged files. Need to fix this case. (cherry picked from commit f1f86a2c3851001945ee9be1f55c68a023b920ec)  

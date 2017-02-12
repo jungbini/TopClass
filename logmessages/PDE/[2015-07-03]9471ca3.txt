@@ -1,0 +1,1 @@
+  get tweak mode working again, remove debug msg, remove unneeded access levels (fixes #3435)  

@@ -1,0 +1,1 @@
+  MAPREDUCE-4276. Allow setting yarn.nodemanager.delete.debug-delay-sec property to -1 for easier container debugging. (ahmed via tucu)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1342075 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Maven: deadlock on facade initalization fixed (IDEA-57424)  

@@ -1,0 +1,1 @@
+  [bug fix] remove from extends list result in addition to implements list  

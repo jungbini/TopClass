@@ -1,0 +1,1 @@
+  Use a variable for product name in launcher messages  This fixes almost everything, there are still a couple of blazerc messages.  -- MOS_MIGRATED_REVID=88846240  

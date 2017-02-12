@@ -1,0 +1,1 @@
+  Display struct methods as part of the struct in project structure view, fix #1712  

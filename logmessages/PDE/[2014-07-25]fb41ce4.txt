@@ -1,0 +1,1 @@
+ Merge pull request #2645 from JakubValtar/blend-fix  Fixes blending operations in Java2D  commit fb41ce492e60f38e00070eb765bc07fa14283fb1  more bug fixes  

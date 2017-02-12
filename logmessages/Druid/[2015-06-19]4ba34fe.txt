@@ -1,0 +1,1 @@
+  minor documentation fixes in Tasks.md, index.md, indexing-service.md  

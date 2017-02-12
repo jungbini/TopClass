@@ -1,0 +1,1 @@
+  AppCode: reworked debugger process + correctly starting and stopping iphone simulator handler.  

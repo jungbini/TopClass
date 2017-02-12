@@ -1,0 +1,1 @@
+  IDEA-137333 JavaEE 7 XML schema mapping is broken and seems to pick XSDs at random: fixing autodetection for xmlns decls  

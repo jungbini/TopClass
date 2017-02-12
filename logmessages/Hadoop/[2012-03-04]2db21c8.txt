@@ -1,0 +1,1 @@
+  Merge -c 1296878 from trunk to branch-0.23.2 to fix MAPREDUCE-3960. Fix web-proxy to forward request to AM with configured hostname or IP.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23.2@1296881 13f79535-47bb-0310-9956-ffa450edef68  

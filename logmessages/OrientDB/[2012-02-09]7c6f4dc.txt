@@ -1,0 +1,1 @@
+  Added new testcase for custom POJO types and fixed a minor bug by jumping the field this$0 always present in inner classes and enums  

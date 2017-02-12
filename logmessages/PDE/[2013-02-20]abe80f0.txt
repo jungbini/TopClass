@@ -1,0 +1,1 @@
+  adding debug code to wrongly accuse the caret blinker of issue #1561  

@@ -1,0 +1,1 @@
+ fixes NodeSet#wrap on fragment nodes. closes #331  

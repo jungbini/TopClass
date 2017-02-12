@@ -1,0 +1,1 @@
+  CustomResourceBundleTest fixed to work on any locales environment  

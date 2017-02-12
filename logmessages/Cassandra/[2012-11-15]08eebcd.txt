@@ -1,0 +1,1 @@
+  fix 'help describe cluster' in cassandra-cli  

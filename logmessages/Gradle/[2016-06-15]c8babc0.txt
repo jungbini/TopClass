@@ -1,0 +1,1 @@
+  Disable URLConnection cache in loading Gradle version information  - fixes "java.io.EOFException: Unexpected end of ZLIB input stream" on Windows  

@@ -1,0 +1,1 @@
+  [formatter]: fix comments indentation inside multiple declarations  

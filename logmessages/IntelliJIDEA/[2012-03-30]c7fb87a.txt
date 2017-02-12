@@ -1,0 +1,1 @@
+  fixed state for recursive visitor interrupted by ProcessCanceledException (IDEA-55374) [rev by cdr]  

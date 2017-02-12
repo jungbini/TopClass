@@ -1,0 +1,1 @@
+  fix GroupItems require special treatment for TOGGLE-command as well  

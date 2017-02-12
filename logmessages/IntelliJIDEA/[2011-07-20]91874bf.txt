@@ -1,0 +1,1 @@
+  IDEA-70899 do not restart adb every time when debugging on nexus s [rev=rustam.vishnyakov]  

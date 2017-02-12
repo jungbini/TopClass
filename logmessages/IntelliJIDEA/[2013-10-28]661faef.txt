@@ -1,0 +1,1 @@
+  provide html tag with for html files #WEB-444 fixed  

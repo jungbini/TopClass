@@ -1,0 +1,1 @@
+  Switched ChangeDetector to use the last modified times from processing (when the file was last saved or loaded) and compare with the system's last modified time. Added supporting code in SketchCode to get these times. Added a tiny fix in Sketch to allow processing to actually start  

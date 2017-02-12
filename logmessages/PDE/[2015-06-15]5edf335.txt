@@ -1,0 +1,1 @@
+  more nannying at the expense of performance (fixes #3347)  

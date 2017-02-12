@@ -1,0 +1,1 @@
+  Pseudo functional style inspection: 1. options list listeners fixed 2. validation by method return type fixed  

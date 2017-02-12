@@ -1,0 +1,1 @@
+ build from JiBX 1.1.5 to 1.2.3, as the bug mentioned was fixed in JiBX 1.2. See JIBX-441 for more details.  Issue: SPR-8360  

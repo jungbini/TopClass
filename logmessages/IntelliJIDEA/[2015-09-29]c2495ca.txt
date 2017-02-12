@@ -1,0 +1,1 @@
+  build.xml for IDEA CE: pass system properties without adding extra quotes to fix build on Linux  

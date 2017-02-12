@@ -1,0 +1,1 @@
+  fix IDEA-112499 for single member static imports  

@@ -1,0 +1,1 @@
+  KT-2960 Perform control flow checks for package property initializers #KT-2960 fixed  

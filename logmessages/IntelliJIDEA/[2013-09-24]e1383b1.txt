@@ -1,0 +1,1 @@
+  refix and add test for IDEA-90294 Don't use substring match in word completion  

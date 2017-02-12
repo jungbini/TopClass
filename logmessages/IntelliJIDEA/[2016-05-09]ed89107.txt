@@ -1,0 +1,1 @@
+  consider application startup a user activity (fixes assertions during project opening in non-ide application kinds, e.g. inspections)  

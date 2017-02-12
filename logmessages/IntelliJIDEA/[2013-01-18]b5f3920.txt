@@ -1,0 +1,1 @@
+  fix: if module output root was deleted externally, only one of the targets sharing the deleted output was fully rebuilt  

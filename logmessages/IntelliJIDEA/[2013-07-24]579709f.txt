@@ -1,0 +1,1 @@
+  WEB-8008 Built-in web server: Shift + Alt + F2 doesn't open a local URL. Only mouse click fixed  

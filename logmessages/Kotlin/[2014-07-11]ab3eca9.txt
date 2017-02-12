@@ -1,0 +1,1 @@
+  J2K: got rid from Converter.convertElement + fixed local classes conversion  #KT-5202 Fixed  

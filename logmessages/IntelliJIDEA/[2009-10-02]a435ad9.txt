@@ -1,0 +1,1 @@
+  TreeUi: infinite loop of expanding non-visible empty root fixed  

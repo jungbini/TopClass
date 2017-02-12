@@ -1,0 +1,1 @@
+  Eventlet monkey patching breaks debugger (PY-18929)  Remove condition about gevent installed on interpreter. There is no need for such check anymore, because multithreading debugging was fixed (PY-18823), but it breaks support for other patching libraries such as eventlet.  

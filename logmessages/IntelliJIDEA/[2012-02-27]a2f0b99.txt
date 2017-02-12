@@ -1,0 +1,1 @@
+  svnkit 8859, with fixed assertion on deleted status  

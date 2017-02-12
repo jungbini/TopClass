@@ -1,0 +1,1 @@
+  [log] Rename packages to conform common com.intellij.* prefix  

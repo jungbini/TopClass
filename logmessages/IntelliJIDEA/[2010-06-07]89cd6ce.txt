@@ -1,0 +1,1 @@
+  enter action fixed in multi-line injected code (IDEA-55371)  

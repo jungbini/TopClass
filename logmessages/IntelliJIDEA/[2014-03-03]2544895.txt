@@ -1,0 +1,1 @@
+  IDEA-121502 Breakpoint condition language is reverted to default once breakpoint properties opened  reverted fix for IDEA-121528  

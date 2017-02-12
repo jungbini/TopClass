@@ -1,0 +1,1 @@
+  EA-32366: fix NPE in GormPropertiesListReferenceReferenceProvider.  

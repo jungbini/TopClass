@@ -1,0 +1,1 @@
+  KDoc tests fixed by setting kotlinHome explicitly  

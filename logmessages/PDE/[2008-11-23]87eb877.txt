@@ -1,0 +1,1 @@
+  fix layout of macosx dialog, error after 26 sketches, export dialog work  

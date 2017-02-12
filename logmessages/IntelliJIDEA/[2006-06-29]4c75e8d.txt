@@ -1,0 +1,1 @@
+  fixing reference providers to allow completion with no prefix  

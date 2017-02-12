@@ -1,0 +1,1 @@
+  Propagate exception cause in methods of BuckQueryEnvironment  Summary: The lack of exception propagation makes debugging errors during buck query somewhat 

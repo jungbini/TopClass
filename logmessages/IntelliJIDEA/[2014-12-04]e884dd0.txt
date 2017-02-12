@@ -1,0 +1,1 @@
+  Rebuild debugger variables view on console command execution (PY-14592).  

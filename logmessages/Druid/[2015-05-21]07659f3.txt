@@ -1,0 +1,1 @@
+ bug fix: hdfs task log and indexing task not work properly with Hadoop HA  

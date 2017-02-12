@@ -1,0 +1,1 @@
+  Maven: sources under output dir fix (IDEADEV-27385) Maven: resolve and update folders on startup fix  

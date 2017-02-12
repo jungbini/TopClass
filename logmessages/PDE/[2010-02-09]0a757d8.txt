@@ -1,0 +1,1 @@
+  fixed minor bug in A3D triangle rendering  

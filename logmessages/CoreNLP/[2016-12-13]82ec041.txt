@@ -1,0 +1,1 @@
+  Commit missing encoding fix for Spanish treebank processor  

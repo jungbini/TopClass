@@ -1,0 +1,1 @@
+  Fix by Maxim to fix the bug on running OrientDB scripts under java7  

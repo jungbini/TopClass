@@ -1,0 +1,1 @@
+  MINOR: Connect hangs on startup failure  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #902 from hachikuji/hotfix-connect-startup  

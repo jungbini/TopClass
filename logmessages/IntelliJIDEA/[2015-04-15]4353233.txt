@@ -1,0 +1,1 @@
+  welcome screen: fix bg when list is inactive  

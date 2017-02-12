@@ -1,0 +1,1 @@
+  HDFS-1377. Quota bug for partial blocks allows quotas to be violated. Contributed by Eli Collins   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20@1044225 13f79535-47bb-0310-9956-ffa450edef68  

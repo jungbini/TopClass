@@ -1,0 +1,1 @@
+ avg function: small refactoring to improve code reuse and fix possible ArithmeticException on non distributed executions  

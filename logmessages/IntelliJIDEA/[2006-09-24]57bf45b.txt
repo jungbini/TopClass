@@ -1,0 +1,1 @@
+  Add XmlAttribute.getNamespacePrefix() (IDEADEV-10037)  

@@ -1,0 +1,1 @@
+  github: fix tests  * GitPlatformTest is no longer executed on EDT * TestDialogManager was broken by conversion to Kotlin  

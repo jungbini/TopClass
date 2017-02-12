@@ -1,0 +1,1 @@
+  fixed PY-17096 Doesn't see any of my installed packages when using miniconda interpreter.  added pip-installed packages to the list of installed packages  

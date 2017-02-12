@@ -1,0 +1,1 @@
+  fixes to dist script to remove .svn folders  

@@ -1,0 +1,1 @@
+  Fixed bug with console and JS/JSS commands  

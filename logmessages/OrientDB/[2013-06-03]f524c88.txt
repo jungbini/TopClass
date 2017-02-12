@@ -1,0 +1,1 @@
+  Fixed bug on reusing a RID of a deleted record in transaction  

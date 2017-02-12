@@ -1,0 +1,1 @@
+a97 [AhyoungRyu] Remove useless screenshot images c6f9ed4 [AhyoungRyu] Add screenshot images 99a18e2 [AhyoungRyu] Remove jdbc setting examples in interpreter-setting.json 050ecc0 [AhyoungRyu] Update jdbc.md 20da102 [AhyoungRyu] Redshit -> Redshift in JDBCInterpreter.java  

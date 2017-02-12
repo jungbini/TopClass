@@ -1,0 +1,1 @@
+  IDEA-89238 fix text messages: use 'library' instead of 'library project'  

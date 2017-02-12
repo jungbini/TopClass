@@ -1,0 +1,1 @@
+  fix alignment when pressing Enter in list literal (PY-2407); thankfully the logic for calculating whether a child needs alignment can be much cleaner now  

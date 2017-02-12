@@ -1,0 +1,1 @@
+  autotest delay is customizable now default is back to 3 seconds #RUBY-10517 fixed #PY-10711 fixed  

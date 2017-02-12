@@ -1,0 +1,1 @@
+ moving tests around and fixing up the manifest  

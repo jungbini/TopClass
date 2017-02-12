@@ -1,0 +1,1 @@
+  Issue with iteration of hash indexes was fixed.  

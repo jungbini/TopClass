@@ -1,0 +1,1 @@
+which task must be run to execute a test suite. It also fixes the case where a binary could be compiled with a 

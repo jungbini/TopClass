@@ -1,0 +1,1 @@
+  fix #838. catch NPE which result from parsing '<? ?>'.  

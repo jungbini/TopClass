@@ -1,0 +1,1 @@
+  inference from lambda return expressions according to https://bugs.openjdk.java.net/browse/JDK-8038747  

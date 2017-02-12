@@ -1,0 +1,1 @@
+  bug fix for array vararg types and now invokes on the entire expression list  

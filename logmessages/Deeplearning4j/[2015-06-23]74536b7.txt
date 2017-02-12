@@ -1,0 +1,1 @@
+ Merge pull request #365 from deeplearning4j/mw_fix_name  Put name back to standard parameters.  commit bcc61251485b120fe258b3cbfe843c31bd0b2167  Merge pull request #364 from AlexDBlack/master  BackProp fixes and unit tests  commit 74536b7a1c98c7cac0385ca68cd1e1018eeb5b08  BackProp fixes and unit tests  

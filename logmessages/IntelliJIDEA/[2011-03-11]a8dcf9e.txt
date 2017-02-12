@@ -1,0 +1,1 @@
+  Resource variable deletion logic moved to resource list (fix for safe delete and inline)  

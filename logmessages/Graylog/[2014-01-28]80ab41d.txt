@@ -1,0 +1,1 @@
+  clock skew detection needs to be closable, it doesn't fix itself  fixes Graylog2/graylog2-server#401  

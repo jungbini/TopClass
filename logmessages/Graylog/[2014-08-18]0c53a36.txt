@@ -1,0 +1,1 @@
+  Add quotes to 'data-field' selectors for quick values, fixes #841  

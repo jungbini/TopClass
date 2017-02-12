@@ -1,0 +1,1 @@
+  Disable epoll bug workaround by default. It can be enabled via -Dorg.jboss.netty.epollBugWorkaround=true. It will be enabled by default later if it has proven to be stable. See #327  

@@ -1,0 +1,1 @@
+  ScrollPane - borders fixed; if border set to null, laf set it to default value. SideBorder - correct paint method.  

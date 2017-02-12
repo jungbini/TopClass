@@ -1,0 +1,1 @@
+  new debugger ui: drag to watches from editor fixed  

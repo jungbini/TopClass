@@ -1,0 +1,1 @@
+  Added some more validation to the DSL generation task, and fixed up a problem in plugins.xml.  

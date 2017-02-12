@@ -1,0 +1,1 @@
+  fixed soft wraps calculation: removed impact of unbreakable lines on following lines  

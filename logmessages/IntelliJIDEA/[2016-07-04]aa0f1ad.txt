@@ -1,0 +1,1 @@
+  IDEA-157667 Editor's scrollbar thumb: alpha and colors fix border drawing by filling a corresponding path it is slightly slower but it is more accurate  

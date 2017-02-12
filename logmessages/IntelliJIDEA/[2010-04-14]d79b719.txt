@@ -1,0 +1,1 @@
+  improve PyParameterList.isCompatibleTo(), fix PY-669  

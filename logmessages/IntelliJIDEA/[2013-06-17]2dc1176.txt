@@ -1,0 +1,1 @@
+  fix compilation with jdk 1.7 (IllegalArgumentException) when using SourceTransformers  

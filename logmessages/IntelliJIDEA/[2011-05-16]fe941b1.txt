@@ -1,0 +1,1 @@
+  addition to fix: [IDEA-69141] config dir named .${PRODUCT_SETTINGS_DIR}  

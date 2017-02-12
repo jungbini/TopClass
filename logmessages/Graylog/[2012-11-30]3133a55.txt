@@ -1,0 +1,1 @@
+  include graphite_prefix in graylog2.conf  fixes #SERVER-237 #trainoffice  

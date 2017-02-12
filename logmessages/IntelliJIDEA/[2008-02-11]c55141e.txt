@@ -1,0 +1,1 @@
+  test fix: don't require loading content on deletion of binary files with no decompiler  

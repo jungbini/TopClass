@@ -1,0 +1,1 @@
+  PY-21563 Join "from" imports with the same origin if "Import ..." quickfix is run from type comment  

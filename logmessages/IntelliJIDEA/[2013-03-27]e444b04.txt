@@ -1,0 +1,1 @@
+  Fixed closing socket in debuger.  

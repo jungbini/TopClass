@@ -1,0 +1,1 @@
+  fix javadoc; don't show non-PsiClassOwner files in packages view  

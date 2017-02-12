@@ -1,0 +1,1 @@
+ fix(server:messaging): dialog's counter instead of global in UpdateReadByMe  

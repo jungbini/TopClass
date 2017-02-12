@@ -1,0 +1,1 @@
+  fixed typo and added info that union can take any number of dataSources  

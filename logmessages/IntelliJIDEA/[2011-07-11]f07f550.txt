@@ -1,0 +1,1 @@
+  fix EA-28750 - chained call completion aware of captured types  

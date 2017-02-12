@@ -1,0 +1,1 @@
+  no need for context lookup of enclosing singletons #KT-2695 fixed  

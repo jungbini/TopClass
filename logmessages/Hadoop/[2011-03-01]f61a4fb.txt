@@ -1,0 +1,1 @@
+  HDFS-1662.HDFS federation: fix unit test case, TestCheckpoint and TestDataNodeMXBean  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hdfs/branches/HDFS-1052@1075981 13f79535-47bb-0310-9956-ffa450edef68  

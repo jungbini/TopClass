@@ -1,0 +1,1 @@
+  fix filter(OPAQUE) / filter(RGB) (bug #1346)  

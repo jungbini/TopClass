@@ -1,0 +1,1 @@
+  Extracted TestApp fixture out of HelloWorldApp.  

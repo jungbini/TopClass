@@ -1,0 +1,1 @@
+  fix: fake file root on windows should return the same object instances as children that getRoots() would return.  

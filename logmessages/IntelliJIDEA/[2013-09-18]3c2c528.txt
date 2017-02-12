@@ -1,0 +1,1 @@
+  xdebugger: implemented standalone variables view  

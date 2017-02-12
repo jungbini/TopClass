@@ -1,0 +1,1 @@
+  HADOOP-6920, HADOOP-7292, HADOOP-7306. Porting bugfixes portion of the three patches to yahoo-merge branch.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/yahoo-merge@1126785 13f79535-47bb-0310-9956-ffa450edef68  

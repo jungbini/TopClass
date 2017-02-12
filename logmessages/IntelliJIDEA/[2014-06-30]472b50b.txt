@@ -1,0 +1,1 @@
+  IDEA-126564 "No SDK Specified" message box text fixes  

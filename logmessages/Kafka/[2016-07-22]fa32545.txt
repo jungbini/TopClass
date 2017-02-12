@@ -1,0 +1,1 @@
+  KAFKA-3983; Add additional information to Acceptor debug message  Add additional information to Acceptor debug message upon connection acceptance  Author: rnpridgeon <ryan.n.pridgeon@gmail.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1648 from rnpridgeon/trunk  

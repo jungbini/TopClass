@@ -1,0 +1,1 @@
+  Buck plugin fix BuckEventsConsumer threads  Summary: We often call mTreeModel.reload(); which needs to be on the UI thread. The IntelliJ TreeModelListener which gets such changes has  a checkUiThread method which throws an error if we're on the wrong thread.  Test Plan: Ran the tests and the actions  Reviewed By: cotizo  fbshipit-source-id: 509e83a  

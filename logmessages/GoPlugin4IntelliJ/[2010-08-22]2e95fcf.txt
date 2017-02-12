@@ -1,0 +1,1 @@
+  finally fixed completion test case. The other test cases are broken :). Will fix them next.  

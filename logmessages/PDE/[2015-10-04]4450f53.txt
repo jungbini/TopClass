@@ -1,0 +1,1 @@
+  set already loaded cursor, fixes #3955  

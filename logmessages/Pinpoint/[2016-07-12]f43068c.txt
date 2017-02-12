@@ -1,0 +1,1 @@
+ bug fix. - not refresh page when click period in inspector page  

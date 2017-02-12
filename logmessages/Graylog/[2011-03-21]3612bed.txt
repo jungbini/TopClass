@@ -1,0 +1,1 @@
+  change to loggly forwarded log format. has debug in main  

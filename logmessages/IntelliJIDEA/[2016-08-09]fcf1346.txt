@@ -1,0 +1,1 @@
+  always set PWD variable to the value of working dir #RUBY-16153 fixed  

@@ -1,0 +1,1 @@
+ IDEA-86760 Find usages detects array initialization as new instance creation fixed  

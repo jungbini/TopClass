@@ -1,0 +1,1 @@
+  ffi + windows + jruby dll loading fix (thanks, Vladimir Sizikov!). Closes GH #160.  

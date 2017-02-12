@@ -1,0 +1,1 @@
+  fix chameleon syntax highlighting pass, process all file, not a visible part  

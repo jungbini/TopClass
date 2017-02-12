@@ -1,0 +1,1 @@
+  Bazel: fix strict deps error in //src/tools/generate_workspace  This prevented the //src/tools/generate_workspace target from building. The "Working with external dependencies" section of the Bazel docs mention this tool several times so we must keep it building.  -- MOS_MIGRATED_REVID=105592123  

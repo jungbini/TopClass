@@ -1,0 +1,1 @@
+  IDEADEV-26677: fix assertion  

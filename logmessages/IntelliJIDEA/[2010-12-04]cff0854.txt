@@ -1,0 +1,1 @@
+  IDEA-62250 Ternary operator return value inspection bug . reviewed by Peter  

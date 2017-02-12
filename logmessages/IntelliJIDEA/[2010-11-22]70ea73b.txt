@@ -1,0 +1,1 @@
+  Fixed bugz: RUBY-7179 if..end scope highlighting selects wrong "end"  

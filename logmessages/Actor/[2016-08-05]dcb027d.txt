@@ -1,0 +1,1 @@
+  fix(android): close group after exit, copy invite link, bind group privacy status via VM  

@@ -1,0 +1,1 @@
+  Prevent expression selector from selecting just a label  Previously, extract variable could act on e.g. 'break@outerLoop' and extract the label, leading into nonsensical 'val x = @outerLoop'. Prevent JetRefactoringUtil.selectExpression from returning label expressions to fix this.  #KT-4515 Fixed  

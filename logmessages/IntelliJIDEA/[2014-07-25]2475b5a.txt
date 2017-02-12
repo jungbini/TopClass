@@ -1,0 +1,1 @@
+  fix exception at cloning carets  

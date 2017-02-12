@@ -1,0 +1,1 @@
+  fixed conversion from linkmap to embeddedmap on update command, issue #1161  

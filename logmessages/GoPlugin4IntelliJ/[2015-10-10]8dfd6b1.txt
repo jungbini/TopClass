@@ -1,0 +1,1 @@
+  type support for add and mult expression, fix #1911  

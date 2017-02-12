@@ -1,0 +1,1 @@
+  IDEA-89620 Collapse inline CSS: add option to disable  - fix attribute collapsing for empty tags  

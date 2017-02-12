@@ -1,0 +1,1 @@
+  fix initial selection logic (IDEADEV-7379)  

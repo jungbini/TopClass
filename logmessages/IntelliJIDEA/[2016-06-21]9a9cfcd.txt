@@ -1,0 +1,1 @@
+  Cannot do keyboard input in debug mode with interactive console turned on (PY-16825 )  In debug console we should handle input calls on Python side and notify Java side, like we do it in Interactive Python Console. After handling input we should send it back to Python process.  

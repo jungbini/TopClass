@@ -1,0 +1,1 @@
+  Fix content negotiation issue with sort by q-value  Before this fix the q-value of media types in the Accept header were ignored when using the new RequestMappingHandlerAdapter in combination with @ResponseBody and HttpMessageConverters.  Issue: SPR-9160 Backport-Issue: SPR-9168 Backport-Commit: 982cb2f258a5be1173115044d379f54702dc8c5b  

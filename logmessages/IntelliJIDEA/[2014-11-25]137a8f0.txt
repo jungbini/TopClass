@@ -1,0 +1,1 @@
+  fixed PY-9738 Packaging: spinning backgroung process indicator disappears after selection change  

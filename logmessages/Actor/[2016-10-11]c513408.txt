@@ -1,0 +1,1 @@
+  fix(iOS): select first wallpaper from settings by default  

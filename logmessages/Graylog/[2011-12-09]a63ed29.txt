@@ -1,0 +1,1 @@
+  The host sidebar is here. \o/  fixes #WEBINTERFACE-140  

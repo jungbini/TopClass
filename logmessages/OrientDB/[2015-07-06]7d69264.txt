@@ -1,0 +1,1 @@
+  fixed issue #4147 - Projection order impacts of result  

@@ -1,0 +1,1 @@
+  Fix a very obscure bug that the englishRNN parser provoked: For the parsing of mentions that aren't constituents, don't allow the added on period at the end to become the head (and hence returned as the head of the mention).  

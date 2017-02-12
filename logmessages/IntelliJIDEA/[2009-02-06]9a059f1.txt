@@ -1,0 +1,1 @@
+  native splash screen disabled because it causes hangs after d'n'd (http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=6397447)  

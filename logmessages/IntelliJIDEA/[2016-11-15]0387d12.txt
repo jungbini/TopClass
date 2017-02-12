@@ -1,0 +1,1 @@
+  fixed shadows on hidpi (we do not have x2 icons and scaled regular icons, which must remain 1px wide/high)  

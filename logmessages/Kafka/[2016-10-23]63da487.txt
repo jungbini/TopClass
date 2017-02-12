@@ -1,0 +1,1 @@
+  KAFAK-4058: Failure in org.apache.kafka.streams.integration.ResetIntegrationTest.testReprocessingFromScratchAfterReset  - fixed consumer group dead condition - disabled state store cache  Author: Matthias J. Sax <matthias@confluent.io>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #2056 from mjsax/KAFKA-4058-instableResetToolTest  

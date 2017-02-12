@@ -1,0 +1,1 @@
+  Renamed Video.setPath() to Video.setGStreamerPath(), fixed logic in Capture.addResFromStructure()  

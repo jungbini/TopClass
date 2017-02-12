@@ -1,0 +1,1 @@
+  only backspace, type and insert common prefix document/caret operations are allowed in lookups, otherwise it'll close  

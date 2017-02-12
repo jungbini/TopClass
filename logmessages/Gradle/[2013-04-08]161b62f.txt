@@ -1,0 +1,1 @@
+  more fixes on buildSetup - REVIEW-1997: always generate Wrapper - REVIEW-2059: tweak task descriptions of buildSetup related tasks - dont set group for build script and settings generator tasks (shouldnt been listed in task overview) - rename wrapper Wrapper task to setupWrapper (don't clash with existing wrapper tasks)  

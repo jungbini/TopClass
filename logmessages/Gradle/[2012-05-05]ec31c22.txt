@@ -1,0 +1,1 @@
+  Reduce logging level to debug for failing initialisation of native integration  

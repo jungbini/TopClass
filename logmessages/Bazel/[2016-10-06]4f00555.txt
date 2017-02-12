@@ -1,0 +1,1 @@
+  Update android_ide_common to 25.0.0 and clean up FolderConfigs  Older android_ide_common does not handle BCP 47, so we update the code to handle that and remove most of the workarounds. This also pulls in a fix for 3-letter locales, unblocks resource shrinking whitelisting, etc.  -- MOS_MIGRATED_REVID=135396457  

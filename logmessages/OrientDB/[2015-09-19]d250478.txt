@@ -1,0 +1,1 @@
+  fixup deprecated ${.version} to  ${project.version}  

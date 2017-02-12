@@ -1,0 +1,1 @@
+  FileUtil.toCanonicalPath can now expand symlinks when it's required to build the valid path that contains /../ * typos in JavaDoc fixed  

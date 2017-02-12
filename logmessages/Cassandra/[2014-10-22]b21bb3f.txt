@@ -1,0 +1,1 @@
+  Ninja: fix foreground flag broken by 8115  

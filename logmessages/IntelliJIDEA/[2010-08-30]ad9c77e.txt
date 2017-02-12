@@ -1,0 +1,1 @@
+  IDEA-41226 feature: ability to reference debugger-marked objects in expressions  

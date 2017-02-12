@@ -1,0 +1,1 @@
+  Spellchecker: fix IdentifierSplitter, add possibility to split by "-"  

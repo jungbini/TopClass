@@ -1,0 +1,1 @@
+  xerces disabled in xhtmls: proper fix  

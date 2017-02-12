@@ -1,0 +1,1 @@
+  make "Unpredictable BigDecimal constructor call" inspection and quickfix more accurate  

@@ -1,0 +1,1 @@
+  Introduce immutable value type autogeneration  Summary: Currently, we have to manually write immutable value types, including implementing `hashCode()`, `equals()`, `description()`, and (if we want to avoid an explosion of constructor params), a `Builder`.  This is cumbersome, time-consuming, and causes bugs (see D1495875 for an example).  This 

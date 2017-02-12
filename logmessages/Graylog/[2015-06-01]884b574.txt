@@ -1,0 +1,1 @@
+  fix duplicate metrics reporting if two components subscribed to the same metric on the same page  if one global subscription and one per-node subscription was present on the same page, metrics were reported twice  fixes Graylog2/graylog2-server#1199  

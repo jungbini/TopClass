@@ -1,0 +1,1 @@
+  KAFKA-2972; Add missing `partitionsRemaingList.add` in `ControlledShutdownResponse` constructor  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Grant Henke, Guozhang Wang  Closes #649 from ijuma/KAFKA-2972-controlled-shutdown-response-bug  

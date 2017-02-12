@@ -1,0 +1,1 @@
+  remove red waves when file deleted: so many bugs!  

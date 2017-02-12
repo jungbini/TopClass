@@ -1,0 +1,1 @@
+  fixing ctrl-d issue when running continuous build in daemon  

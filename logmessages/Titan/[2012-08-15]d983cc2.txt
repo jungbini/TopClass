@@ -1,0 +1,1 @@
+  fixed a bug in MapReduceSequence. Added Edge and VertexFilter that can take an arbitrary Gremlin function. Added test cases.  

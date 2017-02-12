@@ -1,0 +1,1 @@
+  fixing java.lang.UnsatisfiedLinkError: Can't obtain updateLastError method for class com.sun.jna.Native  

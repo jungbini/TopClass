@@ -1,0 +1,1 @@
+  fix FileContentUtil.reparseFiles to include open files  

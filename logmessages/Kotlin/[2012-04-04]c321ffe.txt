@@ -1,0 +1,1 @@
+  fix for tests to work (all library functions should be done 'public' later)  

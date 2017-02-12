@@ -1,0 +1,1 @@
+  YARN-2826. Fixed user-groups mappings' refresh bug caused by YARN-2826. Contributed by Wangda Tan.  

@@ -1,0 +1,1 @@
+  gradle: fix task executions view first table column background  

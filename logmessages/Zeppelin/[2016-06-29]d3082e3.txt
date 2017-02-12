@@ -1,0 +1,1 @@
+-tracking branch 'origin/master' into ZEPPELIN-1072 cbe2441 [Prabhjyot Singh] worry less, if modal dialog already closed 2a7abdc [Prabhjyot Singh] CI fix 971fd94 [Prabhjyot Singh] add fa-spin with OK button  

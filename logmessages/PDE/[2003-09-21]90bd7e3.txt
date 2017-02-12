@@ -1,0 +1,1 @@
+  logging more bugs and adding error messages for font functions  

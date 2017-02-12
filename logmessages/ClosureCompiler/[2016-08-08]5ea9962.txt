@@ -1,0 +1,1 @@
+  Reference IdentifierToken.value directly rather than through the toString method.  This allows us to change the toString method to do something else, for debugging purposes.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=129694730  

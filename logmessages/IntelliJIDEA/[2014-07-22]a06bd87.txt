@@ -1,0 +1,1 @@
+  Inspections settings ui: added mask and fixed height of severity icon  

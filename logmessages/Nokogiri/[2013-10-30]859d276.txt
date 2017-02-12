@@ -1,0 +1,1 @@
+ Work around broken vsnprintf implementation in mingw.  This fixes failing tests in XML::TestSaxEntityReference.  

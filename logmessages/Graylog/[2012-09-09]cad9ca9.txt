@@ -1,0 +1,1 @@
+ fix graylog-shell unit tests  

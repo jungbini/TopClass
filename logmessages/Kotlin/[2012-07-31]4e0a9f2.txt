@@ -1,0 +1,1 @@
+  type inference errors improvement if constraint system without expected type was successful, expected type mismatch error should be generated (instead of conflicting substitutions error) #KT-731 fixed  

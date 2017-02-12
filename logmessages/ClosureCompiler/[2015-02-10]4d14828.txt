@@ -1,0 +1,1 @@
+  Fix a bug in the removeCast code that would regenerate the child of the cast, causing it to lose original source information. Instead, erase just the cast itself from both sides of the child symbol. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=86010597  

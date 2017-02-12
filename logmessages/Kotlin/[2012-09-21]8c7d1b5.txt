@@ -1,0 +1,1 @@
+  Added test checking that all IDEA's @NotNull external annotations for JDK are reflected in Kotlin's annotations.  #KT-2778 fixed  

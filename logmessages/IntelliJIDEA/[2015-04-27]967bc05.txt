@@ -1,0 +1,1 @@
+  fixed PY-15690 IPython Notebook: not able to terminate running notebook server on PyCharm exit  

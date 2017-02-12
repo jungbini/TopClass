@@ -1,0 +1,1 @@
+  - fixed bug with new rails semantics and formatting of stream rules in StreamsController#show  

@@ -1,0 +1,1 @@
+  [platform] fixes exception handling at directory project opening  

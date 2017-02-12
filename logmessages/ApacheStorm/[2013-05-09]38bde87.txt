@@ -1,0 +1,1 @@
+  fixed kafka 0.8 compilation issues  

@@ -1,0 +1,1 @@
+  fix CR-IC-97 (indent is counted in tab units so need multiplication instead of division) handle empty insertion line properly  

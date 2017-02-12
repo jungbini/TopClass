@@ -1,0 +1,1 @@
+ Fixed bug in unresolved references inspection for '__dict__' in '__slots__' (PY-5255)  

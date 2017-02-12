@@ -1,0 +1,1 @@
+  fix for checkbox tree rendering under GTK L&F moved to CheckboxTreeBase class to avoid duplications  

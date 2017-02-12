@@ -1,0 +1,1 @@
+  don't suggest instance method parameters from static context if there are overloaded static methods show classes on basic completion only when prefix starts with a capital  

@@ -1,0 +1,1 @@
+  Fixed bug reported by Fabrizio Fortino in ML about the "Find Reference" command.  

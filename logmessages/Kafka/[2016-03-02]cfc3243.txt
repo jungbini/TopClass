@@ -1,0 +1,1 @@
+  KAFKA-3290: fix transient test failures in WorkerSourceTaskTest  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Gwen Shapira  Closes #998 from hachikuji/KAFKA-3290  

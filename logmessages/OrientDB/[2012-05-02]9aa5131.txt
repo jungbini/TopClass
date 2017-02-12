@@ -1,0 +1,1 @@
+  Fixed bug on OProperty.getIndex() must return one value not a collection  

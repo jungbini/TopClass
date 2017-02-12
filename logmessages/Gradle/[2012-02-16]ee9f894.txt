@@ -1,0 +1,1 @@
+  moved test from integ-test to core, fixing test failure  

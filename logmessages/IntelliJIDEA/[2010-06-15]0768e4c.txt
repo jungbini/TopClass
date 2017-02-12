@@ -1,0 +1,1 @@
+  findClass() added to Java code insight text fixture  

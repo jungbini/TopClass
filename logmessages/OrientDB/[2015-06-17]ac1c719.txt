@@ -1,0 +1,1 @@
+  fixed missing custom attributes of class in export/import database, issue #4272  Conflicts: core/src/main/java/com/orientechnologies/orient/core/db/tool/ODatabaseImport.java  

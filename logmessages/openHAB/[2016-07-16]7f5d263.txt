@@ -1,0 +1,1 @@
+  Fixed some spelling & copy+paste mistakes in modbus config (#4540)  * Fixed some minor spelling & copy+paste mistakes  * Fixed some minor spelling & copy+paste mistakes  * Fixed spelling mistake in fix  

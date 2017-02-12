@@ -1,0 +1,1 @@
+  IDEA-82078 fix updating R references when renaming of Android resources  

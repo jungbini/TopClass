@@ -1,0 +1,1 @@
+  fix+refactor(web): refactor and fix some issues in login component;  use fat arrows in LoginActionCreators; delete self import in LoginActionCreators; remove som underscores from variables; fix auth code disappearing on signup step;  

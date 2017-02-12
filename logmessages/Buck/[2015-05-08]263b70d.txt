@@ -1,0 +1,1 @@
+  JavaBinaryDescription: fixup first-order deps  Summary: Make all build rules that contribute components packaged by `JavaBinary` rules a first-order dep of the `JavaBinary` rule.  Test Plan: added unittest  

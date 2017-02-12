@@ -1,0 +1,1 @@
+ [SMALLFIX] Further fix pom warnings  

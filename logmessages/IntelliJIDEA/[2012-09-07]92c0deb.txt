@@ -1,0 +1,1 @@
+  IDEA-91101 (fix isAncestor() for Windows roots)  

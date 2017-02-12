@@ -1,0 +1,1 @@
+  Added test cases which test the public methods of the KNXCoreTypeMapper class according KNX "System Specifications, Interworking, Datapoint Types" Version 1.07.00. Some tests revealed bugs in openhab and calimero. Theses tests testing the wrong behaivour such that they don't fail.  

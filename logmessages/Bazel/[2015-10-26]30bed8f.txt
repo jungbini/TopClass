@@ -1,0 +1,1 @@
+  Read $HOME first to determine the home directory (and when not present, fall back to getpwuid())  Also a minor compatibility fix in a sed invocation.  -- MOS_MIGRATED_REVID=106291639  

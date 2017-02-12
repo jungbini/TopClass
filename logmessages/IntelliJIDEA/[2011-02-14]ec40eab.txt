@@ -1,0 +1,1 @@
+  items that are prefixes of other items should go first Java expected type also should go first, and win current class should be preferred in completion (IDEA-64703)  

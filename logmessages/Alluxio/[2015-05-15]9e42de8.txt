@@ -1,0 +1,1 @@
+  bug fix: when type is not hadoop#, type is not key in url_template  

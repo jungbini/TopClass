@@ -1,0 +1,1 @@
+  IDEA-137145 fix "string literal" formatting at the begging of the spock table; correct groups of aligned declarations separeted by comment  

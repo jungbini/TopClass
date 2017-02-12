@@ -1,0 +1,1 @@
+  Clean up CHANGES.txt to move things fixed on 90 branch into 0.90.2 section  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1082407 13f79535-47bb-0310-9956-ffa450edef68  

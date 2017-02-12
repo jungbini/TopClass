@@ -1,0 +1,1 @@
+  Added second quickfix on conflicting extension to mark it hidden and deprecated  

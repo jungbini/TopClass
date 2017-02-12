@@ -1,0 +1,1 @@
+  toolwindow header new ui fixes (context menu, title resize + some actions)  

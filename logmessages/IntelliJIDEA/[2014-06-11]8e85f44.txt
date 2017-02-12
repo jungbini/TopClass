@@ -1,0 +1,1 @@
+  fix NPE. getActiveWindow can return null  

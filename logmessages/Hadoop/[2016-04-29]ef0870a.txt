@@ -1,0 +1,1 @@
+  HADOOP-12378. Fix findbugs warnings in hadoop-tools module. Contributed by Akira AJISAKA.  

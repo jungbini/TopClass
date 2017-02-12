@@ -1,0 +1,1 @@
+  RUBY-8737: fixed test failures cause by fix for the ticket. Need to move check for null one level deeper.  

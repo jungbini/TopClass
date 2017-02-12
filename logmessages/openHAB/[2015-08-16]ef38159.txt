@@ -1,0 +1,1 @@
+ Merge pull request #3074 from paphko/master  SocketException fixed during Anel binding bundle shutdown.  commit ef38159269f0a911cb619da002555a37ebd2b3e4  SocketException fixed during bundle shutdown.  

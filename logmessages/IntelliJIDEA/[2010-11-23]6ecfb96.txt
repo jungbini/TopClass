@@ -1,0 +1,1 @@
+  Maven: invalid vfs access exception handled in wizard (IDEA-61527) + NPE from getList() in wizard fixed  

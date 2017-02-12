@@ -1,0 +1,1 @@
+ Merge pull request #942 from actorapp/ios/fixSendingAnimatedImages  feat(ios):sending gif  commit ff8068b1c35bec1c4f17e6bf24e80c57fcf3ff3d  (fix iOS):zh-Hans.lproj/Localizable.strings  Translate SettingsMedia  and SettingsAutomaticDownloadAndSave  

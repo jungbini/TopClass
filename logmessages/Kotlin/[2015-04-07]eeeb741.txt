@@ -1,0 +1,1 @@
+  Added test for obsolete bug and removed workaround in code.  

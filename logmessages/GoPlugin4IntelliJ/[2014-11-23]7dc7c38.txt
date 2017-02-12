@@ -1,0 +1,1 @@
+  fix #1022: Variable redeclaration is not detected  

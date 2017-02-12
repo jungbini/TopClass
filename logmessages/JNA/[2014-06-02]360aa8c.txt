@@ -1,0 +1,1 @@
+ Bug 1014976 - Don't make --enable-debug imply using the debug CRT in libffi.  

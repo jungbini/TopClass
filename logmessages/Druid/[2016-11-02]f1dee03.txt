@@ -1,0 +1,1 @@
+  fix 'No Such File' error when execute script out of druid installation directory (#3517)  

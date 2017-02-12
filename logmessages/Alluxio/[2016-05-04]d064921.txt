@@ -1,0 +1,1 @@
+  Block worker diamond operator fixes.  

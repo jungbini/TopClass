@@ -1,0 +1,1 @@
+  Fixed bug on connecting to a database with an abstract class (clusterId=-1)  

@@ -1,0 +1,1 @@
+  android(fix) move mdText to TextMessageExt  

@@ -1,0 +1,1 @@
+  add fix for anti-aliasing of text  

@@ -1,0 +1,1 @@
+  FinderRecursivePanel: cleanup, generify, fix tests  

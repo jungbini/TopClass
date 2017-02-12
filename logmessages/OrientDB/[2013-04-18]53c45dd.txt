@@ -1,0 +1,1 @@
+  Fixed bug on UPDATE ... MERGE that deleted the previous content  

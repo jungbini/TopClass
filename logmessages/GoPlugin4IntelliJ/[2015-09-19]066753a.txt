@@ -1,0 +1,1 @@
+  Fix suppressions checking Check highlighting after suppression fix applying in tests  

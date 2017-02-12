@@ -1,0 +1,1 @@
+  fix #837. Stop parsing if a reference entity is encountered in the prolog.  

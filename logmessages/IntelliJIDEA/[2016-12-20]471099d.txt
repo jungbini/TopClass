@@ -1,0 +1,1 @@
+  IDEA-CR-16919  fix module rename (ModuleManagerImpl doesn't change modification count on rename)  

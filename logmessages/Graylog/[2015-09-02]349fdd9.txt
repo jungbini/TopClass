@@ -1,0 +1,1 @@
+  add periodical to migrate user's permissions to admin or reader roles during startup of the master  - existing stream and dashboard permissions are preserved - existing other permissions set via the API are preserved - RestPermissions.readerPermissions are migrated to reader role - '*' is migrated to admin role  fixes #1382  

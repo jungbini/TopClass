@@ -1,0 +1,1 @@
+  inspection tool window: blinking test is fixed  

@@ -1,0 +1,1 @@
+  Patch by Luca Molino to fix issue 328 about hang of server on DELETE CLASS command  

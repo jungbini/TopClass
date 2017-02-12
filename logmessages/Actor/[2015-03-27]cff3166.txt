@@ -1,0 +1,1 @@
+  fix(js): Enabled pretty code style in GWT  

@@ -1,0 +1,1 @@
+ Fixed plugin test tool bugs  - Cannot find jvm executable when @JvmVersion is not specified - verifyTraceBlock() throws NPE when there is no trace  

@@ -1,0 +1,1 @@
+  fix CSS completion tests: if the reference starts at completion start location, we do need to overwrite it when Tab is pressed  

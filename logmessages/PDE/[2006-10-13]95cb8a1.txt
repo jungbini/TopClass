@@ -1,0 +1,1 @@
+  fix for ambientLight() bug #412  

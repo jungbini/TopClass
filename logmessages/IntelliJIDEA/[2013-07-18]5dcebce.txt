@@ -1,0 +1,1 @@
+  fix declaration addCommits in VcsLogJoiner  

@@ -1,0 +1,1 @@
+  Renames for consistency on NativeComponent - buildTypes -> targetBuildTypes - flavours -> targetFlavors  I don't really love these new names but I like the consistency. My preferred DSL is "component.target flavors.foo" and "component.target buildTypes.debug, buildTypes.release". Need to push more stuff in the model rules to make this possible.  

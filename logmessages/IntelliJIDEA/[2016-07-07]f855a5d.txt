@@ -1,0 +1,1 @@
+  PY-19999 Quickfix sets the value of the setting corresponding to its description  

@@ -1,0 +1,1 @@
+  don't use GetChildrenHack for ChromiumRemoteDebugType/FirefoxRemoteDebugType  

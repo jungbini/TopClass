@@ -1,0 +1,1 @@
+  Fix platform.win32.Netapi32Util.getDC AV on Win64 https://jna.dev.java.net/issues/show_bug.cgi?id=167 Fix Advapi32Test.testGetTokenOwnerInformation AV.  git-svn-id: https://svn.java.net/svn/jna~svn/trunk@1175 2f8a963e-d2e4-e7d0-97bf-ccb7fcea9d80  

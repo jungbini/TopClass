@@ -1,0 +1,1 @@
+  make elasticsearch error messages more clear  fixes #518  

@@ -1,0 +1,1 @@
+  Classified usages in "is" of when entry correctly.  #KT-7047 fixed  

@@ -1,0 +1,1 @@
+  KT-4683 KotlinNullPointerException at remove braces intention  #KT-4683 fixed EA-54686 fixed EA-54687 fixed  

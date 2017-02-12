@@ -1,0 +1,1 @@
+  Git: additional debug information for wrong-branch-usage message when shelving  

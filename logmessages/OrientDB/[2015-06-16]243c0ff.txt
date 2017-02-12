@@ -1,0 +1,1 @@
+  fixed issue #4361 - Parser error for spatial queries  

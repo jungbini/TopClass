@@ -1,0 +1,1 @@
+  Drop "-sourceFiles" in kotlinc-js  Use free arguments instead, as is done in kotlinc-jvm and all sensible compilers everywhere  Also fix some cases of AntTaskTest to be able to run them locally  

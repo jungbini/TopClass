@@ -1,0 +1,1 @@
+  Add quickfix to make referenced primary constructor parameter a property Fixes #KT-12089  

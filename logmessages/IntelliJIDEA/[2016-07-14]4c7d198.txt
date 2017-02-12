@@ -1,0 +1,1 @@
+  PY-11943 Add one more test case to fix  Added a function call with wrong argument type to make sure that type casting to MutableMapping in type checker works.  

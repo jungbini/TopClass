@@ -1,0 +1,1 @@
+  Separate target resolving from the query environment.  Summary: Separate target resolving from the query environment.  Keep resolved targets in the target graph. This solves a bug depicted in the added test where rebuilding the graph could discard nodes that we'd need later.  Test Plan: Integration tests and running on the command line.  

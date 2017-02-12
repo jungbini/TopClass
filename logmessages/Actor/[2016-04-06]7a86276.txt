@@ -1,0 +1,1 @@
+  fix(android): close emoji keyboard in chat before dialog  

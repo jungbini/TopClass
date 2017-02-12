@@ -1,0 +1,1 @@
+  fixed python process termination issues on mac and linux (PY-651)  

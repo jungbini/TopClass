@@ -1,0 +1,1 @@
+  KT-2110 Some flaws in Colors & Fonts dialog  #KT-2110 fixed  

@@ -1,0 +1,1 @@
+  IDEA-77665 XSLT debug: IOOBE at SegmentArray.getSegmentStart() on deleting file content while debugging  

@@ -1,0 +1,1 @@
+  link global throughput to system page. fixes #294  

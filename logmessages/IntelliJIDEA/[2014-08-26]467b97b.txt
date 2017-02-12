@@ -1,0 +1,1 @@
+  postfix templates configurable: set minimum size for example editors  

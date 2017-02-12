@@ -1,0 +1,1 @@
+  scopes: fix psiElement for compacted nodes (IDEA-64935)  

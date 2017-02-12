@@ -1,0 +1,1 @@
+  Data classes cannot have class supertypes, a new test, relevant test fixes  

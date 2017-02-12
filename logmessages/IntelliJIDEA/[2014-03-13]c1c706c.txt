@@ -1,0 +1,1 @@
+  - method attribute 'default' (Java 8) - instruction 'invokedynamic' (Java 7) - bugfixing  

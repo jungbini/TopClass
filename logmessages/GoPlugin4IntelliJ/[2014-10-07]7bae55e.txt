@@ -1,0 +1,1 @@
+  fix #499, find import self package,import not found package,import repeat package in one file errors.  

@@ -1,0 +1,1 @@
+  do not debug when fork mode is enabled (IDEA-71648 )  

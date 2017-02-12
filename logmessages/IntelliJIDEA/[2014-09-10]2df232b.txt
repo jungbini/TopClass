@@ -1,0 +1,1 @@
+  IDEA-129621 Watches cannot be modified when not debugging  

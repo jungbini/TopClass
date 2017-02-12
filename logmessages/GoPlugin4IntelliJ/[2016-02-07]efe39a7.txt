@@ -1,0 +1,1 @@
+  [dlv] send detach command on stop, fix #2224  

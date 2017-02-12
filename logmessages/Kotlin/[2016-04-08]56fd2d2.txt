@@ -1,0 +1,1 @@
+  Let Implement Quickfix: Launch "Implement Members" dialog after applying #KT-11836 Fixed  

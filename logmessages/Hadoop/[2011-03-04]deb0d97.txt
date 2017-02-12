@@ -1,0 +1,1 @@
+Author: Vinod Kumar <vinodkv@yahoo-inc.com> Date:   Wed Mar 10 15:45:12 2010 +0530  MAPREDUCE-1100 index files related fix from https://issues.apache.org/jira/secure/attachment/12438394/patch-1100-fix-ydist.2.txt   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077309 13f79535-47bb-0310-9956-ffa450edef68  

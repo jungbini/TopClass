@@ -1,0 +1,1 @@
+ Update POM for multi-scala build and scala suffix in artifact.  

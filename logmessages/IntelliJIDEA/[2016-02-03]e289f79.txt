@@ -1,0 +1,1 @@
+  [platform] fixes fallback bulk file attribute reader (IDEA-151155)  

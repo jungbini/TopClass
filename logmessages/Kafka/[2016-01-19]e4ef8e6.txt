@@ -1,0 +1,1 @@
+  KAFKA-3122; Fix memory leak in `Sender.completeBatch` on TOPIC_AUTHORIZATION_FAILED  Also fix missing call to `sensors.record` on this error.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Jason Gustafson, Guozhang Wang  Closes #791 from ijuma/fix-producer-memory-leak-on-authorization-exception  

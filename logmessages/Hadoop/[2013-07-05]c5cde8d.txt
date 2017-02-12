@@ -1,0 +1,1 @@
+  Merge -c 1499906 from branch-1 to branch-1.2 to fix MAPREDUCE-5368. Reduce memory footprint of JobTracker by using non-default values for hash-tables to store Locality and Avataar for TaskAttempts. Contributed by zhaoyunjiong.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.2@1499907 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  permission check for editing user permissions was overly restrictive  check if the requesting user is allowed to edit the specified user, a reader users can always edit their own details  fixes Graylog2/graylog2-web-interface#1049  

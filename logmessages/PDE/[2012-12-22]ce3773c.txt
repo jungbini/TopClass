@@ -1,0 +1,1 @@
+  fix XML indentation and Android issues (issue #1512)  

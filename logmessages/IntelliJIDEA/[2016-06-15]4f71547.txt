@@ -1,0 +1,1 @@
+  gradle: fix gradle home detection for customizable gradle wrapper mode (IDEA-125057)  

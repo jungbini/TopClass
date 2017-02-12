@@ -1,0 +1,1 @@
+  Remove redundant parameter from JavaDescriptorResolver#getJavaPackageScope  Minor warnings fixed in affected files  

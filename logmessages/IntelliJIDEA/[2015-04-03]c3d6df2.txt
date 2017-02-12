@@ -1,0 +1,1 @@
+  UI inspector: add "ui" class to the view; fixes & cleanup  

@@ -1,0 +1,1 @@
+ Don't show "Introduce variable for statement" quickfix for simple reference expressions (PY-7189)  

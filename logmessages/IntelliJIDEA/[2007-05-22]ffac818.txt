@@ -1,0 +1,1 @@
+  bug with dtd element refs in xml was fixed  

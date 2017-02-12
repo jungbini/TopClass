@@ -1,0 +1,1 @@
+  fixed bug when calculating historicState in persistence action  

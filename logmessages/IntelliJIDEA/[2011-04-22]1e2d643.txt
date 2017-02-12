@@ -1,0 +1,1 @@
+  fixed PY-3397 The test runner cannot handle lists that contain unicode characters  

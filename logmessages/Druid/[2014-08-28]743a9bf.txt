@@ -1,0 +1,1 @@
+ Merge pull request #711 from metamx/fix-maxtime-caching  Fix maxtime caching  commit 743a9bfdac594ddbaddb8ce67e2852ff537e8bf1  fix offset and nulls  

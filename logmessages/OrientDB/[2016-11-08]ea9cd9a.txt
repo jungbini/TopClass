@@ -1,0 +1,1 @@
+  PrjHub issue #7877. Automatically fix broken free list.  

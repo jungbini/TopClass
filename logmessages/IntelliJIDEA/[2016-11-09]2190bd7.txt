@@ -1,0 +1,1 @@
+  Skip array content when searching for statement start (fixes WEB-24067 Some bugs with reformat code)  

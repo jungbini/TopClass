@@ -1,0 +1,1 @@
+  Introduced ctx.new_file_suffix(Artifact, String) as an alias for ctx.new_file(Artifact, String)  -- MOS_MIGRATED_REVID=99259144  

@@ -1,0 +1,1 @@
+  implement REST return code documentation  and /cluster/nodes docs. fixes #242  

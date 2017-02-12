@@ -1,0 +1,1 @@
+  svn: Refactored "BaseMergeTask" and inheritors  * Used single "QuickMerge" constructor parameter instead of 2 separate "MergeContext" and "QuickMergeInteraction" parameters * Code simplified, warnings fixed, @NotNull  

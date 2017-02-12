@@ -1,0 +1,1 @@
+  This causes unexpected filter applying. Will wait for correct fix in the SearchTextField.  

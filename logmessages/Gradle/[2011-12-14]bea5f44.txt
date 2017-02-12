@@ -1,0 +1,1 @@
+  Tooling api thread safety coverage fixes...  Made sure each test starts with a clean state. Now the test runs should be consistent regardless if all tests or single test is ran. Some refactorings in the tests.  

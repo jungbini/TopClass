@@ -1,0 +1,1 @@
+  don't log people out just because the connection to server failed  fixes #278  

@@ -1,0 +1,1 @@
+  improve stream engine fingerprinting of streams, stream rules and outputs  uses hashcode and sha1 to detect changes to rebuild stream engine router on updates  fixes #922  

@@ -1,0 +1,1 @@
+  NPE fixed inside three implementations of LexicalScope.printStructure  

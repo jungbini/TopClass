@@ -1,0 +1,1 @@
+  added make for particles lib, also notes to bugs.txt  

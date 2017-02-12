@@ -1,0 +1,1 @@
+ Call glGetProgramiv to retrieve program log length  Calling glGetShaderiv to retrieve the program log length produces a GL_INVALID_OPERATION error and length < 0, preventing the return of the actual info log. This fix replaces the call to glGetShaderiv with glGetProgramiv.  Closes #4659  

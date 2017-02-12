@@ -1,0 +1,1 @@
+  Temporary workaround until iterable injection is supported in di Synthetic accessors won't work in REPL until this is fixed  

@@ -1,0 +1,1 @@
+  Make module maps generation conditional for native Swift rules.  * This fixes a crash when a target has both a bridging header and a * module map   RELNOTES: Native Swift rules no longer pull in module maps unconditionally. Use --experimental_objc_enable_module_maps for that.  -- MOS_MIGRATED_REVID=125491042  

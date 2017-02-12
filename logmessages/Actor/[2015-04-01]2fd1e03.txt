@@ -1,0 +1,1 @@
+  fix(common): Fixed auth, contacts load order feat(android): Empty lists state, implemented new AvatarView, updated design of tabs,  

@@ -1,0 +1,1 @@
+  explain stream timeout configuration variables in sample config  fixes #610  

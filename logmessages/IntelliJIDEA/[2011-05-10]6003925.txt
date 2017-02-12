@@ -1,0 +1,1 @@
+  Smarty: commenter should depend on chosen delimiters (WI-6245 fix)  

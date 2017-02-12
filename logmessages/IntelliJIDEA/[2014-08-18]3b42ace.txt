@@ -1,0 +1,1 @@
+  debugger inline evaluator: fixed NPE in 'Change Signature' dialog  

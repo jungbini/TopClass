@@ -1,0 +1,1 @@
+  when checking whether a method defined in some class A can be accessed through a reference to a subclass of A, compare methods using not only their names but also their argument types (fixes IDEA-92136 External compiler doesn't recompile dependent classes when method moved from class to subclass)  

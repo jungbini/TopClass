@@ -1,0 +1,1 @@
+  Conflicts: graylog2-server/src/main/java/org/graylog2/metrics/GraphiteFormatter.java graylog2-server/src/test/java/org/graylog2/LibratoMetricsFormatterTest.java  

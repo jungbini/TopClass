@@ -1,0 +1,1 @@
+  KT-3472 Can't navigate to source by clicking on a SAM constructor  #KT-3472 fixed  

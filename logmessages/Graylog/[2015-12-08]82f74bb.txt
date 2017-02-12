@@ -1,0 +1,1 @@
+  print first 400 characters of malformed GELF message in case it could not parsed to aid with debugging  

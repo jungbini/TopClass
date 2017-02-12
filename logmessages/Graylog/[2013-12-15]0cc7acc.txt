@@ -1,0 +1,1 @@
+  super simple user detail page. fixes #257  

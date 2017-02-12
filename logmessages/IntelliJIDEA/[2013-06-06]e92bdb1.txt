@@ -1,0 +1,1 @@
+  reverted fix for PY-9920 according to discussion CR-IC-1139  another fix for PY-9920 (added collapse recursively paths for number of configuration)  

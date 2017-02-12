@@ -1,0 +1,1 @@
+  allow using Flask plugin when running IntelliJ IDEA under debugger  

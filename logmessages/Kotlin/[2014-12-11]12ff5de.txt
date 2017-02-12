@@ -1,0 +1,1 @@
+  K2JS: fix KT-5639 Exception in kotlin-js when directory is given instead of output file  #KT-5639 Fixed  

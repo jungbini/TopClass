@@ -1,0 +1,1 @@
+  Fix #1671: Use a better approach to reap child processes, which fixes the occasional hangs seen during builds and on Bazel CI.  -- MOS_MIGRATED_REVID=134279208  

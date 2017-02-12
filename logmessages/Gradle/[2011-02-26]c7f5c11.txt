@@ -1,0 +1,1 @@
+  fixed GRADLE-1399: Incorrect contents generated for org.eclipse.wst.common.component file in Eclipse WTP Utility Module projects  

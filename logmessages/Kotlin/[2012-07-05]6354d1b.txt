@@ -1,0 +1,1 @@
+  Custom equals operator (includes little patch to frontend)  #KT-2354 fixed  

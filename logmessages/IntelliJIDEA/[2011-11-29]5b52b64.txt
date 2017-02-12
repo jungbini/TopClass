@@ -1,0 +1,1 @@
+  IDEA-75622 Threads in debugger are sorted case-sensitively  

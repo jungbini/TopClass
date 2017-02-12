@@ -1,0 +1,1 @@
+  PropertiesSeparatorManager state serialization fix (inserted $PROJECT_DIR macros to url + guessed separators not stored)  

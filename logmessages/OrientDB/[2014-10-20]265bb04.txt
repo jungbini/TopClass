@@ -1,0 +1,1 @@
+  fixed bug on range queries and composite index #2950  

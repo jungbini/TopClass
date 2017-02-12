@@ -1,0 +1,1 @@
+  HDFS-9377. Fix findbugs warnings in FSDirSnapshotOp. (Mingliang Liu via Yongjun Zhang)  

@@ -1,0 +1,1 @@
+  Distributed: fixed issue with remote transactions. The RID wasn't assigned correctly.  

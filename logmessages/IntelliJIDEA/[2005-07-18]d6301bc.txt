@@ -1,0 +1,1 @@
+  fixed dtd processing problem, when referencing entity in dtd it does not get correctly processed  

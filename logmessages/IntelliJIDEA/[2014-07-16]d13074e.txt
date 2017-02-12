@@ -1,0 +1,1 @@
+  fix incorrect target element calculation for text editors  

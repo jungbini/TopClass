@@ -1,0 +1,1 @@
+  fix incorrect resolve to self in tuple expressions; fix possible SOE  

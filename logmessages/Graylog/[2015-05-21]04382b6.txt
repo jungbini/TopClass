@@ -1,0 +1,1 @@
+  Fix custom input validation, fixes #1318  

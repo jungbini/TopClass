@@ -1,0 +1,1 @@
+ Merge branch '#119_ui_bug_fix' of emeroad/pinpoint-opensource  from pull-request 255  * refs/heads/#119_ui_bug_fix: #119_filter_wizard_bug_fix  - scope:true, node, link cache disable  commit f73c47b78fa02caad4d1aac37b01f12bafc8cf65  #119_filter_wizard_bug_fix - scope:true, node, link cache disable  

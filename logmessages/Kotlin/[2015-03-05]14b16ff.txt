@@ -1,0 +1,1 @@
+  KT-6916 Slow bytecode for downTo iteration like for (i in max downTo min)  #KT-6916 fixed  

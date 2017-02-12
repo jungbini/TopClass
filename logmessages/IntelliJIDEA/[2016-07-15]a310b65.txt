@@ -1,0 +1,1 @@
+  Java inspection: In "Add Braces" and "Remove Braces" inspections don't offer the fix on an if/loop body if it contains another if/loop to avoid ambiguity. Tests added. (IDEA-157727)  

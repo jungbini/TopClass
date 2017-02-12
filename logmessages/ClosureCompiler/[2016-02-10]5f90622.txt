@@ -1,0 +1,1 @@
+ Turn on compareJsDoc in InferJSDocInfoTest  This requires fixing JSDocInfo.areEquivalent().  Part of #1396.  

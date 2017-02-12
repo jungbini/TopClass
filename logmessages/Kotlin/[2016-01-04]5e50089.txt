@@ -1,0 +1,1 @@
+  Fixing generator for relocated protobuf file, fixed appropriate test  

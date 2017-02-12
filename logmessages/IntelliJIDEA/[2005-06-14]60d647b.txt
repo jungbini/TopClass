@@ -1,0 +1,1 @@
+  Stalled PSI element impl. caches problem fixed. Generally lead to repository assertions.  

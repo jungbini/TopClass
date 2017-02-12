@@ -1,0 +1,1 @@
+  fixed memory leak in Disposer in tests  

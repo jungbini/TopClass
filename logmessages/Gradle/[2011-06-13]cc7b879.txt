@@ -1,0 +1,1 @@
+  An attempt to resolve the issue with class clash in integration tests for maven plugin. The fix puts the maven-ant-tasks jar at the end of test classpath. More details & motivation is in maven.gradle file. Moved a single test resource (sample.jar) into the separate resources folder so that test task is happier.  

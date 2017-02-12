@@ -1,0 +1,1 @@
+  Animator: fix stuck at 0th frame during repeatable animaion  

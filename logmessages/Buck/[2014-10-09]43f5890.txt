@@ -1,0 +1,1 @@
+  Fix audit owner command for rules that do not list all their inputs explicitly.  Summary: For instance, input to the android_resource() rule is a directory. So earlier, the audit owner command wouldn't work for files under the `res` directory. With this 

@@ -1,0 +1,1 @@
+  [ALLUXIO-1956] Upgrade Jetty to fix jdk regression. * Used the same version as Spark to reduce the chance of conflicts.  

@@ -1,0 +1,1 @@
+  set "scan required" flag in DebugSession if hotswap was cancelled  

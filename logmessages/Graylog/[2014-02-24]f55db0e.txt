@@ -1,0 +1,1 @@
+  add network bind setting overrides to graylog2.conf  allows overriding them without having to have the elasticsearch_config_file  fixes #450  

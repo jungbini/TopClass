@@ -1,0 +1,1 @@
+ fixed update of version and rid after transaction commit in distributed environment.  

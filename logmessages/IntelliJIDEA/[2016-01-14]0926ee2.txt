@@ -1,0 +1,1 @@
+  TypeName.super checks for classes fixed (IDEA-150141)  

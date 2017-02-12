@@ -1,0 +1,1 @@
+  fix tests patch by jbellis for CASSANDRA-459  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@819827 13f79535-47bb-0310-9956-ffa450edef68  

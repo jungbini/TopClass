@@ -1,0 +1,1 @@
+  diamonds: inspection text fixed  

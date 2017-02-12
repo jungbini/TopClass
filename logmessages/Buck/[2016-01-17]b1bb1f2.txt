@@ -1,0 +1,1 @@
+  Fix typos in buckconfig article  Summary: A few typos and one grammar fix. Closes https://github.com/facebook/buck/pull/621  Reviewed By: coneko  fb-gh-sync-id: b1e4d18  

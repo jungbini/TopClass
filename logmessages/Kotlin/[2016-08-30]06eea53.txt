@@ -1,0 +1,1 @@
+  Fixed bug with class using data class as type parameter in supers list  

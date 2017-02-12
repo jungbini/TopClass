@@ -1,0 +1,1 @@
+  Maven: navigator reworked + refactorings + fixes  

@@ -1,0 +1,1 @@
+  IDEADEV-9689 added/fixed missing properties other cleaup  

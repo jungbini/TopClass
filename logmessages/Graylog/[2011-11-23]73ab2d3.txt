@@ -1,0 +1,1 @@
+  include timestamp in log4j output  fixes #SERVER-79  

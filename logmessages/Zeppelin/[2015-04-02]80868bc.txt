@@ -1,0 +1,1 @@
+r unknown interpreters 521429b [Ram Venkatesh] Merge remote-tracking branch 'upstream/master' into ZEPPELIN-19 6be5de7 [Ram Venkatesh] Fixed issue in reporting interpreter errors 4576183 [Ram Venkatesh] ZEPPELIN-19 Failures from disabled interpreters not reported Handle all exceptions from NotebookServer runParagraph and update Note  

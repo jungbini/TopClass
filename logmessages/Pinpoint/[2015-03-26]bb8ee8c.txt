@@ -1,0 +1,1 @@
+ #254 fix exception when user node points to nodes with the same app name  An exception is thrown when drawing the server map in situations where users call multiple nodes with the same application name (but 

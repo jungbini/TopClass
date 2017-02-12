@@ -1,0 +1,1 @@
+  IDEA-57641    Soft wrap: Quickfix icon location  Switched algorithm of defining quick fix icon position from logical position-based processing to visual position-based one  

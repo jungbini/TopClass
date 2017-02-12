@@ -1,0 +1,1 @@
+  Minor: fixed layout problems in Studio  

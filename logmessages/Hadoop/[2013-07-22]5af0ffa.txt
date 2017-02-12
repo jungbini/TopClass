@@ -1,0 +1,1 @@
+  Fixing YARN CHANGES.txt. The general bug list got mixed up with HADOOP-8562 sub-tasks. svn merge --ignore-ancestry -c 1505847 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1505850 13f79535-47bb-0310-9956-ffa450edef68  

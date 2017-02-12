@@ -1,0 +1,1 @@
+  fixed PY-7306 Packaging: do not run separate background tasks for multi-selection upgrade  

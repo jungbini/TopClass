@@ -1,0 +1,1 @@
+  YARN-1861. Fixed a bug in RM to reset leader-election on fencing that was causing both RMs to be stuck in standby mode when automatic failover is enabled. Contributed by Karthik Kambatla and Xuan Gong.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1594356 13f79535-47bb-0310-9956-ffa450edef68  

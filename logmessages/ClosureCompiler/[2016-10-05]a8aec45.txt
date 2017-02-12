@@ -1,0 +1,1 @@
+  Use a size heuristic to figure out that the optimization loop isn't making significant changes, and stop the loop before reaching a fixpoint, to save compilation time.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=135282181  

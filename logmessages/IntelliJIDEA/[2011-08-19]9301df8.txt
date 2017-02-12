@@ -1,0 +1,1 @@
+  fixed py.test producer (existing configurations)  

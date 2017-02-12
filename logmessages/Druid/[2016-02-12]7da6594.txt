@@ -1,0 +1,1 @@
+ Merge pull request #2485 from rasahner/DOC_fixDockerLink  integration-tests/README: fix link to docker-install  commit 7da6594bfe8347302eeab1044d1d9214a6e131c2  more doc fixes  

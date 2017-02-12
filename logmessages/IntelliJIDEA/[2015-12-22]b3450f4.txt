@@ -1,0 +1,1 @@
+  fixed PY-2724 Exclude protected methods from completion list if completion is performed outside a class  

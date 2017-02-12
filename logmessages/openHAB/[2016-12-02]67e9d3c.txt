@@ -1,0 +1,1 @@
+  Fix problems with creating the MapDB database directories during (#4850)  initialization.  The main change is modifying mkdir() to mkdirs() to cover the case where more than one directory in the path does not exist. Also added some additional debugging/log messages.  Fixes #4662. Fixes #4844.  

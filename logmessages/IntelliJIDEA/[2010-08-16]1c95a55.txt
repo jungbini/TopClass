@@ -1,0 +1,1 @@
+  fix assertions on renaming a class that is constructed via literal syntax  

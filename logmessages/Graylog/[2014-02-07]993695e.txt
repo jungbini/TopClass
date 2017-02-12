@@ -1,0 +1,1 @@
+  change message dispatcher loglevels to DEBUG, because everything else might fill your disks quite fast. fixes #415  

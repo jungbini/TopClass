@@ -1,0 +1,1 @@
+  PY-15392 Debugger: Ignore library files stops at exception breakpoints inside libraries if On termination policy is active  

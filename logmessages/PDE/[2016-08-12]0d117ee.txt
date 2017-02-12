@@ -1,0 +1,1 @@
+  add printStackTrace() method that can be overridden (fixes #222)  

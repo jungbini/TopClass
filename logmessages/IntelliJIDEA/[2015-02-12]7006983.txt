@@ -1,0 +1,1 @@
+  [vcs-log][linear-bek] fix test ascii-art  

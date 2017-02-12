@@ -1,0 +1,1 @@
+  Attempted to fix one of the threading issues in the file lock by reworking the contention handler. Simplified the FileLockCommunicator - it is now almost immutable (there's only stop() method) and hence less prone to threading issues.  

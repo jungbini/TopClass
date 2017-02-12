@@ -1,0 +1,1 @@
+  fix running JavaSourceTranslatingCompilers (IDEADEV-42002)  

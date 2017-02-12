@@ -1,0 +1,1 @@
+  IDEA-19328 "Simple blocks on one line" and "Force braces" aren't applied ideally  Test data is corrected in accordance with formatting algorithm fixes  

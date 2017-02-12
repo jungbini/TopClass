@@ -1,0 +1,1 @@
+  Genralize primary dex filtering.  Summary: Instead of just substring, support prefix, suffix, and exact match. This will let us use tighter patterns in fbandroid and avoid pulling things in by accident.  Test Plan: Unit tests, plus a separate fbandroid 

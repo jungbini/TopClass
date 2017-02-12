@@ -1,0 +1,1 @@
+  IDEA-53721: fixed NPE in PasswordSafe  

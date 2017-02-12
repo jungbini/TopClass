@@ -1,0 +1,1 @@
+  First attempt to fix single message view  - Only a few default fields are shown - Need some changes in API to make this completely work again  

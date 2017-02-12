@@ -1,0 +1,1 @@
+  a better fix for renaming reassigned things (PY-3698)  

@@ -1,0 +1,1 @@
+  go: fix cachine in go rules  Summary: Record rule outputs so that they get cached and are pulled from cache on cache hits.  Test Plan: CI  Reviewed By: nemith  fbshipit-source-id: 5b8d42b  

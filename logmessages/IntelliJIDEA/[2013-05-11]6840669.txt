@@ -1,0 +1,1 @@
+  fixed  PY-9659 Convert method to property: intention should be available for methods with yeild  

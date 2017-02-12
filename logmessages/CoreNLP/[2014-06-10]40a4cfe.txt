@@ -1,0 +1,1 @@
+  new option test.nqueries: only runs first n queries (for debugging)  

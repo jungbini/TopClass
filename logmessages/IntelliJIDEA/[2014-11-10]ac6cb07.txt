@@ -1,0 +1,1 @@
+  don't update virtual file content by default  fix assertion error  

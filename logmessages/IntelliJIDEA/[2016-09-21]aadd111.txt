@@ -1,0 +1,1 @@
+  IDEA-161420 Quick-fix to replace if(optional.isPresent()) with better alternatives  

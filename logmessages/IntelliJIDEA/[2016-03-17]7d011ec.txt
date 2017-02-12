@@ -1,0 +1,1 @@
+  fixed loosing watches expansion after a step  

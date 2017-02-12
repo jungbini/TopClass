@@ -1,0 +1,1 @@
+  HDFS-2287. TestParallelRead has a small off-by-one bug. Contributed by Todd Lipcon.    git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.22@1207711 13f79535-47bb-0310-9956-ffa450edef68  

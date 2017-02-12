@@ -1,0 +1,1 @@
+  ResourceBundles: support of xml files in RBE is deeper now: added rename (IDEA-143719), fixed bugs in editor (IDEA-143718)  

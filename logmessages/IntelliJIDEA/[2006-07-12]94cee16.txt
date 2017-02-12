@@ -1,0 +1,1 @@
+  deadlock fix: fire events outside of lock  

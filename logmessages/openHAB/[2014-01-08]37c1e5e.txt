@@ -1,0 +1,1 @@
+  Wakeup fix to better handle battery devices  

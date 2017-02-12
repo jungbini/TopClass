@@ -1,0 +1,1 @@
+  Detect Watchman capabilities with extended version command  Summary: Previously, Buck's Watchman integration hard-coded a list of supported capabilities via known version numbers.  Since version 3.8, Watchman supports an extended `version` command to request supported features. It returns a map of boolean values for any requested capabilities.  With this 

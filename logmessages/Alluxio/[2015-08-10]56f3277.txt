@@ -1,0 +1,1 @@
+  [TACHYON-665] optimize the implementation, add document and clean codebase:  - add a full version of unit and integration tests - add configuration documentation. - refactor/optimize service bind and connect related invocations - improve javadoc - clean codebase - bug fixes  

@@ -1,0 +1,1 @@
+  fix broken manual extractor message select  

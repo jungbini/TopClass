@@ -1,0 +1,1 @@
+  fixed PY-2393 Rename self adding quickfix PY-2389 "Create function" quickfix should not create nested function  

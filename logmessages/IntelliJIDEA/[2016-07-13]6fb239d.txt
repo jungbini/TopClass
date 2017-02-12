@@ -1,0 +1,1 @@
+  fix tests  CodeInsightTestFixtureImpl set project only inspection profile  

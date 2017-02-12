@@ -1,0 +1,1 @@
+  javasvn updated: Bug with authentication directory location fixed (default was always used) help ids added whenever it was possible to add them  

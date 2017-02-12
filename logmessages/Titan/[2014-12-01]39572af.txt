@@ -1,0 +1,1 @@
+  Adjusting FulgoraGraphComputer and related components to be compatible with TP3 GraphComputer. Bugfixes and hacks.  

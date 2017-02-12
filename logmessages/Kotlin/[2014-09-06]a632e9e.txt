@@ -1,0 +1,1 @@
+  JS backend: fix KT-4601 JS: compareTo doesn't work on Numbers  #KT-4601 Fixed  

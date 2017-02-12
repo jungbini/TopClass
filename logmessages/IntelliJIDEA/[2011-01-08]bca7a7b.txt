@@ -1,0 +1,1 @@
+  quickfix for "Shift operation by inappropriate constant" inspection  

@@ -1,0 +1,1 @@
+  removed unused build.xml and fixed README  

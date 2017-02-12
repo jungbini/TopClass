@@ -1,0 +1,1 @@
+  extract quickfix provider out of URLReference  

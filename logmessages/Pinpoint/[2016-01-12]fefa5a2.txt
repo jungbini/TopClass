@@ -1,0 +1,1 @@
+  [#1426] Bug fix to generate url for log button  

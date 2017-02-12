@@ -1,0 +1,1 @@
+  Debugger: do not use forceResolveScope for codeFragments in completion and AutoImportFix. #KT-12137 Fixed  

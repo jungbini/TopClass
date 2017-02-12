@@ -1,0 +1,1 @@
+  WEB-17251 fix obtaining template language for light virtual files  

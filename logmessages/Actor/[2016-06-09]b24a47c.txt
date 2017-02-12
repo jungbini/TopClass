@@ -1,0 +1,1 @@
+ Merge pull request #931 from unreg/fix/unreg-patch-1  Fix(android): wasted call  commit b24a47cc3041a0fecd961717509107994d762799  fix(core): fix editAvatar  

@@ -1,0 +1,1 @@
+  IDEA-83764 Support git-svn in GitConfig  Use special GitRemote instance for "remote = . " typical for git-svn branch in .git/config. Filter out the "refs/remotes/" prefix (as it is done for refs/heads) when creating GitBranch in GitBranch#tracked Add a test with test data from the bugreport.  

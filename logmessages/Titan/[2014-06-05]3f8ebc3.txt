@@ -1,0 +1,1 @@
+  Drop privileges when running Titan via deb/rpm  The debian package was already setup to install a Titan user, but the redhat package was not.  Both packages should run the Rexster/Titan daemon as the service/system user "titan" now.  I tested on Ubuntu 14.04 and CentOS 6.5.  This also fixes a variable capitalization bug in the redhat /etc/init.d/titan status implementation.  

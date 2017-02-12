@@ -1,0 +1,1 @@
+ Minor: new script to fix Eclipse IDE crazyness after pom.xml has been updated  

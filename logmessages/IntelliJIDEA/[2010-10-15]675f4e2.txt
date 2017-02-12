@@ -1,0 +1,1 @@
+  IDEA-12652 Run/Debug configurations: "Edit Defaults" push button looks redundant  

@@ -1,0 +1,1 @@
+ Add ipnb and the edu modules to repair PyC build  If one opens the Module Settings in IJ, the `main_pycharm_ce` run setting is in error, as is the `main_pycharm_edu` module. This also impacts the command-line build of PyCharm using `ant` because after the build, the packaging step complains about a missing `ipnb` module.  This fixes both of these problems.  

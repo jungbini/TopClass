@@ -1,0 +1,1 @@
+  [log] fix details filters: proper case-insensitivity  

@@ -1,0 +1,1 @@
+  rspec: workaround for negative line numbers (bug in cucumber+jruby)  

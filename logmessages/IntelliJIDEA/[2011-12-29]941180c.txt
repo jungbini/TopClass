@@ -1,0 +1,1 @@
+  EA-32843 - assert: WhiteSpace.append  Debug info is added  

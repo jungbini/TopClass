@@ -1,0 +1,1 @@
+  KT-2752: remove unnecessary hack that tries to treat annotation on property accessor as annotation on property itself; looks like FE has fixed that  

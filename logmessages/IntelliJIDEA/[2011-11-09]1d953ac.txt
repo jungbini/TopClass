@@ -1,0 +1,1 @@
+  fixed PY-4983 incorrect line break on enter for strings with prefix  

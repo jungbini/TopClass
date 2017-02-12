@@ -1,0 +1,1 @@
+  remove hack from ColorAndFontOptions, use listeners instead to get notified when changing from quick change popup #WEB-118589 fixed  

@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=51 ("Delayed/buffered broadcast not cleared when @Schedule is used")  See decription within the issue.  

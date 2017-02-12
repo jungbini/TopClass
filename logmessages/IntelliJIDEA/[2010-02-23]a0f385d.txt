@@ -1,0 +1,1 @@
+  fix groovy closure formatting when 'align call arguments' is enabled (IDEA-49293)  

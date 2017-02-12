@@ -1,0 +1,1 @@
+  Updated CHANGES.txt with all of the bug descriptions.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-203@1078992 13f79535-47bb-0310-9956-ffa450edef68  

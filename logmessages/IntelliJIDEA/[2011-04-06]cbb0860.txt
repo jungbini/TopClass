@@ -1,0 +1,1 @@
+  Sometimes editor has a state that causes 'join lines' action processing to 'eat' the text. That occurred because of unexpected document formatting in the middle of 'join lines' processing. The formatting was performed because PSI nodes affected by 'join lines' were marked for suspended formatting.  The fix is to disable postponed formatting during 'join lines' processing  

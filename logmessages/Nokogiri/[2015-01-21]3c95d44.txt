@@ -1,0 +1,1 @@
+  overwrite dup() method to fill clone with content  fixes #1042 the drop failed because the clone XmlElement was shallow and calling certain methods resulted in NPE  Sponsored by Lookout Inc.  

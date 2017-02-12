@@ -1,0 +1,1 @@
+  fix computeNotSparseGroups  expected exclusive "to", so, we should pass "endInclusive + 1"  

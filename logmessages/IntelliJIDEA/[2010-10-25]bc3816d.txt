@@ -1,0 +1,1 @@
+  Fixed PY-1433 ("All tests in folder" allows to specify pattern for files to be considered tests) Fixed PY-1964 (The setUpClass fixture from unittest2 is supported.) Fixed PY-2124 (Running all tests in folder works with Python 3)  

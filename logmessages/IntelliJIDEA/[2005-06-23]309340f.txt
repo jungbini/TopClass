@@ -1,0 +1,1 @@
+  one fix in jspx (JspText is now updated while file clone) and highlighting enforce introduced  

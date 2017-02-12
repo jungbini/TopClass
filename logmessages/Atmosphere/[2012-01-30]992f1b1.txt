@@ -1,0 +1,1 @@
+  More fix for #173 Force message caching event if the request went out of scope  

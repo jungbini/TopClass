@@ -1,0 +1,1 @@
+  Artifact caching fixes - Cache an artifact as 'missing' if the server has returned a 404, but not if server request failed - Use changing module cache expiry to determine when to recheck missing artifacts - Integration tests for missing artifacts and broken artifact links  

@@ -1,0 +1,1 @@
+  Parser: fix recovery for object literal with no body #KT-5102 Fixed  

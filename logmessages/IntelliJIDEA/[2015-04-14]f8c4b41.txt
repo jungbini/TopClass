@@ -1,0 +1,1 @@
+  WEB-15467 copy / paste debugger watch values as JSON string  

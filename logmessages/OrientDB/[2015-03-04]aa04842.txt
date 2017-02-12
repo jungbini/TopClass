@@ -1,0 +1,1 @@
+  fix problem on parameter binding in case of distributed.  

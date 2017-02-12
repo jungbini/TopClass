@@ -1,0 +1,1 @@
+ Update comment to reference the Netty websocket close frame bug for version 0  Signed-off-by: Julien Viet <julien@julienviet.com>  

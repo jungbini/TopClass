@@ -1,0 +1,1 @@
+  Extract result histogram chart to its own class  It's hard to see and debug that JS code inside an html file, so I'm moving it away. Related to #848.  

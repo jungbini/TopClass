@@ -1,0 +1,1 @@
+  InspectionProfilesConverterTest: fix settings after renaming MISSPELLED severity into TYPO  

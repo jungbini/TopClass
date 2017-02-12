@@ -1,0 +1,1 @@
+  IDEA-154620 ui: fix handling of shortcuts with second stroke for local actions  We need `myFoundComponent` to survive till the next action event, because is is used to find local actions (registered with `registerWithCustomShortcutSet`) in `inSecondStrokeInProgressState`. It is a WeakReference, so this will not cause memory leaks.  It was broken in 9b6176d  

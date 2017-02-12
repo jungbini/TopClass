@@ -1,0 +1,1 @@
+  fixed invalidation of the "antlib:..." namespaces corrected caching of classloaders on ant files corrected sequence of loading of settings of build files, in order not to confuse class loaders  

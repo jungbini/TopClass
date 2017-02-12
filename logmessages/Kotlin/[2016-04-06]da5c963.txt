@@ -1,0 +1,1 @@
+  Fix let implement quickfix label for object expressions Fixes #KT-11782  

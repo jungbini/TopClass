@@ -1,0 +1,1 @@
+  Work around Java 8 compiler bug (JDK-8037388).  

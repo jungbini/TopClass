@@ -1,0 +1,1 @@
+ Merge pull request #700 from dlsniper/fix-tests  Fix tests  commit 6495ae10a69c4d22fae7a3afcfaa073b18a403a8  import package fix: show nice popup for multiple choices  

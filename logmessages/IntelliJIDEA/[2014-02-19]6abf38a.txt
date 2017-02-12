@@ -1,0 +1,1 @@
+  IDEA-80056 Column selection mode improvement  make EditorMouseFixture work for non-monospaced fonts (hopefully fixing blinking tests)  

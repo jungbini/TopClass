@@ -1,0 +1,1 @@
+  [log] fix graph tests when called from idea ultimate  Use the absolute path to the test data dir, determined by utility method  

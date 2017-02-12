@@ -1,0 +1,1 @@
+  Java inspection: don't offer "Make Type Generic" quick fix for non-physical elements (IDEA-157727)  

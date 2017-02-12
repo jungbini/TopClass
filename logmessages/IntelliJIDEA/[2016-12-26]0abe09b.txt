@@ -1,0 +1,1 @@
+  CodeStyleManager backwards compatibility fix: FormattingModeAwareIndentAdjuster  

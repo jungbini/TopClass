@@ -1,0 +1,1 @@
+  Use a select in the data attribute of bazel_toolchain_test to remove the Linaro compiler filegroup on macOS. This fixes the broken bazel_toolchain_test on macOS.  I filed a bug to track the real issue (HardlinkedExecRoot sometimes seems to fail when inputs contain directories): https://github.com/bazelbuild/bazel/issues/1974  -- MOS_MIGRATED_REVID=136823559  

@@ -1,0 +1,1 @@
+  Fix scope bugs in ProjectFileIndex for JS libraries  

@@ -1,0 +1,1 @@
+nfiguration() and TaskAttemptContext.getConfiguration() lingering in titan-hadoop-core. These calls can't be made directly from titan-hadoop-core because the Job and TAC types changed from classes to interfaces between Hadoop 1 and 2.  Replaced them with calls to the associated helper methods on the HadoopCompat interface.  

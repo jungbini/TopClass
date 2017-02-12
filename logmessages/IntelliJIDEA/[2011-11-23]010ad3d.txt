@@ -1,0 +1,1 @@
+  fix creation of run configuration from context at the very end of file (PY-5100)  

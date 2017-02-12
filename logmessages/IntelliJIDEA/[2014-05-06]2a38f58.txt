@@ -1,0 +1,1 @@
+  IDEA-115737 Mercurial problem on Windows when repository replaced right inside disk directory.  *relative path should be constructed using FileUtil method, because File.getParent method has side effect with minimal prefix length.  

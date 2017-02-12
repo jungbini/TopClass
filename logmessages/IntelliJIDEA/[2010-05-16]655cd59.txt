@@ -1,0 +1,1 @@
+  PY-995 fix introduce* incorrectly working with assignment left part  

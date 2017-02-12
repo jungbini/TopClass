@@ -1,0 +1,1 @@
+  message analyzer must point against index the messages is actually stored in. fixes #WEBINTERFACE-308  

@@ -1,0 +1,1 @@
+  Cleanup (better class name for "Add Maven dependency" fix provider)  

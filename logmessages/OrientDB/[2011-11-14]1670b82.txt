@@ -1,0 +1,1 @@
+  Contribution by Andrey to fix MVRB-Tree severe bug on insertion when the splitted node must be added not to the direct parent.  

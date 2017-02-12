@@ -1,0 +1,1 @@
+  JetExceptionFilter handles correctly the case of several files with the same name  Extract the logic to DebuggerUtils.findSourceFileForClass()  This fixes navigation from stack trace to a file, when there's more than one file with this name in this package in the project  

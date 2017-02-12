@@ -1,0 +1,1 @@
+  Iterator now cover splits exclusively within their range (was off by 1).  Also fixed problem where the buffer size exceeding the split size caused overlap in the iterator.  

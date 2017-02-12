@@ -1,0 +1,1 @@
+  Remove CxxHeader rule.  Summary: The CxxHeader rules were used to track changes to a C/C++ descriptions header files, and a dependents that transitively depended on that description would have it's compile rules depend on the CxxHeader rule so that header file changes would trigger recompiles.  This 

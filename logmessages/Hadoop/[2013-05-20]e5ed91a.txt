@@ -1,0 +1,1 @@
+  YARN-695. Remove masterContainer and status unused fields from ApplicationReportProto and fix bugs in ApplicationReportPBImpl. Contributed by Zhijie Shen.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1484612 13f79535-47bb-0310-9956-ffa450edef68  

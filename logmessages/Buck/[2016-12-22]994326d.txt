@@ -1,0 +1,1 @@
+  fix optional.get bug  Summary: D3246288 introduced a bug. Sadly the bug was identified, acknowledged, but never bothered to be fixed. Sigh.  Test Plan: in the spirit of the original 

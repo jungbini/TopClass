@@ -1,0 +1,1 @@
+  avoid crash when closing an app window (fixes #4690)  

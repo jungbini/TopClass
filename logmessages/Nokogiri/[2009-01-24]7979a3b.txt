@@ -1,0 +1,1 @@
+  deprecating new_from_str.  fixes LH#30  

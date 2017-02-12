@@ -1,0 +1,1 @@
+  Some very basic unit level test coverage for associating output at the test case level in JUnit XML files.  Also made some test fixtures for build TestResultProvider instances more reusable.  

@@ -1,0 +1,1 @@
+ poms that can build for both jars and assemblies -target 1.6 and -target 1.7.  It's still rough and could use some cleanup.  In particular, the "jre6" and "standard" profiles that I introduced in this commit are unnecessary whenever the set of dependencies in each case is identical, 

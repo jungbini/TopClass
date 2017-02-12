@@ -1,0 +1,1 @@
+  MINOR: comments on KStream methods, and fix generics  guozhangwang  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Guozhang Wang  Closes #591 from ymatsuda/comments  

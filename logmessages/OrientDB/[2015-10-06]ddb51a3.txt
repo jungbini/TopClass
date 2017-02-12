@@ -1,0 +1,1 @@
+  Issue #2029 1. Only single backup may be started simultaneously.  2. Errors in calculation of LSN were fixed.  3. Minor improvement of backup speed.  

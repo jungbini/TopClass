@@ -1,0 +1,1 @@
+  editor tabs: invalidation of tabs & fast-closing-by-mouse fixed  

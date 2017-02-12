@@ -1,0 +1,1 @@
+  Assignment operations test fix: x is a byte, x += 2 translated to x = x+2, but type of (x+2) currently is Int, so it's not compiled because Int can't be stored in Byte.  Maybe we need to think about what should be a result of sum of to Bytes, but currently it's still Int  

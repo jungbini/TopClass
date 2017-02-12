@@ -1,0 +1,1 @@
+ Scratch file is always named: scratch_1, fix #1652  

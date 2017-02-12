@@ -1,0 +1,1 @@
+  fix ui log issues in gtk: remove border from branches list  

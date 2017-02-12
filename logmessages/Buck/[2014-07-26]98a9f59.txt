@@ -1,0 +1,1 @@
+  Fix an instance where we swapped -source and -target.  Summary: I guess folks always set these to the same value since this bug has been around since May 2013.  Test Plan: Changed the value to `source = 7` on an `android_library()` and built with `-v 2` and verified that `-source 7` was passed to `javac`.  

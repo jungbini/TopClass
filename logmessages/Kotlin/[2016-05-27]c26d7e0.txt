@@ -1,0 +1,1 @@
+  Attach "add remaining branches" and "add else branch" fixes to NON_EXHAUSTIVE_WHEN warning #KT-12503 Fixed  

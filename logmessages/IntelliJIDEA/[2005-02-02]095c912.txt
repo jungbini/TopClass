@@ -1,0 +1,1 @@
+  Navigate from editor fixed (do not use editor)  

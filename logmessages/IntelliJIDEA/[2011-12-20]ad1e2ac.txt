@@ -1,0 +1,1 @@
+  wrong condition when evaluating if to fix null focused component  

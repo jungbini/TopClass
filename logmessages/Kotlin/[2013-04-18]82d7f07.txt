@@ -1,0 +1,1 @@
+  Fixed bug in fix for KT 3492: Bug in bytecode generation for labeled super call from inner class & Property generation refactoring  

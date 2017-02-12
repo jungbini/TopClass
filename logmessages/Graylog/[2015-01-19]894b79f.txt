@@ -1,0 +1,1 @@
+  only load jvm, bufferinfo, journal info etc once per request  fixes Graylog2/graylog2-web-interface#1046  

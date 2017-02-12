@@ -1,0 +1,1 @@
+  fixed EDU-282 Run tests as cancelable background task  

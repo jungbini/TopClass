@@ -1,0 +1,1 @@
+  MINOR: Ignoring streams tests until there is fix for KAFKA-3354  Per discussion with guozhangwang, `ignore` failing streams system tests until fix for KAFKA-3354 is checked in.  Author: Geoff Anderson <geoff@confluent.io>  Reviewers: Guozhang Wang  Closes #1031 from granders/ignore-streams-systest  

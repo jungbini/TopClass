@@ -1,0 +1,1 @@
+  IDEA-58196 keyboard shortcut for intention quick fix and Console Properties dialog conflict  

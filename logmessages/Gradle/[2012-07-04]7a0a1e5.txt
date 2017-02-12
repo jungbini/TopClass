@@ -1,0 +1,1 @@
+  fixed some flawed (though not failing) spock specs  - moved interactions out of when-blocks (don't belong there) - moved exception conditions out of expect-blocks (don't belong there) - groovyfied some code  

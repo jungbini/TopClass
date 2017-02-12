@@ -1,0 +1,1 @@
+  Implemented fallback offscreen rendering mechanism when FBO extension is missing. Not fully debugged yet.  

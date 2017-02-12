@@ -1,0 +1,1 @@
+  WEB-9566 Debugger: optionally ignore certificate errors  

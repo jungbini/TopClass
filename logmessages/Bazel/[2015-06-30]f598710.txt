@@ -1,0 +1,1 @@
+  Link in src/tools/android to base_workspace.  This fixes #267 to some degree. An update to the tools/ directory will still be required.  -- MOS_MIGRATED_REVID=97228079  

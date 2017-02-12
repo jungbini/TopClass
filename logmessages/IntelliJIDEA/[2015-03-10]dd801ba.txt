@@ -1,0 +1,1 @@
+  IDEA-137318 Inline debugger change line numbers and mess up code if variables contains long values and soft wrap is enabled  

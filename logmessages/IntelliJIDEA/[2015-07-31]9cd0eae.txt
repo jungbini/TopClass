@@ -1,0 +1,1 @@
+  IDEA-143217 Debugger: Smart Step Into is suggested for method in inner lambda with breakpoint on outer lambda, but can't step  

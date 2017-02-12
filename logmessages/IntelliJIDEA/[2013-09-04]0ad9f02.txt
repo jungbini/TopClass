@@ -1,0 +1,1 @@
+  xdebugger api streamlined: unnecessary intermediate classes removed, XNamedValue moved to proper package  

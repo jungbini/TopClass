@@ -1,0 +1,1 @@
+  JS backend: refactoring - add KotlinFunctionIntrinsic; - remove CallStandardMethodIntrinsic - rename TranslationUtils#generateCallArgumentList to TranslationUtils#generateInvocationArguments; - add to PatternBuilder#pattern with root(prefix) parameter.  

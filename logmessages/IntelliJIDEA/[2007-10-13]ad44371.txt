@@ -1,0 +1,1 @@
+  IDEADEV-22487: brute force NPE fix.  

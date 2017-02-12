@@ -1,0 +1,1 @@
+adoop.{mapred,mapreduce}.  It's still possible to override both the catchall level on the root logger and the level of the MR packages via either the -l command line option to gremlin.sh or by setting these environment variables:  GREMLIN_LOG_LEVEL GREMLIN_MR_LOG_LEVEL  

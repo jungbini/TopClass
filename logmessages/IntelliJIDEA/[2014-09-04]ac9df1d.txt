@@ -1,0 +1,1 @@
+ improve slice view (PY-13837) and add logic for ndarray slice evaluation fix PY-13850 Evaluate list item for octal return SyntaxError  

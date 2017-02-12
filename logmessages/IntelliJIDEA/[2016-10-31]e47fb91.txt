@@ -1,0 +1,1 @@
+  Java: Quick fix that adds "requires" statement to the module info - code cleanup, improved messages (IDEA-162762)  

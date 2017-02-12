@@ -1,0 +1,1 @@
+  License Support: fix NPE in evaluation feedback dialog (temporary solution)  

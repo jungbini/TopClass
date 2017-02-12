@@ -1,0 +1,1 @@
+  fixed EDU-193 New Task Window dialog is not resizable  

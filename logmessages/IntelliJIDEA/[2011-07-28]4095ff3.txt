@@ -1,0 +1,1 @@
+  XDebugger: breakpoint editor balloon now in dialog mode. Find: NPE fixed.  

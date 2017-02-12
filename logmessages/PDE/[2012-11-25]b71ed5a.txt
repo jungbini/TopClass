@@ -1,0 +1,1 @@
+  fix for PMatrix3D.mult() when vectors are identical (issue 921)  

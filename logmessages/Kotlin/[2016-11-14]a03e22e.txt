@@ -1,0 +1,1 @@
+  KJS: fix refering to native nested class  

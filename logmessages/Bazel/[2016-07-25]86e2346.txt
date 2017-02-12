@@ -1,0 +1,1 @@
+  Store genquery's scope of accessible labels as a Label->Target map. Resolving them shows up as a hotspot in genquery-heavy builds.  Also fix a bug where we would throw a RuntimeException rather than a checked exception if the query tried to access something outside this scope.  -- MOS_MIGRATED_REVID=128379113  

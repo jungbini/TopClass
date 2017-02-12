@@ -1,0 +1,1 @@
+  fixed PY-8520 Refill Paragraph should not move first line in docstring to the line with quotes  do not move docstring if it is from the beginning at the first string (or the last) with quotes  

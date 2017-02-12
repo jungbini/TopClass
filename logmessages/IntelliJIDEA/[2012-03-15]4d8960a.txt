@@ -1,0 +1,1 @@
+  AppCode:Debugger: Cannot restart simulator when app was previously on a breakpoint (OC-1322) AppCode:Simulator: starting simulator rewritten to avoid deadlocks and UI blocking  

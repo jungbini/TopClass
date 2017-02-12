@@ -1,0 +1,1 @@
+  fix #894,partly fix #891  

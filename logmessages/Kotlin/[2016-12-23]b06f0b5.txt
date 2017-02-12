@@ -1,0 +1,1 @@
+  KT-14815 alt + enter -> "import" over a constructor reference is not working  #KT-14815 fixed  

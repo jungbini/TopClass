@@ -1,0 +1,1 @@
+  added a configuration option to specify the desired output executable name and allowing to select a directory to build a package. And fixed the debug flag from I to l.  

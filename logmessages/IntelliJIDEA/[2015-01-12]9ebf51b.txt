@@ -1,0 +1,1 @@
+  simplification postfix templates. Remove reference to PostfixTemplatePsiInfo for PostifxTemplateWithExpressionSelector  

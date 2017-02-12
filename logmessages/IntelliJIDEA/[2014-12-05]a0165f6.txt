@@ -1,0 +1,1 @@
+  fixed EA-61979 - NPE: PyActiveSdkConfigurable$.consume  

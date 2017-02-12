@@ -1,0 +1,1 @@
+  Fixes a bug only when charset is given by HTML5 style meta tag.  

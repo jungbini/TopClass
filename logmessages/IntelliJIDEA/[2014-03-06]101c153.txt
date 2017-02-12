@@ -1,0 +1,1 @@
+  introduce isMemberVisible/normalizeMemberName to avoid dependency on V8DebugProcess  

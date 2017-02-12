@@ -1,0 +1,1 @@
+  Apple C/C++: use `CxxPlatform` macros to expand SDK paths in flags  Summary: This fixes an issue where we weren't propagating flags with SDK macros properly for apple rules.  This 

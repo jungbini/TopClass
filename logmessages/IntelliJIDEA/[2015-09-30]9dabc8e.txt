@@ -1,0 +1,1 @@
+  create from usage: fix target class when created from super expression (IDEA-145227) include all classes in tests in target and choose the first available  

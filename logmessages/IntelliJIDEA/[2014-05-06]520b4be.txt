@@ -1,0 +1,1 @@
+  fixed PY-12826 Remove unused parameter: remove references in the docstrings  

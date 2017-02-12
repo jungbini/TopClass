@@ -1,0 +1,1 @@
+  fixed PY-6482 Move statement: ineffective move down to else statement in try/except/else  

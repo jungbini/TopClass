@@ -1,0 +1,1 @@
+Author: Devaraj Das <ddas@yahoo-inc.com> Date:   Sun Sep 19 17:24:16 2010 -0700  Fixing a bug in the deletion of logs when they exceed the size   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077707 13f79535-47bb-0310-9956-ffa450edef68  

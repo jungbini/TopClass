@@ -1,0 +1,1 @@
+  fix(web): fix vertical align for notification switch in activity  

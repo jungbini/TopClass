@@ -1,0 +1,1 @@
+  fix problems with default editor font. Correct usage of Mentlo font  

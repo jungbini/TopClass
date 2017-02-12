@@ -1,0 +1,1 @@
+  fix .pde folder rename (bug #922) and move location of sync() for rebuild header  

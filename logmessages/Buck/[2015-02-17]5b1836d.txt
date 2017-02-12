@@ -1,0 +1,1 @@
+  allow android_prebuilt_aar handle native libraries  Summary: Right now android_prebuilt_aar is ignoring all native libraries, which is a bug, fixing that by adding the libraries into `AndroidPackageableCollector`. After that, the existing flow can handle it correctly.  Test Plan: update unittest  

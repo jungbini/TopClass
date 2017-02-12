@@ -1,0 +1,1 @@
+  disabled coverage and debug for documentation configurations  

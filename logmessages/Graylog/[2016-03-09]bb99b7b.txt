@@ -1,0 +1,1 @@
+ Resolves session id to username for fixing https://github.com/Graylog2/graylog2-server/issues/1815  

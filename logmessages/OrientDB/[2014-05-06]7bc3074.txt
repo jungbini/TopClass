@@ -1,0 +1,1 @@
+  Index: small fix to allow using server-side indexes  Without the need to link them also into the client.  

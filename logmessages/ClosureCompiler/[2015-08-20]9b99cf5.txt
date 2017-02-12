@@ -1,0 +1,1 @@
+  Automated g4 rollback of changelist 101134965.  *** Reason for rollback ***  Pass is too aggressive  *** Original change description ***  Inline aliases before type checking  Fix #1053 and fix #1062 on github issue tracker  Reroll of cl/100724680  *** ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=101152935  

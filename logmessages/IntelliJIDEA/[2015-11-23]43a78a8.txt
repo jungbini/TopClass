@@ -1,0 +1,1 @@
+  platform: PerformFixesModalTask launches intention action based quick fix in read-action if possible  

@@ -1,0 +1,1 @@
+  fixed EA-35203 - NPE: PyDictDuplicateKeysInspection$Visitor.isDict  

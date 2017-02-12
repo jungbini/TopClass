@@ -1,0 +1,1 @@
+  Problem with username fixed  *username and email shouldn't be parsing if there are no default value for repository  

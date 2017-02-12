@@ -1,0 +1,1 @@
+  fix methods setup so that android also auto-adds methods from PGraphics/PImage  

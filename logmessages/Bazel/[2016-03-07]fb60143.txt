@@ -1,0 +1,1 @@
+  Fix hypothetical bug when querying for packages in bulk. We were assuming all packages were successful.  Also add Preconditions check to ensure we get the expected Package response when retrieving packages in bulk when we know the set of Package identifiers correspond to valid packages.  -- MOS_MIGRATED_REVID=116580093  

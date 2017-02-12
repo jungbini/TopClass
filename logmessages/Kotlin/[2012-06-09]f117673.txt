@@ -1,0 +1,1 @@
+  repl: fix two anonymous functions  

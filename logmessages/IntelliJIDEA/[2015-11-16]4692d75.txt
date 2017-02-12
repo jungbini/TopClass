@@ -1,0 +1,1 @@
+  IDEA-128336 Settings list: better readability and navigation: debugger goes before deployment, App Servers have default priority  

@@ -1,0 +1,1 @@
+  cqlsh: fix KEY pseudocolumn escaping when describing Thrift tables; patch by Aleksey Yeschenko, reviewed by Brandon Williams for CASSANDRA-4955  

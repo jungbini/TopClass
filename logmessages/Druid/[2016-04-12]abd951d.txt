@@ -1,0 +1,1 @@
+  Document how to use roaring bitmaps (#2824)  * Document how to use roaring bitmaps  This fixes #2408. While not all indexSpec properties are explained, it does explain how roaring bitmaps can be turned on.  * fix  * fix  * fix  * fix  

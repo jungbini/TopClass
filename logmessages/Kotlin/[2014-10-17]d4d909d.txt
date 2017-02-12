@@ -1,0 +1,1 @@
+  Flexible types supported in Extract Function when used from debugger/evaluate expression  

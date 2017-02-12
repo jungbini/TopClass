@@ -1,0 +1,1 @@
+  AH: fixed drop database with only 2 server running as distributed  Fixed issue #6815  

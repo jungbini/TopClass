@@ -1,0 +1,1 @@
+  OC-11626 Debugger cannot inspect Swift object variables compiled with Xcode 6.3 (6D520o)  Replaced Xcode setting with registry option. Refactored SwiftDebug test  

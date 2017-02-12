@@ -1,0 +1,1 @@
+  don't allow breakpoints to be set on blank lines (fixes #3765)  

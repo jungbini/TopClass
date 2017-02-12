@@ -1,0 +1,1 @@
+ bug fix. - can not show realtime sum chart when resize window. update realtime chart ui.  

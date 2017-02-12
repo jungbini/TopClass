@@ -1,0 +1,1 @@
+  fix SonarRunnerSmokeIntegrationTest test on windows  +review REVIEW-5170  

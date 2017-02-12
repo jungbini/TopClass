@@ -1,0 +1,1 @@
+  JS: fix support auto import for class names  

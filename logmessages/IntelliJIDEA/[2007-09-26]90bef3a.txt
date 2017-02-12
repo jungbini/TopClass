@@ -1,0 +1,1 @@
+  fix NPE; Compiler's progressIndicator.isRunning() is guaranteed to false _before_ releasing compilation semaphore (fix "overlapping" of compile tasks)  

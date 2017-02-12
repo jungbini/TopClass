@@ -1,0 +1,1 @@
+  Removed templates from completion after dot and in comments  #KT-1460 fixed  

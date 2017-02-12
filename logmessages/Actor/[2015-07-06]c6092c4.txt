@@ -1,0 +1,1 @@
+  fix(web): specify path to the main app js file;  

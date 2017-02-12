@@ -1,0 +1,1 @@
+  1. smooth printing to statusbar 2. fixed problem with thread combo update (empty combobox)  

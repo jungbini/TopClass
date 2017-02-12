@@ -1,0 +1,1 @@
+  Do not make labels without a specified repository in hidden attributes always point to the main repository.  They now all point to @bazel_tools anyway, so there is no need.  Fixes #700 (what a delightfully round bug number!)  -- MOS_MIGRATED_REVID=110132857  

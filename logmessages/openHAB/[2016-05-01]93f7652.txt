@@ -1,0 +1,1 @@
+  fixed NPE (#4342)  PR: #4342  Fixed NPE in DSC Alarm Binding  

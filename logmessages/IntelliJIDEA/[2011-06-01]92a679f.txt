@@ -1,0 +1,1 @@
+  fix invalid warning for use-shortcut-of actions (IDEA-70230 [Cmd]+[W] does not work in Keymap to close current tab)  

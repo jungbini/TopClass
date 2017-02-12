@@ -1,0 +1,1 @@
+  correct prefix calculation during class name completion in multiline Groovy string literals  

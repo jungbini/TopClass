@@ -1,0 +1,1 @@
+  fix(rpc): changed RpcInternalError delay to 1 second  

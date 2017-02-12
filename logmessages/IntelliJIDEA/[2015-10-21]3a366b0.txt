@@ -1,0 +1,1 @@
+  guava type migration: migration of FluentIterable chain fixed (no smart pointers now)  

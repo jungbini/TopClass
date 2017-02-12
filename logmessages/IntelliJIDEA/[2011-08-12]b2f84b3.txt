@@ -1,0 +1,1 @@
+  fix mac fullscreen action to be available in 10.7 (lion) only  

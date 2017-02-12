@@ -1,0 +1,1 @@
+  IDEA-159580 fix ChangeListManager.freeze() method which hangs sometimes.  Semaphore should be turned down() before up(), otherwise it may waitFor().  Using standard Semaphore instead of SemaphoreContinuationContext since the architecture of the latter doesn't 

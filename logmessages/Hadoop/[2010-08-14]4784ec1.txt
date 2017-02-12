@@ -1,0 +1,1 @@
+  HBASE-1517  Implement inexpensive seek operations in HFile (Pranav via Ryan) HBASE-2903  ColumnPrefix filtering (Pranav via Ryan) HBASE-2904  Smart seeking using filters (Pranav via Ryan)    git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@985412 13f79535-47bb-0310-9956-ffa450edef68  

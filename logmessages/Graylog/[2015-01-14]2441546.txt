@@ -1,0 +1,1 @@
+ in the journal prevent cleaning up early  fix #849  

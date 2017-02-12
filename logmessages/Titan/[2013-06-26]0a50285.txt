@@ -1,0 +1,1 @@
+  Added a test case for large propert values -- 5M characters supported, 10M throws buffer overflow problem in Kryo. Will not fix as that is an egregious amount of data. ~10 books worth of character data.  

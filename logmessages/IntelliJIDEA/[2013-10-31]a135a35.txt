@@ -1,0 +1,1 @@
+  allow "create class" fix for names which start with multiple uppercase characters but aren't entirely uppercase (PY-7423)  

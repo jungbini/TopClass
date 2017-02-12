@@ -1,0 +1,1 @@
+  drop some obsolete code; fix annotate from CVS repository browser (IDEADEV-21660)  

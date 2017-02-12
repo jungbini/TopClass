@@ -1,0 +1,1 @@
+  bug fixed for class_level_filter  

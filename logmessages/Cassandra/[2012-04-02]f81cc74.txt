@@ -1,0 +1,1 @@
+  add serializedSize (part 2) and fix unit tests patch by yukim; reviewed by jbellis for CASSANDRA-3617  

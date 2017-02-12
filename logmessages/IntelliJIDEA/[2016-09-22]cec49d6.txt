@@ -1,0 +1,1 @@
+  gradle: do not use preview mode for "use distribution with sources" quickfix  

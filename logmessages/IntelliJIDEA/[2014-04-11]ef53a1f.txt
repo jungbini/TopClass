@@ -1,0 +1,1 @@
+  IDEA-111803 Breakpoint indicator on the right gutter - better fix  

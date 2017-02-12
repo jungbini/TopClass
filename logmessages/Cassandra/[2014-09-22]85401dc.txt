@@ -1,0 +1,1 @@
+  Trunk Test fixes  Patch by Carl Yeksigian; reviewed by tjake for CASSANDRA-7991  

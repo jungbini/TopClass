@@ -1,0 +1,1 @@
+  fix Controller & add GraphTableCell  

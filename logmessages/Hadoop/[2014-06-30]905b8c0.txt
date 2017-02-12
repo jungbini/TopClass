@@ -1,0 +1,1 @@
+  svn merge -c 1606855 merging from trunk to branch-2 to fix:HDFS-6558. Missing newline in the description of dfsadmin -rollingUpgrade. Contributed by Chen He.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1606856 13f79535-47bb-0310-9956-ffa450edef68  

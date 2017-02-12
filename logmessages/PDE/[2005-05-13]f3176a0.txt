@@ -1,0 +1,1 @@
+  fix for linux to test for proper jikes install before running  

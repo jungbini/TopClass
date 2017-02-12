@@ -1,0 +1,1 @@
+  RUBY-11141: IndentationFoldingBuilder fixed to handle nodes with multiline text correctly. #RUBY-11141 fixed  

@@ -1,0 +1,1 @@
+ #457: bundle loading order issue fixed recalculation of literalClassNames when services come&go  

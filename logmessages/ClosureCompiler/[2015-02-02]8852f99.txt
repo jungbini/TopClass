@@ -1,0 +1,1 @@
+ Perform the ConvertToTypedES6 pass before the transpileOnly flag short-circuits. Otherwise we have bugs where the later passes rename variables or reuse variables with 

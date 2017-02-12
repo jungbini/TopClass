@@ -1,0 +1,1 @@
+  fixed PY-4518 '"Default argument value is mutable" inspection is not triggered for a dict constructor  

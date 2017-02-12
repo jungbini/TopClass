@@ -1,0 +1,1 @@
+  fix(core): Checking if code is null in "requestValidateCode"  

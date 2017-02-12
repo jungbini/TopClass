@@ -1,0 +1,1 @@
+ prepare to fix WEB-4379 Smart step into does not give me all the methods, WEB-4440 Make debugger step inside the anonymous function of the $.each statement by default (or make it at least optional)  

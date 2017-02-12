@@ -1,0 +1,1 @@
+  YARN-1152. Fixed a bug in ResourceManager that was causing clients to get invalid client token key errors when an appliation is about to finish. Contributed by Jason Lowe. svn merge --ignore-ancestry -c 1521292 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1521295 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Don't allow use standalone constants in complexExpressions, fix for KT-11043: Inconsisten result for class literal and string concatenation  #KT-11043 Fixed  

@@ -1,0 +1,1 @@
+ Merge pull request #731 from matthiasblaesing/fix_gcc_build  Fix build with mingw-64 on windows  commit b09171c11a1fe0199e83a50243112c8b77f64dee  Fix build with mingw-w64 on windows  mingw used to directly use the msvcrt implementation of swprintf which does does not match the ANSI version. This was fixed in mingw-w64 and so this special case has to be removed.  

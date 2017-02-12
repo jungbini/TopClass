@@ -1,0 +1,1 @@
+x 49a8dd4 [Grant Henke] KAFKA-2407: Only create log directory when it will be used  

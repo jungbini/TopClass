@@ -1,0 +1,1 @@
+  KAFKA-2973; Fix leak of child sensors on remove  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Gwen Shapira, Guozhang Wang  Closes #650 from ijuma/kafka-2973-fix-leak-child-sensors-on-remove  

@@ -1,0 +1,1 @@
+  Fixed node css bug that is uncovered if you add a document fragment search for css of children.  

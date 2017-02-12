@@ -1,0 +1,1 @@
+ constructor -> builder: allow to rename setter prefix together and remember the choice for a project (IDEA-102132)  

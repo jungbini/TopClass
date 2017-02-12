@@ -1,0 +1,1 @@
+ reversing changes made to 2754e101b2b4b37bbbad1d5c4ebbbde3865ce8ed.  * Clean up PR.  * Run eclipse formatter.  * Correct @since and @autor tags.  * Add missed space.  * Use parameterized logging instead of string concatenation.  * Use parameterized logging instead of string concatenation.  * Bundle-ActivationPolicy should be set to "lazy"  * Add README.md  * Minor.  

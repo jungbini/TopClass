@@ -1,0 +1,1 @@
+ EA-29110: fix NPE in SelectWorldHandler.  

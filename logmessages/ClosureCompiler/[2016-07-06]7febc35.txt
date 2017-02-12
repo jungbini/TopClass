@@ -1,0 +1,1 @@
+  When requires are not correctly sorted, print the full list of requires.  This way users can copy and paste the list into their JS file, which is more convenient than the linter's "fix mode" sometimes. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=126749624  

@@ -1,0 +1,1 @@
+ Merge pull request #1797 from deeplearning4j/ab_moretestfixes  More test fixes  commit d391ad9b49e85ea9fa67801f40fb7116817ba91a  Fix record reader max num batches functionality; fix cifar iterator  

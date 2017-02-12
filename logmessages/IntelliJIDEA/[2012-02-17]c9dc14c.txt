@@ -1,0 +1,1 @@
+  SVN 1.7: fixed 2 native lists tests (correctly determine current changelist through status)  

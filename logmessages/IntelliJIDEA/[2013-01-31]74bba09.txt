@@ -1,0 +1,1 @@
+  official GitHub theme is now used, fixed name case  

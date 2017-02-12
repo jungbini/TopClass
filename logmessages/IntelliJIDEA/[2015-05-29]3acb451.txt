@@ -1,0 +1,1 @@
+  allow SourcePositionProvider to choose what to show in inline debugger  

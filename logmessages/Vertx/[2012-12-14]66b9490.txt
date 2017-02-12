@@ -1,0 +1,1 @@
+  Fixed bug in passing options to SockJS from vertxbus.js plus some trace logging in sockjserver  

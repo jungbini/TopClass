@@ -1,0 +1,1 @@
+  SQL batch: fixed problem on reloading record in case of concurrent exception  

@@ -1,0 +1,1 @@
+  ant annotator highlightes no errors under undefined elements, unknown attributes as well fixing highlighting tests  

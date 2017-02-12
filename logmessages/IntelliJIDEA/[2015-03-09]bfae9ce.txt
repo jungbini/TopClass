@@ -1,0 +1,1 @@
+  hide add import fix if qualified name of imported class is not a valid qName (IDEA-137296)  

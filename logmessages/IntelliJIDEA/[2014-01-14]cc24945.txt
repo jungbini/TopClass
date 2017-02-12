@@ -1,0 +1,1 @@
+  WEB-10422: make 'select whole CSS selector suffix' option affect SASS/LESS mixins, variables, functions and property values  

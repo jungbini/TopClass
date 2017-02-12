@@ -1,0 +1,1 @@
+  Converter from Java: do not produce class object for just private methods + fixed bug with unnecessary static member qualification  

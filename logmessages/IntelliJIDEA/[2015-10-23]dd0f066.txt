@@ -1,0 +1,1 @@
+  fixed README: minimum IDEA version specified, simplified text about required plugins  

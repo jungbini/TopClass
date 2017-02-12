@@ -1,0 +1,1 @@
+  KAFKA-2598; Adding integration test for the authorizer at API level.  Some bug fixes that I encountered while running the tests.  Author: Parth Brahmbhatt <brahmbhatt.parth@gmail.com>  Reviewers: Jason Gustafson <jason@confluent.io>, Ismael Juma <ismael@juma.me.uk>, Jun Rao <junrao@gmail.com>  Closes #300 from Parth-Brahmbhatt/KAFKA-2598  

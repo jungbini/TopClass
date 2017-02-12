@@ -1,0 +1,1 @@
+  Add checkstyle support for Google code style.  Add checktyle 2.8 to the maven checkstyle plugin to be able to corretly parse Google Java style rules.  First drop to fix code based on Google style.  Fix unit tests fail.  

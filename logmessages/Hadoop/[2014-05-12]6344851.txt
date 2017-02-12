@@ -1,0 +1,1 @@
+  Merge r1594085 from trunk. YARN-2016. Fix a bug in GetApplicationsRequestPBImpl to add the missed fields to proto. Contributed by Junping Du  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1594086 13f79535-47bb-0310-9956-ffa450edef68  

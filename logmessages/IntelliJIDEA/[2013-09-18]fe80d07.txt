@@ -1,0 +1,1 @@
+  xdebugger: implemented standalone variables view  Conflicts:  python/community/src/com/jetbrains/python/console/PyConsoleStackFrameConnector.java  

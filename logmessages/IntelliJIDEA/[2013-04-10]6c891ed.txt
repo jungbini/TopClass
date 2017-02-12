@@ -1,0 +1,1 @@
+  fix idea.external.build.development.plugins.dir so that it actually works  

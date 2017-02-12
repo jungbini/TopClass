@@ -1,0 +1,1 @@
+  fixes KT-2091 allowing fold() and foldRight() to take 

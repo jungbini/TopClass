@@ -1,0 +1,1 @@
+  IDEA-112728 Can't create new task from tasks menu in toolbar: no need to fix lost typing for Go To Task  

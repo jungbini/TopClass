@@ -1,0 +1,1 @@
+  Correct gradle project structure text fixture initialization  

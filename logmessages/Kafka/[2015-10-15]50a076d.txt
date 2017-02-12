@@ -1,0 +1,1 @@
+  MINOR: set up temp directories properly in StreamTaskTest  guozhangwang StreamTaskTest did not set up a temp directory for each test. This occasionally caused interference between tests through state directory locking.  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Guozhang Wang  Closes #317 from ymatsuda/fix_StreamTaskTest  

@@ -1,0 +1,1 @@
+  CompleteStatementTest fixed (the case of empty code block)  

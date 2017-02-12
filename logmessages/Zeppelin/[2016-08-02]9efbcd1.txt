@@ -1,0 +1,1 @@
+ve some properties 57cd328 [Jongyoul Lee] Changed updateProperties to setProperties  

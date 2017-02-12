@@ -1,0 +1,1 @@
+  GRADLE-1770 eclipse-wtp plugin doesn't respect webAppDirName. It was cheap to fix so I decided to do it.  

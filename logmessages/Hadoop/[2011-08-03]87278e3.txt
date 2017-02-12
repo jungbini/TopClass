@@ -1,0 +1,1 @@
+  Making CS work on 150 nodes + gridmixV3. Fixed logging bugs + yet another protocol buffer wrapper related bug.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/MR-279@1153454 13f79535-47bb-0310-9956-ffa450edef68  

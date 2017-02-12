@@ -1,0 +1,1 @@
+  Add debugging to SuperConsoleEventBusListener  Summary: I ran into a bug where the super console was unexpectedly disabled. It had no logging to say when this happened, so I found these logs useful while debugging.  Test Plan: buck project, confirmed new logs appeared in buck-0.log  

@@ -1,0 +1,1 @@
+  - fixed minor bugs in StreamController#destroy and matching views  

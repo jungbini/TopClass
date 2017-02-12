@@ -1,0 +1,1 @@
+  Combined identifier info for things like '(x + y).z' is no longer treated as 'z' identifier info + a pair of tests + code fix #KT-9126 Fixed  

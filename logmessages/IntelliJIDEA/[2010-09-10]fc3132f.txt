@@ -1,0 +1,1 @@
+  revive -Didea.platform.prefix=Platform a little bit  

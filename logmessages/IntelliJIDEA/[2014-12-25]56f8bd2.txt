@@ -1,0 +1,1 @@
+  fixed PY-14462 In IPython notebook, after cell evaluation with Shift-Enter, focus should be on the next cell  

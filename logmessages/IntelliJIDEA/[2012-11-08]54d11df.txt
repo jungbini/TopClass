@@ -1,0 +1,1 @@
+  fixed PY-7968 Replace + with string formatting operator: disable intention for expressions not only with +  

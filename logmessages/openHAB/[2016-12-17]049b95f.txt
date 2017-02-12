@@ -1,0 +1,1 @@
+  Netatmo: fix for issue #4038, implemented solution similar to watou's suggestion. (#4906)  

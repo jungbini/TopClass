@@ -1,0 +1,1 @@
+  IDEA-66882 Version Control: show Annotation for specified revision from History tab + some old Subversion history panel bugs with renames  

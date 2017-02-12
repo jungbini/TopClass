@@ -1,0 +1,1 @@
+  Support separate graph and job configs in ScanJob  This was motivated by IndexRemoveJob, which implements ScanJob but wants both a config rooted at GraphDatabaseConfiguration.JOB_NS and another config rooted at GraphDatabaseConfiguration.ROOT_NS.  This may not be the best way to do it, but it fixes IndexRemoveJob on non-inmemory executors.  

@@ -1,0 +1,1 @@
+  external artifact builder: preserve compression method for entries extracted from one archive and packed into another (to fix problems with Android *.apk artifacts)  

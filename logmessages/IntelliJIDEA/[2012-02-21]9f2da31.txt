@@ -1,0 +1,1 @@
+  GitCompareBranchesLogPanel: make repository selector thinner, fix alignment  

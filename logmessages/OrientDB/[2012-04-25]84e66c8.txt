@@ -1,0 +1,1 @@
+  Fixed bug avoiding to load the record on ORecord.getVersion()  

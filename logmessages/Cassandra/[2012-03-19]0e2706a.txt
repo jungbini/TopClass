@@ -1,0 +1,1 @@
+  Revert "fix KEYS index from skipping results" Needs test case + backport to 1.0.9  

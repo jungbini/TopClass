@@ -1,0 +1,1 @@
+  fix(web): increase width of header menu, remove paddings from activity buttons.  

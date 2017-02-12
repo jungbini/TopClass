@@ -1,0 +1,1 @@
+  Print project name and command line for debug  

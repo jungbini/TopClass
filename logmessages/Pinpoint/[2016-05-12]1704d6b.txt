@@ -1,0 +1,1 @@
+ Bump to HBase 1.2.x and fix port for ui  

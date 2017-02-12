@@ -1,0 +1,1 @@
+  fix multiple call of hook, issue #3684  

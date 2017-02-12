@@ -1,0 +1,1 @@
+  Small fix to let graph elements to work offline  

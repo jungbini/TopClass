@@ -1,0 +1,1 @@
+  Fix wrong assumptions in quickfix  Diagnostic is always reported on overriden property  #EA-64407 Fixed  

@@ -1,0 +1,1 @@
+  HBASE-2402 [stargate] set maxVersions on gets; fix test failure  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@930166 13f79535-47bb-0310-9956-ffa450edef68  

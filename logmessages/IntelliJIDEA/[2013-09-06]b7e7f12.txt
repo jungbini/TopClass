@@ -1,0 +1,1 @@
+  Bug fix: hint "(, )" is shown beside any goal in maven tool window  

@@ -1,0 +1,1 @@
+  IDEA-115605 New Project wizard: extra settings fields disappear on switching template (memory leak re-fixed)  

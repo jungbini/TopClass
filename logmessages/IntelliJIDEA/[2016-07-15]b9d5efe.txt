@@ -1,0 +1,1 @@
+  fix text layout cache invalidation problem - RTL layout was mistakenly disabled for a line if a line break before it was removed  

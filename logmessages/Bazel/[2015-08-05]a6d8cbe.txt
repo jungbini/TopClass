@@ -1,0 +1,1 @@
+  Add '--experimental_allow_fastbuild_debug' which when set, adds flag'-DDEBUG=1' to 'fastbuild' for objc.  RELNOTES: Make '-DDEBUG=1' available for objc fastbuild via --experimental_allow_fastbuild_debug  -- MOS_MIGRATED_REVID=99896083  

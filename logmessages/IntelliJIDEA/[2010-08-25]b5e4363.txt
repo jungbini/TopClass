@@ -1,0 +1,1 @@
+  IDEA-57945: fix lost prefix when renaming prefixed properties  

@@ -1,0 +1,1 @@
+  Add logo assets and fix text centering.  

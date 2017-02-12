@@ -1,0 +1,1 @@
+  add println(long) and double to avoid casting bug (issue #969)  

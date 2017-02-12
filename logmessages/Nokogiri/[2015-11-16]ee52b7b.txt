@@ -1,0 +1,1 @@
+  Add patch files for recently fixed vulnerabilities.  This fixes issue #1374 and the following CVEs:  CVE-2015-1819 CVE-2015-7941_1 CVE-2015-7941_2 CVE-2015-7942 CVE-2015-7942-2 CVE-2015-8035 CVE-2015-7995  

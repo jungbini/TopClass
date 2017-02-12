@@ -1,0 +1,1 @@
+  Debugger updating when other threads finished (PY-17603)  The bug introduced by PY-16525. We should update debugger suspend state after thread finish, if only it isn't suspended in some other thread yet.  

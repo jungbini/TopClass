@@ -1,0 +1,1 @@
+  IDEA-55421 Share default run/debug configuration not persisting  

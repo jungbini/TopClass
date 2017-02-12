@@ -1,0 +1,1 @@
+  VCS: fix tests. all vcses = service; GitRootTracker should be started from "activate"  

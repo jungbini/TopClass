@@ -1,0 +1,1 @@
+  fixed reopen connection client implamentation, now it get the right token for the right connection  

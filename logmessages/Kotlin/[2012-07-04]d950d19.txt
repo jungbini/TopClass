@@ -1,0 +1,1 @@
+  fixed up the maven plugin after Pavel's changes  

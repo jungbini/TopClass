@@ -1,0 +1,1 @@
+  Unwanted panel on editor top is finally fixed.  

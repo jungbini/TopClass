@@ -1,0 +1,1 @@
+  fixes: when registering delete path, remove it from 'toRecompile' list prevent infinite recursion on make when compiling mutually dependent files in successive compilation rounds mark dirty files on make considering module layout (sources were attributed to wrong chunk)  

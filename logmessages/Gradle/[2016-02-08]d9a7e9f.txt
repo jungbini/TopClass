@@ -1,0 +1,1 @@
+  Show name of managed property when debugging  +review REVIEW-5821  

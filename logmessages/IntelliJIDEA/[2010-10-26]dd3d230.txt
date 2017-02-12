@@ -1,0 +1,1 @@
+  ask for starting ddms when debug launching  

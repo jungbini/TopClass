@@ -1,0 +1,1 @@
+  [git] Don't use short hashes in the log internally.  This fixes the old log, which was broken when it was decided not to use short parents.  

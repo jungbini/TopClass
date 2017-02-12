@@ -1,0 +1,1 @@
+  KAFKA-2120: cleaning follow-up  Trivial fix to get rid of unused statements in kafkaProducer.  Author: Mayuresh Gharat <mgharat@mgharat-ld1.linkedin.biz>  Reviewers: Edward Ribeiro, Guozhang Wang  Closes #320 from MayureshGharat/kafka-2120-followup  

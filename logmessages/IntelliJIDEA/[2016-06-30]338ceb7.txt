@@ -1,0 +1,1 @@
+  java inspections: empty method inspection should not show "add annotation" quick-fix when was invoked in run inspection by name action IDEA-156450  

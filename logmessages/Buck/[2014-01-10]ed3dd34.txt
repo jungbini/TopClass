@@ -1,0 +1,1 @@
+  Remove debug logging from `TestCommand`.  Summary: I'm pretty sure I solved the issue that was causing this, so no need for this hacky logging anymore.  Test Plan: Buildbot tests.  

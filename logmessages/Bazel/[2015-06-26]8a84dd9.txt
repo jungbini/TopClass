@@ -1,0 +1,1 @@
+  Skylark: re-implemented String#format(), which has the following effects:  - Braces can now be escaped ('{{' and '}}') - In addition to named arguments, both manual ('{0}') and automatic ('{}') positional replacement fields are supported - An error related to specific regex characters (such as '$') was fixed  -- MOS_MIGRATED_REVID=96971731  

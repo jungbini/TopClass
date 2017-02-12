@@ -1,0 +1,1 @@
+  IDEA-161384 ui: fix text alignment in ComboBoxAction under HiDPI  

@@ -1,0 +1,1 @@
+  more correct fix for NPE  

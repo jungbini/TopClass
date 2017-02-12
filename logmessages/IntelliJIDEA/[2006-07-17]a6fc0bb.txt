@@ -1,0 +1,1 @@
+  don't hold PSI elements outside of read action (IDEADEV-7182); fix ROME  

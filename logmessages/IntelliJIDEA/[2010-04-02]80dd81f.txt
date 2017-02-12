@@ -1,0 +1,1 @@
+  fix trouble (do not invoke zen coding in live template activation)  

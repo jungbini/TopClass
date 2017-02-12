@@ -1,0 +1,1 @@
+  Update to netty-3.10.5.Final  This fixes a bug in SSL handling. See: http://netty.io/news/2015/10/13/3-10-5-Final.html  

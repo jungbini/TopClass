@@ -1,0 +1,1 @@
+  Enhance OType: fix for LINKBAG, add isEmbedded() method  

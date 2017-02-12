@@ -1,0 +1,1 @@
+  Windows: use Win32 API to obtain executable name.  cygwin lies about it, stripping the '.exe' suffix.  Needed for #276.  -- MOS_MIGRATED_REVID=114860126  

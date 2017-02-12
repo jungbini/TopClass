@@ -1,0 +1,1 @@
+  adding style support for external objects, also cleaning api and additional bug fixes  

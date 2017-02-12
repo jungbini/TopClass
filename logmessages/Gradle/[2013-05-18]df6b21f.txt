@@ -1,0 +1,1 @@
+  Some unit test fixes to make Java 5 happy.  

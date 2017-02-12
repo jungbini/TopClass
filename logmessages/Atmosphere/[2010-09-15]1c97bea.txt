@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=52 ("Websocket connection disposal with Jetty")  Solution provided by Jim Marino at gmail [dot] com  

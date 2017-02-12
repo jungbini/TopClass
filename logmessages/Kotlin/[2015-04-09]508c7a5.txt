@@ -1,0 +1,1 @@
+  KT-7377 Throwable: Empty PSI elements should not be passed to createDescriptor from UnusedReceiverParameterInspection  #KT-7377 fixed  

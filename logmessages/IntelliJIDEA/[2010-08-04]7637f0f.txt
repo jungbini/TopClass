@@ -1,0 +1,1 @@
+  JBTable: empty text rendering fix  

@@ -1,0 +1,1 @@
+  CreateTest: NPE fix (IDEADEV-36245)  

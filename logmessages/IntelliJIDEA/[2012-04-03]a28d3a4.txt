@@ -1,0 +1,1 @@
+ Fixed bug in extract method refactoring for vars defined before and redefined inside the fragment (PY-6081)  

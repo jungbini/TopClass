@@ -1,0 +1,1 @@
+  Draft release notes for Gradle 3.2.1.  Manually input fixed issues becuase we're no longer tracking from JIRA, and we haven't changed issues injection code to pull from GitHub.  Issue: gradle/gradle-private#596  

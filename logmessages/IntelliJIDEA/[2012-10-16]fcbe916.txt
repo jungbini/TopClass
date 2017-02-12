@@ -1,0 +1,1 @@
+  GitReference.equals(): use getFullName() instead of toString()  The latter may change and may contain debug information and so on.  

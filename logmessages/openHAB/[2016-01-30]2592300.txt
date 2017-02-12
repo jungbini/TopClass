@@ -1,0 +1,1 @@
+ Reverted timing back to fix reliability.  

@@ -1,0 +1,1 @@
+  Postfix: rename 'Edit postfix templates settings' action  

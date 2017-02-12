@@ -1,0 +1,1 @@
+  Added test coverage for incremental build with C-language sources  - Extracted HelloWorldApp infrastructure into fixtures, with various language implementations - Use CHelloWorldApp and CppHelloWorldApp for testing incremental build  

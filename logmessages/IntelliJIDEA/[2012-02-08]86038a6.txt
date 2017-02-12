@@ -1,0 +1,1 @@
+  fixed PY-5681 Use ~ instead of user home directory in "Select Interpreter Path"  

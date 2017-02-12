@@ -1,0 +1,1 @@
+  GitConfigTest: fix a test case description  

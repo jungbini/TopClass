@@ -1,0 +1,1 @@
+  Porting fix for MAPREDUCE-5083 to 2.0.4-alpha. MiniMRCluster should use a random component when creating an actual cluster. Contributed by Siddharth Seth.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1464634 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  partly reverted previous fix: update only gutter size on layout to avoid scrolling slow down, but still fix blinking  

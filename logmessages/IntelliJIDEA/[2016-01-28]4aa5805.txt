@@ -1,0 +1,1 @@
+  export settings presentable name: remove common suffix "Settings" (so, GithubSettings -> Github)  

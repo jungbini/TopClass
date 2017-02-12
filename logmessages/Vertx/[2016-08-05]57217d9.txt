@@ -1,0 +1,1 @@
+ Merge pull request #1560 from alexlehm/http_11_socks  fix http 1.1 requests with socks proxy  commit 57217d9e4dfa9b548bf997efb6fd4ad4ddc783f2  Remove KeyCertOptions limitation for OpenSSL - fixes #1564  

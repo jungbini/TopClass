@@ -1,0 +1,1 @@
+  LH: deadlock fix IDEA-21906 + some refactoring  

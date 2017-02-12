@@ -1,0 +1,1 @@
+  Issue which causes unexpected close of database on server because of connection multiplexing on client was fixed.  

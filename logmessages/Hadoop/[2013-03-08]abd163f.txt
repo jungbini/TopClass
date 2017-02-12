@@ -1,0 +1,1 @@
+  svn merge -c 1205697 Merging from trunk to branch-0.23 to fix HADOOP-7358.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1454530 13f79535-47bb-0310-9956-ffa450edef68  

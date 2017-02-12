@@ -1,0 +1,1 @@
+  set method watcher to null on debug session complete  

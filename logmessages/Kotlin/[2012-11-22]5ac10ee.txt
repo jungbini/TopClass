@@ -1,0 +1,1 @@
+  Mutability fixed in KDocConfig: the maps are mutated from Java  

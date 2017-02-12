@@ -1,0 +1,1 @@
+  Change ClasspathTraversal to use the project filesystem.  Summary: ClasspathTraversal's directory traversal accesses the filesystem directly without going through the project filesystem. This fixes that.  Test Plan: CI  Reviewed By: beefon  fbshipit-source-id: 7d26a02  

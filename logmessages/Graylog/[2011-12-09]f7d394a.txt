@@ -1,0 +1,1 @@
+  moved notification bars to bottom. hovering.  fixes #WEBINTERFACE-159  

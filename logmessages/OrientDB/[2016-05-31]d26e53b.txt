@@ -1,0 +1,1 @@
+  Write cache and WAL enhancements and fixes:  * start page flushing from the lowest LSN page, avoid full sync * flush pages with too old LSNs even if they have recency bit set, avoid full sync * fixed broken negative cache size counter, avoid cache overpopulation * fixed absence of page LSN update on flushing pages for a specific file * fixed defunct TTL  

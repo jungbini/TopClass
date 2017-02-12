@@ -1,0 +1,1 @@
+  fixed problem with keeping active editor tab active when non-active tab is being closed  

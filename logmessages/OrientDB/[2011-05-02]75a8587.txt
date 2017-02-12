@@ -1,0 +1,1 @@
+  Contribution by Luca Molino about: - New HTTP Download command to download binary data in documents or ORecordBytes - Fixed a bug on recursive record in JSON  

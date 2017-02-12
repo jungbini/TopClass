@@ -1,0 +1,1 @@
+  Attach to subprocess settings moved to Settings | Debugger | Python. That allows to debug subprocesses in tests (PY-7111).  

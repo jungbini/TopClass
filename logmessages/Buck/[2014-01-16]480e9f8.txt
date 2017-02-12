@@ -1,0 +1,1 @@
+  Automatically incorporare source paths from `getInputsToCompareToOutput` in the rule key.  Summary: "Fix rulekey of AndroidResourceRule" fixed a bug in how we generate rule keys for android_resource rule, essentially including source paths as well as the source file contents in the rule key. Turns out `java_library` rule also has the same bug.  This 

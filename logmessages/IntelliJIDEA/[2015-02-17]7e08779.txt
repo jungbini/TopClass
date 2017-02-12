@@ -1,0 +1,1 @@
+  SSR: fix infinite loop on searching with template "javadoc annotated class"  

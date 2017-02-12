@@ -1,0 +1,1 @@
+  KT-6409 Do not create empty PersistentHashMap instances for modules without kotlin files during build  #KT-6409 fixed  

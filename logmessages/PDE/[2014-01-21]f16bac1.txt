@@ -1,0 +1,1 @@
+  reverted to jogl 2.1.2 because of resize issue on OSX (https://jogamp.org/bugzilla/show_bug.cgi?id=946)  

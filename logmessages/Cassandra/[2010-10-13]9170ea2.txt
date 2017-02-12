@@ -1,0 +1,1 @@
+  fix removing tokens from SystemTable on decommission and removetoken. patch by jbellis; reviewed by Nick Bailey for CASSANDRA-1609  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1022158 13f79535-47bb-0310-9956-ffa450edef68  

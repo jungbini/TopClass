@@ -1,0 +1,1 @@
+  HA: fixed issue with removing of dynamic servers  

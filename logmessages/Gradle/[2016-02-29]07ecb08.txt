@@ -1,0 +1,1 @@
+  Fix abstract Gradle vs Maven base test class not in fixtures directory  

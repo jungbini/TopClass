@@ -1,0 +1,1 @@
+  Rename package jet -> kotlin in cli, cli-common  org.jetbrains.jet.cli -> org.jetbrains.kotlin.cli  Also fix some minor warnings  

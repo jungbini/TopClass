@@ -1,0 +1,1 @@
+  Export test results (IDEA-11707): stylesheet fixes, show ignored status  

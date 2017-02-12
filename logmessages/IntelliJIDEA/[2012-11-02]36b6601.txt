@@ -1,0 +1,1 @@
+  IDEA-93391  Hg Incoming/Outgoing widget doesn't update when checkBox became selected  -  fixed  

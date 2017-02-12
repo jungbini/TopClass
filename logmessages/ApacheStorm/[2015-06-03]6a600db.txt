@@ -1,0 +1,1 @@
+  fix version numbers in pom for 0.10.0 release  

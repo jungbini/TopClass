@@ -1,0 +1,1 @@
+  one more workaroundish NPE fix (IDEADEV-32862)  

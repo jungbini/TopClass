@@ -1,0 +1,1 @@
+  Vcs tests: do not ignore IOException in last attempt of clearing directory fixing http://crucible.labs.intellij.net/cru/CR-IC-277#CFR-32341  

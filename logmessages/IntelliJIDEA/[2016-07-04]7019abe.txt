@@ -1,0 +1,1 @@
+  WEB-22184 angular-ui-router: UnsupportedOperationException when press cmd+d - fix review comments and bug: IDEA-158003 Compare Files no longer works with files in archives (jar, zip)  

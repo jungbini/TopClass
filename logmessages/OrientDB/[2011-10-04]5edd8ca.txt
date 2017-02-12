@@ -1,0 +1,1 @@
+  Security: fixed NuvolaBase's issue about the server's user that now can access to the database as super admin.  

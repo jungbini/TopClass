@@ -1,0 +1,1 @@
+  ForkingGradleExecuter now uses the same logic as the daemon to make sure chlid processes are fully detached. That should fix some of the remaining @Ignored tests and also it should fix the windows daemonIntegTest suite.  

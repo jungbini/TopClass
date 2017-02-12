@@ -1,0 +1,1 @@
+  Associate groupBy v2 resources with the Sequence lifecycle. (#3296)  This fixes a potential issue where groupBy resources could be allocated to create a Sequence, but then the Sequence is never used, and thus the resources are never freed.  Also simplifies how groupBy handles config overrides (this made the new unit test easier to write).  

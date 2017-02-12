@@ -1,0 +1,1 @@
+  message retention time cleaning now also working with multi-index storage. fixes #SERVER-139  

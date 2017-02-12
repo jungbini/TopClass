@@ -1,0 +1,1 @@
+  Rename and make package private the getTemplateType method.  You almost always should be using getResolvedTemplateType() instead of this method, and this has been a source of a couple of bugs. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=105615433  

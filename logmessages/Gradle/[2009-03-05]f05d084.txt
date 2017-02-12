@@ -1,0 +1,1 @@
+  - changed Userguide int test to check that all API links point to a documented class - added 'lang' attribute to <apilink> to allow links to groovy classes - fixed a bunch of API links and some other userguide tidy-ups  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@1246 004c2c75-fc45-0410-b1a2-da8352e2331b  

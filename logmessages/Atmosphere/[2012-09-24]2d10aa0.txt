@@ -1,0 +1,1 @@
+  Workaround Jetty 9 issue with Chrome https://bugs.eclipse.org/bugs/show_bug.cgi?id=390263  

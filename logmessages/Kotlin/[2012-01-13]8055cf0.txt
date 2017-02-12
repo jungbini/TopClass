@@ -1,0 +1,1 @@
+  fix another case of property resolution  val <T> T.prop: Something<T>  

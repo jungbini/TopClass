@@ -1,0 +1,1 @@
+ Fixing the DOMAIN_CONTROLLER_INFO structure. It was missing a field declaration. This should fix the getDC method and unit test  

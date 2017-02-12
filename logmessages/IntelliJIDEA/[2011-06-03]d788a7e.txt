@@ -1,0 +1,1 @@
+  fix issue with regexp text matching when searched string contain newlines  

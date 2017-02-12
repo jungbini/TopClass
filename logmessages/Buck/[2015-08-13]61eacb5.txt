@@ -1,0 +1,1 @@
+  CachingBuildEngine: fix issue with orphaned futures  Summary: We previously handled build failures by propagating an exception up the future chain.  This caused the futures handling non-failing dependencies to get orphaned and to continue running after the build result had been resolved.  This 

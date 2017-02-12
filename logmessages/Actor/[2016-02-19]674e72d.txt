@@ -1,0 +1,1 @@
+  fix(server): add default to debug-mode  

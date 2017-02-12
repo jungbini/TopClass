@@ -1,0 +1,1 @@
+  flexdate converter. fixes Graylog2/graylog2-server#469  

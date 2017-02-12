@@ -1,0 +1,1 @@
+  [vfs] fixes file watcher reset events handling; skips tests on reset  

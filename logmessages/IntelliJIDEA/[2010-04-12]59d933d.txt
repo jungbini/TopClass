@@ -1,0 +1,1 @@
+  IDEA-26737 mxml: "create namespace declaration" quickfix does not scroll editor  

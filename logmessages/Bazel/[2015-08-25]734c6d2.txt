@@ -1,0 +1,1 @@
+  Update Rust rules to use Rust 1.2.0. Rename features attribute to crate_features to fix conflict with new default features attribute.  -- MOS_MIGRATED_REVID=101454678  

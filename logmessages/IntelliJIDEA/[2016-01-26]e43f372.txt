@@ -1,0 +1,1 @@
+  IDEA-139337 Debugger: evaluated field is shifted to the left in editor when inspecting object values with Alt+Click  

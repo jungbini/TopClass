@@ -1,0 +1,1 @@
+  nesting of cache page loads/releases inside atomic operation fixed  

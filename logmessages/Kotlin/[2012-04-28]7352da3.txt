@@ -1,0 +1,1 @@
+  resolve type parameters that reference type variables declared after  like  Aaa<B extends Bbb<C>, C>  #KT-1731 fixed  

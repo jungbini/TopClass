@@ -1,0 +1,1 @@
+ Merge pull request #1407 from Snickermicker/Bugfix_1344  [KNX] Attempting bugfix for #1344  commit cf034c4c2761daaa7221a2f2e8f6465caab05af0  Merge pull request #1390 from avdleeuw/zwave-version  Zwave - Fix debug statement to prevent exception and binding restart  commit f25d2a776151a605fe6c49d0d3653a7a0db8f4ba  fixed broken single-button switches .. maybe!  

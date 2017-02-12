@@ -1,0 +1,1 @@
+  fixed 'add new watch' shortcut on Mac (IDEA-64654)  

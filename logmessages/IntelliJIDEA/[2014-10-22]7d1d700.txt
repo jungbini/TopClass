@@ -1,0 +1,1 @@
+  fix borders under Darcula in Change method signature and other places  

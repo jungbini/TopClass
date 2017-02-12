@@ -1,0 +1,1 @@
+  fix(*): fixed persistence.snapshot-store plugin  

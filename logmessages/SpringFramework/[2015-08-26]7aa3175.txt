@@ -1,0 +1,1 @@
+  Completed backport of lazy CacheManager resolution (including fixed test)  Issue: SPR-12850  

@@ -1,0 +1,1 @@
+  PY-19942: Do out best to fetch error message even if it is not set for step  Behave 1.2.6 seems to be buggy and step.error_message is None for exceptions, so we fetch it from step.exception or traceback module directly  

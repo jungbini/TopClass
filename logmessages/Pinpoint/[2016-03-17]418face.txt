@@ -1,0 +1,1 @@
+  code cleanup - fix static inner class - remove unused field  

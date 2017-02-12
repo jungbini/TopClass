@@ -1,0 +1,1 @@
+  Android native libraries compile with -mstackrealign for 32bit x86 clang.  This is a workaround for a clang bug. See https://code.google.com/p/android/issues/detail?id=220159.  RELNOTES: Fix for Android clang++ std::stack segfault on 32bit x86. See https://code.google.com/p/android/issues/detail?id=220159  -- MOS_MIGRATED_REVID=137871199  

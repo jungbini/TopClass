@@ -1,0 +1,1 @@
+  tab fixes: current window is set to null if last editor closed -- JTabsImpl in disposed state doesn't hold selected component (JTabbedPane did)  

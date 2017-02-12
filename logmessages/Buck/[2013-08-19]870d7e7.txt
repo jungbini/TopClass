@@ -1,0 +1,1 @@
+  Added extra failure data (message, stacktrace) when writing out XML.  Summary: The import issues are fixed.  Test Plan: 1. Run buck test --xml on a test suite that has failures 2. Check the XML file that was written to. 3. The file should have <testresult>, <message>, and <stacktrace> tags 4. Ensure that the unit test passes as well.  

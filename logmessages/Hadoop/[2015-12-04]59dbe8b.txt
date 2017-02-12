@@ -1,0 +1,1 @@
+  HDFS-9474. TestPipelinesFailover should not fail when printing debug message. (John Zhuge via Yongjun Zhang)  

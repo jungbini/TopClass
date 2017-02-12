@@ -1,0 +1,1 @@
+  fix an optional case where the file does not exist  Summary: There is a case where the file we want to read to get the symbols it's not there and the open fails.  Test Plan: CI  Reviewed By: Coneko  fbshipit-source-id: 0f57716  

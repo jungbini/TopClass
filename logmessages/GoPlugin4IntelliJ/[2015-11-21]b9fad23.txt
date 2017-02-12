@@ -1,0 +1,1 @@
+  Add inspection for using defer in a for loop (fixes #1776)  

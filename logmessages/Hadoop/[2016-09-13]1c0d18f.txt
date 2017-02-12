@@ -1,0 +1,1 @@
+  HDFS-10562. DiskBalancer: update documentation on how to report issues and debug. Contributed by Anu Engineer.  

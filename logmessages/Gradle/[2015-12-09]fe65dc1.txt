@@ -1,0 +1,1 @@
+  Disable java.net.URL cache for Compiler Daemons  - disabled only in continuous build - fixes GRADLE-3370  +review REVIEW-5748  

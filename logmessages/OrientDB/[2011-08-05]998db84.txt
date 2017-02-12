@@ -1,0 +1,1 @@
+  SQL UPDATE: contribution by Luca Molino to fix issue 240  

@@ -1,0 +1,1 @@
+  LocalChangeListImpl: change equals()  Make equals() consistent with hashCode(). Default & readonly flags are not important for equality.  Especially, since everybody works with copies of change lists (see ChangeListManagerImpl#getChangeLists()), This fixes the bug, when initialSelected changelist parameter was ignored by CommitChangeListDialog.  

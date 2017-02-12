@@ -1,0 +1,1 @@
+  Make cancel_thread_mutex_ protect cancel_thread_action_ properly.  This is just a minor fix because when this call happens, the other thread is not running yet, but better be safe than sorry.  -- MOS_MIGRATED_REVID=120695754  

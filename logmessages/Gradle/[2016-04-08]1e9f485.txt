@@ -1,0 +1,1 @@
+  Review items for filteringCharset property on CopySpec  - fix some javadocs - add @Incubating where appropriate - favor using Spock for tests - add coverage for when filteringCharset is unset - other minor edits  +review REVIEW-5907  

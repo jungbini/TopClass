@@ -1,0 +1,1 @@
+  IDEA-52640 Run/Debug popup (alt+shift+f10/f9) should support numpad  

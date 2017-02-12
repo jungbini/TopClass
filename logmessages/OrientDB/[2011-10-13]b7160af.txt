@@ -1,0 +1,1 @@
+  Fixed issue 571 about a bug on SQL order by + limit. Furthermore now NULL are at the end as SQL standard wants (before was the opposite)  

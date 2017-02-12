@@ -1,0 +1,1 @@
+  fixed 1px bg color near a selected stripe button on hidpi  

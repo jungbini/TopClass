@@ -1,0 +1,1 @@
+  python: fix inplace package style bugs  Summary: 1) Add missing `__init__.py` modules so that modules lower than the root are importable. 2) Set env vars to link tree using relative paths so that the binarys works when being called from genrules (and non-root working dirs).  Test Plan: added tests that exposed the issue  

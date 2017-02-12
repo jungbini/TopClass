@@ -1,0 +1,1 @@
+  hopefully fixes IDEA-150925 (IAE at com.intellij.openapi.fileEditor.impl.EditorComposite.<init>)  

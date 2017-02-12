@@ -1,0 +1,1 @@
+  Minor UI updates and bug fixes.  -Fixed issue where categories were displayed for contributions that weren't present in the manager dialog -Fixed issue where status bar stated contribution listing was being downloaded after it already was  

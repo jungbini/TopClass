@@ -1,0 +1,1 @@
+  [code review] Renamed the integration test. Updated the resources accordingly. Started using JUnitTestResults fixture.  

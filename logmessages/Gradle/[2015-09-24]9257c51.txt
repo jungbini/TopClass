@@ -1,0 +1,1 @@
+  For some reason this fixes `DefaultProjectTest`  +review REVIEW-5629  

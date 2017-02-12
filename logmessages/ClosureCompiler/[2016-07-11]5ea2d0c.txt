@@ -1,0 +1,1 @@
+  Fix a bug in PeepholeMinimizeConditions where * is treated as an Object. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=127087932  

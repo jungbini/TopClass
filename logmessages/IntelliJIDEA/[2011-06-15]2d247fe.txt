@@ -1,0 +1,1 @@
+  fixed PY-3899 Statement can be replaced with function call breaks print statement  

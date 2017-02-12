@@ -1,0 +1,1 @@
+  IDEA-CR-8196 - GWT - changes expression in quick fix  

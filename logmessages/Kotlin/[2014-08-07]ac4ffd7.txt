@@ -1,0 +1,1 @@
+  JS backend: fixed accessing to nested native "elements".  #KT-4298 fixed  

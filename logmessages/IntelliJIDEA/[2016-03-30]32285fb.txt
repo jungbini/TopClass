@@ -1,0 +1,1 @@
+  json schema, fix construction of relative path woth vfs utils one more time  

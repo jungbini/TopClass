@@ -1,0 +1,1 @@
+ Fix bug reading from socket when dropping a cluster on a remote database.  

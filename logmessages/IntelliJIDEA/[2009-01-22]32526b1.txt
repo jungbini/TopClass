@@ -1,0 +1,1 @@
+  Update dialog: expanding properties fix (eg $FULLNAME$)  

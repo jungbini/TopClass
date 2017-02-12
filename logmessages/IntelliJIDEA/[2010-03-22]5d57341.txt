@@ -1,0 +1,1 @@
+  IDEA-52976 (Quick-fix for "Static method only used from one other class" inspection should suggest other class name automatically in Move Members dialog)  

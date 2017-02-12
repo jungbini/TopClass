@@ -1,0 +1,1 @@
+  fix console highlighting of lines added one by one, dispose range marker  

@@ -1,0 +1,1 @@
+  Implement quckfix adding explicit upper bounds for generic when needed  

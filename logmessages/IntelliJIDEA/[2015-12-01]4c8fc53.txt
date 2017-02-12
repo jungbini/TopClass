@@ -1,0 +1,1 @@
+  Corrected "if inside tag" check (fixes IDEA-148708)  

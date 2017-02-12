@@ -1,0 +1,1 @@
+  [rev=ann] IDEA-62401 (extend "int literal may be long" inspection to prefix expressions)  

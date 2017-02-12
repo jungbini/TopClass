@@ -1,0 +1,1 @@
+  javafx: "Unresolved fx:id reference" inspection quickfix add @FXML annotation (IDEA-141033)  

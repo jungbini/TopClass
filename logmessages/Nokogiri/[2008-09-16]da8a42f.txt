@@ -1,0 +1,1 @@
+  fixing hpricot decorator to not munge at(), aliasing inner_html to to_html  

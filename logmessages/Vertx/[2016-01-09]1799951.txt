@@ -1,0 +1,1 @@
+  Bug fix : message consumer message should not deliver the message when there are pending messages and it should use the correct context when it is resumed  

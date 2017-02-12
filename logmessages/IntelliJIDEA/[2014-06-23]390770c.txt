@@ -1,0 +1,1 @@
+  GroovyDebuggerTest shouldn't hang forever when some debugger event processing throws an exception  

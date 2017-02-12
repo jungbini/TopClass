@@ -1,0 +1,1 @@
+  inspection tool window: add nodes for every global tool on fly too (refix) IDEA-151314  

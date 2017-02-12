@@ -1,0 +1,1 @@
+  Calculate max split size based on numMapTask in DatasourceInputFormat (#2882)  * Calculate max split size based on numMapTask  * updated docs & fixed possible ArithmeticException  

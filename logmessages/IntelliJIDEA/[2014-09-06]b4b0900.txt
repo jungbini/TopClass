@@ -1,0 +1,1 @@
+  escape html characters #WEB-8217 fixed  

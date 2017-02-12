@@ -1,0 +1,1 @@
+  javafx: Simplify resources for inspection of redundant FXML attributes and tags, fixed resource reloading after GC, move reused code to utility class (IDEA-102276)  

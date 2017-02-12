@@ -1,0 +1,1 @@
+  IDEA-140560 In Debug Variables & Watches views, indicate whether a variable is final  

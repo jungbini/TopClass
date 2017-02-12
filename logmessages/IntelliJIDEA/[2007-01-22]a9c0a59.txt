@@ -1,0 +1,1 @@
+  tasks window: focus + naming fixed  

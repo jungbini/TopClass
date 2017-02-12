@@ -1,0 +1,1 @@
+  JS: improved nashorn fix avoiding catching exception if result is not Map  

@@ -1,0 +1,1 @@
+  Merges java version of fix of a pull request #797, which incluse a test case from pull request #794.  

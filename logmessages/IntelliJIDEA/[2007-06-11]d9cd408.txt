@@ -1,0 +1,1 @@
+  correctly remove vfs listeners (memory leak fix)  

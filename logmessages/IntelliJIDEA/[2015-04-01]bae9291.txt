@@ -1,0 +1,1 @@
+  IDEA-138629 Gradle: preserve existing Java Fork Options#jvmArgs for running gradle debug configuration  

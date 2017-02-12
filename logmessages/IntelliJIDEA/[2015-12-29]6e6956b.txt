@@ -1,0 +1,1 @@
+  IndexError in pydev_monkey.py when debugging (PY-9767)  We shouldn't attach to debugger if there are only options in a new python process command line  

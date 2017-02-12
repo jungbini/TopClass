@@ -1,0 +1,1 @@
+ fix eclipse project classpaths due to nrjavaserial update  Signed-off-by: Thomas Eichstdt-Engelen <thomas@openhab.org>  

@@ -1,0 +1,1 @@
+  Implement TemplatizedType#getCtorExtendedInterfaces. It was returning empty before, causing a bug in property disambiguation.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=128415223  

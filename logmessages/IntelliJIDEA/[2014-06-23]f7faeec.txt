@@ -1,0 +1,1 @@
+  fixed PY-13282 Create New project: Install required packages to the interpreter w/o pip  

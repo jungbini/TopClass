@@ -1,0 +1,1 @@
+  Added test for auto-import fix in code fragment  

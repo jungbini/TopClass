@@ -1,0 +1,1 @@
+  getBufferPixels() removes the buffers from the cache, fixes the #2424  

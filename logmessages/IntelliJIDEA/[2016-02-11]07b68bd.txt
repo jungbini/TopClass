@@ -1,0 +1,1 @@
+  devkit: fold more code insight fixture stack trace elements  

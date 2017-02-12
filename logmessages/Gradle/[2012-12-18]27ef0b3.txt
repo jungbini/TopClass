@@ -1,0 +1,1 @@
+  fix faliing AliasedArtifactResolutionIntegrationTest caused by refactorings on http maven related test fixtures.  

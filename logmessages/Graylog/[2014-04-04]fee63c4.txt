@@ -1,0 +1,1 @@
+  improve network trace logging  fixes #507  

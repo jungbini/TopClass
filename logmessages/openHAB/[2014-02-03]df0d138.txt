@@ -1,0 +1,1 @@
+ fix class path files of knx, netatmo and openenergymonitor projects  

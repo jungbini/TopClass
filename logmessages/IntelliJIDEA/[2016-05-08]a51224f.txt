@@ -1,0 +1,1 @@
+  opaque cell renderers fix: no more components in Graphics (leaky abstraction in action)  

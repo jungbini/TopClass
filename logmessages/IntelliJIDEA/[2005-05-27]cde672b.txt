@@ -1,0 +1,1 @@
+  fixed validation issues with enumerated schema attributes (not supported previously for validtion) and not validating html tags without end (single or with optional ends)  

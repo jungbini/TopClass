@@ -1,0 +1,1 @@
+  Fix priority for functions without infix or operator modifier  

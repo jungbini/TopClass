@@ -1,0 +1,1 @@
+  KT-5522 Rename refactoring on implicit lambda parameter 'it' should be allowed  #KT-5522 fixed  

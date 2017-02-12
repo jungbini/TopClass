@@ -1,0 +1,1 @@
+ SegmentArray.getSegmentStart() on deleting file content while debugging(cherry picked from commit 05b558d)  

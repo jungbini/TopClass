@@ -1,0 +1,1 @@
+  [git] fix RefParserTest  We have just tags here => no need to output type (and think about proper RefType to String translation).  

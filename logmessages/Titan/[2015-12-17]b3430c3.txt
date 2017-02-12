@@ -1,0 +1,1 @@
+ Merge branch 'fixtestnullptr1' of git://github.com/graben1437/titan into graben1437-fixtestnullptr1  commit b3430c36065561d3f9f3cc5e25f9b159a29bb47b  fixed typo causing build break on titan-dist hadoop2  

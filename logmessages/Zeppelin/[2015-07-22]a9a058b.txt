@@ -1,0 +1,1 @@
+m command verifiable format checksum fee7757 [Lee moon soo] sha512 suffix for sha checksum  (cherry picked from commit 9465bc725bc2bd6ea32455d7acafbe2df902c4df) Signed-off-by: Lee moon soo <moon@apache.org>  

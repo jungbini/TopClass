@@ -1,0 +1,1 @@
+  GRADLE-3495 Determine Java Version 1.1 from Bytecode version 45  This fixes incremental compilation for dependencies with Bytecode version 45. Note that for dependencies with Bytecode version 46 incremental compilation is still broken.  

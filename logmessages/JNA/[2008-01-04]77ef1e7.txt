@@ -1,0 +1,1 @@
+  Fix bug in callback proxy.equals (wolfgang.roekelein) Clean up some javadoc  git-svn-id: https://svn.java.net/svn/jna~svn/trunk@439 2f8a963e-d2e4-e7d0-97bf-ccb7fcea9d80  

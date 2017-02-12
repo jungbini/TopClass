@@ -1,0 +1,1 @@
+  don't try to collapse to common ancestors if we don't have any directories in the holder (partial fix for IDEA-58915)  

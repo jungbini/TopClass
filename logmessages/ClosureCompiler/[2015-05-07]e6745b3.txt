@@ -1,0 +1,1 @@
+  [NTI] Bugfix for function joins.  Fixes #758. Also adds a unit test for #651, without any code fixes. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=93067549  

@@ -1,0 +1,1 @@
+  fixed memory leaks from snapshot attached to IDEA-65035  

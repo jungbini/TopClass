@@ -1,0 +1,1 @@
+  fix wrong play download url for travis  

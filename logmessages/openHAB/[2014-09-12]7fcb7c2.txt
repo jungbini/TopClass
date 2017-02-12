@@ -1,0 +1,1 @@
+  This fixes an incorrect mapping for the GE 45606 dimmer as well as fills out the rest of its supported command classes.  This also adds support for Leviton VRI06-1LZ dimmers that have a slightly 

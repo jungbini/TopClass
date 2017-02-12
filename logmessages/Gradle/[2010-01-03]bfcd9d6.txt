@@ -1,0 +1,1 @@
+  - Better fix for broken dev build - Added Settings.gradle property, allows access to the Gradle instance for the build.  

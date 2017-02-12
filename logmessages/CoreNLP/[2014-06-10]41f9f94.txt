@@ -1,0 +1,1 @@
+  Cleaned up KBPNew hierarchy a bit (inc. a bugfix)  

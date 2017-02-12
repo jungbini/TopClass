@@ -1,0 +1,1 @@
+  Trying to fix EA-51665 - assert: FTManager.createAndStoreBundledTemplate  

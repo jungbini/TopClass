@@ -1,0 +1,1 @@
+  refixed IDEA-114815 (maven: new project from archetype: checkbox enabled but treeview inactive)  

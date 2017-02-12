@@ -1,0 +1,1 @@
+  Bumped the version of findbugs to 3.0.0.  1. Main motivation is that 3.0.0 works with java8. 2. Reworked the integ test coverage so that it works with java 6,7,8. Next step is to add reasonable error message if someone attempts to run findbugs plugin with old version of java (e.g java6 and lower).  

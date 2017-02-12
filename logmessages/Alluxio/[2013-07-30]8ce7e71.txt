@@ -1,0 +1,1 @@
+  fix a cleanpath non-pointer exception bug.  

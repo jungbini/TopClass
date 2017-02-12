@@ -1,0 +1,1 @@
+  fix #3665 breakage (1.0 classes can't decompose())  (which I knew how this happened)  Patch by eevans for CASSANDRA-3665  

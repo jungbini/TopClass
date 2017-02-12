@@ -1,0 +1,1 @@
+on't return an empty string.  This commit also change the regex in `test_transform' to match `<h1/>' since this is the way xalan serializes the transformed document.  

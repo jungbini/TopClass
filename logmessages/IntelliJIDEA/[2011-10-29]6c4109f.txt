@@ -1,0 +1,1 @@
+  fixed side-effects for disabled awt focus traversal policy (no default component) -- wrong default focused component in the breakpoints dialog  

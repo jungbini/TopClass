@@ -1,0 +1,1 @@
+  Fixed bug on I18N: String.toUpperCase() needs Locale.ENGLISH to avoid the usage of uncommon characters like for Turkish language that i is not I. Reported by Yasin through the ML  

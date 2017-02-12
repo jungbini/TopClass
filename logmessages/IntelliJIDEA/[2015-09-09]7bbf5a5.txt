@@ -1,0 +1,1 @@
+  fixed selecting detected SDK from more dialog  

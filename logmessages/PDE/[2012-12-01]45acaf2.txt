@@ -1,0 +1,1 @@
+  fix com.sun classes (issue #1424) and background() with blendMode()  

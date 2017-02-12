@@ -1,0 +1,1 @@
+  Debug and test the matrix layer training code. Next up, tensors  

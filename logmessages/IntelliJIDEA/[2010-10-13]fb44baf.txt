@@ -1,0 +1,1 @@
+  show live templates in autopopup if the prefix equals their key (of little use yet) CompletionParameters.getInvocationCount()==0 for autopopups  

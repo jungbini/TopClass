@@ -1,0 +1,1 @@
+  JS backend: fixed ability to declare custom name for native properties and function parameters. #KT-3643 fixed  

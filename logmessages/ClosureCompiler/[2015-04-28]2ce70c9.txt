@@ -1,0 +1,1 @@
+  Fix JSDocInfoPrinter to output parentheses around union types.  This fixes a bug where {{foo:(number|string)}} was translating to {{foo:number|string}} which fails to parse. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=92315069  

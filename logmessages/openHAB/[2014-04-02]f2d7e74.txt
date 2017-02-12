@@ -1,0 +1,1 @@
+  TCP/UDP binding: fixed character encoding and make encoding configurable.  

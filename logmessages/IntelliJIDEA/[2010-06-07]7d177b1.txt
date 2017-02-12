@@ -1,0 +1,1 @@
+  auto indent lines fixed for injected code if there're no selection  

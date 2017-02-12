@@ -1,0 +1,1 @@
+  Fix potential NPE when one of the collaborators only has been collected (CI fix)  

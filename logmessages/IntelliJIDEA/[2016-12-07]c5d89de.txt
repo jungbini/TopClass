@@ -1,0 +1,1 @@
+  fix EDU-696 Get course from Stepic for course creators  Now this action available only via find action  

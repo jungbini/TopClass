@@ -1,0 +1,1 @@
+  GroovyDebuggerTest: bre prepared to exceptions in debugger-managed code  

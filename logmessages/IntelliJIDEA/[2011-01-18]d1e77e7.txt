@@ -1,0 +1,1 @@
+  fixed PY-2718 Cannot run django application under python 2.4 and 2.5  

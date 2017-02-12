@@ -1,0 +1,1 @@
+  stream list pages actually looks pretty good now. fixes #1362  

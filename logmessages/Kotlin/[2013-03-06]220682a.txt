@@ -1,0 +1,1 @@
+  fixed mapping sort and max functions from java.util.Collections  

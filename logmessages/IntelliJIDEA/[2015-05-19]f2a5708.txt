@@ -1,0 +1,1 @@
+  style: update hg create change method, fix DRY  

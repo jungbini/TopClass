@@ -1,0 +1,1 @@
+  fixed polimorfic cluster calculation in case of abstrac class.  

@@ -1,0 +1,1 @@
+  fix LeveledCompactionStrategy broken because of generation pre-allocation in LeveledManifest patch by Sylvain Lebresne; reviewed by Pavel Yaskevich for CASSANDRA-3691  

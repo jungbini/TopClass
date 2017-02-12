@@ -1,0 +1,1 @@
+  IDEA-121467 Quickfix inserts static imports instead of plain imports for inner classes  

@@ -1,0 +1,1 @@
+  don't print the output of debugged application in GroovyDebuggerTest  

@@ -1,0 +1,1 @@
+  correct intention implementation and fix review comments: IDEA-CR-12757WEB-22639 ES6 string templates: create intention to convert between line separators there should be two intentions, not one with changing direction, since the case with mixed line separators is possible reuse logic from angular injection places search  

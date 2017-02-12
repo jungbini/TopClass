@@ -1,0 +1,1 @@
+  Fix after merge: fix resolve values and valueOf of enums.  

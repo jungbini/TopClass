@@ -1,0 +1,1 @@
+  fix code review notes by delaying creation of second instance processing thread; fix confused variables in message  

@@ -1,0 +1,1 @@
+  Fix TransactionLog recovery lastModified bug  Only compares max lastModified when there are files present for an OLD record.  patch by stefania; reviewed by benedict for CASSANDRA-10159  

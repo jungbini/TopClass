@@ -1,0 +1,1 @@
+  fixed (PY-2375) Doctest run configuration is suggested for non-Python files  

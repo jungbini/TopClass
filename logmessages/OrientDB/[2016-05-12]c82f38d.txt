@@ -1,0 +1,1 @@
+  fixed memory.chunk.size misconfiguration during cache auto-configuration  

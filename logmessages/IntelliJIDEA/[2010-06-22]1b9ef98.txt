@@ -1,0 +1,1 @@
+  app icon: request foreground + debugger: open to focus app on breakpoint  

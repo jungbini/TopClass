@@ -1,0 +1,1 @@
+  Fix CSV export missing the first chunk (#2128)  the first scroll chunk was discarded when writing the response remember the initial search response and return the initial hits to avoid dropping data  fixes #2126  

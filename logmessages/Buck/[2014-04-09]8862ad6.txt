@@ -1,0 +1,1 @@
+  Create script to automatically fix lint issues.  Summary: This script just fixes "followed by whitespace" issues, but could be extended to fix more.  Test Plan: Fixed typecasts in next 

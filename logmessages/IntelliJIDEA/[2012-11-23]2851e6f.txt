@@ -1,0 +1,1 @@
+  IDEA-74652 Time tracking features. Manual mode bug.  

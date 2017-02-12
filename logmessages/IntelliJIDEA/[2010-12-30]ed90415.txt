@@ -1,0 +1,1 @@
+  fixed PY-2608 Test runner does not draw test hierarchy for django versions < 1.2  

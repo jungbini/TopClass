@@ -1,0 +1,1 @@
+  Merge -c r1381868 from trunk to branch-2 to fix YARN-80. Add support for delaying rack-local containers in CapacityScheduler. Contributed by Arun C. Murthy.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1381873 13f79535-47bb-0310-9956-ffa450edef68  

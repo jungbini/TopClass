@@ -1,0 +1,1 @@
+  Update documentation for conformance.proto to specify that the whitelist paths are prefixes.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=136080667  

@@ -1,0 +1,1 @@
+  fixed, deserialization of document value on case of no database in the thread scope. issue #3153  

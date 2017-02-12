@@ -1,0 +1,1 @@
+  IDEA-126352 (bug in "Throwable result of method call ignored" inspection)  

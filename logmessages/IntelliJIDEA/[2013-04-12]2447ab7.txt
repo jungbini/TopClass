@@ -1,0 +1,1 @@
+  Make striped table with prefixes for emmet configuration  

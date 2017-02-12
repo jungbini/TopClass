@@ -1,0 +1,1 @@
+  Sources tab  - added search hint like in search tab - fixed source selection for search  

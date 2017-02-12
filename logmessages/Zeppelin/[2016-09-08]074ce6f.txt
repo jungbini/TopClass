@@ -1,0 +1,1 @@
+9b35 [Jeff Zhang] fix code style 39c9140 [Jeff Zhang] add test case 32ae1a2 [Jeff Zhang] [ZEPPELIN-1334] Environment variable defined in interpreter setting doesn't take effect  (cherry picked from commit db99ccb7056282033978244fe1ffb3f204c0aedd) Signed-off-by: Lee moon soo <moon@apache.org>  

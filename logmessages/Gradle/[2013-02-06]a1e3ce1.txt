@@ -1,0 +1,1 @@
+  Attempt to fix unit test on windows: MavenPom generation always emits \n newlines  

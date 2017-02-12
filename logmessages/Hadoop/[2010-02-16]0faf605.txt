@@ -1,0 +1,1 @@
+  HBASE-2230 SingleColumnValueFilter has an ungaurded debug log message.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@910407 13f79535-47bb-0310-9956-ffa450edef68  

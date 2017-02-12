@@ -1,0 +1,1 @@
+  fix #1434: more precise check for type references in couldBeReferenceTo  

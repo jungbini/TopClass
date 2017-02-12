@@ -1,0 +1,1 @@
+  fixed PY-17106 There are exceptions about exePath if conda interpreter was installed not in default location  

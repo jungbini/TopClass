@@ -1,0 +1,1 @@
+  breakpoint markers hidden when Debugger not active  

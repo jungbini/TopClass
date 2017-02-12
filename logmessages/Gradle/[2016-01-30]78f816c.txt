@@ -1,0 +1,1 @@
+  GRADLE-3182 provide fixtures for code merge  

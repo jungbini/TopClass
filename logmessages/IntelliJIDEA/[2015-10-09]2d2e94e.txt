@@ -1,0 +1,1 @@
+  IDEA-145163 Quick Documentation popup by hover is interrupted by debug console output  

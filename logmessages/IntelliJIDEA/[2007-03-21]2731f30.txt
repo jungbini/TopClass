@@ -1,0 +1,1 @@
+  more dom highlighting and editors sync fixes  

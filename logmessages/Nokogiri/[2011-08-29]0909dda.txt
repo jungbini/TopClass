@@ -1,0 +1,1 @@
+  Suppose to be a fix for issue 525. Pure Java version is thought to be unable to behave error recovery exactly same as libxml version does. This change may behave better than before.  

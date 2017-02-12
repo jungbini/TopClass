@@ -1,0 +1,1 @@
+  added spec for SonarRunnerPlugin and fixed some bugs  

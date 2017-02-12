@@ -1,0 +1,1 @@
+  Make some direct use of new way to configure findbugs filters in integration test  

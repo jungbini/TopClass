@@ -1,0 +1,1 @@
+  HDFS-3970. Fix bug causing rollback of HDFS upgrade to result in bad VERSION file. Contributed by Vinay and Andrew Wang.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1430038 13f79535-47bb-0310-9956-ffa450edef68  

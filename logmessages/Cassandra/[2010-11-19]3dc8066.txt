@@ -1,0 +1,1 @@
+  updateColumnFamily uses reload, remove unneccesary structures, fix bugs. patch by gdusbabek, reviewe by jbellis. CASSANDRA-1715   git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1036894 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Do not sort completion variants using matcher with empty prefix  

@@ -1,0 +1,1 @@
+  save all paths in .iml relatively except for the ones under USER_HOME (IDEA-60906) reason: fixes the issue and I don't see any problems it could cause  

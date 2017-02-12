@@ -1,0 +1,1 @@
+  fix JodaUtils.condenseIntervals(..) to correctly take end or current/next interval on overlap (#3793)  * remove unused duplicate JodaUtils.java  * fix JodaUtils.condenseIntervals(..) to correctly take end or current/next interval on overlap  

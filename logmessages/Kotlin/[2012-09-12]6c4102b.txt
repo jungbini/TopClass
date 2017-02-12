@@ -1,0 +1,1 @@
+  simple case (no closures) of class level objects #KT-2398 fixed  

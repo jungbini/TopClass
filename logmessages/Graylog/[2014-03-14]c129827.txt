@@ -1,0 +1,1 @@
+  first version of search result highlighting  with a highlighting enabled server, the web interface supports showing matching field values in the web interface, fixes #630 preserve selected fields on new searches, fixes #719  

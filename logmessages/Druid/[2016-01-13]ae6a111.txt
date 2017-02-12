@@ -1,0 +1,1 @@
+ Merge pull request #2267 from himanshug/fix_topn_multi_val_filter  Remap id's returned in XXXFilteredDimensionSpec.getRow() as per reduced cardinality  commit ae6a111444bf3739fef992cae224ad3eca81c6ee  fix XXXFilteredDimensionSpec to remap the dictionary encodings as per new cardinality  

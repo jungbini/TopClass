@@ -1,0 +1,1 @@
+  don't call DebugUtil.onInvalidate when expanding a chameleon don't walk the tree in it if there's nothing to track  

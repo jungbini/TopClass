@@ -1,0 +1,1 @@
+ Merge pull request #781 from cars10w/master  Enhance and fix some Homematic device configs  commit 5f06103a34a28508f8006f2b4dd1214a94045c99  fixed URL  

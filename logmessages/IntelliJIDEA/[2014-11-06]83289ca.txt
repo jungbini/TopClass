@@ -1,0 +1,1 @@
+  fix for a specific case of IDEA-131454, refactoring  

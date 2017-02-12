@@ -1,0 +1,1 @@
+  GRADLE-3212: FindBugs plugin should expose property for setting baseline bugs file.  

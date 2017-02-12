@@ -1,0 +1,1 @@
+  disable extra sanity checks until fix for IDEADEV-134916 is available  

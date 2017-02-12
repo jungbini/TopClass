@@ -1,0 +1,1 @@
+  fix odd-size blue line bug (bug #944) and texture seams at edge for gl  

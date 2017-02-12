@@ -1,0 +1,1 @@
+  GRADLE-2762: Introduced Maven Local fixture.  

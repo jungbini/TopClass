@@ -1,0 +1,1 @@
+  IDEA-88057 Completion popup: fix progress wheel position  

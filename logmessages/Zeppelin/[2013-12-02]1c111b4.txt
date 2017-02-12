@@ -1,0 +1,1 @@
+  Jekyll config fixed to use Github-falvored markdown  

@@ -1,0 +1,1 @@
+  Fix gradle/gradle#784  Without knowing too much about the classloaders in Gradle, here is a fix for the reported issue. If the classloader scope doesn't find the class definition, we will simply try the task's classloader. If this one fail, then we will throw an ClassNotFoundException.  

@@ -1,0 +1,1 @@
+  MINOR: update new version in additional places  matching set of version fixes. ewencp junrao  Author: Gwen Shapira <cshapi@gmail.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>, Geoff Anderson <geoff@confluent.io>, Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1110 from gwenshap/minor-fix-version-010  

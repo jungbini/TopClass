@@ -1,0 +1,1 @@
+  IDEA-96597 Find Usages not working [nik]: fixing ParentStrategy for stubbed custom elements  

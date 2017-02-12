@@ -1,0 +1,1 @@
+  fixed preceding-sibling output syntax, and adjusted some test cases to test for 

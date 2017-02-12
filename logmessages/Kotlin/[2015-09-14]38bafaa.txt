@@ -1,0 +1,1 @@
+  Drop annotations deprecation related things: diagnostics, quickfixes  

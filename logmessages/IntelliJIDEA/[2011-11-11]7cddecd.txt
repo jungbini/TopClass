@@ -1,0 +1,1 @@
+  fixed PY-3817 Current parameter info: inconsistent current parameter before and after comma in case of list/tuple parameters  

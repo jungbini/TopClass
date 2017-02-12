@@ -1,0 +1,1 @@
+  backported one more fix for clipboard on mac if 'idea.use.alt.clipboard.sync=true' (IDEA-72617)  

@@ -1,0 +1,1 @@
+  IDEA-149798 Extensible Attach to Local Process action: * show selected debugger in the title instead of at the bottom * limit title and item length  

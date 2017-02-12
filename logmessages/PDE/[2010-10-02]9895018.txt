@@ -1,0 +1,1 @@
+  fix android to use target=1.5 so that it runs on Java 5  

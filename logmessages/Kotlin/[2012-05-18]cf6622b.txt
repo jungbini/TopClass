@@ -1,0 +1,1 @@
+  added workaround to maven compiler bug; we may want to throw an exception though if its really a problem  

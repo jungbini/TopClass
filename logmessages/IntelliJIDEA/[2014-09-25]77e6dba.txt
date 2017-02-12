@@ -1,0 +1,1 @@
+  show children for "PHP | Debug" (now tree sibling order reflects EP definition order)  

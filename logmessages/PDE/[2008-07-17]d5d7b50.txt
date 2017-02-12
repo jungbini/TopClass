@@ -1,0 +1,1 @@
+  trying to fix target vm problem (bug #796) and error msgs on i18n systems (bug #828)  

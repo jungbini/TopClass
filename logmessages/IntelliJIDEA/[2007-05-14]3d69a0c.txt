@@ -1,0 +1,1 @@
+  fix completion in <format> subtag of the <tstamp> property  

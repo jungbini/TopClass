@@ -1,0 +1,1 @@
+  Drop SymbolUsageValidator.Composite, use validators similarly to call checkers  Also fix warnings in DeprecatedSymbolValidator, DelegatedPropertyResolver and elsewhere  

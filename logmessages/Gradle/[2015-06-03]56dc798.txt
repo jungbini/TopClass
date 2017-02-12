@@ -1,0 +1,1 @@
+  fix assertions in EclipseClasspathIntegrationTest  - update test names - reuse more of EclipseClasspathFixture +review REVIEW-5508  

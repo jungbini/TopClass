@@ -1,0 +1,1 @@
+  Do the short object ES6 transpilation when doing goog.module rewriting.  This is necessary to distinguish between module-level names, which need to be rewritten, and property names, which mustn't be.  On github, fixes #1911 & fixes #1912  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=128383389  

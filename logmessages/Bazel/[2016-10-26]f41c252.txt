@@ -1,0 +1,1 @@
+  stop passing BuildConfiguration to CppCompileAction  This fixes Ulf's TODO by adding fields for the local shell environment and code coverage and as stated on it accessing anything other than these fields can impact correctness.  -- Change-Id: I9ccebaa0bc8ed920e2941b3d156692cb1e0fe117 Reviewed-on: https://bazel-review.googlesource.com/c/6870/ MOS_MIGRATED_REVID=137275206  

@@ -1,0 +1,1 @@
+ fixed version of LCN bundle  Signed-off-by: Kai Kreuzer <kai@openhab.org>  

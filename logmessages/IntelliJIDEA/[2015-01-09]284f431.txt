@@ -1,0 +1,1 @@
+  IG: fix "Unsafe call to 'Class.newInstance()'" quickfix for lambdas  

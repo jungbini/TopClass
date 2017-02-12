@@ -1,0 +1,1 @@
+  fix NPE on unnamed function (PY-1677)  

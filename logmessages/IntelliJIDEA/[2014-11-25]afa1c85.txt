@@ -1,0 +1,1 @@
+  fixed PY-6518 Editing name of Python interpreter doesn't repaint "Python Interpreters" dialog  

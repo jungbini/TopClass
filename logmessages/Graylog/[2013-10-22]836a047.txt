@@ -1,0 +1,1 @@
+  always set UTF-8 as body encoding  fixes #333  

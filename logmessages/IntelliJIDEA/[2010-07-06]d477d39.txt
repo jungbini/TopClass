@@ -1,0 +1,1 @@
+  Maven: index tests fixed  

@@ -1,0 +1,1 @@
+  svn merge -c 1579995 merging from trunk to branch-2 to fix:MAPREDUCE-5804. TestMRJobsWithProfiler#testProfiler timesout. Contributed by Mit Desai.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1579998 13f79535-47bb-0310-9956-ffa450edef68  

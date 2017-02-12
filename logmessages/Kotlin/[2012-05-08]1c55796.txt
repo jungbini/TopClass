@@ -1,0 +1,1 @@
+  Added quick documentation for declarations, in addition to references.  #KT-1035 fixed  

@@ -1,0 +1,1 @@
+  RUBY-12161: partial fix - RegExpLexer should accept \0 as valid octal char if allowOctalNoLeadingZero is set - Ruby19RegExp language needs its own highlighter  

@@ -1,0 +1,1 @@
+  New Sources Tab: fixed missing load of histogram when loading page initially  

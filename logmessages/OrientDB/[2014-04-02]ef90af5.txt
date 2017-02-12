@@ -1,0 +1,1 @@
+  minor fix (a cast) for ant compile error under Java6  

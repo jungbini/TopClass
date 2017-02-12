@@ -1,0 +1,1 @@
+  (probably) fixed a class cast bug in Object Database reported in ML  

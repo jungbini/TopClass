@@ -1,0 +1,1 @@
+ Introduce inspection for embedded interface pointer (fixes #1374)  

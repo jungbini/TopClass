@@ -1,0 +1,1 @@
+  fixed PY-3313 Call to constructor of super class is missed: check constructor presence for all super classes in mro  

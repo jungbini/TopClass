@@ -1,0 +1,1 @@
+  Refactorings in the daemon area. Draft refactoring yet, work in progress (will be pushed to branch hence). Main goal was to have single registry file for all daemons. Details: - added update method to the caching infrastructure - naively (for now) synchronized the DaemonRegistry - fixed instability issues with DaemonFunctionalTest  

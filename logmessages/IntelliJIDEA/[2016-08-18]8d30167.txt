@@ -1,0 +1,1 @@
+  [groovy] fix tests: remove 'def' after type parameter list cleanup, check not if type parameter list is null but if method has no type parameters  

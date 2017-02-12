@@ -1,0 +1,1 @@
+  redone fix for IDEA-147626 - make Tab/Shift+Tab work for editor text fields as before  

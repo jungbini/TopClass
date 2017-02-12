@@ -1,0 +1,1 @@
+  document limitspec in groupby, fixes #394  

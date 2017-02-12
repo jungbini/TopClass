@@ -1,0 +1,1 @@
+  Include a link to the bug in OpenJDK tracker that explains why we're using -XDuseUnsharedTable=true switch when compiling java code.  +review REVIEW-5433  

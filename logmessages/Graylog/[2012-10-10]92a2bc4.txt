@@ -1,0 +1,1 @@
+  Exclude recent index from all index operations  fixes #WEBINTERFACE-325  

@@ -1,0 +1,1 @@
+  Postfix live template should return shortcut char from settings  

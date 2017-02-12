@@ -1,0 +1,1 @@
+  js debugger: start Firefox using 'open' command if no command line args are required  

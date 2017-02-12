@@ -1,0 +1,1 @@
+  IDEA-82111 Cannot use autocompletion with mouse (better fix)  

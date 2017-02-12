@@ -1,0 +1,1 @@
+  Upgraded to commons.HTTPClient v4.2.1 to fix cross-host redirects - Updated HttpRedirectResolveIntegrationTest so that it tests redirect to a 

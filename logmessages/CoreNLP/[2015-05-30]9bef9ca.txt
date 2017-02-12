@@ -1,0 +1,1 @@
+  move edit distance to core; minor naturalli fixes  

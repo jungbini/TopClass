@@ -1,0 +1,1 @@
+  PY-1465: "create function" quickfix for modules.  

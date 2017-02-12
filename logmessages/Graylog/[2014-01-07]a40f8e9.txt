@@ -1,0 +1,1 @@
+  gracefully handle query parse failure  no longer show the 500 exception page for "expected" query failures instead markup the query with pointers to the documentation  fixes Graylog2/graylog2-web-interface#435  

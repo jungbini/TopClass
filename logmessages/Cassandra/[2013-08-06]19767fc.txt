@@ -1,0 +1,1 @@
+  fix HsHa to respect max frame size patch by Pavel Yaskevich; reviewed by Tyler Hobbs (CASSANDRA-4573)  

@@ -1,0 +1,1 @@
+  Avoid double accounting of connections in ThroughputCounter.  After updating to netty 3.9.6, the change introduced in 44b8bd3 caused the double accounting of connections because netty's GlobalTrafficShapingHandler got fixed. Revert change from 44b8bd3.  (see netty/netty@3a3552c40a7bd2eb6817bbf0c1e49b0579831566)  Fixes #823.  

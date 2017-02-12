@@ -1,0 +1,1 @@
+  KT-2666 Remove workaround for CME in IDEA code after updating to IDEA 122.260+  #KT-2666 fixed  

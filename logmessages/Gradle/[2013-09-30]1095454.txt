@@ -1,0 +1,1 @@
+  REVIEW-3247: use fix versions in init templates; resolve latest version at build time;  

@@ -1,0 +1,1 @@
+  QuickFix: Added additional declaration of archivesBaseName (in correct location), to fix error in Cpp dependency sample  

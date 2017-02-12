@@ -1,0 +1,1 @@
+  KT-15154 IllegalStateException on attempt to convert import statement to * if last added import is to typealias  #KT-15154 fixed  

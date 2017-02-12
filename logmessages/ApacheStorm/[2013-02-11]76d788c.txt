@@ -1,0 +1,1 @@
+  fixed possible issue where getValueAndReset is called before refreshPartitions is ever called  

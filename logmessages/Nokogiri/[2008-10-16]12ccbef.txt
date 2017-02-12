@@ -1,0 +1,1 @@
+  added some debugging trace messages that can be compiled in with -DDEBUG and turned on by setting env NOKOGIRI_DEBUG  

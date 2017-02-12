@@ -1,0 +1,1 @@
+  Quick fix "add when remaining branches" refactoring + enum / sealed generated name w/o package name  

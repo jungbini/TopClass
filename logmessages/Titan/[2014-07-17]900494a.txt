@@ -1,0 +1,1 @@
+ Faunus bug and test resource leak fixes  This commit changes FaunusElement.setResource to delete all existing relations of the given type, even for multi-valued types.  This 

@@ -1,0 +1,1 @@
+  fixed KafkaSpout partition assignment  * added partitions -> task mapping logging  

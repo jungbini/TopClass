@@ -1,0 +1,1 @@
+  ._ paths on OS X causing trouble again (fix for #2520)  

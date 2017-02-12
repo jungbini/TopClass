@@ -1,0 +1,1 @@
+  Fixed bug preventing installation of some libraries  

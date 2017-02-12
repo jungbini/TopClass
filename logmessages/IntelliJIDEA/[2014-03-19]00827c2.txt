@@ -1,0 +1,1 @@
+  fixed loading JPS extensions in minor IDEs  

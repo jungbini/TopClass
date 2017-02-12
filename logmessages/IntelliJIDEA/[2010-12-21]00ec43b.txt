@@ -1,0 +1,1 @@
+  fixed: facet rename sometimes doesn't update references in artifacts  

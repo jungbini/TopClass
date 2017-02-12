@@ -1,0 +1,1 @@
+  Fixed nasty bug on concurrency while browsing records reported by Shang and Sjefke  

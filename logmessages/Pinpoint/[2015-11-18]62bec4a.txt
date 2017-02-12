@@ -1,0 +1,1 @@
+ Update default pin option.(true) bug fix. - can not change tab in alarm ui.  

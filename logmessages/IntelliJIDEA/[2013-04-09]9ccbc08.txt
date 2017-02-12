@@ -1,0 +1,1 @@
+  fixed PY-9408 Method can be static: handle properties and classmethods friendlier  

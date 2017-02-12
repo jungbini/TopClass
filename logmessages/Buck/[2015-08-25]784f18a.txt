@@ -1,0 +1,1 @@
+  Log shell step stdout/stderr to buck logs.  Summary: This should be useful to debug build steps that do succeed but don't do what they are supposed to.  Test Plan: Sandcastle  

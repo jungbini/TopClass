@@ -1,0 +1,1 @@
+ Use symlinked path for breakpoints (fix #1880)  

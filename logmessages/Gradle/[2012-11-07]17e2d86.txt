@@ -1,0 +1,1 @@
+  Move the other test fixtures to the 'org.gradle.testing.fixtures.server' package.  

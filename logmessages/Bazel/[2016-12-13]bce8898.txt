@@ -1,0 +1,1 @@
+  Disable failing tests related to code coverage work.  This will silence the problems in #2227 and #2228 until the actual underlying issues can be fixed.  -- Change-Id: Id2bc062104b4111bbcde8455f30059b3cb04eff6 Reviewed-on: https://cr.bazel.build/7870 PiperOrigin-RevId: 141892371 MOS_MIGRATED_REVID=141892371  

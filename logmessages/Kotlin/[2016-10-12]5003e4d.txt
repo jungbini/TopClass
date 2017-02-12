@@ -1,0 +1,1 @@
+  Add back update_dependences and related ant configs, import it (temporarely) into root project, relocate reflect, fixes  

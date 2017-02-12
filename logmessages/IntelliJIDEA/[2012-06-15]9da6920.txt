@@ -1,0 +1,1 @@
+  IDEA-86405 "Implement methods" fails to alpha-rename type variables that conflict with class type parameters fixed  

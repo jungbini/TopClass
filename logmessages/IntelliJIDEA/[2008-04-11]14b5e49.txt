@@ -1,0 +1,1 @@
+  Maven: component initialization fix Maven: does not create an unnecessary top-level group (IDEADEV-25918)  

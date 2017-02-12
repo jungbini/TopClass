@@ -1,0 +1,1 @@
+  and one more fix for not having target element in editor virtual space  

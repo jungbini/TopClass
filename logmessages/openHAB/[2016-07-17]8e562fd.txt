@@ -1,0 +1,1 @@
+  Z-Wave: fixed central scene converter to implement correct central scene command class interface (#4544)  

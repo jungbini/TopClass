@@ -1,0 +1,1 @@
+  fixed run toolbar vertical alignment (was leaning to the bottom)  

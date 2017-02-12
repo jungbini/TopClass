@@ -1,0 +1,1 @@
+  Merge pull request #42 from crisweber/master  HBase server-side row limit and config fix  * Limit getSlice result server-side using ColumnPaginationFilter * make clearStorage use the same config as openDatabase * make clearStorage retrieve and drop rows instead of dropping a table  Thanks @crisweber.  

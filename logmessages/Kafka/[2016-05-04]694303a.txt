@@ -1,0 +1,1 @@
+  MINOR: Fixes to AWS init script for testing  A path was wrong in the script and in the documentation.  Author: Roger Hoover <roger.hoover@gmail.com>  Reviewers: Geoff Anderson <geoff@confluent.io>, Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1309 from theduderog/fix_aws_init  

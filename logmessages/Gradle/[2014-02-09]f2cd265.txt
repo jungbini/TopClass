@@ -1,0 +1,1 @@
+  Some minor clean-up of file collection snapshot serialization:  - Replaced hand-coded FileSnapshotSerializer with usage of DefaultSerializerRegistry. - Don't write type tag when there is only one possible implementation. - Encode snapshot size using variable length int instead of fixed length int.  

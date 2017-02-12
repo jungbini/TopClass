@@ -1,0 +1,1 @@
+  IDEADEV-38461 (Control flow statement wtihout braces - Quickfix doesn't respect code format settings)  

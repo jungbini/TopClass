@@ -1,0 +1,1 @@
+  inspection tool window: InspectionTree#getDescriptors -> do not process applied fixes  

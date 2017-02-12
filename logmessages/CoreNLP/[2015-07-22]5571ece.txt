@@ -1,0 +1,1 @@
+  fixed Collections.singleton(token) to tokens in EntityMentionAnnotator  

@@ -1,0 +1,1 @@
+  fixed (PY-2483) "Replace assignment with augmentet assignment" - data structures uncovered  

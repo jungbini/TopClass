@@ -1,0 +1,1 @@
+  as per @itaiy suggested will close then try to connect. (#3669)  * as per @itaiy suggested will close then try to connect.  * use close instead of flush  * git fix comments  * break the loop in case of interrupted  

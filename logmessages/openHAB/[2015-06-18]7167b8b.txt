@@ -1,0 +1,1 @@
+  InsteonPLM: attempted fix for incompatibility with Z-Wave binding  

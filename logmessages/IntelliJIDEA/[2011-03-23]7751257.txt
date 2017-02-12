@@ -1,0 +1,1 @@
+  fixed PY-3127 "Default argument value is mutable" inspection should provide a quickfix  

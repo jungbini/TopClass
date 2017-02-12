@@ -1,0 +1,1 @@
+  - Use ClassGenerator to inject dynamic properties/methods into the various DomainObjectCollection implementations, rather than using ExpandoMetaClass. This way we use the same mechanism for all dynamic behaviour, and it fixes a memory leak where every DomainObjectCollection instance was reachable from the static Groovy MetaClass registry.  

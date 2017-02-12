@@ -1,0 +1,1 @@
+  enable fix all for file for annotator problems, should work for localQuickFixes only (IDEA-87100)  

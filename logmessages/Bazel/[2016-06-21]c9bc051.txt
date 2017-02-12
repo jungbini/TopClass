@@ -1,0 +1,1 @@
+  We need to keep LD_LIBRARY_PATH in the environment for actions that use the default shell environment.  Fixes #1420, fixes #1358, fixes #1341, fixes #1152.  -- MOS_MIGRATED_REVID=125429839  

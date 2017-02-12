@@ -1,0 +1,1 @@
+ Backport fix for make SslHandler close the connection on SSLException or NotSslRecordException. This needs to get enabled via setter to keep backward compatibility. See #160  

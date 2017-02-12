@@ -1,0 +1,1 @@
+  Fix regression added by fix for #375  

@@ -1,0 +1,1 @@
+  Try N to make py3k debug egg.  

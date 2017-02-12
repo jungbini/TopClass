@@ -1,0 +1,1 @@
+  fix(sequence): users, groups and phones structs in ResponseGetDifference  

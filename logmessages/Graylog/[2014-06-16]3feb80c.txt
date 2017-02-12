@@ -1,0 +1,1 @@
+  restructured all maven dependencies to use dependencyManagement  fix some wrong imports where jbeust Lists/Maps was used  

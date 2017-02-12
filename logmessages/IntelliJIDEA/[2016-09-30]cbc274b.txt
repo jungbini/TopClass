@@ -1,0 +1,1 @@
+  Save stacks for new objects after debugger step. Associate "Jump to allocation Source" action with appropriate debug session  

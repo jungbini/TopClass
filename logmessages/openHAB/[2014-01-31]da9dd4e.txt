@@ -1,0 +1,1 @@
+ used name variable instead of fixed name for deb.desc  

@@ -1,0 +1,1 @@
+  sort annotation revisions with the same date by revision number (fixes small problem in cvs annotation where revision 1.1.1.1 was sorted before 1.1)  

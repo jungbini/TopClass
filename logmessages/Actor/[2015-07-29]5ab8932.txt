@@ -1,0 +1,1 @@
+  fix(cocoa): Fixed cocoa core generation  

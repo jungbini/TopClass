@@ -1,0 +1,1 @@
+  Tagger bugfix: don't try to print POS candidates for the end-of-sentence token  

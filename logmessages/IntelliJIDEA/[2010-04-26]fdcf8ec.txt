@@ -1,0 +1,1 @@
+  [r=nik] fixing possible stack overflow in case of a cyclic constructor invocation in groovy code  

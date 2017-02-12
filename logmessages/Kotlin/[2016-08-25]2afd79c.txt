@@ -1,0 +1,1 @@
+  Fix compatibility with AS 2.2 gradle plugin  #KT-13594 fixed  

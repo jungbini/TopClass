@@ -1,0 +1,1 @@
+  Automatically connect and disconnect AMQP configs  fixes #SERVER-183, #SERVER-184  

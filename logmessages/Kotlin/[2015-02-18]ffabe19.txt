@@ -1,0 +1,1 @@
+  Prohibit accessing nested classes/objects of class object using class literal  The fqname of class should be clear from code Example: can't shorten A.Default.B.Default.C to A.B.C Also fixes problem when nested class of enum class could be accessed via enum entry  

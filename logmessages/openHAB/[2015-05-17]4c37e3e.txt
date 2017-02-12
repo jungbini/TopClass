@@ -1,0 +1,1 @@
+ Merge pull request #2610 from teichsta/fix-project-name  fixed .project name of systeminfo.test bundle  commit 4c37e3e33586a0151a8740bcbd0c08aefc666459  fix project name  Signed-off-by: Thomas Eichstdt-Engelen <thomas@openhab.org>  

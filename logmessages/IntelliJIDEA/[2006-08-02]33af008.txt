@@ -1,0 +1,1 @@
+  NPE fixed (NPE on empty selection in checkout and import dialogs)  

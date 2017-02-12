@@ -1,0 +1,1 @@
+  use alternative regex in point and line shader autodetect, fixes #4725  

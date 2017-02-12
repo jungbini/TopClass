@@ -1,0 +1,1 @@
+  GRADLE-1565, fixed the documentation  

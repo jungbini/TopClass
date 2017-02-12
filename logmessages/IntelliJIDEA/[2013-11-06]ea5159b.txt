@@ -1,0 +1,1 @@
+  IDEA-116001 Incorrect behavior of root scanner in case non hg project marked as hg fixed  

@@ -1,0 +1,1 @@
+  fixes for svg from ricardmp (better xform parse, empty paths) bug #982  

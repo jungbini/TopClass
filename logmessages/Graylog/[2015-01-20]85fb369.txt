@@ -1,0 +1,1 @@
+  Update to gelfclient 1.1.0 to fix name resolving issue.  Fixes #882.  

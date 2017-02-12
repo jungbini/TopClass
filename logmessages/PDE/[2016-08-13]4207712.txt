@@ -1,0 +1,1 @@
+  write preferences using a temporary file (should fix #4614)  

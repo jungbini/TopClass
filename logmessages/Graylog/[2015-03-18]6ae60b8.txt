@@ -1,0 +1,1 @@
+  Adding basic tests and fixtures for SavedSearchService.  Also moving out object creation from resource to service and removing reference to implementation class.  

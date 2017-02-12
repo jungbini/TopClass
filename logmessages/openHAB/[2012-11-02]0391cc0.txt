@@ -1,0 +1,1 @@
+  fixed problem with %d formatting of Dimmer values  

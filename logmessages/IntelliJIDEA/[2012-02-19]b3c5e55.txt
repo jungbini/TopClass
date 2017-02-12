@@ -1,0 +1,1 @@
+  IOOBE fix & better selection handling in files with markup  

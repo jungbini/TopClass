@@ -1,0 +1,1 @@
+  KAFKA-4509: Task reusage on rebalance fails for threads on same host  Author: Matthias J. Sax <matthias@confluent.io>  Reviewers: Damian Guy, Guozhang Wang  Closes #2233 from mjsax/kafka-4509-task-reusage-fix  

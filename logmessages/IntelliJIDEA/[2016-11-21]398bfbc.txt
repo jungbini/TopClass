@@ -1,0 +1,1 @@
+  FileDocumentManagerImpl: reload content when VFS event stamps match (IDEA-CR-15940)  fixes GlobalUndoTest  

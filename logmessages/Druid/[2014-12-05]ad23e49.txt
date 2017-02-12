@@ -1,0 +1,1 @@
+  use fixed-size mapdb cache to avoid heap growing uncontrollably  

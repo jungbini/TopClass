@@ -1,0 +1,1 @@
+  Fix a bug in `ProjectWorkspace.setUp()`.  Summary: In Windows symlink hack, if a file is empty, `File linkToFile = new File(templatePath.toFile(), linkTo)` will point to the folder `templatePath`. Fixed this bug by checking size.  Test Plan: Unit tests.  

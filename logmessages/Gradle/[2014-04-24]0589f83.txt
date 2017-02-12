@@ -1,0 +1,1 @@
+  REVIEW-4678: Moved test fixture classes shared between Ivy and Maven one level up in the package hierarchy.  

@@ -1,0 +1,1 @@
+  assertions and a possible fix for EA-27207 - item not in lookup  

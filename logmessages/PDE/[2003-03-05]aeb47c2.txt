@@ -1,0 +1,1 @@
+  fixed the re-enabling of hint()  

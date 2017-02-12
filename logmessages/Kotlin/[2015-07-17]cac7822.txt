@@ -1,0 +1,1 @@
+ Filter index queries via kotlinSourceAndClassFiles  This prevents a bug when placing kotlin source file into a binary jar leads to exception  

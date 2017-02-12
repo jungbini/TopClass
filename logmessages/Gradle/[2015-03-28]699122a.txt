@@ -1,0 +1,1 @@
+  Fix test for stricter checks in MavenFileModule fixture  

@@ -1,0 +1,1 @@
+  fix(iOS): Fix create group crash  

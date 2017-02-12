@@ -1,0 +1,1 @@
+  fix(frontend): removed NotImplementedError on SilentClose, removed noisy debug messages  

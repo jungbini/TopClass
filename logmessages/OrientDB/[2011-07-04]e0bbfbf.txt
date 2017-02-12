@@ -1,0 +1,1 @@
+  Intent: fixed bug when multiple intents were installed. Since they aren't reentrant now checks if has been installed or not (the method declareIntent() returns a boolean)  

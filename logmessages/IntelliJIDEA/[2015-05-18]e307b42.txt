@@ -1,0 +1,1 @@
+  PY-15927 Handle tuple parameters conflicts in "Add call super" quickfix  

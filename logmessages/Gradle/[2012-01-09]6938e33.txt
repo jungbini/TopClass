@@ -1,0 +1,1 @@
+  made methods return GradleDistributionExecuter instead of GradleExecuter (covariant return type) don't call reset() in apply() (otherwise settings get lost) added ability to enforce forked execution fixed typo  

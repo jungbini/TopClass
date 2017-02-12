@@ -1,0 +1,1 @@
+  fixed red HL in editors for arrays class level watches (e.g. Arrays.toString(this))  

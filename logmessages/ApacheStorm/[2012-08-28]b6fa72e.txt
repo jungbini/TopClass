@@ -1,0 +1,1 @@
+  fix emitDirect in storm.py  

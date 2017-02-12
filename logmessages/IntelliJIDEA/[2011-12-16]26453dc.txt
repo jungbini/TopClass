@@ -1,0 +1,1 @@
+  fix compilation, NameUtilTest to platform-tests  

@@ -1,0 +1,1 @@
+  glgraphics et al to use correct export template (bug #1530)  

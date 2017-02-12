@@ -1,0 +1,1 @@
+  Bugfix: actually link in the split stub application for "blaze mobile-install --split_apks".  -- MOS_MIGRATED_REVID=95715203  

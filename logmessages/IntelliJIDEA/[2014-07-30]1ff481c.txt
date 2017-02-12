@@ -1,0 +1,1 @@
+  4 part of fix "IDEA-127645 Open in browser not working"  respect default browser policy  

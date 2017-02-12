@@ -1,0 +1,1 @@
+  Don't delete system-idea (caches of the IDEA under debug) when updating dependencies  

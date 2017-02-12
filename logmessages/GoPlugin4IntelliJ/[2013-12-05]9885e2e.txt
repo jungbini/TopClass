@@ -1,0 +1,1 @@
+  Added a new inspection fix to generate a closure. And updated the Function fix to generate the arguments Sorry my bad english :D  

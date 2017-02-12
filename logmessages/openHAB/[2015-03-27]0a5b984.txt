@@ -1,0 +1,1 @@
+  Bug fix for KNX binding, Time update from ntp in March #2330 Removed workaround for KNX DPT_TIME. KNX time of type "no-day, HH:MM:SS" will now be translated to current weekday: "Fri, HH:MM:SS" instead of omitting the weekday part.  

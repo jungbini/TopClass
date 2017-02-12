@@ -1,0 +1,1 @@
+  proper semaphore usage: fixed race condition described in IDEA-52853  

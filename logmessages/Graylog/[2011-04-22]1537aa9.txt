@@ -1,0 +1,1 @@
+ * Fixed broken stream dasboards * Functional tests for dashboards * User login without fixtures and mongoid for all functional tests * Removed no longer needed check for streamrules in stream message counting  #WEBINTERFACE-40  

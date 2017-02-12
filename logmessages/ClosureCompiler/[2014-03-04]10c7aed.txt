@@ -1,0 +1,1 @@
+  [new parser] Property attach JSDoc "cast" to HOOK expression conditions. Also stop dumpping the AST which was just for debugging the ES6 additions. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=62565052  

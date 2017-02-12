@@ -1,0 +1,1 @@
+  generify fix for unchecked assignments (IDEA-152658)  

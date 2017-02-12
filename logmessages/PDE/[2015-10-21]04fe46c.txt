@@ -1,0 +1,1 @@
+ Merge pull request #4043 from JakubValtar/fix-text-area-aioobe  Fix occasional exception while editing text  commit 49363ce69cbfa7424ee00481c4a8f84de3c11cfa  Merge pull request #4044 from JakubValtar/fix-mem-leak  Fix memory leak in Recent  commit 04fe46c38a891d7287d5c23f09ae130085803173  fix extraneous spaces  

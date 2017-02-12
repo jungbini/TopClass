@@ -1,0 +1,1 @@
+  fixed PY-9660 Convert Method to Property: provokes Getter should return something when converting function which has return without return value  

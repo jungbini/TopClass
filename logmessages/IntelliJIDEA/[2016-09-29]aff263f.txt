@@ -1,0 +1,1 @@
+  [macosx] Improve system menu icons quality  Swing can't paint correctly our HiDPI icons at the system menu. It scales them down (from 2x to 1x) downgrading the quality. An ideal fix would be to add appropriate functionality to Swing. So far the fix is to pass Swing 1x icons.  

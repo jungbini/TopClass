@@ -1,0 +1,1 @@
+  Console: fixed bug on exception management  

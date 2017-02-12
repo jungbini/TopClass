@@ -1,0 +1,1 @@
+gular version 2b3d52d [1ambda] fix: Resolve bower install hangs  

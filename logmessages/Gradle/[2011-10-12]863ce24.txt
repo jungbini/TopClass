@@ -1,0 +1,1 @@
+  - Inject the DaemonDir and FileLockManager into PersistentDaemonRegistry - Moved various poll() methods to ConcurrentSpecification - Introduced DaemonController fixture, and changed DaemonFunctionalTest and DaemonLifecycleSpec to use it instead of a DaemonRegistry.  

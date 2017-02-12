@@ -1,0 +1,1 @@
+  Show declared type for delegated properties correctly in debugger #EA-72136 - assert: ValueDescriptorImpl.getValue  

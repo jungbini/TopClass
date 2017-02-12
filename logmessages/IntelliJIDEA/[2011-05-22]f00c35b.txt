@@ -1,0 +1,1 @@
+  fix "Unnecessarily qualified static access" false negative (incorrect optimization)  

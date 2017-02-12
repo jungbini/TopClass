@@ -1,0 +1,1 @@
+ setParams() indexing fixes, NeuralNetConfiguration copy constructor fix  

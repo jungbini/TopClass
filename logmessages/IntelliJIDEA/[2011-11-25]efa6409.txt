@@ -1,0 +1,1 @@
+  dialog title fixed [rev by Dmitry A.]  

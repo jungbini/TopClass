@@ -1,0 +1,1 @@
+  IDEA-134772 fixed exception on undo action after rename property keys from resource bundle editor  

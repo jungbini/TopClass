@@ -1,0 +1,1 @@
+  removed regex queries and distinct operators  from shell help - fixes #WEBINTERFACE-170  

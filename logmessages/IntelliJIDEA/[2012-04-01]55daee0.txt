@@ -1,0 +1,1 @@
+  fixed PY-6102 Call to constructor of super is missed  

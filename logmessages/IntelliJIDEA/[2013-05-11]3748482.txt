@@ -1,0 +1,1 @@
+  fixed  PY-9657 Make function from method: function call is not updated correctly when imported with qualified reference  

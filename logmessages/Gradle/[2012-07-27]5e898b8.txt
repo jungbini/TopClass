@@ -1,0 +1,1 @@
+  Added more coverage to the dependency report task.  I'll need it soon for my changes related to showing the conflicted versions. I'm asserting on the report output which is not ideal but might do for now. Also fixed a minor problem in the MavenRepository (multiple dependencies not written correctly to pom).  

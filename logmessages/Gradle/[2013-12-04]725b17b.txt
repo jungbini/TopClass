@@ -1,0 +1,1 @@
+  Extracted out a story to fix resolution result's `root.id`.  

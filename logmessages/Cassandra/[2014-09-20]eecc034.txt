@@ -1,0 +1,1 @@
+  ninja-fix stress: rate limit not honoured for warmup, and 'auto' rate mode optional with thread ranges  

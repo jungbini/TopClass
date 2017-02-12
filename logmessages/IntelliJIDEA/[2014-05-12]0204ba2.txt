@@ -1,0 +1,1 @@
+  access to super members fixed (IDEA-124985)  

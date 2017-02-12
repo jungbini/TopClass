@@ -1,0 +1,1 @@
+  Graph: fixed bug when mix old database and new API  

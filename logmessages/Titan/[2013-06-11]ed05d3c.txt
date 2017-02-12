@@ -1,0 +1,1 @@
+(but not including) 2285a80bbce1e919ac6398d7adace41a2ac694a9.  I intend to follow this commit with cherry-picks of bugfixes and optimizations from master (which received a merge from titan03 prior to this commit).  

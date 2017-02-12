@@ -1,0 +1,1 @@
+  Add quickdoc for short-assignment inferred variables + fix SpecType representation in doc  Fixes #1682  

@@ -1,0 +1,1 @@
+  fixed LET usage with subqueries (last let calculation was applied to all the result set)  

@@ -1,0 +1,1 @@
+  EA-77728 - assert: ValueDescriptorImpl.getValue - better fix  

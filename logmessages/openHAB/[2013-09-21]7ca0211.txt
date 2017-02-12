@@ -1,0 +1,1 @@
+  fixed malformed configuration for MAX!Cube  

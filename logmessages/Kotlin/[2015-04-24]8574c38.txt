@@ -1,0 +1,1 @@
+  fix usages of ClassKind.TRAIT in kdoc  

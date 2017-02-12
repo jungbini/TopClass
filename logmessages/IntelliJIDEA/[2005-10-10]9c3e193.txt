@@ -1,0 +1,1 @@
+  Speedup for very buggy xml files (e.g. IDEA-2495)  

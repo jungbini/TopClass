@@ -1,0 +1,1 @@
+  Fixed bug with sequence and multi-threads  Issue #6842  

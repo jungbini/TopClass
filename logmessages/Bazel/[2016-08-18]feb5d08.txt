@@ -1,0 +1,1 @@
+  call SetupDirectories after uids are mapped in the user namespace  fixes #1637 (https://github.com/bazelbuild/bazel/issues/1637)  -- Change-Id: I8b8c3596fd2a4c125071406eefd407ca402099dd Reviewed-on: https://bazel-review.git.corp.google.com/#/c/5410/2 MOS_MIGRATED_REVID=130633667  

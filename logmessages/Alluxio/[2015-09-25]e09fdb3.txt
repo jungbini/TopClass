@@ -1,0 +1,1 @@
+ Merge pull request #1654 from yupeng9/1062  [TACHYON-1062] Fixed the bug that calling remove block does not update the listener.  commit e09fdb31c026b85f72ea1ce930e33fa3a87d2844  fixed the bug that calling remove block does not update the listener.  

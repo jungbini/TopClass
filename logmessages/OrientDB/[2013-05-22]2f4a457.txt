@@ -1,0 +1,1 @@
+  Issue #1404.  Initial version of restore  procedure was implemented. MT issues in multifile segment were fixed.  

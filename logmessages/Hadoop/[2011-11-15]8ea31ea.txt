@@ -1,0 +1,1 @@
+  MAPREDUCE-3394. Add log guard for a debug message in ReduceTask. Contributed by Todd Lipcon.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security@1201983 13f79535-47bb-0310-9956-ffa450edef68  

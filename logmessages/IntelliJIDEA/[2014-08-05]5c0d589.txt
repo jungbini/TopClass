@@ -1,0 +1,1 @@
+  maven: fix after merge of https://github.com/JetBrains/intellij-community/pull/174  

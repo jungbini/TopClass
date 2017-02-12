@@ -1,0 +1,1 @@
+  tests fixed for 'literal constructors are not allowed inside literal constructor'  

@@ -1,0 +1,1 @@
+ZEPPELIN-564 Paragraph UI bugs  (cherry picked from commit 3d4dc43669ab0c33e1ac90657960b6f10f38b188) Signed-off-by: Alexander Bezzubov <bzz@apache.org>  

@@ -1,0 +1,1 @@
+  KT-1202 object construction fix  

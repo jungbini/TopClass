@@ -1,0 +1,1 @@
+  in-graph timerange selector is back. fixes #272  

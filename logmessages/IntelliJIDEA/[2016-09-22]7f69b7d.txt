@@ -1,0 +1,1 @@
+  fixing EA-87237 - NPE: JavaLineBreakpointType$ExactJavaBreakpointVariant.getHighlightRange  

@@ -1,0 +1,1 @@
+  Make slf4j-log4j12 and log4j optional (fixes #280)  * moved logging dependencies from titan-core pom to top-level pom * made log4j & slf4j-log4j12 optional and runtime-scoped * slf4j-api is still a normal dependency (non-optional, compile-scoped)  

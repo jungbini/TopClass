@@ -1,0 +1,1 @@
+  fixed Select all and delete doesn't work: "it's not allowed to delete answer placeholder" #37  

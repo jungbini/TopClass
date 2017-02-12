@@ -1,0 +1,1 @@
+  Minor. Storing valOrVar in constructor to avoid bad action text for outdated quick fix.  

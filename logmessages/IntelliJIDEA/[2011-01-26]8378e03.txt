@@ -1,0 +1,1 @@
+  fixed list creation quick fix. Added tests.  

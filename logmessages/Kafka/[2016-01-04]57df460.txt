@@ -1,0 +1,1 @@
+  KAFKA-3051 KAFKA-3048; Security config docs improvements  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Jun Rao <junrao@gmail.com>  Closes #724 from ijuma/minor-security-fixes  

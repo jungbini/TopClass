@@ -1,0 +1,1 @@
+ Merge branch 'android/fix-invites' into 'master'  fix (android) fix invites    See merge request !10  commit 775d5311be72bef35a4ead1bb29447fc0e99c34e  fix(iOS): Fixing launch screen  

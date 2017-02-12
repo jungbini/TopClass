@@ -1,0 +1,1 @@
+  add the test files to the package. fix issue #717.  

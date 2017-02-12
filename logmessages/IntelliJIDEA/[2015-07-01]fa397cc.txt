@@ -1,0 +1,1 @@
+  IDEA-142091 "Swap selection boundaries" command activates sticky selection mode - fix test  

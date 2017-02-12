@@ -1,0 +1,1 @@
+  fixed  PY-6723 Entering new line inside empty string in parenthesis leads to syntactically incorrect code  

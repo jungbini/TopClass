@@ -1,0 +1,1 @@
+  [groovy] fix skipping whitespaces and comments in references (IDEA-144268)  

@@ -1,0 +1,1 @@
+  Regression: Quickfix "Fetch external resource" works only once (IDEADEV-23550)  

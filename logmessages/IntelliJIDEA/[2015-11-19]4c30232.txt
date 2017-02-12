@@ -1,0 +1,1 @@
+ fix sync editing going crazy with a second colon in a tag name  

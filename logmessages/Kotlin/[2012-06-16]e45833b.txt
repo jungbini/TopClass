@@ -1,0 +1,1 @@
+  Test for KT-2197 Reference to function is generated with private getter method  #KT-2197 fixed  

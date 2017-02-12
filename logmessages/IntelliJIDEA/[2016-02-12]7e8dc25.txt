@@ -1,0 +1,1 @@
+  fixed initialization of our UrlClassLoader in new JDK builds under Linux: don't call GraphicsEnvironment.isHeadless() during static initialization of Patches class because it leads to 'recursive invocation' exception from java.lang.ClassLoader.initSystemClassLoader since our UrlClassLoader's static initializer refers to Patches.USE_REFLECTION_TO_ACCESS_JDK7  

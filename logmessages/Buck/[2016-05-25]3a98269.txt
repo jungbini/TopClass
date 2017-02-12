@@ -1,0 +1,1 @@
+  python: fix bug where rule was both included and excluded from omnibus  Summary: This fixes a bug where we weren't transitively resolving rules to be excluded from omnibus linking and therefore marking it as both included and excluded from omnibus linking.  Test Plan: added test case  Reviewed By: Coneko  fbshipit-source-id: fe5b1ff  

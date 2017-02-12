@@ -1,0 +1,1 @@
+  css or xpath on nil behavior is undefined, but should not cause ruby to hang. fixes #428  

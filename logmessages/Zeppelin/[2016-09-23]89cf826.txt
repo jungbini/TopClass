@@ -1,0 +1,1 @@
+60b6 [Jeff Zhang] ZEPPELIN-1442. UDF can not be found due to 2 instances of SparkSession is created  

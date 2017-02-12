@@ -1,0 +1,1 @@
+  finished merging into druid-0.7.x; derby not working (to be fixed)  

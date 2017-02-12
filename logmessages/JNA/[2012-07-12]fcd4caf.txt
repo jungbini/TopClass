@@ -1,0 +1,1 @@
+  Second attempt at fixing the crash in Netapi32Util.  This time we change the definition of Netapi32.DsEnumerateDomainTrusts. Crash is still not happening and this fix is more likely to be correct.  

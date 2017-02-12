@@ -1,0 +1,1 @@
+  Offer `.nobuckcheck` when we fail to fetch from git.  Summary: If a user updates their main repository, disconnects from the network, then tries to build, buck will fail to update itself and refuse to build anything, which is a safe default.  This 

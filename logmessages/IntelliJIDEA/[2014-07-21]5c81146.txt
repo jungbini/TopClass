@@ -1,0 +1,1 @@
+  generic debugger settings: step 1  data views  merge settings (generic and custom) into one page  So, AppCode supported and no regression.  

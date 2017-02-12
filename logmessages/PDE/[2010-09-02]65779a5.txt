@@ -1,0 +1,1 @@
+  Fixed Processing library detection and added an error when the library cannot be found. Multiple missing libraries results in multiple errors. Still encountering classpath errors, and introduced a bug that copies the directory into itself again. Hate to check in a bug, but I have to stop for the night and sleep.  

@@ -1,0 +1,1 @@
+  Set up tests for postfix templates properly  If there are some other completion-like tests before these ones it may lead to the situation when some value is already written by `previouslySuggestedExpressions`, so it should be cleared in setUp  

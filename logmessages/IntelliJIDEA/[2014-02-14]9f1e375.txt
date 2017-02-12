@@ -1,0 +1,1 @@
+  IDEA-80056 Column selection mode improvement  fix StartNewLineBeforeAction, allow execution of editor handler chains in specific caret context  

@@ -1,0 +1,1 @@
+  Add integration coverage for using Play with IDEA  - Extract test fixtures from :ide for use in :idePlay - Verify that all Play sources are sourceFolders - Verify that Java version and Scala version match PlayPlatform  

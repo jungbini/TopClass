@@ -1,0 +1,1 @@
+  HADOOP-7046. Fix Findbugs warning in Configuration. Contributed by Po Cheung.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1063006 13f79535-47bb-0310-9956-ffa450edef68  

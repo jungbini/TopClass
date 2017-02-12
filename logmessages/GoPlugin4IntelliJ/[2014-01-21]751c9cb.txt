@@ -1,0 +1,1 @@
+ Run go get intentions for GAE projects as well (fixes #548)  

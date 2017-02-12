@@ -1,0 +1,1 @@
+  auto-import fix for module uses correct qualified name (PY-6677)  

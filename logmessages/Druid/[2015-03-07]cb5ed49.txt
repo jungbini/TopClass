@@ -1,0 +1,1 @@
+ simple typo fix on Concepts-and_Terminology.md to correct navigation to spec file info  

@@ -1,0 +1,1 @@
+  [ann] a better fix for IDEA-84025 Non-public class in 

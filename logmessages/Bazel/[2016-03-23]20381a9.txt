@@ -1,0 +1,1 @@
+  Fix root BUILD file  This should fix current ci.bazel.io breakage.  -- MOS_MIGRATED_REVID=117924148  

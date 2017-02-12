@@ -1,0 +1,1 @@
+  set correct line number area width at editor creation to avoid unneeded extra soft wrap recalculation  this also fixes the issue with navigation to a file element ending up with target element beyond editor viewable area (as navigation vertical offset was calculated after first soft wrap recalculation, not taking line number area width into account)  

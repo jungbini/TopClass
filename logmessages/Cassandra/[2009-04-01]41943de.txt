@@ -1,0 +1,1 @@
+  fix thrift port sample back to 9160  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@760968 13f79535-47bb-0310-9956-ffa450edef68  

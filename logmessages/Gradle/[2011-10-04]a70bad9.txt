@@ -1,0 +1,1 @@
+  provide a little more information in the toString of a command object for debugging  

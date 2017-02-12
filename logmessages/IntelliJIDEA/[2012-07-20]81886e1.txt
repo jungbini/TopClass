@@ -1,0 +1,1 @@
+  fixed PY-4646 Complete class names after @type/:type in docstrings  

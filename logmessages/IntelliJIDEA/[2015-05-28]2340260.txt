@@ -1,0 +1,1 @@
+  quickfix adds annotations-java8.jar to classpath if language level permits (IDEA-123048)  

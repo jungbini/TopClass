@@ -1,0 +1,1 @@
+  external artifact building: fixed in-place artifact configuration when output path is equal to source path  

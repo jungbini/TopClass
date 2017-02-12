@@ -1,0 +1,1 @@
+  assertEquals can be replaced with assertSame: introduce junit 5; extract common fix  

@@ -1,0 +1,1 @@
+  Allow MavenHttpModule testfixture assertions on artifacts with classifier.  

@@ -1,0 +1,1 @@
+  [JRuby] Fix entity expansion bug.  Thanks to Jonas Nicklas for reporting this issue.  

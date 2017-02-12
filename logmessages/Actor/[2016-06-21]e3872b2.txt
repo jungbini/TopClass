@@ -1,0 +1,1 @@
+  fix(iOS): Hide avatar and name on remote view open  

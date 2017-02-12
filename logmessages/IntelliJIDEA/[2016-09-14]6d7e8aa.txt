@@ -1,0 +1,1 @@
+  [platform] fixes permissions of JRE binaries copied for update (IDEA-161223)  

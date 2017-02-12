@@ -1,0 +1,1 @@
+  Reworking rename call to reduce rpc calls and fixing a bug with the rename integration tests  

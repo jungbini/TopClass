@@ -1,0 +1,1 @@
+  HDFS-10245. Fix the findbugs warnings in branch-2.7. Contributed by Brahma Reddy Battula.  

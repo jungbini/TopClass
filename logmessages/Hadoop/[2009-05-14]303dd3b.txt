@@ -1,0 +1,1 @@
+  HADOOP-5820.  Fix findbugs warnings for http related codes in hdfs.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk@774965 13f79535-47bb-0310-9956-ffa450edef68  

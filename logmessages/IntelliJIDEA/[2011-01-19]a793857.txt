@@ -1,0 +1,1 @@
+  Fixed GitBranchTest: we don't store the "remote/" prefix for remote branches anymore. A boolean flag is used for that.  

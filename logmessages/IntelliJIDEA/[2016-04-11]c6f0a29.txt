@@ -1,0 +1,1 @@
+  PY-19047 Fixed: Exception on interpreter indexing  PyResolveProcessor had a bug with resolving imports locally  

@@ -1,0 +1,1 @@
+  GitChangeProvider: fixed situation when there were two changes for a single file. (IDEA-59580)  

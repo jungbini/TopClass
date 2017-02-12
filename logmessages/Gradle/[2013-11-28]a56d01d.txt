@@ -1,0 +1,1 @@
+  Temporary fix for breakage when build fails when used via 1.0-m7 tooling API.  

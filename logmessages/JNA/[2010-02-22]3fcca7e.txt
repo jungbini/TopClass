@@ -1,0 +1,1 @@
+  Tentative fix for the broken Secur32Test UT: looks like on some OSs GetUserNAmeEx returns true when passed a null buffer and a size? Also fixed documentation warnings.   git-svn-id: https://svn.java.net/svn/jna~svn/trunk@1024 2f8a963e-d2e4-e7d0-97bf-ccb7fcea9d80  

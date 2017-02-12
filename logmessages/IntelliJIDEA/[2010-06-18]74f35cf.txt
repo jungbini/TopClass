@@ -1,0 +1,1 @@
+  git4idea: IDEA-55858: fixed CurrentBranchDialog (the case when there is no tracking branch)  

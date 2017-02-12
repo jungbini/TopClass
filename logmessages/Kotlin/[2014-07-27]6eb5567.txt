@@ -1,0 +1,1 @@
+  REPL: fix open parenthesis not triggering "incomplete"  Check if all of the syntax errors are at EOF, not that there's a single one. In case of open parenthesis two syntax errors are reported for some reason  

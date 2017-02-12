@@ -1,0 +1,1 @@
+  Partial fix for issue #193 (matches() should be okay, find() will still pick patterns in alternations by order).  

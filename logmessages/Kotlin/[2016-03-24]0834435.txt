@@ -1,0 +1,1 @@
+  KT-11643 Inspections and intentions to fix misconfigured Maven pom  

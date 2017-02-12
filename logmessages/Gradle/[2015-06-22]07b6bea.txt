@@ -1,0 +1,1 @@
+  specify -XX:MaxPermSize=512m for ScalaCompile tasks in integtest - attempt to fix failing coverage build  

@@ -1,0 +1,1 @@
+  testng: fix error message if nothing found to run in the suite ( IDEA-140618)  

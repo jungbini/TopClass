@@ -1,0 +1,1 @@
+ Merge pull request #1434 from denzelsN/master  bug fix time-slider.  commit 8d30a35d93162d06e5148411b5c6cd302fc5db16  bug fix time-slider. - set wrong position when click slider.  

@@ -1,0 +1,1 @@
+  Removed live templates from namespace header and import directives.  #KT-1234 fixed  

@@ -1,0 +1,1 @@
+  Lots of work on TitanGraphOutputMapReduce. Updated FaunusCompiler with WARN for track paths. Fix to TitanCassandraInputFormat and TitanHBaseInputFormat. Trying fix serialization issues around isDeleted() in FaunusSerialzier, but no luck -- effecting deleting edges. More work needed on Configuration passing through to FaunusGraphSONUtility.  

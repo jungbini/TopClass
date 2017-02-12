@@ -1,0 +1,1 @@
+  PY-20026 Add test for the scenario provided by the user  The problem itself has been already remedied by the previous fix, nonetheless, the example given by the user provides an interesting case where we can encounter duplicate base classes in practice, since we are not able to find out result of type(SomeClass) expression yet.  

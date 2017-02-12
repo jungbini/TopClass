@@ -1,0 +1,1 @@
+ fix two more tests like that (cherry picked from commit 7951f04f6d326f1abc96bed99338172a2a5f7b68)  

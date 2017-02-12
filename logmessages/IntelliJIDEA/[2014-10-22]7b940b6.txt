@@ -1,0 +1,1 @@
+  IDEA-131712 Debugger is showing current position on evaluate  

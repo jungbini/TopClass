@@ -1,0 +1,1 @@
+  I18n inspection and quick fix work for form files and in UI designer  

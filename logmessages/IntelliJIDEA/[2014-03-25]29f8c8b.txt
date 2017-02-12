@@ -1,0 +1,1 @@
+  IDEA-112576 ("if statement replaceable with switch" quickfix is not equivalent for string targets)  

@@ -1,0 +1,1 @@
+  Detangle IDEA model implementation from the public cross-version api, and fix IdeaContentRoot.getGeneratedSourceDirectories() and getGeneratedTestDirectories() so that they actually return something.  

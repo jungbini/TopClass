@@ -1,0 +1,1 @@
+  HBASE-2928  Fault in logic in BinaryPrefixComparator leads to ArrayIndexOutOfBoundsException (pranav via jgray)  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@986969 13f79535-47bb-0310-9956-ffa450edef68  

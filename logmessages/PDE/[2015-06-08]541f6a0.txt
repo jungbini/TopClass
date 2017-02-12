@@ -1,0 +1,1 @@
+ Fix case-related bugs in Toolkit::setMenuMnemonics  Also made it get a bit closer to the style guide, and other tweaks.  

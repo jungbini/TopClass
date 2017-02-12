@@ -1,0 +1,1 @@
+  [tests] fixes javadoc HTML lint inspection test on Windows  

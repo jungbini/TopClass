@@ -1,0 +1,1 @@
+  Merge -c 1232322 from trunk to branch-0.23 to fix HADOOP-7971. Adding back job/pipes/queue commands to bin/hadoop for backward compatibility.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1232323 13f79535-47bb-0310-9956-ffa450edef68  

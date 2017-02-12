@@ -1,0 +1,1 @@
+  Reimplement whole archive on Windows  Use wrapper script to get object files if /WHOLEARCHIVE is not supported.  fix https://github.com/bazelbuild/bazel/issues/1978 work towards https://github.com/bazelbuild/bazel/issues/1918  -- Change-Id: I675311478e65a1e1f3fa963187a5a8da531150d3 Reviewed-on: https://bazel-review.googlesource.com/#/c/6833 MOS_MIGRATED_REVID=137151817  

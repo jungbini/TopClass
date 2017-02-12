@@ -1,0 +1,1 @@
+  IDEA-140446 vcs: fix actions in "Unversioned Files" dialog  * set icon for ChangesView.Ignore action * do not hide actions, mark them disabled instead  

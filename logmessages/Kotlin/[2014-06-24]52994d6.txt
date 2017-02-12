@@ -1,0 +1,1 @@
+  Java to Kotlin converter: fixed conversion of access to Kotlin property declared as constructor parameter  

@@ -1,0 +1,1 @@
+  Fix memtable copy bug causing rangetombstones to be missed  patch by tjake; reviewed by benedict got CASSANDRA-7371  

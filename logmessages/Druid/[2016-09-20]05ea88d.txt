@@ -1,0 +1,1 @@
+  fix kafka-indexing-service pom to not reference specific version but parent version for druid core dependencies (#3472)  

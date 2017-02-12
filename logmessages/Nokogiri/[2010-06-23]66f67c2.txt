@@ -1,0 +1,1 @@
+  Fix XML::Attr writer bug. This resolves issue 299. Also, adds alias name next/next_element to annotation.  

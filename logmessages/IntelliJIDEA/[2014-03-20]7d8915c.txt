@@ -1,0 +1,1 @@
+oduce overwrite & append in addition to echo, because the latter has not clear meaning.  

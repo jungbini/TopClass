@@ -1,0 +1,1 @@
+  Debugger tests: do not create breakpoints for FakeLightClassForFileOfPackage because we create them for KotlinLightClassForPackage  

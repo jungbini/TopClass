@@ -1,0 +1,1 @@
+  fix "'StringBuffer.toString()' in concatenation" inspection broken by introduction of PsiPolyadicExpression  

@@ -1,0 +1,1 @@
+  fix sync after completion in injection #WEB-17822 fixed  

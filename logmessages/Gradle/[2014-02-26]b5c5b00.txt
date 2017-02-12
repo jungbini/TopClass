@@ -1,0 +1,1 @@
+  Updated MavenModule fixture to create 'correct' maven-metadata for version listing - The output is now consistent with various snapshot repositories I inspected - Added an integration test for version range matching with snapshot modules - Verified that latest.* does indeed correctly include snapshots artifacts in selection  

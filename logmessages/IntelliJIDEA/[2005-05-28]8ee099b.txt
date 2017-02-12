@@ -1,0 +1,1 @@
+  fixed brace matching in jsp for directives (with whitespace before the name of the tag)  

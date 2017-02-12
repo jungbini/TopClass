@@ -1,0 +1,1 @@
+  Fixed bug in TypeUtils.intersect().  For "Foo", "Foo?" it returned "{Foo}" instead of "Foo"  

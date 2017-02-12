@@ -1,0 +1,1 @@
+  fix memory leak  CodeFormatterFacade.processRange doesn't dispose range marker  

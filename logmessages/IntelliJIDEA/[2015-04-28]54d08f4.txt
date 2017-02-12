@@ -1,0 +1,1 @@
+  fixing IDEA-132876 Compiling evaluator does not work if stopped on method declaration line  

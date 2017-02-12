@@ -1,0 +1,1 @@
+  Refactor wrapper script msvc_tools.py to make path configure easiler  Also fixed a small bug.  -- Change-Id: I05dab2f4a5d6216f2972b0cd2cb62506f5b1cb06 Reviewed-on: https://bazel-review.googlesource.com/#/c/3326/ MOS_MIGRATED_REVID=119529809  

@@ -1,0 +1,1 @@
+  [Infer][Cxx] Pass specs folders through list in a file instead of multiple args  Summary: This strategy will fix the "Argument list too long" problem, whenever the number of specs folders to propagate to the analyzer is too long.  Test Plan: Added integration test.  Reviewed By: k21  fb-gh-sync-id: 441e6c6  

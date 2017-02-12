@@ -1,0 +1,1 @@
+ion evaluated to an array in JsonPathExpectationsHelper (and therefore indirectly in JsonPathResultMatchers in Spring MVC Test) would incorrectly fail if the array was present in the JSON content but empty.  This commit fixes this issue by removing the "not empty" check for arrays and lists.  Issue: SPR-13320  

@@ -1,0 +1,1 @@
+  Create fake overrides for deserialized enum class object  Now that Any has members, we need to make sure fake overrides are properly generated in every class descriptor we create automatically or manually.  This fixes DescriptorSerializationTestGenerated  

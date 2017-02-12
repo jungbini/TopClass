@@ -1,0 +1,1 @@
+  ninja fix IndexSummaryManagerTest.testCompactionsRace  patch by benedict; reviewed by tjake for CASSANDRA-8981  

@@ -1,0 +1,1 @@
+  fixed: (PY-2310) "Redundant parentheses" should not be reported when expression spans multiple lines (PY-2311) "Redundant parentheses" should also handle return statements  

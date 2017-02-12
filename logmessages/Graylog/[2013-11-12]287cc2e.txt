@@ -1,0 +1,1 @@
+  return generated ES queries in responses  the search based resources return the query they actually ran (including the filters etc) in their response  fixes #299  

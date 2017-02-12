@@ -1,0 +1,1 @@
+  Add support for sampling percentage  1. Added DebugOptions to store component level flag + sampling pct 2. Added extra sampling pct param in nimbus debug api 3. UI changes for passing sampling pct.  

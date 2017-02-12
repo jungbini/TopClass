@@ -1,0 +1,1 @@
+ add test case when input prefixes is null  

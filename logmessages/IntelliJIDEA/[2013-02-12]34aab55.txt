@@ -1,0 +1,1 @@
+  inspection and quickfix to add <with> tags to <extensionPoint> declarations  

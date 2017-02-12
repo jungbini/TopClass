@@ -1,0 +1,1 @@
+  MINOR: Fix typo in documentation  Author: Vahid Hashemian <vahidhashemian@us.ibm.com>  Reviewers: Guozhang Wang  Closes #707 from vahidhashemian/typo04/fix_documentation_typos  

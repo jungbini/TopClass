@@ -1,0 +1,1 @@
+  HOTFIX: Increase timeout for bounce test  Author: Eno Thereska <eno.thereska@gmail.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1874 from enothereska/hotfix-bounce-test  

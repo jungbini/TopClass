@@ -1,0 +1,1 @@
+  fix TypeCookTest in CE  

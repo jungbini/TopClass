@@ -1,0 +1,1 @@
+  KAFKA-504 Catching the wrong exception in the test for snappy compression, added check for SnappyException too. Trivial fix, no review.    git-svn-id: https://svn.apache.org/repos/asf/incubator/kafka/branches/0.8@1396178 13f79535-47bb-0310-9956-ffa450edef68  

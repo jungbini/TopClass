@@ -1,0 +1,1 @@
+  Fixing test failures. Added support for ignoring filenames with .ignore suffix  

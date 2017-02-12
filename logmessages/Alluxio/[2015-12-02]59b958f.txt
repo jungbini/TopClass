@@ -1,0 +1,1 @@
+ Merge pull request #2195 from PasaLab/small-fix-doc-2  [SMALLFIX] small fix the fault tolerant document  commit 59b958fdc47d7df30f16a78e518c31f6c95c85eb  Small fix in launch script  

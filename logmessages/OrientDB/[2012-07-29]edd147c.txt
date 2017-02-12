@@ -1,0 +1,1 @@
+  Issue 971 was fixed.  

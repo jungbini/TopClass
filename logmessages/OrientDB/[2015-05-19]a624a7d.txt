@@ -1,0 +1,1 @@
+  fixed serialziation of linkset in embedded document, issue #3861  

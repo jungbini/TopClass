@@ -1,0 +1,1 @@
+  don't restore random unapplicable settings for 'find in file' model (likely fix for IDEA-69711 & friends)  

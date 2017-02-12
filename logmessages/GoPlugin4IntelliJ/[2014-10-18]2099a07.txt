@@ -1,0 +1,1 @@
+ Merge pull request #842 from bronze1man/pr-varible-redeclare  find redeclare error in one golang file (fixes #482, #479)  commit 2099a078764f4f1df24c2bcc9760ab8dc172b258  fix #482 , find redeclare error in one golang file.  

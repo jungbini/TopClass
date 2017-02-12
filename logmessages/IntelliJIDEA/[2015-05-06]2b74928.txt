@@ -1,0 +1,1 @@
+  Notifications: fix default minimum and preferred sizes for HiDPI  

@@ -1,0 +1,1 @@
+  [platform] fixes external updatable component manager registration  

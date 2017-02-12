@@ -1,0 +1,1 @@
+  java-xdebugger: rebuild on auto variables setting change  

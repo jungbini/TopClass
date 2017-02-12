@@ -1,0 +1,1 @@
+  fix #500, add keyword continue and break into auto complete.  

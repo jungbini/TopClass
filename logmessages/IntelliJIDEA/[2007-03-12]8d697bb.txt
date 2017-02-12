@@ -1,0 +1,1 @@
+  Renaming complexType drops namespace prefix in instance documents (IDEADEV-15176)  

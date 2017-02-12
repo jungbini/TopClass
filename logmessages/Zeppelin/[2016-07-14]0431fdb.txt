@@ -1,0 +1,1 @@
+ name to fit better 9e81cb3 [Damien CORNEAU] fix the Selenium tests errors cbbbc26 [Damien CORNEAU] Apply print CSS file in production 39182b5 [Damien CORNEAU] remove a ng-if that wasnt necessary bb3542d [Damien CORNEAU] fix the print css  

@@ -1,0 +1,1 @@
+  IDEA-164295 Please fix com.jetbrains.jsonSchema.impl.JsonSchemaResourcesRootsProvider#getAdditionalRootsToIndex().  

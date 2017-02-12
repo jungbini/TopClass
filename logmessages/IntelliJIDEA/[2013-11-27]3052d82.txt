@@ -1,0 +1,1 @@
+  fixed PY-2984 Surround with try/except reformats entire file  

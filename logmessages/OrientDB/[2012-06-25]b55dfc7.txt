@@ -1,0 +1,1 @@
+  Fixed bug reported by Michael Hie about multiple database with the same name but 

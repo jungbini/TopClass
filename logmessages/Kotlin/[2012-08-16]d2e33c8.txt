@@ -1,0 +1,1 @@
+  tests for obsolete/fixed issues #KT-1038 fixed #KT-1127 fixed #KT-1145 fixed #KT-1410 fixed #KT-1718 fixed #KT-2286 fixed #KT-1431 fixed #KT-2394 fixed  

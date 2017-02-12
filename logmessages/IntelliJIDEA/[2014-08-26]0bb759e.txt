@@ -1,0 +1,1 @@
+  GWT run configuration for Super Dev Mode: added option to start JS debugger  

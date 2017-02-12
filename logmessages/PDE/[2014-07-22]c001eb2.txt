@@ -1,0 +1,1 @@
+ Merge pull request #2644 from JakubValtar/lighting-fix  Fixes dual-side lighting  commit c001eb24b0aa9d7987b02f2a39249b5b85c6a2f3  actually fix the category bug, and remove debug lines. ahem.  

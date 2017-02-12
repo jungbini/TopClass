@@ -1,0 +1,1 @@
+  Fixed bug in console init without Django (PY-3204).  

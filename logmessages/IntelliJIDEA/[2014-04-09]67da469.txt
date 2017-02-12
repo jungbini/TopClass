@@ -1,0 +1,1 @@
+  jump to source: ability to jump to native V8 script (actual only for V8 debugger protocol)  

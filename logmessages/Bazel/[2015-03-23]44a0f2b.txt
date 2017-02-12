@@ -1,0 +1,1 @@
+  A minor change in the path of ijars: previously the exec path of a java_binary was a prefix of the exec path of the associated ijar, which may cause problems.  This was discovered using my "bindir == genfilesdir == outputdir" experiment.  -- MOS_MIGRATED_REVID=89285440  

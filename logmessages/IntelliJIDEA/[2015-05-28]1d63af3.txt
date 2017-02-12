@@ -1,0 +1,1 @@
+  no java postfix templates in dumb mode (EA-66686 - INRE: FileBasedIndexImpl.handleDumbMode)  

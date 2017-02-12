@@ -1,0 +1,1 @@
+  Committed patch by Andrey to fix retrieval of internal index instance in case of remote index.  

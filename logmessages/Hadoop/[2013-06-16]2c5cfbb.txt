@@ -1,0 +1,1 @@
+  Merge -c 1493445 from trunk to branch-2.1-beta to fix MAPREDUCE-5192. Allow for alternate resolutions of TaskCompletionEvents. Contributed by Chris Douglas.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1493447 13f79535-47bb-0310-9956-ffa450edef68  

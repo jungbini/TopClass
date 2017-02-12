@@ -1,0 +1,1 @@
+  fixed PY-4423 Missing completion for attribute checked in hasattr  

@@ -1,0 +1,1 @@
+  make file writable in python rename quick fixes  

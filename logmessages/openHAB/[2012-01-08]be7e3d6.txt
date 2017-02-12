@@ -1,0 +1,1 @@
+  fixed NPE if no security configuration was ever done  

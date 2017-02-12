@@ -1,0 +1,1 @@
+  Implemented compacting type names and adding valid imports in override/implements handler.  #KT-1602 fixed  

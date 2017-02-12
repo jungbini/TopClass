@@ -1,0 +1,1 @@
+  PyDebugger: fixed breakpoint path normalization (PY-5702).  

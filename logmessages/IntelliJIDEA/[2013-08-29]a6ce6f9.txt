@@ -1,0 +1,1 @@
+  fixed  PY-8823 Enforce PEP 8 naming conventions  Conflicts:  python/src/META-INF/python-plugin-common.xml  

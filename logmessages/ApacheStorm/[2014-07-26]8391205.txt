@@ -1,0 +1,1 @@
+  STORM-213: fixed NullPointerException  * that was caused by submitting a topology to a LocalCluster with a decoupled ZK  

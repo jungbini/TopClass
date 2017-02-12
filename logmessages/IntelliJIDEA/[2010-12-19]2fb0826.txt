@@ -1,0 +1,1 @@
+  Introducing GitVersionSpecialty - collection of bugs and features specific to some versions of Git. Defined 2 specialties for CYGWIN. Don't start cygwin via runnerw, because runnerw doesn't pass parameters to cygwin Git (the reason of this is under investigation).  

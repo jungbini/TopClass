@@ -1,0 +1,1 @@
+  don't compute namespace prefix for root dom elements  

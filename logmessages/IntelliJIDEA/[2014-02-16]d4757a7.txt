@@ -1,0 +1,1 @@
+  IDEA-100755 Language injection: properties: prefix causes ISE at PropertyImplEscaper.decode()  

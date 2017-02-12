@@ -1,0 +1,1 @@
+  YARN-5566. Client-side NM graceful decom is not triggered when jobs finish. Addendum to fix test flakiness. (Robert Kanter via kasha)  

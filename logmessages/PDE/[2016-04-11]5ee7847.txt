@@ -1,0 +1,1 @@
+  several fixes, cleanups, and speed improvements to dictionary classes  

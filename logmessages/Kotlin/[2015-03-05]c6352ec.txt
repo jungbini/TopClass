@@ -1,0 +1,1 @@
+  KT-6920 Reference this marked as deprecated if extension function is deprecated  #KT-6920 fixed  

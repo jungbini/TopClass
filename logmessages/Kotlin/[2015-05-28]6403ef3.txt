@@ -1,0 +1,1 @@
+  KT-7521 Compilation problem of dependent modules with 

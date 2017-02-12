@@ -1,0 +1,1 @@
+  (GRADLE-1127 / GRADLE-1408) IDEA module names problems - fixed possible edge case  If user overwrites the moduleName there is a possibility of duplicates even if we include the path. Deduper should deal with that case gracefully  

@@ -1,0 +1,1 @@
+  fixed PY-13177 PyCharm hangs on adding incorrect interpreter (python3-pyinotify)  added timeout for process to destroy it if failed  

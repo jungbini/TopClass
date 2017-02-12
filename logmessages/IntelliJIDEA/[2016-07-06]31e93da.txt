@@ -1,0 +1,1 @@
+  renderers do not resolve types in the context of decompiled class - extra fix for IDEA-CR-12092  

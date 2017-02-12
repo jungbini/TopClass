@@ -1,0 +1,1 @@
+  fix inetaddress based drools blacklist filter  * use new gl2_remote_ip reserved field if it is present * convert string back to InetAddress without doing any lookups, we are simply interested in the address itself, not the hostname  fixes #840  

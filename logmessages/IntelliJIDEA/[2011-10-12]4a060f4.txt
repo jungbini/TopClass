@@ -1,0 +1,1 @@
+  fixed PY-4573 Find Usages should work for Mako functions  

@@ -1,0 +1,1 @@
+  Problem when key size was reset to 1 after the load was fixed.  

@@ -1,0 +1,1 @@
+  Fixed severe bug in multi-threads scenarios when read from the disk  

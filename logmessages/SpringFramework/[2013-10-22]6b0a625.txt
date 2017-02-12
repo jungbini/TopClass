@@ -1,0 +1,1 @@
+ date string to one based on the current date.  Issue: SPR-10665, SPR-8826  

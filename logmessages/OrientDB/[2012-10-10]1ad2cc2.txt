@@ -1,0 +1,1 @@
+  Patch by Ilya Mikhaylov to fix a OSGI class loader problem  

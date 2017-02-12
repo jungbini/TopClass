@@ -1,0 +1,1 @@
+  refactor+fix(web): more es6; add ref attribute to empty dialogs section, remove unused app.json;  

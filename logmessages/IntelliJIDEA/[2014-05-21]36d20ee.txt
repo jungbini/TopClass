@@ -1,0 +1,1 @@
+  fix wrong LAF shown in Settings/Appearance on first run  

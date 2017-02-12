@@ -1,0 +1,1 @@
+ is never supported on Java 7+ on Mac => register just Ctrl+Alt+mnemonic in this case.  (cherry picked from commit 67f1d446db469bc084d7fb68034fd05933268c95)  

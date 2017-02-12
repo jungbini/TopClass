@@ -1,0 +1,1 @@
+  Database compare test was fixed.  

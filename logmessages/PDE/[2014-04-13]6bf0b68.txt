@@ -1,0 +1,1 @@
+ Menu mnemonic bug fix  I just found out that jmi.getText() can be null, so I added null-checking.  

@@ -1,0 +1,1 @@
+  Pass module to GenerationState  - get rid of a hack there which was used to obtain any module, to be used in ReflectionTypes - delete unused getError() in LightClassConstructionContext which was always null - fix some minor warnings  

@@ -1,0 +1,1 @@
+  IDEA-106902 Option to "View as > Binary" when debugging  

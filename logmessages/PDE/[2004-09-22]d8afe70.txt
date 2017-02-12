@@ -1,0 +1,1 @@
+  > X get library stuff debugged > X port arcball and finish up dxf writer > X beginCamera() no longer sets an identity matrix  

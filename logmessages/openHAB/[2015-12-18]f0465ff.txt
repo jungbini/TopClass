@@ -1,0 +1,1 @@
+ Merge pull request #3562 from idserda/denon-npe-fix  Denon NPE fix  commit 3ec6d2f1204a66f70b9667b70458ad7d1b65b421  Merge pull request #3565 from kaikreuzer/fixes-for-karaf  a few fixes to run smoothly on Karaf  commit f0465ffcc264c8c40726d24369e08beacbd32f44  a few fixes to run smoothly on Karaf  Signed-off-by: Kai Kreuzer <kai@openhab.org>  

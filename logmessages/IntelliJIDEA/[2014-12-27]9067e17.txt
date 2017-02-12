@@ -1,0 +1,1 @@
+  fixed PY-14312 IPython Notebook: cell gets collapsed when editor width is too narrow for the output width  

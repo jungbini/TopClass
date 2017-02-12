@@ -1,0 +1,1 @@
+  - Updated wrapper to use 1.0-milestone-2 - Regenerated wrapper scripts, to pick up the windows batch script fixes from milestone 1 - Added some more stuff to DistributionIntegrationTest  

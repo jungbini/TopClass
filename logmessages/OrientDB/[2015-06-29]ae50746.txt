@@ -1,0 +1,1 @@
+  Issue #4570 WAL backup feature first draft. MT issue in multivalue index , when 2 the same files may be concurrently added is fixed.  

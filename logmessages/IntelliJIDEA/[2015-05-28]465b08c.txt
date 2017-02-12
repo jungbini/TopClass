@@ -1,0 +1,1 @@
+  pass correct max offset + add xml comment characters to wrappable elements #WEB-16691 fixed  

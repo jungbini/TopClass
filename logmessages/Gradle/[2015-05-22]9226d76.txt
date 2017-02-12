@@ -1,0 +1,1 @@
+  Allow the calculation of inputs for a DSL model rule to be deferred until the subject is known. Includes some  regressions in validation of unbound rules and eagerly creates unmanaged elements during validation. Will be fixed later.  

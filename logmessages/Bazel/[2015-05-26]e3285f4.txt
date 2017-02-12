@@ -1,0 +1,1 @@
+  *** Reason for rollback ***  stat64 is deprecated and causes compiler warnings on OS X  *** Original change description ***  Switch to stat64/lstat64  Better fix for #174.  -- MOS_MIGRATED_REVID=94482625  

@@ -1,0 +1,1 @@
+  inspection tool window: do not massively update ui when quick fix is applying  

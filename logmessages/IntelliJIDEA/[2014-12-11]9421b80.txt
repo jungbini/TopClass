@@ -1,0 +1,1 @@
+  external build: fixed problem with files remaining dirty after 'Make Project'  

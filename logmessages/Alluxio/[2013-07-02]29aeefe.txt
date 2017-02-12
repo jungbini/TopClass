@@ -1,0 +1,1 @@
+  change hadoopfs to tfs. fix a bug in delete.  

@@ -1,0 +1,1 @@
+  Support 'break' and 'continue' in expressions  - generate fake jump instructions so that we can always analyze stack depths - fix stack before break and continue by dropping excessive elements (e.g., *a*.foo(*b*, c?:continue)) - Analyzer rewritten in Kotlin, with more flexible control of CFG traversal  #Fixed KT-3340 #Fixed KT-4258 #Fixed KT-7941  

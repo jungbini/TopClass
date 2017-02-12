@@ -1,0 +1,1 @@
+  make DeclarationDescriptor.toString safe  DescriptionRenderer may throw if this is not yet completely initialized It is very inconvenient while debugging  

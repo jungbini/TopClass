@@ -1,0 +1,1 @@
+  python: fix caching for in-place binaries  Summary: Recent changes made it so that the in-place rule generated the entry script but never recorded it so that it got cached.  Test Plan: Added test and verified it triggered the failure without the fix included in this 

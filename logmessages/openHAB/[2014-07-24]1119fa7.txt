@@ -1,0 +1,1 @@
+  Adding logout (debug lvl) to KNXBinding. Goal: show what KNX bus messages are ignored by KNXTypeMapper implementations.  

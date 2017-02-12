@@ -1,0 +1,1 @@
+  Gremlin: fixed bug on missed OGraphDatabase instance  

@@ -1,0 +1,1 @@
+  some fixes for HashMap class examples thanks to @REAS  

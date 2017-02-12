@@ -1,0 +1,1 @@
+ Merge pull request #488 from metamx/update-http-client  update http-client to fix timeout issues  commit 9ef65f1dedc6e6893691a780a977f8d8e8d0cf16  update http-client, fixes race conditions  

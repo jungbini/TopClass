@@ -1,0 +1,1 @@
+  Added new Player.Type (replacing old implementation) which returns the media type - i.e. episode/movie/channel Standardise debug logging  

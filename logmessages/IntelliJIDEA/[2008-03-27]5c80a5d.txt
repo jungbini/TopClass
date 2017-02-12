@@ -1,0 +1,1 @@
+  editor tabs: close inactive tab by popup fix  

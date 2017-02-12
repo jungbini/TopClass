@@ -1,0 +1,1 @@
+  Changed repositories.ivy() to use a commons http client backed Ivy resolver for http/https urls, and UrlResolver for other urls. Uses preemptive authentication for put requests, to fix publishing large artifacts to password protected ivy repositories.  

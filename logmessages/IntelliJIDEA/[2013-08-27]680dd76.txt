@@ -1,0 +1,1 @@
+  Github: fix memory leak on Exception in setUp();  

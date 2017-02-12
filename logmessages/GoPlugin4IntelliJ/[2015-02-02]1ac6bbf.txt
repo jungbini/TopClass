@@ -1,0 +1,1 @@
+  fix #1230: better processing for const definitions  

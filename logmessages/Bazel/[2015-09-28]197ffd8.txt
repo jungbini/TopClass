@@ -1,0 +1,1 @@
+  Fix JavaBuilder bug when the source files are empty.  -- MOS_MIGRATED_REVID=104112686  

@@ -1,0 +1,1 @@
+  IDEA-137120 AutoComplete does not offer options, there is a word begins with an underscore  fix test expectations  

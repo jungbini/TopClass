@@ -1,0 +1,1 @@
+  HADOOP-6642. Fix javac,  javadoc, findbugs warnings related to security work. Contributed by Chris Douglas, Po Cheung.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1065959 13f79535-47bb-0310-9956-ffa450edef68  

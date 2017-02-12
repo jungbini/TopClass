@@ -1,0 +1,1 @@
+  Flex project structure: show 'choose BC' dialog instead of 'choose module' when creating new or fixing unused Flex library (IDEA-80390 part 11)  

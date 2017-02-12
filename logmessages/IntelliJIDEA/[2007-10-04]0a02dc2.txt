@@ -1,0 +1,1 @@
+  [reviewed by Max] debugger autovariables mode: if expression statemet intersects with the 'visible' textrange, adjust the range so that the statement is covered by it  

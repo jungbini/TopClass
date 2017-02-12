@@ -1,0 +1,1 @@
+  fixed referenced libs in manifest  

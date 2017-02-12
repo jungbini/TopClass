@@ -1,0 +1,1 @@
+  fixed checking of test preconditions  

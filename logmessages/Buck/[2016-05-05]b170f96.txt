@@ -1,0 +1,1 @@
+  Propagate strip/debug style flavors across apple_bundle deps  Summary: Extend apple_bundle so that any strip style/debug symbol style flavor also gets propagated to its dependents that are also `apple_bundle`s (if not explicitly specified).  Test Plan: CI  Reviewed By: Coneko  fbshipit-source-id: 974d61f  

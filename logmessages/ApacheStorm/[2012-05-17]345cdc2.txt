@@ -1,0 +1,1 @@
+  fix heartbeating to only grab valid heartbeats  

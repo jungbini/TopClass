@@ -1,0 +1,1 @@
+  Add eden and thrift to libraries in Idea project  Summary: This fixes Idea build  #accept2ship  Test Plan: Idea -> Build -> Rebuild project, it finishes without errors  Reviewed By: andrewjcg  fbshipit-source-id: 4d312f5  

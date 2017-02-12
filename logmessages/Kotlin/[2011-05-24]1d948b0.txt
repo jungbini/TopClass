@@ -1,0 +1,1 @@
+  JET-49 Resolve extension functions with generic receivers + Error report fixed for 'new java.util.List<Int>'  

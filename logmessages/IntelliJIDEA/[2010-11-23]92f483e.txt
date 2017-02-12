@@ -1,0 +1,1 @@
+  xdebugger: default breakpoint can be enabled by default  

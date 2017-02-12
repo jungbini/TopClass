@@ -1,0 +1,1 @@
+  Removed extra panel from runner settings (fixes #546)  

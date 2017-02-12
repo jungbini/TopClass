@@ -1,0 +1,1 @@
+  cleanup invalid fold regions (fix console leaks, IDEA-124626)  

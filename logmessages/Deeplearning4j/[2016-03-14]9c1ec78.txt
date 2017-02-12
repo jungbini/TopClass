@@ -1,0 +1,1 @@
+ Merge pull request #1276 from kepricon/gh-pages  fix typos on visualization document  commit 9c1ec78368d779ad38340c1cb761bce01879dc7e  fix typos on visualization document  

@@ -1,0 +1,1 @@
+  HTTP command: fixed when the GREMLIN function returned a single element it was returned as is without the wrapping of classic resultset.  

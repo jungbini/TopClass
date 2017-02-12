@@ -1,0 +1,1 @@
+  HADOOP-12022. fix site -Pdocs -Pdist in hadoop-project-dist; cleanout remaining forrest bits (aw)  

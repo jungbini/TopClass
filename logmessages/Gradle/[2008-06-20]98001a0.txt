@@ -1,0 +1,1 @@
+  Implemented work around for Groovy bug GROOVY-2913  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@577 004c2c75-fc45-0410-b1a2-da8352e2331b  

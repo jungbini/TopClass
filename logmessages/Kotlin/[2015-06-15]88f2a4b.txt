@@ -1,0 +1,1 @@
+  KT-7651 IllegalArgumentException on attempt to rename class when it has anonymous subclasses  #KT-7651 fixed #EA-69049 fixed  

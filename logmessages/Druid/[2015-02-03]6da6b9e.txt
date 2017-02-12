@@ -1,0 +1,1 @@
+ Merge pull request #1085 from gianm/dsmrv-fix  DataSourceMetadataResultValue fixes and JodaUtils adjustments.  commit ffb180e29d4227b6104d7d31082f8aee86f2c3be  Merge pull request #1080 from metamx/fix-cost-balancer-strategy  fix integer value overflow and add test  commit 6da6b9eeda9f7814b7b81087d323b6291b82ca62  fix integer value overflow and add test  

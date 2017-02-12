@@ -1,0 +1,1 @@
+  minor fix on storage management inside remote factory.  

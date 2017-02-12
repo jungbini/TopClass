@@ -1,0 +1,1 @@
+  Tell IJ that SourceFolders take precendence *everywhere*  Summary: From user reports it appears that unless you tell IJ about SourceFolders in every single .iml file it'll find a reason to decompile something instead and ignore the source code you have available.  This 

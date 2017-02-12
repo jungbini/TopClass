@@ -1,0 +1,1 @@
+  inplace rename: fix range check for injected usages  

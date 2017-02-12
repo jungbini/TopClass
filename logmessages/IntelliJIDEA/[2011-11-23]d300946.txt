@@ -1,0 +1,1 @@
+  Fixed bug in detecting old-style iterables (PY-4890)  

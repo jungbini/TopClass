@@ -1,0 +1,1 @@
+  VCS: SvnDeleteTest - fixed to be stable  

@@ -1,0 +1,1 @@
+  Use TrackingAwaiter properly to track lost exceptions. Using the static method wasn't guaranteed to catch all bugs. Also convert to a singleton since there's no reason to have multiple instances.  -- MOS_MIGRATED_REVID=102158719  

@@ -1,0 +1,1 @@
+  add recvbuffersize to input config dialogs  to aid in tuning the receive buffer sizes for inputs, we now expose the settings in the relevant inputs. enabled for both tcp and udp of the syslog, gelf and raw inputs so far. the default value is still 1MB and configurable in the graylog2.conf  fixes #454  

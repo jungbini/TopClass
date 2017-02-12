@@ -1,0 +1,1 @@
+  Added some extra exception handling when things go awry to improve debugging  

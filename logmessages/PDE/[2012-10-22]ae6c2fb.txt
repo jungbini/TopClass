@@ -1,0 +1,1 @@
+  fix problem with large fonts causing the console to disappear (issue #1275)  

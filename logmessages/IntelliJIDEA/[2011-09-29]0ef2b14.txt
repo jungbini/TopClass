@@ -1,0 +1,1 @@
+  fixed PY-4624 Comparison can be simplified: false positive for math equations  

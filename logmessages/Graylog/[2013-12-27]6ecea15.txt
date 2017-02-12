@@ -1,0 +1,1 @@
+  stream and dashboard styling changes. fixes #413  

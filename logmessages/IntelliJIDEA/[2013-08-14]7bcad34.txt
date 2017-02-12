@@ -1,0 +1,1 @@
+ fixed PY-10443 Chameleon: metal namespace prefix should be available without explicit namespace declaration  

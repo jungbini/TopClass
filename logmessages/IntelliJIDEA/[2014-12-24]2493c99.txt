@@ -1,0 +1,1 @@
+  EA-63550: fix IAE in JBListTable row animation when animated row is deleted  

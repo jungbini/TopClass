@@ -1,0 +1,1 @@
+  Collapse tag fix: sentence capitalization  

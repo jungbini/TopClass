@@ -1,0 +1,1 @@
+  buck.py perf [7/7]: Add optional BSER buck.py output format support  Summary: This is part 7 of 7 of a series of big performance fixes to the `buck.py` parser of `BUCK` files.  In this 

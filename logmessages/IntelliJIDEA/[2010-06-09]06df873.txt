@@ -1,0 +1,1 @@
+  Platform guessing in Maven tests fixed  

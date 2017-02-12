@@ -1,0 +1,1 @@
+  Include the RuleKey on both BuildRuleEvent.Started and BuildRuleEvent.Finished.  Summary: This should make it considerably easier to debug caching issues.  Test Plan: Sandcastle builds. Inspect build.trace after doing a build and verify that RuleKeys are present.  

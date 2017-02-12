@@ -1,0 +1,1 @@
+  fix for bug #820, problems with error parsing in compiler (only parse one)  

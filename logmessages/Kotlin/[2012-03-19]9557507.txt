@@ -1,0 +1,1 @@
+  replace "0" suffix in variable names  

@@ -1,0 +1,1 @@
+  Use AbstractProjectBuilderSpec in announce  - This *should* work now that the `@UsesNativeServices` annotation has been fixed to intercept earlier calls in the Spock Spec lifecycle.  

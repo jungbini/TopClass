@@ -1,0 +1,1 @@
+  Schema: fixed corner cases where management of classes was out of lock  

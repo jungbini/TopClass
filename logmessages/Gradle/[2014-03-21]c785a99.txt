@@ -1,0 +1,1 @@
+  Those changes should affect regular compile. Some fixes to the incremental java compilation so that the feature is usable in 1.12. However, the feature is not documented and not announced yet (and should stay this way until 2.0).  

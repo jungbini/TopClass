@@ -1,0 +1,1 @@
+  YARN-188. Coverage fixing for CapacityScheduler (Aleksey Gorshkov via bobby)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1409827 13f79535-47bb-0310-9956-ffa450edef68  

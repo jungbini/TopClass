@@ -1,0 +1,1 @@
+  [testGuiFramework] fix library jsr305 dependency  

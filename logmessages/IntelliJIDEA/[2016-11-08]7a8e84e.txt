@@ -1,0 +1,1 @@
+  [vcs]: NewEditChangelistPanel cosmetic fixes  * IDEA-107357, IDEA-86333;  

@@ -1,0 +1,1 @@
+ Merge pull request #4029 from watou/ecobee-action-oh2  [ecobee action] OH2 Compatibility (fixes #3963)  commit 23bd227e2068d2309833fa960471f4e2599cf79a  Fixed javascript that was breaking the colorpicker.  This fixes #3864.  

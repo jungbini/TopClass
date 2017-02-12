@@ -1,0 +1,1 @@
+  Changed the module of the run config that is generated as a part of 'gradle idea'. This run config can be used to debug gradle builds from IDEA. Module change was necessary because some hacks were removed from launcher idea/eclipse configuration.  

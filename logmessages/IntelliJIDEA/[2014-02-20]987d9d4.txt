@@ -1,0 +1,1 @@
+  IDEA-120931 Threads tree in "Debugger" pane displays incorrect thread name  

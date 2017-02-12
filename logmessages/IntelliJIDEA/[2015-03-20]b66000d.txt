@@ -1,0 +1,1 @@
+  debugger: instruction parser should stop on code offset, not instruction index  

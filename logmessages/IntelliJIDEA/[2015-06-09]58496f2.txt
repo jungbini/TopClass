@@ -1,0 +1,1 @@
+  fix horizontal popup layout, restore gap between content and top popup's border  

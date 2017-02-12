@@ -1,0 +1,1 @@
+  [git] rename method parameters to a more clear name & fix the paths  

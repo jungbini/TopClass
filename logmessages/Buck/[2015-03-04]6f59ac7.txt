@@ -1,0 +1,1 @@
+  HttpArtifactCache: use fixed streaming mode  Summary: This switches from "chunked" to "fixed" streaming mode which means we now set the `Content-Length` header.  This allows the server side to get a better hint at the artifact size for generated input buffers.  Test Plan: checked for this in test  

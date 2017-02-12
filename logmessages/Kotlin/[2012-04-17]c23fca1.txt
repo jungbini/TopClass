@@ -1,0 +1,1 @@
+  Remove analyzeProjectWithCache with caching on project. It's used nowhere, gives cycles in resolve and produce second copy of binding context.  KT-1792 UI freeze and AssertionError in log #KT-1792 fixed  

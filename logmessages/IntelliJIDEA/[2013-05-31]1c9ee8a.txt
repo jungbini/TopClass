@@ -1,0 +1,1 @@
+  implement BetterPrefixMatcher.matchingDegree so that it affects the sorting (IDEA-107540)  

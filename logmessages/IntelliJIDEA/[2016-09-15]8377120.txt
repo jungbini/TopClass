@@ -1,0 +1,1 @@
+  PY-20744 Consider variable annotations only in current file to prevent unstabbing everywhere  It will be fixed eventually when we start storing annotations for parameter, functions and target expressions in stub files and process them using PyTypeParser only.  

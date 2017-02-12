@@ -1,0 +1,1 @@
+  jsdebugger: jump to source from variables view  

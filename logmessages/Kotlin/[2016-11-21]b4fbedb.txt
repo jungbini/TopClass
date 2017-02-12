@@ -1,0 +1,1 @@
+  Update selenium to 2.52.0 to fix strange behavior in one of js tests. This selenium requires jre7 to run.  

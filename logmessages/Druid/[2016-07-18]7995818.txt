@@ -1,0 +1,1 @@
+  Increase test timeout to prevent failing on slow machines (#3224)  constantly timing out on one of slow build machines, increasing the timeout fixed it.  Running io.druid.granularity.QueryGranularityTest Tests run: 33, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.776 sec - in io.druid.granularity.QueryGranularityTest  

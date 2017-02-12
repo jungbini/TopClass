@@ -1,0 +1,1 @@
+  IDEA-47083    Quickfix to convert Java-style array creation to Groovy-style  

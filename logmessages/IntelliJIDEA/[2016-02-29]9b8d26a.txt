@@ -1,0 +1,1 @@
+  Plugin advertiser should suggest to enable disabled required by dependency plugins #IDEA-150127 fixed  

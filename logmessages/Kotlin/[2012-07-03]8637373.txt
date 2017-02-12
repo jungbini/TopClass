@@ -1,0 +1,1 @@
+  disabled mvn compile of JS tests until  we fix: java.lang.IllegalStateException: null at (5,10) in /stdlib/JUMaps.kt.jet  

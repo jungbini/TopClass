@@ -1,0 +1,1 @@
+  Fixed bugs in unused local variables inspection for nested functions (PY-3076, PY-3118)  

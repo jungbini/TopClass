@@ -1,0 +1,1 @@
+  revert Groovy version that Gradle ships with to 1.8.6  - 1.8.8 still suffers from GROOVY-5630, which has been fixed for 1.8.9 - tests and samples stay on 1.8.8  

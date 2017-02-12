@@ -1,0 +1,1 @@
+  Fix all "ambiguous first argument" warnings.  These typically happen when a potential operator like - or / start the first argument. The fix is to make it unambiguous that you're doing a call, not a math expression.  

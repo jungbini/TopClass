@@ -1,0 +1,1 @@
+  the autocompleter adds a colon in the end when I press over a suggestion of the fields of a struct, fix #1545  

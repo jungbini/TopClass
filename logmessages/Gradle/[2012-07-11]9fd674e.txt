@@ -1,0 +1,1 @@
+  fixed GRADLE-2383: GroovyCompile task uses `options.listFiles` instead of `groovyOptions.listFiles`  - also switched from 2.0.0-beta-3 to 2.0.0 for Groovy compiler integration specs  

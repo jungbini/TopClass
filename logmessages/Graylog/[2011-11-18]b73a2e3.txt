@@ -1,0 +1,1 @@
+  now showing message queue info in health page  fixes #WEBINTERFACE-146  

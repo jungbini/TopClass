@@ -1,0 +1,1 @@
+  fix mess in editor after reformat when soft wraps are enabled (make sure bulk mode start/finish events always come in proper order)  

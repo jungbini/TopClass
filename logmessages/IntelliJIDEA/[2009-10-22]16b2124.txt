@@ -1,0 +1,1 @@
+  fix macro replacements: skip relative paths to root to not walk relatively under root dir  

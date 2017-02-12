@@ -1,0 +1,1 @@
+  Inline aliases before type checking  Fix #1053 and fix #1062 on github issue tracker ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=101134965  

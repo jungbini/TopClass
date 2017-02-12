@@ -1,0 +1,1 @@
+  cqlsh: fix DESCRIBE KEYSPACES  Patch by Mike Adamson; reviewed by Tyler Hobbs for CASSANDRA-9693  

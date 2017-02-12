@@ -1,0 +1,1 @@
+  implicitReceiversUtils: Script descriptors are implicit receivers  This fixes completion in repl  

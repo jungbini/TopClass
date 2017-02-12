@@ -1,0 +1,1 @@
+  Fixed bug on unmarshalling JSON with custom types: the type wasn't set in the ODocument created.  

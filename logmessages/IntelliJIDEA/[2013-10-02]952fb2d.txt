@@ -1,0 +1,1 @@
+  prevent debugger fragment psi to be gc-ed and a plain java file recreated instead (EA-47504)  

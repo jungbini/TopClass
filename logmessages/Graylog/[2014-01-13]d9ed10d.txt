@@ -1,0 +1,1 @@
+  style streams & dashboard permissions. fixes #466  

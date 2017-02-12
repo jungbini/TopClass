@@ -1,0 +1,1 @@
+  use ExtendedLogger from log4j2 instead of Logger pass Logger class name to logIfEnabled, this fixes the logging of method/line# as Log4j2LogDelegate#log:151  Signed-off-by: alexlehm <alexlehm@gmail.com>  

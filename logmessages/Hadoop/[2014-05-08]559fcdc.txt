@@ -1,0 +1,1 @@
+  svn merge -c 1593357 merging from trunk to branch-2 to fix:HADOOP-10581. TestUserGroupInformation#testGetServerSideGroups fails. Contributed by Mit Desai.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1593358 13f79535-47bb-0310-9956-ffa450edef68  

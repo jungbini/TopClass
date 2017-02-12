@@ -1,0 +1,1 @@
+  Fixed bug where blaze run with the --color=no flag was still printing out in color when the build fails.  Includes fix for problems causing the original slowdown to blaze query  -- MOS_MIGRATED_REVID=99755414  

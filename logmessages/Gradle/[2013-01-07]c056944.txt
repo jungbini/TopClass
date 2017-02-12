@@ -1,0 +1,1 @@
+  revert default findbugs version to 2.0.1 because 2.0.2 still isn't available from maven central  

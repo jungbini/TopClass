@@ -1,0 +1,1 @@
+ Replace make-distribution.sh with mvn to build spark  no need for dist.sh  remove unappropriate statement  minor fixes  

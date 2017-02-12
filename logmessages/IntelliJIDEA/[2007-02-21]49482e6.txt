@@ -1,0 +1,1 @@
+  fix for select in in Scala  

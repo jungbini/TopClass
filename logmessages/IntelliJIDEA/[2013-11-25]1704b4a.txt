@@ -1,0 +1,1 @@
+  DRY bug fixed  *event presentation should be modified, not templatePresentation  

@@ -1,0 +1,1 @@
+  PY-18820 Use None instead of NoneType in generated annotations to conform to PEP 484  Probably it should be fixed on debugger side later, though.  

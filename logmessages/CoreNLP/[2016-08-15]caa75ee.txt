@@ -1,0 +1,1 @@
+  Fix bug in CRFClassifier main; better document readAndWriter fields.  

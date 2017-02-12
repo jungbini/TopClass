@@ -1,0 +1,1 @@
+  avoid assert on getDebugProcess  

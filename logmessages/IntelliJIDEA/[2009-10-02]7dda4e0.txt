@@ -1,0 +1,1 @@
+  introduce variable: this qualifier fix for non-inheritor (IDEADEV-36449)  

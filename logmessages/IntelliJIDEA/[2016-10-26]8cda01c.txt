@@ -1,0 +1,1 @@
+  [grails] fix UnsupportedOperationException (IDEA-163162)  

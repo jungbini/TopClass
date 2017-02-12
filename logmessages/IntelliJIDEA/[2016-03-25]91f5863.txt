@@ -1,0 +1,1 @@
+  reuse utility code to resolve CSS import references; improve the previous fix by making it CSS-specific (WEB-20021, IDEA-CR-9576)  

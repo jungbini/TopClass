@@ -1,0 +1,1 @@
+  Minor fix: Turning on TCP NODELAY in the Simple Consumer. This fix has a significant impact on single fetch request performance from a latency standpoint  git-svn-id: https://svn.apache.org/repos/asf/incubator/kafka/trunk@1339944 13f79535-47bb-0310-9956-ffa450edef68  

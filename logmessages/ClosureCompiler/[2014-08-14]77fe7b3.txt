@@ -1,0 +1,1 @@
+  Destructuring: Fix a silly bug in which we were passing the wrong parent node to visit().  This causes a couple Traceur tests to start passing. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=73324707  

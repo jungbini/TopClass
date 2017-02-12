@@ -1,0 +1,1 @@
+  present proper error page when no master node is available  this page will only been shown for resources that need a master node, detecting the case will be done via a system notification in the server, too, so that users are alerted early.  this might need a few wording changes an a support link, too  fixes #482  

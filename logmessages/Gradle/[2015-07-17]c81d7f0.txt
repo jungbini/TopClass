@@ -1,0 +1,1 @@
+  fix extracting task path information from testdescriptor when also tracking Generic Operation types  +review REVIEW-5553  

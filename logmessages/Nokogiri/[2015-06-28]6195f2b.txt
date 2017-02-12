@@ -1,0 +1,1 @@
+  Fix native build on Windows.  This depends on a fixed version of mini_portile in regards to the handling of configure_options. I therefore assigned a git link in the Gemfile, temporary.  Rubys stdlib shellwords is generelly an issue on Windows. It's sadly, but Windows uses several 

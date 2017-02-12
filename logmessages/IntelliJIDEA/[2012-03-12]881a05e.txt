@@ -1,0 +1,1 @@
+  fixed PY-5990 Code compatibility inspection false positive when using relative imports  

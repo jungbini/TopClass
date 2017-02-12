@@ -1,0 +1,1 @@
+  Fix metrics.prefix config parsing  The logic attempting to read to read the metrics.prefix key was used the wrong config subset; moved to GraphDatabaseConfiguration#configureMetrics()  

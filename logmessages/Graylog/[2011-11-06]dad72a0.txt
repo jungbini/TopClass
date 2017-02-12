@@ -1,0 +1,1 @@
+  Raise exception if mongodb_useauth is true but mongodb_user and mongodb_password are missing, fixes SERVER-45  

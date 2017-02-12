@@ -1,0 +1,1 @@
+  xdebugger api: added convenient method  

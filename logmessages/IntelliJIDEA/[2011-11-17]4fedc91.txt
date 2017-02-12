@@ -1,0 +1,1 @@
+  AppCode:Debugger:GDB: correctly initialize gdb for simulator (OC-2413, OC-2443)  

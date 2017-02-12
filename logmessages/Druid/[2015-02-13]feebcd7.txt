@@ -1,0 +1,1 @@
+ Merge pull request #1117 from druid-io/update-pom  update poms for bb collections for druid-api for bug fixes  commit 5fa839888c2e1167c4e66e30db60c562dc0efecc  Merge pull request #1118 from metamx/fix-integration-tests  fix-tests  commit feebcd757fc9763eba4bf82c7ade59a257e51b98  fix-tests  add columns to parseSpec  

@@ -1,0 +1,1 @@
+  cc_configure: fix issues with CentOS 6.7 and custom gcc  This setup was provided on issue #760.  -- MOS_MIGRATED_REVID=116656431  

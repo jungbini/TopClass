@@ -1,0 +1,1 @@
+  KT-1648 Function0<Tuple0> appears in the result of the Implement abstract members quick fix #KT-1648 fixed  

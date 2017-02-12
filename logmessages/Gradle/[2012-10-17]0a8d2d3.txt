@@ -1,0 +1,1 @@
+  Changed IvyDynamicRevisionRemoteResolveIntegrationTest to use IvyHttpRepository fixture.  

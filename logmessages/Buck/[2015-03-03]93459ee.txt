@@ -1,0 +1,1 @@
+  Increase max log size  Summary: Using this to debug a series of commands, one of which is over the 25MB size limit, and so gets cleaned on subsequent commands.  Test Plan: Ran a series of builds with large log files and verified that we kept logs around larger than 25MB.  

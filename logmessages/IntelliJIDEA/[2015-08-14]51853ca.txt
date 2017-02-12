@@ -1,0 +1,1 @@
+  IDEA-126257 JDK 1.8: Debugger doesn't show variables *outside* lambda - better check for found variable  

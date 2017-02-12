@@ -1,0 +1,1 @@
+  added a lot of tests fix typized variable declarations reorganized node consept (methods, etc.)  

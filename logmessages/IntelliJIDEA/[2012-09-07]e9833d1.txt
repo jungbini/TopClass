@@ -1,0 +1,1 @@
+  vcs: fix: wrong grouping for deleted files (if they were alone in module) - module wasn't shown  

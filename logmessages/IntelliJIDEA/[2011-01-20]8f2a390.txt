@@ -1,0 +1,1 @@
+  register override default constructor fix if it throws exception (IDEA-64338 )  

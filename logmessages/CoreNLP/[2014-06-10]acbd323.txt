@@ -1,0 +1,1 @@
+  fixed a bug with terms variable, changed all redwood.force to a changable name, consolidated all debug options to one  

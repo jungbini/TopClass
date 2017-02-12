@@ -1,0 +1,1 @@
+  Spellchecker plugin: add test data (color value is not checked anymore (WI-636 fixed))  

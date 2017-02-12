@@ -1,0 +1,1 @@
+  git: IDEA-152101 fix "accept theirs"/merge for modified-deleted conflict  The fix to IDEA-151317 (df02948c) added "--" at the end of all `git show` commands. That caused Git report 

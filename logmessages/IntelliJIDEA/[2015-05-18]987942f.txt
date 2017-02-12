@@ -1,0 +1,1 @@
+  IDEA-138472 Cannot step into current line when debug groovy code suppose the extension is not ".groovy"  

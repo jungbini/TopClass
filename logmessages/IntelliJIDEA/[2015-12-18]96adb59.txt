@@ -1,0 +1,1 @@
+  if vm is not bootstrapped and no jb debugger support, so, script added from initial Scripts message, only jb debugger support reports sourceMapUrl and any breakpoint is not yet in action (we just connected and scripts were already parsed and executed), so, we must invoke doFindSourceMap explicitly  updated netty (actually, we already use b8 version)  

@@ -1,0 +1,1 @@
+  [java] fixes compiler module path composition (IDEA-158385)  

@@ -1,0 +1,1 @@
+  fixed hanging action if text is empty  

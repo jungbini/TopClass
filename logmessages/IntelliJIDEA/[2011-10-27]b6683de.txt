@@ -1,0 +1,1 @@
+  update plugins notification : links fixed (IDEA-76058)  

@@ -1,0 +1,1 @@
+  IDEA-124497 Debugger: "Resume/Pause Program" in menu "Run" is active active  

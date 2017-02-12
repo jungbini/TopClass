@@ -1,0 +1,1 @@
+  IDEA-128288 Debugger hints do not expand  

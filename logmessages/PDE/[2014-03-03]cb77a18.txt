@@ -1,0 +1,1 @@
+  fixes #2345, and also a bug in the coordinates passed to drawTexture() in the Texture class.  

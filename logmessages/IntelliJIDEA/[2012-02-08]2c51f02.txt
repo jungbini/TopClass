@@ -1,0 +1,1 @@
+  GitMergeOperation: fix "already up-to-date" situation detection  

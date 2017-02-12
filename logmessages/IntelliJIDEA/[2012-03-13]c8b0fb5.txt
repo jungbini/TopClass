@@ -1,0 +1,1 @@
+  fixed PY-5546 Too many quotes when replacing text by dict key insertion handler.  

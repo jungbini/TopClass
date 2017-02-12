@@ -1,0 +1,1 @@
+  IDEA-92797 Run/Debug Configurations: "Use alternative JRE" input field is misaligned in JUnit configuration  

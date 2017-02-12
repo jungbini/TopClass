@@ -1,0 +1,1 @@
+  fixed issue #4885 - SQL UPDATE SET fails when Strings contains quotes  

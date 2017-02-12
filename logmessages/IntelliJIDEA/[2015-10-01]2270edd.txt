@@ -1,0 +1,1 @@
+  fixed EA-72735 - NPE: PyDocumentationBuilder.build  

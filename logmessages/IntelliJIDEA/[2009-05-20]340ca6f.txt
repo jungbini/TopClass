@@ -1,0 +1,1 @@
+  "XML tag has empty body" should consider browser's HTML bugs (IDEADEV-36924)  

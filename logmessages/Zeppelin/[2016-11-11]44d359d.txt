@@ -1,0 +1,1 @@
+double click in markdown editor bug  

@@ -1,0 +1,1 @@
+  scopes description; fix focus when add scope/profile etc speed search improvements propagation  

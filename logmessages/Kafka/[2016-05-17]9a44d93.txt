@@ -1,0 +1,1 @@
+ annotations due to LGPL license 2d3d714 [Ismael Juma] Use local exclusion for `jline` and `netty` 482b6c0 [Ismael Juma] Exclude `jline` and `netty` dependencies in the `streams` project  

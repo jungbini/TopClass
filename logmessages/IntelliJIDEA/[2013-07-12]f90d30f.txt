@@ -1,0 +1,1 @@
+  fixed PY-10104 Web2Py: missing completion of base template keywords (block, extend etc)  

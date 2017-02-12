@@ -1,0 +1,1 @@
+ Merge pull request #1917 from deeplearning4j/ab_datasetfnfix  Fix bug with DataVecDataSetFunction + add additional test  commit 35cb4dde5089766fce7639e4bff87a308cfbc453  Fix bug with DataVecDataSetFunction + add additional test  

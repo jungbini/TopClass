@@ -1,0 +1,1 @@
+  Added stdlib function withIndices() converting sequence (Iterable) to sequence of index-value pairs.  #KT-1195 fixed  

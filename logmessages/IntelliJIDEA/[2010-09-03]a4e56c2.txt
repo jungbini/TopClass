@@ -1,0 +1,1 @@
+  moved common JVM arguments for all builds to utils.gant changed debug port to 5555 to avoid conflicts  

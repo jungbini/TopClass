@@ -1,0 +1,1 @@
+  Bad location exception while scrolling bug fix  

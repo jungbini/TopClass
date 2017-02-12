@@ -1,0 +1,1 @@
+  moduleWithLibraries scope fix, check for junit.jar availability fix.  

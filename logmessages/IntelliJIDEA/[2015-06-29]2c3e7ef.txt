@@ -1,0 +1,1 @@
+  JavaChainLookupElement: throw no assertion, but generate incorrect code (in hope the user will report the scenario) (EA-54418 - Throwable: DebugUtil.currentStackTrace)  

@@ -1,0 +1,1 @@
+  fixed PY-12401 inline refactoring looses comments  

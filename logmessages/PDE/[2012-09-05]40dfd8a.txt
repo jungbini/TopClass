@@ -1,0 +1,1 @@
+  doesn't apply perspective correction when the projection matrix is orthographic, fixes issue 1207.  

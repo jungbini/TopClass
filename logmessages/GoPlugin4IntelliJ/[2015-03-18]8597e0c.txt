@@ -1,0 +1,1 @@
+  fix #1394: Unbound closure variable is not resolved if the closure is defined in a function call  

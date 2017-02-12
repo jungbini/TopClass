@@ -1,0 +1,1 @@
+  KAFKA-2202: fix consumerTimeoutMs computation on ConsumerPerformance; reviewed by Guozhang Wang  

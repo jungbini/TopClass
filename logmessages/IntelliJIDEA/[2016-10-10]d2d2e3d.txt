@@ -1,0 +1,1 @@
+  Quickfix for https://ea.jetbrains.com/browser/ea_reports/1221217  

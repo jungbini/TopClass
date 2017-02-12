@@ -1,0 +1,1 @@
+  Update build_release.sh script, fixes #818  

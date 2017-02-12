@@ -1,0 +1,1 @@
+  NPE when throwable.toString() returns null (wierd...) fixed.  

@@ -1,0 +1,1 @@
+  IDEA-83338 Groovy: Debugger: Quick Evaluate doesn't work for selection in classes  

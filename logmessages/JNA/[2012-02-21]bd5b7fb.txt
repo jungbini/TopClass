@@ -1,0 +1,1 @@
+ Improved fix for empty string array registry types.  

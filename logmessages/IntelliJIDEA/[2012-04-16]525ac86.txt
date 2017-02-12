@@ -1,0 +1,1 @@
+  refix IDEA-55859 Invalid autocomplete suggestion on double Ctrl+Shift+Space  

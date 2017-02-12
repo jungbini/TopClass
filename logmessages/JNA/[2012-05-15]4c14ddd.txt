@@ -1,0 +1,1 @@
+  Commenting out Netapi32UtilTest.testGetUserInfo  The default behaviour of getUserInfo() in the absence of a domain name seems to be to fail, but this was already occurring without my fix.  

@@ -1,0 +1,1 @@
+  trival fix to remove a 0 byte file  git-svn-id: https://svn.apache.org/repos/asf/incubator/kafka/branches/0.8@1383464 13f79535-47bb-0310-9956-ffa450edef68  

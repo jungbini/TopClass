@@ -1,0 +1,1 @@
+  fix the example assembly and have better error logging for rabbitmq  

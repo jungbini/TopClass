@@ -1,0 +1,1 @@
+  fixed property in unresolved ref expression added property  looks like x = property(getx, setx, delx, "I'm the 'x' property.")  

@@ -1,0 +1,1 @@
+  Renamed Xslt1ContextProvider back to XsltContextProvider to maintain compatibility with the xslt debugger  

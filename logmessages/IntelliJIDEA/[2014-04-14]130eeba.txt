@@ -1,0 +1,1 @@
+  IDEA-110736 Java autoformatter adds brackets when it shoulnd't, reverted fix for IDEA-87969  

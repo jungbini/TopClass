@@ -1,0 +1,1 @@
+  generate getter & setter for Groovy, fix generate constructor  

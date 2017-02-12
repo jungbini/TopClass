@@ -1,0 +1,1 @@
+  Easy: Fix typo referencedContainer -> ReferencedContainer in SchemeGenerator  Summary: XML is case-sensitive. We accidentally had a property named "referencedContainer" which should have been "ReferencedContainer", causing #4670037.  This fixes the issue and adds a test.  Test Plan: Wrote test, confirmed it failed. Applied fix, test no longer fails.  

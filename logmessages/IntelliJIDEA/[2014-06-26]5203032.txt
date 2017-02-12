@@ -1,0 +1,1 @@
+  increase responsiveness in remote debugging - increased priority for variables update  

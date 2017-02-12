@@ -1,0 +1,1 @@
+  fixed GRADLE-1323: upgrade codenarc plugin to codenarc 0.12  

@@ -1,0 +1,1 @@
+  fix(auth): set device_title type t VARCHAR(255)  

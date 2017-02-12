@@ -1,0 +1,1 @@
+  IAE fix (check that getVirtualFile() is not null)  

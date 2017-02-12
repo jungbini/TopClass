@@ -1,0 +1,1 @@
+  Port fix for #776 Resuming with Serializers  

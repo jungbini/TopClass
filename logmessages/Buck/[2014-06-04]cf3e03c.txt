@@ -1,0 +1,1 @@
+  Remove step to assert that string-as-assets files exist.  Summary: I added this back when I was debugging why some APKs were missing the string asset files. It's been a while since I fixed the bug, so remove this.  Test Plan: buck test --all  

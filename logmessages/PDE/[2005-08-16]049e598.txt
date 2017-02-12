@@ -1,0 +1,1 @@
+  fixing binary image files, some changes to run in windows apache/php  

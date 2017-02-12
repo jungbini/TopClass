@@ -1,0 +1,1 @@
+  fix web color error (bug #196) and refactor RunnerException a bit  

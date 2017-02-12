@@ -1,0 +1,1 @@
+  Fix a bug in the Text added to an Annotation made from a list of CoreMaps  

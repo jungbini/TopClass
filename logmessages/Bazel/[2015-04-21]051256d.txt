@@ -1,0 +1,1 @@
+  This should fix the shell tests.  - expectation in testSimpleKillableObserver is wrong - work around race condition in testSimpleKillableObserver by sleeping - make FutureConsumptionTest thread-safe  Thanks to Adrian Colley for the report.  -- MOS_MIGRATED_REVID=91678160  

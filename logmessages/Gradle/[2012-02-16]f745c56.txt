@@ -1,0 +1,1 @@
+  More tests (and fixes) for dynamic extensions implementing Groovy behaviour.  

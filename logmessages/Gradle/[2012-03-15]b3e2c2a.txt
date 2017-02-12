@@ -1,0 +1,1 @@
+  GRADLE-971: Add integration test to show that issue is not yet fixed  

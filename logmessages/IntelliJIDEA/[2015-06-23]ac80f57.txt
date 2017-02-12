@@ -1,0 +1,1 @@
+  correctly map lambdas if there's more than one debugger location is mapped on the line  

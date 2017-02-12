@@ -1,0 +1,1 @@
+  Adds v13 support library in the default android repository template. v13 library doesn't have resources like v4 library. So adding only the jar dependency should work.  That fixes https://github.com/bazelbuild/bazel/issues/827  -- Change-Id: I1b8e5e2a359472ab9525a1910ac5050c4fb2c9a7 Reviewed-on: https://bazel-review.googlesource.com/#/c/2790/ MOS_MIGRATED_REVID=113344673  

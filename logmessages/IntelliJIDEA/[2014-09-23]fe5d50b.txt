@@ -1,0 +1,1 @@
+  enable implement and override methods for PsiCodeFragments, useful in debugger evaluation code fragment  

@@ -1,0 +1,1 @@
+  [andrey] DB error reporting fix and more logging  

@@ -1,0 +1,1 @@
+ectly create a proper `ModelView` so that the "no value" case is handled directly by `ModelReferenceNode` itself.  This should fix the IBM JDK 6 VerifyError along the way as the generated `ModelView` is now aware of its state.  +review REVIEW-5734  

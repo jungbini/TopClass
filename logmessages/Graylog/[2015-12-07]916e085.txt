@@ -1,0 +1,1 @@
+  properly remove roles from users when the role is deleted  - local admin users are not touched - when resolving roles of a user do not throw an exception for missing roles, it prevented the user from being editable - integration tests for role removal  fixes #1608  

@@ -1,0 +1,1 @@
+  GRADLE-3525 Shade javax.servlet in gradleApi  Before this works, we need to dump the wrapper to build Gradle to a nightly including this change. Setting the excludes would work from the build script but since I also fixed a bug in the implementation of PackageListGenerator we need to build this with a later version of Gradle  

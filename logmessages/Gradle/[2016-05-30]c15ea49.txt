@@ -1,0 +1,1 @@
+  Remove old 'sonar' subproject directory  Since the Gradle project was removed, Gradle will not clean the old subproject directory automatically. This results in pollution of our 'test-files' outputs on some agents. This fix will force 'clean' on the agent to remove the subprojects/sonar directory entirely.  

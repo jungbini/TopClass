@@ -1,0 +1,1 @@
+  bug fixes: - index writes that happen during index-build process - fix circular Table.open during index creation by passing Table object to CFS instead of String name - avoid writing empty index sstables  patch by jbellis; reviewed by gdusbabek for CASSANDRA-1415    git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@999744 13f79535-47bb-0310-9956-ffa450edef68  

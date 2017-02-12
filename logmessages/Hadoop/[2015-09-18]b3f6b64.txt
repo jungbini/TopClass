@@ -1,0 +1,1 @@
+  YARN-4171. Fix findbugs warnings in YARN-1197 branch. Contributed by Wangda Tan  

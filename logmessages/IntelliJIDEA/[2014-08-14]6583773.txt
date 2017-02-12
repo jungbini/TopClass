@@ -1,0 +1,1 @@
+  fixed EDIDE-97 find better name for Study Toolwindow  

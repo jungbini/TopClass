@@ -1,0 +1,1 @@
+ Merge pull request #159 from nicklan/osx-fixes  Make bootstrap-conf work on OSX  commit ffeadf3aafbbfcc9ed90ccdb262ba50cadaf9da7  fix the build.  

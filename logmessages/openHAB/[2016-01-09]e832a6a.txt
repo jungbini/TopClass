@@ -1,0 +1,1 @@
+ Merge pull request #3721 from computergeek1507/myq  MyQ Device fixes  commit 3181f10fb9e6b330d1effee25be3ef87872f8fa0  Merge pull request #3731 from xalopp/souliss_t18_status_mapping  Souliss - Fix typical T18 state mapping - fixes #3730  commit e832a6a130ce5cc0570649c3ada500f09a98ef15  [db4o-persistence] fix for #3728  

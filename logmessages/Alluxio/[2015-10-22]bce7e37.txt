@@ -1,0 +1,1 @@
+ Merge pull request #1880 from aaudiber/fixHeartbeatGenerics  [SMALLFIX] Fix use of generics in HeartbeatContext  commit bce7e3708c8ca967e1ef3dff79f03e6d8163d26c  More fix to make sure the tutorial works with 0.8.0  

@@ -1,0 +1,1 @@
+  platform: fix for click-handler tests  

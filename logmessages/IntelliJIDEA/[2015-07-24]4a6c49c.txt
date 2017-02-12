@@ -1,0 +1,1 @@
+  EA-63428 - fix soft wraps recalculation for moving text within document  

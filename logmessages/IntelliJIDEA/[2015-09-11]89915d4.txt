@@ -1,0 +1,1 @@
+  xslt-debugger: license file moved from plugin to common place  

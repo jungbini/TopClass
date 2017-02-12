@@ -1,0 +1,1 @@
+  check if ddms is available before launching debug  

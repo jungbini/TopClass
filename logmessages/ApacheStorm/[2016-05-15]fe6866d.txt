@@ -1,0 +1,1 @@
+ fix typo in worker.clj  heatbeat -> heartbeat  

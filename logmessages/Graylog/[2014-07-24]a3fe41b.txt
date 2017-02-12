@@ -1,0 +1,1 @@
+  Moving all metric registration to initialize() because it's called only once  This fixes inputs that are not restartable because of failing metric registration.  

@@ -1,0 +1,1 @@
+  focus tricky fix for popup between two progresses  

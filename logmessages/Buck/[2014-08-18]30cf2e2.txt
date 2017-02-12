@@ -1,0 +1,1 @@
+  Project generation for apple_bundle rules.  Summary: Basic project generation. This does not handle dependencies correctly, so that is not currently tested, but will be fixed in a subsequent 

@@ -1,0 +1,1 @@
+  html file dialog path highlighting fixed  

@@ -1,0 +1,1 @@
+  Added licesnse info, fixed core doc, started adding Sketch perspective stuff  

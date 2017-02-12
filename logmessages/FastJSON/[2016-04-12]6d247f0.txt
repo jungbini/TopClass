@@ -1,0 +1,1 @@
+  add error info, fixed issue 'https://github.com/alibaba/fastjson/issues/537'  

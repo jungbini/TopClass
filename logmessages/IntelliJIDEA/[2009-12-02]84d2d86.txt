@@ -1,0 +1,1 @@
+  fix context menu for browser actions: should be removed on hide [r=kirillk]  

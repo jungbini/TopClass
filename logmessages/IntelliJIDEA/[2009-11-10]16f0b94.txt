@@ -1,0 +1,1 @@
+  IDEADEV-41279: DOM: QuickInfos fixed  

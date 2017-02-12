@@ -1,0 +1,1 @@
+  fix+refactor(web): draft now works fine, rewrite draft store and actions without reflux, more es6.  

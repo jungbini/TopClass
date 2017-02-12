@@ -1,0 +1,1 @@
+  fixed PY-6761 Django: create template from usage: strip quotes from the name of created template  

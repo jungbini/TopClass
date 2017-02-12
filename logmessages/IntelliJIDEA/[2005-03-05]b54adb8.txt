@@ -1,0 +1,1 @@
+  - one could add constraint for method return type (expr_type on method name) - supporting expr_type constraint when qualifier expression is implicit this type - fixed issue with matching string literal with simple substitution  

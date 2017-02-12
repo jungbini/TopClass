@@ -1,0 +1,1 @@
+  Navigate to type source for Python debugger variables.  

@@ -1,0 +1,1 @@
+  IG: quick fix for "Unary plus" inspection & highlight like unused symbol  

@@ -1,0 +1,1 @@
+  IDEA-82963 code style format setting bug  

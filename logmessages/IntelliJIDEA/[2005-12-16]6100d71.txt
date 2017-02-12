@@ -1,0 +1,1 @@
+  form inspection refactoring, phase three: introduce BaseFormInspection; fix bug with multiple form inspection tools on single component  

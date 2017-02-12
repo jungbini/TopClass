@@ -1,0 +1,1 @@
+  IDEA-50910 Add an option for debugger variables view to show a short name instead of FQN (actual class name)  

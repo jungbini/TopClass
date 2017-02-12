@@ -1,0 +1,1 @@
+  MAPREDUCE-3458. Fix findbugs warnings in hadoop-examples. (Devaraj K via mahadev) - Merging r1210190 from trunk.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1210191 13f79535-47bb-0310-9956-ffa450edef68  

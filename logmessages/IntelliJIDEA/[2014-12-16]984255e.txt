@@ -1,0 +1,1 @@
+  SegmentArrayWithData: fixed contradictory comparison in range check  

@@ -1,0 +1,1 @@
+  fixed connection to xml rpc server from Firefox extension  

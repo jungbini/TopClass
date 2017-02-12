@@ -1,0 +1,1 @@
+  Make "type mismatch" quickfixes not available in case of error types  

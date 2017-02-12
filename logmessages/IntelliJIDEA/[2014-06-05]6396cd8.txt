@@ -1,0 +1,1 @@
+  IDEA-125900 (resolve of synthetic enum methods in class files fixed)  

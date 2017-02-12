@@ -1,0 +1,1 @@
+  Checked that KT-2795 has been fixed  #KT-2795 Fixed  

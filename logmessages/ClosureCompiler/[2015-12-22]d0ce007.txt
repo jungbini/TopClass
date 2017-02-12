@@ -1,0 +1,1 @@
+ Revert "Use Guava 20.0-SNAPSHOT and GWT 2.8.0-beta1 to fix the GWT build"  

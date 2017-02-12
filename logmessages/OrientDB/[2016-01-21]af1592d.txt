@@ -1,0 +1,1 @@
+  Error in check of correctness of state of modification lock in  #allowModifications() method was fixed.  

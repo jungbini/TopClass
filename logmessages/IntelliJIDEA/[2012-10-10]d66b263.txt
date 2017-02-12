@@ -1,0 +1,1 @@
+  RUBY-12217: fixed YAML lexer to process strings in arrays correctly  

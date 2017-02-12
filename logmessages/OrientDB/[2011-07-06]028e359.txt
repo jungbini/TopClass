@@ -1,0 +1,1 @@
+  SQL Query with indexes: fixed bug on polymorphic query and index usage. Now the search of indexes goes recursively to all the super classes  

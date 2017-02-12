@@ -1,0 +1,1 @@
+  Fixes #1441: fix cut&paste issue, clarify docs  

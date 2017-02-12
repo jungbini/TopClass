@@ -1,0 +1,1 @@
+  fixed bug on select of binary content, issue #5613  

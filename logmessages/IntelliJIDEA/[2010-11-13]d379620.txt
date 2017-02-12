@@ -1,0 +1,1 @@
+  GitExecutableValidator fix: 'git' returns error, so executing 'git --version'.  Can't use GitHandler, because it takes value from the GitApplicationSettings, which is unsuitable.  

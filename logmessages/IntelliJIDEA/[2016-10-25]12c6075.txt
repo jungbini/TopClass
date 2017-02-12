@@ -1,0 +1,1 @@
+  debug log is always expanded on TeamCity: yet another attempt  

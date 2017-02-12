@@ -1,0 +1,1 @@
+  Decrease verbosity of missing symbol handler interrupt exception logs.  Summary: Log.error will go to the console via ConsoleHandler, drop verbosity to debug.  Test Plan: #inprod  Reviewed By: aiked  fbshipit-source-id: c5e089d  

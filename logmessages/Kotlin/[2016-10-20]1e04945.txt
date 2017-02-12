@@ -1,0 +1,1 @@
+  CFG refactoring: get rid of mergeWithLocalDeclarations (always true) + minor style fixes  

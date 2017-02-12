@@ -1,0 +1,1 @@
+  HADOOP-12843. Fix findbugs warnings in hadoop-common (branch-2). (aajisaka)  

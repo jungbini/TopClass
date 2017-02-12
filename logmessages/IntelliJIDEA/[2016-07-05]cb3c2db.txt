@@ -1,0 +1,1 @@
+  Get rid of keeping project referencies in map, fix possible conflict between project closed and initialization methods, IDEA-158107 JsonSchemaFileTypeManager leaks project after closing  

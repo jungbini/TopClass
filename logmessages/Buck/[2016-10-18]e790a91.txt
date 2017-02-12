@@ -1,0 +1,1 @@
+  Distributed build file hash tests now use temporary folder instead of Jimfs  Summary: It isn't possible to get the canonical path for files that do not have a file:// URI prefix. Removing Jimfs usage means we don't need to add a check for this in the production code.  Test Plan: ci  Reviewed By: ruibm, marcinkosiba  fbshipit-source-id: 53c87c5  

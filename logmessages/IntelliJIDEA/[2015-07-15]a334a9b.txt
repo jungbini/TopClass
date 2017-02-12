@@ -1,0 +1,1 @@
+  Better wave painting - fixed out of clip painting  

@@ -1,0 +1,1 @@
+  Bug fix: BaseInspection has variable 'm_shortName' to cache inspection short name, but doesn't use it.  

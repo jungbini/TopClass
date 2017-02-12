@@ -1,0 +1,1 @@
+  Fix bug when instances tree was not empty after session has been resumed  

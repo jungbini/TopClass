@@ -1,0 +1,1 @@
+  DefaultFileHashCache: invalidate children of directories  Summary: When invalidating a directory, make sure to also invalidate any children it has.  This fixes a bug where genrule's which generate output directories don't properly invalidate all their outputs after they have been re-run.  Test Plan: added unittest  Reviewed By: k21  fb-gh-sync-id: e37b138  

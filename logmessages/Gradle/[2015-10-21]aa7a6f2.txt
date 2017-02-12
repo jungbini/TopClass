@@ -1,0 +1,1 @@
+  Decoupled daemon/embedded from debug/no debug to avoid convolution. In the future there might be other variants we provide to the end user e.g. daemon with debug.  +review REVIEW-5615  

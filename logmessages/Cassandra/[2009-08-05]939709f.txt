@@ -1,0 +1,1 @@
+  fix NPE on iterator close.  patch by jbellis; reviewed by Chris Goffinet for CASSANDRA-341  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@801047 13f79535-47bb-0310-9956-ffa450edef68  

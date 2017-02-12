@@ -1,0 +1,1 @@
+  RUBY-9467: IndentationParser should be prepared for cases when we do not have EOL after indentation.  #RUBY-9467 fixed  

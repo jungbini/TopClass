@@ -1,0 +1,1 @@
+  Couple assertions at project disposal time fixed.  

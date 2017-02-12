@@ -1,0 +1,1 @@
+  SuperClassHasFrequentlyUsedInheritorsInspection: class cast exception fixed (EA-57525)  

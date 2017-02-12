@@ -1,0 +1,1 @@
+  fixes empty stop words array on analyzer configuration  refs : https://github.com/orientechnologies/orientdb/issues/6934  

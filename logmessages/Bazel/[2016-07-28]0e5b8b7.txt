@@ -1,0 +1,1 @@
+  Rollforward of change that broke #1579 with test fix (need to specify ios_sdk_version and xcode_version for our CI macs)  *** Original change description ***  Remove apple_binary's implicit output _lipo.a.  This also removes the restriction that apple_binary targets must have at least one src file specified.  -- MOS_MIGRATED_REVID=128721251  

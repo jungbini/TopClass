@@ -1,0 +1,1 @@
+  removed explicit log management since LOG.debug() does all that automatically  

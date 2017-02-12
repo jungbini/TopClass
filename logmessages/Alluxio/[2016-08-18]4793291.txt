@@ -1,0 +1,1 @@
+ Merge pull request #3828 from apc999/docfix  [SMALLFIX] Document how to handle not enough space when copying files to Alluxio  commit 4793291123abc0c7f9929814dd26e6c292d286c7  [ALLUXIO-2199] Remove Test name suffix in tests module  

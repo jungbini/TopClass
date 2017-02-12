@@ -1,0 +1,1 @@
+  IDEA-105705: select word at caret: expand selection document wide for non-physical documents - fix for CamelHumps enabled  

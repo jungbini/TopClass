@@ -1,0 +1,1 @@
+  upgraded Snappy to 1.1.0 M3 to fix problem with AMD64 library does not work at some Linux distributions  

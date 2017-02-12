@@ -1,0 +1,1 @@
+  Prevent double initialization in codegen tests, fix ScriptGenTest#testDependentScripts  Add an assertion to prevent duplicate initialization of CodegenTestFiles instance in CodegenTestCase, which was happening in ScriptGenTest with multiple invocation of loadFile()  

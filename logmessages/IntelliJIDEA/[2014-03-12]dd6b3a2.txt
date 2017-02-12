@@ -1,0 +1,1 @@
+  added Remove call quick fix to the Trying to call a non-callable object inspection  

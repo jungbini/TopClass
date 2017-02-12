@@ -1,0 +1,1 @@
+  java: parsing of complex bounds in stub signatures fixed  

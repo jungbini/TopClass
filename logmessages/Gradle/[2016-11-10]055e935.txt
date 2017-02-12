@@ -1,0 +1,1 @@
+ell what configuration to choose whenever multiple matches are possible and those configurations contain attributes which are not provided by the consumer. For example, we can imagine a consumer asking for: `flavor=free`, but a consumer has 2 

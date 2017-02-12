@@ -1,0 +1,1 @@
+  fix wrong expected response codes in indexer: one typo, the other one changed due to batch import  

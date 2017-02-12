@@ -1,0 +1,1 @@
+  fix Message version propagation fromold nodes to new ones patch by brandonwilliams and jbellis for CASSANDRA-2818  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8@1140751 13f79535-47bb-0310-9956-ffa450edef68  

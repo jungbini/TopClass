@@ -1,0 +1,1 @@
+  fix ColumnComparatorFactoryTest.  patch by Jun Rao; reviewed by jbellis for #82  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@765020 13f79535-47bb-0310-9956-ffa450edef68  

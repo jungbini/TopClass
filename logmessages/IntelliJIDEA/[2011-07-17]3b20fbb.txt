@@ -1,0 +1,1 @@
+  added py.test runner. fixed PY-4168 PyTest: detect pytest in virtualenv installed globally for some interpreter on Windows and other detection problems  

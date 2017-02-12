@@ -1,0 +1,1 @@
+  fix styling for content pack icon in streams list. fixes #1388  

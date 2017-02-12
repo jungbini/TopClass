@@ -1,0 +1,1 @@
+  JS: coroutines: fix translation of try/finally block without catch  

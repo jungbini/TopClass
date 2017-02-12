@@ -1,0 +1,1 @@
+  fixed: failed test debug log shown always expanded  

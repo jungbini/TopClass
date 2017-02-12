@@ -1,0 +1,1 @@
+  Gradle: do not add ext prefix for kotlin_version property #KT-4690 Fixed  

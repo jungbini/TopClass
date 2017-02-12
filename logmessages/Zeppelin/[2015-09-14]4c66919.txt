@@ -1,0 +1,1 @@
+ HomeCtrl, clean HomeCtrl to vm  

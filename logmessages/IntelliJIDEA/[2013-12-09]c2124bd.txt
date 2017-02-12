@@ -1,0 +1,1 @@
+  platform: fix (notification group creation postponed)  

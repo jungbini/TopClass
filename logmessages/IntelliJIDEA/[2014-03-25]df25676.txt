@@ -1,0 +1,1 @@
+  DomUtil.hasXml: use DomElement.exists() to avoid costly getXmlElement() fixes + tests CR-IC-4788  

@@ -1,0 +1,1 @@
+  fixed NPE when toggling a breakpoint on a line with comment  

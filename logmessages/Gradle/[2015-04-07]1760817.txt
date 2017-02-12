@@ -1,0 +1,1 @@
+  Revert to an older version of wrapper because of a bug in the latest that causes IntelliJ project generation to fail.  

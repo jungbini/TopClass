@@ -1,0 +1,1 @@
+  fix problem with escapes on Copy As HTML (issue #771)  

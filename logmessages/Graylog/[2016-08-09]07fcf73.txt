@@ -1,0 +1,1 @@
+his fixes an edge case where the journal grows when there is only one input and no message can be decoded.  Fixes #2627  

@@ -1,0 +1,1 @@
+  STORM-166: fixing a bug where the leader lock was not queued due to incorrect latch state being used  

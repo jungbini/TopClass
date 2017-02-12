@@ -1,0 +1,1 @@
+  Fixed bug on SQL DELETE against index passing the RID only. Reported by Salvatore Piccione in ML  

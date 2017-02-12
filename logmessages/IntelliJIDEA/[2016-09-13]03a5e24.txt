@@ -1,0 +1,1 @@
+  IDEA-161007 ComparatorCombinatorsInspection registration in IdeaPlugin.xml fixed  

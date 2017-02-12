@@ -1,0 +1,1 @@
+  Maven: do not try to update broken indices repeatedly, UnsupportedExistingIndicesException fixed (IDEA-67512)  

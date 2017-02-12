@@ -1,0 +1,1 @@
+  MINOR: Fix building from subproject directory  This patch fixes some releative paths so bulding from a subproject directory like ($rootDir/core) will not fail  Author: Grant Henke <granthenke@gmail.com>  Reviewers: Ewen Chesklack-Postava  Closes #509 from granthenke/minor  

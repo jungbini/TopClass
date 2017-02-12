@@ -1,0 +1,1 @@
+  fix for output file by short name inside working dir (IDEA-153832)  

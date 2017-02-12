@@ -1,0 +1,1 @@
+ Merge pull request #1483 from koo-taejin/#1482  [PinpiontWeb] fix a ActiveThread concurrency problem #1482  commit 0d3b9dac479854718498574315c54d4d82da4955  [PinpiontWeb] fix a ActiveThread concurrency problem #1482  1. changed to catched Excpetion Type in to throw WebSocketSession . (IOException -> Exception) 2. changed log level.  

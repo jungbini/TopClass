@@ -1,0 +1,1 @@
+  build scripts: print output of commands executed on macbuilder to file on the agent to debug problems with ssh  

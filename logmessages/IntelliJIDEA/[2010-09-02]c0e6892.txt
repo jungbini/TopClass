@@ -1,0 +1,1 @@
+  quickfixes for inconsistent indentatio inspection (PY-1674)  

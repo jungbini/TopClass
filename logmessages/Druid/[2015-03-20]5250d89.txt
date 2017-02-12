@@ -1,0 +1,1 @@
+ Update MapDB to version 1.0.7 The update fixes a bunch of HTree issues which we have not encountered yet, but we use HTRee in many of our MapDB usages http://www.mapdb.org/changelog.html#Version_107_2015-02-19  

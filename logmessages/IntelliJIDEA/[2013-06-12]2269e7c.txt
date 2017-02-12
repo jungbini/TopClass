@@ -1,0 +1,1 @@
+  fix qualified names being inserted into document when creating field from usage (IDEA-53678) stabilize lookup item order  

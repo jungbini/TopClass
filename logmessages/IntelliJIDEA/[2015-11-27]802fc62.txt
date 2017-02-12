@@ -1,0 +1,1 @@
+  merge: fix freeze on merge window close with ESC (or cross)  MergeTool spends a lot of time listening to external changes. We should destroy MergeViewer before restoring initial state to avoid it (viewer can't do it itself, as on explicit 'cancel' action).  

@@ -1,0 +1,1 @@
+  DSC Alarm: Fix Premature Setting of Partition Arm Mode Item (#4416)  The binding would prematurely set the item PARTITION_ARM_MODE when issuing a partition arm command.  This would sometimes show that the partition was armed when it actually wasn't.  This fixes that situation by only setting the item when a verification message is received from the alarm system.  

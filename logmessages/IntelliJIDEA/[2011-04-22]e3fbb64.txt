@@ -1,0 +1,1 @@
+  fixed PY-3405 Incorrect indent on generating docstring for classes.  

@@ -1,0 +1,1 @@
+  fixed PY-9073 Wrong inspection of redundant parenthesis  

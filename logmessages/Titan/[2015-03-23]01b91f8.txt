@@ -1,0 +1,1 @@
+  Fix successful-boolean in index status watcher  RelationIndexStatusWatcher erroneously reported successful convergence even when an index failed to reach the target state within the time limit.  GraphIndexStatusWatcher is structurally similar but does not appear to have an equivalent bug.  

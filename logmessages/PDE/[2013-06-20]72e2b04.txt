@@ -1,0 +1,1 @@
+ fix getVertex() on PShape when no Z-coord available (#1596)  

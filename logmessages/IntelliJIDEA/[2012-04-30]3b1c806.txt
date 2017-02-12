@@ -1,0 +1,1 @@
+  IDEA-85462 Mercurial: log files are polluted with mercurial logs  Never log.info for silent commands. log.debug everything the command and the output.  

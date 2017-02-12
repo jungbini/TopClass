@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=34 ("SCOPE issue with Meteor")  Make sure the Meteor creates unique Broadcaster's name.  

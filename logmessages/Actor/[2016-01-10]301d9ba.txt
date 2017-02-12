@@ -1,0 +1,1 @@
+  fix(server:frontend): fixed packet loss in time of AuthId information obtaining  

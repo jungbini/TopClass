@@ -1,0 +1,1 @@
+  fixed XValueHint value trimming  

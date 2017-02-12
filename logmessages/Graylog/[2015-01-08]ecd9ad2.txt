@@ -1,0 +1,1 @@
+ Use graylog2.jar instead of graylog2-server.jar for timestamp fix script.  

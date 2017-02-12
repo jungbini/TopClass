@@ -1,0 +1,1 @@
+  new project wizard: fix removing all SDKs on new Haxe project creation (IDEA-129284)  

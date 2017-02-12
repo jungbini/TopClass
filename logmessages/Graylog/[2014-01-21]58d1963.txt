@@ -1,0 +1,1 @@
+  add more permission checks to templates to prevent user confusion  none of the hidden actions could've been executed by the user anyway, because the server would disallow them. just cosmetics, really.  fixes #544  

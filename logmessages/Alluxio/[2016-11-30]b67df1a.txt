@@ -1,0 +1,1 @@
+  Yarn home override  Adding the ability to override the location Yarn by setting the environment variable $YARN_HOME. On AWS EMR, Hadoop and Yarn reside in separate locations; this fixes that issue.  

@@ -1,0 +1,1 @@
+  Remove test fixture that enables transformed model rules DSL. Not required any more.  

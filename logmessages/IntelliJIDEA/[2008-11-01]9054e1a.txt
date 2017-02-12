@@ -1,0 +1,1 @@
+  DetectedSourceRootsDialog: fixed IAE (IDEADEV-30095)  

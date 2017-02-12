@@ -1,0 +1,1 @@
+  fix(web): save nick and name only when it changed;  

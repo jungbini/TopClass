@@ -1,0 +1,1 @@
+  Fix a bug when no var is synthesized for arguments.  Move the check for "arguments" to only guard error reporting, not the var synthesis. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=53821358  

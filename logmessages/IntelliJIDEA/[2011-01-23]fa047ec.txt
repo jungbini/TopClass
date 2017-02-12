@@ -1,0 +1,1 @@
+  fixed PY-2757 Nosetest runner failing on code error  

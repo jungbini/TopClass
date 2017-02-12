@@ -1,0 +1,1 @@
+  Merge -c 1505146 from trunk to branch-2 to fix YARN-897. Ensure child queues are ordered correctly to account for completed containers. Contributed by Djellel Eddine Difallah.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1505147 13f79535-47bb-0310-9956-ffa450edef68  

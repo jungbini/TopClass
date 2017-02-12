@@ -1,0 +1,1 @@
+  auto indent lines fixed for injected code (e.g. for GWT JSNI methods)  

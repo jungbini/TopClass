@@ -1,0 +1,1 @@
+  IDEA-63811 (Inline variable (via quick fix) with array initialiser leads to invalid code.)  

@@ -1,0 +1,1 @@
+  Make bazel compile error out when there's a run_silent command that fails  Also made it print the output for the problem command to make debugging easier.  -- MOS_MIGRATED_REVID=96783685  

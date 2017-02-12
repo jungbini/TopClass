@@ -1,0 +1,1 @@
+  IDEA-80597  Debug tool window: generic UI: detaching a tab with hidden view shows both the view and its icon IDEA-80595  Debug tool window: if Debugger view is split into separate views, and either Frames or Threads view is hidden, "Restore layout" completely breaks layout  

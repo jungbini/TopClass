@@ -1,0 +1,1 @@
+  EA-59076, EA-59759 - fix issues with breaking undo sequence when undo confirmation dialog is shown  

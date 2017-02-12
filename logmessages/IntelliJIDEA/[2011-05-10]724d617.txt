@@ -1,0 +1,1 @@
+  bug: when run "replace all", document size can increase dramatically  

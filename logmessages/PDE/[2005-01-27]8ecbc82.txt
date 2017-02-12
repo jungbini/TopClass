@@ -1,0 +1,1 @@
+  Title change, bug fixed in error handling, editor export button now exports MIDlet instead of Applet  

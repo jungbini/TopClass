@@ -1,0 +1,1 @@
+ fixed bug where requests-array was modified while iterating  - a call to request.close() could lead to unregistering the request by external libraries so that the second call (to clear the timeout) cannot access the request via its index anymore. Fix is to get hold of the request and operate on the instance.  

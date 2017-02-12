@@ -1,0 +1,1 @@
+  Finally fixed the problem with chained replacedBy declarations for the component replacement feature. Improved the internal model, too, and the coverage.  

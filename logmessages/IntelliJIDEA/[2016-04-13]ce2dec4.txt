@@ -1,0 +1,1 @@
+  fix problem with unexpected null value (following fix for IDEA-154578)  

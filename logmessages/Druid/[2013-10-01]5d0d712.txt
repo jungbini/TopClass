@@ -1,0 +1,1 @@
+ Merge branch 'local-index' into fix-examples  commit 5d0d71250b68845966d89e89128146e6c234070f  fix chat handler resources not correctly registering themselves  

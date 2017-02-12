@@ -1,0 +1,1 @@
+  fixed PY-3395 Stack overflow if a class is inherited from itself  

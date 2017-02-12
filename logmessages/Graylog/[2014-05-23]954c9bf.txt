@@ -1,0 +1,1 @@
+ Merge branch 'fixOutputBatching'  Conflicts: graylog2-server/src/main/java/org/graylog2/buffers/processors/OutputBufferProcessor.java  commit 954c9bf101e253ae375288530d2a1d96191bdf4d  merge 0.20 without the fixOutputBatching changes.  those changes should come from the master-related branch  

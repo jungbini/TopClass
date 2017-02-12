@@ -1,0 +1,1 @@
+  fix caching for search results (#3119)  * fix caching for search results  properly read count when reading from cache.  * fix NPE during merging search count and add test  * Update cache key to invalidate prev results  

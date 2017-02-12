@@ -1,0 +1,1 @@
+  Replaced ToolingApi.isEmbedded with requireDaemons() to make clearer what the test expects, and to allow the fixture to choose between running the daemon from the classpath or a distribution based on the test suite.  

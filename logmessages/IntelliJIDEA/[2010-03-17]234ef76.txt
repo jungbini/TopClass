@@ -1,0 +1,1 @@
+  Maven: erroneously highlighted required properties fix (IDEA-52681) Maven: improved plugin parameters documentation  

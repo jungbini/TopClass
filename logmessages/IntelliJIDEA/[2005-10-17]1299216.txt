@@ -1,0 +1,1 @@
+  Rename/Move: //IDEA/debugger-impl/debugger-impl.iml To: //IDEA/debugger/debugger-impl.iml  

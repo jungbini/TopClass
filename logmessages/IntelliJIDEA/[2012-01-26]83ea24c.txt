@@ -1,0 +1,1 @@
+  IDEA-80345 Debug tool window: generic UI: mouse pointer over splitter between views drops the view to the tab row  

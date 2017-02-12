@@ -1,0 +1,1 @@
+  Fixed bug in security: the password wasn't changed because the trigger didn't tell to the called that the record is changed.  

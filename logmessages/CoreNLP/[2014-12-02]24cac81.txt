@@ -1,0 +1,1 @@
+  Fix the bug that config.numPreComputed < pre-computed keys in model file Throw an exception if embeddingSize does not match the dim. of embedding file  

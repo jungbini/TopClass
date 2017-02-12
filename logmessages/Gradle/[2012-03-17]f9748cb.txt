@@ -1,0 +1,1 @@
+  GRADLE-1412 the dependency attribute on the dependent project libs should also be set for variable-augmented library entries. Added coverage & fix. Fixed minor issue in the eclipse model.  

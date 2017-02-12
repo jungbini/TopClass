@@ -1,0 +1,1 @@
+aves short-cf-names disabled by default.  The short-cf-names option continues to default to disabled on 0.4.x because enabling it would be a database-breaking change.  (cherry picked from commit b533a2d18df9a90aa4913d542b7f21b8d1d7a08b)  Conflicts: titan-hbase/src/main/java/com/thinkaurelius/titan/diskstorage/hbase/HBaseStoreManager.java  

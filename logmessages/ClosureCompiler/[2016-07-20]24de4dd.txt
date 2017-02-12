@@ -1,0 +1,1 @@
+  Moves the 'super' transpilation pass before arrow function transpilation to fix https://github.com/google/closure-compiler/issues/1907.  This also requires us to move the Dart pass earlier in the order.  RELNOTES: none  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=127952189  

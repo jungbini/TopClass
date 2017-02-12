@@ -1,0 +1,1 @@
+  IDEA-114256 Completion popup should prefer option without prefix  

@@ -1,0 +1,1 @@
+  CreateHtmlDescriptionFix: minor refactoring, fix failing tests (quick-fix name was changed, tests were not updated correspondingly)  

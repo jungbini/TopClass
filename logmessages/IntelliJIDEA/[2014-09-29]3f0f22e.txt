@@ -1,0 +1,1 @@
+  fixed tests for the first task in first lesson  

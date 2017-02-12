@@ -1,0 +1,1 @@
+  [STORM-1063] fix log4j conf dir relative path issue  

@@ -1,0 +1,1 @@
+  fix destination package creation (IDEA-73857)  

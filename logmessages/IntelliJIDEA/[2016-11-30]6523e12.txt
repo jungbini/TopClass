@@ -1,0 +1,1 @@
+  gradle: resolve artifacts block fix  

@@ -1,0 +1,1 @@
+ fixed PY-491 Inspection to detect non-ASCII characters in source files with no encoding specified  

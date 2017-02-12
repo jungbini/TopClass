@@ -1,0 +1,1 @@
+ [SMALLFIX] Minor code fixes in several classes  - Simplified two statements in File - Changed cast in FileSystemMasterTest - Removed unused variable in InodeTreeTest - Simplified two statements in Lineage - Changed cast in MasterWorkerInfoTest - Removed redundant toString call in MountPointInfo  

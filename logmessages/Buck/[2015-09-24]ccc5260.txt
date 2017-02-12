@@ -1,0 +1,1 @@
+  Improve perf of WebSockets  Summary: Currently, when you attach to WebSockets, it takes a lot of CPU time. This is bug and this 

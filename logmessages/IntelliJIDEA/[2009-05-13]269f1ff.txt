@@ -1,0 +1,1 @@
+  fix lost typing is on by default  

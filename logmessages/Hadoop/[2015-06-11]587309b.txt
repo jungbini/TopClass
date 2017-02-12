@@ -1,0 +1,1 @@
+  HDFS-8566. HDFS documentation about debug commands wrongly identifies them as "hdfs dfs" commands (Surendra Singh Lilhore via Colin P. McCabe)  

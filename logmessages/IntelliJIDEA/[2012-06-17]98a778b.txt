@@ -1,0 +1,1 @@
+  fix "Replace '+' with 'StringBuilder.append()'" intention on concatenation starting with non-string addition expression (e.g. 1 + 2 + "a")  

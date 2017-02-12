@@ -1,0 +1,1 @@
+  OMG I THINK I FIXED THE CHART MERGING. also updated d3. fixes #492  

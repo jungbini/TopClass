@@ -1,0 +1,1 @@
+  fix AIOOBE on trivial Extract Superclass (PY-1639)  

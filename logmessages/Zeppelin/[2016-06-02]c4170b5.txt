@@ -1,0 +1,1 @@
+der text on search box. 17573c0 [CloverHearts] reverting placeholder in search box on navbar. d2fbba7 [CloverHearts] Merge branch 'master' into fix/ZEPPELIN-930 0bd1785 [CloverHearts] fix width and not close li tag in searchbar  

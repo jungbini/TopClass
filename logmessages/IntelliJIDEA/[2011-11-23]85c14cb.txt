@@ -1,0 +1,1 @@
+  changes view manager, selection change logging in debug  

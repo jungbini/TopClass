@@ -1,0 +1,1 @@
+  fixed virtualenv creation with inherited packages  

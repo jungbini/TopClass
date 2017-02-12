@@ -1,0 +1,1 @@
+  IDEA-138163 Select Run/Debug Configuration shortcut does not work in 14.1  

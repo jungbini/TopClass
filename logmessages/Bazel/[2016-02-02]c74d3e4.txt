@@ -1,0 +1,1 @@
+  Get android path from env (fixes #746)  -- Change-Id: Ideb2011d23da470276420afcc8b5a71f1470f391 Reviewed-on: https://bazel-review.googlesource.com/#/c/2771 MOS_MIGRATED_REVID=113639747  

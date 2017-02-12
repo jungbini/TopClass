@@ -1,0 +1,1 @@
+  Lowering debug level of alert scanner thread  Adding helper method to plugin api to register initializers  

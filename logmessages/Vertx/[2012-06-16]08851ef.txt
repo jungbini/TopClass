@@ -1,0 +1,1 @@
+  Add timer tests. Rolled timers into vertex to match other classes. Fixed bugs.  

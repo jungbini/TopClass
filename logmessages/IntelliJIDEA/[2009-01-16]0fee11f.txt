@@ -1,0 +1,1 @@
+  bug in THashMap with incorrect size field modification if put(xxx, null) called twice  

@@ -1,0 +1,1 @@
+  attempt to fix integration test which often causes 'gradle clean' to fail on next build  

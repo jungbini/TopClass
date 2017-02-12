@@ -1,0 +1,1 @@
+  IDEA-147640 Switcher dialog: up and down keys are not working fix broken compilation, javadoc added  

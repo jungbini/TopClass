@@ -1,0 +1,1 @@
+  Fix a bug that if the last statement of a function is a labeled statement, no return statement error is reported.  

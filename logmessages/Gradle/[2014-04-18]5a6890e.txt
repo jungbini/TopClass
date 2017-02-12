@@ -1,0 +1,1 @@
+  Incremental java compilation, started adding coverage for cross-task incremental java compilation. Made some small fixes on the way. Flushed out some missing capabilities.  

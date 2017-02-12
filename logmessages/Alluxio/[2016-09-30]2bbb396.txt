@@ -1,0 +1,1 @@
+  Sync new docfixes in HDFS doc.  

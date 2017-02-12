@@ -1,0 +1,1 @@
+  suggest unique variable name fix. PsiUtil.isInProject() removed  

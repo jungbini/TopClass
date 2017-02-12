@@ -1,0 +1,1 @@
+  don't fix case-insensitivitiy for emulated item insertion  

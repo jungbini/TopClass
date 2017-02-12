@@ -1,0 +1,1 @@
+  STORM-496. task.clj missing debug for logging spout and bolt emit values.  

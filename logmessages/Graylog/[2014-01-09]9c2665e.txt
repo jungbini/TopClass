@@ -1,0 +1,1 @@
+  update number of stream rules after quick adding. fixes #420  

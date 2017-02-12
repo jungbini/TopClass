@@ -1,0 +1,1 @@
+ Merge branch 'master' of github.com:twall/jna into netapi32-fixes  commit f915ec7e05c6357bb5affe12eb378a483f9ce54b  Merge branch 'master' of github.com:twall/jna into netapi32-fixes  commit 44b4bc0cac5bf65d90f5aa25c2eb5de99a9d941d  fix gcc version check, avoid deprecated function in structure test  

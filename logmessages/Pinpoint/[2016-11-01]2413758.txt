@@ -1,0 +1,1 @@
+  bug fix. - remain event-info when change agent in inspector.  

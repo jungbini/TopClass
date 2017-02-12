@@ -1,0 +1,1 @@
+  Fixed bug on browsing records/objects of classes 

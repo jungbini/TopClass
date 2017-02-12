@@ -1,0 +1,1 @@
+  java-xdebugger: show info messages in variables  

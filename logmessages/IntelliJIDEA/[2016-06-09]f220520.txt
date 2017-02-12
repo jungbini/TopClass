@@ -1,0 +1,1 @@
+  PY-17815 EA-67335 Don't save PSI reference in quick fix, save its class and find it later  Also I prohibited showing the hint when underlying PSI element was changed but revived by SmartPointer when these old and new elements have 

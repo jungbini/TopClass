@@ -1,0 +1,1 @@
+  SVN: bug with update event handler setting  

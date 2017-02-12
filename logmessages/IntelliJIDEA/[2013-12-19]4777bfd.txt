@@ -1,0 +1,1 @@
+  polish "Difference using "Open in browser" vs browser icon" fix  

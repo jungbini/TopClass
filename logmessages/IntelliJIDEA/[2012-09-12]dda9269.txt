@@ -1,0 +1,1 @@
+  disable add variable initializer fix for foreach parameter (IDEA-90899)  

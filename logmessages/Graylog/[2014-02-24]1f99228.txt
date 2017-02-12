@@ -1,0 +1,1 @@
+  documented index failures. fixes #643  

@@ -1,0 +1,1 @@
+  Merge -c 1523885 from trunk to branch-2 to fix HADOOP-9944. Fix RpcRequestHeaderProto.callId to be sint32 rather than uint32 since ipc.Client.CONNECTION_CONTEXT_CALL_ID is signed (i.e. -3). Contributed by Arun C. Murthy.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1523887 13f79535-47bb-0310-9956-ffa450edef68  

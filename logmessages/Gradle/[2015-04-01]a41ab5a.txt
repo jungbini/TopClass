@@ -1,0 +1,1 @@
+  Simplify start script generation and fix a few problems.  Most notably, we no longer hold readers open eagerly.  +review REVIEW-5416  

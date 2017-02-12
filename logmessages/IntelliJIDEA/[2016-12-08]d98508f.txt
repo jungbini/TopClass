@@ -1,0 +1,1 @@
+  IDEA-164566 [address pre-b606 macOS JBSDK; fix a typo]  

@@ -1,0 +1,1 @@
+  fixed PY-12248 Project Interpreters: redundant add virtualenv dialog on creating venv from project creation dialog  

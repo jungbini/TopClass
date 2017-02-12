@@ -1,0 +1,1 @@
+  Fixed a bug where the methods of Skylark dictionaries were not properly recognized by hasattr() and dir()  -- MOS_MIGRATED_REVID=100022797  

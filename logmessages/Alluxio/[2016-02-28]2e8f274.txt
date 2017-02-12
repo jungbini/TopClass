@@ -1,0 +1,1 @@
+ Merge pull request #2777 from apc999/ALLUXIO-1747  [ALLUXIO-1747] Fix bug in validateConf for master side storage alias  commit 2e8f274bf23ca4bf5a883b54bd96ec2bf3fb1b3e  [ALLUXIO-1747] Fix bug in validateConf for master side storage alias  

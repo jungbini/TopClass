@@ -1,0 +1,1 @@
+  xdebugger: don't remove error message nodes when a new value node is added  

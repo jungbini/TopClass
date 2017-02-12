@@ -1,0 +1,1 @@
+  svn merge -c 1207579 from branch-1 for fixing WebHDFS capitalization in CHANGES.txt.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.0@1207581 13f79535-47bb-0310-9956-ffa450edef68  

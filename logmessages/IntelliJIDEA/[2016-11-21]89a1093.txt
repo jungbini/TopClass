@@ -1,0 +1,1 @@
+  [vcs]: fix text alignment in MoveToAnotherChangelist dialog  

@@ -1,0 +1,1 @@
+  Fixed bug on traverse command without a sub-query: it doesn't go in deep if the linked records was of 

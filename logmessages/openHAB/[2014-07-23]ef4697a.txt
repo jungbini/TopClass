@@ -1,0 +1,1 @@
+  Updated influxdb-java version to 1.3.0-SNAPSHOT - which includes a fix for the deprecated 'm' time units (now 'ms')  

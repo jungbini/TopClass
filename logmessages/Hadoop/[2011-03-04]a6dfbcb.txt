@@ -1,0 +1,1 @@
+Author: Balaji Rajagopalan <balajirg@yahoo-inc.com> Date:   Mon Aug 2 13:14:54 2010 -0700  MAPREDUCE-1971 from https://issues.apache.org/jira/secure/attachment/12451019/concurrent_y20_fix.patch   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077626 13f79535-47bb-0310-9956-ffa450edef68  

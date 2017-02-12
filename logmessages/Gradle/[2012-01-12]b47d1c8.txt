@@ -1,0 +1,1 @@
+  Improved the tooling API docs, fixed the @since declarations.  

@@ -1,0 +1,1 @@
+  DEADEV-36094 Cannot use Alt+e hotkey to press Run/Debug Configurations > Edit Defaults button  

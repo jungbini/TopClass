@@ -1,0 +1,1 @@
+  Use `@Each` instead of iterating `ModelMap` in rule  Fixed test that should have never worked. The test was avoiding the execution of some of the rules applied to `binaries`, and hence didnt run into missing properties. With `@Each` the rules are applied to each binary individually, and thus they now run, and bump into a series of NPEs. Should be fixed now.  

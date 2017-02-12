@@ -1,0 +1,1 @@
+  fixed PY-10993 Instance attribute defined outside __init__, which is strictly true, but it's an invalid issue.  

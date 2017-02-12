@@ -1,0 +1,1 @@
+  EA-52292 fix (PHP template inside HTML comment case)  

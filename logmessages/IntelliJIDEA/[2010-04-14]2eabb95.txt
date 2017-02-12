@@ -1,0 +1,1 @@
+  PY-823 Octal prefix inspection erroneously complains about floating point literals  

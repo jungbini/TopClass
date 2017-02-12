@@ -1,0 +1,1 @@
+  PostfixTemplateDescriptionNotFoundInspectionTest: rename/move test data  

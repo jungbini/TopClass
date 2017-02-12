@@ -1,0 +1,1 @@
+  Removed some extensive logging from the daemon client. Logging every message from the daemon kills the debug output. Even the stack traces are very hard to debug because every line is separated with a debug statement.  

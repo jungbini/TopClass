@@ -1,0 +1,1 @@
+  Committed fix by Diego Ferri about the Removal of the "/db" prefix to find the OrientDB home in tests.  

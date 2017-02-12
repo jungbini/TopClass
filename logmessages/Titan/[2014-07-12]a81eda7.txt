@@ -1,0 +1,1 @@
+  Global: * Remove duplicate httpcomponents from pom.xml SolrIndex/GeoToWktConverter: * Change StorageException to BackendException * Implement missing restore/getFetures methods * fix mutate and query methods to support multiple cores  

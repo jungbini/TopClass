@@ -1,0 +1,1 @@
+  fixed PY-7091 Specify type intentions are not available when cursor is at the very beginning of the reference with undefined type  

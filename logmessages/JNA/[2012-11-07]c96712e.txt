@@ -1,0 +1,1 @@
+ fix deploy snapshot target to include sources and javadoc.  

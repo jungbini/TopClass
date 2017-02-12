@@ -1,0 +1,1 @@
+ [NEW TYPE INFERENCE] Fix bug when declaring class properties on structs, and add es6typed tests for property declarations. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=87530380  

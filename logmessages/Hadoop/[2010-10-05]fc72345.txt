@@ -1,0 +1,1 @@
+  Only assign if table is enabled -- fixes TestHFileOutputFormat  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1004699 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  IDEA-64695 android: fix red code in xsd file  

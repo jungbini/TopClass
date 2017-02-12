@@ -1,0 +1,1 @@
+  Clean up block lock manager and fix potential deadlock  Previously, if two threads tried to acquire the last lock in the rwlock pool for the same block id, the second acquire would hang until a rwlock was returned to the pool. It should instead share the block lock acquired by the first thread.  

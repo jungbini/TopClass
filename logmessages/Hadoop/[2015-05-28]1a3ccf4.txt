@@ -1,0 +1,1 @@
+  HADOOP-12030. test-patch should only report on newly introduced findbugs warnings. (Sean Busbey via aw)  

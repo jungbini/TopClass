@@ -1,0 +1,1 @@
+  stdlib fixes: - 'sequence(initialValue: T?, ...)' should have LowPriorityInOverloadResolution (otherwise 'sequence({...}, {...})' is ambiguous). - 'copyOf' and 'copyOfRange' should be defined for 'Array<T>' only ('Array<out T>' version always loses to 'Array<T>', since the second one is always more specific).  

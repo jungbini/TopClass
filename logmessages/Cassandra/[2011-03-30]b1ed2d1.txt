@@ -1,0 +1,1 @@
+  Use ICompactSerializer in AES instead of java serialization (and fix tests warnings) patch by gdusbabek; reviewed by slebresne for CASSANDRA-2361   git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1086957 13f79535-47bb-0310-9956-ffa450edef68  

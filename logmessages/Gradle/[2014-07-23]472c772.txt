@@ -1,0 +1,1 @@
+  fix language-jvm integration tests after renaming some model classes  

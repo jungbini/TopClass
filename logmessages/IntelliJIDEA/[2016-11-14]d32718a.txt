@@ -1,0 +1,1 @@
+  IDEA-163033 ui: fix plugin update dialog undex HiDPI  

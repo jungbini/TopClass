@@ -1,0 +1,1 @@
+  Better handling of reconnect - fixed possible memory leak  

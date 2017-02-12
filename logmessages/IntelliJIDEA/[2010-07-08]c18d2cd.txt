@@ -1,0 +1,1 @@
+  IDEA-56370    Spelchecker reacts on every key in json fixture file  

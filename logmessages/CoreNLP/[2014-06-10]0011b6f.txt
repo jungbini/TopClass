@@ -1,0 +1,1 @@
+  Fix regression in printing of tree with empty (null) label at a node. Add test for that. Add a few @Override's and formatting fixes.  

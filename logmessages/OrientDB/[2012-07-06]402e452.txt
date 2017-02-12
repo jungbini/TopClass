@@ -1,0 +1,1 @@
+  Added attach and detach methods in OObjectEntitySerializer to manage copy document info from\to associated object. Fixed bug in lazy field setting  

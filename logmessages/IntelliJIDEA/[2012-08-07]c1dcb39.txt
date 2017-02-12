@@ -1,0 +1,1 @@
+  fix handling of star arguments in override method (PY-6455)  

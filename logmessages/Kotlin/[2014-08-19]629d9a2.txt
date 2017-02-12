@@ -1,0 +1,1 @@
+  JS backend: fix dangling else issue in generated code for JsToStringGenerationVisitor JS backend: fix KT-5253: when with if inside  #KT-5253 Fixed  

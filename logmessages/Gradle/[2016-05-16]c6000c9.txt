@@ -1,0 +1,1 @@
+  Use more idiomatic Groovy in attempt to fix test on IBM JDK 1.6  To be honest, I'm surprised that the `List.size` property accessor works in other JDKs.  

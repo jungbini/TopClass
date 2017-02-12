@@ -1,0 +1,1 @@
+  fix(server:config): set config.file property on server startup to give access to server.conf for third-party modules  

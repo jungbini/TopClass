@@ -1,0 +1,1 @@
+  function call expression: respect all signature owners including method specs, fix #1610  

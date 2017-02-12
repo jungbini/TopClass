@@ -1,0 +1,1 @@
+  fix move refactoring when Php plugin is enabled (IDEA-110755)  

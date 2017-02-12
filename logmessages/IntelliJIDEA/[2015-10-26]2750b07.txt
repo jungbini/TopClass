@@ -1,0 +1,1 @@
+  IndexableSetContributor: filter out nulls as provided roots (fixes EA-74795 - NPE: AdditionalIndexableFileSet.b)  

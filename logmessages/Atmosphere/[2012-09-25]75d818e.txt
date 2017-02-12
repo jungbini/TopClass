@@ -1,0 +1,1 @@
+  Tentative fix for #646 Patch provided by Paul Khodchenkov  

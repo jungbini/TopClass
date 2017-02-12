@@ -1,0 +1,1 @@
+  fixed PY-6166 Show warning on checking Install Django check-box for interpreter without pip  

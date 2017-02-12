@@ -1,0 +1,1 @@
+  IDEA-59866 allow debugger to connect to already running application  

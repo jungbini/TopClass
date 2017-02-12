@@ -1,0 +1,1 @@
+  IDEA-31708 Debug frame view quoting of character values wrong  

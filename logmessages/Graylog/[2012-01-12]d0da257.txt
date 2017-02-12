@@ -1,0 +1,1 @@
+  add padding to short_message field  avoids problems with hidden underscores. fixes #WEBINTERFACE-226  

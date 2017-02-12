@@ -1,0 +1,1 @@
+were accidentally stuck together. Will recommit bugfixes separately.  Revert "KT-2193 Nullability information lost for functions inherited from traits".  This reverts commit d60818fd3e39c7154848101439d818e76b06d4fa.  

@@ -1,0 +1,1 @@
+  Normalize the line endings because the output from Gradle has already been normalized when we get it in the test fixtures, effectively.  +review REVIEW-5176  

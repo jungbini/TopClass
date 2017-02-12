@@ -1,0 +1,1 @@
+  Rollback "Fix for KT-10659: Debugger: Evaluate Expression and Watches fail for inline function parameter passed by reference"  

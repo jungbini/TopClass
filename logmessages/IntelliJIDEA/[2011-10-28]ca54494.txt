@@ -1,0 +1,1 @@
+  IDEA-74979 (quick fix for "Too many characters in character literal" error)  

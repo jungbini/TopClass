@@ -1,0 +1,1 @@
+  IDEA-132210 Debugger: Evaluate fails on `this` and `super` references in lambda  

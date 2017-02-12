@@ -1,0 +1,1 @@
+  Create a separate binary and shell script for fixing missing goog.requires so people can run this during development. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=85896379  

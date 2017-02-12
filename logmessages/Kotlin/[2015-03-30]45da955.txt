@@ -1,0 +1,1 @@
+  Fix minor bug in MemoryBasedClassLoader#getResources()  Own resources and those from the parent class loader were not combined  

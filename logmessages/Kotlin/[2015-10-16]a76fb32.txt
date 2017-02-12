@@ -1,0 +1,1 @@
+  Dropping package facades: - fix testData for 'move' tests (NB regression in **/onDemandStaticImport.java, see: https://youtrack.jetbrains.com/issue/KT-9624)  

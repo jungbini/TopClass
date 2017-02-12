@@ -1,0 +1,1 @@
+  fixed EA-54835 - NPE: PythonNoseTestConfigurationProducer.isAvailable  

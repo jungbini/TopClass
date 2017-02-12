@@ -1,0 +1,1 @@
+  fix #839. copy the user data when moving a node to another document.  

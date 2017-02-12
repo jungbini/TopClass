@@ -1,0 +1,1 @@
+  improve quickvalues modal positioning. fixes #675  

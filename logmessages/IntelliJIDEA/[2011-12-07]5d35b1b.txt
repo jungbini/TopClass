@@ -1,0 +1,1 @@
+  unnecessary inner class qualification inspection: avoid cases when resulted class won't be accessed in the call place (IDEA-78144); fix test data accordingly  

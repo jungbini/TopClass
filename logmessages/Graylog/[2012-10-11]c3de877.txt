@@ -1,0 +1,1 @@
+  correct activity message for first deflector cycle  fixes #SERVER-166  

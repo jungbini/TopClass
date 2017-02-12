@@ -1,0 +1,1 @@
+  HOTFIX: RocksDBStore must clear dirty flags after flush  guozhangwang Without clearing the dirty flags, RocksDBStore will perform flush for every new record. This bug made the store performance painfully slower.  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #1163 from ymatsuda/clear_dirty_flag  

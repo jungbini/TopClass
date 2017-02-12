@@ -1,0 +1,1 @@
+  don't add breadcrumbs twice, add to all editors, not only in current split #WEB-15277 fixed  

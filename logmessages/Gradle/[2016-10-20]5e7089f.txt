@@ -1,0 +1,1 @@
+  Fix version for removal of <<  The Build Script Basics chapter mentioned deprecation of the `<<` syntax but said that it would be removed in Gradle 4.0, not 5.0. This change fixes that and also highlights that the preferred syntax is used in the rest of the examples in that chapter (since the DSL docs linked don't show how to use the `doFirst()` and `doLast()` methods.  

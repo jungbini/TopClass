@@ -1,0 +1,1 @@
+  fix(api): upgraded sbt-actor-api to 0.6.4  

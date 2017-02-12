@@ -1,0 +1,1 @@
+  fixing method collecting visitor for smart step: only arguments of method call expression were visited  

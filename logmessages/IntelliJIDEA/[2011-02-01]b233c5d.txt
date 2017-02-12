@@ -1,0 +1,1 @@
+  SVN: IDEA-64843 Subversion + SSH: impossible to login (dialog fix) [review=denis.zhdanov]  

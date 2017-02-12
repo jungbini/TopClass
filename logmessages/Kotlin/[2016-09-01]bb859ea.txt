@@ -1,0 +1,1 @@
+  Misc: Do not use empty scope for KtParameter/KtTypeParameter (possible fix for EA-1185336)  

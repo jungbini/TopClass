@@ -1,0 +1,1 @@
+  Talking to the dist-build frontend using Thrift over HTTP  Summary: Sends a dummy start build request to the frontend, gets the build id in response, and keeps polling with build status requests until job completion. Also includes some fixes to handling the src-gen directory.  Test Plan:buck test ci  Reviewed By: marcinkosiba  fb-gh-sync-id: ad6f735 shipit-source-id: ad6f735  

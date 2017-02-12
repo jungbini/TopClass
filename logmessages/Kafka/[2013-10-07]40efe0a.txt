@@ -1,0 +1,1 @@
+  trivial follow-up patch for kafka-1073 to fix unit tests; patched by Jun Rao  

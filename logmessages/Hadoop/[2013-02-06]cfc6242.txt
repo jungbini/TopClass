@@ -1,0 +1,1 @@
+  Merge -c 1423706 from trunk to branch-2.0.3-alpha to fix YARN-3. Add support for CPU isolation/monitoring of containers. Contributed by Andrew Ferguson.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.0.3-alpha@1443014 13f79535-47bb-0310-9956-ffa450edef68  

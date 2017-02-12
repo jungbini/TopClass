@@ -1,0 +1,1 @@
+  fix copy bounds for word Text in wordcount demo patch by Jesse Shieh and jbellis for CASSANDRA-1993  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1059701 13f79535-47bb-0310-9956-ffa450edef68  

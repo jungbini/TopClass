@@ -1,0 +1,1 @@
+  java-xdebugger: show breakpoint icon when hit for non line breakpoints  

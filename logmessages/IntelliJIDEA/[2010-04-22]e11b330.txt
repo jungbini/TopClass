@@ -1,0 +1,1 @@
+  render coverage info when document was changed fixed ( IDEA-44284  )  

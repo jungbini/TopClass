@@ -1,0 +1,1 @@
+  fixed PY-5038 Optimize imports does not keep doctests in mind  

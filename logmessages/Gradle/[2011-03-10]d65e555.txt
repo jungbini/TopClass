@@ -1,0 +1,1 @@
+  GRADLE-1202 Made the exception message friendlier. Now the user gets an extra hint how to fix the problem.  

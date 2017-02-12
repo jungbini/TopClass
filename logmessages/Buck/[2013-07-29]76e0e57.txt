@@ -1,0 +1,1 @@
+  Fix a bug in Genrule: order of srcs matters.  Summary: The order of `this.srcs` matters because it affects the creation of the `$SRCS` environment variable when executing the genrule. Users should be able to depend on this order.  Test Plan: Sandcastle builds.  

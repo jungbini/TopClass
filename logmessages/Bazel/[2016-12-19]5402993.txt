@@ -1,0 +1,1 @@
+  Windows: fix bootstrapping  Use $PATHSEP to create a Java classpath.  Fixes https://github.com/bazelbuild/bazel/issues/2262  -- PiperOrigin-RevId: 142445784 MOS_MIGRATED_REVID=142445784  

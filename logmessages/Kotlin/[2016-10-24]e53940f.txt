@@ -1,0 +1,1 @@
+  KT-8442 related: correct handling of erroneous destructuring references, fixes EA-90434  

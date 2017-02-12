@@ -1,0 +1,1 @@
+ Merge pull request #3067 from JakubValtar/bugfix-saveframe-opaque  Save now creates opaque images from primary OpenGL surface (#3031)  commit 2306444f78e2e295b02e7ddf6c0ba74e6fbe620d  fix startup crashes  

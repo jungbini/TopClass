@@ -1,0 +1,1 @@
+  4.9 of 5: Writer fixes for integration.  * Uses the png cruncher for crunching pngs. * Respects qualifiers when generating the values/values.xml. * Improvements to testability. * Standardizes on throwing merging exceptions instead of random IOExceptions.  -- MOS_MIGRATED_REVID=121483439  

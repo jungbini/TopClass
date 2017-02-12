@@ -1,0 +1,1 @@
+  GeneralCommandLine.setPassFixedPathEnvVarOnMac() method added to request explicitly passing fixed value of PATH env var on Mac OSX (it's off by default)  

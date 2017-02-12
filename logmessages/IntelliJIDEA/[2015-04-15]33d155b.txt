@@ -1,0 +1,1 @@
+  Bigger lookup depth + a registry key for custom folding (fixes WEB-6643 Custom code folding regions doesn't work when more than 2 level nesting on WebStorm )  

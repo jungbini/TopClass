@@ -1,0 +1,1 @@
+  Remove setting debug mode from console parser.  

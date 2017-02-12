@@ -1,0 +1,1 @@
+  SQL: fixed pagination problem reported by Johann  

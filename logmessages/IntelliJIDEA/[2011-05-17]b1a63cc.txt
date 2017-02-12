@@ -1,0 +1,1 @@
+  fixed PY-3346 "Argument value equals to default parameter value" must not trigger for implicitly resolved calls  

@@ -1,0 +1,1 @@
+  Sonance binding power query and volume command fix  Fixed a bug with the volume command and enabled power query again as described under "known issues" in the Wiki: https://github.com/openhab/openhab/wiki/Sonance-binding Signed-off-by: Laurens Van Acker laurens-at-van-dot-acker-dot-be  

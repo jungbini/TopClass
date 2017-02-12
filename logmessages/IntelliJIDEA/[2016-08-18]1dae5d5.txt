@@ -1,0 +1,1 @@
+  make toString() idempotent (to not drive everyone crazy during debugging)  

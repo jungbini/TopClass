@@ -1,0 +1,1 @@
+  determine tag end by doctype #WEB-2229 fixed  

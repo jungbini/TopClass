@@ -1,0 +1,1 @@
+  Make exopackage work on Android N devices  Summary:Android N's adb now correctly avoids mangling \n to \r\n, but their bugfix broke buck.  This 

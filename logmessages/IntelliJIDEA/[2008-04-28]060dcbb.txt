@@ -1,0 +1,1 @@
+  fixed classname being saved without package name when using classname-completion or import popup  

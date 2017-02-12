@@ -1,0 +1,1 @@
+  #EDU-544 fixed: open link from StudyToolWindow in default browser  

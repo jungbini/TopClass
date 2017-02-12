@@ -1,0 +1,1 @@
+  IDEA-71355: XSLT debug: Hide Whitespace Nodes button icon: white elements may be invisible  

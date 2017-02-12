@@ -1,0 +1,1 @@
+  only valid taskWindows are now drawn. Edide-71 fixed  

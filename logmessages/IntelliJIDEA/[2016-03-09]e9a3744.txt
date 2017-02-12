@@ -1,0 +1,1 @@
+  WriteActionAware: marker to skip containing write action, e.g. when local fix would show dialog or progress, so the write action would be started inside action itself  

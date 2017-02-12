@@ -1,0 +1,1 @@
+  separate current from default camera properties, fixes #4609  

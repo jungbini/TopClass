@@ -1,0 +1,1 @@
+  Spellchecker: fix test with words contains diacritics IDEA-23065  add some common terms IDEADEV-38179 The text of the message should be replaced IDEADEV-41030 "Accepted words" functionality in spellchecker doesn't work as expected.  

@@ -1,0 +1,1 @@
+  Fixed bug about changing of property constraints (min/max) reported by in ML  

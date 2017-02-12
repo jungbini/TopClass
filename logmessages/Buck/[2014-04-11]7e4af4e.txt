@@ -1,0 +1,1 @@
+  Fix the missing string assets zip file issue.  Summary: I was not caching the intermediate zip file and so some builds which fetched the results of #package_string_assets from the cache would not find the zip file.  Test Plan: Added an integration test which failed a 100% of the times before this fix!  

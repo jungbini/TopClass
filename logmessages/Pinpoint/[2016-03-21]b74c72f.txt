@@ -1,0 +1,1 @@
+ modified Hbase version from 1.0.2 to 1.0.3 to fix docker:build error. There  is no Hbase 1.0.2 from apache.mirrors.pair.com/hbase.  

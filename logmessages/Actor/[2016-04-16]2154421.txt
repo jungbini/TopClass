@@ -1,0 +1,1 @@
+  fix(android:ui): prevent screen rotation when recording audio  

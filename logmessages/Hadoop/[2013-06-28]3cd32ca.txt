@@ -1,0 +1,1 @@
+  Merge -c 1497933 from branch-1 to branch-1.2 to fix MAPREDUCE-5318. Escape ampersand in JSPUtil. Contributed by Bohou Li.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.2@1497935 13f79535-47bb-0310-9956-ffa450edef68  

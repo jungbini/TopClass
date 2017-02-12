@@ -1,0 +1,1 @@
+  feat(web): add another avatar size, and fix some styles issues;  

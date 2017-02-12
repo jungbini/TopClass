@@ -1,0 +1,1 @@
+  Fixed lastModifiedDate returned by Resources from CommonsHttpClientBackedRepository: this fixes resolution of dependencies with changing=true  

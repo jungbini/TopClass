@@ -1,0 +1,1 @@
+  Review fixes: special case of toMap for singleton map. #KT-9108  

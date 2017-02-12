@@ -1,0 +1,1 @@
+  Remove debugger wrapper from argv for 'Show command line option' (PY-14767).  

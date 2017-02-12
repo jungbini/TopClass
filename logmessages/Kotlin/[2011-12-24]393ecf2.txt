@@ -1,0 +1,1 @@
+  added a groupBy method (and stumbled on a couple more little compiler bugs which could well be the same as previous issues I've raised this week). Happy holidays everyone :)  

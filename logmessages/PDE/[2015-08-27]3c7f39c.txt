@@ -1,0 +1,1 @@
+ misc notes and repair ConcurrentModificationException in the editor (fixes #3726)  

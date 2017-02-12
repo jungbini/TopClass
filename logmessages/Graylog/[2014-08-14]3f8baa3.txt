@@ -1,0 +1,1 @@
+  add rotation strategies beyond the simple message count deflector cycling strategy  a simple size based strategy is included, but its usefulness is limited due to fluctuations related to segment merges  related to issue #580 fixes #339  

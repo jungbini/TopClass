@@ -1,0 +1,1 @@
+  highlighting tests; fix try/finally parsing; drop old try/finally PSI; fix "continue in finally" highlighting  

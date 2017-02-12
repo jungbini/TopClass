@@ -1,0 +1,1 @@
+  New test utility FakeFilesystems  Summary: I'm fixing an i18n bug which reproduces on a case-insensitive filesystem which uses custom case mapping rules (Turkish, in this case).  This introduces a new utility class `FakeFilesystems` which we can use to create `FileSystem` objects with custom case mapping rules using `jimfs`.  Test Plan: Used in subsequent 

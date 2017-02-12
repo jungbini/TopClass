@@ -1,0 +1,1 @@
+  HA: implemented distributed locks by replacing the ones from Hazelcast  I was forced to create those distributed locks to overcome a bug in Hazelcast.  

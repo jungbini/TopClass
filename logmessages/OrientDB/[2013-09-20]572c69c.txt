@@ -1,0 +1,1 @@
+saction the client updates temporary rids by iterating over a HashMap for every changed record. This leads to poor performance and 100% cpu utilization while committing transaction. This commit fixes the mentioned shortcomings.  

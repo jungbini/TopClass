@@ -1,0 +1,1 @@
+  Added test for obsolete bug.  #KT-3186 obsolete  

@@ -1,0 +1,1 @@
+  New class ProjectParser  Summary: To fix #3945963, I decided to take the tactic of reading GIDs out of the existing Xcode project to ensure we keep target GIDs stable if they already exist.  This 

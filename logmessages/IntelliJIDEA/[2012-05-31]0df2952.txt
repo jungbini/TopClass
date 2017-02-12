@@ -1,0 +1,1 @@
+ IDEA-86807 Inconsistent treatment of type parameters in widen (ctrl-w) fixed  

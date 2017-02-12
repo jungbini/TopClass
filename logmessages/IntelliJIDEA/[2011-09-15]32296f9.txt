@@ -1,0 +1,1 @@
+  fixed PY-4398 "Statement seems to have no effect" should handle misplaced docstrings better  

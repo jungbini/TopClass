@@ -1,0 +1,1 @@
+  set CONTINUATION_INDENT_SIZE equal to INDENT_SIZE fixes #31  

@@ -1,0 +1,1 @@
+  fixup resolution of variables executing begin block dusring configuration phase  

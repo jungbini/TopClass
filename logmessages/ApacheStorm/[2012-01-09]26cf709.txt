@@ -1,0 +1,1 @@
+  fixed typos, tests passing with component specific configuration, need more tests for component specific configuration  

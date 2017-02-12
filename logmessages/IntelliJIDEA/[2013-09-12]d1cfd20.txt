@@ -1,0 +1,1 @@
+  IntelliLang: error filter configuration fix & rename  

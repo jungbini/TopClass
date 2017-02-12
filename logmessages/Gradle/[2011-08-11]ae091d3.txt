@@ -1,0 +1,1 @@
+  fixed GRADLE-1739: Add a factory method named "create" to DependencyHandler that allows to create dependencies without immediately adding them to a configuration  

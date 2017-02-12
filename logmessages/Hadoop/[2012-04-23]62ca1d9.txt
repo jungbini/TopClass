@@ -1,0 +1,1 @@
+  svn merge -c 1329282 FIXES: MAPREDUCE-3812. Lower default allocation sizes, fix allocation configurations and document them (Harsh J via bobby)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1329285 13f79535-47bb-0310-9956-ffa450edef68  

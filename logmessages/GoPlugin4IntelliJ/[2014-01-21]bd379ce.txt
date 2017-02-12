@@ -1,0 +1,1 @@
+  Ignore exceptions that we are expecting (fixes #537)  

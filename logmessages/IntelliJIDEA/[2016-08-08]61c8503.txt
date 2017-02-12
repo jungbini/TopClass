@@ -1,0 +1,1 @@
+  fixed bug when IDEA reported error while both attaching list and gem installer window where opened  

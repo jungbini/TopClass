@@ -1,0 +1,1 @@
+  EA-30655 - CME: JspFileViewProviderImpl.getKnownTaglibPrefixes IDEA-76746 Complete freeze of the UI  

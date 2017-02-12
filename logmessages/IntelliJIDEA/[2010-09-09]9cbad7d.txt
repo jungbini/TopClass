@@ -1,0 +1,1 @@
+  fixed byBlock commenting whitespace skipping in case of OuterLanguageElement (PY-1558)  

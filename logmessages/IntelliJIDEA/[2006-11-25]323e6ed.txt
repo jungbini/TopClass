@@ -1,0 +1,1 @@
+  inline varargs method fix  

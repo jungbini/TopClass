@@ -1,0 +1,1 @@
+  decompiler: fixed bytecode mapping for anonymous classes  

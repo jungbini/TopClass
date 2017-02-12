@@ -1,0 +1,1 @@
+  Added spec for some progress logging fixes.  

@@ -1,0 +1,1 @@
+ git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.0@1292418 13f79535-47bb-0310-9956-ffa450edef68  

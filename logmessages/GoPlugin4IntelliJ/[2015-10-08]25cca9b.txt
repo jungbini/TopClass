@@ -1,0 +1,1 @@
+  comm clause should process only inheritors, fix #1907  

@@ -1,0 +1,1 @@
+  svn merge -c 1565310 merging from trunk to branch-2 to fix: HDFS-5881. Fix skip() of the short-circuit local reader(legacy).  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1565313 13f79535-47bb-0310-9956-ffa450edef68  

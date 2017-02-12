@@ -1,0 +1,1 @@
+  Merge -c 1241205 from trunk to branch-0.23 to fix MAPREDUCE-3810. Performance tweaks - reduced logging in AM and defined hascode/equals for ResourceRequest & Priority.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1241208 13f79535-47bb-0310-9956-ffa450edef68  

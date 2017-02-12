@@ -1,0 +1,1 @@
+  ignore rulesChanged event for hidden usage view tabs to fix IDEA-140429 10s hang on changing groupping in show usages  

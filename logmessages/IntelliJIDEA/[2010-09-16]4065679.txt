@@ -1,0 +1,1 @@
+  fixed breakpoint properties panel jumping  

@@ -1,0 +1,1 @@
+  fix heap size on Windows 32bit VM patch by Joshua McKenzie; tested by Philip Thompson for CASSANDRA-7353  

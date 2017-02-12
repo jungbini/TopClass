@@ -1,0 +1,1 @@
+  Made it possible to kill the daemon process forcefully from our fixture code on windows. Some windowses do not support it but the implementation is protected. To avoid hung builds on windows I need to use our ProcessBuilder machinery.  

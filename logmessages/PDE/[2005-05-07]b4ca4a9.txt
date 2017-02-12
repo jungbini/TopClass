@@ -1,0 +1,1 @@
+  fix to psound2 to ignore gaincontrol errors, add linux stuff to faq, run-expert fix  

@@ -1,0 +1,1 @@
+  WEB-9778 Strange bug on Emmet when using curly braces (cherry-picked from 053d812)  

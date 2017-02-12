@@ -1,0 +1,1 @@
+  Do not force dependency resolution when configuring kapt with stabs  #KT-12776 fixed  

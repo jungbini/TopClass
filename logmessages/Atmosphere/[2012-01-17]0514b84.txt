@@ -1,0 +1,1 @@
+  Little fix on pom for jquery-multirequest sample  

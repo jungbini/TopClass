@@ -1,0 +1,1 @@
+  Fixed test of debug in reload mode for Django 1.3  

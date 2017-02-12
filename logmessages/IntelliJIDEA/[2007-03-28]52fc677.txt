@@ -1,0 +1,1 @@
+  preselection for list popup speed search fixed ( IDEADEV-11721)  

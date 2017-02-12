@@ -1,0 +1,1 @@
+  Do not suggest "Rename to _" quick-fix for parameter of named function  #KT-14586 Fixed  

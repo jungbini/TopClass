@@ -1,0 +1,1 @@
+  non-Ant Java compiler integrations now honor compile.options.debugOptions.debugLevel  - added some Javadoc around debug options  

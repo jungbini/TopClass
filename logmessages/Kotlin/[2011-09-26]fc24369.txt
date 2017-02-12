@@ -1,0 +1,1 @@
+  Confusion between vals and funs fixed  

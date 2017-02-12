@@ -1,0 +1,1 @@
+  STORM-1945 Fix NPE bugs on topology spout lag for storm-kafka-monitor  * Fix several spots which are throwing NPE on TopologySpoutLag * Use a trick to get classname of Spout without requiring storm-kafka and storm-kafka-client * Move storm-kafka-monitor jar to toollib directory * since jars in extlib are added to worker classpath which we don't want for this jar  

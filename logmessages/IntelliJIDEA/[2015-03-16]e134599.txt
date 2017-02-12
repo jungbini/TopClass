@@ -1,0 +1,1 @@
+  don't cache data in FactoryMap when not allowed to (an addition to IDEA-137323 fix)  

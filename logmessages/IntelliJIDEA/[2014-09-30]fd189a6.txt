@@ -1,0 +1,1 @@
+  spy-js: made tracer support to have a higher priority as debugger support suppresses it for cases when tracer have something to show for quick evaluation and debugger doesn't  

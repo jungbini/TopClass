@@ -1,0 +1,1 @@
+  inspection tool window: cosmetics -- fix&suppress toolbar uses only one line now  

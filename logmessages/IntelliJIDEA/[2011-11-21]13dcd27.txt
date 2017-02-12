@@ -1,0 +1,1 @@
+  correctly calculate super call type when completing; allow completing dunder-prefixed attributes in context of super call (PY-5066)  

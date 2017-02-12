@@ -1,0 +1,1 @@
+  Debugger: use partialBodyResolve. Don't compete variables defined after context element  

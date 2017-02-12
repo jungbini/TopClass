@@ -1,0 +1,1 @@
+  restored 'debug.suspend' property to allow debugging tests on TeamCity  

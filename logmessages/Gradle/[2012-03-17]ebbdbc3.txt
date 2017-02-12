@@ -1,0 +1,1 @@
+  fixed GRADLE-2176: daemon still marked experimental  - the --daemon, --no-daemon, and --stop flags are no longer marked experimental - the --foreground flag is still marked experimental (from what I've heard, the plan is to remove it at some point)  

@@ -1,0 +1,1 @@
+  Move DebugProtoBuf to module "compiler-tests"  To help debug serialization-related code in compiler tests  

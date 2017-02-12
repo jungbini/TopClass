@@ -1,0 +1,1 @@
+  Rename `debugJvm` command line switch to `debug-jvm`.  

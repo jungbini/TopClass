@@ -1,0 +1,1 @@
+  xdebugger api: customizable hyperlink node text attributes  

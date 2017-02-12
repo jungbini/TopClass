@@ -1,0 +1,1 @@
+  Add two startup options:  - --client_debug that turns out debug logging from the client - --connect_timeout_secs that controls the timeout of the initial Ping() RPC from the client to the server  -- MOS_MIGRATED_REVID=138491791  

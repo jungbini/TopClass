@@ -1,0 +1,1 @@
+  fixed serialization exception due to metrics classes not being registered properly  

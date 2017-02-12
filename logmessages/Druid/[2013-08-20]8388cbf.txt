@@ -1,0 +1,1 @@
+  NumberedShardSpec  Each shard has a number, and there are a fixed number of shards that will form a complete set.  

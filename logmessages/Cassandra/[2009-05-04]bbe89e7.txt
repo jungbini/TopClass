@@ -1,0 +1,1 @@
+  do not leave variables uninitialized in ConsistencyManager constructor.  fixes regression from #95.  patch by jbellis for CASSANDRA-124  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@771325 13f79535-47bb-0310-9956-ffa450edef68  

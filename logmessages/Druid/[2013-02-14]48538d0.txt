@@ -1,0 +1,1 @@
+  1) Fix bug in index converter when column has cardinality 0  

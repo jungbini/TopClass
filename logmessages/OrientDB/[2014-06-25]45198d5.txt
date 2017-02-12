@@ -1,0 +1,1 @@
+  Issue #1666 compilation problems were fixed.  

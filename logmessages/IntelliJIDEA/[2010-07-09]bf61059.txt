@@ -1,0 +1,1 @@
+  correctly hanle 'copy' action for Tomcat run configurations (imporved fix for IDEA-44677) & select first app server for created run configuration  

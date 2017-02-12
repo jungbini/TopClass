@@ -1,0 +1,1 @@
+  ninja: fix cqlsh formatting of UDTs  Follow-up to upgrade of the bundled python driver for CASSANDRA-8154  

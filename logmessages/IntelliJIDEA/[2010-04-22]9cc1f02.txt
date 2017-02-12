@@ -1,0 +1,1 @@
+  IDEA-43962 Indentation error on deep nesting levels  1. Typo is corrected; 2. Meaningful toString() is defined in order to make more convenient debugging of all sub-classes; 3. Green code policy is applied;  

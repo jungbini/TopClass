@@ -1,0 +1,1 @@
+  GRADLE-3214 FindBugs crash / build hanging  Ensured that FindBugs client catches all kinds of Throwables. This fixes the problem of stalled build when FindBugs crashes.  

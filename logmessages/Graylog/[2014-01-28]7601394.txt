@@ -1,0 +1,1 @@
+  Add two new system notifications, for clock skew and missing master in cluster  also refactor the notification class slightly to guard against missing timestamp and node id  fixes Graylog2/graylog2-server#401 fixes Graylog2/graylog2-server#402 fixes Graylog2/graylog2-server#403  

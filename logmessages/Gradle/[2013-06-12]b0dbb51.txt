@@ -1,0 +1,1 @@
+  Added some coverage for ivy dependency configuration mappings and fixed some problems that this exposed:  - `*->@` and `*->#` select all configurations of the target module rather than the expected 'self' or 'this' configuration. - `A->#` selects `A` rather than the 'self' configuration when resolving a configuration that extends from `A`.  

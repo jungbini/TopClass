@@ -1,0 +1,1 @@
+  Partially fixed issue 292: implemented CONTAINS with single items: the behavior is similar to IN  

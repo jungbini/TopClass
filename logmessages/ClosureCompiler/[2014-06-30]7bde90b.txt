@@ -1,0 +1,1 @@
+  Add onInstalled event type to chrome_extensions.js  The fix here is to actually build a wrapper around the many glorious app lifecycle events as documented here:  https://developer.chrome.com/extensions/runtime https://developer.chrome.com/apps/app_lifecycle  ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=70179311  

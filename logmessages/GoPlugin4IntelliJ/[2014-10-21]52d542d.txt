@@ -1,0 +1,1 @@
+  fix #856,find append varidac args type bug,find varidac args as parameter in body type bug  

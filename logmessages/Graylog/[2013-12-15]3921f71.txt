@@ -1,0 +1,1 @@
+  several fixes to user section views. fixes #242  

@@ -1,0 +1,1 @@
+  fixed adding several module in test fixture builder  

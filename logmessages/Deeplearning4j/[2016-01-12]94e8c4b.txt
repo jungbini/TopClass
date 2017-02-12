@@ -1,0 +1,1 @@
+  w2v/d2v AdaGrad fixed  

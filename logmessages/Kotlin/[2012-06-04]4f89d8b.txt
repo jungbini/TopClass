@@ -1,0 +1,1 @@
+  JS IDE: Replace indication file with module component  Introduce K2JSModuleComponent Partially replace references to project with references to module (Should be able to tell which facade to use based on what module we are in) #KT-2064 fixed  

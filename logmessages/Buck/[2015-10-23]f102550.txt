@@ -1,0 +1,1 @@
+  junit runner: don't close output stream when writing to stdout  Summary: When supporting an external test runner, we output results to stdout. This fixes a bug where we were closing stdout after writing the first result,  Test Plan: added unittest  

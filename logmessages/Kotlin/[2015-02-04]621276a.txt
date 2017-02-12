@@ -1,0 +1,1 @@
+  live template context type for comments in Kotlin; disable other contexts inside doc comments #KT-6735 fixed  

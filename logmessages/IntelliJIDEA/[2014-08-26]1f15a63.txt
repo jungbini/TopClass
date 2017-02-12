@@ -1,0 +1,1 @@
+  StatusText: fix status text not being repaint if a component is painted in a JBViewport  

@@ -1,0 +1,1 @@
+  Yep. ClosureTest.testWrappedVariableInExtensionFun fixed, so, all js tests now passed  (cherry-picked from f8f1895)  

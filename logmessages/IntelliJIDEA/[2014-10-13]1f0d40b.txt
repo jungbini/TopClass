@@ -1,0 +1,1 @@
+  IDEA-131230 Read action should not be required for XDebugSessionImpl.breakpointReached  

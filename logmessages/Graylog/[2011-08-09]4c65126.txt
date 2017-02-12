@@ -1,0 +1,1 @@
+  - fixes bug where pagination would not work when a quickfilter is used (as described in http://jira.graylog2.org/browse/WEBINTERFACE-98)  

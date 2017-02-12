@@ -1,0 +1,1 @@
+  fix for logging events' correct thread name; patch by yukim reviewed by David Alves for CASSANDRA-4599  

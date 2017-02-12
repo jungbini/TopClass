@@ -1,0 +1,1 @@
+  Ensure test results are printed properly even when streaming test results not supported  Summary: My 

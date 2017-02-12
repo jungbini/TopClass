@@ -1,0 +1,1 @@
+  [git] fix javadoc, remove unnecessary wrapping into an exception  

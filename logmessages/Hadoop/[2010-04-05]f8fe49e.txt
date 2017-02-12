@@ -1,0 +1,1 @@
+  HDFS-1074. hdfsproxy: Fix bugs in TestProxyUtil.  Contributed by Srikanth Sundarrajan   git-svn-id: https://svn.apache.org/repos/asf/hadoop/hdfs/trunk@930967 13f79535-47bb-0310-9956-ffa450edef68  

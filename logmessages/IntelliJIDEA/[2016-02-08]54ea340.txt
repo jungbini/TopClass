@@ -1,0 +1,1 @@
+  goto class/file: support more line number denotations (fix ChooseByNameHddTest)  

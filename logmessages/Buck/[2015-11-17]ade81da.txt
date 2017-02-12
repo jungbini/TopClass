@@ -1,0 +1,1 @@
+  Replace MappedByteBuffers with direct byte buffer  Summary: MappedByteBuffer is limited by 32-bit addressing and is not suitable for working with large files. http://bugs.java.com/view_bug.do?bug_id=4496703  Test Plan: build MPKEats app  Reviewed By: andrewjcg  fb-gh-sync-id: 6e1c5b6  

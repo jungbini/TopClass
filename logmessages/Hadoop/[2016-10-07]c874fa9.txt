@@ -1,0 +1,1 @@
+  HDFS-10985. o.a.h.ha.TestZKFailoverController should not use fixed time sleep before assertions. Contributed by Mingliang Liu  

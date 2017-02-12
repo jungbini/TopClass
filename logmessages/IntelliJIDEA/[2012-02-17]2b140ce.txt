@@ -1,0 +1,1 @@
+  IDEA-52158 Debugger views stop to update after changing layout  

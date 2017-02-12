@@ -1,0 +1,1 @@
+  Housekeeping - fixed some old TODO. Made the public model object thinner.  

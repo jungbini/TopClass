@@ -1,0 +1,1 @@
+  Fix bug when notification doesn't disappear after setting module as java  Stop caching value on ProjectRootModificationTracker because marker classes will be visible only after indexing is finished  

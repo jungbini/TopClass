@@ -1,0 +1,1 @@
+  Skip classcycle if there are no classes  This should fix the exceptions when trying to store a non-existent report into the cache.  +review REVIEW-6240  

@@ -1,0 +1,1 @@
+  fixed identifiers completion for plain docstring  

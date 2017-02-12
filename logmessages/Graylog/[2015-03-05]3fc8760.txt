@@ -1,0 +1,1 @@
+  the NodeNotFoundException did not extend NotFoundException, so it wasn't properly mapped.  now requesting operations on non-existing nodes leads to a proper return code of 404 instead of the generic 500. the web interface now shows a proper error messages instead of an internal server error.  fixes Graylog2/graylog2-web-interface#1137  

@@ -1,0 +1,1 @@
+  [git] fix 'no local changes to stash' detection  This is not an error message, but a simple output one. But check both just in case.  

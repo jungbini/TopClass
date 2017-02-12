@@ -1,0 +1,1 @@
+  lua: fix omnibus linking with C/C++ python extension  Summary: Use the correct target name when adding C/C++ python extensions to the omnibus link to avoid a crash at build time.  Test Plan: added unittest  Reviewed By: k21  fbshipit-source-id: 5958cfb  

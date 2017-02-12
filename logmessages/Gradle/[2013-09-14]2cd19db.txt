@@ -1,0 +1,1 @@
+  Changed IvyHttpModule fixture to use HttpArtifact to represent ivy and jar artifacts and removed a bunch of expect... methods from IvyHttpModule.  

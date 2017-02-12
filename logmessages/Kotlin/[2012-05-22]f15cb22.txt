@@ -1,0 +1,1 @@
+  patch from Natasha to fix local var table 0 for function literals  

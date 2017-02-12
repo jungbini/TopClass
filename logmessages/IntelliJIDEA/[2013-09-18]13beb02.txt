@@ -1,0 +1,1 @@
+  fixed PY-10457 Chameleon: missing completion for TALES expression types prefixes  

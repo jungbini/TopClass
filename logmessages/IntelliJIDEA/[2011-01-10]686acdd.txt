@@ -1,0 +1,1 @@
+  fixed PY-2648 Dictionary creation intention breaks code when a value is a tuple  

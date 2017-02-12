@@ -1,0 +1,1 @@
+  fixed registerProblem for new style classes in PY-3315  

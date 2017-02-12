@@ -1,0 +1,1 @@
+  CompilerTester: ensure vfs up to date state when saving module files; fixes tests failing when run second time reusing temp directory  

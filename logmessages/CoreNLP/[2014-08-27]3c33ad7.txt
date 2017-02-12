@@ -1,0 +1,1 @@
+  Add StanfordCoreNLP-spanish.properties, fix model jar script  

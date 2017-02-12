@@ -1,0 +1,1 @@
+  fix(server): fixed logback.xml path in deb  

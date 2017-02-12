@@ -1,0 +1,1 @@
+  Reinstate resolve path fixes for viewfs. (Siddharth Seth via llu)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/MR-279@1143626 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  [git] Add debug logging for start and finish of all Git commands.  Log start in start(), because runInCurrentThread doesn't cover all usages of start() (some history commands are called via start()). Log finish in runInCurrentThread(), because start() is async.  

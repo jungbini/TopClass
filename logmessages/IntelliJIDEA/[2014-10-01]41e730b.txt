@@ -1,0 +1,1 @@
+  IDEA-130388 Inspection settings: Reset to Default does not work if the only changes are inspection-specific options. Another attempt to fix  

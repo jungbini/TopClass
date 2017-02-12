@@ -1,0 +1,1 @@
+  Gradle IC should fail if duplicating class is added  #KT-14554 fixed  

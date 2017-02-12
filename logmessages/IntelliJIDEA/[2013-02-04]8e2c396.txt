@@ -1,0 +1,1 @@
+  Emmet support  - implement Single line filter - fix trim filter  

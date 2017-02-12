@@ -1,0 +1,1 @@
+  fixed GRADLE-975: IDEA plugin should not add source directories which do not exist  

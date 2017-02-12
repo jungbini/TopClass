@@ -1,0 +1,1 @@
+  fixing node slices where the slice is larger than the node set length. closes #131  

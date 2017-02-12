@@ -1,0 +1,1 @@
+  Libraies: npe fix on updating open class files  

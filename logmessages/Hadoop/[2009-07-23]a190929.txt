@@ -1,0 +1,1 @@
+  HBASE-1215 migration; fixes for jgray -- make HStoreFileToStoreFile implement Tool so can pass params  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@797230 13f79535-47bb-0310-9956-ffa450edef68  

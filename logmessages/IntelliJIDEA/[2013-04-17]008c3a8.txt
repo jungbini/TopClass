@@ -1,0 +1,1 @@
+  IDEA-104989 Debugger: Usability regression at 'log breakpoints' management  

@@ -1,0 +1,1 @@
+  VcsRootDetector tests temporary fix  *.mock file must be not deleted from previous test version *should be changed  

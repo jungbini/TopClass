@@ -1,0 +1,1 @@
+  platform: stable order of navigation bar model extensions  (re-fixes IDEA-120667 in better way; is needed for IDEA-134641)  

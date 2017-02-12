@@ -1,0 +1,1 @@
+  fixed failed compatibility test; removed duplication in compatibility message  

@@ -1,0 +1,1 @@
+  IDEA-72633: XDebugger: delete breakpoint on deleting file  

@@ -1,0 +1,1 @@
+  fixed minor issue on binary session management, #6259  

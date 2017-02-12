@@ -1,0 +1,1 @@
+  Specify type explicitly quick fix now has lower case of letters (due to naming convention of quick fixes)  

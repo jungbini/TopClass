@@ -1,0 +1,1 @@
+  ninja - fix flappy unit tests in UFTest that require native protocol server socket  

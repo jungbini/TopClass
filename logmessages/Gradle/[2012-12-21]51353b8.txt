@@ -1,0 +1,1 @@
+  REVIEW-767, REVIEW-742, REVIEW-741: Cleanup Java Library Distribution Plugin. - mark Plugin and Extension as Incubating - fix some documentation issues - changed verification for null distribution name - moved section in release notes to incubating section  

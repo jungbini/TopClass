@@ -1,0 +1,1 @@
+  WEB-8027 long single line values in debugger hang IntelliJ + review  

@@ -1,0 +1,1 @@
+  fix minor arc() sincos problem, and add resize() method to PImage  

@@ -1,0 +1,1 @@
+  Fixed bug reported by Steven in ML when the driver doesn't set correctly the clusterId of new records in transaction. Now if -1 and the record is a document with an assigned schema class, the class's default cluster id is taken. Added one more test case.  

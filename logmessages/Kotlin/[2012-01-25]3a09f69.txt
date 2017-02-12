@@ -1,0 +1,1 @@
+  fix attempt to create JetTypeImpl with ErrorScope  ErrorScope is created here if any typeParameterDescriptor upper bounds scope is ErrorScope  

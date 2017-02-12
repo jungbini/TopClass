@@ -1,0 +1,1 @@
+  IDEA-138954 in debug window when click 'stop' the 're-run' buttons disappears for a short while causing all other buttons shift up and then down again  

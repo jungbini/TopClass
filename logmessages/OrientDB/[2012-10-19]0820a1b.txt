@@ -1,0 +1,1 @@
+  Minor: fixed bugs reported by Pawel about a more strict syntax check in CREATE CLASS command  

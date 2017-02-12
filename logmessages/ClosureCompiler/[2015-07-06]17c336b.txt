@@ -1,0 +1,1 @@
+  Fix a bug in RefasterJS when functions are used as parameters to templates.  The template would contain free calls which would cause bad matching and unwanted code to be generated, so this CL removes free calls from templates since they are usually not what people want. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=97617686  

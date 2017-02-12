@@ -1,0 +1,1 @@
+  Another fixes for #1670  

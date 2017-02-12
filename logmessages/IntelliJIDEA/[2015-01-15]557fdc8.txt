@@ -1,0 +1,1 @@
+  Exception is fixed. We should not assume that checkbox can be null. (improved version)  

@@ -1,0 +1,1 @@
+  Stop saving/checking native Symbol and Reflect in polyfill tests.  This was done originally to work around a bug that was preventing correct transpilation of files. It is no longer needed.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=133764300  

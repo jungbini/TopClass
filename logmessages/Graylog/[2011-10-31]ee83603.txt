@@ -1,0 +1,1 @@
+ Bumped JadConfig to version 0.3, fixes SERVER-59  

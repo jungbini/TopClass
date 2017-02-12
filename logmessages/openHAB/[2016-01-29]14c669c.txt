@@ -1,0 +1,1 @@
+ XBMC-Binding - Log.debug if PVR  Changed logging to debug, if playerID == -1 (PVR).  

@@ -1,0 +1,1 @@
+  Moved logging test fixtures from 'core' to 'logging' project.  

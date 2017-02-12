@@ -1,0 +1,1 @@
+  style query syntax error page. fixes #1385  

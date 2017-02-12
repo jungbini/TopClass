@@ -1,0 +1,1 @@
+ StringBasedPostfixTemplate api - added new method getElementToRemove  

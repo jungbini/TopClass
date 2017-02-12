@@ -1,0 +1,1 @@
+  IDEA-21987 idea is very slow after getting focus back IDEA-91428 directory prefix is useless in "Show directory in editor tabs for non-unique filenames"  

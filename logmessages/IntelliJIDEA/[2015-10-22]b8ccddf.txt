@@ -1,0 +1,1 @@
+  [platform] fixes VM options whitespace handling in Unix startup script; amendment (IDEA-138376)  

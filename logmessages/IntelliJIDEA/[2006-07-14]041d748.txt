@@ -1,0 +1,1 @@
+  enable right-click selection in trees + popup following after selection fix (IDEADEV-7039 )  

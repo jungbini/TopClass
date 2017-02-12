@@ -1,0 +1,1 @@
+  RefCount native frames from netty to avoid corruption bugs  patch by tjake; reviewed by bes for CASSANDRA-7245  

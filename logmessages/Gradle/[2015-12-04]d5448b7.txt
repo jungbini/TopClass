@@ -1,0 +1,1 @@
+  Only use OP_WRITE selector when socket write buffer is full  - attempt to fix daemon connection problems on Windows  

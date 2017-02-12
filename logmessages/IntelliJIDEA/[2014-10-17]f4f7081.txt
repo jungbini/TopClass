@@ -1,0 +1,1 @@
+  [vcs-log] fix header dimensions + fonts in roots table IDEA-105467  

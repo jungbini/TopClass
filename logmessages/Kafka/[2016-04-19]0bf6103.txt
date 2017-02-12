@@ -1,0 +1,1 @@
+  MINOR: Fix typos in code comments  This patch fixes all occurances of two consecutive 'the's in the code comments.  Author: Ishita Mandhan (imandhaus.ibm.com)  Author: Ishita Mandhan <imandha@us.ibm.com>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #1240 from imandhan/typofixes  

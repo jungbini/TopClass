@@ -1,0 +1,1 @@
+  PyCharm debugger breaks django form validation (PY-14578)  Create a separate resolver for Django forms in order to prevent calling self.errors because it is a property and has side effects. Also We shouldn't call str(), because it also has side effects.  

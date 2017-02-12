@@ -1,0 +1,1 @@
+  OptionTableWithPreviewPanel: fix state for renderer  

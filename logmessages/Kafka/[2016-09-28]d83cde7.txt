@@ -1,0 +1,1 @@
+15b89e7 [Damian Guy] merge trunk 6b8a8af [Damian Guy] catch exceptions in various places and throw more informative versions c86eeda [Damian Guy] fix conflicts 8f37e2c [Damian Guy] add some context to exceptions  

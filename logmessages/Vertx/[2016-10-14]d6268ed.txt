@@ -1,0 +1,1 @@
+ fixed command line parameter name to be "hagroup" instead of "ha-group"  Signed-off-by: Richard Perez <riperez@gmail.com>  

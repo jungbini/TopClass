@@ -1,0 +1,1 @@
+  Remove DebuggableTemporaryFolder.  Summary: As it duplicates the functionality of TemporaryPaths.  Test Plan: CI  Reviewed By: beefon  fbshipit-source-id: 334cf8b  

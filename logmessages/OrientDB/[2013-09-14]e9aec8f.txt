@@ -1,0 +1,1 @@
+  Replication: fixed counting of successfull operations  

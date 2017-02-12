@@ -1,0 +1,1 @@
+  PY-11855 Run manage.py task improvements  * Python 2.7 fix (no super()) * Django 1.7 fix (setup is called) * Final fields removed due to XStream deserialization fail * usage() is used instead of bare help  

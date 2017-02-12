@@ -1,0 +1,1 @@
+  Ignore tests of sh_binary on Windows.  Summary: `sh_binary` generates a bash script as a warpper of given command, which is not runnable on Windows. Currently just disable them and fix in future.  Test Plan: Unit tests.  

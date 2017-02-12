@@ -1,0 +1,1 @@
+ Show paginator above active links  When many graphs are shown on the search result page, the affixed paginator may appear above the one on the top of the table. In that case, we should ensure it is displayed on top of the .pagination .active link.  

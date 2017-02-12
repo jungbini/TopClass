@@ -1,0 +1,1 @@
+  WI-4355 ExtJS-all-debug froses UI for minutes on each tab activation  

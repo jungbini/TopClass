@@ -1,0 +1,1 @@
+  Allow custom Package serialization logic to be injected. Also fix incorrect comment in PackageSerializer.  -- MOS_MIGRATED_REVID=103693274  

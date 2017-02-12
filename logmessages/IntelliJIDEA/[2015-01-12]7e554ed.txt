@@ -1,0 +1,1 @@
+  fix obfuscation: move some dependencies of webide-api from projectModel-impl to projectModel-api  

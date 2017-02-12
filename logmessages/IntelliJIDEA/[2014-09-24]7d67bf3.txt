@@ -1,0 +1,1 @@
+  NPE in MultiScopeSeverityIcon fixed,not fount highlight display levels not shown  

@@ -1,0 +1,1 @@
+  fix master info log reference bug  

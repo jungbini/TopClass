@@ -1,0 +1,1 @@
+  IDEA-87399 quick fix if resource class is unresolved, navigate to resource from any place inside R.<class>.<field> reference  

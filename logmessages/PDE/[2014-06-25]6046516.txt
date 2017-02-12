@@ -1,0 +1,1 @@
+  small fix to l4j config so windows build works  

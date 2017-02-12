@@ -1,0 +1,1 @@
+  fixed PY-6271 Move statement: breaks code in case of empty line between parts of compound statement  

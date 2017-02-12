@@ -1,0 +1,1 @@
+  Improve sidebar height calculation  - When the sidebar is on top of the page, we use the scroll event to calculate its height - When the user scrolls down and the sidebar is fixed, we use the bootstrap affix and window events to recalculate the sidebar height  

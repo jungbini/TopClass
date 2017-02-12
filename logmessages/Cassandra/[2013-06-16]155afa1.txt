@@ -1,0 +1,1 @@
+  fix error message spelling with cql select statements patch by rvieira reviewed by dbrosius for cassandra-5647  

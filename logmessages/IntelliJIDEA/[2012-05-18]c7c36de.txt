@@ -1,0 +1,1 @@
+  coverage: show % in project view/coverage view when source root contains package prefix  

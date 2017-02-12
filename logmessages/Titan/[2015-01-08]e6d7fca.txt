@@ -1,0 +1,1 @@
+  Dropped changelog entry for 0.5.3, fixed test  Conflicts: CHANGELOG.asc titan-test/src/main/java/com/thinkaurelius/titan/graphdb/TitanGraphTest.java  

@@ -1,0 +1,1 @@
+  fix(iOS): Restored message menus, added deletions, fixing message tap  

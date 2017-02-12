@@ -1,0 +1,1 @@
+  fix old usage of dimension as string instead of dimensionSchema in DataSchema (#3365)  

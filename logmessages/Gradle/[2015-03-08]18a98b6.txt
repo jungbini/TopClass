@@ -1,0 +1,1 @@
+  Further test coverage for dependency substitution with the idea plugin  - Extracted coverage into separate integration test - Use inline build scripts and test fixtures for readability - Added (currently failing) test for replacing transitive external dependency with project dependency  

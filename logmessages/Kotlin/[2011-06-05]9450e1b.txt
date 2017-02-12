@@ -1,0 +1,1 @@
+  JET-84 Support generic parameter constraints for class objects Test for classes + small fixes  

@@ -1,0 +1,1 @@
+  HDFS-8444. Erasure Coding: fix cannot rename a zone dir (Contributed by Walter Su)  

@@ -1,0 +1,1 @@
+  no fixed and collection children intersections in tests  

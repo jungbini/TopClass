@@ -1,0 +1,1 @@
+  IDEADEV-26888 additional fix (NPE at org.jetbrains.idea.svn.dialogs.BranchConfigurationDialog.configureBranches)  

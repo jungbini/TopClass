@@ -1,0 +1,1 @@
+  merge validateKey/validateKeyType, add CF validation to cql, add comparator to cql name validation.  fixes test NPE. patch by jbellis  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1086755 13f79535-47bb-0310-9956-ffa450edef68  

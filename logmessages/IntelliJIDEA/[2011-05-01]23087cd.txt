@@ -1,0 +1,1 @@
+  [ann] Default template inspection fixed to work on multi-catch sections  

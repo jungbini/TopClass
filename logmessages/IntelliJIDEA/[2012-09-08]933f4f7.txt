@@ -1,0 +1,1 @@
+  proper fix for handling identical keys (cherry-picked from f09ac2d)  

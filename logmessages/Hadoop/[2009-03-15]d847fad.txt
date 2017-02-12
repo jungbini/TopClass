@@ -1,0 +1,1 @@
+  Merge -r 754644:754645 from trunk to branch 0.20 to fix HADOOP-4783.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/branches/branch-0.20@754646 13f79535-47bb-0310-9956-ffa450edef68  

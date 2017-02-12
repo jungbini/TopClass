@@ -1,0 +1,1 @@
+  IDEA-145379 Invisible selection for debugger break line  

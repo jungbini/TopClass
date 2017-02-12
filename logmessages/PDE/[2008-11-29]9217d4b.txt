@@ -1,0 +1,1 @@
+  fix import regexp to not pick up so much garbage (bug #1064)  

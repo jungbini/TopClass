@@ -1,0 +1,1 @@
+  take care of font scaling for 2x density (fixes #2739)  

@@ -1,0 +1,1 @@
+  Pulled manual shape fix on max. We can't assume 1 for all resulting shapes. It needs to keep the epsilon shape and blow up the last 2 values when a tensor shape 4. Avg backprop also should retain depth in position 1 with results.  

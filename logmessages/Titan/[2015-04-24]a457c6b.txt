@@ -1,0 +1,1 @@
+  Fixed bug in IndexRemoveJob. The issue was that a slicequery starting with 128 0s was used as the start slice in an attempt to get all columns. However, if the contents of the buffer are identical it compares the lengths. Hence, a staticbuffer with just a single 0 in it will be considered smaller and hence such index records werent' returned.  

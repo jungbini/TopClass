@@ -1,0 +1,1 @@
+  [no reviewer] fix help in CVS repository browser (IDEADEV-22272)  

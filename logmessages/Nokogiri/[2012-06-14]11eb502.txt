@@ -1,0 +1,1 @@
+  Manually merges pull request #681. Thanks, Piotr Szmielew. This fixes xpath with namespace raises an error.  

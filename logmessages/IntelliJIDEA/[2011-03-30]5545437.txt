@@ -1,0 +1,1 @@
+  xdebugger api: added ability to format text selected in editor for 'Evaluate' dialog  

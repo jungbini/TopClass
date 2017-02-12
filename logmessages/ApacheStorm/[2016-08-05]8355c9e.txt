@@ -1,0 +1,1 @@
+ Merge branch 'STORM-2020' of https://github.com/revans2/incubator-storm into STORM-2020  STORM-2020: Stop using sun internal classes. STORM-2021: Fix license. STORM-2022: fix FieldsTest  commit 8355c9ee269efa3f61ee25b4f8515ca5ad196a24  fix parent version of storm-kinesis module  

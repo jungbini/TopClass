@@ -1,0 +1,1 @@
+  IDEA-119640 Problem with goto declaration of XML attribute defined in XSD: re-fixed, completion fixed  

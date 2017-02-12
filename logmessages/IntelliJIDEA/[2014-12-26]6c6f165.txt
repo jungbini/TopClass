@@ -1,0 +1,1 @@
+  tests fixed: use 'loadProject' instead of 'newProject' to create a project from existing configuration  

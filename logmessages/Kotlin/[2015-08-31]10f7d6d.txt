@@ -1,0 +1,1 @@
+  Inspection (and quickfix) for extension propeties conflicting with synthetic ones  

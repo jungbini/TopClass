@@ -1,0 +1,1 @@
+  Since '@A R.() -> T' is now parsed as '@A (R.() -> T)', receiver type with modifiers or annotations should be surrounded in parentheses on rendering: '(@A R).() -> T'  This also fixes stub builder tests (which check that stubs are consistent with rendered descriptors).  

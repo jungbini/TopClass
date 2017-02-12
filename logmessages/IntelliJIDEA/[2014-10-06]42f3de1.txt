@@ -1,0 +1,1 @@
+  invert boolean: cancel refactoring on cancel, fix read-only status change (IDEA-130836)  

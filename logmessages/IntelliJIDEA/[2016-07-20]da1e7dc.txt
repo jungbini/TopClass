@@ -1,0 +1,1 @@
+  IDEA-156735 Bookmarks causing typing slowness (get rid of debug output)  

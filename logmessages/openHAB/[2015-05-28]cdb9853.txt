@@ -1,0 +1,1 @@
+ InsteonPLM: fixed faulty message definition for 0x56 (ALLLinkCleanupFailureReport)  

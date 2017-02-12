@@ -1,0 +1,1 @@
+  NPE when setting tabbed content icons fixed (compatibility fix with CLion 2016.3.2)  

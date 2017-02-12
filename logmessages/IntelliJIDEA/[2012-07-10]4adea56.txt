@@ -1,0 +1,1 @@
+  AppCode:Debugger: do not show internal file types in UI (OC-3943)  

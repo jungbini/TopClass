@@ -1,0 +1,1 @@
+  fix for several (unlikely all) closely related problems with handling of byte/short/char on Delvik #KT-2251 fixed  

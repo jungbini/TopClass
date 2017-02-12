@@ -1,0 +1,1 @@
+ fix leading spaces causing failure to match test name  Addresses https://github.com/go-lang-plugin-org/go-lang-idea-plugin/issues/1853  

@@ -1,0 +1,1 @@
+  IDEA-146300 An inspection to report StubBasedPsiElementBase inheritors with default getParent implementation fix/align inspection display name  

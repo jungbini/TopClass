@@ -1,0 +1,1 @@
+  Don't suggest live template inside string literals (PY-12349)  The previous fix was unsuccessful since we ignored only string literal elements but not their subparts.  

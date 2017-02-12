@@ -1,0 +1,1 @@
+  small fix when setting sampling uniform  

@@ -1,0 +1,1 @@
+  registration of referenced by id elements uses elements themselves, not their attr values that fixes rename of ids on referenced by id elements  

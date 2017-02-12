@@ -1,0 +1,1 @@
+  Fix platform-specific integration test - Can't use the '-Wl,-pie' linker option on linux (but --strip-debug is not available on OSX) - Missing quote in windows version - Try adding another compiler arg to force compiler output to be 

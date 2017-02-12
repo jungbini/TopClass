@@ -1,0 +1,1 @@
+  inline debugger: fixed slow variables tree update due to lots of sourcePosition requests in the debugger thread, also do not show fields values at the declaration for not "this" objects  

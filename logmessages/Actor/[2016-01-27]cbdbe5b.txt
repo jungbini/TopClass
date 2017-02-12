@@ -1,0 +1,1 @@
+  fix(iOS): fix photo/voice and etc no permissions bug  

@@ -1,0 +1,1 @@
+  fix IDEA-125812 again: Now it's impossible to switch between recent files and recent edited files  

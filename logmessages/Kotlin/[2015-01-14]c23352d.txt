@@ -1,0 +1,1 @@
+  Remove ParentCodegenAware  Inline its fields to subclasses, fix parent codegen nullability  

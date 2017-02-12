@@ -1,0 +1,1 @@
+  fix issue with loading resources from jar, use IOUtils method  

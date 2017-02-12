@@ -1,0 +1,1 @@
+  renamed derivations according to new transform()/filter() pattern. Found a nasty bug in FaunusGraph that showed up in only a particular sequence. Stubbed FaunsGraphTest which is necessary. More test cases to MapSequenceTest.  

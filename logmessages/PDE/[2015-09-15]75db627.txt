@@ -1,0 +1,1 @@
+  Only add core libraries that are installed in the sketchbook (fixes #3688)  

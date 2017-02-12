@@ -1,0 +1,1 @@
+  [r=cdr] fix regression: empty default log message text when add breakpoint action with shift-click  

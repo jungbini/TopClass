@@ -1,0 +1,1 @@
+  IDEA-127918 Unnecessary quotes are added to variable value copied to clipboard in debugger  

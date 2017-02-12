@@ -1,0 +1,1 @@
+  IDEA-113911 Display decoded urls (and url parts) in user interface elements - fixed for "working copies information" panel and "update" dialog  

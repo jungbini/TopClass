@@ -1,0 +1,1 @@
+  HDFS-5510. Fix a findbug warning in DataStorage.java on HDFS-2832 branch. (Contributed by Junping Du)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-2832@1542006 13f79535-47bb-0310-9956-ffa450edef68  

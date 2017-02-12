@@ -1,0 +1,1 @@
+  fixed broken order in pythonpath (append value to the end) so fixed PY-6312 Unit Tests no longer run in PyCharm 2.x and probably(can't reproduce any) it helped with PY-3852 Since 1.5 I can not launch the django runserver via the PyCharm PY-5076 Unable to run manage.py commands from PyCharm 2.0 beta  

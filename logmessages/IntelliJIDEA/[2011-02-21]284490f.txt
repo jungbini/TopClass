@@ -1,0 +1,1 @@
+  fix assertions when hitting ctrl+space with hint autopopup active  

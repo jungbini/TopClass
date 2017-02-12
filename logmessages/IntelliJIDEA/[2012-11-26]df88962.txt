@@ -1,0 +1,1 @@
+  small fixes for Spinner (cherry-picked from 81e0cb4)  

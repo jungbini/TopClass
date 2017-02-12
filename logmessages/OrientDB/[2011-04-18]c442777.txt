@@ -1,0 +1,1 @@
+  Fixed bug reported by Andrey in the Forum about ORDER BY + LIMIT parsing error in SQL statements  

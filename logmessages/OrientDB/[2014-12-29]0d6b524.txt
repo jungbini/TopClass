@@ -1,0 +1,1 @@
+  fixed issue #3131 (not null and collation)  

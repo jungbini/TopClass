@@ -1,0 +1,1 @@
+ for postgresql completion bb24bc0 [CloverHearts] bug fixed auto completion for postgresql interpreter  

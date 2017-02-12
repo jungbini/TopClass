@@ -1,0 +1,1 @@
+  fixed Exception bug in Inverter and wrote test case.  

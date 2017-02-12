@@ -1,0 +1,1 @@
+  fix use scope calculation for variables inside class methods (PY-1619)  

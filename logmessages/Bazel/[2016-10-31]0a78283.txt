@@ -1,0 +1,1 @@
+  Move Bazel{ActionListener,ExtraAction} rule to rules.extra and drop prefix.  -- MOS_MIGRATED_REVID=137694143  

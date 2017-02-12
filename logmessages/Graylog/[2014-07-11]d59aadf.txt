@@ -1,0 +1,1 @@
+ fix version tests (and remove the superfluous ones)  

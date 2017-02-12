@@ -1,0 +1,1 @@
+  Minor fixes for CQL3  patch by slebresne; reviewed by jbellis for CASSANDRA-4185  - Fix float parsing - Refuse more invalidate create statements - Fix count in select - Disallow counters in primary keys  

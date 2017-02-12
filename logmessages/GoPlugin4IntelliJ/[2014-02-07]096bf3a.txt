@@ -1,0 +1,1 @@
+ Merge pull request #591 from m0sth8/fix_function_variadic_inspection  Fix type inspection for functions with variadic arguments  commit 096bf3ace21385df06d392fa44fa800d68e722bf  create global constant quick fix  

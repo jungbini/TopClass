@@ -1,0 +1,1 @@
+  git log performance: better use topo order for a fixed hashes case (either does not matter or not slower)  

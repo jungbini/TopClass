@@ -1,0 +1,1 @@
+  NPE fix & more correct DOM meta data handling  

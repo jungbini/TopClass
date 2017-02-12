@@ -1,0 +1,1 @@
+  Distributed: TX completion message now is asynchronous + fixed bug on delta sync on fast hw/sw configurations  Transaction mode now is at least about 30% faster because it avoids the latency for the 2nd message of transaction completion.  

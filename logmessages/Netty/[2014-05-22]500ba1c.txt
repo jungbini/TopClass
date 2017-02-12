@@ -1,0 +1,1 @@
+  Hide unwanted debug logs and warnings from Maven plugins  

@@ -1,0 +1,1 @@
+  fixed GRADLE-2404: Groovy compilation with useAnt=true and fork=false fails with latest Groovy releases  - use 

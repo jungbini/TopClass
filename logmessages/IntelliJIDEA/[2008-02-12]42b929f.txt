@@ -1,0 +1,1 @@
+  more performant and accurate subtyping handling Actionscript/Flex Code completion does not suggest namespaced functions defined in Flex SDK, even when explicitly imported (IDEADEV-24716) Automatic adding <![CDATA[ ]]> when adding <mx:Script></mx:Script> in mxml file (IDEADEV-24426) AS quick fix "create method" bug (IDEADEV-24757)  

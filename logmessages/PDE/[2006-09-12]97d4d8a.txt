@@ -1,0 +1,1 @@
+  tweaks to mouse handling code for bug #170 and an osx mouse jumping bug  

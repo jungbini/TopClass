@@ -1,0 +1,1 @@
+  #RUBY-11497 fixed #RUBY-11336 fixed made lexer understand keys with brackets improved regexp for scalar keys to handle # within improved comments handling to treat # without whitespace before as text  

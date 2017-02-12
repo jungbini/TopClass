@@ -1,0 +1,1 @@
+  udp forwarder, facility fixes. also the server is now logging to mongodb, with facility 'graylog2-server'. self-logging ;)  

@@ -1,0 +1,1 @@
+  fixed issue on server boot with root password configurated in xml.  

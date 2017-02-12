@@ -1,0 +1,1 @@
+  external build: check timestamps for dirty files received from IDEA to be sure that they were really changed; fixed events for jar artifacts  

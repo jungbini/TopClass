@@ -1,0 +1,1 @@
+  AppCode: file structure shortcut fixed in Xcode scheme + some shortcuts rearranged to show Xcode's shortcut by default  

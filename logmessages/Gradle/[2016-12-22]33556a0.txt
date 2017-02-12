@@ -1,0 +1,1 @@
+  Add Alex McAusland to contributors and fix grammar error in release notes  

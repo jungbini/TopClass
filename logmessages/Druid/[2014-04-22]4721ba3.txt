@@ -1,0 +1,1 @@
+ Merge pull request #498 from metamx/fix-nan-serde  handle NaN / Infinity values  commit 4e1c159ff1473833eb84b8c100a22df2746828ab  Merge pull request #497 from metamx/fix-metrics  Fix server metrics to avoid NaN and Infinity  commit 4721ba3f1ec5542bf5c2d2a4c15f054c856da8f4  add test + small fix for other test  

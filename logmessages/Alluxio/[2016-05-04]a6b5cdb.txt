@@ -1,0 +1,1 @@
+ Merge pull request #3148 from jsimsa/fix  [SMALLFIX] adding a unit test and cleaning up messages and comments  commit a6b5cdbf64a53f74c35fe580a7c9f3120dad62d9  Removing unused constant and adding a constant for the REST API prefix.  

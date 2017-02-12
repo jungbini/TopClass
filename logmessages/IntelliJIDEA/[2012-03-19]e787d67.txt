@@ -1,0 +1,1 @@
+  IDEA-83011 Eliminate performance bottleneck during editing file with multiple injections  1. Injected range marker correctly works in case when it intersects with injected prefix/suffix; 2. Corresponding test is added;  

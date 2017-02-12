@@ -1,0 +1,1 @@
+  EA-40398 fixed class loading order issues that caused NPEs in syntax highlighters due to EditorColorsManager not initialized on time [r=cdr]  

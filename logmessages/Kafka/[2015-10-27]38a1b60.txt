@@ -1,0 +1,1 @@
+yasuhiro@confluent.io>  Reviewers: Guozhang Wang  Closes #372 from ymatsuda/commit_offset  

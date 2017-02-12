@@ -1,0 +1,1 @@
+  SSR: better canMatch() check to fix PHP structural search inspection  

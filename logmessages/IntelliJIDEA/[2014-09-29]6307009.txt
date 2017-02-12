@@ -1,0 +1,1 @@
+  Restored "Launch Vagrant" fix for packages list panel  

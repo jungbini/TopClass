@@ -1,0 +1,1 @@
+  added bugzilla auth to happenings submit to stop spam  

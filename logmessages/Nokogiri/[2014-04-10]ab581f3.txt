@@ -1,0 +1,1 @@
+  iconv_prefix: Improve handling of path names.  Avoid a regexp match, properly quote an include directory, and check iconv.h's existence with file? instead of exist?.  

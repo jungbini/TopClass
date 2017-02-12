@@ -1,0 +1,1 @@
+  inspection tool window: package with same non-qualified name grouping fixed IDEA-140009  

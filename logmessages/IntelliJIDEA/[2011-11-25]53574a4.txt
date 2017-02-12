@@ -1,0 +1,1 @@
+  [nika] typeahead request blocked exception fix  

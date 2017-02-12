@@ -1,0 +1,1 @@
+  [vcs-log] fix ActionsTreeTest: set some description and presentation in CollapseOrExpandGraphAction constructor  

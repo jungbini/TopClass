@@ -1,0 +1,1 @@
+  new debugger ui: minimize view, iteration 1  

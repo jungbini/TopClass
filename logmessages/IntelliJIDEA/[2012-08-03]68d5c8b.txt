@@ -1,0 +1,1 @@
+  update channels in ApplicationInfo.xml don't need to be fixed because they aren't used for anything any more; remove them to avoid confusion  

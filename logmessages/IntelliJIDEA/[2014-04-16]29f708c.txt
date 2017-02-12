@@ -1,0 +1,1 @@
+  EnterInStringLiteralHandler should use language-specific option for operation sign (fixes IDEA-114783), [CR-IC-5159]  

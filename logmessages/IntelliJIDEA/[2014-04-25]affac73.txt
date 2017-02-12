@@ -1,0 +1,1 @@
+  fixed PY-12731 Creating test profile from context menu unexpectedly creates django tests  

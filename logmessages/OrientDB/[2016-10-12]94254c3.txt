@@ -1,0 +1,1 @@
+  HA: fixed shutdown of storages  

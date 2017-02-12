@@ -1,0 +1,1 @@
+  Simplify file chooser API; fix EA-35601  

@@ -1,0 +1,1 @@
+  fixed delete of files of an open database.  

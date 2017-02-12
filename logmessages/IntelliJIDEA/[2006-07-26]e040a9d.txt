@@ -1,0 +1,1 @@
+  possible NPE on update or merge fixed.  

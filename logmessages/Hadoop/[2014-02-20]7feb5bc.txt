@@ -1,0 +1,1 @@
+  HDFS-5979. Typo and logger fix for fsimage PB code. (wang)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1570071 13f79535-47bb-0310-9956-ffa450edef68  

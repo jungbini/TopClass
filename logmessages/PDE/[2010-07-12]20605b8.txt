@@ -1,0 +1,1 @@
+ fix for preproc errors with 'public class' (issue #292)  

@@ -1,0 +1,1 @@
+  1) Include new version of java-util to fix issue with resources not getting closed when an exception is thrown sometimes 2) Whitespace changes to GroupByQueryEngine  

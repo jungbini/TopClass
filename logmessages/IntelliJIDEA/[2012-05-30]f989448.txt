@@ -1,0 +1,1 @@
+  fix apply patch exception (check whether files reported as changed - from project directories - are directories - and save only files) (cherry-picked from ce3f12b) [review=kirill.l]  

@@ -1,0 +1,1 @@
+  Annotation tests are now almost ok (there is still some technical bug in testcases).  

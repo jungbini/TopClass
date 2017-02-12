@@ -1,0 +1,1 @@
+  fix counter add/get using CQL2 and CQL3 in stress tool patch by Aleksey Yeschenko; reviewed by Pavel Yaskevich for CASSANDRA-4633  

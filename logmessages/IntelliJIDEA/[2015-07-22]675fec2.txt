@@ -1,0 +1,1 @@
+  fix UI glitches in progress bars on IntelliJ LaF (96DPI)  

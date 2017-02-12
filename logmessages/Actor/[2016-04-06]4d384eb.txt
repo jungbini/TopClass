@@ -1,0 +1,1 @@
+  fix(android): Hide voice call button when calls are not enabled  

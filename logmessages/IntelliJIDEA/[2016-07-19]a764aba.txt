@@ -1,0 +1,1 @@
+  gui-tests-framework: GuiTests fix for Privacy Policy Agreement dialog; skip testProjectLeak for GUITests  

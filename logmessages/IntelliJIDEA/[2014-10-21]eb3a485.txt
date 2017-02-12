@@ -1,0 +1,1 @@
+  fixed PY-14115 IPython Notebook: not able to attach saved in pycharm notebook: missing output_type for the cell with png plot  

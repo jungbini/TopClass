@@ -1,0 +1,1 @@
+ Merge pull request #3689 from xhad1234/master  [SMALLFIX] correct a small bug in formatter xml  commit 94a827d0ad7ca75c5bbf1816755e48a8bd2078ac  Merge pull request #3673 from xgong/Alluxio-2075  [ALLUXIO-2075] Consolidate stripPrefixIfPresent mothed into Util  commit 7d8a718d5efc9cc660de49afe98299203798f299  [DOCFIX] Address comments and fix format  

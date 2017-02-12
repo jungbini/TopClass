@@ -1,0 +1,1 @@
+aster' into dev/interpreter-tag-fixed c725381 [CloverHearts] revert - style margin-top-0 and removed margin-top in paragraph.css cd6db05 [CloverHearts] Property between Table - removed margin 5c6e476 [CloverHearts] revert to e-form 771c901 [CloverHearts] fixed to correct html(bootstrap) syntax for interpreter setting page.  

@@ -1,0 +1,1 @@
+ Merge pull request #816 from metamx/fix-search  fix search with same value in multiple columns  commit 9788f7dcf60b7e5aed785bdddaa2157da3120480  Merge branch 'master' of github.com:metamx/druid into fix-search  commit 3e158f00eff0f0941c7820f4dde5f94f007f743a  fix random lowercasing in test  

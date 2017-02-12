@@ -1,0 +1,1 @@
+  Ninja: fix index name spec for CREATE INDEX in CQL docs  Follow-up for CASSANDRA-7527  

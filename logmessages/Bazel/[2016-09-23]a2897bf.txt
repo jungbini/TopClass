@@ -1,0 +1,1 @@
+  Split the workspace status keys into stable and volatile parts based on if they are prefixed with STABLE_.  Fixes #1758 .  -- MOS_MIGRATED_REVID=134058125  

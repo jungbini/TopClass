@@ -1,0 +1,1 @@
+  Fix a bug in CoordinationPattern for negated conjunctions. Previously such things could not be created, but I am about to check in a tregex change which will allow it  

@@ -1,0 +1,1 @@
+  IDEA-140851 Keymap with  characters doesn't get stored properly. (fix overloading issue)  

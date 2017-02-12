@@ -1,0 +1,1 @@
+  debugger: preserving tree state (selection and expanded state) on per-thread and per-view basis  

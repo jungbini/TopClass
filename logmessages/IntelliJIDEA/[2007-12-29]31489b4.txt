@@ -1,0 +1,1 @@
+  view breakpoints action moved to xdebugger  

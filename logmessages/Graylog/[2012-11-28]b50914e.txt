@@ -1,0 +1,1 @@
+  include precompiled asset pipeline hipstercrap  fixes #WEBINTERFACE-380  

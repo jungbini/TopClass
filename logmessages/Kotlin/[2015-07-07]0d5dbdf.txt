@@ -1,0 +1,1 @@
+  Added completion action to exclude classes/packages.  #KT-2413 fixed  

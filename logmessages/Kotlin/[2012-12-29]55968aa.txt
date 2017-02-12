@@ -1,0 +1,1 @@
+  fixed an exception from 'getConstructorReferenceExpression' (from exception analyzer)  

@@ -1,0 +1,1 @@
+  Addendum patch to fix build after porting YARN-4546.  

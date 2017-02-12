@@ -1,0 +1,1 @@
+  ProjectBytecodeAnalysis: change "too many equations" to log.debug level because it might contain sensitive data  

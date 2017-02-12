@@ -1,0 +1,1 @@
+  we must use case-sensitive natural compare  constants must be first, but our naturalCompare is "buggy", so, we perform manual sort before call platform function  

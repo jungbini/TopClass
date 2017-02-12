@@ -1,0 +1,1 @@
+  IDEA-129587 Code folding of one-line methods hides array brackets  * fix IOOBE  

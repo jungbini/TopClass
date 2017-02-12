@@ -1,0 +1,1 @@
+  -allowing xml PIs in HTML (for convenience) -fixed issued with wrong lexer highlighter on change in JS code  

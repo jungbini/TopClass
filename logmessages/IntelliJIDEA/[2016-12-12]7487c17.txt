@@ -1,0 +1,1 @@
+  [project view] fix reopening saved pane (IDEA-164733)  

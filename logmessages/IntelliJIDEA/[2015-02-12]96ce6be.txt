@@ -1,0 +1,1 @@
+  Use debugger variable value as a default text in search in path - fix for toString renderer  

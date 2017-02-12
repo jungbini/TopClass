@@ -1,0 +1,1 @@
+  fix sample for changing java project source layout  

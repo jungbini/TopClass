@@ -1,0 +1,1 @@
+  Proper names for Python PSI classes for comprehension expressions  They have "Py" prefix and do not contain ugly "Comprh" abbreviation anymore.  

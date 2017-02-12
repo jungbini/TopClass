@@ -1,0 +1,1 @@
+  fix(server): fixed condition in ImportContacts handler  

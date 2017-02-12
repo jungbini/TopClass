@@ -1,0 +1,1 @@
+  fix(iOS): Fixing progress view in document cell  

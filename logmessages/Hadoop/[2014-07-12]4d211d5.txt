@@ -1,0 +1,1 @@
+  YARN-2274. FairScheduler: Add debug information about cluster capacity, availability and reservations. (kasha)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1609942 13f79535-47bb-0310-9956-ffa450edef68  

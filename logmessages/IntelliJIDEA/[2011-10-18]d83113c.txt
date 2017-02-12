@@ -1,0 +1,1 @@
+  registry value for min time in progresses for debugging  

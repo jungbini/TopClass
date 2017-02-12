@@ -1,0 +1,1 @@
+  merge r819612 from trunk (fix bit math on column name read)  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.4@819659 13f79535-47bb-0310-9956-ffa450edef68  

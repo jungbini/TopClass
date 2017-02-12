@@ -1,0 +1,1 @@
+  Render widgets ordered to avoid positioning issues  It looks like this and the hotfix added again in 8e49ff2 help avoiding positioning issues when a new widget is added.  

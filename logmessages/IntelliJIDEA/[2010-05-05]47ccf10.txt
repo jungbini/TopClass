@@ -1,0 +1,1 @@
+  RUBY-6005 NPE during debug  

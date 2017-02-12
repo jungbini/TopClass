@@ -1,0 +1,1 @@
+  Allow to create single quickfix for several same-type diagnostics  This going to be used for multiple auto-import for components functions and get/set pair for delegated properties  

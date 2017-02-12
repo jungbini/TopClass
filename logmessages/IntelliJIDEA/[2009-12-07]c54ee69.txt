@@ -1,0 +1,1 @@
+  Maven: fix for not working 'Show basic phases only' action in the projects tree  

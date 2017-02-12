@@ -1,0 +1,1 @@
+  lst: clear dirty range on reinstallRanges()  this fixes some of "java.lang.IndexOutOfBoundsException: Wrong line: 418. Available lines count: 418" in doUpdateRanges()  

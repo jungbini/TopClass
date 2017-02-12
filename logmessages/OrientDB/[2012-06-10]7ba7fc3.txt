@@ -1,0 +1,1 @@
+  1. Issue 877 was fixed. 2. JSON integer serialization issue was fixed. 3. Small build issue was fixed. Log dir now is cleared but not removed.  

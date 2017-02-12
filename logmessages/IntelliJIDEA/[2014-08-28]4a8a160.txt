@@ -1,0 +1,1 @@
+  fixed ProgressUtils: removed runWithWritePriority since it is inherently racy, remove listener only after Future completion  

@@ -1,0 +1,1 @@
+  JS backend: minor -- dropped temporary hack after KT-4517 fixed.  

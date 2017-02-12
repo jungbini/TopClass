@@ -1,0 +1,1 @@
+  python_binary: don't access source paths objects when forming rule key  Summary: The `appendDetailsToRuleKey` method would resolve and hash the input sources regardless of whether they were path or build rule source paths. This 

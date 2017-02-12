@@ -1,0 +1,1 @@
+  IDEA-144395 Unable to Save Settings (fast fix, the reason is not clear)  

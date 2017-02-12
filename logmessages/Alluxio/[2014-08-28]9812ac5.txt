@@ -1,0 +1,1 @@
+ fixed range check for inode file  

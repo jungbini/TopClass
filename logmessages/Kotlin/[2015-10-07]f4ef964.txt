@@ -1,0 +1,1 @@
+  Idea: add quick fix for replacing usages of deprecated "INSTANCE$" field  

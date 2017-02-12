@@ -1,0 +1,1 @@
+  fixed bugs in missing functions in kdoc  

@@ -1,0 +1,1 @@
+  fixed (PY-2317) Doctest run configuration isn't suggested when a file has a module-level doctest  

@@ -1,0 +1,1 @@
+  run inspection as intention in EDT: less intentions, possible not to highlight but still has a fix, and could be run over scope  

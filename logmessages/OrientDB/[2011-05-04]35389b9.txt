@@ -1,0 +1,1 @@
+  - Contribution by Luca Molino to fix issue 256. Now an exception is raised when limit == 0 - Internal refactoring to support index searches  

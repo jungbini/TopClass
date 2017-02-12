@@ -1,0 +1,1 @@
+ Minor fix,to remove redundant instanceof check in if condition  

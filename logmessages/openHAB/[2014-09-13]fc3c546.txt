@@ -1,0 +1,1 @@
+  use modified StreamClientImpl to fix an issue where sonos devices weren't discovered in a basic network setup  

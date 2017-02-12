@@ -1,0 +1,1 @@
+  Some little fixes to ResourceManager.  - Make sure that empty ResourceSets are always == ResourceSet.ZERO and use that for easier comparison. - No longer allow nested resource acquisition, because it may lead to deadlocks.  -- MOS_MIGRATED_REVID=131567446  

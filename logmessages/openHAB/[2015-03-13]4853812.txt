@@ -1,0 +1,1 @@
+  Request association group on startup This fixes a bug where initialisation of a new device doesn't read back the association and ultimately retries out.  

@@ -1,0 +1,1 @@
+  fix opening files for edit in Inline Parameter (IDEADEV-24123)  

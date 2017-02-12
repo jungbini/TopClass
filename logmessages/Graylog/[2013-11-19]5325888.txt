@@ -1,0 +1,1 @@
+  allow dots in message field names  fixes #310  

@@ -1,0 +1,1 @@
+  debugger: don't try to find PsiElement after file end (CR-IC-6167)  

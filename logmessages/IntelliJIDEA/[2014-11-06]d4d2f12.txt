@@ -1,0 +1,1 @@
+  fixed PY-9074 Test runner starts all tests if cursor is at the very end of the test method  

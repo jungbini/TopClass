@@ -1,0 +1,1 @@
+  NPE on project close fix  

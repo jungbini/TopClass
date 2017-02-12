@@ -1,0 +1,1 @@
+  fixups tag for docker container to "latest" instead of build number  

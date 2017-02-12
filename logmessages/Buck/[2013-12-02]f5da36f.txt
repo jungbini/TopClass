@@ -1,0 +1,1 @@
+  Flesh out the unit test for ProjectFilesystem.  Summary: Found one bug that would have been a problem in integration tests.  Test Plan: Sandcastle builds.  

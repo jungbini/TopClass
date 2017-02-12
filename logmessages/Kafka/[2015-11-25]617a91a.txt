@@ -1,0 +1,1 @@
+  HOTFIX: fix StreamTask.close()  guozhangwang  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Guozhang Wang  Closes #586 from ymatsuda/fix_streamtask_close  

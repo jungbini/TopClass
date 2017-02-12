@@ -1,0 +1,1 @@
+  Dropped some TODOs  #KT-2564 Obsolete. Looks like, it's fixed in dcddd04.  

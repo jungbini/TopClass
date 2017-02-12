@@ -1,0 +1,1 @@
+  Make sure that channel expressions are properly transferring the types.  Closes #109.  Also fixed some issues with how the references define the internal text ranges.  Signed-off-by: Mihai Claudiu Toader <mtoader@gmail.com>  

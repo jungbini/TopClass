@@ -1,0 +1,1 @@
+ add integration test for issue fix one wrong log level in trace  Signed-off-by: alexlehm <alexlehm@gmail.com>  

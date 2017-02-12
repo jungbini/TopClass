@@ -1,0 +1,1 @@
+ CPP-6752 When target is suspended due to interruption and position is not known code, frames list should be shown regardless the setting 'Debugger | Show debugger window on breakpoint' was updated: XDebugSession API changed reverted, private api used instead  

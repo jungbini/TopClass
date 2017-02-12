@@ -1,0 +1,1 @@
+  small fix in permission checking in ClientState, related to CASSANDRA-4490  

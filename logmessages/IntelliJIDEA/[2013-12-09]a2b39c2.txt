@@ -1,0 +1,1 @@
+ separate process (in gradle daemon, not in IDE process)  

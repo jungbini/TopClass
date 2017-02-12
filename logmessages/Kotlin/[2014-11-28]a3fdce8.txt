@@ -1,0 +1,1 @@
+  Highlighting "as Foo" for useless casts in gray.  #KT-6070 fixed  

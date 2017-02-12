@@ -1,0 +1,1 @@
+  Fixed a bug on reusing of graph instance in thread local. Improved performance by avoiding creating a new Graph+DB instance in the case the kind of graph doesn't really matter (idempotent functions)  

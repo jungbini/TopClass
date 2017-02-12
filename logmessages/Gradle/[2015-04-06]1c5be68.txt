@@ -1,0 +1,1 @@
+  Ensure the artifacts are attached to a LocalComponent ModuleDescriptor  - This fixes publication to Ivy - This is temporary until we use the artifact details rather than the ModuleDescriptor for describing artifacts in published Ivy.xml  

@@ -1,0 +1,1 @@
+  [log] more debug info for "no references pointing to head" error  

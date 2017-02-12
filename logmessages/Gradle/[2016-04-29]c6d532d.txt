@@ -1,0 +1,1 @@
+  Restore ability to have dots in `ModelPath` components  This fixes a regression, where tasks could have dots in names.  +review REVIEW-5921  

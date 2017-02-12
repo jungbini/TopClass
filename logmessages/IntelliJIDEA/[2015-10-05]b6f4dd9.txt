@@ -1,0 +1,1 @@
+  compilation fix reverted: used new JrePathEditor in JavaScratchConfigurable  

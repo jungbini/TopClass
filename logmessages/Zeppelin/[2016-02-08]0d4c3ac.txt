@@ -1,0 +1,1 @@
+hange 'release' -> 'branch' in howtocontribute.md 813b438 [Ryu Ah young] ZEPPELIN-657: Change 'release' -> 'branch' 23646e5 [Ryu Ah young] ZEPPELIN-657: Fix the wrong locations c4bef6c [Ryu Ah young] ZEPPELIN-657: fix a typo in howtocontribute.md a5fb130 [Ryu Ah young] ZEPPELIN-657: Change the official location of Zeppelin  

@@ -1,0 +1,1 @@
+  Bug fix: reference should be added for XmlText instead of leaf element  

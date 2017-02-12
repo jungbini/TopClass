@@ -1,0 +1,1 @@
+  WEB-966 Smarter Reload in Browser  fix BaseWebBrowserAction  element can report language as XML, but we should check parent (or grandparent  we find XmlTag) in this case  get action shortcut from active keymap (prev: hardcoded)  

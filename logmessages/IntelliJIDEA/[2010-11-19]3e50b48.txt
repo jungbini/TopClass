@@ -1,0 +1,1 @@
+  now that autopopup closes gently and doesn't focus until all variants are calculated, the super-puper logic on not closing it by Tab/Enter if there'a s live template prefix is obsolete  

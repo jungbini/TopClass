@@ -1,0 +1,1 @@
+  CodeCompletion's settings panel - minor fix  

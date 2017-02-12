@@ -1,0 +1,1 @@
+  IDEA-149798 Extensible Attach to Local Process action: select debuggers from submenu + set empty text for the popup in case no process available  

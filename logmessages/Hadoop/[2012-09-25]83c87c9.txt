@@ -1,0 +1,1 @@
+  Merge -c 1390041 from branch-1 to branch-1.1 to fix MAPREDUCE-4603. Add support for JobClient to retry job-submission when JobTracker is in SafeMode. Contributed by Arun C. Murthy.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.1@1390042 13f79535-47bb-0310-9956-ffa450edef68  

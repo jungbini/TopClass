@@ -1,0 +1,1 @@
+ Fix bug where multiple computed properties in the same object literal were mis-parsed, causing an error. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=68180894  

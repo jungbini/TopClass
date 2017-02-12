@@ -1,0 +1,1 @@
+  fix Commander update performance (IDEADEV-20390)  

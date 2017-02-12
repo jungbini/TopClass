@@ -1,0 +1,1 @@
+  Maven: profiles should not be inherited (it causes inheriting modules from profiles) (IDEA-81348) [refixed]  

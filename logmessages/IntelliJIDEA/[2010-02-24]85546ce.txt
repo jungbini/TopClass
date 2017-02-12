@@ -1,0 +1,1 @@
+  WI-1153 (Exception when closing one of two opened projects) !!! Editor not released bug fixed  

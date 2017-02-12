@@ -1,0 +1,1 @@
+  fixed issue on distributed hook management.  

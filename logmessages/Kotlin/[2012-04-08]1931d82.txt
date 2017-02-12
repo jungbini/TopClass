@@ -1,0 +1,1 @@
+  Changed keys for FileSystem.fileToInfo map (because of fixed compiler bugs)  

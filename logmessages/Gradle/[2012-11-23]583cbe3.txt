@@ -1,0 +1,1 @@
+  GRADLE-2364: Extend Maven related test fixtures to allow assertion on published artifacts with a classifier.  

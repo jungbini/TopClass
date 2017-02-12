@@ -1,0 +1,1 @@
+  fix(server): restrict creation of dialogs with unexistent users and groups  

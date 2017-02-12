@@ -1,0 +1,1 @@
+  Fixed issue #1496 about remote import bug  

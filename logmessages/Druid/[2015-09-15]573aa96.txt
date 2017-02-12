@@ -1,0 +1,1 @@
+  fix #1727 - Union bySegment queries fix  Fixes #1727. revert to doing merging for results for union queries on broker.  revert unrelated changes  Add test for union query runner  Add test  remove unused imports  fix imports  fix renamed file  fix test  update docs.  

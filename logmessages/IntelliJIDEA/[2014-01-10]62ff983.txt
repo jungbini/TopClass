@@ -1,0 +1,1 @@
+  trivial if inspection merged with trivial if predicate; fix comments again (IDEA-114798)  

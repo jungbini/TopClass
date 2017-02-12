@@ -1,0 +1,1 @@
+  Revert enabling relative inputs for copy tasks  These were making IvyPublishCoordinatesIntegTest fail. We need some more involved logic in copy tasks to fix this.  +review REVIEW-6170  

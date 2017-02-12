@@ -1,0 +1,1 @@
+  Backport trunk fix;  Fix TestHCM.  Disabled the force OOME test -- we create a new Connection per new Configuration so yeah, we OOME;  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1099970 13f79535-47bb-0310-9956-ffa450edef68  

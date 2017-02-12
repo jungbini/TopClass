@@ -1,0 +1,1 @@
+  fixed URISyntaxException when using FileOrUriNotationParser in AbstractFileResolver on windows  

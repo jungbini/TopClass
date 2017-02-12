@@ -1,0 +1,1 @@
+  bring back getImage() to fix #4473  

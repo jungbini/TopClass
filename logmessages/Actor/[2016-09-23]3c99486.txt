@@ -1,0 +1,1 @@
+  fix(server:groups): allow to block users in groups via personal blacklist of owner  

@@ -1,0 +1,1 @@
+ Merge pull request #2395 from metamx/fixExtractionDimFilterNullTest  Actually check cache key null checking in ExtractionDimFilterTest  commit 57bf61029b64084fcc49c1f34b4bdc09d66d96dd  Merge pull request #2416 from druid-io/fix-docs  fix docs  commit 6fc5bcb1efd7e5d9f754211d414f8c31e61f3f22  fix docs  

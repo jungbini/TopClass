@@ -1,0 +1,1 @@
+  fixed PY-9753 Change Signature Refactor - removing an argument creates a mess in the calls to the refactored method  do not add keyword parameter to call if it has default value in signature  

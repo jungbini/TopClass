@@ -1,0 +1,1 @@
+  fork scala compile process to fix permgen error in ci builds  

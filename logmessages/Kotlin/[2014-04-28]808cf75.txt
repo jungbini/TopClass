@@ -1,0 +1,1 @@
+  Fixed bug: resolution task wasn't recreated  The old resolved calls were used  

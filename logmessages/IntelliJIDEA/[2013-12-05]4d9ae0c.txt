@@ -1,0 +1,1 @@
+  Gradle: fix dependency scope merge to respect artifact classifier option related bug - IDEA-117627 Transitive dependencies missing from imported Gradle project Safe hotfix, the code works in a separate process (in gradle daemon, mot in IDE process)  

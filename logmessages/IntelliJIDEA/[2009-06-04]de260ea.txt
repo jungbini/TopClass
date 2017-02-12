@@ -1,0 +1,1 @@
+  ProjectLevelVcsManager refactoring. hope will fix the problem when roots are auto detected when they should not (should be loaded from .ipr instead)  

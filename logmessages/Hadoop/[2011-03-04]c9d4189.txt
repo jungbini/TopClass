@@ -1,0 +1,1 @@
+Author: Alfred Thompson <atx@yahoo-inc.com> Date:   Fri Oct 8 20:33:23 2010 +0000  This revision fixes a bug in assert message generation.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077764 13f79535-47bb-0310-9956-ffa450edef68  

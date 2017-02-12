@@ -1,0 +1,1 @@
+  Merge pull request #681 from Tom9729/ant-sourcemap-fix  #588 Fix for CompileTask source maps  ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=78855413  

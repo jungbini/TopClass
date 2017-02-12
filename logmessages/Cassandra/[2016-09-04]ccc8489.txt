@@ -1,0 +1,1 @@
+  minor fixups to the README file  patch by dlester reviewed by dbrosius for CASSANDRA-12553  

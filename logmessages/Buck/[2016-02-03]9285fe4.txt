@@ -1,0 +1,1 @@
+  python: fixes for `platform_deps`  Summary: Don't include deps from unused platforms when: - Packaging a python binary using non-merged linking. - Preprocessing sources for a C/C++ python extensions.  Test Plan: added unittest  Reviewed By: k21  fb-gh-sync-id: 26cf0b5  

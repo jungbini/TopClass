@@ -1,0 +1,1 @@
+  Fix vertex ordering issue when cloning computation graph config (#2436)  When using `SparkComputationGraph.calculateScoreMultiDataSet()` I was getting 

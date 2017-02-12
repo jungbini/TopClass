@@ -1,0 +1,1 @@
+  fixed issue that left an empty line when removing imports.  

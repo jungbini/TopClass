@@ -1,0 +1,1 @@
+ Merge remote-tracking branch 'nuvolabase/develop' into bugfixing-02-09-13  commit df0f3fc492aa65b765c3e46334869da9166e0744  Merge branch 'hotfix-1.5.1' of https://github.com/orientechnologies/orientdb into hotfix-1.5.1  commit 9a01a8bd4ea6def3be65010e2111c3dc4621b79a  Fixed bug on MVRB-Tree-RID-Set built with default 8 items as threshold instead of reading the configuration  

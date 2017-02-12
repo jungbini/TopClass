@@ -1,0 +1,1 @@
+  Fixed bug on operator [] and SETs. Improved API, now are more compacted by using OMultiValue class  

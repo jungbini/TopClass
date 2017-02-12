@@ -1,0 +1,1 @@
+  trim message field values. fixes #186  

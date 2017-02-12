@@ -1,0 +1,1 @@
+  PY-2783 Assignment incorrectly highlighted as unused. Better fix  

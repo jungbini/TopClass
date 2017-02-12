@@ -1,0 +1,1 @@
+  fix typo in example in aspects docs  The attribute for the source list is "srcs", not "src".  Closes #2098.  -- Reviewed-on: https://github.com/bazelbuild/bazel/pull/2098 MOS_MIGRATED_REVID=139380743  

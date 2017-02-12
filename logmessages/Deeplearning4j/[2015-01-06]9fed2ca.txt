@@ -1,0 +1,1 @@
+  new minor nd4j release (fixes some convolution bugs (broadcasting related) and adds swappable convolution/fft impls  

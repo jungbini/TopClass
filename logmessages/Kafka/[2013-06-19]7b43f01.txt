@@ -1,0 +1,1 @@
+  KAFKA-944 fixing up for release pom output from publish and publish-local is not accurate  

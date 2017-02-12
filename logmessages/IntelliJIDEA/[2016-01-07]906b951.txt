@@ -1,0 +1,1 @@
+  [java] fixes false positive in library source compatibility check  

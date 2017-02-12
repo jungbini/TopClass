@@ -1,0 +1,1 @@
+  Fix `BuckConfigTest` failure on Windows  Summary: This fixes most of the tests on `BuckConfigTest` on Windows.  The tests that still fail invoke Buck, which doesn't work yet anyway.  There are no actual code changes here; just test changes.  Test Plan: `ant test -D"test.class"="BuckConfigTest"`  

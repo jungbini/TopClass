@@ -1,0 +1,1 @@
+  [TACHYON-1602] Fix bug with exception type  

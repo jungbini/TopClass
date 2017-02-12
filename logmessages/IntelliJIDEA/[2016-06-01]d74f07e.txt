@@ -1,0 +1,1 @@
+  extract superclass: hide implements base type from chooser for anonymous classes; fixed implements/extends list in the generated superclass  

@@ -1,0 +1,1 @@
+  Prevent StackOverflow, fix SSE regression  

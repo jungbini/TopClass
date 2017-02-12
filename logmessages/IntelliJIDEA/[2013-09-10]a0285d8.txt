@@ -1,0 +1,1 @@
+  fixed PY-10668 Test Runner: do not propose unittest run configuration on every folder in project  

@@ -1,0 +1,1 @@
+  Checking "infix" modifier in completion and import popup  

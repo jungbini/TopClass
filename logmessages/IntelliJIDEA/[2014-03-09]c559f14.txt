@@ -1,0 +1,1 @@
+ edit non-project files gradient colors for buttons initial cleanup IDEA-121494 (Inspection "method overrides private method" can be improved) add table header with sorters always use gradient 

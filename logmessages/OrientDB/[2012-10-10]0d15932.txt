@@ -1,0 +1,1 @@
+  SQL: minor, fixed a problem with boolean operators  

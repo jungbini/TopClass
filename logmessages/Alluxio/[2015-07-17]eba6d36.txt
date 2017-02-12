@@ -1,0 +1,1 @@
+ Merge pull request #1139 from calvinjia/user-folder-delete-fix  [SMALLFIX] User folder delete fix  commit eba6d36a13e3f69626068fdd2fb4747d1e687ec6  Fix formatting bug.  

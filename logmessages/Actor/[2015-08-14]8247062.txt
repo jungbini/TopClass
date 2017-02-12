@@ -1,0 +1,1 @@
+  fix(web): add colon to the end of mention only when mention is in beginning of the message  

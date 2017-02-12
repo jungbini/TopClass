@@ -1,0 +1,1 @@
+  1) Update to mmx build of jackson 2.1 branch to get bug-fix for jackson-databind #167  

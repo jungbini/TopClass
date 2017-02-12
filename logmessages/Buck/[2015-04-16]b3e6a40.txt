@@ -1,0 +1,1 @@
+  Remove an outdated case in buck project generation  Summary: Today, the idea of having a rule start with '//buck-out/' would be crazy, so remove this to help simplify some code.  Test Plan: Ran tests.  Before removing the branch, I set a breakpoint on `return depsToVisit` and ran "buck project" in internal code under the debugger.  It did not hit the breakpoint.  

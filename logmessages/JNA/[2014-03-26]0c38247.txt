@@ -1,0 +1,1 @@
+  Always set CC_FOR_TARGET for dejagnu, to make the testsuite respect $CC  This fixes cross-compilation and compilation with CC="gcc -m32".  

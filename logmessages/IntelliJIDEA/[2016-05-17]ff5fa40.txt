@@ -1,0 +1,1 @@
+  Minor Refresh project view on adding new recommendation, fix NPE in postAttemptToStepic  

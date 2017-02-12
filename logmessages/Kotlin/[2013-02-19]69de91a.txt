@@ -1,0 +1,1 @@
+  Changed case of quick fix families to Title Case.  

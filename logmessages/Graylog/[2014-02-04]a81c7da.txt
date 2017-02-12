@@ -1,0 +1,1 @@
+  disallow creating dashboard widgets with streams that the user isn't allow to read  fixes a security hole if the attacker knows a stream id they aren't supposed to see (unlikely but was possible)  fixes Graylog2/graylog2-web-interface#594  

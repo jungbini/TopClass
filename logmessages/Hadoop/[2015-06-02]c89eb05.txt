@@ -1,0 +1,1 @@
+  HADOOP-12011 Allow to dump verbose information to ease debugging in raw erasure coders. Contributed by Kai Zheng  

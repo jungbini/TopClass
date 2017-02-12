@@ -1,0 +1,1 @@
+  bug fixed for big decimal value, fixed issue 'https://github.com/alibaba/fastjson/issues/535'  

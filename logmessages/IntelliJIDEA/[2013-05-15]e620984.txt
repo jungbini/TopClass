@@ -1,0 +1,1 @@
+  WEB-7560  "string" representation in debugger is ugly  

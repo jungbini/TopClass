@@ -1,0 +1,1 @@
+  [lene] fix progress indicators in tree update  

@@ -1,0 +1,1 @@
+  build.xml - exclude *.ps1 from fixcrlf  Patch by Robert Stupp; review by Joshua McKenzie for CASSANDRA-7690  

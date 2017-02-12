@@ -1,0 +1,1 @@
+  set prevTexImage in setLastTexIndex, fix #2205  

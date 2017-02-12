@@ -1,0 +1,1 @@
+  jna library update + some incompatibility fixes  

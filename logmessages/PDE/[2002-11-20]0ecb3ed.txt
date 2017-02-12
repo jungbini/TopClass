@@ -1,0 +1,1 @@
+  finishing up for 46 X fix default fonts, font size on mac X fix lots of annoying crap about highlighting lines on errors X re-enable console, add synchronized (hrmph)  

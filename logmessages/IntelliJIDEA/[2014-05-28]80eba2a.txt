@@ -1,0 +1,1 @@
+  IDEA-42954 Watches are not saved on restart of debug sessions  

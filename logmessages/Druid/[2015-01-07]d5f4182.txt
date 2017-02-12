@@ -1,0 +1,1 @@
+ Merge pull request #1019 from metamx/fixZkInjection  Fix indexing service using incorrect announcement path in ZK + cleanup config.  commit d5f4182de4535a3999bfbfc703530bf4731cea97  global test timeouts + fix test race condition  

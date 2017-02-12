@@ -1,0 +1,1 @@
+  Easy: Add logging to ChromeTraceBuildListener  Summary: I was surprised to find the Chrome trace build listener happened after the nailgun client disconnected. This adds debug logs so we know when it happens.  Test Plan: buck build buck, see output in buck-out/log/buck-0.log  

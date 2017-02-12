@@ -1,0 +1,1 @@
+  add src distribution and change suffixes to .tar.gz.  patch by johano; reviewed by jbellis for CASSANDRA-190  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.3@776713 13f79535-47bb-0310-9956-ffa450edef68  

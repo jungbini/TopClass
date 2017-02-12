@@ -1,0 +1,1 @@
+  Clean up and simplify InstrumentedFileManifestAction.  This fixes an incremental correctness bug in the action, namely that the cache key didn't capture all the data written to the file.  Also adds a test (not publicly visible yet).  -- MOS_MIGRATED_REVID=121110495  

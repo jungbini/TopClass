@@ -1,0 +1,1 @@
+  continue WEB-1799 Allow to highlight element in browser/IDE by moving mouse cursor while holding a key  fix css selector creator  incorrect first-child qualifier removed  

@@ -1,0 +1,1 @@
+  fix compaction throttling bursty-ness patch by yukim and jbellis for CASSANDRA-4316  

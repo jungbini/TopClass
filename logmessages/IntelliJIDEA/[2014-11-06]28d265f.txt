@@ -1,0 +1,1 @@
+  fixed PY-14273 Exception while opening ipython notebook  

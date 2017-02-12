@@ -1,0 +1,1 @@
+  Spellchecker plugin: add dependencies to java-i18n.iml and jsp-base-impl.iml; fix compilation?  

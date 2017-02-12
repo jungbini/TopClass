@@ -1,0 +1,1 @@
+  fixed PY-5389  Docstring autocompletion does not work if more than one tag specified for same function argument  

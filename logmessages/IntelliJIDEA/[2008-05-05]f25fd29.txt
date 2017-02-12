@@ -1,0 +1,1 @@
+  IDEADEV-26183 fixed (Subversion: IDEA hangs on VCS refresh after reverting change (files deleting in deleted package) from Changes/Repositories view)  

@@ -1,0 +1,1 @@
+  Demote hash index tests were fixed.  

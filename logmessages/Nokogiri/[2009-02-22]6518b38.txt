@@ -1,0 +1,1 @@
+  fixing string encoding in xml::node  

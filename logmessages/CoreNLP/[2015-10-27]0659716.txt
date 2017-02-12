@@ -1,0 +1,1 @@
+  logging stuff 1. change to standard slf4j pattern 2. go from slf4j-simple to logback, new jars in core/lib more mention stuff 3. bug fix with AnnotatorImplementations mention() , prefix being stripped 4. better way for MentionAnnotator to require right type of parses  

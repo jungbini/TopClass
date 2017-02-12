@@ -1,0 +1,1 @@
+  IDEA-95389 fix cosmetics, screen height validation  

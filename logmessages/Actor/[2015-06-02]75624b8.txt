@@ -1,0 +1,1 @@
+  fix(web): fix text overflow for long peer title in toolbar and profile view;  

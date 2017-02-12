@@ -1,0 +1,1 @@
+  REVIEW-102 Bunch of tidy up in the ResolutionResult API.  1. Thightened coverage and fixed the bug with module versions visited multiple times 2. Started using the ClosureBackedAction 3. Tidy up in the tests 4. Made the ClosureBackedAction generic  

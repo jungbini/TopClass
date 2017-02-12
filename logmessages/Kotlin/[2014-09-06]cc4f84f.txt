@@ -1,0 +1,1 @@
+  JS backend: fix KT-5738 JS backend: result of toByte() should be in the range of bytes  #KT-5738 Fixed  

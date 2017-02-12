@@ -1,0 +1,1 @@
+ #488 added checks to filtering for NPE fix and RPC internal methods  

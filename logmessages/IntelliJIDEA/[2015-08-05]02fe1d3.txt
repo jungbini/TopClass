@@ -1,0 +1,1 @@
+  IDEA-143535 github: fix link for text selection  

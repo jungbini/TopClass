@@ -1,0 +1,1 @@
+  IDEA-160102 JS Debugger: fix "copy watch" for calls  

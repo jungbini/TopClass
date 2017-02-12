@@ -1,0 +1,1 @@
+  Create from Usage: Fix exception in "Create class" quickfix applied to unresolved references in type arguments. Create class body when necessary #KT-12777 Fixed  

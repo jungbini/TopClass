@@ -1,0 +1,1 @@
+ fix deadlock on startup due to service initialization from background thread (PY-8724)  

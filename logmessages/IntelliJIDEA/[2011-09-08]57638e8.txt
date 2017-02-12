@@ -1,0 +1,1 @@
+  Bug fix: VM option field should has fixed vertical size.  

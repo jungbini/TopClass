@@ -1,0 +1,1 @@
+  YARN-981. Fixed YARN webapp so that /logs servlet works like before. Addendum patch to fix bugs in the first patch. Contributed by Jian He. svn merge --ignore-ancestry -c 1519208 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1519210 13f79535-47bb-0310-9956-ffa450edef68  

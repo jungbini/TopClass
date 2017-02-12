@@ -1,0 +1,1 @@
+ Change sample worker config spec with host:port instead of ip:port.  Also extend description of the 'affinity' property of the worker strategy fillCapacityWithAffinity and fix a couple typos of middle manager (to be more consistent throughout the page).  Add additional verbiage about appropriate middle manager host value.  

@@ -1,0 +1,1 @@
+  KT-2300 Auto-insertion of parenthesis by completion is not good for functions like "filter"  #KT-2300 fixed  

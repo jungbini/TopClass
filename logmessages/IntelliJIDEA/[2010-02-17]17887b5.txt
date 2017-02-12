@@ -1,0 +1,1 @@
+  access static via instance: show side effects warning; undo fixed  (IDEA-23600)  

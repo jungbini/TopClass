@@ -1,0 +1,1 @@
+  Fix findbugs warnings in mr-client modules, part 1  (mahadev)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/MR-279@1153759 13f79535-47bb-0310-9956-ffa450edef68  

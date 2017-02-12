@@ -1,0 +1,1 @@
+  KT-1743 Analyze immutable local variables and parameters which are captured in closure #KT-1743 fixed  

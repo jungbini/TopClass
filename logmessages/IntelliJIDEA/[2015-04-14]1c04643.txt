@@ -1,0 +1,1 @@
+  Quickfix "Wrap with double quotes" properly handles single and double quotes inside JSON string  

@@ -1,0 +1,1 @@
+  Set friend modules for android gradle test tasks  This fixes the following issues: 1. When product flavors were used, android unit tests could not refer to internal symbols from main source set. 2. Android instrumentation tests could not refer to internal symbols from main source set  #KT-11166 fixed  

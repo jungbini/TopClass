@@ -1,0 +1,1 @@
+  styling for new input launch nodeal. fixes #1383  

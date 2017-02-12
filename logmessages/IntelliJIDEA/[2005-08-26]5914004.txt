@@ -1,0 +1,1 @@
+  com.intellij.ide.projectview i18n; fix npe in Introduce Constabnt dialog  

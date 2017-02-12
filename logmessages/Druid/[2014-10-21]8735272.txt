@@ -1,0 +1,1 @@
+ Merge pull request #801 from metamx/fix-unordered-merging  fix ordering for partitions with same start time, fixes #796  commit 8735272ce39c35cfee3e79e2455b798fa6685855  fix file casing  

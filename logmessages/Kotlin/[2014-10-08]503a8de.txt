@@ -1,0 +1,1 @@
+  Fixed bug in reference shortening + fixed test data for completion tests  

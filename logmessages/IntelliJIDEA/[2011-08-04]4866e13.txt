@@ -1,0 +1,1 @@
+  scopes: recursive file pattern fixed (IDEA-72896 )  

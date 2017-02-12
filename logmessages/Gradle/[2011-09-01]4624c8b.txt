@@ -1,0 +1,1 @@
+  Made the client remove daemon address when it cannot connect to it. The fix does not change anything but at least the registry file will contain only valid addresses. The use case is when the daemon dies unexpectedly without properly removing himself from the registry.  

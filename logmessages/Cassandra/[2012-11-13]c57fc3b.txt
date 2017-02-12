@@ -1,0 +1,1 @@
+  cqlsh: fix DESCRIBE command patch by Aleksey Yeschenko; reviewed by brandonwilliams for CASSANDRA-4913  

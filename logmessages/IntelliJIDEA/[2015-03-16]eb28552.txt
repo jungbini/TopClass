@@ -1,0 +1,1 @@
+  another go at IDEA-136048 find text toolwindow: UI bug  

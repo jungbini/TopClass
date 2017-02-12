@@ -1,0 +1,1 @@
+ in  http://stackoverflow.com/questions/15166781/mvn-releaseprepare-not-committing-changes-to-pom-xml  

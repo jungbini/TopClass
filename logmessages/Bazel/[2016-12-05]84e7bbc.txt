@@ -1,0 +1,1 @@
+  Pass isExternal field to blaze ide info proto  Roll forward after fixing tests. The intellij aspect tests now correctly retains the required toolchain targets in the WORKSPACE file.  -- PiperOrigin-RevId: 141093346 MOS_MIGRATED_REVID=141093346  

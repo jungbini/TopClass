@@ -1,0 +1,1 @@
+  CompositeFuture.any handler not called on success - fixes #1380  

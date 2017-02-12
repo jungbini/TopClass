@@ -1,0 +1,1 @@
+  Fix quickfix to add an annotation to the "Ignore if annotated by" list for IDEA-95072 (Ignore list being ignored in "Non serializable field in serializable class" inspection)  

@@ -1,0 +1,1 @@
+  fixup PImage defaults for subclasses (set to RGB).  

@@ -1,0 +1,1 @@
+  IDEA-141776 Groovy (or any non-Java?) main class has no Run/Debug controls on the editor's gutter  

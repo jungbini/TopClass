@@ -1,0 +1,1 @@
+  [kirillk] fixed focus jumping  

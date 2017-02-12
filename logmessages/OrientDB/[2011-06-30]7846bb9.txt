@@ -1,0 +1,1 @@
+  Fixed bug (reported in the ML by Sorin fingeru@gmail.com) on CREATE LINK command with types 

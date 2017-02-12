@@ -1,0 +1,1 @@
+ Merge pull request #2923 from fazioa/Souliss  Souliss - Add support to typicals T12, T14 and T18. Some bug fix  commit 198d4ef1420ba1c306b33cd48061c37d79fc8098  InsteonPLM binding bug fix: no wait for reply when sending X10 messages. This fixes the 10sec delay when sending X10 commands.  

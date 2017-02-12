@@ -1,0 +1,1 @@
+  Milight Binding - map a saturation value of 0 to WhiteMode, fixes #1400  Signed-off-by: hmerk <hans-joerg.merk@t-online.de>  

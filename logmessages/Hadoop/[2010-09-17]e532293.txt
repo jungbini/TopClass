@@ -1,0 +1,1 @@
+  HBASE-3006 Reading compressed HFile blocks causes way too many DFS RPC calls severly impacting performance--Now add fix I intended, a spelling mistake in HFile  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@997975 13f79535-47bb-0310-9956-ffa450edef68  

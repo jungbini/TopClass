@@ -1,0 +1,1 @@
+  xdebugger: 'Copy Value' action copies the whole value (WI-3717)  

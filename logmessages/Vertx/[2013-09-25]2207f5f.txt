@@ -1,0 +1,1 @@
+  fatjar fix for windows  

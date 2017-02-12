@@ -1,0 +1,1 @@
+  IDEA-77370 Unaliased fonts for the current selected item in Run/Debug Configuration drop down  

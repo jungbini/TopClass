@@ -1,0 +1,1 @@
+  CLHM, fixed version patch by jbellis; reviewed by goffinet for CASSANDRA-423  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@828734 13f79535-47bb-0310-9956-ffa450edef68  

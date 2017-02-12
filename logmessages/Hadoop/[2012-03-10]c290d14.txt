@@ -1,0 +1,1 @@
+  Merge -c 1299140 from branch-1 to branch-1.0 to fix HADOOP-5450. Add support for application-specific typecodes to typed bytes. Contributed by Klaas Bosteels.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.0@1299141 13f79535-47bb-0310-9956-ffa450edef68  

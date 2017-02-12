@@ -1,0 +1,1 @@
+  KAFKA-2461; request logger no longer logs extra information in debug mode  Author: asingh <asingh@cloudera.com>  Reviewers: Gwen Shapira  Closes #169 from SinghAsDev/KAFKA-2461  

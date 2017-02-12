@@ -1,0 +1,1 @@
+  prebuilt_cxx_library_group: accept source paths from `cxx_genrule`s  Summary: This allows input lib source paths to come from `cxx_genrule` outputs, by fixing up existing source paths to extract the real, platform-specific source path.  Test Plan: added tests  Reviewed By: Coneko  fbshipit-source-id: c89400d  

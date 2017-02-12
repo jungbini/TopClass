@@ -1,0 +1,1 @@
+  Making build process a bit easier, fixing library support  

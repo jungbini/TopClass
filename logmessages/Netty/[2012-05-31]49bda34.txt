@@ -1,0 +1,1 @@
+  Fix a bug where ChannelBufferHolder.isEmpty() returns a wrong value  .. when it has a byte buffer  

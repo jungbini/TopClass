@@ -1,0 +1,1 @@
+  Rename package jet -> kotlin in light-classes  org.jetbrains.jet.asJava -> org.jetbrains.kotlin.asJava  Also fix some minor warnings and deprecated API usage  

@@ -1,0 +1,1 @@
+  Fix serialization bug in PagedRangeCommand  patch by slebresne; reviewed by iamaleksey for CASSANDRA-6299  

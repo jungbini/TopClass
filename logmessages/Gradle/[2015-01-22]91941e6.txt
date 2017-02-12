@@ -1,0 +1,1 @@
+  some more cleanup on s3 maven repository support after review  - fix method signature - mark new methods as incubating. - fail if explicit credential type is tried to set twice.  +review REVIEW-5361  

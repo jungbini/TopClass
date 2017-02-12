@@ -1,0 +1,1 @@
+  PHP color scheme fixes (related to WI-29606 Colors for parameters, class, instance method, static method, predefined symbols are the same in Default scheme) - remerged  

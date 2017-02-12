@@ -1,0 +1,1 @@
+  fix "apply patch" base dir detection (IDEADEV-15807)  

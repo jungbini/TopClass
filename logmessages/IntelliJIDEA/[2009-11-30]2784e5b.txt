@@ -1,0 +1,1 @@
+  fake rerun action which allows to remap rerun shortcut for Rerun and Restrart actions in run/debug console  

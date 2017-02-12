@@ -1,0 +1,1 @@
+  Add SequencePatterTrggerTest and fix triggering to be more correct.  

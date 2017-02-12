@@ -1,0 +1,1 @@
+  fix ignored files tests under unversioned dirs - after  IDEA-95448 SVN gone slow and unable to merge - performance: for unversioned dirs, first check if they contain any versioned stuff (svnkit used to perform long running operations) - better code + hard refresh for file path in one of the cases [kirill.l] (cherry-picked from 52b9750)  

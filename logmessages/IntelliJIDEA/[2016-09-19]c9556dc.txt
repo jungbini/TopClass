@@ -1,0 +1,1 @@
+  IDEA-CR-13930 fix of review remarks according to the discussion - "accept" method of message handler removed,  common checks lifted up from gwt message handler to the HighlightUtil  

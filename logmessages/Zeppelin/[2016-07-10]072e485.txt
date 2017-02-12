@@ -1,0 +1,1 @@
+troshim] remove snapshot from popup 829e9c1 [astroshim] fix select box and snapshot backend code.  (cherry picked from commit 60186d8bb9c3b4ccfc63f1326400618fd59a5d02) Signed-off-by: Mina Lee <minalee@apache.org>  Conflicts: zeppelin-web/src/app/interpreter/interpreter.html  

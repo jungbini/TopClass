@@ -1,0 +1,1 @@
+  fix edge case with reshape on row to column vector and vice versa  

@@ -1,0 +1,1 @@
+  Added test for "iter" postfix template (IDEA-CR-5441)  

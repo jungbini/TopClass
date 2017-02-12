@@ -1,0 +1,1 @@
+  Use relative paths header maps used in Xcode projects  Summary: * Having absolute paths to symlinks seems to trigger a bug in Xcode that makes it impossible to save that file when it is opened by clicking on the file name in the error log. * This 

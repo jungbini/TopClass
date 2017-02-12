@@ -1,0 +1,1 @@
+  ported class from Groovy to Java to work around what seems to be a Groovy bug (see GRADLE-1467)  

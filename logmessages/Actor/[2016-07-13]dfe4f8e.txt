@@ -1,0 +1,1 @@
+  fix(server:groups): in update title/topic/about/avatar push seq of UpdateXXXChanged instead of seq of service message  

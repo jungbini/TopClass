@@ -1,0 +1,1 @@
+  Replace some usages of ERROR_CLASS with new instance creation  Because when some class is unresolved, we can still hold some information such as its FQ name, for debugging purposes and better error messages  

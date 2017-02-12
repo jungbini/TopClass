@@ -1,0 +1,1 @@
+  fixed weird spell checking problems due to invalid code!  

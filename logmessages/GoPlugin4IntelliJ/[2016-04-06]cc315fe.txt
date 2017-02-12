@@ -1,0 +1,1 @@
+  [parser] pin method declaration from the very beginning, fix #2414  

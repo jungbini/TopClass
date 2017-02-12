@@ -1,0 +1,1 @@
+  KT-2842 Function with declared non-null receiver resolves with nullable argument receiver #KT-2842 fixed  

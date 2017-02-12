@@ -1,0 +1,1 @@
+  Execute TREE_RESPONSE verbs in the proper stage: fixes potential races in AES.rendezvous patch by Stu Hood; reviewed by jbellis for CASSANDRA-1511  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1001531 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  duplicate registration (project-component/inspectionToolProvider) removed (should fix failed InspectionDescriptionTest)  

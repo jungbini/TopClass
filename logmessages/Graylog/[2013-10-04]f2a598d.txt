@@ -1,0 +1,1 @@
+  strip password from api exception message  the underlying exceptions might still have the complete url in their message, though, but that's acceptable for now fixes #261  

@@ -1,0 +1,1 @@
+  don't evaluate arrays on EDT when debugging remotely  

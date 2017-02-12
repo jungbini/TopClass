@@ -1,0 +1,1 @@
+  bugfix for java project that it won't be deleted as all WbDependentModule  

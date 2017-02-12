@@ -1,0 +1,1 @@
+  anonymous -> lambda: fix cases when inferred class doesn't inherit base  

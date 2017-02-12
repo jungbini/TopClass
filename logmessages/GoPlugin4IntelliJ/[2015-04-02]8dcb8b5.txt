@@ -1,0 +1,1 @@
+  Unknown field for embedded structs if they are from another package, fix #1516  

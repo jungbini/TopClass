@@ -1,0 +1,1 @@
+  fix(server:persist): don't close system in V20160128142000__AkkaPersistence  

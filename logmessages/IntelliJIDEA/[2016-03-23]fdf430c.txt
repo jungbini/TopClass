@@ -1,0 +1,1 @@
+  removed LOG.isDebugEnabled where not needed  

@@ -1,0 +1,1 @@
+  enable entities validation for html5 #WEB-7053 fixed  

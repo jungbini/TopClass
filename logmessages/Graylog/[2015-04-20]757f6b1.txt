@@ -1,0 +1,1 @@
+  add sidebar component :doge:  * further complicate the main template for showing the search sidebar * show minimal info about the search result * modal backdrop not working yet :grumpy:  fix expanded messages state in search result component  

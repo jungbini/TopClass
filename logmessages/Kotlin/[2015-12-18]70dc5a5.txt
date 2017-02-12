@@ -1,0 +1,1 @@
+  IDELightClassGenerationSupport: fix a problem when marking source root as both source and library source led to SO  # KT-10413 Fixed  

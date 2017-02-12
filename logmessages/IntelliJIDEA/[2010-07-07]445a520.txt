@@ -1,0 +1,1 @@
+  expandable teams handler fixed for layered pane + an option in registry  

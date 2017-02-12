@@ -1,0 +1,1 @@
+  Remove an unused variable, fix a variable name and javadoc.  

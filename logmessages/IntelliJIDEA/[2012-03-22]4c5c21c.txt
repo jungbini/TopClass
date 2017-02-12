@@ -1,0 +1,1 @@
+  OC-2568 Debugger:GDB:Console: Highlighting stuck in the console  

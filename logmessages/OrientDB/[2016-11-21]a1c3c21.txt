@@ -1,0 +1,1 @@
+  fixes problems with empty stowords set  https://github.com/orientechnologies/orientdb/issues/6934  

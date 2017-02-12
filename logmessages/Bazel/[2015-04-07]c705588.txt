@@ -1,0 +1,1 @@
+  Added rule label to CppDebugPackageProvider to allow consumers to report better errors.  -- MOS_MIGRATED_REVID=90543663  

@@ -1,0 +1,1 @@
+  IDEA-103303 "BeforeLaunch" tools in run/debug configurations do not do macro substitution  

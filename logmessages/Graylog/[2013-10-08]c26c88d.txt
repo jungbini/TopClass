@@ -1,0 +1,1 @@
+  fall back to current user's credentials  using the current user was accidentally removed, rendering the Users page useless fixes #296  

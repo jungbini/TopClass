@@ -1,0 +1,1 @@
+  add listPaths(), listFiles() (fixes #4622)  

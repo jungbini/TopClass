@@ -1,0 +1,1 @@
+  JavaRearranger: fixed field caching in case of multiple classes in java file (IDEA-123733)  

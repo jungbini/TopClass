@@ -1,0 +1,1 @@
+  use java 8 file api, fix npe in PharLibraryManager  

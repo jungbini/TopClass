@@ -1,0 +1,1 @@
+  MINOR: catch InvalidStateStoreException in QueryableStateIntegrationTest  A couple of the tests may transiently fail in QueryableStateIntegrationTest as they are not catching InvalidStateStoreException. This exception is expected during rebalance.  Author: Damian Guy <damian.guy@gmail.com>  Reviewers: Eno Thereska, Guozhang Wang  Closes #1840 from dguy/minor-fix  

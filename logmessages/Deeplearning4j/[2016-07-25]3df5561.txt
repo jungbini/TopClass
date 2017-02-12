@@ -1,0 +1,1 @@
+  alpha fix for PopularityWalker  alpha reset prob for WeightedWalker  

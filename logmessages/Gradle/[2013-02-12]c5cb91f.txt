@@ -1,0 +1,1 @@
+  REVIEW-1487 Mentioned in the release notes the improvement of project depenencies for configuration time resolution. This bugfix is pretty technical and I'm not sure if it's worth mentioning in the docs. I don't find grounds to mark it as a potentially breaking change.  

@@ -1,0 +1,1 @@
+  Merge -c 1433138 from trunk to branch-2 to fix YARN-330. Fix flakey test: TestNodeManagerShutdown#testKillContainersOnShutdown. Contributed by Sandy Ryza  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1433147 13f79535-47bb-0310-9956-ffa450edef68  

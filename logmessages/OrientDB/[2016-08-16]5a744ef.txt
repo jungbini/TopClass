@@ -1,0 +1,1 @@
+  debugging log manager implemented to facilitate logging from shutdown hooks  

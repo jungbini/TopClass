@@ -1,0 +1,1 @@
+  Server: fixed issue 1121 on returning results as iterator (reported in ML with GREMLIN command) )  

@@ -1,0 +1,1 @@
+  MAPREDUCE-124. Fix a bug in failure handling of abort task of OutputCommiter. Contributed by Amareshwari Sriramadasu.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20@790544 13f79535-47bb-0310-9956-ffa450edef68  

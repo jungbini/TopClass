@@ -1,0 +1,1 @@
+  RUBY-11574: if rake execution has output in stderr but exit status is 0 we show it as list of warnings. #RUBY-11574 fixed  

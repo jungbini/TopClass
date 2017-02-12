@@ -1,0 +1,1 @@
+  fix(android): Fixing avatar blinking and stable ids in lists  

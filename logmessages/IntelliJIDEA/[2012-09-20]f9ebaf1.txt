@@ -1,0 +1,1 @@
+  fixed  PY-5927 Make search in the "Available Packages" dialog box more convenient  

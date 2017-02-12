@@ -1,0 +1,1 @@
+  Remove http wire logging from --debug level  

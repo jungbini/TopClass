@@ -1,0 +1,1 @@
+  Mac alert dialogs fixes + OC-1570 "Refactor Base Method?" Dialog cannot be used without a mouse  

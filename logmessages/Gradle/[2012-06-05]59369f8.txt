@@ -1,0 +1,1 @@
+  Gradle-1670: fix failing osgi sample plugintest by adding initalize bnd analyzer with mapped osgiManifest properties.  

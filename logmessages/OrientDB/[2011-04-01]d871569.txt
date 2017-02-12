@@ -1,0 +1,1 @@
+  Fixed bug on JSON converter. Before now it included the @version only if > 0. Now always.  

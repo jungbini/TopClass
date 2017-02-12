@@ -1,0 +1,1 @@
+we stopped showing last 5 commits for new branches, and began to show only those commits which will be actually pushed.  To avoid the problem check for "nothing to push" (0 commits) only in the standard case, when the branch is pushed to its tracked branch.  

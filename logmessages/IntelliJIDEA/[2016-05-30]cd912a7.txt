@@ -1,0 +1,1 @@
+  fix highlighting and caret behaviour regression near ligature (IDEA-127539)  related to the way ligatures are represented in a glyph vector when Harfbuzz layout engine is used  

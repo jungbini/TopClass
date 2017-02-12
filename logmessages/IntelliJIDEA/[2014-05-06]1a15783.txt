@@ -1,0 +1,1 @@
+  fixed PY-12824 Remove unused parameter: usages in function calls are not updated  

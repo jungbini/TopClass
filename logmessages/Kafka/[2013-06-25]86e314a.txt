@@ -1,0 +1,1 @@
+  kafka-937; fix bug exposed in ConsumerOffsetChecker; patched by Jun Rao; reviewed by Alexey Ozeritskiy  

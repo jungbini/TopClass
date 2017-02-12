@@ -1,0 +1,1 @@
+  Problem with annotation user fixed  *if user info string not trimmed AnnotationFieldGutter takes last argument after dot symbol as LASTNAME type (ex. A.B@email.com -> com)  

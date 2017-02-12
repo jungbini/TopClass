@@ -1,0 +1,1 @@
+  add alert message when click disabled button bug fix. not open window  

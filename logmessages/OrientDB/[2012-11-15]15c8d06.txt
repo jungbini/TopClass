@@ -1,0 +1,1 @@
+  Reverted changes of r7256 to fix compatibility problems with previous DBs  

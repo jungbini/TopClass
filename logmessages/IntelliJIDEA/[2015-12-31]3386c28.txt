@@ -1,0 +1,1 @@
+  IG: improved "Confusing argument to varargs method" inspection - added quickfixes - clarified name and problem descriptor - added warning when passed array subtype  

@@ -1,0 +1,1 @@
+  Fix a bug where TypeParameterMatcher fails when a type parameter is an array  - Fixes #1103  

@@ -1,0 +1,1 @@
+  fix(js): Passing explicitly what kind of ws is supported in WebSocket's constructor  

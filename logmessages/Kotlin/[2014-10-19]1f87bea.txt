@@ -1,0 +1,1 @@
+  JS backend: added support for nested labels with the same name  #KT-5891 fixed  

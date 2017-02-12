@@ -1,0 +1,1 @@
+  fix painting of editor prefix when document is empty  

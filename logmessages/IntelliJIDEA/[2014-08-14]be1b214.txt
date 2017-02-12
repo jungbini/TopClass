@@ -1,0 +1,1 @@
+  fix EDT assertion on project open (since ExecutionManager is project service, but not component)  

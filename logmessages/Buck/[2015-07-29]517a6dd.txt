@@ -1,0 +1,1 @@
+  ndk: use prefixed tool names in tool paths  Summary: The NDKs are favoring the target-prefixed tool names/paths going forward (and it appears the gcc-4.9 compiler binaries use this exclusively), so use them.  Test Plan: - NDK integration tests - Built C/C++ using gcc-4.9  

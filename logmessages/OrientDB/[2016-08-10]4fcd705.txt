@@ -1,0 +1,1 @@
+  HA: fixed problem with RID allocation after distributed TX failure  

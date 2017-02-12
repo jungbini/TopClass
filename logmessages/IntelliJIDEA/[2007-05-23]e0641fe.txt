@@ -1,0 +1,1 @@
+  fix for navigate to Groovy syntethic methods  

@@ -1,0 +1,1 @@
+  properly display floating point values in chart hover details. fixes #678  

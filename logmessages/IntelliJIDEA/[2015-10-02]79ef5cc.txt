@@ -1,0 +1,1 @@
+ EA-74017: fix NPE  Removed the line causing this NPE.  The removed call is still made via off() call on the next line.  

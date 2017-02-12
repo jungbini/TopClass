@@ -1,0 +1,1 @@
+  Fixed bug on indexing property of type LINK with broken references. Now avoid the loading of the record and is obviously faster than before.  

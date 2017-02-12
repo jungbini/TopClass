@@ -1,0 +1,1 @@
+  No required subtag error should include a quickfix (IDEADEV-19456)  

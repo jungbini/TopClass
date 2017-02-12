@@ -1,0 +1,1 @@
+  Not writing compiler script path when in JPS plugin output.  XML script is removed after JPS plugin session anyway, so it's usually hard to check its contents. Also, it is redundant since -printArgs will write it anyway, so there is still possibility to debug.  

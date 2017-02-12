@@ -1,0 +1,1 @@
+  fixex jar location issue by using FAUNUS_HOME system property. Fixed a bug in job configuration setting and MapReduceFormats.  

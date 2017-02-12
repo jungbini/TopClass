@@ -1,0 +1,1 @@
+  HA: fixed issue with `HA REMOVE SERVER` command  The server was automatically re-included because the auto repair of the cluster feature. Now the node is OFFLINE, when its removed  

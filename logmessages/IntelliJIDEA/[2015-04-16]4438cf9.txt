@@ -1,0 +1,1 @@
+  maven: manifest serialization/deserialization to/from xml fix  

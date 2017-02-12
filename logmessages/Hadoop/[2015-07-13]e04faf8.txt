@@ -1,0 +1,1 @@
+  MAPREDUCE-6421. Fix findbugs warning in RMContainerAllocator.reduceNodeLabelExpression. Contributed by Brahma Reddy Battula.  

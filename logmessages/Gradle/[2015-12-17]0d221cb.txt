@@ -1,0 +1,1 @@
+  Test case demonstrating that output isn't captured with 2.8 + debug mode  +review REVIEW-5698  

@@ -1,0 +1,1 @@
+  fix some problems with begin/endRaw, add some hokey clipping  

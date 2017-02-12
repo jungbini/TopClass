@@ -1,0 +1,1 @@
+  completion fixes and typeElement cache is now on soft reference  

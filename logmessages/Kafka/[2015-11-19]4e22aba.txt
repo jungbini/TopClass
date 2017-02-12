@@ -1,0 +1,1 @@
+  KAFKA-2824: MiniKDC based tests don't run in VirtualBox  This is a hack which works. Is there a better way?  Build (v2) of the replication_test.py running here: http://jenkins.confluent.io/job/kafka_system_tests_branch_builder/185/  Author: Ben Stopford <benstopford@gmail.com>  Reviewers: Geoff Anderson, Gwen Shapira  Closes #520 from benstopford/fix-for-sasl-virtual-box  

@@ -1,0 +1,1 @@
+  fix(core): safe update inMaxDate on in messages  

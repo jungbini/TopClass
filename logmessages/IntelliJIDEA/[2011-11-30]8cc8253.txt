@@ -1,0 +1,1 @@
+  Fixed bug in generating builtin skeletons in case of errors  

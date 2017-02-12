@@ -1,0 +1,1 @@
+  IDEA-134737 (full fix)  - file name is never set and need not to be cached - plugin ID is used in unlikely case of missing plugin name  

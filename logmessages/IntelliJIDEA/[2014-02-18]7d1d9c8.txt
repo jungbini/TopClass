@@ -1,0 +1,1 @@
+  fixed PY-12185 Project interpreter: strange combobox size in settings  

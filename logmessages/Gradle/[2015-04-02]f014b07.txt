@@ -1,0 +1,1 @@
+  Fixed broken int tests after changes to HttpServer test fixture.  

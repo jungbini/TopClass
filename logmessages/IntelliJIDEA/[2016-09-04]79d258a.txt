@@ -1,0 +1,1 @@
+  [platform] ApplicationImpl.exit() corrections  - combines actual implementations into a single method - fixes premature clearing of the "exit-in-progress" flag - gets rid of a duplicate option  

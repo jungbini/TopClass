@@ -1,0 +1,1 @@
+  KT-8042 ISE at KotlinHighlightExitPointsHandlerFactory.createHighlightUsagesHandler() on typing a function name starting with `throw`  #KT-8042 fixed #EA-68157 fixed  

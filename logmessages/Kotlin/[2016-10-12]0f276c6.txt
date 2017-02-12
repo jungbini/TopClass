@@ -1,0 +1,1 @@
+  Add Library Quick-fix: Fix exception due to resolution being run in the "dumb mode" #KT-14199 Fixed  

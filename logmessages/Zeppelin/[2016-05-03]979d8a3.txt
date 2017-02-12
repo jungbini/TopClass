@@ -1,0 +1,1 @@
+ter to /* and use authcBasic in shiro.ini instead of authc ea198c4 [Lee moon soo] Apply shiro filter from /* to only /api/*  

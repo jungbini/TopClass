@@ -1,0 +1,1 @@
+ Merge pull request #1636 from deeplearning4j/ab_1635_scorereport  Serialization fix for ScoreReport  commit 4c5c52617cdc6d8abe7115ee52de96333d6aadb5  Serialization fix for ScoreReport  

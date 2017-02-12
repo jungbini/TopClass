@@ -1,0 +1,1 @@
+  fix getState  must be returned UNCHANGED if mutable scheme is unchanged  

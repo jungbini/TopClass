@@ -1,0 +1,1 @@
+  fix representation of doubles in formatted message fields. #678  

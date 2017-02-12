@@ -1,0 +1,1 @@
+  A few fixes  - EasyMock instead of Mockito - FileSessionCredentialsProvider fields should be volatile - getRestS3Service should create AWSCredentials not a AWSSessionCredentials with fixed credentials  

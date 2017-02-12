@@ -1,0 +1,1 @@
+tion  The fix to IDEA-151547 removed the commit message from notification, but it is useful to have it there.  (cherry picked from commit d530531cbed56fdab3789fc5f3e8cfdaa36658da)  

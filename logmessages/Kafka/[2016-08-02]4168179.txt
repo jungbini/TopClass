@@ -1,0 +1,1 @@
+  HOTFIX: Fixes to javadoc and to state store name for link joins  Author: Eno Thereska <eno.thereska@gmail.com>  Reviewers: Damian Guy, Guozhang Wang  Closes #1674 from enothereska/hotfix-misc-joins  

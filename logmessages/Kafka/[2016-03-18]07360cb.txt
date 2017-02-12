@@ -1,0 +1,1 @@
+  KAFKA-3397: use -1(latest) as time default value for tools.GetOffsetShell  minor fix for prompt the user, or we will get a error message: >Missing required argument "[time]"  Author: Xin Wang <best.wangxin@163.com>  Reviewers: Ashish Singh, Guozhang Wang  Closes #1068 from vesense/patch-4  

@@ -1,0 +1,1 @@
+  escaping of characters fixed in AlphaUnsortedPropsFileInspection + PropertiesElementFactory.escape() method is rewritten to avoid copy-paste  

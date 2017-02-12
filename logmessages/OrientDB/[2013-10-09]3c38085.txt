@@ -1,0 +1,1 @@
+  Gephi plugin: fixed bug with lightweight edges ids  

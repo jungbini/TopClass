@@ -1,0 +1,1 @@
+  revert due to it taking too much CPU time in tests: WEB-18838 Debugger: UTFDataFormatException on string literals with Unicode glyphs (like U+1F51D)  

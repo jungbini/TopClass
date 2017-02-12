@@ -1,0 +1,1 @@
+  SPDY: fix SpdySessionHandler::updateSendWindowSize  In Netty 3, downstream writes of SPDY data frames and upstream reads of SPDY window udpate frames occur on 

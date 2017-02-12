@@ -1,0 +1,1 @@
+  chart merging style/margin fixes. #370  

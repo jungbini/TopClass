@@ -1,0 +1,1 @@
+  Added a script 'dbuck' to debug buck without shooting oneself in the foot  Summary: This makes for a simpler way for someone new to buck to debug it, avoiding known gotchas.  Test Plan: bin/dbuck --help Connect to port 8888 via IntelliJ debug Ensure no errors  

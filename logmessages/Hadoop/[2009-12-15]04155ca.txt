@@ -1,0 +1,1 @@
+  HBASE-2044  HBASE-1822 removed not-deprecated APIs HBASE-2041  Change WAL default configuration values changes to the shell and fixing interrupt bug   git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@891073 13f79535-47bb-0310-9956-ffa450edef68  

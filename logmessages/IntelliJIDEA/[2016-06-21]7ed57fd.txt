@@ -1,0 +1,1 @@
+  A fix for IDEA-156846 Color: "Default text" resets to white by itself, leads to brackets on white background  

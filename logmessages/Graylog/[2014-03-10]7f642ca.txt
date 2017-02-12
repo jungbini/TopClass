@@ -1,0 +1,1 @@
+  use natural ordering for index failures, set proper indices. fixes #468  

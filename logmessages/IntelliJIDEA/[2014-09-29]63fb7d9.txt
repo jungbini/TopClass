@@ -1,0 +1,1 @@
+  multiscope severity icon fixed: forgotten all scope added if selected group contains few scopes  

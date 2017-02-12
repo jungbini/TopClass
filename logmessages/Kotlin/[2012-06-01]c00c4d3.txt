@@ -1,0 +1,1 @@
+ KT-1808 Auto import offers private static Java classes #KT-1808 fixed  

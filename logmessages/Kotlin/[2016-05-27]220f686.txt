@@ -1,0 +1,1 @@
+  KT-2752: fix name clash diagnostic for case of extension property. Add more tests for the diagnostic  

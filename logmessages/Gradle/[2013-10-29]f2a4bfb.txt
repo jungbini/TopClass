@@ -1,0 +1,1 @@
+ccept 1-arg methods to be overridden. While this fixed the ClassFormatError, it also prevented the generator from adding new 1-arg set methods, if there are only multi-arg ones.  This commit updates the logic in AbstractClassGenerator to only attempt to override if it is a 1-arg method. If not methods were overridden it will add a new 1-arg method.  

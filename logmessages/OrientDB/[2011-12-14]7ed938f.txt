@@ -1,0 +1,1 @@
+  Fixed severe bug on record reloading: the content wasn't transfered to the original record if found in TX or cache. Unfortunately this breaks the TRANSIENT test I've temporary commented.  

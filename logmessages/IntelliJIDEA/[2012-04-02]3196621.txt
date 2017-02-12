@@ -1,0 +1,1 @@
+  fixed PY-5489 Refactor/Move: leads to syntax error with multi-line imports  

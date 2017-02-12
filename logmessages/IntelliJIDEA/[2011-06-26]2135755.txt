@@ -1,0 +1,1 @@
+  stopEditing and dialog's getPreferredFocusedComponent conflict fixed  

@@ -1,0 +1,1 @@
+ introduce ScalaCoverage test fixture; in daemon mode only run against one target version  +review REVIEW-5106  

@@ -1,0 +1,1 @@
+  don't try synchronizing while performing undo - changes will be handled automatically #WEB-15550 fixed  

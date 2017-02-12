@@ -1,0 +1,1 @@
+  new id icon; attribute reference and completion in xml; test fixes  

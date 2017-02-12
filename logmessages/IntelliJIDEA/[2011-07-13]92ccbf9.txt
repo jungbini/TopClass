@@ -1,0 +1,1 @@
+  SVN: merge sources column bug (sometimes column wasn't shown though data was loaded)  

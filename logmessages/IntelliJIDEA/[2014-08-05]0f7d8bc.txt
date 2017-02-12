@@ -1,0 +1,1 @@
+  Gradle: resources processing, fix OrderEnumerationHandler for OrderRootType.CLASSES  

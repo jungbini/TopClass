@@ -1,0 +1,1 @@
+  Maven: updating mirrored repositories fixed (IDEA-77593)  

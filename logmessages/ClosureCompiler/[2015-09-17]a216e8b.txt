@@ -1,0 +1,1 @@
+  Rollback change to GlobalNamespace (cl/102599023) to fix a crash in CollapseProperties. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=103326732  

@@ -1,0 +1,1 @@
+  revert fix "properties invalidation after element children were build" due to unacceptable performance  

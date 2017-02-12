@@ -1,0 +1,1 @@
+  IDEA-143512 Android: "Define attribute" quick fix inserts required xml attributes without "android:" namespace  

@@ -1,0 +1,1 @@
+  Workaround for type inference bug (KT-6694, for IDEA 140 branch)  

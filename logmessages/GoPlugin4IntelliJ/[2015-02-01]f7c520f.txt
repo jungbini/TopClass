@@ -1,0 +1,1 @@
+  fix #1217: nil not resolved in switch context  

@@ -1,0 +1,1 @@
+  HDFS-9407. TestFileTruncate should not use fixed NN port. Contributed by Brahma Reddy Battula.  

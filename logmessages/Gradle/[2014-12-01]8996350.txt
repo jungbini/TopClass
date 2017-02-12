@@ -1,0 +1,1 @@
+  fix show sourcesets in components integTest  

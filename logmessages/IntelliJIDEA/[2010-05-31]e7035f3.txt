@@ -1,0 +1,1 @@
+  -objects completion fixed in case of redefined objects model field -added strict navigation from add_to_class cases to corresponding add_to_class invocations  

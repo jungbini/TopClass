@@ -1,0 +1,1 @@
+  Simple refactoring that will be very helpful later to fix Eclipse classpath ordering issues. Moved the logic to tiny, separate classes that can be executed in a desired sequence.  

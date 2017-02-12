@@ -1,0 +1,1 @@
+  Moved the check for the wrapper jar size to live in the wrapper int tests. Also fixed the check so that it looks at the correct jar file.  

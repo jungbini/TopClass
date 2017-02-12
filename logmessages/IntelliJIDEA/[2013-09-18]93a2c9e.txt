@@ -1,0 +1,1 @@
+  xdebugger: debugger trees decoupled from XDebugSession  

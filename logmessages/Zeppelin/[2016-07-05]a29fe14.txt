@@ -1,0 +1,1 @@
+troshim] remove resultRefreshed from TEXT type only ec44166 [astroshim] remove resultRefreshed from TEXT type only edf2397 [astroshim] Merge branch 'master' into ZEPPELIN-1078 441357c [astroshim] remove resultRefreshed value.  

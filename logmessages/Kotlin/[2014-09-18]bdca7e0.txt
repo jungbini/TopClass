@@ -1,0 +1,1 @@
+  JS backend: fix KT-5772 wrong code generated when <,<=,>,>= are used with explicit Comparable type  #KT-5772 Fixed  

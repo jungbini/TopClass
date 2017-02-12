@@ -1,0 +1,1 @@
+  filtering content chooser for IDEA-104597: model modification fix  

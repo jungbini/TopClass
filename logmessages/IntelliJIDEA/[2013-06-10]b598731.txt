@@ -1,0 +1,1 @@
+  WEB-7167 JS debug: firefox opens a new tab every time  

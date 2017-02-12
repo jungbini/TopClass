@@ -1,0 +1,1 @@
+  fixed check whether file system is case sensitive  

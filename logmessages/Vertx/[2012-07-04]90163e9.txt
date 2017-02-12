@@ -1,0 +1,1 @@
+  fixed bug in includes with module that uses preserve-cwd  

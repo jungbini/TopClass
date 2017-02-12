@@ -1,0 +1,1 @@
+  some freemarker fixes for Katia  

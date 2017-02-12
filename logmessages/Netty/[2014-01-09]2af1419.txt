@@ -1,0 +1,1 @@
+  Fix a potential NPE due to the race between a connection attempt and its cancellation  - should fix #2086  

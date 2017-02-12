@@ -1,0 +1,1 @@
+ Small fix in clonestore example  

@@ -1,0 +1,1 @@
+  finished styling of alerts page. fixes #1267  

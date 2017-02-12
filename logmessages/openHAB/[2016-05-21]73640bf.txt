@@ -1,0 +1,1 @@
+  Freebox binding: fix phone calls handling (fix #4363) (#4393)  Signed-off-by: Laurent Garnier lg.hc@free.fr  

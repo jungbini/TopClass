@@ -1,0 +1,1 @@
+  junit: restore exception prefix if trace contains failure message (IDEA-143564); try to avoid truncation of failure message if it contains 'expected' substring  

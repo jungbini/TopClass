@@ -1,0 +1,1 @@
+  protect against uncaught runtime exceptions in periodicals  also force logging those whenever they occur  fixes #655  

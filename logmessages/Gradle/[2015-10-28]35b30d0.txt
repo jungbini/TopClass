@@ -1,0 +1,1 @@
+  Unignored (nored?) a test and fixed the display name for the descriptor attached to `ComponentSpec.binaries`.  This test was ignored a while ago during some work to transition `ComponentSpec.binaries` to be node backed. This test coincidentally happens to be working again.  

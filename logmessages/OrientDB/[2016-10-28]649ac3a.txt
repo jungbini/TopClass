@@ -1,0 +1,1 @@
+  Crash of WAL test was fixed  

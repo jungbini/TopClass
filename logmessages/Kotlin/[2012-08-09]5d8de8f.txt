@@ -1,0 +1,1 @@
+  KT-2596 Can't use iterator in for-loop  #KT-2596 fixed  

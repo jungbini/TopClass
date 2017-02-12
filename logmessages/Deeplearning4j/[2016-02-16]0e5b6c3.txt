@@ -1,0 +1,1 @@
+  Resolved shapes and calc errors in preOutput. Fixed paramInitializer. Backprop fix is working but shapes needs second pass. Updated tests  

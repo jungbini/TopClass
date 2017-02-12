@@ -1,0 +1,1 @@
+  Skylark docs: fix ctx.file and ctx.files.  They were using "<ATTR>" which was parsed as a HTML tag.  ctx.file appeared as: It is a shortcut for: list(ctx.attr..files)[0]  ctx.files appeared as: It is a shortcut for: [f for t in ctx.attr. for f in t.files]  -- MOS_MIGRATED_REVID=119149347  

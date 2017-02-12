@@ -1,0 +1,1 @@
+ methods of MediaType to accomodate wildcards in media types with a suffix.  Issue: SPR-9841  

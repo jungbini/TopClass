@@ -1,0 +1,1 @@
+  fix nulls not appearing in python cql resultsets patch by Pavel Yaskevich; reviewed by jbellis for CASSANDRA-2613  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8@1100274 13f79535-47bb-0310-9956-ffa450edef68  

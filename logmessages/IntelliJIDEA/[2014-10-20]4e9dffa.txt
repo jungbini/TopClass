@@ -1,0 +1,1 @@
+  fixed PY-14128 IPython Notebook: language level in cell is not updated on changing project interpreter until first edit  

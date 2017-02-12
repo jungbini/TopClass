@@ -1,0 +1,1 @@
+  do not add NO_EXPECTED_TYPE as a subtype constraint to constraint system  fixed exception from EA  

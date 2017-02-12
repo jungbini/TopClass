@@ -1,0 +1,1 @@
+  added create property quick fix for the property access inspection  

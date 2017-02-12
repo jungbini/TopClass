@@ -1,0 +1,1 @@
+  IDEA-80185  (Replace with For-Each with Indexed Loop bug)  

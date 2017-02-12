@@ -1,0 +1,1 @@
+  Fixed bug on collate from Studio  

@@ -1,0 +1,1 @@
+  fixing CSS cache when using automatically registered namespaces  

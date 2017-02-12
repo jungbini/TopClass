@@ -1,0 +1,1 @@
+  'Add primary constructor' quick fix added  

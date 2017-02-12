@@ -1,0 +1,1 @@
+  MAPREDUCE-687. Fix an assertion in TestMiniMRMapRedDebugScript. Contributed by Amareshwari Sriramadasu.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20@809846 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  fixed PY-2585 statement has no effect break code  

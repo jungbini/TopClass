@@ -1,0 +1,1 @@
+ Fixes bug where messages going through ExcludeSessionBroadcaster is never dispatched (#958)  

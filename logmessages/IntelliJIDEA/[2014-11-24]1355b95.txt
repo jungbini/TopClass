@@ -1,0 +1,1 @@
+  fixed PY-13685 Replace function call: invalid parenthesis for calls with inline comments  

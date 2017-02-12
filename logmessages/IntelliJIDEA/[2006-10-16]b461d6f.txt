@@ -1,0 +1,1 @@
+  fix JspWhileStatement's implicit variable gathering  

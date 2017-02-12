@@ -1,0 +1,1 @@
+  reduce size of buttons in top right of page headers. fixes #1392  

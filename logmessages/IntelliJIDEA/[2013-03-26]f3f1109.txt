@@ -1,0 +1,1 @@
+  fix "Flip Binary Expression" intention in the presence of polyadic expressions  

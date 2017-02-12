@@ -1,0 +1,1 @@
+  IDEA-72791 Critical bug in Code formatting (Java source files)  Delegating data context delegates UserDataHolder functionality as well now  

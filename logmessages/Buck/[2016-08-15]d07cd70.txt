@@ -1,0 +1,1 @@
+  Easy: Fix BserSerializer crash when passed non-List Iterable  Summary: Previously, `BserSerializer` incorrectly assumed any `Iterable` passed to it was a `List`, and crashed when passed a non-`List` `Iterable`.  This 

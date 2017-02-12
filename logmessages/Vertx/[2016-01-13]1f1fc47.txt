@@ -1,0 +1,1 @@
+ Deadlock if the connection is still being used while HttpClient is closing - fixes #1247  

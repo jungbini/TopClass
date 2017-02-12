@@ -1,0 +1,1 @@
+  Record and propagate namespaces from the <resources> element correctly. * Reduces the size of merged values.xml * Improves correctness of merged xml  Sadly, this is also backwards compatible by allowing multiple definitions of a prefix with 

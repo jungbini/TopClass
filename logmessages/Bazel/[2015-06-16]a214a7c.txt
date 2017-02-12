@@ -1,0 +1,1 @@
+  Activating OS X Travis Build  Also marking //src/test/java:skyframe_test as slow until we can correctly debug the timeout flakyness of this test on Travis OS X.  -- MOS_MIGRATED_REVID=96110784  

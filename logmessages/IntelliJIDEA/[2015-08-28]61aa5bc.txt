@@ -1,0 +1,1 @@
+  IDEA-144224 Yellow 'Find in file' highlighting is not readable when the same line is on the breakpoint - fix tests  

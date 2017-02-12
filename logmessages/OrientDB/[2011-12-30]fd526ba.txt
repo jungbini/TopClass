@@ -1,0 +1,1 @@
+  Fixed bug on the storage of linked record bytes using remote protocol reported by Salvatore in ML  

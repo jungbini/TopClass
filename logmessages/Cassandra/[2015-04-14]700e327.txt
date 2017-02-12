@@ -1,0 +1,1 @@
+  Merge branch 'cassandra-2.1' into trunk Allow takeColumnFamilySnapshot to take a list of tables patch by Sachin Jarin; reviewed by Nick Bailey for CASSANDRA-8348 (fixup for NodeTool commands moving out to top level classes)  

@@ -1,0 +1,1 @@
+  fix "Can't Modify Index Name" problem on CF update patch by Pavel Yaskevich; reviewed by Yuki Morishita for CASSANDRA-4439  

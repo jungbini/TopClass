@@ -1,0 +1,1 @@
+  fixed GRADLE-1366: Redundancy in class header declaration fixed typo  

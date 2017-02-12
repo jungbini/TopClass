@@ -1,0 +1,1 @@
+  java: alternative JRE check fixed; API extended  

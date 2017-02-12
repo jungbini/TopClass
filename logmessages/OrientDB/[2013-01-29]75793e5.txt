@@ -1,0 +1,1 @@
+  Fixed last bugs on recovery of a dirty metadata  

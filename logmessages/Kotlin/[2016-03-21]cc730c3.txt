@@ -1,0 +1,1 @@
+  Implement quickfix to remove '.java' when KClass is expected Fixes #KT-11078  

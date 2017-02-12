@@ -1,0 +1,1 @@
+  Add $jscomp.patch and use it to fix handling of Symbols in Object.keys and similar methods. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=126339268  

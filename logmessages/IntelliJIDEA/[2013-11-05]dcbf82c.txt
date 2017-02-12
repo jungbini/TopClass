@@ -1,0 +1,1 @@
+  Emmet usability fixes:  - fix balloon width - show last selected abbreviation by default - request focus properly - fix NPE on dispose (cherry-picked from 44cbcd6)  

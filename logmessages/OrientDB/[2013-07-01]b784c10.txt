@@ -1,0 +1,1 @@
+  Index: fixed concurrency problem on iterating items because lock was released. Now everytime the iterator calls hasNext() and next() locks the index too  

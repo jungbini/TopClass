@@ -1,0 +1,1 @@
+  honor do not validate flag for injected html when checking url reference #WEB-20527 fixed  

@@ -1,0 +1,1 @@
+  fix bug with hidden code that caused exceptions with hidden code that had bad names  

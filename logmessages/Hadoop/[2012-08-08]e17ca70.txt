@@ -1,0 +1,1 @@
+  Merge -c 1370889 from trunk to branch-2.1.0-alpha to fix YARN-12. Fix findbugs warnings in FairScheduler. Contributed by Junping Du.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1.0-alpha@1370891 13f79535-47bb-0310-9956-ffa450edef68  

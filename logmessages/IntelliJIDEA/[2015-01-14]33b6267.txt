@@ -1,0 +1,1 @@
+ Merge branch 'pr/fix_core_java_file_manager' of https://github.com/pTalanov/intellij-community into pTalanov-pr/fix_core_java_file_manager  commit 33b6267ee240a15e51f42a8d040f4c214c9afc62  svn: Refactored WcInfoLoader - used SvnVcs instance instead of Project instance, code simplified, warnings fixed, @NotNull  

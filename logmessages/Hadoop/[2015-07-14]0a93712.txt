@@ -1,0 +1,1 @@
+  HDFS-8734. Erasure Coding: fix one cell need two packets. Contributed by Walter Su.  

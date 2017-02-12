@@ -1,0 +1,1 @@
+  KT-2503 Added String.repeat method  #KT-2503 fixed  

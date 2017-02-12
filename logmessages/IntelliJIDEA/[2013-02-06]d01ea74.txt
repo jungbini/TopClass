@@ -1,0 +1,1 @@
+  IDEA-95560 (parameter list fixer to recognize lambdas)  

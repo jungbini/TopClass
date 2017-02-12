@@ -1,0 +1,1 @@
+  Test for bug: unable to create custom ApplicationBinarySpec  gradle/langos#152  

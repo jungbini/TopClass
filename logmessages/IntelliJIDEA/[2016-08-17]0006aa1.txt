@@ -1,0 +1,1 @@
+  [groovy] collect element text properly (fix IDEA-159924)  

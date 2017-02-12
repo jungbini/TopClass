@@ -1,0 +1,1 @@
+  uses shahid's fork of nekohtml  this fork has a fix to signal an error for elements without a closing '>'  

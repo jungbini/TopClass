@@ -1,0 +1,1 @@
+  changes view model building perf fix (IDEADEV-11700)  

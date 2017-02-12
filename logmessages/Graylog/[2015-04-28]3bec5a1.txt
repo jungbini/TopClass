@@ -1,0 +1,1 @@
+  indicate unusual states of nodes using text colors, fix wrong description/help text, make all buttons of nodes list page work again  

@@ -1,0 +1,1 @@
+  XValueChildrenProvider: reduce memory usage  avoid names list WEB-8440 Debugger: Variables view: incorrect folding of variables  

@@ -1,0 +1,1 @@
+  HOTFIX: fix NPE in changelogger  Fix NPE in StoreChangeLogger caused by a record out of window retention period. guozhangwang  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #1124 from ymatsuda/logger_npe  

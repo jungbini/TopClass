@@ -1,0 +1,1 @@
+  fix reading git/version properties when starting in packaged jar  

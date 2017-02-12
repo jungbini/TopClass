@@ -1,0 +1,1 @@
+  Bug fix: incorrect value of fraction was set to progress indicator.  

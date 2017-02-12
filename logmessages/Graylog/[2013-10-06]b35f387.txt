@@ -1,0 +1,1 @@
+  use UriBuilder from javax.ws.rs.core  fixed #281 properly escape query parameters  

@@ -1,0 +1,1 @@
+  svn merge -c 1512057 merging from trunk to branch-2.1-beta to fix HDFS-5047. Supress logging of full stack trace of quota and lease exceptions.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1512059 13f79535-47bb-0310-9956-ffa450edef68  

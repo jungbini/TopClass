@@ -1,0 +1,1 @@
+  Some code for the multitexture combiners functionality (GLES 1.1 fixed pipeline)  

@@ -1,0 +1,1 @@
+  implement equals and hashCode for all android settings (fix writing "stubs" to codeStyleSettings.xml)  

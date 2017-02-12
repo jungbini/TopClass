@@ -1,0 +1,1 @@
+  [STORM-1575] fix TwitterSampleSpout NPE on close  

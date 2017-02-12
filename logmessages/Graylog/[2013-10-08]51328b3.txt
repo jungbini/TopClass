@@ -1,0 +1,1 @@
+  negated searches from quickvalue links. fixes #300  

@@ -1,0 +1,1 @@
+  create nwe project with detected sdk, get rid of PythonSdkConfigurable, create fixed isDjangoInstalled in create new django project  

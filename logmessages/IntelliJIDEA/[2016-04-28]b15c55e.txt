@@ -1,0 +1,1 @@
+  IDEA-23075 - do not substitute slash-r on value edit - fixes for IDEA-CR-10387  

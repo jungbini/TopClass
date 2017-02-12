@@ -1,0 +1,1 @@
+  Treat assumptions as errors  Summary: We already have an option `test.assumptions-are-errors` that treats an assumption-violated-exception as an error in that it prints the full stack trace.  This 

@@ -1,0 +1,1 @@
+  Add default content-type to GettingStartedResource  If the default content-type for responses was missing, Jersey tried to use "text/xml" as default, which resulted in an error message:  MessageBodyWriter not found for media type=text/xml  Adding an explicit default ("application/json") fixes this issue.  Fixes #1700  

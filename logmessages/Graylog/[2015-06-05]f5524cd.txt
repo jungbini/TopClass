@@ -1,0 +1,1 @@
+  fix incorrect index range calculation  the check for the deflector index target was inverted  fixes #1217, fixes Graylog2/graylog2-web-interface#1266  

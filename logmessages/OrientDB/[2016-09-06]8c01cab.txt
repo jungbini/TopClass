@@ -1,0 +1,1 @@
+  fixed wrong recourd count for truncate class, issue #6659  

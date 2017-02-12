@@ -1,0 +1,1 @@
+  fixed PY-6501 Exception from ChainedComparison inspection  

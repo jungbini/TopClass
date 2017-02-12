@@ -1,0 +1,1 @@
+  Adding ability to launch vertx's JVM in debug mode, which will wait on a remote debugger to attach before running, to the bash script.  

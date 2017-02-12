@@ -1,0 +1,1 @@
+  color for issues in goto task popup under darcula fixed (cherry-picked from edd146d) [r=kb]  

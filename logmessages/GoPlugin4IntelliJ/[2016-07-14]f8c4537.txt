@@ -1,0 +1,1 @@
+ Direct assignments to struct fields are allowed when the struct is a pointer (fixes #2655)  

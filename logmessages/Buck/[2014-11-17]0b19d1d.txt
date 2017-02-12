@@ -1,0 +1,1 @@
+ `programs/`, that invocation fails because it cannot find `programs/buck.py`. This fixes it by always using `bin/buck` to restart Buck.  Test Plan: Set .buckversion to commit before launcher scripts were moved to the `programs` directory, and launch buck. Verify that it doesn't choke.  

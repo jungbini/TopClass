@@ -1,0 +1,1 @@
+  fix quickvalues and sidebar scrolling #263  

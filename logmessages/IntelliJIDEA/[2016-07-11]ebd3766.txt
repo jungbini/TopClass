@@ -1,0 +1,1 @@
+  [java] fixes broken generic signature parsing (IDEA-158330)  

@@ -1,0 +1,1 @@
+  IDEA-117613 Gradle: tool window is missing after the update, fix after review  

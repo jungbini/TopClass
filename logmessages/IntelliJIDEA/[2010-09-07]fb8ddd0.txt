@@ -1,0 +1,1 @@
+  1. InterruptThread action available from the ThreadsPane (IDEA-23341) 2. ThreadsPane shows running threads and updates their state even if debug VM is not paused 3. tests fixed  

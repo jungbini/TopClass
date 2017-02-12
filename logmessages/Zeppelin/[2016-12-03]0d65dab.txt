@@ -1,0 +1,1 @@
+5fbc5 [Anthony Corbacho] Fix case where user use zeppelin in normal mode with token  

@@ -1,0 +1,1 @@
+  HADOOP-10926: Improve test-patch.sh to apply binary 

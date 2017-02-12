@@ -1,0 +1,1 @@
+  Taking into account Oracle bug 8019291 it is better do not set this property for this transient window than see strange decorations on the transient window.  

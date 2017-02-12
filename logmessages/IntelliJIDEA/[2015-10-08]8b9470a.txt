@@ -1,0 +1,1 @@
+  guava type migration: do not show quick fix if assignment to FluentIterable local variable  

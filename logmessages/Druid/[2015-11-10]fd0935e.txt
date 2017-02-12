@@ -1,0 +1,1 @@
+ fix spatial dimension transformer to work with hadoop  

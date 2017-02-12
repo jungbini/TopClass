@@ -1,0 +1,1 @@
+  Fixed bug reported in ML by Marcus on queries during a transaction: temporary records wasn't involved in the result set.  

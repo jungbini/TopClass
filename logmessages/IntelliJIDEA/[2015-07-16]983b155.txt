@@ -1,0 +1,1 @@
+  fixed bug when no stripping happens if two files modified in the same line  

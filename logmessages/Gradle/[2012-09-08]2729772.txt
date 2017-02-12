@@ -1,0 +1,1 @@
+  use getter syntax instead of property syntax to make convention mapping work  - also fixed spec to catch this mistake  

@@ -1,0 +1,1 @@
+  Network: fixed issue #1238 about avoiding infinite loop on timeout  

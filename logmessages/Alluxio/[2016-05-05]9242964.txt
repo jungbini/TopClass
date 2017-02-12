@@ -1,0 +1,1 @@
+  updated name conflictions to ensure tests are *Test fixing the checkstyle violations, renamed internal tests (not actual tests) to mapper*Test  

@@ -1,0 +1,1 @@
+  IDEA-22299 ("Get" action in "File History" tab's popup does not refresh file which it gets.) + fix  

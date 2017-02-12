@@ -1,0 +1,1 @@
+  fix obscure image cache bugs when multiple renderers are used  

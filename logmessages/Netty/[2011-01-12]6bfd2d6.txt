@@ -1,0 +1,1 @@
+  Fixed issue: NETTY-374 ChunkedWriteHandler and handling messages after channel close  Fixed a bug where a write requests made after closure are not discarded  

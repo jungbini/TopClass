@@ -1,0 +1,1 @@
+  fix case (IDEA-151469)  

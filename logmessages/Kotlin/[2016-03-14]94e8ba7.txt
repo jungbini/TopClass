@@ -1,0 +1,1 @@
+  "Code formatter doesn't remove spaces in single line properties" fixed (KT-11076)  #KT-11076 Fixed  

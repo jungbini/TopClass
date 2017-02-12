@@ -1,0 +1,1 @@
+  don't use workaround for a Mac OS font display issue with JDK 1.8.0_60 or later - the issue is fixed there  

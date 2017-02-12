@@ -1,0 +1,1 @@
+  Registry: add ability to disable fix for unit increment in scroll pane  

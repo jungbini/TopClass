@@ -1,0 +1,1 @@
+  Delete stale metadata when an artifact is loaded from the cache.  Summary: This 

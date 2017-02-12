@@ -1,0 +1,1 @@
+  svn merge -c 1409827 FIXES: YARN-188. Coverage fixing for CapacityScheduler (Aleksey Gorshkov via bobby)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1409832 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  [ToolingAPI for IDEA] Improved the example for idea so that it can be shown to Denis easily. Fixed some issues with generic types of collections in the model objects. Added toString() implementations to improve debugging and samples output.  

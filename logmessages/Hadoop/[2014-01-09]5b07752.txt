@@ -1,0 +1,1 @@
+  YARN-962. Fixed bug in application-history proto file and renamed it be just a client proto file. Contributed by Zhijie Shen. svn merge --ignore-ancestry -c 1506401 ../../branches/YARN-321-old/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/YARN-321@1556690 13f79535-47bb-0310-9956-ffa450edef68  

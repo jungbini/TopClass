@@ -1,0 +1,1 @@
+  descriptor name cannot be empty string  * add assertion * fix tests * #KT-1748 Fixed  

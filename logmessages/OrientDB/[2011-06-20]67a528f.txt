@@ -1,0 +1,1 @@
+  Fixed bug found by Roberto Franchini about a dirty cache status even if it was disables  

@@ -1,0 +1,1 @@
+  KT-2752: fix translation of call to internal function from subclass  

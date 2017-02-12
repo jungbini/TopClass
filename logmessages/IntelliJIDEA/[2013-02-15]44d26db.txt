@@ -1,0 +1,1 @@
+  file encoding fixes: one change file encoding action instead of two (reload/save) undo/redo change encoding  

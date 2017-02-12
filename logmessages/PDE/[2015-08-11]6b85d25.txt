@@ -1,0 +1,1 @@
+  fixes wrong calculation of pixel buffer  

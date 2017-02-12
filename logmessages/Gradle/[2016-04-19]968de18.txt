@@ -1,0 +1,1 @@
+  Workaround for JDK bug when detecting symlinks  +review REVIEW-5852  

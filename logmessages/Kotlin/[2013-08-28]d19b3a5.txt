@@ -1,0 +1,1 @@
+  Do not break the string after REF: by commas  Example: // REF: (in Foo).bar(Any?,Any?)  When broken by commas it produces a wrong list of expected references Solution: * Use findLinesWithPrefixesRemoved() instead of findStringWithPrefixes()  

@@ -1,0 +1,1 @@
+  IDEA-61674 Settings->Colors&Fonts->Debugger has unnecessary editor preview panel  Empty preview panels are not shown at 'colors and fonts' menu page anymore  

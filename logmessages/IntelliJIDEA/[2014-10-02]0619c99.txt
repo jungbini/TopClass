@@ -1,0 +1,1 @@
+  java folding: use unicode right arrow for closures, fix blinking tests  

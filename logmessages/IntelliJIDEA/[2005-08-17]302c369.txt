@@ -1,0 +1,1 @@
+  LocalizePlugin action implemented cvs plugin i18ned loading groups text (from resource bundle) - fixed  

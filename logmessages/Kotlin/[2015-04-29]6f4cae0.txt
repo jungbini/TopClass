@@ -1,0 +1,1 @@
+  Quickfix to add a loop label when 'break' or 'continue' is used in a loop inside 'when' #KT-7202 Fixed  

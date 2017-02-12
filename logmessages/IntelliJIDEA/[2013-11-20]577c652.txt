@@ -1,0 +1,1 @@
+  fixed PY-11394 "no tests were found" with django 1.6 DiscoverRunner  

@@ -1,0 +1,1 @@
+  introduced failing spec for fragments containing namespaces, and fixing that bug.  

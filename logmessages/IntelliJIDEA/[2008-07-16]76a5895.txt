@@ -1,0 +1,1 @@
+  fix conflicts when name of outer renamed method clashes with name of inner method (part of IDEADEV-25197)  

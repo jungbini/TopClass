@@ -1,0 +1,1 @@
+  java-xdebugger: threads tab support - update on select  

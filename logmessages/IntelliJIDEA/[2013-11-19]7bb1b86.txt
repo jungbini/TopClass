@@ -1,0 +1,1 @@
+  (IDEA-116490) remove --debug argument if hg supports parents template variables  *hg log command refactored; *appropriate supported version added to HgVersion; *construct hashes argument modified for new log  

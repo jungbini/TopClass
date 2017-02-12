@@ -1,0 +1,1 @@
+  fix ArrayIndexOutOfBoundsException in nodetool cfhistograms  Patch by Benjamin Lerer, reviewed by jbellis for CASSANDRA-8514  

@@ -1,0 +1,1 @@
+  Split integration test into two separate tests for preserve-order and group-by-instances since group-by-instances was correctly supported by TestNG long before version 6.9.4 which fixed a severe issue with preserve-order.  

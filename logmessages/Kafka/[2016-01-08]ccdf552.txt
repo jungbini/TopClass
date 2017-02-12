@@ -1,0 +1,1 @@
+  MINOR: Fix typos in Kafka website page  Fix two minor typos in Kafka official website page.  Author: Gabriel Zhang <smalldirector@yahoo.com>  Reviewers: Ismael Juma, Guozhang Wang  Closes #742 from smalldirector/kafka-document-typos-fix  

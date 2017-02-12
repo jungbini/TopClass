@@ -1,0 +1,1 @@
+ Merge pull request #525 from Lewuathe/fix-dead-links-to-examples  Fix dead link  commit 5157070aff0068fd74c2c2c332dcf717498e3ae0  Merge pull request #523 from deeplearning4j/ablayerfixes  Layer configuration fixes  commit 03d879e5268bbe91b8759ca52ce7d4cc2cacb0de  fixed TextPipline in Spark. Tests passed. Build Success  

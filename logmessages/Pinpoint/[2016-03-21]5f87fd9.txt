@@ -1,0 +1,1 @@
+  reload page when changed caller or callee. add default template to response summary chart. bug fix - download scatter - load chart tooltip  

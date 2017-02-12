@@ -1,0 +1,1 @@
+  fix unified AppleTestDescription outputting bundles to wrong place  Summary: Tests should be treated like binaries and bundles in that the output should go to the root of products directory.  Test Plan: Generate a project with a test, see that its `CONFIGURATION_BUILD_DIR` is set to `BUILT_PRODUCTS_DIR`.  

@@ -1,0 +1,1 @@
+  fixed issue #3627 - wrong number of result when limit is used  

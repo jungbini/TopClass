@@ -1,0 +1,1 @@
+  mostly completed "register extension" fix (IDEA-60730)  

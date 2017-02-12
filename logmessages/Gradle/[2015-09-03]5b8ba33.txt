@@ -1,0 +1,1 @@
+  GRADLE-2316 Add more debug logs and diagnostic information to DaemonClient failures  +review REVIEW-5610  

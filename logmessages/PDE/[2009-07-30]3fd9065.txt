@@ -1,0 +1,1 @@
+  Auto format problem with program deeper then 10 levels (bug #1297)  

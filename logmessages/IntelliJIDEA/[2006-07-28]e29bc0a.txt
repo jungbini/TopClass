@@ -1,0 +1,1 @@
+  fixing test: the dirname task is being parsed now to get its value  

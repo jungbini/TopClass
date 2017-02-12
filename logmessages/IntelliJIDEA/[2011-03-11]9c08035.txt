@@ -1,0 +1,1 @@
+  check if it is html tag before checking parent descriptor; fix checking if we should skip validation  

@@ -1,0 +1,1 @@
+  Improve the getType for enum, and fix an probable nullPointerException inside GoBinaryExpressionImpl.resolveTypes, this also fix the issue #348  

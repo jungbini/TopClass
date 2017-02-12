@@ -1,0 +1,1 @@
+  do not use Thread.setName for explicit runReadActions to fix performance on Mac  

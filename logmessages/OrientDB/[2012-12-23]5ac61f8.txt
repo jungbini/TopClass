@@ -1,0 +1,1 @@
+  Applied Sylvain's patch to fix issue #1200  

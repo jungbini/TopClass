@@ -1,0 +1,1 @@
+  Get rid of obsolete syntax in quickfixes changing lambda's signature  - Do not wrap parameters with '()' - Do not set return type for them - Fix existing testData  

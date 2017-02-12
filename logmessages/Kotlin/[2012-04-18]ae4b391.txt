@@ -1,0 +1,1 @@
+  KT-1820 Write test for ASSIGN_OPERATOR_AMBIGUITY #KT-1820 fixed  

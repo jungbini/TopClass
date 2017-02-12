@@ -1,0 +1,1 @@
+  extract configurable for "generate toString()" to separate class; fix isModified() check  

@@ -1,0 +1,1 @@
+  Xml schema bug (IDEADEV-12900)  

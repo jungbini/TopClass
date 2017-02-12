@@ -1,0 +1,1 @@
+  sort search result fields list. fixes #283  

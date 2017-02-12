@@ -1,0 +1,1 @@
+  indent for type specs inside type declaration, fix #1621  

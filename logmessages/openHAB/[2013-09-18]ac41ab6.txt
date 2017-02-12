@@ -1,0 +1,1 @@
+  #426 fixed the startup problem by merging ModbusPoll and ModbusConfiguration into ModbusBinding  

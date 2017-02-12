@@ -1,0 +1,1 @@
+  NPE fix: FileEditor seem to be provided from the console view's editor. Obviously it doesn't have VirtualFile associated  

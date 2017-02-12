@@ -1,0 +1,1 @@
+  Distributed: back ported fix on refusing connections while the server is not ONLINE  

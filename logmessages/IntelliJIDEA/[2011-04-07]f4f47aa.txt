@@ -1,0 +1,1 @@
+  enable namespace prefix resolution (and implicit usage detection) for XPath injected into any XML attributes, not just XSLT  

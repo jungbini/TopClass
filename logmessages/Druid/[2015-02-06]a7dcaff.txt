@@ -1,0 +1,1 @@
+ fix `__time` column selector for incremental index  - also adds tests for selecting the time column  

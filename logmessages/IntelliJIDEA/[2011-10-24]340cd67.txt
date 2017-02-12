@@ -1,0 +1,1 @@
+  fix "Concatenation with empty string" inspection broken by polyadic expression and add test  

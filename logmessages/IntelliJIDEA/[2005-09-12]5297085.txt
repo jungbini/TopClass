@@ -1,0 +1,1 @@
+  fix for incorrectly resolved classes in loop replacemeent  

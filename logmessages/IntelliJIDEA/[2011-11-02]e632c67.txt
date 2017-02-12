@@ -1,0 +1,1 @@
+  fixed PY-4928 Mako: object is not callable: false positive for functions from re module  

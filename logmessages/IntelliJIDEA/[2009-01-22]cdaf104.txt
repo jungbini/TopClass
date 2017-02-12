@@ -1,0 +1,1 @@
+  IDEADEV-34191 (quick fix for "If statement could be replaced with simple conditional expression" inspection breaks code)  

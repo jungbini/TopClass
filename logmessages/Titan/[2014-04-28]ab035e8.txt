@@ -1,0 +1,1 @@
+  Shade Guava 14.0.1 for HBase 0.94  HBase 0.94 can't run against Guava 15.0 or newer.  14.0.1 is the latest version that HBase 0.94 can use.  This is marked wontfix in the associated HBase issue:  https://issues.apache.org/jira/browse/HBASE-10174  

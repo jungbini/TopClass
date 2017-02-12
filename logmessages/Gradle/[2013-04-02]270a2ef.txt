@@ -1,0 +1,1 @@
+  temporally disable jacoco apply in sonar smoke tests until windows/ibm issues with jacoco plugin are fixed.  

@@ -1,0 +1,1 @@
+  IDEA-161504 ui: fix "Update Plugin" button rendering under HiDPI  

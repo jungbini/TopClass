@@ -1,0 +1,1 @@
+  Split keepalive from pipelining in HTTP connections (bug https://bugs.eclipse.org/bugs/show_bug.cgi?id=434402). A new property 'pipelining' is added to HttpClient to disable HTTP pipelining (by default, pipelining is true to maintain backwards compatibility)  

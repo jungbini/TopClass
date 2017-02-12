@@ -1,0 +1,1 @@
+  IDEA-96565 Annotate does not work : svn: E160013 - debug info  

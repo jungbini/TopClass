@@ -1,0 +1,1 @@
+  KT-8442 related: destructuring declarations aren't taken into account during light classes generation, fixes EA-81204  

@@ -1,0 +1,1 @@
+  [NTI] Fix bug when casting from truthy/falsy type.  Fixes #1857 on github. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=125965489  

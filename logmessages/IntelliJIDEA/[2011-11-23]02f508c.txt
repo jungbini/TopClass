@@ -1,0 +1,1 @@
+  fixed test name for smart enter test  

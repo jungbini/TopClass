@@ -1,0 +1,1 @@
+  IDEA-91835 Debugger: Support caret at the 'View Text' control  

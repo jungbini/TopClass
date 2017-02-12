@@ -1,0 +1,1 @@
+  fixed issue with leaving part of search results set for replacement patterns  

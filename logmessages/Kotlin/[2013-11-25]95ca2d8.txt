@@ -1,0 +1,1 @@
+  Fixed bug with property and function name clash.  Complete type inference dependent on function literals and expected type for variable as function calls not for 'invoke' calls  

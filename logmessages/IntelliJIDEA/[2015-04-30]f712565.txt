@@ -1,0 +1,1 @@
+  toolwindow header border: fix for not-retina screens  

@@ -1,0 +1,1 @@
+  moved python smart copy-paste logic to python module  so fixed PY-8982, PY-7709, PY-7470, PY-6994, PY-6992, PY-6987, PY-6888  

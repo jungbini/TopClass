@@ -1,0 +1,1 @@
+  fixed PY-4916 Mako: unresolved template reference: false negative for templates in nested folders  

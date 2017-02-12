@@ -1,0 +1,1 @@
+ Bug fix: DataFlowInfo.getCompleteTypeInfo (with a test)  

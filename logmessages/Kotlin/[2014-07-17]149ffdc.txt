@@ -1,0 +1,1 @@
+  Analyzer error handling: fix for printing bytecode in case of exception within optimization package  

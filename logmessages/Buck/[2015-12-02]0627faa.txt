@@ -1,0 +1,1 @@
+  python: parse PEX tool when building tests  Summary: A recent change fixed this for binaries, but not for tests.  Test Plan: CI  Reviewed By: marcinkosiba  fb-gh-sync-id: 75c751c  

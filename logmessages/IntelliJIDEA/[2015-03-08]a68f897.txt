@@ -1,0 +1,1 @@
+  Scratches: keep the old non-physical ref-search logic for scratches (fixes broken rename in DB console)  

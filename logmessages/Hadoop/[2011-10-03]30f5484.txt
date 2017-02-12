@@ -1,0 +1,1 @@
+  HBASE-4531 hbase-4454 failsafe broke mvn site; back it out or fix  git-svn-id: https://svn.apache.org/repos/asf/hbase/branches/0.92@1178506 13f79535-47bb-0310-9956-ffa450edef68  

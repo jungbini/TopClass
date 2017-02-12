@@ -1,0 +1,1 @@
+  quick fix did not remove iterator if it was not used after replacing with foreach and cleanup  

@@ -1,0 +1,1 @@
+  fix "Auto-boxing" inspection for lambdas and method reference expressions  

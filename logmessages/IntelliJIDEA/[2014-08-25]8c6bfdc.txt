@@ -1,0 +1,1 @@
+  fixed PY-13743 64bit python interpreters are not detected in windows registry  

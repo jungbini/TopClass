@@ -1,0 +1,1 @@
+  MINOR: Improve README  Mention Java 7 requirement, fix and improve formatting and remove obsolete reference to SVN website.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Sriharsha Chintalapani <harsha@hortonworks.com>, Jason Gustafson <jason@confluent.io>  Closes #677 from ijuma/mention-java-requirement-in-readme  

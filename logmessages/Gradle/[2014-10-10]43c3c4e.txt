@@ -1,0 +1,1 @@
+  Fixed resources.text() problem  All instances where I've applied the fix call for coverage. Bugs like to cluster so let's get this covered. I needed to fix this otherwise I cannot use master Gradle with my builds. Not sure whether this problem also exists in the release branch.  

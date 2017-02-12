@@ -1,0 +1,1 @@
+  deadlock fixed. Do not need LOCK for findFileByPath()  

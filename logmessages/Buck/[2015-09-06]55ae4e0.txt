@@ -1,0 +1,1 @@
+  Cache build rule output hashes between buckd runs  Summary: A performance issue with input-based rule keys are that they hash the contents of build rule outputs under `buck-out`.  Since we don't currently cache these in the main `DefaultFileHashCache`, this means input-based rule key calculations spend a lot of time re-hashing generated inputs paths.  This 

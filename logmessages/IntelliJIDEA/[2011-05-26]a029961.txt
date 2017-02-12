@@ -1,0 +1,1 @@
+  fixed PY-3586 Docstring quotes inspection should highlight only the incorrect quotes, not the entire docstring  

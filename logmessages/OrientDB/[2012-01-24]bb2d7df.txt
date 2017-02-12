@@ -1,0 +1,1 @@
+  Patch by sizon5 to fix issue 689  

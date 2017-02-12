@@ -1,0 +1,1 @@
+  fix QUORUM calculation for RF > 3.  patch by Jignesh Dhruv; reviewed by jbellis for CASSANDRA-1487  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@996020 13f79535-47bb-0310-9956-ffa450edef68  

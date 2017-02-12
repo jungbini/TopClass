@@ -1,0 +1,1 @@
+  show source text as value name, part of "WEB-6069 CoffeeScript Debugger doesn't show value of the variables"  

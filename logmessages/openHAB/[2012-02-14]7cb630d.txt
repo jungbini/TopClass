@@ -1,0 +1,1 @@
+  added list of contributors - fixed encoding  

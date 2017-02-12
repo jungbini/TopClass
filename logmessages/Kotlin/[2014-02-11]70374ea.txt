@@ -1,0 +1,1 @@
+  KT-4529 Lambdas are analyzed improperly in an infix call nested inside a println #KT-4529 Fixed  

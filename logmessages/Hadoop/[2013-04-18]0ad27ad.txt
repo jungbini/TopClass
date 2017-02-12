@@ -1,0 +1,1 @@
+  HDFS-4707. Add snapshot methods to FilterFileSystem and fix findbugs warnings.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-2802@1469119 13f79535-47bb-0310-9956-ffa450edef68  

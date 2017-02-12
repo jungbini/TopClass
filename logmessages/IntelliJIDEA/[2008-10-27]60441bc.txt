@@ -1,0 +1,1 @@
+  reset fixed for color and fonts  

@@ -1,0 +1,1 @@
+  HADOOP-13350. Additional fix to LICENSE and NOTICE. Contributed by Xiao Chen.  

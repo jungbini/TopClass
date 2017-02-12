@@ -1,0 +1,1 @@
+  AppCode: npe in PBXReference correctly fixed + some not-nulls in getInstance  

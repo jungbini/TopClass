@@ -1,0 +1,1 @@
+  Add toString() to Eclipse wtp test fixtures  

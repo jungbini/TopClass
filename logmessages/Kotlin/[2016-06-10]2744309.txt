@@ -1,0 +1,1 @@
+  Make infix modifier diagnostic message more informative (KT-12589)  

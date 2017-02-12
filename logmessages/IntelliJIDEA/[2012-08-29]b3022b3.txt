@@ -1,0 +1,1 @@
+  rework of fix for TrafficLightRenderer (cherry-picked from 1f8cf40)  

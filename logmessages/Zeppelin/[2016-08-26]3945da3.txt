@@ -1,0 +1,1 @@
+25d [Jeff Zhang] [MINOR] Remove unnecessary question mark  (cherry picked from commit 32f35e2a775ae9eacd5707cf8f62740c64e22794) Signed-off-by: Mina Lee <minalee@apache.org>  Conflicts: conf/zeppelin-site.xml.template  

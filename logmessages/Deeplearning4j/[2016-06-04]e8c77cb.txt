@@ -1,0 +1,1 @@
+ Last test fix for LFW constructor  

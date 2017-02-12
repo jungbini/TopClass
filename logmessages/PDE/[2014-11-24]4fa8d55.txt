@@ -1,0 +1,1 @@
+  fix regression using ctrl-alt-n for new tab (fixes #2979)  

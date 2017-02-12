@@ -1,0 +1,1 @@
+  IDEA-68801 Debugger views on Mac: grey text over grey background is unreadable  

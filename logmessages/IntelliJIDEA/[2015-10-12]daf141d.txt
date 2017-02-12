@@ -1,0 +1,1 @@
+  fix a case of PsiFile having both AST and stub (not knowing about each other) when there are several PSI roots (IDEA-146173)  remove consistency assertion, let it be only in master  

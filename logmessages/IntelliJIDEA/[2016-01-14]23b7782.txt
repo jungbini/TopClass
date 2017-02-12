@@ -1,0 +1,1 @@
+  show running web workers on debugging in chrome  

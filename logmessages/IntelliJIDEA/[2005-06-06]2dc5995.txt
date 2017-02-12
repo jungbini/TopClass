@@ -1,0 +1,1 @@
+  fixed issue with fetching url that is html file  

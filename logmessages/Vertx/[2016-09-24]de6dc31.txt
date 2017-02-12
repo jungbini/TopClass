@@ -1,0 +1,1 @@
+  Http2Headers result of entries() should not be cached - fixes #1641  

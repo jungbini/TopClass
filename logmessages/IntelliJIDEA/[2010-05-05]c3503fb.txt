@@ -1,0 +1,1 @@
+  StructureView perfomance - fixing SmartTree  

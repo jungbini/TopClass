@@ -1,0 +1,1 @@
+  TinkerforgeBinding: BrickletTilt ready; fixes for VoltageCurrent  

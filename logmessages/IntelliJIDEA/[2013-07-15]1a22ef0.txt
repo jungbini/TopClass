@@ -1,0 +1,1 @@
+  IDEA-110440, IDEA-110025 (re-fixed: component check made side effect-free)  

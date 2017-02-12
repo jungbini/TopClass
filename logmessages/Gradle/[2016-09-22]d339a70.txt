@@ -1,0 +1,1 @@
+  Ignore changes in project build directories in continuous build  - fixes GRADLE-3425  +review REVIEW-6260  

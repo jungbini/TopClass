@@ -1,0 +1,1 @@
+  fixed building artifact with GWT elements in dumb mode  

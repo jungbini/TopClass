@@ -1,0 +1,1 @@
+  fixes from willis morse to do with memory wastefulness  

@@ -1,0 +1,1 @@
+  autodetect platform prefix in all tests; mark the manual initialization methods as deprecated; remove some of the usages  

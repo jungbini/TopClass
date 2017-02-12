@@ -1,0 +1,1 @@
+  fixed PY-9845 Doctests: missing completion for import statement on first line of rst file  

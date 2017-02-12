@@ -1,0 +1,1 @@
+  EP "dom.extender": fix attribute "extendClassName" -> "extenderClass"  

@@ -1,0 +1,1 @@
+  Turn Buck debugging on from the command line.  Summary: `buck --debug` will start the JDWP listener. Previous, one had to edit `bin/buck_common`.  Test Plan: `$ ant && buck --debug`  

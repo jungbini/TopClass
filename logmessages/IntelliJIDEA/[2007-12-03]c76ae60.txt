@@ -1,0 +1,1 @@
+  Maven: bug with relative (../) modules under unix fixed Maven: path and url classes intoduced  

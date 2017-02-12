@@ -1,0 +1,1 @@
+  enum constants can be completed by their own names as prefixes  

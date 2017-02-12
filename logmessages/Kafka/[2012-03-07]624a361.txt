@@ -1,0 +1,1 @@
+  trivial fix to include violated payload size in MessageSizeTooLargeException; patched by Jun Rao  git-svn-id: https://svn.apache.org/repos/asf/incubator/kafka/trunk@1298030 13f79535-47bb-0310-9956-ffa450edef68  

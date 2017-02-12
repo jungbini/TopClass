@@ -1,0 +1,1 @@
+  WI-2910 fix "trim whitespace from the line when using Surround with Zen Coding"  

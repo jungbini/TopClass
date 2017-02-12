@@ -1,0 +1,1 @@
+  got rid of "sonar." in Sonar command line parameters moved SonarDebugSettings properties to SonarRootModel added sonar.forceAnalysis property  

@@ -1,0 +1,1 @@
+  git4idea: rewritten fetch dialog to support more options (also fix for IDEADEV-31460, IDEADEV-31464, IDEADEV-32078)  

@@ -1,0 +1,1 @@
+  fix shuffle disable due to simple typo patch by dbrosius reviewed by jbellis for CASSANDRA-5756  

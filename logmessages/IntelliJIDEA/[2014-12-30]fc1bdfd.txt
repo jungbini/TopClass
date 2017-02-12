@@ -1,0 +1,1 @@
+  SSR: second attempt to fix NPE (EA-63773)  

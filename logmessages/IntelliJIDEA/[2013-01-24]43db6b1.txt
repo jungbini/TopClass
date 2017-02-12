@@ -1,0 +1,1 @@
+  fixed PY-8570 It should be possible to remove elif suite  

@@ -1,0 +1,1 @@
+  Skylark: 'enumerate' function is fixed (see the extra check in MethodLibraryTest#testEnumerate), it returns a SkylarkList of tuples.  MethodLibrary tests are cleaned up.  -- MOS_MIGRATED_REVID=87592639  

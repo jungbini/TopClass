@@ -1,0 +1,1 @@
+  fixed (PY-2484) "Replace assignment with augmented assignment" - variables uncovered  

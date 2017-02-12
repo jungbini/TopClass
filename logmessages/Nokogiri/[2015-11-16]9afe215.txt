@@ -1,0 +1,1 @@
+  Avoid collision in patch numbers.  Please note these files are related to #1326 where I've registered my opinion that these patch files are not the right solution, and we should fix it the right way when these patches (eventually) fail.  https://github.com/sparklemotion/nokogiri/pull/1326  

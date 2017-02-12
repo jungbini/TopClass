@@ -1,0 +1,1 @@
+  Fixes #1752 : align with http://bugs.cometd.org/browse/COMETD-566  

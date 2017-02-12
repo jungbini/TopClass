@@ -1,0 +1,1 @@
+  expose AMQP connection heartbeat in configuration  fixes #1010  

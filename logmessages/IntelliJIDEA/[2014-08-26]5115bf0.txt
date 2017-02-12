@@ -1,0 +1,1 @@
+  fixed PY-9389 Install package: enter in search field should select most relevant package in the list of packages  

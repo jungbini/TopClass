@@ -1,0 +1,1 @@
+  Remove the REFERENCE_IN_ARROWFUNC_OF_OBJLIT warning.  This pattern is valid ES6 and is transpiled correctly, so there is no need to warn. This rollback fixes #1598 on github ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=115873037  

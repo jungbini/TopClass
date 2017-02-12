@@ -1,0 +1,1 @@
+  Request focus of debugger console editor on show action (PY-2723).  

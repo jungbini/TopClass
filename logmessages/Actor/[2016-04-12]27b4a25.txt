@@ -1,0 +1,1 @@
+  fix(android): remove colon from mention if it's not first  

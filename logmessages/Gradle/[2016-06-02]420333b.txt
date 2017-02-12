@@ -1,0 +1,1 @@
+  Adds test for nebula-test checkstyle issue.  - The test currently fails because we haven't fixed the classloading problem which is causing the `groovy.util.AntBuilder` to be unavailable on the classpath. - Background on gradle/core-issues#89  

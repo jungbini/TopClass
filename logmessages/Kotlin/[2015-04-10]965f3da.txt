@@ -1,0 +1,1 @@
+  Fixed bug with bad conversion on paste when top-level java class copied  

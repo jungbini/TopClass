@@ -1,0 +1,1 @@
+  fixed PY-3601 "Assignment can be replaced with augmented assignment" provides no action in case of compound argument  

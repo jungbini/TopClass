@@ -1,0 +1,1 @@
+  exceptions in console fixed for JavaFormatterPerformanceTest  

@@ -1,0 +1,1 @@
+  suggest collection utility methods in basic completion on non-empty prefix  

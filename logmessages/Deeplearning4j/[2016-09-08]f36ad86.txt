@@ -1,0 +1,1 @@
+ Fix minor bug in LayerUpdater; add additional batchnorm test (for updaters/gradients)  

@@ -1,0 +1,1 @@
+  KT-8273 Don't mark serialVersionUID as unused  #KT-8273 fixed  

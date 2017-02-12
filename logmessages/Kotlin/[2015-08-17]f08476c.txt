@@ -1,0 +1,1 @@
+  Adding daemon stop command to kotlinr, minor fixes  

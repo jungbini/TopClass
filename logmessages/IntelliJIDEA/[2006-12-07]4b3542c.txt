@@ -1,0 +1,1 @@
+  navigation over stackframes for the new debugger UI  

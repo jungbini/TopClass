@@ -1,0 +1,1 @@
+  fix race condition when starting radio  the radio node could be trying to load its persisted inputs before it was registered, leading to no inputs being loaded. fixes #637 also fix the initialization order of inputs, that caused invalid, duplicated metric names to get registered. fixed #636  

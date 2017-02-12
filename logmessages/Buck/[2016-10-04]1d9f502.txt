@@ -1,0 +1,1 @@
+  cxx_genrule: fix parse-time deps  Summary: References to C/C++ platform tools should add any parse-time deps they require.  Test Plan: added unittest  Reviewed By: aiked  fbshipit-source-id: 019224f  

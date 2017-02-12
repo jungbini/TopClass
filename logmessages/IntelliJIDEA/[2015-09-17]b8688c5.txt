@@ -1,0 +1,1 @@
+  Fix AIOOBE: Handle Bugzilla versions without minor or bugfix parts (support 72101)  

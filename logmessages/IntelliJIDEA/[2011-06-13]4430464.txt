@@ -1,0 +1,1 @@
+  fixed compatibility with python2.4 in unittests  

@@ -1,0 +1,1 @@
+ Merge pull request #1104 from metamx/fix-npe  Fix NPE for union queries  commit 1418cbb0e95bb4211ae8193a1e62c85eee036736  Merge pull request #1103 from metamx/fix-request-time  fix change in request/time meaning introduced by d2c729a, fixes #1102  commit 2db3144f04c4d2e1dbe09a10bd6efec8b62f43d6  fix change in request/time meaning introduced by d2c729a, fixed #1102  

@@ -1,0 +1,1 @@
+  pch rule needs tool deps  Summary: PCH-related build (using trunk) broke at some point.  Added a line to include compiler as dependency for pch build.  Test Plan: * Small sample project works: `cxx_binary(prefix_header='test.h', srcs=['test.cpp'])` * Watching ci  Reviewed By: yiding  fbshipit-source-id: a528552  

@@ -1,0 +1,1 @@
+  SmartTypeCompletionTest via fixture  

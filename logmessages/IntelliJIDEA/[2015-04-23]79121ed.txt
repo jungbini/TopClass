@@ -1,0 +1,1 @@
+  registry option js.debugger.v8.use.any.breakpoint as workaround WEB-16076 Debugging Node.js >=v0.11.0 takes around 20 seconds to start running.  

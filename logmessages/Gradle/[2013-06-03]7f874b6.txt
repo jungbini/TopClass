@@ -1,0 +1,1 @@
+  Don't include static libraries in install image.  - Split NativeDependencySet.getFile() into getLinkFiles() and getRuntimeFiles(). - Static library has no runtime files, other dependencies have both link and runtime files. - Added test fixture for a native installation, and added test coverage that the correct library files are included in an installation.  

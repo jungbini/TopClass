@@ -1,0 +1,1 @@
+  fixed PY-5419  py.test INTERNAL ERROR if launch with --doctest-modules parameter  

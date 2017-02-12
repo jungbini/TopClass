@@ -1,0 +1,1 @@
+  IDEA-111734 Debug tab labels are always white  

@@ -1,0 +1,1 @@
+  fix nodetool getendpoints when the key has a space in it patch by gdeangelis reviewed by dbrosius for CASSANDRA-4551  

@@ -1,0 +1,1 @@
+  fix regression when requested range does not overlap an sstable at all patch by marcuse; reviewed by jbellis for CASSANDRA-5407  

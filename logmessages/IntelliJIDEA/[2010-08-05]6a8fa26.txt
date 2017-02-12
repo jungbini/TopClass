@@ -1,0 +1,1 @@
+  not-null instrumentation fixed for static inner classes  

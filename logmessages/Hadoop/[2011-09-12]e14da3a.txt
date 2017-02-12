@@ -1,0 +1,1 @@
+  MAPREDUCE-2978. Fixed test-patch to make Jenkins report findbugs warnings properly. Contributed by Tom White.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1169696 13f79535-47bb-0310-9956-ffa450edef68  

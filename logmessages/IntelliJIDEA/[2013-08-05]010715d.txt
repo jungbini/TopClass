@@ -1,0 +1,1 @@
+  fixed EA-47141 - IAE: PyDocumentationSettings.getInstance  

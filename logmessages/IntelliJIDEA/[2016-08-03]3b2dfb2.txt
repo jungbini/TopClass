@@ -1,0 +1,1 @@
+  literal arguments folding: fold one char instead of the whole literal; folding in case of generic method fixed; Settings|Editor|General|Code Folding|Literal arguments|Minimum arguments to fold and Minimum parameter name length settings added  

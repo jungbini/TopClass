@@ -1,0 +1,1 @@
+  Compile uber R.java parallel with the aapt_package step.  Summary: Revives D1202870 with an additional check to verify that the string assets zip is actually created before running `ApkBuilderStep`.  D1202870 was reverted earlier because fbandroid release builds were intermittently missing entire `/assets/strings` directory in the APK. The additional assertion in this 

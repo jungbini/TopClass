@@ -1,0 +1,1 @@
+  cxx: don't include flavor in default C/C++ soname  Summary: This isn't really used in practice and it's weird to have the flavor suffix in the shared libraru SONAME.  Test Plan: CI  Reviewed By: Coneko  fbshipit-source-id: fc2554d  

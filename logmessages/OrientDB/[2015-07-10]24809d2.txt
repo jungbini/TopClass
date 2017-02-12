@@ -1,0 +1,1 @@
+  fixed issue #4538 - named parameters not working in let block  

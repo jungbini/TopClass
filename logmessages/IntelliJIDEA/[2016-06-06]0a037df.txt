@@ -1,0 +1,1 @@
+  PY-18039 Throughout debug logging for PyPackageManager and helper methods  When we either launch packaging_tool.py or attempt to show modal dialog the stacktrace of the call site is added to debug messages.  

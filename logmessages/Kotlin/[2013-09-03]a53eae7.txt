@@ -1,0 +1,1 @@
+  bug fixed: analyze arguments in FREE expression position  

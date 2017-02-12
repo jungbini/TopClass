@@ -1,0 +1,1 @@
+  Remove all debug-specific code from annotator  

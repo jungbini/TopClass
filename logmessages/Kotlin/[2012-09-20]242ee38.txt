@@ -1,0 +1,1 @@
+  generic signatures for properties #KT2677 fixed  

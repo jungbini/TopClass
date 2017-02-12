@@ -1,0 +1,1 @@
+  don't process Cgo definitions, fix #1260 and fix #1548  

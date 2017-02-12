@@ -1,0 +1,1 @@
+  REST transport address  allow to set a REST transport address, so you can set rest_listen_uri to 0.0.0.0 without breaking cluster discovery. falls back to first non-loopback IPv4 address if not set.  fixes #232  

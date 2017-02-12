@@ -1,0 +1,1 @@
+  EA-54820 - assert: ClassMappingNameConverter.getVariants: fixed  

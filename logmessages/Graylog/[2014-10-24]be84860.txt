@@ -1,0 +1,1 @@
+  New Sources Tab  - fixed error when histogram was loaded before pie chart was rendered  

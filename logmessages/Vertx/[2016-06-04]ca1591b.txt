@@ -1,0 +1,1 @@
+  Implement loading a certificate chain in PEM format - fixes #1453  

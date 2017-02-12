@@ -1,0 +1,1 @@
+  IDEA-56814 git: fix encoding issues in annotations  * We use same encoding to parse file content and git meta information. After a7c864a we no longer use file content, so this hack is no longer required. * This fixes parse error on files in UTF-16 * This fixes parsing of non-ascii names  

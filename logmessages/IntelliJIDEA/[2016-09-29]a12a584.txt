@@ -1,0 +1,1 @@
+  Update the jediterm lib with some fixes (IDEA-142926, IDEA-120046)  

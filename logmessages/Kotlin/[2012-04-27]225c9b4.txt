@@ -1,0 +1,1 @@
+  java classes should extend java.lang.Object  #KT-1121 fixed  

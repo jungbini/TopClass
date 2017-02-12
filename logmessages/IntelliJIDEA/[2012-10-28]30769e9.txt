@@ -1,0 +1,1 @@
+  fix dfa in presence of catch (RuntimeException e) (IDEA-82053, IDEA-35789, IDEA-82235, IDEA-47146)  

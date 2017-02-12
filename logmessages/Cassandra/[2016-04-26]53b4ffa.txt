@@ -1,0 +1,1 @@
+  ninja fix JIRA number for CASSANDRA-10406  

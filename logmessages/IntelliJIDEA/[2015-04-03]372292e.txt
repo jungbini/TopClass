@@ -1,0 +1,1 @@
+  Configurable refactoring: group id: fix for missed gradle.compiler  

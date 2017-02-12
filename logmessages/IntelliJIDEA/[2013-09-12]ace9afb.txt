@@ -1,0 +1,1 @@
+  continue extract "Start Browser" functionality from J2EE to platform xml  JavaEEJavaScriptDebugStarter unified  

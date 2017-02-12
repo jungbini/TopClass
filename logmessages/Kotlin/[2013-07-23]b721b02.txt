@@ -1,0 +1,1 @@
+  Fixed higlighting of replaced expressions.  #KT-2637 fixed  

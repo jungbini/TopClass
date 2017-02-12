@@ -1,0 +1,1 @@
+ Merge pull request #81 from rvandermeulen/bug-756740  Allow building for mipsel with Android NDK r8.  commit f8cdf11467181f2a9a6b7e748167569aa58e3a81  Replace double quotes with single quotes in Makefile.in to improve compatibility between some versions of MSYS and gmake. From Mozilla bug 943728. https://bugzilla.mozilla.org/show_bug.cgi?id=943728  

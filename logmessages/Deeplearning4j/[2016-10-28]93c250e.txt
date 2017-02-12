@@ -1,0 +1,1 @@
+  Add StackVertex for stacking datasets. Optimize BaseOutputLayer and fix LossLayer.  

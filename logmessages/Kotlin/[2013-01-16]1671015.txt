@@ -1,0 +1,1 @@
+  Visibility of nested light classes fixed  

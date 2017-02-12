@@ -1,0 +1,1 @@
+  Refresh in precense of FileWatcher fixed.  

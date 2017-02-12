@@ -1,0 +1,1 @@
+  fixed PY-15045 Newly created cell evaluation  do not remove cell from update map on empty payload. On payload is executed even on plain code evaluation  

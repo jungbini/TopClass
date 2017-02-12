@@ -1,0 +1,1 @@
+  fixed PY-8948 Not closed quote in subscription breaks parsing for the whole file  

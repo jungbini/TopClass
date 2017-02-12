@@ -1,0 +1,1 @@
+  fixed duplicate insert in case of unique index collision, issue #3743  

@@ -1,0 +1,1 @@
+  Fixed issue #1445 again: bug on serialization of timeout  

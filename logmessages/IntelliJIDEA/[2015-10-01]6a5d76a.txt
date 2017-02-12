@@ -1,0 +1,1 @@
+  fixed EA-63247 - IAE: TemplateBuilderFactoryImpl.createTemplateBuilder  

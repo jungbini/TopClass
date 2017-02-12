@@ -1,0 +1,1 @@
+  Tests: fix debugging of included Django templates on Windows  

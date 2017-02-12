@@ -1,0 +1,1 @@
+  Reverted "Debugger: implement getSourcePosition for fields"  Corresponding API is not present in IDEA 13  

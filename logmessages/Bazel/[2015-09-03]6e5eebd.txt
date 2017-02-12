@@ -1,0 +1,1 @@
+  Fix Swift merge action to use combined arch binary  * This fixes the crash when trying to build multi-arch ios_application with Swift code.  -- MOS_MIGRATED_REVID=102264637  

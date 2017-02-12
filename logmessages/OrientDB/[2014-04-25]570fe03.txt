@@ -1,0 +1,1 @@
+  Issue #1892 null key support for hash index was added. Issue is fixed.  

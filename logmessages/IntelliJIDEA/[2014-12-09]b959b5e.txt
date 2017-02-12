@@ -1,0 +1,1 @@
+  fix PY-14649 Importing in debug mode fails; works fine in run mode  

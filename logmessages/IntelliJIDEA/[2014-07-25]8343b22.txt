@@ -1,0 +1,1 @@
+  goto class: if background process is canceled and not restarted, the list should become empty and "in background update" status should be cleared  * fixes unresponsiveness after typing a slash and quickly pressing Enter  

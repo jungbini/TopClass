@@ -1,0 +1,1 @@
+  Temporarily reduce method count limit for dexing.  Summary: We have seen issues where Buck is not counting a reference to a method when tracking how full a .jar is.  While debugging this issue, this change temporarily reduces the limit so the resulting .jar will have slightly fewer methods so dx can handle it.  

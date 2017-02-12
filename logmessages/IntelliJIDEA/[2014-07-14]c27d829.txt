@@ -1,0 +1,1 @@
+  - properly retrieve set of keys for unsaved documents for their first change - (in extra sanity checks mode) added PHM that stores previous content indexing info to facilitate discovery / fixing assertions about 

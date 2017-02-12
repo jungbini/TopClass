@@ -1,0 +1,1 @@
+  fixed PY-14149 Generate stub for binary module: not available on from imports  

@@ -1,0 +1,1 @@
+  fix false positives in "Char expression used in arithmetic context" inspection + test cases  

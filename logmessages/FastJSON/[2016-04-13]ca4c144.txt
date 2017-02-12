@@ -1,0 +1,1 @@
+  support smart match isPrefix, fixed issue 278. https://github.com/alibaba/fastjson/issues/278  

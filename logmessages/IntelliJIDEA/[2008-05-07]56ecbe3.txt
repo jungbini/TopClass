@@ -1,0 +1,1 @@
+  move class-name completion to platform and also fix some bugs in it  

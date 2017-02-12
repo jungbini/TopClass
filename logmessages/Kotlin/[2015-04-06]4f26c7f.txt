@@ -1,0 +1,1 @@
+  DecompiledNavigationUtils, JetSourceNavigationHelper: fix support for Kotlin/Javascript projects  DecompiledUtils: add isKotlinJavaScriptInternalCompiledFile DecompiledUtils: add isKotlinJsMetaFile DecompiledNavigationUtils: use isKotlinJvmCompiledFile, isKotlinJsMetaFile DecompiledNavigationUtils: isFromKotlinJavascript -> isFromKotlinJavasriptMetadata  

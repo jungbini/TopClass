@@ -1,0 +1,1 @@
+  Fix for #542 [1.0.0b5] SSE Interceptor - String vs. byte[] bug.  

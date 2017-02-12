@@ -1,0 +1,1 @@
+  Distributed: fixed issue with creation of database & schema while running distributed  Issues #5977, #5927, #5853, #5810  

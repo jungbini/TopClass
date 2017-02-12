@@ -1,0 +1,1 @@
+  notifications about tests passed/finished in SM runner. Balloon will be shown only if Run/Dubug window isn't active (missed files)  

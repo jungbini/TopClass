@@ -1,0 +1,1 @@
+  Debugger: add tests for accessing outer class members from lambda inside inner class  

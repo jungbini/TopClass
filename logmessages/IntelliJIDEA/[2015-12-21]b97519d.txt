@@ -1,0 +1,1 @@
+  Fix Jinja2 template debugging (PY-18051)  We should update additional frames container after updating thread id.  

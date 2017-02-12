@@ -1,0 +1,1 @@
+  fix(web): use big avatar image in group profile;  

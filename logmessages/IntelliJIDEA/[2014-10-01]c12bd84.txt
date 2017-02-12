@@ -1,0 +1,1 @@
+  fixed EDU-162 Initial configuration shown twice on first start  

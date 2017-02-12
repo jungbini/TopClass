@@ -1,0 +1,1 @@
+  IDEA-78816 Move 'Edit validation options' down in quickfix list  

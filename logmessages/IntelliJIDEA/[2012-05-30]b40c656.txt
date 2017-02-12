@@ -1,0 +1,1 @@
+  svn: fix assertion in live provider (that loads revision history for select revision) (cherry-picked from 2bbb2a9) [review=kirill.l]  

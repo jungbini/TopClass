@@ -1,0 +1,1 @@
+  removed getKeys(StoreTransaction), fixed getSlice for ordered stores and tests  

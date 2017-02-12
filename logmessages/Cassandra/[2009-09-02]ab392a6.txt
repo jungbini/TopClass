@@ -1,0 +1,1 @@
+  remove buggy concurrentlinkedhashmap library and lru cache.  too late in 0.4 to try to debug the library -- will revisit for 0.5.  patch by jbellis; reviewed by Chris Goffinet for CASSANDRA-405  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@810540 13f79535-47bb-0310-9956-ffa450edef68  

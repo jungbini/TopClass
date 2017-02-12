@@ -1,0 +1,1 @@
+  spped search by value in debugger trees  

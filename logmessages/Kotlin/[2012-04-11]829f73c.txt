@@ -1,0 +1,1 @@
+  some classes from runtime.jar are not meant to be loaded by JDR  * assert runtime implementations from JetStandard* are not loaded by JavaDescriptorResolver * fix wrong @JetMethod in jet.Iterator * fix jet.Iterator ns was created * fix incorrect number of functions and tuples in JetStandardClasses * added TODO about inconsisten Tuple class  

@@ -1,0 +1,1 @@
+ even if commit failed, the task would be declared as successful. Contributed by Amareshwari Sriramadasu.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20@802999 13f79535-47bb-0310-9956-ffa450edef68  

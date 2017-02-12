@@ -1,0 +1,1 @@
+ instances by implementing a custom serializer which knows about the various `Address` implementations we use, and avoids calls to `ObjectInputStream`.  

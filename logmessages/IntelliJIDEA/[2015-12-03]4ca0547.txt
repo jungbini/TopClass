@@ -1,0 +1,1 @@
+  GitRepositoryImpl: fix NPE happening due to "this" leakage from the constructor + more clear initialization  * read information before setting up a listener. * set up the listener from the outside to avoid leaking `this` from the constructor * explicitly initialize myInfo.  

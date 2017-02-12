@@ -1,0 +1,1 @@
+  EA-23288 EA-2387 fix assertion  

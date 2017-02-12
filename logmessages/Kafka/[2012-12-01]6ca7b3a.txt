@@ -1,0 +1,1 @@
+  KAFKA-608 and KAFKA-630 getTopicMetadata does not respect producer config settings and fix auto-create topic; patched by Neha Narkhede; reviewed by Jun Rao  git-svn-id: https://svn.apache.org/repos/asf/kafka/branches/0.8@1415909 13f79535-47bb-0310-9956-ffa450edef68  

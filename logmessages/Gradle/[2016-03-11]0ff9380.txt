@@ -1,0 +1,1 @@
+  fix duplicate entries for idea module bytecode levels in ipr files  

@@ -1,0 +1,1 @@
+  further fix for #141 - remove parameter from setProperlyConfigured since it is always 'true', add setProperlyConfiguredAndStart in AbstractActiveService since this class really provides the 'Active' part.  

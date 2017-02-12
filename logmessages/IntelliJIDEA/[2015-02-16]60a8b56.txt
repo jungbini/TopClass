@@ -1,0 +1,1 @@
+  Add debug logging in Trello to figure out the cause of NFE  

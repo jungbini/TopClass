@@ -1,0 +1,1 @@
+  First try to adapt search bar to new architecture  Only the basic interaction works with some elements work, need to fix many other cases.  

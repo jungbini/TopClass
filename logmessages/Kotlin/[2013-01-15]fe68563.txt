@@ -1,0 +1,1 @@
+  KT-3137 Support Darcula editor scheme  #KT-3137 fixed  

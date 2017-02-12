@@ -1,0 +1,1 @@
+  fixed PY-3055 Missing super constructor call Inspection  

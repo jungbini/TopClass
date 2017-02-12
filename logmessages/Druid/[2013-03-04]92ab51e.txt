@@ -1,0 +1,1 @@
+  fix bugs in balancing logic and removing auto-scaled node  

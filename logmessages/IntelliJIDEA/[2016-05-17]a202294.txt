@@ -1,0 +1,1 @@
+  merge: fix NPE  it was broken in 52de86905ec0a95ce04f02fd8d7a8573aeb291fe  

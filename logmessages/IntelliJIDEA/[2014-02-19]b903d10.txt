@@ -1,0 +1,1 @@
+  java move to xbreakpoints 3: - breakpoint properties serialization fixes - import old java breakpoint - leave a copy for backward compatibility  

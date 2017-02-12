@@ -1,0 +1,1 @@
+  fixed PY-7006 An Epytext @type rendering issue in Quick Documentation  

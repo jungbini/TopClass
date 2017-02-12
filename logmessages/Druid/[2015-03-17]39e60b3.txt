@@ -1,0 +1,1 @@
+  fix race in groupByParallelQueryRunner  add UT and use a queue for better concurrency  

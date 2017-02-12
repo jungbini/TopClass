@@ -1,0 +1,1 @@
+  - naming issue fixed - fixed issue in FileSystemMaster#createInternal: if a creation is performed recursively, the current number of file and directories created will be counted  

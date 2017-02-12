@@ -1,0 +1,1 @@
+  Write additional type parameters for DefaultImpls methods, fix for KT-11121: BadClassFile exception for interface implemented generic properties  #KT-11121 Fixed  

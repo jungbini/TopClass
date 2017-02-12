@@ -1,0 +1,1 @@
+  Make the suggested fix for duplicate requires actually work correctly (instead of crashing). ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=126963320  

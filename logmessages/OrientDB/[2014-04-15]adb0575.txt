@@ -1,0 +1,1 @@
+  BP: added CLUSTER: prefix in addEdge() to specify a cluster for edges  

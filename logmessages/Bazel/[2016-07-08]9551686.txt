@@ -1,0 +1,1 @@
+  Enable @testable import in swift_library  * Debug and fastbuild compilation modes now pass -enable-testing flag enabling internal symbol imports in test code.  -- MOS_MIGRATED_REVID=126925229  

@@ -1,0 +1,1 @@
+  fixing memory issues. removing old code that freed the context object on error, and making sure we deallocate only at garbage_collect time, not at gc_mark time.  

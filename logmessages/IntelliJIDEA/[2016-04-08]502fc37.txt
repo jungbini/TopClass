@@ -1,0 +1,1 @@
+  inspection tool window: navigate to source fixed for applied fixes in valid ref-entities  

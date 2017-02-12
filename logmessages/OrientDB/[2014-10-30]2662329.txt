@@ -1,0 +1,1 @@
+  Minor: fixed speed test case  

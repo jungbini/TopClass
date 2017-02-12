@@ -1,0 +1,1 @@
+  [NTI] Don't reuse diagnostic types from other passes in NTI.  Also, the string name of a diagnostic type must be unique for things to work correctly, but the Java compiler doesn't check that statically. Use JSC_NTI_ and similar prefixes to avoid accidental naming collisions. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=104144762  

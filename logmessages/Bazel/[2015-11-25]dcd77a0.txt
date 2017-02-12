@@ -1,0 +1,1 @@
+  Make --symlink_prefix= work as expected again (i.e. create links called "bin"/"genfiles" instead of the default ones)  -- MOS_MIGRATED_REVID=108699595  

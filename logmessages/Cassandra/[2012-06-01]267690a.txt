@@ -1,0 +1,1 @@
+  fix Summary component and caches to use correct partitioner patch by Sam Tunnicliffe and Pavel Yaskevich; reviewed by Pavel Yaskevich for CASSANDRA-4289  

@@ -1,0 +1,1 @@
+  IDEA-24662 (Inspection to find+fix simplifiable @SomeAnnotation(value = "foo") declarations)  

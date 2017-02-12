@@ -1,0 +1,1 @@
+  bug fix: PyDevDocumentation provider should use best available parent reference expression to lookup documentation.  

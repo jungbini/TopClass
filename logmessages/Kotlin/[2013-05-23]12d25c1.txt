@@ -1,0 +1,1 @@
+  improve hashObject -- save "calculated" hashCode in object fix Hashtable2  

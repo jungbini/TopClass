@@ -1,0 +1,1 @@
+  Fixed the problem with findbugs integration test. Ensured it works with java6 cleanly.  

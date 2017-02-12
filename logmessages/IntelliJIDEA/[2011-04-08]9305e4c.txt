@@ -1,0 +1,1 @@
+  EA-26653 assert: FormatterImpl.enableFormatting  Added debug info  

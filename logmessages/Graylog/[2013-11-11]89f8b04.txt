@@ -1,0 +1,1 @@
+  deny changing password for LDAP accounts  fixes Graylog2/graylog2-server#279  

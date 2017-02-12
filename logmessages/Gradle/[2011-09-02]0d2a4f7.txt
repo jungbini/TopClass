@@ -1,0 +1,1 @@
+  - Quick and nasty fix for MavenNewPublicationIntegrationTest - Reworked a bunch of maven publication int tests to use MavenRepository fixture - Simplified maven quickstart and pom generation samples  

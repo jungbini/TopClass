@@ -1,0 +1,1 @@
+  INVERT: Quick-Fixes: Support "Change function return type" quick-fix for non-local returns  

@@ -1,0 +1,1 @@
+  [glasspane] dialog wrapper dispose fix (no app yet)  

@@ -1,0 +1,1 @@
+  fix more findbugs complaints.  patch by Michael Greene; reviewed by jbellis for CASSANDRA-338  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@801228 13f79535-47bb-0310-9956-ffa450edef68  

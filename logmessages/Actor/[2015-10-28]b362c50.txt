@@ -1,0 +1,1 @@
+  fix(web) : add margin to last dialog in sidebar  

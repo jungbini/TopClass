@@ -1,0 +1,1 @@
+  Contribution by Artem to fix minor issues, add new test cases and improve JavaDocs  

@@ -1,0 +1,1 @@
+  fixed PY-2797 Py2.4 compatibility: highlight that with statement isn't available in python 2.4  

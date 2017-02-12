@@ -1,0 +1,1 @@
+ Merge branch 'fix-split-packages' of https://github.com/mcculls/orientdb into mcculls-fix-split-packages  commit 6d127737fdc131e54254016cb8a2cf9c3c0273e1  Distributed: fixed query map/reduce with count(*) and mixed shards cfg  

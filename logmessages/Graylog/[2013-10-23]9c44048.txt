@@ -1,0 +1,1 @@
+  strip underscore off GELF fields. fixes #280  

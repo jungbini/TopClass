@@ -1,0 +1,1 @@
+  Imports on paste: added checking of symbols to import into test + fixed bug on copy/paste import/package directive  

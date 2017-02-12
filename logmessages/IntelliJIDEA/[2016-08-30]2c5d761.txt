@@ -1,0 +1,1 @@
+  Make EditorTextField release its editor on project close if there is one (instead of release during removeNotify() ugly hack)  to fix IDEA-159777 ObjectNotDisposedException on project close with opened evaluate window  

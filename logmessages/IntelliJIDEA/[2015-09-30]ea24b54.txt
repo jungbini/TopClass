@@ -1,0 +1,1 @@
+  IDEA-145406 Resource Bundle editor: Undo operations for property add works incorrectly. Partially fixed  

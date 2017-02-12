@@ -1,0 +1,1 @@
+  fixed uncommenting for prefixes other than java/js in editor  

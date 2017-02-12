@@ -1,0 +1,1 @@
+  IDEA-106766 optimization: check file type and parent dir before scheduling update task; fix: changed files can be from 

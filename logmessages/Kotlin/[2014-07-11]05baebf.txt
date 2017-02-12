@@ -1,0 +1,1 @@
+  Minor, store closure class name for debugging purposes  Strip package from the name up to the last slash, because slashes are not allowed in a Name  

@@ -1,0 +1,1 @@
+  fix "inner class may be static" inspection problems  

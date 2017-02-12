@@ -1,0 +1,1 @@
+  Maven: directoryindex premature access fix for headless mode  

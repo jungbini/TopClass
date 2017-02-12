@@ -1,0 +1,1 @@
+ removed early return if virtual file array from data context is null, because editor may be not null and there is file to format (fixes reformat code action in 

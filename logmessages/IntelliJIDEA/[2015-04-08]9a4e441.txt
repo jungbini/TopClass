@@ -1,0 +1,1 @@
+  Do not stop on exceptions inside debugger with "On raise" policy (PY-15502)  Add 'pydevd_breakpoints.py' to ignored files.  

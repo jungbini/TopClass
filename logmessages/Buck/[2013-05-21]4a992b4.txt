@@ -1,0 +1,1 @@
+  Fix how packaging rules consider their cache.  Summary: Two bugs here. First, java_binary didn't have a RuleKey since it didn't have an output. Second, packaging rules should add their transitive deps to their RuleKey.  Test Plan: Tested repo in t2414455  

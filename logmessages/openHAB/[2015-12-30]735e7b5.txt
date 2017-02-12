@@ -1,0 +1,1 @@
+ Merge pull request #3627 from kaikreuzer/feature-version  fixes #3626  commit 735e7b5e5d15925d082d4fe246737486fc306439  fixes #3626  Signed-off-by: Kai Kreuzer <kai@openhab.org>  

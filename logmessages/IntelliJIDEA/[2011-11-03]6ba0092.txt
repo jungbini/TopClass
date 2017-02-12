@@ -1,0 +1,1 @@
+  fixed PY-4691 Test runner should check filename pattern before importing module  

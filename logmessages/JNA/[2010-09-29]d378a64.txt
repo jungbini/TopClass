@@ -1,0 +1,1 @@
+  Hopefully fixed the WinspoolTest for when there're no printers installed.  git-svn-id: https://svn.java.net/svn/jna~svn/trunk@1151 2f8a963e-d2e4-e7d0-97bf-ccb7fcea9d80  

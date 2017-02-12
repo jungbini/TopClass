@@ -1,0 +1,1 @@
+  Removed workaround for compiler bug which has been fixed  

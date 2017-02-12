@@ -1,0 +1,1 @@
+  Add a new buck command: buck server status.  Summary: Prints usage if a subcommand is not specified, or an invalid subcommand is used.  Currently only supports `buck server status --http-port` ( and `--json`).  There is a ton of copypasta from `AuditCommandRunner`. I plan to fix that in subsequent 

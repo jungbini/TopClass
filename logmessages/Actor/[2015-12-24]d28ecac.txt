@@ -1,0 +1,1 @@
+  fix(core): Fixing properties change without actually changing value  

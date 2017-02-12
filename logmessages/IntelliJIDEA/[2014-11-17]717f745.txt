@@ -1,0 +1,1 @@
+  IDEA-133002 1 sec delay to edit "do not step into classes" in settings > Build, Exec, Deploy > Debugger > Stepping  

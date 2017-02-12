@@ -1,0 +1,1 @@
+  extract part of LiteFixture to testFramework; xdebugger-tests work with testFramework  

@@ -1,0 +1,1 @@
+  Changed executor fixtures to compare build failure messages using normalised line separators.  

@@ -1,0 +1,1 @@
+  additional debug logging and javadoc update (inspired by IDEA-143619)  

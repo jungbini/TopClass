@@ -1,0 +1,1 @@
+  added jettison to bundle class path - this fixes #2743  

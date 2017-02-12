@@ -1,0 +1,1 @@
+  correctly show source roots with defined package prefix in project view (IDEA-80768)  

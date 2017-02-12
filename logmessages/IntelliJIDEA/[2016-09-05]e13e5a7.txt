@@ -1,0 +1,1 @@
+  git: fix "annotate previous revision" for renamed files  In some cases (ex: when a file was split into two files), `git log` might detect more renames than `git blame`.  In this case we will fallback to the old history-based approach. This might be not particulary right (ex: in tricky cases with multiple renames in multiple branches), but works good enough in general.  

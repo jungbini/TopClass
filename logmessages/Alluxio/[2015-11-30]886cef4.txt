@@ -1,0 +1,1 @@
+ Fix documentation bug in Swift integration  core-sites.xml should be core-site.xml  

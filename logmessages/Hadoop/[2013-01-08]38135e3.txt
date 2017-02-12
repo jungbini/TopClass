@@ -1,0 +1,1 @@
+  HDFS-4031. Update findbugsExcludeFile.xml to include findbugs 2 exclusions. Contributed by Eli Collins   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1430552 13f79535-47bb-0310-9956-ffa450edef68  

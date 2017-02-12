@@ -1,0 +1,1 @@
+  fixed fetch issue for qualified urls  

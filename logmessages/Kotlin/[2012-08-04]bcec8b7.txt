@@ -1,0 +1,1 @@
+  KT-2331 fix: proper dealing with privite property setters  

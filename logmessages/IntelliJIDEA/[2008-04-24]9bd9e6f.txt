@@ -1,0 +1,1 @@
+  test fixes: id index shall not produce results out of project content roots and attached library sources.  

@@ -1,0 +1,1 @@
+  fixed GRADLE-1563: Javadoc Plugin does not generate correct command line options for tags and taglets  added javadoc.options {} convenience method added acceptance test Javadoc fixes  

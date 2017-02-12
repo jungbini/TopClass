@@ -1,0 +1,1 @@
+  Java: Quick fix for importing a package the current module doesn't read by adding "requires" statement to the module info (IDEA-162762)  

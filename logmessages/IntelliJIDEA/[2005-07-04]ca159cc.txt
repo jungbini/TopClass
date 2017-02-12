@@ -1,0 +1,1 @@
+  fixed bug when convert list indexed loop to foreach was incorrectly proposed  

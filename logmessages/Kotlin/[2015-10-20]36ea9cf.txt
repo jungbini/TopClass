@@ -1,0 +1,1 @@
+  J2K: fixed conversion of Throwable.getMessage(), Throwable.getCause(), Map.Entry.getKey() and Map.Entry.getValue()  

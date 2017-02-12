@@ -1,0 +1,1 @@
+  Reinitialize editor settings in case of full reformat (fixes IDEA-131147 Code Style: "Detect and use existing file indents for editing": old indent state is used on the first update)  

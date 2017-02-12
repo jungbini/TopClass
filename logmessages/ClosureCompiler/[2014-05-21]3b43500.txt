@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE] Bugfixes for hasNonScalar and removeType.  - Handle enums in hasNonScalar. - removeType should remove subtypes of its argument, eg, to handle cases like 'function' or 'object' in typeof. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=67718116  

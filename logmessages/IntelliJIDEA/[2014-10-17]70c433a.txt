@@ -1,0 +1,1 @@
+  move all from actions.view.array to debugger.array  

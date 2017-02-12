@@ -1,0 +1,1 @@
+  fixing a segv when XML::Reader gets GCd before referenced nodes are collected  

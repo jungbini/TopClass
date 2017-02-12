@@ -1,0 +1,1 @@
+  Maven: MavenProjectsManager reworked + project wizard bug fixes + pom reading optimization + test refactorings  

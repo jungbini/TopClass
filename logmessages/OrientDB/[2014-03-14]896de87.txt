@@ -1,0 +1,1 @@
+ fixed regression: ODatabaseThreadLocalFactory was ignored when passing from ORecordAbstract.getDatabase()  

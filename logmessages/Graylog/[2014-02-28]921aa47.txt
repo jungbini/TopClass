@@ -1,0 +1,1 @@
+  when missing a valid session, redirect to requested page after login  (issue was in wrong project)  fixes Graylog2/graylog2-server#440  

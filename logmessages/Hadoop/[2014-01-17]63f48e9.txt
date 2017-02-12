@@ -1,0 +1,1 @@
+  YARN-1595. Made enabling history service configurable and fixed test failures on branch YARN-321. Contributed by Vinod Kumar Vavilapalli.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/YARN-321@1559001 13f79535-47bb-0310-9956-ffa450edef68  

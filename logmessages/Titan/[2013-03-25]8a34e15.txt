@@ -1,0 +1,1 @@
+  needed to disable testDataTypeValidationOnProperties because MockSerializable has no equals implementation and hence Titan cannot verify de/serialization. Revert when https://github.com/tinkerpop/blueprints/issues/374 is fixed.  

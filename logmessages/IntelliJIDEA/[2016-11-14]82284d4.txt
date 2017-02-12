@@ -1,0 +1,1 @@
+  json schema: pattern properties: better caching - fix review comment for WEB-22649 JSON Schema: patternProperties does not work.  

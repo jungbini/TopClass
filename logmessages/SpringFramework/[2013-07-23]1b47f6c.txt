@@ -1,0 +1,1 @@
+ation(). addTransformer(t, true);` would fail under Java 7.  Issue: SPR-10731 (Cherry picked from 50333ca)  

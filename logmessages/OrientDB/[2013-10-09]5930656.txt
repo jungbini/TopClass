@@ -1,0 +1,1 @@
+  SQL: fixed conversion exceptions when mixed schema-less and 

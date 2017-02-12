@@ -1,0 +1,1 @@
+  reduce usage of JSDebuggerSupportUtils  move getContextElement to new DebuggerSupportUtils util class (available in community)  

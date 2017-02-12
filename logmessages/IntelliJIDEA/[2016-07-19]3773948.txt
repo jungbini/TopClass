@@ -1,0 +1,1 @@
+  Java inspection: Added a fix for single-value annotations where the annotation doesn't have a 'value()' method and therefore "Expand Annotation to Normal Form" fix couldn't be applied (IDEA-158456, IDEA-157727)  

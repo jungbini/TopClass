@@ -1,0 +1,1 @@
+  Replication fixed bug on delete (it must not handle the fix case)  

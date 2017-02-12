@@ -1,0 +1,1 @@
+  Fixed bug on importing database before 1.0rc4  

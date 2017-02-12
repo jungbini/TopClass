@@ -1,0 +1,1 @@
+th` that supported dots in names. This is very confusing and caused the discovery of the 2 other broken tests fixed in this commit.  +review REVIEW-5921  

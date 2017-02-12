@@ -1,0 +1,1 @@
+  Composite build module depends on launcher test fixtures  

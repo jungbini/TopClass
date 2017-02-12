@@ -1,0 +1,1 @@
+  Fix bug that prevents using dots in native component names (GRADLE-3499)  +review REVIEW-6086  

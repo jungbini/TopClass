@@ -1,0 +1,1 @@
+  svn merge -c 1594709 merging from trunk to branch-2 to fix:HDFS-2949. Add check to active state transition to prevent operator-induced split brain. Contributed by Rushabh S Shah.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1594710 13f79535-47bb-0310-9956-ffa450edef68  

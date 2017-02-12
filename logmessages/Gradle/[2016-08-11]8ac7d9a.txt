@@ -1,0 +1,1 @@
+e other at configuration time. Currently, the order of the included builds can be used to address these configuration-time dependencies.  Longer-term, we want to configure the included builds on demand, removing the significance of ordering.  

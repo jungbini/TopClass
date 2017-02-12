@@ -1,0 +1,1 @@
+  Adding escaping to kotlin.daemon.jvm.options property processing to allow passing e.g. debugging agent params; adding kotlin.daemon.startup.timeout property to control startup timeout; more logging; some minor cleanup and fixes  

@@ -1,0 +1,1 @@
+  disable Quartz rendering on OS X to fix compositing problem  

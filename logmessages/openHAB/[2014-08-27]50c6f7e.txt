@@ -1,0 +1,1 @@
+ Optimized CCU firmware version extraction and fixed broken Homegear support.  

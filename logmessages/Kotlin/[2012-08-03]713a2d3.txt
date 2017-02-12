@@ -1,0 +1,1 @@
+  enabled more tests now that KT-2520 is fixed  

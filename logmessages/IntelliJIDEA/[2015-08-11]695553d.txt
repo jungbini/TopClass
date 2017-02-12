@@ -1,0 +1,1 @@
+  fix escaping for chars in (127, 255]  

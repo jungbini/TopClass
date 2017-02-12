@@ -1,0 +1,1 @@
+  Probably fixed progress dialog shown while process is already terminated.  

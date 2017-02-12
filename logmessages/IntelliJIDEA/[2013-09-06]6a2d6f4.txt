@@ -1,0 +1,1 @@
+  the fix of IDEA-26026 doesn't make sense nowadays. Dialog should be modal IDEA-105611 Invalid focus when invoking find in files  

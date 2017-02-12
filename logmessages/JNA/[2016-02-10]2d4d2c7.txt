@@ -1,0 +1,1 @@
+  Improve binding of TypeLib bindings  - fix wrong function signature in ITypeLib/TypeLib for FindName/IsName and adjust callers - TypeLib#ReleaseLibAttr did not pass parameter to native method - LPOLESTR.ByReference is derived from wrong type (BSTR instead of LPOLESTR) - Fix/Add unittests  

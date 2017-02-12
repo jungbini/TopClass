@@ -1,0 +1,1 @@
+  --encoding and --debug for groovy and gant runners go to the vm instead of script parameters  

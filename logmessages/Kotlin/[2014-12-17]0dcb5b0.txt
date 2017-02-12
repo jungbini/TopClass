@@ -1,0 +1,1 @@
+  Local variables should be visible on return statement in debugger #KT-6248 Fixed  

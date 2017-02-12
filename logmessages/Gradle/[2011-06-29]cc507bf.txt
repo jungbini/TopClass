@@ -1,0 +1,1 @@
+  Updated WrapperProjectIntegrationTest to use newer fixtures, which removes the need for special handling in the build script.  

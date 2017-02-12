@@ -1,0 +1,1 @@
+  WEB-6807 Emmet: expanding CSS property that starts with 's' with vendor prefix results in incorrect property name  

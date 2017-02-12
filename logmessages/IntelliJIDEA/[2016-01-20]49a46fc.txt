@@ -1,0 +1,1 @@
+  [patch]: IDEA-150624 fix exception occurred if  the only matching file exists above project dir  

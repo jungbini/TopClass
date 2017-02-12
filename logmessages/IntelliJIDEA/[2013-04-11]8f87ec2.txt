@@ -1,0 +1,1 @@
+  schema prefix inplace rename: do not choose current reference as element is the whole tag -> all subtags references could be treated as current  

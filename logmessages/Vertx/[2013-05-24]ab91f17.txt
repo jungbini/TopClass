@@ -1,0 +1,1 @@
+  fixed blocking on commands and bintray stuff  

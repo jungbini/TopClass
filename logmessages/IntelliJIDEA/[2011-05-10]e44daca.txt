@@ -1,0 +1,1 @@
+  [xena] TreUi: getReady callbacks singal rejected if tree ui gets disposed during works, used to cause NPEs - 2 (ready callbacks fixed  

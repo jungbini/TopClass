@@ -1,0 +1,1 @@
+ fix findbug - set default encoding=UTF-8  

@@ -1,0 +1,1 @@
+  new inference: collect additional constraints from lambda return expressions when lambda parameters are already fixed; process constraints without input variables before others, so their 'return' expressions could influence next rounds; testdata (IDEA-144596)  

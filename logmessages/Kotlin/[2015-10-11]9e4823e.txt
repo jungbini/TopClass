@@ -1,0 +1,1 @@
+  Write module name to metadata, fix reflection for file facades  Module name will be used for proper introspection of internal members  

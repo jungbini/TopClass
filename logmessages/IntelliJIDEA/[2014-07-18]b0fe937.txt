@@ -1,0 +1,1 @@
+  DirectoryIndex: fixed 'isIgnored' for ignored files  

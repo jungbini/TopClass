@@ -1,0 +1,1 @@
+  "Change return type fix" now handles data class properties correctly #KT-15028 Fixed  

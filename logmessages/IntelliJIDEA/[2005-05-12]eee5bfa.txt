@@ -1,0 +1,1 @@
+  IdeEventQueue vs. application components loading order fixed.  

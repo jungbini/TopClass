@@ -1,0 +1,1 @@
+  Create special details for missing files  This way we can avoid trying to stat files that are not even there, fixing a performance regression.  +review REVIEW-6170  

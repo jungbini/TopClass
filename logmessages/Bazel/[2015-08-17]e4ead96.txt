@@ -1,0 +1,1 @@
+  CI scripts: fix path to common.sh  Moving it to scripts/ci let that unchanged and that results in an error in the CI system.  -- MOS_MIGRATED_REVID=100825881  

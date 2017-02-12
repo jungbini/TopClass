@@ -1,0 +1,1 @@
+  added option to Chrome settings to start Chrome with enabled debugging port  

@@ -1,0 +1,1 @@
+  IDEA-118383 Git: Contained in branches pane is not scrollable IntelliJ LAF fix (get rid of description gray background)  

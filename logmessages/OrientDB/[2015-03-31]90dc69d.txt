@@ -1,0 +1,1 @@
+  fix error on unique index on values of type date. issue #3799  Conflicts: core/src/main/java/com/orientechnologies/orient/core/record/impl/ODocument.java  

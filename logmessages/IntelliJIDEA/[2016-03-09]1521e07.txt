@@ -1,0 +1,1 @@
+  IDEA-152460 github: fix "Open In Browser" URL for git repository in the FS root  * do not expect `relativePath` to start with "/"  

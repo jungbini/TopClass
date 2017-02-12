@@ -1,0 +1,1 @@
+  push down from interface to abstract class fixed (IDEA-82286)  

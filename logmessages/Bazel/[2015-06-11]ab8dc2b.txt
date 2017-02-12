@@ -1,0 +1,1 @@
+  Add the necessary templates to make android_ndk_repository actually work.  Drive-by fix a minor issue that resulted in the @repository//pkg:label syntax not working for label-valued attributes.  -- MOS_MIGRATED_REVID=95716203  

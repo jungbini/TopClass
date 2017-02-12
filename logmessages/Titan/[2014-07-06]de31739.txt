@@ -1,0 +1,1 @@
+  Refactoring of log framework to provide ReadMarker with register method. Implementation of the tx log recovery processor. Making KCVStore.close() idempotent. Fixing bug in UserModifiableConfiguration.  

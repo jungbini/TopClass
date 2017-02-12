@@ -1,0 +1,1 @@
+  WEB-19334 Debugging Meteor 1.2.x is essentially broken for any language Fix client debug.  

@@ -1,0 +1,1 @@
+  don't cast qualifier on completion when it leads to a less specific return type (fixes NormalCompletionTest.testListArrayListCast)  

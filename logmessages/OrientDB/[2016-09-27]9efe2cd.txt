@@ -1,0 +1,1 @@
+  fixed projection result management for graph cases, issue #6735  

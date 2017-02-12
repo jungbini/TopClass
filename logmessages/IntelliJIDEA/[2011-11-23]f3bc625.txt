@@ -1,0 +1,1 @@
+  IDEA-77409: XSLT debug: Saxon: NPE at SaxonFrameImpl$MyValue.create() for specific global variable  

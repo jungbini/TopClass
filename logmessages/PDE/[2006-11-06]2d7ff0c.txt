@@ -1,0 +1,1 @@
+  Fixed more threading issues, addded clipping, added text leading, text rendering fixes  

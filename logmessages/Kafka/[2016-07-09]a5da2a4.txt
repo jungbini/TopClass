@@ -1,0 +1,1 @@
+  MINOR: Typo fix in comments  Author: Nafer Sanabria <nafr.snabr@gmail.com>  Reviewers: Grant Henke <granthenke@gmail.com>, Ismael Juma <ismael@juma.me.uk>  Closes #1595 from naferx/minor-typo  

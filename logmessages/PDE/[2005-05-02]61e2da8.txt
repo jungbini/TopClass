@@ -1,0 +1,1 @@
+  fix for a minor "new tab" bug, along with some additional documentation for methods requested by casey  

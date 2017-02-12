@@ -1,0 +1,1 @@
+  bug #312, add unregisterXxx() for libs  

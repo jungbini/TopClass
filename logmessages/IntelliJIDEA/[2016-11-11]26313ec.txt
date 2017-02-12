@@ -1,0 +1,1 @@
+  [java] fixes lambda expressions parsing (IDEA-163871)  

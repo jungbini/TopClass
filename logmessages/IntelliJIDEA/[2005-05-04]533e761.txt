@@ -1,0 +1,1 @@
+  fixed issue with binding xerces messages to psi nodes  

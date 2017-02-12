@@ -1,0 +1,1 @@
+  [storm-redis] Remove unused and buggy feature  * We can introduce counter / various data types later  

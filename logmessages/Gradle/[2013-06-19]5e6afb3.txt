@@ -1,0 +1,1 @@
+  cleanup some archive related tests  - REVIEW-2446/REVIEW-2451: Add more assertions to the duplicateStrategy integration tests - REVIEW-2446: fix assertZipContainsOnly and move to ZipTestFixture - REVIEW-2446: create explicit TarTestFixture - REVIEW-2446: create explicit JarTestFixture and close jarFile properly  

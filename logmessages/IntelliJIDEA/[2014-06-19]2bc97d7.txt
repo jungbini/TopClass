@@ -1,0 +1,1 @@
+  platform: WM patching fixes  - mimic Awesome WM as sawfish (fixes IDEA-116527) - use own constant for Marco if available - cleanup  

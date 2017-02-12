@@ -1,0 +1,1 @@
+  Minor fixes so it builds and exports as a functional, installable plugin. Previously it was only working inside Eclipse.  

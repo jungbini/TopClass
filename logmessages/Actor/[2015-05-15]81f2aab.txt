@@ -1,0 +1,1 @@
+  fix(session): decrease resend buffer size on message ack, don't increase it on rescheduled resend  

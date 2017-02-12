@@ -1,0 +1,1 @@
+  GRADLE-2187: fix jre test tracing on windows machines.  

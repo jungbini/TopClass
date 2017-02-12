@@ -1,0 +1,1 @@
+  Limit searches with timerange to specific indices  fixes #WEBINTERFACE-375  

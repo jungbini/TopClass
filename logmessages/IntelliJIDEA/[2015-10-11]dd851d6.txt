@@ -1,0 +1,1 @@
+  fixed PY-16936 Several tasks 'Updating skeletons' is launched if packages are installed right after adding new remote interpreter  

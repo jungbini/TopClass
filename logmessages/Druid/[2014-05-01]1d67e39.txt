@@ -1,0 +1,1 @@
+ Merge pull request #527 from metamx/fix-empty-intervals  add filesystem checks again  commit 1d67e399492e90beebadab76df947492f3a49e97  Fixes  fix NPE in select query, calculating cache key remove unwanted logging fix ds in topNQuery  

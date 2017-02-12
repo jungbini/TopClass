@@ -1,0 +1,1 @@
+  fixed PY-9960 Restructuredtext doc strings produce poorly formatted quick help  

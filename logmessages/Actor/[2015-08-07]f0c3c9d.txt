@@ -1,0 +1,1 @@
+  fix(server): don't import yourself as a contact  

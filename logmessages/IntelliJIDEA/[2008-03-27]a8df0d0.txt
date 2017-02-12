@@ -1,0 +1,1 @@
+  IDEADEV-13130 fixed (Add files/folders to Subversion ignore list right from Project view)  

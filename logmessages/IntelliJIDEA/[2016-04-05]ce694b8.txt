@@ -1,0 +1,1 @@
+  Pydev debugger fails when passed interpreter arguments or environment variable (PY-9033)  On windows we should remove brackets from some arguments in order to find interpreter options and put them in the correct place when  patching args for the new python process.  

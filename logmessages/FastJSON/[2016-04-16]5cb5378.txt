@@ -1,0 +1,1 @@
+  bug fixed for issue 372. https://github.com/alibaba/fastjson/issues/372  

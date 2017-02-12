@@ -1,0 +1,1 @@
+  Fixed definition of negative()  Partial fix of issue #368. Negative = TN + FP.  

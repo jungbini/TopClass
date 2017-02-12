@@ -1,0 +1,1 @@
+  Add tests for DebugPathSanitizer and fix a bug they reveal  Summary: * Add `DebugPathSanitizerTest`. * The new tests fail because `DebugPathSanitizer#sanitize` is ignoring the `expandPaths` parameter. Fix `DebugPathSanitizer#sanitize` to use the parameter. * Remove unused overload of `DebugPathSanitizer#sanitize`.  Test Plan: * `buck test`.  

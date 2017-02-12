@@ -1,0 +1,1 @@
+  fixed tab completion inside outer language element (PY-1869)  

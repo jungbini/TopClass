@@ -1,0 +1,1 @@
+  poor type completion performance, fix #1327  

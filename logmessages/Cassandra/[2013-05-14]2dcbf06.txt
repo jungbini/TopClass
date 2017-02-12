@@ -1,0 +1,1 @@
+  switch Paxos debug logging to Tracing  

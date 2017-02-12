@@ -1,0 +1,1 @@
+  fix bad comparison of column name against * or 1 patch by dbrosius; reviewed by jbellis for CASSANDRA-3787  

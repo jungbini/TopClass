@@ -1,0 +1,1 @@
+  Priliminary fix for expandable hints on the completion popup  

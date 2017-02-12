@@ -1,0 +1,1 @@
+  github: fix repository list loading  * fix "repository already exists" check because of the organisation repository with the same name * behavior of the API changed some time ago  

@@ -1,0 +1,1 @@
+  [git] "Show Diff with local" from file history for dirs. IDEA-53116  * Call the DiffFromHistoryHandler from the "Show Diff with Local" action. * In Git implementation be aware that  a CurrentRevision may be passed. Pass null hash in that case. * GitChangeUtils: fix the order of revisions again; make code more clear; remove the not-used parameter.  

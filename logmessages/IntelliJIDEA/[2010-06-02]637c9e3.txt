@@ -1,0 +1,1 @@
+  Maven: "unsupported VM option -d32" fixed  

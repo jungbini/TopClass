@@ -1,0 +1,1 @@
+  CapturingProcessHandler: ability to specify a timeout when running with progress indicator: fixes  

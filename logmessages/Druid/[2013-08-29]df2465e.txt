@@ -1,0 +1,1 @@
+  1) Add unit test for groupBy query with dimension that doesn't exist 2) Fix group by query to work with new unit test, fixes #232  

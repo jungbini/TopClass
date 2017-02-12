@@ -1,0 +1,1 @@
+  Another check for corrupted indexes. Infinite loop fix [author = max mossienko]  

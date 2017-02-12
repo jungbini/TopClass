@@ -1,0 +1,1 @@
+  Rename helper method in KotlinDebuggerTestBase  Now that functions and extension functions conform to each other, this method began to conflict with the synthesized SAM-adapter from the super class (which also can't be overridden by design)  

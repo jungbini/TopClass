@@ -1,0 +1,1 @@
+  GRADLE-819 - Don't require a testRuntime dependency declaration to use test fixtures.  

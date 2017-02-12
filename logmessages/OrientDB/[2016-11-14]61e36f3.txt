@@ -1,0 +1,1 @@
+  HA: fixed issue where replica servers could own clusters  Fixed issue #6908  

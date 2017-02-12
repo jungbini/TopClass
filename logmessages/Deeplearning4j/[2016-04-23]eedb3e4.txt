@@ -1,0 +1,1 @@
+  Outstanding fixes on validation when global dist set but local weitinit not dist  

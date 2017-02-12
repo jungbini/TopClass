@@ -1,0 +1,1 @@
+  Buildables must record artifacts to cache explicitly.  Summary: They shouldn't rely on `AbstractCachingBuildRule` to cache the path returned by `getPathToOutputFile()`. This way there is only way of recording something to be cached and that is `BuildableContext`.  Test Plan: I can work on fixing the unit tests if no one objects to this approach.  

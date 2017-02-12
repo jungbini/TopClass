@@ -1,0 +1,1 @@
+  ClassicUI: Fix invalid empty reponse  Firefox and other Browsers crash in JS if server sends empty reponse. WebApp.net does not handle this correctly. It would be much more work to fix this, so we just fill the response body with an empty root node to make it valid xml.  

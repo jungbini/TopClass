@@ -1,0 +1,1 @@
+  fix NPE during tests: build pipeline and call begin on 

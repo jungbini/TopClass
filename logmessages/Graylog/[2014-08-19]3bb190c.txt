@@ -1,0 +1,1 @@
+  Improvement of dashboard performance fixing #881  - Prevents thrashing of data requests by limiting the amount of concurrent ones - Triggers data requests based on their cache time, reducing the overall number of requests  

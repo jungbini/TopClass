@@ -1,0 +1,1 @@
+ Replace "remove 'extends TestCase' from class" quickfix with "Convert JUnit 3 class to JUnit 4" quickfix and associated cleanup and i18n  

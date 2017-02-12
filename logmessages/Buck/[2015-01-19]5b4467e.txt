@@ -1,0 +1,1 @@
+  Update the Immutables library to version 1.1.1  Summary: Update the Immutables library to version 1.1.1 which fixes a bug in generated Javadoc.  Test Plan: `buck test --all`  

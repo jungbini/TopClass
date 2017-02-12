@@ -1,0 +1,1 @@
+  Polish Gradle build script  - fixed typo - spring-test-mvc now builds against Hibernate Validator 4.3  

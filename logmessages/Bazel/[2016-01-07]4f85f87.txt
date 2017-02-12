@@ -1,0 +1,1 @@
+  Add strip_prefix attribute to http_archive  Fixes #575.  -- MOS_MIGRATED_REVID=111600612  

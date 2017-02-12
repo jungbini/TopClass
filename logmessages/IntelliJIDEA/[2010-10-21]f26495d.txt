@@ -1,0 +1,1 @@
+  django run configuration django check fixed for bundled django  

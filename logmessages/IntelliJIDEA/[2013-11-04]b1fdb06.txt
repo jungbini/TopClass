@@ -1,0 +1,1 @@
+  optimization trick: on debugger attach invoke vm.allClasses() to cache loaded classes inside JDI, which makes operations involving class search work faster  

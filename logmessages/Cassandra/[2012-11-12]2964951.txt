@@ -1,0 +1,1 @@
+  Add debug logging to list filenames processed by o.a.c.db.Directories.migrateFile method patch by dbrosius reviewed by slebresne for CASSANDRA-4939  

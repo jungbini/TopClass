@@ -1,0 +1,1 @@
+  ant: fix custom ant dialog (IDEA-146552, EA-72010)  

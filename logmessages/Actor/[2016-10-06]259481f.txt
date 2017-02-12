@@ -1,0 +1,1 @@
+  fix(android): recover read_contacts permission request  

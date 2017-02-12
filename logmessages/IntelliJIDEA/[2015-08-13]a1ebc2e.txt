@@ -1,0 +1,1 @@
+  8 year old bug!!!  IDEA-15266 Show Usages popup doesn't accept Editor->Down and Editor->Up keybindings, only supports DOWN_ARROW and UP_ARROW  

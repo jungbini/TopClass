@@ -1,0 +1,1 @@
+  fixed up gremlin.sh and gremlin.bat to look for HADOOP_PREFIX and if not found, use deprecated HADOOP_HOME.  

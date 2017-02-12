@@ -1,0 +1,1 @@
+  xbreakpoints-ui. npe fixed. Actions in gutter popup-menu rearranged. hide on key outside. show more options when suspend checkbox is off.  

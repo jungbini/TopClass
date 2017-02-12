@@ -1,0 +1,1 @@
+  fixed  PY-6994 Paste leads to syntactically incorrect code in case pasting copied text instead of selection  

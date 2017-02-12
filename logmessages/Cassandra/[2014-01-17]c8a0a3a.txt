@@ -1,0 +1,1 @@
+  Pre-6504 cleanup and fixups  patch by Aleksey Yeschenko; reviewed by Sylvain Lebresne for CASSANDRA-6504  

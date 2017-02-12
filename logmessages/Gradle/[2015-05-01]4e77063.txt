@@ -1,0 +1,1 @@
+  Make continuous mode integration spec class a fixture instead  +review REVIEW-5492  

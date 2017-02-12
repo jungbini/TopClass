@@ -1,0 +1,1 @@
+  Merge -c 1241282 from trunk to branch-0.23 to fix MAPREDUCE-3809. Ensure that there is no needless sleep in Task at the end of the task. Contributed by Siddharth Seth.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1241283 13f79535-47bb-0310-9956-ffa450edef68  

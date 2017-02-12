@@ -1,0 +1,1 @@
+  fix overriding final method: com.intellij.execution.process.ConsoleHistoryModel com.intellij.execution.console.ConsoleExecuteAction$ConsoleExecuteActionHandler#getConsoleHistoryModel() (in SBT:1.5.1)  

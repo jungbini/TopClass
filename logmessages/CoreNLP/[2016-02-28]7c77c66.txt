@@ -1,0 +1,1 @@
+  Improve and fix classify code. - Fix bug I introduced before in ColumnDataClassifier. - Change LinearClassifierFactory to have 1 not 2 loggers. - Change LinearClassifierFactory to have QNMinimizers respect verbose setting correct. - Remove a few of the many LinearClassifierFactory constructors. - Change RVFDataset to have 1 not 2 loggers.  

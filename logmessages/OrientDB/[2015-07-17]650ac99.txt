@@ -1,0 +1,1 @@
+  fixed test for keep static context alive.  

@@ -1,0 +1,1 @@
+  fix PsiToDocumentSynchronizer handling of overlapping ranges  

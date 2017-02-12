@@ -1,0 +1,1 @@
+  fix windows script generation / mark output directory correctly with @OutputDirectory  

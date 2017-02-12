@@ -1,0 +1,1 @@
+  guava type migration: Optional#or parameter migration fixed + simplification of generated code (IDEA-147724)  

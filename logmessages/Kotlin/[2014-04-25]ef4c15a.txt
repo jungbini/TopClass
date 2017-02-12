@@ -1,0 +1,1 @@
+  Implement getDebugText() which should be used instead of getText() for debug purposes  

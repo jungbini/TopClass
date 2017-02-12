@@ -1,0 +1,1 @@
+  fixed PY-3327 RST: Throwable at com.intellij.openapi.diagnostic.Logger.error  

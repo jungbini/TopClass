@@ -1,0 +1,1 @@
+  Sonos binding: changed upnp notifications logging level form debug to trace.  

@@ -1,0 +1,1 @@
+ Fixing of small bugs according to FindBug report  

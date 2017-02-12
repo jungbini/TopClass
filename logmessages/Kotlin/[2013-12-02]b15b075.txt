@@ -1,0 +1,1 @@
+  Tests for bug in CFA: no return in when() is now detected  

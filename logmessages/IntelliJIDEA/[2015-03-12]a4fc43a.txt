@@ -1,0 +1,1 @@
+  debugger view text action: show vertical scroll bar as needed, not always  

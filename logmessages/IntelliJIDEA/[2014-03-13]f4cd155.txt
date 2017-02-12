@@ -1,0 +1,1 @@
+  renderer is already receiving proper bounding rectangle (see JavaDoc) #WEB-11280 fixed  

@@ -1,0 +1,1 @@
+  [] [LUCYSUS-1744] findbug  , thrift 0.9.0     0.9.1  git-svn-id: http://svn.bds.nhncorp.com/pe/hippo-server/trunk@2283 84d0f5b1-2673-498c-a247-62c4ff18d310  

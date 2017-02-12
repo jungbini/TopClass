@@ -1,0 +1,1 @@
+  WEB-17316 JS debugger: invoke getter on object, not it's prototype  

@@ -1,0 +1,1 @@
+  TODO fixes Analyzer -> Analyzer Facade Refactor for translators. Fix a bug with scopes.  

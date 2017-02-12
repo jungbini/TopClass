@@ -1,0 +1,1 @@
+  JS backend: fix KT-5603 (Multiple catch): add tests  

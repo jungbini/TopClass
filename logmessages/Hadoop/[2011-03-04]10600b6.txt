@@ -1,0 +1,1 @@
+Author: Owen O'Malley <omalley@apache.org> Date:   Sat Sep 18 16:25:13 2010 -0700  fix dc issues with private caches   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077698 13f79535-47bb-0310-9956-ffa450edef68  

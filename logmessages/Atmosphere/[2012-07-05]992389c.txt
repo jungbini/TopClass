@@ -1,0 +1,1 @@
+  Tentative fix for $479 [Spring] java.lang.ClassNotFoundException: > org.atmosphere.cache.HeaderBroadcasterCache  

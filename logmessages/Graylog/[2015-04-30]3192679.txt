@@ -1,0 +1,1 @@
+  Fixing bug where opening the edit dialog needed a second click.  Instead of generating the population form on demand (when clicking) we are now rendering it straight away. It was done on demand when we needed to do a request to fetch the configuration details. Now that these are passed in for all types, we can just render the form.  

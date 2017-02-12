@@ -1,0 +1,1 @@
+  fixed LINKSET update on identity change. issue #2949  

@@ -1,0 +1,1 @@
+  JDK bug from CASSANDRA-8220 makes drain die early also  patch by Jeremiah Jordan; reviewed by Robert Stupp for CASSANDRA-10545  

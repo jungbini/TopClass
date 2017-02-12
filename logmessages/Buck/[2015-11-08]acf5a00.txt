@@ -1,0 +1,1 @@
+ry assumptions. Closes https://github.com/facebook/buck/pull/498  Test Plan: ant java-test -Dtest.class=ProjectGeneratorTest  

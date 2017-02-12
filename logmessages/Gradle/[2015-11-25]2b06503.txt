@@ -1,0 +1,1 @@
+  add some debug logging for tracing build failure on ci  

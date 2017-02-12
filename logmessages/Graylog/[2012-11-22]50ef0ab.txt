@@ -1,0 +1,1 @@
+  use ES filters where possible. avoid queries  filters are magnitudes faster because they don't perform scoring and are cachable.  fixes #WEBINTERFACE-348  

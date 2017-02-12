@@ -1,0 +1,1 @@
+  fix #1728 valve and battery error  addition to fix #1793, regarding BindingType.VALVE and BindingType.BATTERY: BindingType.VALVE still has been updated with wrong value in line 295 BindingType.BATTERY also, if  device.isBatteryLowUpdated() was false  

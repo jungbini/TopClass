@@ -1,0 +1,1 @@
+  fix registerSize() so that it doesn't register as pre()  

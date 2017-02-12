@@ -1,0 +1,1 @@
+  PY-15342 Extract MoveSymbolProcessor that handles moving of single module memeber  It will help to fix this and similar problems later on.  

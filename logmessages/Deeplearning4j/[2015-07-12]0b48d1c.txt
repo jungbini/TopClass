@@ -1,0 +1,1 @@
+ fix ignored fields in BarnesHutTsne builder  

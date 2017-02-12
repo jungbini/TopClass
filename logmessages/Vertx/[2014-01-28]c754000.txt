@@ -1,0 +1,1 @@
+  Support null values for JsonObject - putArray, putElement, putBinary, and putValue now support null values.  Fixes bug https://bugs.eclipse.org/bugs/show_bug.cgi?id=426816  Signed-off-by: nscavell <nick.scavelli@gmail.com>  

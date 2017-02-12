@@ -1,0 +1,1 @@
+  invokeLater for quickfix (IDEADEV-6343)  

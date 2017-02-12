@@ -1,0 +1,1 @@
+  fixed classpath in ant build script, ignore library jar  

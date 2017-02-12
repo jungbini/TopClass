@@ -1,0 +1,1 @@
+ TinkerforgeBinding:  fix doc string  

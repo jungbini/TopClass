@@ -1,0 +1,1 @@
+  fix is_git detection when .git dir is located elsewhere  Summary: Fixed the problem I had in #949 Closes https://github.com/facebook/buck/pull/1003  Reviewed By: k21  fbshipit-source-id: 9c15bd3  

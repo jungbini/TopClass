@@ -1,0 +1,1 @@
+  IDEA-159323 Custom file type: hex prefix configuration has no effect (no number highlighting)  

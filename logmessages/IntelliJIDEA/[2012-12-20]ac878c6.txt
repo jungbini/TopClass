@@ -1,0 +1,1 @@
+  fixed file reference resolve for maven (IDEA-80267)  

@@ -1,0 +1,1 @@
+  IDEA-85572 only splitter fixed (form deleted)  

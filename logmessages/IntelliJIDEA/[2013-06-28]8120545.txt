@@ -1,0 +1,1 @@
+  reimplement ImageOrColorPreviewManager 1) one instance for all editors 2) support any not one-line editor  any custom editor now supported (elements panel in JS Debugger as example)  

@@ -1,0 +1,1 @@
+  Optimize filter for timeseries, search, and select queries (#2931)  * Optimize filter for timeseries, search, and select queries  * exception at failed toolchest type check  * took out query type check  * java7 error fix and test improvement  

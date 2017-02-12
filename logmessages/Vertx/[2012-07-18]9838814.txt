@@ -1,0 +1,1 @@
+  fixed loading from jar file, URI.getPath() returns null for jar urls so SimpleJavaFileObject can't be used.  

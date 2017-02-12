@@ -1,0 +1,1 @@
+ Merge pull request #697 from jvshahid/issue_691  Thanks for fixing issue#691. This change correctly fixes the bug and doesn't have any side effect.  commit 1bf4ea21b82075bd1d26c08116dc9c6072136b2a  drop fix-sporadically-failing-tests.patch; add fix-format-security-issue.patch  

@@ -1,0 +1,1 @@
+  Upgrade to metrics jar to 3.x to pick up csv reporter fixes; KAFKA-542; patched by Joel Koshy; reviewed by Neha Narkhede.  git-svn-id: https://svn.apache.org/repos/asf/incubator/kafka/branches/0.8@1396336 13f79535-47bb-0310-9956-ffa450edef68  

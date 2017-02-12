@@ -1,0 +1,1 @@
+  fix the rdf-input.properties configuration key names.  

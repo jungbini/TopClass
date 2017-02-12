@@ -1,0 +1,1 @@
+  message analyzer is now configurable  fixes #SERVER-172  

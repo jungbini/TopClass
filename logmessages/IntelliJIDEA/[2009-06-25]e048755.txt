@@ -1,0 +1,1 @@
+  TreeUi: auto-expand nodes fixed and "loading" node is back again  

@@ -1,0 +1,1 @@
+  (IDEA-136353) pushDialog: UI SyncEditing target branches  * getValue for target changed to be returned nullable; * NPE fixed for sync rendering invalid targets; *  useless freeze methods removed  

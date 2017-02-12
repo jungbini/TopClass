@@ -1,0 +1,1 @@
+  Log the names and contents of all configuration files  Summary: * To make it easier to debug issues with custom configuration files, log a list of their names and their contents when we load them.  Test Plan: * Run `buck`, open the generated log, check that the configuration file names and contents were logged.  

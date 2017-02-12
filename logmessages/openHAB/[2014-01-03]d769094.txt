@@ -1,0 +1,1 @@
+  fix for #675 - added additional filter query parameter  

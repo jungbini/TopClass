@@ -1,0 +1,1 @@
+  Do not sort thing other than files  This still has the problem that the Manifest should be the first entry in a jar file - fix that later.  

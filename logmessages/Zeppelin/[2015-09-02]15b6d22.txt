@@ -1,0 +1,1 @@
+ean-plugin from spark/pom.xml and spark-dependencies/pom.xml  

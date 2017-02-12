@@ -1,0 +1,1 @@
+  Fix shutdown deadlock when a shutdown hook crashes - halt() instead of exit(). See associated bug for more details.  -- MOS_MIGRATED_REVID=86708715  

@@ -1,0 +1,1 @@
+  Conflicts: graylog2-server/src/main/java/org/graylog2/indexer/Deflector.java graylog2-server/src/main/java/org/graylog2/indexer/healing/FixDeflectorByDeleteJob.java graylog2-server/src/main/java/org/graylog2/indexer/healing/FixDeflectorByMoveJob.java graylog2-server/src/main/java/org/graylog2/periodical/DeflectorManagerThread.java  

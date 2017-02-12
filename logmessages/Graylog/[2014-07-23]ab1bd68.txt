@@ -1,0 +1,1 @@
+  Fix overflow issues with rickshaw  The hover detail popup was going out of the screen when getting closer to the right screen edge. Updating rickshaw.min.css to 1.4.6 fixed the issue (somehow it wasn't update on 76c03a8). Related to #848.  

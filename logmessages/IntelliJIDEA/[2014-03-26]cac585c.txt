@@ -1,0 +1,1 @@
+  fixed PY-12510 NPE in Idea 13 Python Plugin New Module SDK dialog prevents all python use  Component could return null if the Component is not directly under the mouse  

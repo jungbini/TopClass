@@ -1,0 +1,1 @@
+  provide notification when emma was requested in debug mode (IDEA-70352)  

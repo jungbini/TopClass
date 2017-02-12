@@ -1,0 +1,1 @@
+  IDEA-86712 common api & error message handling  In addition to this, the original fix 9e0119d has error: it used to display the error message in the same thread as test (not EDT) thus leading to an assertion.  

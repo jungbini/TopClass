@@ -1,0 +1,1 @@
+  fixed PY-14199 IPython Notebook Editing in Pycharm causes "bad request" error when loading in web browser  specified encoding for ipython notebooks  

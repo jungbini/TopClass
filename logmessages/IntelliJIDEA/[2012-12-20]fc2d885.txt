@@ -1,0 +1,1 @@
+  [git] Fix setting up tracking on push. IDEA-93510, IDEA-96237  * We had compared with an incorrect object (branch.equals(name)), therefore tracking info was never found. (IDEA-93510) * Add refs/heads/ prefix when setting up tracking. (IDEA-96237)  [reviewed by irengrig]  (cherry-picked from ea6b657)  

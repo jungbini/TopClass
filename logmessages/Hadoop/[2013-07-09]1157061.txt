@@ -1,0 +1,1 @@
+  merge -c 1501599 from trunk to branch-2 to fix YARN-727, MAPREDUCE-5325. ClientRMProtocol.getAllApplications should accept ApplicationType as a parameter. Contributed by Xuan Gong.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1501600 13f79535-47bb-0310-9956-ffa450edef68  

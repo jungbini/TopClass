@@ -1,0 +1,1 @@
+  fixed PY-6589 Unnecessary backslash in expression: false negative for double parenthesis  

@@ -1,0 +1,1 @@
+  fix for bug in jruby implementation of nokogiri - when node contains new line inside, it should be printed in content  

@@ -1,0 +1,1 @@
+  fix #1211: Syntax coloring: cannot set color of "Global variable"  

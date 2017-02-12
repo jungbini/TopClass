@@ -1,0 +1,1 @@
+  #1734 Extract Seralization in XxxBo fix testcase fail  

@@ -1,0 +1,1 @@
+  fixed a FaunusCompiler bug where global configurations were not being copied over to jobs appropriately.  

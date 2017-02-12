@@ -1,0 +1,1 @@
+  Minor. BinarySerializer.getFixedLength() throw exception when length is not fixed.  

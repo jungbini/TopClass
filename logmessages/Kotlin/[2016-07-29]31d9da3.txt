@@ -1,0 +1,1 @@
+  Update resolver interface - make it return Future and add message reporter function +  plus minor fixes  

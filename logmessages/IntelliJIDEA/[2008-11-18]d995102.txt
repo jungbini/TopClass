@@ -1,0 +1,1 @@
+  IDEADEV-32886 (quickfix of "Unnecessary Parentheses" inspection removes too many parentheses)  

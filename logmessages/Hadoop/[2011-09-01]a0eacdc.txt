@@ -1,0 +1,1 @@
+  HDFS-2297. ant should pass jvmargs to findbugs. Contributed by Joep Rottinghuis.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.22@1163893 13f79535-47bb-0310-9956-ffa450edef68  

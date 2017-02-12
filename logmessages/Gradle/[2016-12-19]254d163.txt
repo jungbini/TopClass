@@ -1,0 +1,1 @@
+ Backport fix for google/googletest#920  The infrastructure works is updating the version for MinGW from 4.9.3 to 5.3.0 which breaks Google Test integration tests. The back port of the change was chosen as the fix is not yet released.  

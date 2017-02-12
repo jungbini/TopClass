@@ -1,0 +1,1 @@
+  remote servers: setup default deployment configuration if deployment source is set to fix NPE (IDEA-156073)  

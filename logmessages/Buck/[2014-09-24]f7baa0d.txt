@@ -1,0 +1,1 @@
+  Make it possible to syntax-highlight .ini files.  Summary: Takes a bugfix recommended to google-code-pretty to support .ini files: https://code.google.com/p/google-code-prettify/issues/detail?id=223.  If you read the comments, I had to make some minor changes in order to match the minified properties in `prettify.js`.  Test Plan: Use in follow-up 

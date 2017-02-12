@@ -1,0 +1,1 @@
+  Easy: Adjust jetty logging level to remove debug spam  Summary: We're getting a lot of jetty debug spam in the logs these days:  P56511863  I don't think we need it for debugging Buck, so this turns the log level down to INFO.  Test Plan: `buck project` before and after, confirmed jetty log spam went away  Reviewed By: marcinkosiba  fbshipit-source-id: 2556787  

@@ -1,0 +1,1 @@
+  single "extends Object" omitted for type parameters (ultimate fix)  - sole "extends Object" ignored - correct decompilation of <T extends I> vs. <T exends Object & I> cases  

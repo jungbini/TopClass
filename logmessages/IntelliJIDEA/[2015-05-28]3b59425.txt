@@ -1,0 +1,1 @@
+  support implicit head and body for html4 #WEB-2409 fixed  

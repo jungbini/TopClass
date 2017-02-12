@@ -1,0 +1,1 @@
+  ui index.html redirects to home instead of a fixed absoluate address.  

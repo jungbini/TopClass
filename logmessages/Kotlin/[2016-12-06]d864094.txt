@@ -1,0 +1,1 @@
+  Fix JS compiler jar search  #KT-15127 fixed  

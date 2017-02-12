@@ -1,0 +1,1 @@
+  [git] IDEA-92916 Sometimes Git -> Branches won't bring up the popup  * Try to detect the vcs root of the selected file harder, try guessing if nothing has been found. * Add debug logging for further investigation if needed.  (cherry-picked from 33c7916) [reviewed by irengrig]  

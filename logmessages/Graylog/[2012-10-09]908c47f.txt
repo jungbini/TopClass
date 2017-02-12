@@ -1,0 +1,1 @@
+  Retention cleaning now done by deleting indices  fixes #SERVER-160  

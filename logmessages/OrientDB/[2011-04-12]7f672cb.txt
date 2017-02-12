@@ -1,0 +1,1 @@
+  Fixed bug on hole management when the database grow ans it's splitted in multiple files  

@@ -1,0 +1,1 @@
+  adjustLineIndent for last white space fixed  

@@ -1,0 +1,1 @@
+  PY-14408 PythonIndentingProcessor includes tabs inside PsiWhitespace elements  Also I partially reverted previous fix in PyBlock#isWhitespaceLineBreaks, because current approach is more general and that workaround is no longer needed (multiple whitespaces are collapsed into single element as in other languages).  

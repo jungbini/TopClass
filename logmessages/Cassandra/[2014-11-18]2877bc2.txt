@@ -1,0 +1,1 @@
+  Ninja: fix test for js return type under rhino engine  

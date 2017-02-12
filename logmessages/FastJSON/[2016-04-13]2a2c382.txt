@@ -1,0 +1,1 @@
+  support new Feature.UseObjectArray, fixed issue 423. https://github.com/alibaba/fastjson/issues/423  

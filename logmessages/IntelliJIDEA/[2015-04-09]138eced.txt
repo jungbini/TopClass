@@ -1,0 +1,1 @@
+  IDEA-138831 (Save code structure when applying 'Replace StringBuidler with String' quick fix)  

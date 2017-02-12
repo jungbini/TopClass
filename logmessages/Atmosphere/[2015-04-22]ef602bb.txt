@@ -1,0 +1,1 @@
+  :bug: #1954 a better fix for 3.0.x that requires less future maintenance  

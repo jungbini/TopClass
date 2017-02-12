@@ -1,0 +1,1 @@
+  Fixed a bug during bootstrap  Fixed #1732  RELNOTES:  -- MOS_MIGRATED_REVID=132436686  

@@ -1,0 +1,1 @@
+  A couple small cleanups in the integration test.  * Use a Joiner for the externs so they are easier to read and debug. * Make a Truth subject for JSErrors so that tests and error messages are easier to read. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=112722607  

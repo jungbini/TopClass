@@ -1,0 +1,1 @@
+  Some usages of JetClassOrObject.isAnnotation() are removed. Related test fixed.  

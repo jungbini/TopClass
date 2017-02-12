@@ -1,0 +1,1 @@
+  [hg]: tests fixed: do not create incoming/outgoing widget in test mode  * problem appeared only after manual modification directory mappings, cause it led to widgets activationswitched on for default project; * update hg patch and settings activation for basic hg test class also;  

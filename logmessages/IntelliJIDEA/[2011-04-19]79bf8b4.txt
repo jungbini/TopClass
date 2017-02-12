@@ -1,0 +1,1 @@
+  IDEA-68348 Formatter: Correct 'wrap long lines' processing  Test data fixes  

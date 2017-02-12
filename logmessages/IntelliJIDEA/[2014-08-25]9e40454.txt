@@ -1,0 +1,1 @@
+  automatic constructor params rename: detect variable kind if possible to correctly process code style prefixes (IDEA-128960)  

@@ -1,0 +1,1 @@
+  antialiasing fixes  IDEA-69715, IDEA-89426 and so on  

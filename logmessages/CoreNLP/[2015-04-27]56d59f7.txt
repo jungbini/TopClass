@@ -1,0 +1,1 @@
+  fix bug in converter for weird nested and conjoined PP trees caused by parsing errors.  

@@ -1,0 +1,1 @@
+  fixed PY-7886 Doctest: Missing resolve and completion for names imported in doctest  

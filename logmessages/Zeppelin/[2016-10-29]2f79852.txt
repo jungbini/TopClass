@@ -1,0 +1,1 @@
+ni to gitignore 73682e3 [Anthony Corbacho] Handle getShiroPath() to return shiro.ini path if exist otherwise use shiro.ini.template 9fc10ab [Anthony Corbacho] Change shiro.ini to shiro.ini.template  

@@ -1,0 +1,1 @@
+  [rust] Fix bugs in Rust test rules.  * Fix conflicting .deps directory creation by rust_test rule * Fix dependency symlinking in generated rust_doc_test scripts  Fixes #572  TESTED: bazel test //examples/rust/...  -- MOS_MIGRATED_REVID=108617330  

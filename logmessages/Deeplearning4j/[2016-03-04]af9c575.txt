@@ -1,0 +1,1 @@
+  Fix bug in LoadAndDraw  Missing assignment to test in while loop, causing dereferencing of null.  

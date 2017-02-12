@@ -1,0 +1,1 @@
+  Test that BuildLauncher.forLaunchables preserves order.  And fix a bug with model backing classes in a wrong scope that makes it impossible to send them to provider.  

@@ -1,0 +1,1 @@
+  include stream title in no results message when search was limited to stream  fixes #464  

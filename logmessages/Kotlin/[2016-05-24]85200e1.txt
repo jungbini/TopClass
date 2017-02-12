@@ -1,0 +1,1 @@
+  REPL UI: fix history pane not showing latest command after command execution  

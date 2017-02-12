@@ -1,0 +1,1 @@
+  fixed empty headers and import (dependant in language level) for qt, gtk... skeletons.  

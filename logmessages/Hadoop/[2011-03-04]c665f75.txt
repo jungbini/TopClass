@@ -1,0 +1,1 @@
+Author: Devaraj Das <ddas@yahoo-inc.com> Date:   Sat Mar 6 21:44:32 2010 -0800  MAPREDUCE:1566 from https://issues.apache.org/jira/secure/attachment/12438122/mr-1566-1.patch (bugfixes for testcases on top of the patch committed earlier)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077297 13f79535-47bb-0310-9956-ffa450edef68  

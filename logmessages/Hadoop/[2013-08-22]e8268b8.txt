@@ -1,0 +1,1 @@
+  Merge -c 1516358 from trunk to branch-2 to fix MAPREDUCE-5468. Fix MR AM recovery for map-only jobs. Contributed by Vinod K. V.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1516359 13f79535-47bb-0310-9956-ffa450edef68  

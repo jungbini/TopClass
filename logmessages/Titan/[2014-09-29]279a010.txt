@@ -1,0 +1,1 @@
+  Added explicit exception when serializer returns null value in error as suggested by Praveen Peddi to make debugging easier.  

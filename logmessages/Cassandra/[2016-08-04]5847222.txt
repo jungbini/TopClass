@@ -1,0 +1,1 @@
+  Fix backward compatibility issues on SELECT DISTINCT queries  patch by Sylvain Lebresne; reviewed by Benjamin Lerer for CASSANDRA-11126  This fixes 2 problems: - Broken logic for deciding if a query involve static columns when serializating range slice to old nodes. - Invalid cellname in paging state when the "row marker" should be sent.  

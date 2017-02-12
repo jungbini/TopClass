@@ -1,0 +1,1 @@
+  fixed high CPU usage in qt type provider (getReferenceExpressionType used in Inspections)  

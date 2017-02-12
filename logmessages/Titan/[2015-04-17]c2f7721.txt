@@ -1,0 +1,1 @@
+  Fixes Features and how properties are attached to newly created vertices to fix test failures in TP3 StructureTest.  

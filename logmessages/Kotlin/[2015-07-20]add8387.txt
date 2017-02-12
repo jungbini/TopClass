@@ -1,0 +1,1 @@
+  Fix some problems with jsCode function  1. Fix a bug in frontend when passing non-String constant led to exception 2. Fix a bug in backend when passing non-JetStringTeplate string constant led to exception 3. Avoid recomputing constant argument in backend  

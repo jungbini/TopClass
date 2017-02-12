@@ -1,0 +1,1 @@
+  fix autopopup not autopopupping when there was more than once document modification between completion restart and invokeLater  

@@ -1,0 +1,1 @@
+  Fix inconsistency in using text presentation actions in duplex debugger console. Fixes RUBY-17873, RUBY-17384, RUBY-16949.  

@@ -1,0 +1,1 @@
+  GRADLE-2238: add debug switch for MavenM2IntegrationTests to get more information why daemontests on ci are failing.  

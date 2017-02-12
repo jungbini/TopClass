@@ -1,0 +1,1 @@
+  SQL: small fix for cases like "select"  

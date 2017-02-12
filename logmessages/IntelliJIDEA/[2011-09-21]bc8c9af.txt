@@ -1,0 +1,1 @@
+  Usability fix for IDEA-74106 (Trouble checking out project using Github plugin)  

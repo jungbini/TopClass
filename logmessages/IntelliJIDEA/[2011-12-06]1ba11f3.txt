@@ -1,0 +1,1 @@
+  run/debug plugin with alternative jdk (IDEA-70756 )  

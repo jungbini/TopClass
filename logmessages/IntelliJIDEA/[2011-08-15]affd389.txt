@@ -1,0 +1,1 @@
+  RUBY-8847 creating a debug watch from the list of preexisting ones doesn't work as expected  

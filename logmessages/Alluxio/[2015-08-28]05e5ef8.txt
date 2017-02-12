@@ -1,0 +1,1 @@
+  Use defaults for client options and fix some bugs in BlockInStreams.  

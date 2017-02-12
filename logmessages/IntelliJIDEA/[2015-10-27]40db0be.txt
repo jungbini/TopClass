@@ -1,0 +1,1 @@
+  make method static: fix delegate parameter place (IDEA-146900)  

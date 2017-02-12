@@ -1,0 +1,1 @@
+  fixed GRADLE-1470: Scala Eclipse metadata put out via Eclipse+Scala plugins is outdated  

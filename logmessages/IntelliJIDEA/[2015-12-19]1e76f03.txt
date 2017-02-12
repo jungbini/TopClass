@@ -1,0 +1,1 @@
+  guava type migration: batch execution with multiple roots fixed. Now conversion is aware about TypeEvaluator and could decide about actions to do if around context is changed by other root  

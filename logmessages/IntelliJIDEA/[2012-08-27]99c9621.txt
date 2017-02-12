@@ -1,0 +1,1 @@
+  IDEA-90595 Android Designer: remove collapse for style attributes  #IDEA-90595 fixed  

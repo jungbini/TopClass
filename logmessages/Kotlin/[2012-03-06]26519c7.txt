@@ -1,0 +1,1 @@
+  Compiler output stream fixed Exit code 1 not reported in the IDE  

@@ -1,0 +1,1 @@
+that are described in that Jira. This reordering of code effectively implements, for all users,  the workaround described in that Jira.  This commit simply reorders these two operations so that a monitor port is created prior to performing the exit if daemon check.  

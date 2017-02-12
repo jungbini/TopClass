@@ -1,0 +1,1 @@
+  Changed BuildableModuleVersionMetaDataResolveResult.resolved() so that it only accepts Gradle metadata types. Also fixed a problem with the changing flag.  

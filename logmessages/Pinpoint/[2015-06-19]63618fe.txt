@@ -1,0 +1,1 @@
+ bug fix. duplicate data display error in ng-repeat  

@@ -1,0 +1,1 @@
+  debug logging to catch disappearing line markers problem  

@@ -1,0 +1,1 @@
+ fix input launch modal. ugly but works again #ux  

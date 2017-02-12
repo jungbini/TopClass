@@ -1,0 +1,1 @@
+  fixed PY-13286 Create New Project: missing arrow button in more settings  

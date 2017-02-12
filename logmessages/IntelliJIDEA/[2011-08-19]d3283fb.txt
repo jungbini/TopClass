@@ -1,0 +1,1 @@
+  Remote debugger: fixed attribute access in stdout redirect.  

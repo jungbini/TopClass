@@ -1,0 +1,1 @@
+  minor fix to rename edit log  

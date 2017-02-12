@@ -1,0 +1,1 @@
+  Add log entry if DPT incompatible (#4831)  fixes #4229: DecimalType and DPT 5.001 are incompatible, expected is PercentType. Misuse was not logged but failed silently.  Signed-off-by: Jan N. Klug <jan.n.klug@rub.de>  

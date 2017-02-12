@@ -1,0 +1,1 @@
+  fix navigate to 0-offset for PomTargetPsiElements  

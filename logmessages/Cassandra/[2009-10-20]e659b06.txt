@@ -1,0 +1,1 @@
+  fix HH to not give up when any node is live patch by jbellis; reviewed by eevans for CASSANDRA-496  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@827744 13f79535-47bb-0310-9956-ffa450edef68  

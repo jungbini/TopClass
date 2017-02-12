@@ -1,0 +1,1 @@
+  Integration test for a build with both strings as assets and a resource filter.  Summary: Ran it more than 5 times, passed all the time. So not exactly helpful in tracking down the bug, but it's always good to have the test case I suppose.  Test Plan: sandcastle  

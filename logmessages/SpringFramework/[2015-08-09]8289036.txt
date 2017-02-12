@@ -1,0 +1,1 @@
+tion of @AliasFor in AnnotationUtils currently silently ignored such errors.  This commit fixes this by throwing an AnnotationConfigurationException whenever a required meta-annotation is not present or meta-present on an annotation that declares an explicit alias for an attribute in the meta-annotation.  Issue: SPR-13335  

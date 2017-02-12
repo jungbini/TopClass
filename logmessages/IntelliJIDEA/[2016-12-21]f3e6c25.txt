@@ -1,0 +1,1 @@
+  fixing deadlock with parallel modules loading  

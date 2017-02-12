@@ -1,0 +1,1 @@
+  bug fixed for JSON.toJavaObject invoke factory method  

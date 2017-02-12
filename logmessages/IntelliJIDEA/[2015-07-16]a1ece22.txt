@@ -1,0 +1,1 @@
+  quick fixes: extension point for order entry quick fixes to override or complement default platform fixes added  

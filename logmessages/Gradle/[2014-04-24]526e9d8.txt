@@ -1,0 +1,1 @@
+  [GRADLE-2945] Adding exclusions in generated pom ( checkstyle build fix)  

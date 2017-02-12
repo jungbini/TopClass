@@ -1,0 +1,1 @@
+  IDEA-73319 Switching between configuration groups in Run/Debug Configurations dialog is poorly laid out on Windows  

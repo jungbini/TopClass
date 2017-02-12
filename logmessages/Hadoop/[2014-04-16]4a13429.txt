@@ -1,0 +1,1 @@
+  svn merge -c 1587962 from trunk to branch-2 to fix:HDFS-6219. Proxy superuser configuration should use true client IP for address checks. Contributed by Daryn Sharp.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1587964 13f79535-47bb-0310-9956-ffa450edef68  

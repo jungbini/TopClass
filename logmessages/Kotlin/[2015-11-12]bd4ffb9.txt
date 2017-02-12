@@ -1,0 +1,1 @@
+  Announce we are going to invalidate file to collect invalidatation trace  See DebugUtil.currentInvalidationTrace()  

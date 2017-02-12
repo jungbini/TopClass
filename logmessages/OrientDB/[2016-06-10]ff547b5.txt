@@ -1,0 +1,1 @@
+  fixed bug for support of any as collection linked type, issue #5775  

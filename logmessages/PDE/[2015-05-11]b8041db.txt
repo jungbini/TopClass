@@ -1,0 +1,1 @@
+  replace tweak color selector with awt version (fixes #3209)  

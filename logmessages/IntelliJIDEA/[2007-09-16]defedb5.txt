@@ -1,0 +1,1 @@
+  IDEADEV-19925: HTML parser stack overflow fixed. DD and DT tags are always at the same level, i.e. nearest DD terminates DT.  

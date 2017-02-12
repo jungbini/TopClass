@@ -1,0 +1,1 @@
+  HBASE-7 Provide a HBase checker and repair tool similar to fsck; added simple .META. fixup script  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@947857 13f79535-47bb-0310-9956-ffa450edef68  

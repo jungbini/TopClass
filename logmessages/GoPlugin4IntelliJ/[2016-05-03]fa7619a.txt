@@ -1,0 +1,1 @@
+  [inspections] fix checking iterable type for pointers to array  

@@ -1,0 +1,1 @@
+  IDEA-100057 Show exception object in debugger Variables when stopped on exception breakpoint  

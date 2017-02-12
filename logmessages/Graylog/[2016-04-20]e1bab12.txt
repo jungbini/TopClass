@@ -1,0 +1,1 @@
+  when a rule could not be resolved, fall back to the rule reference name without a link  DataTable and DataTableElement pass the current iteration index into the header and row formatter functions now (as the second parameter) This allows formatters to pick render the number or to pick an alternative from a secondary source  fixes Graylog2/graylog-plugin-pipeline-processor#11  

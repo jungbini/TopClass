@@ -1,0 +1,1 @@
+  CPP-434 Add dependency [course-creator-intellij-py] from [platform-impl] to fix "Rebuild All" action  

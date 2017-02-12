@@ -1,0 +1,1 @@
+  Detect executed and skipped task in debug output  We didn't detect tasks being executed or skipped when debug output was enabled. This made it impossible to debug a test with debug output enabled if it was also expecting tasks to be skipped or executed.  

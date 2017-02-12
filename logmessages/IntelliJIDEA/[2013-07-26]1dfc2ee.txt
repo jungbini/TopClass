@@ -1,0 +1,1 @@
+  fixed PY-10367 Locate Duplicates: do not anonymize literals along with class methods  

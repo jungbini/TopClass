@@ -1,0 +1,1 @@
+  don't dispose injected documents on editor close (will fix IDEA-72228, IDEA-72225)  

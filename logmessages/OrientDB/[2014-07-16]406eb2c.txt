@@ -1,0 +1,1 @@
+  fix issue on rollback for index operation failure on memory storage, avoid test loop on case of failure.  

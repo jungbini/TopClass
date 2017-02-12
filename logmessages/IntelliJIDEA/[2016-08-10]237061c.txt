@@ -1,0 +1,1 @@
+  fixed selection after class level watch remove  

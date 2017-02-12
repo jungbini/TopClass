@@ -1,0 +1,1 @@
+  jabber transport  fixes #SERVER-205  

@@ -1,0 +1,1 @@
+  NotNull instrumenter: correctly generate local variable table for method parameters (fix problem with JDWP error 35 when debugging)  

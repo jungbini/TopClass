@@ -1,0 +1,1 @@
+  Use "Thread" as default suspend policy in debugger tests in order to avoid indeterminacy  

@@ -1,0 +1,1 @@
+  [^maxim] once there were too many errors in a row, no new exceptions would ever be reported; fixed  

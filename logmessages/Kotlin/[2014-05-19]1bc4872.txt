@@ -1,0 +1,1 @@
+  Avoid accessing stubs in JetFileStubBuilder  Probable fix of SOE in file stub building  

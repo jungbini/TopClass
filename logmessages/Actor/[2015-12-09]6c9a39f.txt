@@ -1,0 +1,1 @@
+  fix(server:botkit): process IsAdmin request  

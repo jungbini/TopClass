@@ -1,0 +1,1 @@
+  Remove a couple of duplicate definitions in externs.  (Even though these are vendor-prefixed versions, they are defined alongside the standard visibilityState in html5.js) ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=75733932  

@@ -1,0 +1,1 @@
+  bugfix on equals method && rgb-hsb conversion  

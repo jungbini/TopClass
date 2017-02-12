@@ -1,0 +1,1 @@
+  In case of test failure log all LOG.debugs and LOG.infos since the beginning of the test  

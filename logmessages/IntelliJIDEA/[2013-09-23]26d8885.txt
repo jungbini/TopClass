@@ -1,0 +1,1 @@
+  - handle strings with more than one quote used for start / end delimiters - proper retrieving syntax highlighter in case of non languge based syntaxhighlighter (quite often it is bound to file type) - Find: String literals only: Throwable at StringSearcher.scan() on XML with a string (IDEA-113885) - fix for backward search not ending when whole word option used  

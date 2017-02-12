@@ -1,0 +1,1 @@
+  Bug fix: Create Test dialog does not initialize 'superclass' field.  

@@ -1,0 +1,1 @@
+  fixed issue with slash action when completing custom tag  

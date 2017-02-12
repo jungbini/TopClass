@@ -1,0 +1,1 @@
+  Add classname to ES's "Unsupported type" exception  For #1086 (not a fix, just a related improvement)  This is the titan05 equivalent of 37491a904e67614fbac185f651adbc0e9d405b4b  

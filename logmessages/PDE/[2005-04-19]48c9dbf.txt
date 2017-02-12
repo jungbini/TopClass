@@ -1,0 +1,1 @@
+  tab fixes and hack for text with a z coord  

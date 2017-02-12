@@ -1,0 +1,1 @@
+  YARN-376. Fixes a bug which would prevent the NM knowing about completed containers and applications. Contributed by Jason Lowe.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1451475 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  added fix for null job, forgot to add job when deployed to worker on master  

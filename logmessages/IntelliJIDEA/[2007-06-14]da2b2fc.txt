@@ -1,0 +1,1 @@
+  testNG configuration by element equality fix  

@@ -1,0 +1,1 @@
+  KAFKA-3631; Fix Struct.toString for nullable arrayOf  Author: Grant Henke <granthenke@gmail.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1279 from granthenke/struct-fix  

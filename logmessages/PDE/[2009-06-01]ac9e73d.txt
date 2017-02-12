@@ -1,0 +1,1 @@
+ bug fix release 1.0.4  commit ac9e73db2a5f51af796e2a43e6d8777435f645f5  change apple menu workaround (bug #786), check on commander, etc  

@@ -1,0 +1,1 @@
+  fix PsiFileImpl.switchFromStubToAst too eager assertion  

@@ -1,0 +1,1 @@
+  Javafx: Fixed removing the prefix of the property getter name - remove only "is" and "get" prefixes, don't change property binding methods' names (IDEA-159866)  

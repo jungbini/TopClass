@@ -1,0 +1,1 @@
+  save watches per configuration type - fixed tests  

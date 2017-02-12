@@ -1,0 +1,1 @@
+  Add a test to reproduce a hang and fix it  Summary: Buck seems to hang when running `buck targets //dir/...` where `dir` contains a BUCK file that does not parse. This change adds a test to reproduce the hang and fixes it.  Test Plan: A new test.  Reviewed By: marcinkosiba  fb-gh-sync-id: beb1dfb  

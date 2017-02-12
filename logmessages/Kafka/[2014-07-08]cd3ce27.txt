@@ -1,0 +1,1 @@
+  KAFKA-1515 Fix a bug that could result in blocking for a long period of time in the producer. Patch from Guozhang Wang.  

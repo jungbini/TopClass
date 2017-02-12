@@ -1,0 +1,1 @@
+  Enable default incremental compilation by default in IDEA  #KT-11360 fixed  

@@ -1,0 +1,1 @@
+  Merge -r 749261:749262 from trunk to branch 0.20 to fix HADOOP-4744.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/branches/branch-0.20@749263 13f79535-47bb-0310-9956-ffa450edef68  

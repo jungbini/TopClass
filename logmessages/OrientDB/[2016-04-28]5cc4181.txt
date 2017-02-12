@@ -1,0 +1,1 @@
+  patch for bug of simultaneous update during retry; fixed useless wait after last retry; added debug printing;  

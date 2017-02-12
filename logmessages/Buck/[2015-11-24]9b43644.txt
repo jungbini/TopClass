@@ -1,0 +1,1 @@
+  Don't overwrite the log file mid-way through the test.  Summary: The log file is held open for the duration of the entire test so trimming it mid-way through the run makes debugging the tests unpleasant.  Closes https://github.com/facebook/buck/issues/523  Test Plan: CI  Reviewed By: sdwilsh  fb-gh-sync-id: 522911d  

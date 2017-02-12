@@ -1,0 +1,1 @@
+added the `-m` in the wrong location, causing the gsutil command to fail, e.g. http://ci.bazel.io/view/Bazel%20bootstrap%20and%20maintenance/job/Bazel-Release/87/console  -- MOS_MIGRATED_REVID=140589924  

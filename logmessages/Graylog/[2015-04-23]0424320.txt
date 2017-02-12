@@ -1,0 +1,1 @@
+  add buttons to collapse/expand all messages in the result table  both present in the top navigation as well as the affixed bottom one  one caveat: expanding 100 messages is pretty slow, due to all the rendering going  

@@ -1,0 +1,1 @@
+  [groovy] fix SpockMemberContributor to get name hint from place  

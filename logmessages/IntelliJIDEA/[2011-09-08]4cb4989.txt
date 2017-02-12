@@ -1,0 +1,1 @@
+  titled borders. fixes with colors of line and font size at least 11 points.  

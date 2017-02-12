@@ -1,0 +1,1 @@
+evisions() are sorted properly, while old comparator could return invalid result (ex: for commits with the same timestamp in git)  

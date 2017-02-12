@@ -1,0 +1,1 @@
+  [stargate] Fix infinite recursive loop bug  Submitted-by: Zhentao Huang <zhentao.huang@trendmicro.com.cn> Signed-off-by: Andrew Purtell <apurtell@apache.org>   git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@943999 13f79535-47bb-0310-9956-ffa450edef68  

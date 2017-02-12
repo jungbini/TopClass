@@ -1,0 +1,1 @@
+  HDFS-2147. Move cluster network topology to block management and fix some javac warnings.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1148112 13f79535-47bb-0310-9956-ffa450edef68  

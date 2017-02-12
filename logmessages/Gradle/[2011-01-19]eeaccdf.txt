@@ -1,0 +1,1 @@
+  adapted test to recent fix for GRADLE-1305  

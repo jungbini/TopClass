@@ -1,0 +1,1 @@
+  Fixed issue on binary Java client when run distributed  The hazelcast exceptions werent managed correctly. Furthermore the hosts added to the available nodes contained a bug.  

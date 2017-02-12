@@ -1,0 +1,1 @@
+  fixed PY-4952 Wrong code compatibility inspection for json module  

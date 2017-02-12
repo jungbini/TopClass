@@ -1,0 +1,1 @@
+  IDEA-106488 Separate highlighting of namespace prefix and tag name  

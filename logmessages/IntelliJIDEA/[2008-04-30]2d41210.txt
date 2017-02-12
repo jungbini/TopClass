@@ -1,0 +1,1 @@
+  IDEADEV-20304 implemented (Quickfix to change single-character string to char literal in method call expecting char)  

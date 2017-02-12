@@ -1,0 +1,1 @@
+  - use terminateCommand only for Stop command execution. - additional checks in debugger manager thread to ensure the only one thread at a time using JDI API  

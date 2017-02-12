@@ -1,0 +1,1 @@
+  fix jdbc test. patch by gdusbabek. CASSANDRA-1906   git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1082511 13f79535-47bb-0310-9956-ffa450edef68  

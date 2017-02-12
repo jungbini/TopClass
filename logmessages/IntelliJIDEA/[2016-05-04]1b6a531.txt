@@ -1,0 +1,1 @@
+  ui: fix blinking background on switching between tabs in toolwindow  

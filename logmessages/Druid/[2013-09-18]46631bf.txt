@@ -1,0 +1,1 @@
+  Port fix for issue where IncrementalIndex doesn't properly filter for "null" values from 0.5.x to master  

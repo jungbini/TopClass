@@ -1,0 +1,1 @@
+  Inspection warns and fixes more cases IDEA-106632 (Invalid "StringBuilder can be replaced with String" inspection warning) IDEA-106803 (IDEA does wrong auto-replacement StringBuilder to String)  

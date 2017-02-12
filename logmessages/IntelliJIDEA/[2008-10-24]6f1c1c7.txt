@@ -1,0 +1,1 @@
+  Maven: improved console output Maven: bug in General configurable (IDEADEV-31625) Maven: bug with sources generation (module dependencies was lost)  

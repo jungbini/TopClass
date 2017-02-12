@@ -1,0 +1,1 @@
+  Skylark: documentation is updated. SkylarkFileType.java is moved to the ../lib/rules package. Unused code is removed. Anchor for lists is fixed in the doc.  -- MOS_MIGRATED_REVID=89117189  

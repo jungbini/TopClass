@@ -1,0 +1,1 @@
+  Ninja: add assertions for missing partition keys when loading table  Done to help debug test failures like CASSANDRA-12213  

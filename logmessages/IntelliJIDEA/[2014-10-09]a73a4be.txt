@@ -1,0 +1,1 @@
+  WEB-13695 Cannot use directories when creating some types of files  fix for custom file templates  

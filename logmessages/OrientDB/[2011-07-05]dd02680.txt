@@ -1,0 +1,1 @@
+  Index and remote + tx: fixed bug reported by Curtis in ML  

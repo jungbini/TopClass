@@ -1,0 +1,1 @@
+  [resolve] tweak cgo processing for selector expressions, fix #2078  

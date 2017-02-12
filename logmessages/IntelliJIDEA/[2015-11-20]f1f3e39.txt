@@ -1,0 +1,1 @@
+  don't let context be gc-ed while goto popup is active (fixes one case of ChooseByNameTest blinking)  

@@ -1,0 +1,1 @@
+  fixed remaining/removed semicolon problem (IDEADEV-1557)  

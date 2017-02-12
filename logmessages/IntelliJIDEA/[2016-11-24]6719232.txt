@@ -1,0 +1,1 @@
+  [groovy] fix resolve of Boolean property (IDEA-164452)  

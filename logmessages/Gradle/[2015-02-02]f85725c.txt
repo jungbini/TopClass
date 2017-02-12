@@ -1,0 +1,1 @@
+  Add origin to stacktrace lines  Logback has this nifty feature to display the JAR that the problem came from which can be very useful for debugging: http://logback.qos.ch/manual/layouts.html#xThrowable  

@@ -1,0 +1,1 @@
+  KT-3200 wrong Kotlin signature java.util.concurrent.ThreadFactory java.lang.Thread newThread(java.lang.Runnable)  Added checking for compatibility of IDEA's and Kotlin's JDK annotations.  #KT-3200 fixed  

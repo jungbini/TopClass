@@ -1,0 +1,1 @@
+  HttpArtifactCache: use chunked streaming mode  Summary: By default, the `URLConnection` class buffers the entire contents of the HTTP request in memory so that it can set the `Content-Length` header appropriately.  This 

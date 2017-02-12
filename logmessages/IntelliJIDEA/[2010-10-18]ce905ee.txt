@@ -1,0 +1,1 @@
+  Fixed EA-21459 - NPE: GitHandlerUtil.runInCurrentThread. Check myVcs for null. Also fixed couple of other unchecked places.  

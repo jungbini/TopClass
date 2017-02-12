@@ -1,0 +1,1 @@
+  EditorTextFieldCellRenderer: fix memory leak  Editors used for cell rendering, TableResultPanel itself, and cached values in ObjectFormatter were reachable because of event listeners added by com.intellij.util.ui.ButtonlessScrollBarUI  

@@ -1,0 +1,1 @@
+  Fix bug in node name class where location was set as the name  Signed-off-by: Chris Jackson <chris@cd-jackson.com>  

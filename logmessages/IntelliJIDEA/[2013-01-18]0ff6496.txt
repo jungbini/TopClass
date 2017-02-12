@@ -1,0 +1,1 @@
+  fixed PY-8511 "Fill paragraph" action should be available in the main menu  

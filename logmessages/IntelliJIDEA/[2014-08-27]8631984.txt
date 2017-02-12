@@ -1,0 +1,1 @@
+  fixed PY-13024 Provide unified capitalization of tooltips and proper number.  

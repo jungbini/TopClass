@@ -1,0 +1,1 @@
+  InvalidComparatorMethodReferenceInspection: fixes according to IDEA-CR-13278  

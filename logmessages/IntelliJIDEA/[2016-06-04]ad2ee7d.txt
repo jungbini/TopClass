@@ -1,0 +1,1 @@
+  [debugger] get rid of unused isPollConnection() method  

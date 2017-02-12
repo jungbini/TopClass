@@ -1,0 +1,1 @@
+  Bazel shell scripts: fix links in licence comments.  I suspect they were overwritten by an eager sed "s,//,#,g" command.  -- MOS_MIGRATED_REVID=131159373  

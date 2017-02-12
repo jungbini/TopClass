@@ -1,0 +1,1 @@
+ fix topology.metrics.consumer.register validation: Map, not String The topology.metrics.consumer.register is a list of hashes, but its schema was StringsValidator. Added a 'MapsValidator' (list of Map) and fixed the schema.  

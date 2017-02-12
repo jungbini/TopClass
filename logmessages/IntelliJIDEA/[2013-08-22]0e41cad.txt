@@ -1,0 +1,1 @@
+  IDEA-94942 Simple property client to fix SvnMergeProvider.isBinary implementation  

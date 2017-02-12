@@ -1,0 +1,1 @@
+  fix app name on OS X, update JVM requirement, misc todo items  

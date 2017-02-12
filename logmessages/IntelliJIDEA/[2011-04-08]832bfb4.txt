@@ -1,0 +1,1 @@
+  EA-26361 assert: PostprocessReformattingAspect.doPostponedFormatting  Debug info is added  

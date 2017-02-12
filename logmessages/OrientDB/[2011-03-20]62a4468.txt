@@ -1,0 +1,1 @@
+  Fixed bug on schema-less documents when are unserialized: now the type is kept.  

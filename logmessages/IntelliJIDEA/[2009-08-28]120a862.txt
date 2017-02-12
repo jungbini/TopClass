@@ -1,0 +1,1 @@
+  alt-f1 fixes, take1: extracted method for selection; getActivation() is used instead of explicit call for building toolwindow content  

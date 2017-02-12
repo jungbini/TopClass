@@ -1,0 +1,1 @@
+  Hibernate mapping model fixes IDEADEV-15788, IDEADEV-15789  

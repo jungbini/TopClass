@@ -1,0 +1,1 @@
+  Changed performance test fixtures so they can run against multiple previous Gradle versions. Run the 'clean build' performance test case against 1.0-m3, 1.0, 1.1 and 1.2 (for now).  

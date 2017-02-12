@@ -1,0 +1,1 @@
+it' button  The GitCheckinEnvironment remembers the previous value, because it is invoked via the executor, not from the standard commit section. This is a hotfix. Will be reworked within IDEA-84825  

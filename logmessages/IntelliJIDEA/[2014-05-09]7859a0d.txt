@@ -1,0 +1,1 @@
+  IDEA-124960 DevKit: "register extension" fix for EP defined in custom plugin  

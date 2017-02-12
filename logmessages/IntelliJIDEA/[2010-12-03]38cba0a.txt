@@ -1,0 +1,1 @@
+  fix incorrect isEnabled() check, cleanup [r=yole, romeo]  

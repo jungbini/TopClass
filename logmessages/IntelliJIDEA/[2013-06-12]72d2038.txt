@@ -1,0 +1,1 @@
+  XML tag name completion rewritten to use CompletionContributor; JSP directive completion changed from CompletionData to CompletionContributor and fixed to work correctly with new tag name completion  

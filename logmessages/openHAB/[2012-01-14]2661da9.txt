@@ -1,0 +1,1 @@
+  Fixed homepage name bug (first issue mentioned in https://groups.google.com/forum/?hl=en#!topic/openhab/UQl3fvIiaWA)  

@@ -1,0 +1,1 @@
+  fixed PY-3501 "Add global statement" quickfix for "Local variable might be referenced before asignement" puts "global" statement before class methods docstring  

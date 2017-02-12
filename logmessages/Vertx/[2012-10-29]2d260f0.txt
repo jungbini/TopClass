@@ -1,0 +1,1 @@
+  fixed test issues in windows. Timing and files not being closed. It's an issue in windows because of the 

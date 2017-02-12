@@ -1,0 +1,1 @@
+  Added 'incompatible modifiers' error; 'remove redundant modifier' fix  

@@ -1,0 +1,1 @@
+  Fix autocompletion when function name is missing (fixes #530)  

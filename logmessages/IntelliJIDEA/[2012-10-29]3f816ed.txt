@@ -1,0 +1,1 @@
+  Bug fix: register compiler before tast in postStartupActivity  

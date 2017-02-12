@@ -1,0 +1,1 @@
+  smart step into an anonymous class while debugging decompiled code  

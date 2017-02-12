@@ -1,0 +1,1 @@
+  add slf4j library to groovy_rt to fix compilation  

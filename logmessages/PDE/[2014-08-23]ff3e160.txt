@@ -1,0 +1,1 @@
+ Merge pull request #2816 from omerjerk/bugfix-editor  bugfix- save file prompt while creating a new tab linux  commit ff3e1605eef034757dfad80caf73d35e29f36fd8  bugfix- save file prompt while creating a new tab linux  Signed-off-by: Umair <omerjerk@gmail.com>  

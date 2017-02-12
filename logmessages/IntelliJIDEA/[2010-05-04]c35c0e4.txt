@@ -1,0 +1,1 @@
+  Another fix for EA-19269: XML/HTML comment is split into subblocks if there is an adjacent PHP code  

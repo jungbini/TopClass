@@ -1,0 +1,1 @@
+  fixed property quickFixcreation in Unresolved Reference Inspection  

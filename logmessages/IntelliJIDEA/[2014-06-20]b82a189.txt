@@ -1,0 +1,1 @@
+  IDEA-126132 Detail window in debugger/watches has backgound color that obscures displayed text.  Cannot be changed in preferences??  

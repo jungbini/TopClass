@@ -1,0 +1,1 @@
+  YARN-5124. Modify AMRMClient to set the ExecutionType in the ResourceRequest. Addendum to fix compilation. (Arun Suresh via kasha)  

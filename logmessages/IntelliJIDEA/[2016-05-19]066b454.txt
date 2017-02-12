@@ -1,0 +1,1 @@
+  fix: IDEA-154111 Create Test dialog: for not found Arquillian library the suggested Fix is incorrect  

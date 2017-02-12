@@ -1,0 +1,1 @@
+  fixed missing ridbag tree remove in case of transactions.  

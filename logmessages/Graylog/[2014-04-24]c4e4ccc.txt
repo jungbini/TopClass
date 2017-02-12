@@ -1,0 +1,1 @@
+  add chunked transfer encoding for CSV export of search results  requests for text/csv now use proper chunked transfer encoding and scroll searches to avoid buffering large amounts of data in the heap  also fixes ArrayOutOfBoundsExceptions during export  fixes #330 fixes Graylog2/graylog2-web-interface#757  

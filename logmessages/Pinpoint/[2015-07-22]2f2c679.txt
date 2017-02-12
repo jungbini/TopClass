@@ -1,0 +1,1 @@
+ bug fix. When click other transaction hide log popup  

@@ -1,0 +1,1 @@
+  fixed formatting re bullets preceded by html <a> tag  

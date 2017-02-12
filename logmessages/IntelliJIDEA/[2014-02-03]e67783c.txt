@@ -1,0 +1,1 @@
+  'properties' plugin layout should respect 'pluginFilter' (fixes failed WebStorm builds)  

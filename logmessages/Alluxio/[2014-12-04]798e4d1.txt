@@ -1,0 +1,1 @@
+  Move String constants from TachyonConf to Constants class. Some fixes to move CommonConf and MasterConf to use TachyonConf for secure HDFS.  

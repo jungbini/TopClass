@@ -1,0 +1,1 @@
+ javafx: import statement references (IDEA-100015); rename fixed (IDEA-100009)  

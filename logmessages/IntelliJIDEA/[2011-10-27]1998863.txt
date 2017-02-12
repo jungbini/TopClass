@@ -1,0 +1,1 @@
+  fixed PY-4796 Mako: provide completion for attributes of default mako template tags  

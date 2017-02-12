@@ -1,0 +1,1 @@
+  IDEA-160719 Debugger: "Reload Changed Classes" dialog - missing option to kill the process  

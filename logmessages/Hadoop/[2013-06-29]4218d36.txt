@@ -1,0 +1,1 @@
+ Merge -r 1497961:1497963 from branch-1 to branch-1.2 to fix MAPREDUCE-5351. Fixed a memory leak in JobTracker due to stable FS objects in FSCache. Contributed by Sandy Ryza.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.2@1497964 13f79535-47bb-0310-9956-ffa450edef68  

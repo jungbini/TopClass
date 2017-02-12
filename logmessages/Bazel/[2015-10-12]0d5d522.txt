@@ -1,0 +1,1 @@
+  Make the bootstrapping process work again after moving tools to the @bazel_tools repository.  The fix is to always compile tools when the Bazel binary is compiled and add the bootstrap arguments to bootstrap_test. This stil litters the git client with output files in random places, which is a bit 

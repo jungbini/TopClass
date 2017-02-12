@@ -1,0 +1,1 @@
+  fixed problem of starting on mac 10.8.5+with no java installed  

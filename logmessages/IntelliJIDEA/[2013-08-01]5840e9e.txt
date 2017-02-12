@@ -1,0 +1,1 @@
+  fixed PY-10444 Chameleon: autocomplete closing curly bracket for ${...} operator  

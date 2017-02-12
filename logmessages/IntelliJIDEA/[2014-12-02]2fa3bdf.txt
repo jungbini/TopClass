@@ -1,0 +1,1 @@
+  testdata fixed (too wide fonts on linux splitted components into multi rows!)  

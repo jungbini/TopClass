@@ -1,0 +1,1 @@
+  moved "suggestToEnableInstalledPlugins" from InstallPluginAction and PluginsAdvertiserDialog to PluginManagerMain #IDEA-150127 fixed  

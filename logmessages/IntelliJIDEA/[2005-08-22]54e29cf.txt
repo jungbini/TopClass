@@ -1,0 +1,1 @@
+  For debugger expression evaluation in jsp files use context element from Java tree, not JSP tree  

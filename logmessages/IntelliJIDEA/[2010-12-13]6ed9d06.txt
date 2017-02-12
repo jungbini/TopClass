@@ -1,0 +1,1 @@
+  fixed (PY-2447) Quickfix: Create function for reference: function in if clause on module level is created in that if clause  

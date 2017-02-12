@@ -1,0 +1,1 @@
+  setlocal and fixes for stress and sstablemetadata bat files patch by Holger Hoffstatte and jbellis for CASSANDRA-4344  

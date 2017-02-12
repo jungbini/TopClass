@@ -1,0 +1,1 @@
+  [vcs] Inline unreg-roots: if valid root is removed add it to unregs  + fix the comparator to make sure the separator is above unregistered roots  IDEA-111168, IDEA-84497  

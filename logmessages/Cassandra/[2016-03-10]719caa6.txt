@@ -1,0 +1,1 @@
+  Hinted Handoff metrics fix  Patch by akale; reviewed by jkni for CASSANDRA-11168  

@@ -1,0 +1,1 @@
+  [bug 6889954] introduce basic kryo serialization for string. It does utf8 by default. more efficient,also spacewise than the current serialization. Enable turning it on by a configuration variable to allow for default 0.4.x serialization for b/w compat  

@@ -1,0 +1,1 @@
+ fixed PY-6410 Adding/Pasting text at the end of a class method causes the next class method to be moved outside the class  

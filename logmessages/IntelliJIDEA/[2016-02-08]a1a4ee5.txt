@@ -1,0 +1,1 @@
+  Update JediTerm to the new version  Fixes a few long running issues: - handling of key modifiers (IDEA-113214) - double width character (IDEA-143004) - fix of input method processing (IDEA-128332)  

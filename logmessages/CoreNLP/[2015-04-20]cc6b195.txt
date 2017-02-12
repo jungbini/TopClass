@@ -1,0 +1,1 @@
+  fixed junk I added to READMEs when building trial versions  

@@ -1,0 +1,1 @@
+ #49 fix Spelling Errors -> pinpiont,  add *.iml to .gitignore, fix pinpiont-profiler-optional.jar deploy dir  

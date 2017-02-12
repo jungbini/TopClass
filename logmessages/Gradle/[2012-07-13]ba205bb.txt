@@ -1,0 +1,1 @@
+  migration model fix  - build archive model in the correct way - use external build script and sources for integration spec  

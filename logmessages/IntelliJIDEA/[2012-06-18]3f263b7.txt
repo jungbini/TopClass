@@ -1,0 +1,1 @@
+  kill highlights on the fly: fix nested psi element ranges case  

@@ -1,0 +1,1 @@
+  hibernate types fix IDEADEV-25090  

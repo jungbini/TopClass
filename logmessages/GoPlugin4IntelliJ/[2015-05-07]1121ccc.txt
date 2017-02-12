@@ -1,0 +1,1 @@
+  better processing for function types, fix #1607  

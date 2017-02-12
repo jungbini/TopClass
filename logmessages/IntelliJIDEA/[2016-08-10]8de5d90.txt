@@ -1,0 +1,1 @@
+  fix the IDEA-CR-12595 the other way: add LOCAL_ANALYSIS to myJobDescriptors for simple global inspections because they will call inspectFile() which uses LOCAL_ANALYSIS  

@@ -1,0 +1,1 @@
+  Allow Message.RESERVED_SETTABLE_FIELDS fields set by a GELF message.  Remove IllegalStateException if gl2_source_input or gl2_source_radio_input are already set but log a message on debug. This fixes a problem when receiving GELF messages which already have those fields. (i.e. forwarded GELF messages from another server)  Fixes Graylog2/graylog2-web-interface#1334  

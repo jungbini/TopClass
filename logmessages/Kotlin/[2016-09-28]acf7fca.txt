@@ -1,0 +1,1 @@
+  JS: prohibit is checks against native interfaces. Warn about casts to native interfaces. Fix #KT-14037, fix #KT-14038  

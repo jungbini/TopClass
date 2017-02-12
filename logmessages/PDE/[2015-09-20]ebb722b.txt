@@ -1,0 +1,1 @@
+  show hover text when the mouse is over the 'debug' button  

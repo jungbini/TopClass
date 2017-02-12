@@ -1,0 +1,1 @@
+  Add create_entity method in XML::Document. This fix is tricky since Entity can't be created from Document. This fix passes tests but would cause DTD validation failure.  

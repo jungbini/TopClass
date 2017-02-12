@@ -1,0 +1,1 @@
+  fixed PY-3723 Missing docstring: do not highlight all docstring when some parameters is missing  

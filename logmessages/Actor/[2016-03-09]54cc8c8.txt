@@ -1,0 +1,1 @@
+  fix(iOS): Fixing authentication screens on iPhone 6  

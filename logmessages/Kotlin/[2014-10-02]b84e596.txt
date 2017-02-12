@@ -1,0 +1,1 @@
+  JS backend: fix get mangling name for generic methods with multiply upper bounds  

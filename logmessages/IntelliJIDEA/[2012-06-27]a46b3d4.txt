@@ -1,0 +1,1 @@
+  fixed EA-36853 - NPE: PyTransformConditionalExpressionIntention.invoke  

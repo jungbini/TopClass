@@ -1,0 +1,1 @@
+  add fix-sporadically-failing-tests.patch (closes #661690) + DEP-3 headers for others  

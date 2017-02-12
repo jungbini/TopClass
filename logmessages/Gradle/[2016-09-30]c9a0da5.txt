@@ -1,0 +1,1 @@
+  Fix StreamByteBuffer.readAsString bug with multi-byte unicode characters  - multi-byte characters at buffer chunk boundary were left unread and this caused the resulting String to be invalid  +review REVIEW-6266  

@@ -1,0 +1,1 @@
+  bug fixed JSONReader big string value, for issue 448. https://github.com/alibaba/fastjson/issues/448  

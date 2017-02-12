@@ -1,0 +1,1 @@
+  Build fix: forgotten inspection descriptions was added for new inspections  

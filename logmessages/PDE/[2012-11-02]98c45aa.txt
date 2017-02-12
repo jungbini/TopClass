@@ -1,0 +1,1 @@
+  fix how icons are found when a package is used (issue #1346)  

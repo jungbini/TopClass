@@ -1,0 +1,1 @@
+  REVIEW-1161 Removed the output scrapping project evaluation fixture. Changed the tooling api test so that it does not need it any more. When we implement more tooling api stories for configuration on demand we might tweak the existing ProjectLifecycleFixtere (or create new) so that it deals with tooling api.  

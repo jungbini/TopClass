@@ -1,0 +1,1 @@
+  Fix bug in thermostat classes with GET requests not waiting for response.  

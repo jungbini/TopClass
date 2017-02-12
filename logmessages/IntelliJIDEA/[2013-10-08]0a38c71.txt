@@ -1,0 +1,1 @@
+  fixed PY-10964 Extract variable doesn't work as expected inside brackets fixed PY-10221 Refactor->Extract->Variable may break square bracket symmetry and may break user input  there are overlapped reference in python for slice expression (P['x']) one for the reference itself, one for the operator [  

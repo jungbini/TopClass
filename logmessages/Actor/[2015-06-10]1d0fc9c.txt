@@ -1,0 +1,1 @@
+  android(fix) avatar not updating if reused holder have no image  

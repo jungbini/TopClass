@@ -1,0 +1,1 @@
+  don't show auto-import fix if we're trying to reference a variable which is defined below in the same scope (PY-5667)  

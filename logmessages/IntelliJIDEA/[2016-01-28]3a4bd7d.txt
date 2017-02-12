@@ -1,0 +1,1 @@
+  [vcs-log] fix javadoc: was changed -> has changed  

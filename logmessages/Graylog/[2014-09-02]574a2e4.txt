@@ -1,0 +1,1 @@
+  Increase default output_batch_size to 1000, fixes #705  

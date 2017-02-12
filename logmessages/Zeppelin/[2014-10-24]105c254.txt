@@ -1,0 +1,1 @@
+ Merge pull request #174 from NFLabs/fix_exception_row_contains_null  Fix broken unittest.  commit 6d34c8c3d93135e5213d5887d510e92c11f2bd2b  Merge pull request #166 from jburet/master  fix exception if row contains null value  commit 105c254dbae6b520111ada388939b32076e4d09e  Fix bug that take wrong default interpreter  

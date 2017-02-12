@@ -1,0 +1,1 @@
+  fix(web): fix avatar styles and rename some methods;  

@@ -1,0 +1,1 @@
+  SSR: fix field javadoc matching (part of IDEA-126909)  

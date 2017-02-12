@@ -1,0 +1,1 @@
+  [java] fixes JRT indexing; adds support for b193+ layout (IDEA-151222)  

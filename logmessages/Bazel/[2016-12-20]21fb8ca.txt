@@ -1,0 +1,1 @@
+  Reactivate bazel_coverage_test  This test was deactivated due to #2227 but the recent fix in our coverage tooling actually fixed the test to.  Fixes #2227.  -- Change-Id: I3e0e979c57cd198252cbe14369971027630bac66 Reviewed-on: https://cr.bazel.build/8038 PiperOrigin-RevId: 142564037 MOS_MIGRATED_REVID=142564037  

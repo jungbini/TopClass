@@ -1,0 +1,1 @@
+  package prefixes & JavaClassReferences live together in exquisite harmony  

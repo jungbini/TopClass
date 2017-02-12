@@ -1,0 +1,1 @@
+  fixed traking collections and embedded map in embedded collection deserialiation . issue #681  

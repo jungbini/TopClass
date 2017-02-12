@@ -1,0 +1,1 @@
+  Don't report unknown types on getprops in synthetic files (such as es6_runtime.js)  This is temporary, to unblock some typechecking fixes. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=115066830  

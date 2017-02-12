@@ -1,0 +1,1 @@
+ Merge pull request #969 from metamx/fixRemoteLogViewing  Remove try-with-resources for log stream in WokerResource  commit e8729523902ffbebacd502bd4ea73099d6224f16  fix working path default bug  

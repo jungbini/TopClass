@@ -1,0 +1,1 @@
+  fixed idempotent flag for async query, issue #6946  

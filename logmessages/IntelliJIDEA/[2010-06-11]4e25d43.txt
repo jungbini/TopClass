@@ -1,0 +1,1 @@
+  -added isinstance type inderence(PY-1075) -added correct completion to django model fields(PY-1076) -fixed bugs in django fixture test cases  

@@ -1,0 +1,1 @@
+  fix gzip compression  - fixes compression not working for POST requests - router now forwards raw bytes instead of decompressing - cleanded up router servlet initialization - add test for gzip on get and post methods - use Jersey annotation when possible in QueryResource  

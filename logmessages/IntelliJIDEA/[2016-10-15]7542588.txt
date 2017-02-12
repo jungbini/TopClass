@@ -1,0 +1,1 @@
+  javac ast indices: when java file contains >1 top declaration classes only one was processed -- fixed  

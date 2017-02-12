@@ -1,0 +1,1 @@
+  continue js repl: left gutter  show prompt, align right gutter  right-aligned text, max 100 (trim middle) line separator  buggy and ugly yet  

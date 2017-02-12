@@ -1,0 +1,1 @@
+  fix GroovyCompilerTest: order chunk rebuild when stub generation failed (with NCDFE)  

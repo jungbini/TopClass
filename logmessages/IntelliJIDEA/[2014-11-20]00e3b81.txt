@@ -1,0 +1,1 @@
+  simplify component store save  prepare to fix IDEA-132813 Eclipse integration: format of .iml linked to .classpath is changed unreasonably  

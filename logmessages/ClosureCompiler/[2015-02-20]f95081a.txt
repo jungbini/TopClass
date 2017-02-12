@@ -1,0 +1,1 @@
+  Fix bug in ES6 module processing where default exports cannot be referenced by their name within the same file. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=86797868  

@@ -1,0 +1,1 @@
+  fix properties and VM options path for NSIS installer  

@@ -1,0 +1,1 @@
+  [git] fix change provider tests: operate on io.Files for setup + more  

@@ -1,0 +1,1 @@
+  fix declaration range handler registration for Python (PY-4010)  

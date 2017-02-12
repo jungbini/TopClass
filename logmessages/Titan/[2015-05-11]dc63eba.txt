@@ -1,0 +1,1 @@
+  Titan does not allow VertexProperties to be updated. However, @mbroecheler -- vertex properties properties need to be fixed. Right now Titan throws a Readonly transaction exception. Needs to throw a GraphComuter.Exceptions.vertexPropertiesCanNotBeUpdatedinMapReduce().  

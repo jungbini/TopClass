@@ -1,0 +1,1 @@
+  adding java startup parameters for headless appearance of the daemon on mac, prepared a function for resetting alive flag in kotlin plugin startup component as a temporary solution to stop daemon from idea, fixing code that disable incremental compilation, that was broken on the last modification of KotlinBuildProcessParametersProvider  

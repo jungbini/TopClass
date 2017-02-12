@@ -1,0 +1,1 @@
+  Set the release date for 2.6.5 and moved the CHANGES.txt fixes from branch-2.6.5.  

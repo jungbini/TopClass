@@ -1,0 +1,1 @@
+ IDEA-77512 fix R.java generating in background/compilation conflicts [rev=rustam.vishnyakov](cherry picked from commit 1cb1f17)  

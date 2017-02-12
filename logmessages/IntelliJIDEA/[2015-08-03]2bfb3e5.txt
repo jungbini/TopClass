@@ -1,0 +1,1 @@
+  proper fix: make PropertyUtil.find* methods not quadratic instead  

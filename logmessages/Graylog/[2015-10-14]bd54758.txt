@@ -1,0 +1,1 @@
+  Add generated index.html and NPM debug log to .gitignore  

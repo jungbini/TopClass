@@ -1,0 +1,1 @@
+  IDEA-58766  Recognize dot as completion prefix part for chained call suggestions  

@@ -1,0 +1,1 @@
+  IDEA-151521 vcs: fix annotations caching on empty file  * remove wrong assertion  

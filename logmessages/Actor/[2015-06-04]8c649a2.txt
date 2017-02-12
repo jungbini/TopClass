@@ -1,0 +1,1 @@
+  fix(groups): don't auto-join user on group creation  

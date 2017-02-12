@@ -1,0 +1,1 @@
+  [revert] Platform: race condition in global inspections fixed  

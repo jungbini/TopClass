@@ -1,0 +1,1 @@
+  Merge -c 1492962 from trunk to branch-2.1-beta to fix MAPREDUCE-5319. Set user.name in job.xml. Contributed by Xuan Gong.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1492964 13f79535-47bb-0310-9956-ffa450edef68  

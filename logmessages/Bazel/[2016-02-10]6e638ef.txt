@@ -1,0 +1,1 @@
+  Fix bug in TargetPatternList.equals, which was ignoring the offset.  -- MOS_MIGRATED_REVID=114326701  

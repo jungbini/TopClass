@@ -1,0 +1,1 @@
+  GRADLE-2455: Add workaround for parallel integTests. Real fix tbd.  

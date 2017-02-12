@@ -1,0 +1,1 @@
+  Quick fix for adding arrayOf wrapper for annotation parameters #KT-10063 Fixed  

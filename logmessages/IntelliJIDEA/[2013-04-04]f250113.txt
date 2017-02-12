@@ -1,0 +1,1 @@
+  fix project leak in project view tests  

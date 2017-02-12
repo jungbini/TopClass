@@ -1,0 +1,1 @@
+  IDEADEV-38415: Cannot edit watch in Flex debugger.  

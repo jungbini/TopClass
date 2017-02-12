@@ -1,0 +1,1 @@
+  AMQP IO error reconnect and activity messages  fixes #SERVER-191  

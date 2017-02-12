@@ -1,0 +1,1 @@
+  inspection toolwindow: do not track modification because fix doesn't mean modification + do not forget already ignored elements IDEA-156376  

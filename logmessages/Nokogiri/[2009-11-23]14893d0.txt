@@ -1,0 +1,1 @@
+  fixing FFI test branching for Rubinius (more generally, platforms that require FFI by default)  

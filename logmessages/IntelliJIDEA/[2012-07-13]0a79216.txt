@@ -1,0 +1,1 @@
+  IDEA-88450 Prefix matches should be first in goto popups  

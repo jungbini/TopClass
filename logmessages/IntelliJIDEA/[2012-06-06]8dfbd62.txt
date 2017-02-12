@@ -1,0 +1,1 @@
+  IDEA-86921 "Generate constructor" action doesn't add import for inherited parameter annotation fixed  

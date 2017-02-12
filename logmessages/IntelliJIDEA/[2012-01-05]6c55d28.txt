@@ -1,0 +1,1 @@
+  really fix IDEA-16964 (Show Diff Compare Next/Previous File order 

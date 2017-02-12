@@ -1,0 +1,1 @@
+  fix(android): replace DrawableCompat.tint() with color filter  

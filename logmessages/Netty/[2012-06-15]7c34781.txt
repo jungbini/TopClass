@@ -1,0 +1,1 @@
+ Proposal to fix issue #398 by replacing FileChannel.transferTo by manual loop to prevent usage of mmap unde the wood by the JVM, while the optimization will be less efficient.  

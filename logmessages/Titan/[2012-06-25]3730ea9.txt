@@ -1,0 +1,1 @@
+  fix for #26, updated to run uname without arguments since MacOS's uname does not support the -o option.  

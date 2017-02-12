@@ -1,0 +1,1 @@
+  fixed PY-7657 Specify type in docstring: AE at com.jetbrains.python.codeInsight.intentions.SpecifyTypeInDocstringIntention.invoke  

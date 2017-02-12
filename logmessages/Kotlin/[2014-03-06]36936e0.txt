@@ -1,0 +1,1 @@
+  Minor fix in tests for sources appearing in libraries  

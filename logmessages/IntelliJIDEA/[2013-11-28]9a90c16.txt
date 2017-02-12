@@ -1,0 +1,1 @@
+  IDEA-116866 (path overriding for plugins/log dirs fixed once again)  

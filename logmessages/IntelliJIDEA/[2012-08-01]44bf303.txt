@@ -1,0 +1,1 @@
+  fixed PY-7090 Insert type assertion: do not propose under if isinstance fixed  PY-7092 Insert type assertion: disable intention after already existing type assertion  

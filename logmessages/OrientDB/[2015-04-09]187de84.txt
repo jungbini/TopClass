@@ -1,0 +1,1 @@
+  Distributed: fixed problem with checking for upgrade for backward compatibility.  

@@ -1,0 +1,1 @@
+  Bug Fix: KT-4613  Fix replace with infix function intention to be inapplicable in the case of package function calls, such as kotlin.io.println().  

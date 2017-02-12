@@ -1,0 +1,1 @@
+  fix(android): landscape emoji keyboard not showing  

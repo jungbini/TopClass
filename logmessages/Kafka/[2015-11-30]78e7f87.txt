@@ -1,0 +1,1 @@
+  MINOR: fix verifiable consumer assertion  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Guozhang Wang  Closes #597 from hachikuji/fix-verifiable-consumer-assertion  

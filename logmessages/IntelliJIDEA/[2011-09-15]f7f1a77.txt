@@ -1,0 +1,1 @@
+  Bug fix: Balloon 'Grails library isn't configured' shown every sturtup if indexes are corrupted.  

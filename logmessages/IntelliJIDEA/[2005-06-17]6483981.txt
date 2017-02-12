@@ -1,0 +1,1 @@
+  fixed restoring folding state for tags in jsp file  

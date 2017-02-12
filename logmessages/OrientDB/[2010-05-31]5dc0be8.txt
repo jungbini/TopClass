@@ -1,0 +1,1 @@
+  FixFixed bug on hashCode() and equals() reported by damme.buddies@gmail.com. The problem was on the check of the identity. Different properties with the same name caused a missed serialization to the stream.  

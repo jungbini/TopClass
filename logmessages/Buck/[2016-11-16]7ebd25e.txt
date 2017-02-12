@@ -1,0 +1,1 @@
+  ideabuck: tests debugging  Summary: In this patch ideabuck decides to attach debugger every time it see `Debugging. Suspending JVM. Connect a JDWP debugger to port (\d+) to proceed.` line from `buck test`  command Also removed `NopProcessHandler` Closes https://github.com/facebook/buck/pull/1013  Reviewed By: styurin  fbshipit-source-id: df30d18  

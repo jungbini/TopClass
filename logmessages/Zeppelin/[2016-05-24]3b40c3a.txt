@@ -1,0 +1,1 @@
+ce c592422 [CloverHearts] add space in navbar.controller.js 433139a [CloverHearts] removed event locationChangeSuccess on pr ( does not working search bar) bac1254 [CloverHearts] removed console.log (pr does not working search box) 4d06560 [CloverHearts] Hotfix -  dose not working search box on navbar.  

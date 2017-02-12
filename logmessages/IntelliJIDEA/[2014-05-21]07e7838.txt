@@ -1,0 +1,1 @@
+  IDEA-125289 Unexpected navigation after folding After-review fix  

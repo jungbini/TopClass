@@ -1,0 +1,1 @@
+  Add Metrics counters on locking operations  Metrics counters added for calls to and exceptions in the write, check, and delete lock methods of AbstractLocker.  ConsistentKeyLocker extends AbstractLocker.  A transaction-specific metrics name prefix is honored when set.  

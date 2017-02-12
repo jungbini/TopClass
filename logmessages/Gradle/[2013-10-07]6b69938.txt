@@ -1,0 +1,1 @@
+  REVIEW-3319: mention new buildtypes in userguide; fix renaming issue (was still build-setup-plugin.html)  

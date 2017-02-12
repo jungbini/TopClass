@@ -1,0 +1,1 @@
+ Merge pull request #939 from unreg/wallpaper-issue  fix(android): Wallpaper issue  commit cfdc31722250887df9ce2a69b06cf3c54626fef1  fix anchor date  

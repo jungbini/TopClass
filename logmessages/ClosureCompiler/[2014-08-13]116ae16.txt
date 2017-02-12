@@ -1,0 +1,1 @@
+  Fix a bug in the type transformation parser which was adding one to the Integer.MAX_VALUE ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=73230413  

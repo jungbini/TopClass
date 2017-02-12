@@ -1,0 +1,1 @@
+  Bug fix: replace addListener() with removeListener() inside ToolWindowManagerImpl.removeToolWindowManagerListener() +review CR-IC  

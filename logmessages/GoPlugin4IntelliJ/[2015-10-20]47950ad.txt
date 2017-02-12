@@ -1,0 +1,1 @@
+  import/var name clash: fix #1916 and fix #1934  

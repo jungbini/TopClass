@@ -1,0 +1,1 @@
+  HADOOP-11821. Fix findbugs warnings in hadoop-sls. Contributed by Brahma Reddy Battula.  

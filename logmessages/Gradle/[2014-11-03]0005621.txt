@@ -1,0 +1,1 @@
+  caching classloaders integ test - fixes  Changed the code so that for the non-daemon executions we're not forking an extra process. Otherwise the execution of the entire performance suite is very slow.  

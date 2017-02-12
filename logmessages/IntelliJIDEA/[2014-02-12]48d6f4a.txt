@@ -1,0 +1,1 @@
+  use both original and custom selectors to search for latest config to import #WEB-10964 fixed  

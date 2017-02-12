@@ -1,0 +1,1 @@
+  avoid trying to load already deleted streams in message detail views. fixes #553  

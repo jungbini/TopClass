@@ -1,0 +1,1 @@
+  fix editor border for retina (IDEA-131263)  

@@ -1,0 +1,1 @@
+  Fixed IPython and debug console broken by console execution model changes.  

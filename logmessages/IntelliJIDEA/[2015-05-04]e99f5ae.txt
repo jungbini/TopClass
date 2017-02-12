@@ -1,0 +1,1 @@
+  temporary restored API method to fix compatibility with Kotlin plugin  

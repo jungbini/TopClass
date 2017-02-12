@@ -1,0 +1,1 @@
+  fix problem: plugins using forms could not use resource bundles for them  

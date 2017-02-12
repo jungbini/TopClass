@@ -1,0 +1,1 @@
+  fixed loading JPS extensions from plugins inside IDE process; JPS modules extracted to separate jar to get rid of idea.jar in classpath of external build process  

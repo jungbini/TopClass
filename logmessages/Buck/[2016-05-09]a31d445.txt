@@ -1,0 +1,1 @@
+  Detect Java 9 in buck_tool.py  Summary: Currently, Buck can't run with Java 9 because `-XX:MaxPermSize=256m` is being passed to the JVM. Changed `is_java8()` to `is_java8_or_9()` in `buck_tool.py` to fix this. Closes https://github.com/facebook/buck/pull/738  Reviewed By: Coneko  fbshipit-source-id: 8fde07e  

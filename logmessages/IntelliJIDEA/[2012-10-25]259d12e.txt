@@ -1,0 +1,1 @@
+  GitStandardRemoteBranch: strip refs/heads prefix for the name of the branch at the remote.  

@@ -1,0 +1,1 @@
+  Show absolute manifest file name when logging errors  Summary: `ManifestMerger` logs errors with a name of the manifest file and it's 

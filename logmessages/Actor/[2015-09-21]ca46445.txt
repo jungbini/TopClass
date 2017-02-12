@@ -1,0 +1,1 @@
+  feat(core+ios): Phone call activation feat(iOS): Configuration of support, emails and home page in app.json fix(core): Passing RPC Exceptions on name/nick changes imp(core): Refactoring of current sessions screen, adding confirmations  

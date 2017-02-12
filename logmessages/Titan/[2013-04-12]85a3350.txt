@@ -1,0 +1,1 @@
+  fixed a configuration bug in FaunusCompiler and added png and pdfs of Faunus seated.  

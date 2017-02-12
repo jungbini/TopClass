@@ -1,0 +1,1 @@
+  backspace in lookup shouldn't undo common prefix  

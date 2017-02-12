@@ -1,0 +1,1 @@
+  RemoveExplicitTypeArguments fixed: platform types approximated before comparison  

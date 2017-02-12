@@ -1,0 +1,1 @@
+  git4idea: IDEADEV-40639: fixed typo  

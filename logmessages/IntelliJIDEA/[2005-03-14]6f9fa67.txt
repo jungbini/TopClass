@@ -1,0 +1,1 @@
+  http://www.jetbrains.net/jira/browse/IDEADEV-596 http://www.jetbrains.net/jira/browse/IDEADEV-577 http://www.jetbrains.net/jira/browse/IDEADEV-573 fixed  

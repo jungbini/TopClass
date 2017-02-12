@@ -1,0 +1,1 @@
+  fix KT-9553 Invalid const initializers must be compile-time errors  #KT-9553 Fixed  

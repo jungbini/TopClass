@@ -1,0 +1,1 @@
+  support multiple script content providers in one file #WEB-10221 fixed  

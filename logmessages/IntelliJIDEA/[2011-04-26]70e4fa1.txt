@@ -1,0 +1,1 @@
+  item hashCode bugs shouldn't fail completion (EA-27188)  

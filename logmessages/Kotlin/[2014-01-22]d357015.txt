@@ -1,0 +1,1 @@
+  Fixed mapping generic type with multiple bounds from Java to Kotlin.  #KT-3480 fixed  

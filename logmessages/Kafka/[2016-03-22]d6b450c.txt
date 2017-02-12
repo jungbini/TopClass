@@ -1,0 +1,1 @@
+  KAFKA-3435: Follow up to fix checkstyle  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Gwen Shapira  Closes #1116 from ewencp/kafka-3435-follow-up  

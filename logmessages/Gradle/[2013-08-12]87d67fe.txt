@@ -1,0 +1,1 @@
+  Normalize newlines in process output to fix tests on cygwin  

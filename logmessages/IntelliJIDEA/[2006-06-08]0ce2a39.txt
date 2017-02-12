@@ -1,0 +1,1 @@
+  assorted icon chooser fixes (IDEADEV-5997, IDEADEV-6283)  

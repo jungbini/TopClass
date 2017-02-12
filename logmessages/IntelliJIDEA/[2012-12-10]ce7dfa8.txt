@@ -1,0 +1,1 @@
+  IDEA-61945 Run and Debug commands should ignore compile errors not related to the main being run.  

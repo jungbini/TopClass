@@ -1,0 +1,1 @@
+  fixed embedded document type in select result set, issue #3212  

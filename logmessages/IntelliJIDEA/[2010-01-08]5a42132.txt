@@ -1,0 +1,1 @@
+  PY-286: resolve __dict__ attribute. Added crude debug mode, too.  

@@ -1,0 +1,1 @@
+  allow to control load balancer status from web interface. fixes #475  

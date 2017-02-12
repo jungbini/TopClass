@@ -1,0 +1,1 @@
+  can we live without common prefix insertion on second completion invocations?  

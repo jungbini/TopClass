@@ -1,0 +1,1 @@
+  Issues in graphdb tests and storage existence check were fixed.  

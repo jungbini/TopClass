@@ -1,0 +1,1 @@
+  Buck plugin improve adb connection  Summary: Our debugger implemmentation had some problems. We need to disconnect after we were connected and we should try for a finite number of times, since, "getClient" may fail.  Test Plan: Tested in IntelliJ  fb-gh-sync-id: 046b6e5 fbshipit-source-id: 046b6e5  

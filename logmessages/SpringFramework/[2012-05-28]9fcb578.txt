@@ -1,0 +1,1 @@
+  fixed StandardServletMultipartResolver compatibility with Resin (SPR-9299)  

@@ -1,0 +1,1 @@
+  Minor: fixed object database for non document record from tx  

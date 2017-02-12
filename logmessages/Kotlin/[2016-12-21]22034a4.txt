@@ -1,0 +1,1 @@
+  JS: fix translation of delegated constructor call from secondary constructor when argument is a complex expression which translates to multiple statements. See KT-15357  

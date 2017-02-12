@@ -1,0 +1,1 @@
+  captured wildcards: fix casting to arrays (IDEA-150124)  

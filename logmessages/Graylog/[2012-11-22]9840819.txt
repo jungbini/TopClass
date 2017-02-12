@@ -1,0 +1,1 @@
+  make message counting work for one minute spans  fixes #WEBINTERFACE-369  

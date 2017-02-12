@@ -1,0 +1,1 @@
+  Added design docs for various type/classifier related dependency resolution bugs, including resolution of source and javadoc artifacts  

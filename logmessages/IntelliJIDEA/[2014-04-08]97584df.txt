@@ -1,0 +1,1 @@
+  fixed PY-12452 Replace browse button for interpreter selector with details icon in project creation dialog  

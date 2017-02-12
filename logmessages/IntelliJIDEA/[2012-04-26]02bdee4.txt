@@ -1,0 +1,1 @@
+  fixed PY-3852 Since 1.5 I can not launch the django runserver via the PyCharm fixed PY-5076 Unable to run manage.py commands from PyCharm 2.0 beta  

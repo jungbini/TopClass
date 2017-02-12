@@ -1,0 +1,1 @@
+  bug fiexd for Long Value Field, fixed issue 'https://github.com/alibaba/fastjson/issues/534'  

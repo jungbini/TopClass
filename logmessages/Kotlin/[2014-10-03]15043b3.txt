@@ -1,0 +1,1 @@
+  Fixes for KT-4991: Prefix/postfix expressions resolved to local extensions are not supported in codegen; KT-4989: Verify error on local functions and extensions; KT-4987: NegativeArraySizeException on local extension convention function on nullable Int  #KT-4991 Fixed #KT-4989 Fixed #KT-4987 Fixed  

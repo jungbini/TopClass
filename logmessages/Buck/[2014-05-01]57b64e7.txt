@@ -1,0 +1,1 @@
+  Include directory entries in zips created by the JarDirectoryStep  Summary: It turns out that some Java tools like to have directory entries in zip files, even if they're not strictly necessary. This fixes issue 91:  https://github.com/facebook/buck/issues/91  Test Plan: buck test --all  

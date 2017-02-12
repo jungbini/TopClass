@@ -1,0 +1,1 @@
+  fixed PY-12024 "Replace mutable default argument" quickfix outputs non-standard formatting  

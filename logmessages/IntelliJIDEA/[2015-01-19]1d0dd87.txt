@@ -1,0 +1,1 @@
+  [vcs-log][linear-bek] sort parents by index and get the lowest.  This unexpectedly fixes interestingTest. Which is not necessarily a good thing.  

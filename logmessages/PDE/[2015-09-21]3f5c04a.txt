@@ -1,0 +1,1 @@
+ Remove color debug message  Typing "new color()" now results in error "class 'color' does not exists"  

@@ -1,0 +1,1 @@
+  app servers - fix IDEA-75619 - Context path of the browser url is lost if the field is modified on the Server tab  

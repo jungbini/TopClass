@@ -1,0 +1,1 @@
+  IDEA-110576 Add ability to search keymaps by mouse shortcut (fix quick lists)  

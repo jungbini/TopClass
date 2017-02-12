@@ -1,0 +1,1 @@
+  fix(iOS):edit some classes access for sdk  

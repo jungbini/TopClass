@@ -1,0 +1,1 @@
+  optimize index after cycling deflector from it  fixes #217  

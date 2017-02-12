@@ -1,0 +1,1 @@
+  [NTI] Address last few unintended CheckAccessControls test failures with NTI.  Includes a GlobalTypeInfo duplicate property suppression bugfix.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=128728010  

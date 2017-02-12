@@ -1,0 +1,1 @@
+  Fixed bug on Gephi command. Now Gephi HTTP command resides in graphdb project and it's configured by graphed's server xml config  

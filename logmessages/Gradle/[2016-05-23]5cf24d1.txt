@@ -1,0 +1,1 @@
+  More strict Regex in FindBugsClasspathVaildator (#642)  - The old regex "findbugs-(.*)\\.jar" will match any jars start with findbugs-ANYSTRING.jar Classpath like this ["findbugs-annotations-3.0.0.jar", "findbugs-3.0.0.jar", "findbugs-jFormatString-3.0.0.jar"] will match first in the list then throw GradleException Make the regex more strict to match only findbugs-3.0.0.jar  

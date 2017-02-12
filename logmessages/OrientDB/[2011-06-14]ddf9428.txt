@@ -1,0 +1,1 @@
+  Fixed bug on iterators and local transaction: record wasn't read from current tx. Now it's fixed. This should fix the problem reported by Sid as issue 425.  

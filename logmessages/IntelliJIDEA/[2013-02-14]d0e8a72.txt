@@ -1,0 +1,1 @@
+  ContainerUtil: addAllNotNull(Collection, Iterable) is fixed; all addIfNotNull's return bool to signal if container is changed  

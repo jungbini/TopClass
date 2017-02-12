@@ -1,0 +1,1 @@
+  gradle: regression fix of Gradle Project Settings Hides/shows UI for current project choice  

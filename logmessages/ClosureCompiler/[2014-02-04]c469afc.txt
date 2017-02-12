@@ -1,0 +1,1 @@
+  [New Parser] add fixes and wiring necessary to "pass thru" ES6 class definitions: CLASS, MEMBER_DEF (and existing GETTER_DEF and SETTER_DEF), and SUPER. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=61000702  

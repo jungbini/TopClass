@@ -1,0 +1,1 @@
+ Fix parsing of GELF message chunks  A GELF message with 128 chunks has failed before because the parsing of the chunk header in GELFMessageChunk was broken. (#sliceInteger())  Use a ChannelBuffer to fix and simplify the chunk header parsing.  

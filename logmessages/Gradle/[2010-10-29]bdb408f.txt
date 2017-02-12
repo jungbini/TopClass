@@ -1,0 +1,1 @@
+  use xmlProvider in withXml closures of  IDEA setup (fix for GRADLE-1197)  

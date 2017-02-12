@@ -1,0 +1,1 @@
+  KT-3182 Prohibit val/var keywords at for-loop counter.  #KT-3182 fixed  

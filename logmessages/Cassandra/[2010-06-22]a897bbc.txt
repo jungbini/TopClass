@@ -1,0 +1,1 @@
+  fix stress.py for new thrift parameter order.  patch by jbellis   git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@957037 13f79535-47bb-0310-9956-ffa450edef68  

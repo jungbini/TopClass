@@ -1,0 +1,1 @@
+eption` if `lazyLoadArguments` is called with an empty variable argument.  See gh-1070  

@@ -1,0 +1,1 @@
+  clean up error message, repair dumb mistake (fixes #3417)  

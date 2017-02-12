@@ -1,0 +1,1 @@
+  RealtimePlumber: Bail out of persist-n-merge of abandoned sinks (fixes #812).  

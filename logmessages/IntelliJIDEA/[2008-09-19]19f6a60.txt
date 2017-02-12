@@ -1,0 +1,1 @@
+  - IDEADEV-30410: a) Lazily add pattern-cache field. b) Bail out if attempting to instrument an already instrumented class - Bugfix: Static initializer for ISE instrumentation type was not created if not already present  

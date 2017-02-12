@@ -1,0 +1,1 @@
+  IDEA-68572 XSD importing cannot import BPMN 2.0 schemas: geronimo case fixed & tested  

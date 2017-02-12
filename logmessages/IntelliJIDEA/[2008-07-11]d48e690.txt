@@ -1,0 +1,1 @@
+  SVN: svnkit update: update of emoty properties for 1.3 version fixed; update of moved file fixed  

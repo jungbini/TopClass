@@ -1,0 +1,1 @@
+  fix artifacts with painting when combobox height is more than arrow button height  

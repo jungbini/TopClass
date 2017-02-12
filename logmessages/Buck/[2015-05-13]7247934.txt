@@ -1,0 +1,1 @@
+  Don't eagerly evaluate generated outputs in D support  Summary: Previously the D support would resolve `SourcePath` objects in it's constructor and store the resulting paths as `Path` objects.  This meant we'd always hash generated outputs in rule key calculations which would break when doing something like `buck targets --rulekey`.  This 

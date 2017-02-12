@@ -1,0 +1,1 @@
+  HA: fixed remove server problem and enable manual control on replication (EE only)  Fixed issues https://github.com/orientechnologies/orientdb/issues/6721 and https://github.com/orientechnologies/orientdb/issues/6734.  

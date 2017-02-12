@@ -1,0 +1,1 @@
+  clearly separate lookup presentable model from the modified one, should fix blinking JavaAutoPopupTest.testChooseItemDuringCopyCommit  

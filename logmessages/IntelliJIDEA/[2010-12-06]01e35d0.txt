@@ -1,0 +1,1 @@
+  fixed behaviour of 'stop' button for app servers: first click on it invokes graceful shutdown and second click destroys process (IDEA-62427, IDEA-62476)  

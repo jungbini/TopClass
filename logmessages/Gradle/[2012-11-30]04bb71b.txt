@@ -1,0 +1,1 @@
+  - Moved M2Installation to live with the int test fixtures. - Moved TempDirIsUniquePerTestSpec to live with the thing it is testing.  

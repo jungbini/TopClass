@@ -1,0 +1,1 @@
+ fix:write boolean key without quoteFieldNames  

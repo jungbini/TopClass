@@ -1,0 +1,1 @@
+ster' into ZEPPELIN-1831 1ab98f4 [Sangwoo Lee] Fix paragraph control dropdown alignment  

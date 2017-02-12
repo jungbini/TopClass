@@ -1,0 +1,1 @@
+ fixed typo, added note on matching schema requirement for unioned data sources  

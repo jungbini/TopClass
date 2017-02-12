@@ -1,0 +1,1 @@
+  bean-like LookupElementPresentation, fix artifacts in lookup  

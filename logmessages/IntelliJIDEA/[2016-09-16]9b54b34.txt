@@ -1,0 +1,1 @@
+  IDEA-161257 Add Java-8 migration fix to use Map.computeIfAbsent where appropriate  

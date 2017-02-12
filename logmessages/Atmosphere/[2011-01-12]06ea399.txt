@@ -1,0 +1,1 @@
+  fix for JIRA issue ATMOSPHERE-90.  Added destroy() method to Atmosphere Handler interface.  Handlers are destroyed by the AtmosphereServlet when it is destroyed by the web container.  Also migrated AtmospherePing class to use SLF4J logging and modified AtmosphereServlet to only look for the AtmospherePing class once, instead of on every call to pingForStats().  

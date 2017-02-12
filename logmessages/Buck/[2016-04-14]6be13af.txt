@@ -1,0 +1,1 @@
+  Handle executable not found exceptions  Summary: If the plugin can't find adb or buck, then it's going to crash. This 

@@ -1,0 +1,1 @@
+  Imports from objects: Do not create new instances on getOriginal every time  Also fixes a problem where DeclarationLookupObjectImpl didn't have stable hashCode  

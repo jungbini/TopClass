@@ -1,0 +1,1 @@
+  fix(js): Temporary fix of js file system provider  

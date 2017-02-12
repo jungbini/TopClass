@@ -1,0 +1,1 @@
+  Add qualifier to unqualified method call quick fix added (similar to "Static Method Import...") IDEA-94719  

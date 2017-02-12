@@ -1,0 +1,1 @@
+  IDEA-163767: fixed for assignment, tests for assignment and ternary  

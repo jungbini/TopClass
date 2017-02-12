@@ -1,0 +1,1 @@
+  Fix small bug introduced by #2319  

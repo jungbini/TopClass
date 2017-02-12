@@ -1,0 +1,1 @@
+  VCS: fix deadlock (do not invoke read action under inner lock)  

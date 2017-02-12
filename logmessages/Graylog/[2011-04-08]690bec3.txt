@@ -1,0 +1,1 @@
+  finally fix wrong color of topbar. now the same as the logo. #WEBINTERFACE-14  

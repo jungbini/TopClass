@@ -1,0 +1,1 @@
+  Small fix to processing-java generation  Related to #3996.  Now it doesn't give an error when there is quotation in the command line args.  Related comments: https://github.com/processing/processing/issues/3996#issuecomment-154859783 https://github.com/processing/processing/issues/3996#issuecomment-155404233  

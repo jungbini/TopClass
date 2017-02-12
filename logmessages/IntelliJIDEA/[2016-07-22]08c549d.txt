@@ -1,0 +1,1 @@
+  Possibly fix EDU-682 Multihints are not saved  

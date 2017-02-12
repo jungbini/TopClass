@@ -1,0 +1,1 @@
+  lots of work on coloring, bug fixes to size(), removed resize() from BApplet  

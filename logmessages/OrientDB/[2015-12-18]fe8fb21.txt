@@ -1,0 +1,1 @@
+  Issue #5458 error in profiler implementation was fixed, new unit tests were added.  

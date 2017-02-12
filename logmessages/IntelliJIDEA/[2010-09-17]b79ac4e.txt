@@ -1,0 +1,1 @@
+  tooltip in stripe panel positioning fix  

@@ -1,0 +1,1 @@
+  disable breadcrumbs hover by default, move to registry #IDEA-139930 fixed  

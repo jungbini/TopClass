@@ -1,0 +1,1 @@
+  fix(web): fixed DialogSection with null peer; call onConversationOpen on init  

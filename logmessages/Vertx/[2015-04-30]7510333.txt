@@ -1,0 +1,1 @@
+ Merge pull request #1027 from eclipse/clustering_fixes  Clustering fixes  commit 751033305dac4bc2fba48f7882e05d998de7d07f  clustering fixes  

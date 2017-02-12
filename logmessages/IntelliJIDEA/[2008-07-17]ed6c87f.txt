@@ -1,0 +1,1 @@
+  ATB - selection jumping while updating fix  

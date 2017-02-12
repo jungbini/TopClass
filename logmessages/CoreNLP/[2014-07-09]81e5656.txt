@@ -1,0 +1,1 @@
+  Fix a much more painful bug in the protobuf serializer  

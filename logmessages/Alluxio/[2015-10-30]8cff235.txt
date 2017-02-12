@@ -1,0 +1,1 @@
+ [SMALLFIX] Add back needed cast to fix hdfs1Test profile  

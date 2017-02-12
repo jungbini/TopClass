@@ -1,0 +1,1 @@
+  do not anyhow change text pasted to a string literal  fixed PY-9566 pasting code on an indented line inserts that indentation at the end of the line  

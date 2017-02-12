@@ -1,0 +1,1 @@
+  svn: Refactored SvnRecursiveStatusWalker - methods extracted, warnings fixes  

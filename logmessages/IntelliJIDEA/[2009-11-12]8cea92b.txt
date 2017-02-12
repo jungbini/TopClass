@@ -1,0 +1,1 @@
+  fix improved : [IDEADEV-41302] Change File->Reopen to 'Open Recent'  

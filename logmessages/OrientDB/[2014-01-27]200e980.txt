@@ -1,0 +1,1 @@
+  Fixed 2 problems reported by Rob: CCE and NPE on exception during deploy of database to remote nodes. OOM is not fixed but exception now should be managed correctly  

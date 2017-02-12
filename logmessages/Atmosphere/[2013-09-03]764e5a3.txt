@@ -1,0 +1,1 @@
+  Firt pass for fixing #1243: Make sure WebSocket Support is properly detected  

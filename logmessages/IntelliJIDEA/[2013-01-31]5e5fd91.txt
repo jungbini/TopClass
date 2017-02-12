@@ -1,0 +1,1 @@
+  fix restoring expanded state for custom folding regions (WEB-6246 or maybe not)  

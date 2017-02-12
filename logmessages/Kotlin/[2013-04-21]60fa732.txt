@@ -1,0 +1,1 @@
+  Create from usage: Fixed a bug with creating methods in the wrong owners for next and hasNext.  

@@ -1,0 +1,1 @@
+  Exception fix (equal returns true for the same types) #EA-65206 Fixed  

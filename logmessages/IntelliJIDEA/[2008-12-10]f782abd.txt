@@ -1,0 +1,1 @@
+  copyright: fix formatted text (IDEADEV-33276) {sick}  

@@ -1,0 +1,1 @@
+  [vcs-log] revert hack that switches parents for automatic merges from command-line pulls  a) Can not detect these merges correctly (can confuse them with pull request merges and author names not always can fix that). b) To learn author names we have to do a lot of slow operations. So we do not.  

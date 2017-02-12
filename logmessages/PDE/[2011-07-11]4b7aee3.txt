@@ -1,0 +1,1 @@
+  Refactored how LibraryListing and LibraryListPanel interact. Fixed bugs relating to changing state from installed to uninstalled  

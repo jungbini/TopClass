@@ -1,0 +1,1 @@
+  Fixed bug in a deleted classes processing (compile server).  

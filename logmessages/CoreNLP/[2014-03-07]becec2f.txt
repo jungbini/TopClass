@@ -1,0 +1,1 @@
+  Paper over a bug by having the coref system use the CoordinationTransformer each time it needs to get the head of a sentence  

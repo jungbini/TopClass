@@ -1,0 +1,1 @@
+  fixed a bug in property deletion/addition patterns in TitanGraphOutputMapReduce. Added test cases that validate behavior.  

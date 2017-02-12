@@ -1,0 +1,1 @@
+  Fix bug in decapsulation of multi instance command class offset. Update logging.  

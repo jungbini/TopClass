@@ -1,0 +1,1 @@
+  Fix classpath with named workspace for java binary  The classpath construction used a prefix substitution that was not including the name of the workspace for java binaries.  -- MOS_MIGRATED_REVID=88375741  

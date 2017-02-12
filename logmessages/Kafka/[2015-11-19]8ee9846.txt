@@ -1,0 +1,1 @@
+  MINOR: Fix typo in sample Vagrantfile.local for AWS system tests  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Gwen Shapira  Closes #565 from ewencp/fix-aws-vagrantfile-local-example  

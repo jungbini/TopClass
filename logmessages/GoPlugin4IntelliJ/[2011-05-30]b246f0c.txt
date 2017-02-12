@@ -1,0 +1,1 @@
+  Temporary fix to enable running an application even when using the Makefile system.  

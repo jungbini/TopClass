@@ -1,0 +1,1 @@
+  Reformatted sources and fixed some problems with closing streams  

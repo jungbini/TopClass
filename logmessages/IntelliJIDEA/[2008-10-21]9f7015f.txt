@@ -1,0 +1,1 @@
+  settings ui - "loading" bug after refiltering is fixed  

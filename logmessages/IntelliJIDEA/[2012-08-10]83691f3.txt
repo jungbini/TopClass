@@ -1,0 +1,1 @@
+ Merge branch 'fix_for_121' into 121  commit 83691f368688160e41ffee120df3420edd4e5872  IDEA-89628 (Add second auto-fix to inspection "Unchecked exception declared in 'throws' clause")  

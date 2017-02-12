@@ -1,0 +1,1 @@
+  fixed PY-6329 Selecting a package to install causes PyCharm to hang forever  

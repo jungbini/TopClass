@@ -1,0 +1,1 @@
+  Allow to run go get fix on null module  

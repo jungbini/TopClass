@@ -1,0 +1,1 @@
+  fix(android): delete group in administration fragment confirm  

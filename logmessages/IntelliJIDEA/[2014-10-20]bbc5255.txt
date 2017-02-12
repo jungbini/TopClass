@@ -1,0 +1,1 @@
+  IDEA-58423 xml: commenting double dashes produces invalid xml: django comments fixed  

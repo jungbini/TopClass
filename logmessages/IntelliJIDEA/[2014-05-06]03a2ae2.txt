@@ -1,0 +1,1 @@
+  IDEA-116630 Run/Debug button disabled sometimes after breaking make process (and hanging thread)  

@@ -1,0 +1,1 @@
+  When a suffix to drop is detected, set the headWord/headIndex appropriately. Only do so if the NER is not background  

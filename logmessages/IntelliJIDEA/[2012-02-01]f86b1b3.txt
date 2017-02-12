@@ -1,0 +1,1 @@
+  don't let "'StringBuffer' can be replaced with 'String'" inspection report problems that can't be quick fixed  

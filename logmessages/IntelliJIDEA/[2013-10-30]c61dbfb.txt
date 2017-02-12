@@ -1,0 +1,1 @@
+  root model: don't create synthetic entries for excluded output folders - fixed importing excluded roots from Maven  

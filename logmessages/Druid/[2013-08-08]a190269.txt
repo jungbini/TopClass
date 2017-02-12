@@ -1,0 +1,1 @@
+  fix druid master segments getting stuck bug  

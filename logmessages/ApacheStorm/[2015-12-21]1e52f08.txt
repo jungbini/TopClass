@@ -1,0 +1,1 @@
+  Fixing bugs related to switching to next file in setting fileReadCompletely=true/false and reader=null for ACK mode reading. Added UTs. incorprated review comments from Satish and others  

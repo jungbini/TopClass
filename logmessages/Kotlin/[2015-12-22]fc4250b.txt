@@ -1,0 +1,1 @@
+  EA-75872 / KT-10473 fix: both JVM- and JS-diagnostic factories are now used as extensions  

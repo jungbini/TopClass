@@ -1,0 +1,1 @@
+  add exclude param to getAgentEvents bug fix - time slider float number.  

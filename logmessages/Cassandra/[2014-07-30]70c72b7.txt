@@ -1,0 +1,1 @@
+  Ninja: remove buggy test assertion from 2.1  This was fixed by CASSANDRA-7390, but that fix starts with Cassandra 3.0.  

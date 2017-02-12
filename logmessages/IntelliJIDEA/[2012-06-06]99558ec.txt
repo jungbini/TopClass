@@ -1,0 +1,1 @@
+  IDEA-87116 Cancel push if merge conflicts occur during auto-update while pushing  * Introduce several new GitUpdateResults for 

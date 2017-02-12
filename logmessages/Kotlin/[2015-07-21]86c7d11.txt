@@ -1,0 +1,1 @@
+  Debugger: do not create codeFragments with context of PsiFile  

@@ -1,0 +1,1 @@
+  Restore horizontal scrolling as PY-18440 is fixed properly by IDEA-CR-9694  

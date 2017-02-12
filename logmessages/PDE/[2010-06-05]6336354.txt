@@ -1,0 +1,1 @@
+  fix for full-width space bug #1531 from takachin  

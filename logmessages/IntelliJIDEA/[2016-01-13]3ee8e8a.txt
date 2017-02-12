@@ -1,0 +1,1 @@
+  Remember the ongoing rebase state and use it to resume from "continue rebase" and other actions  * Keep GitRebaseParams just for parameters of the standard rebase; * Introduce separate methods for "continuing" rebase operations: abort, continue, skip.  This fixes: IDEA-135299, IDEA-60413, IDEA-72282, IDEA-142648  

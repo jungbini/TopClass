@@ -1,0 +1,1 @@
+  IDEA-87966 Pointless boolean expression inspection: false positive fixed  

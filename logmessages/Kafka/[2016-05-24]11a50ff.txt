@@ -1,0 +1,1 @@
+  MINOR: Fix documentation table of contents and `BLOCK_ON_BUFFER_FULL_DOC`  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Gwen Shapira  Closes #1423 from ijuma/minor-doc-fixes  

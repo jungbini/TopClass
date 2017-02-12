@@ -1,0 +1,1 @@
+  make highlighting tests closer to real life: codeInsightFixture too + fixed stuck error highlighters  

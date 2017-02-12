@@ -1,0 +1,1 @@
+  fix incorrect access to logical position cache (when it's in inconsistent state)  (for IDEA-135620)  

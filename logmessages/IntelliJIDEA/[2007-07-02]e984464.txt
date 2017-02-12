@@ -1,0 +1,1 @@
+  read-only status for external annotations fix  

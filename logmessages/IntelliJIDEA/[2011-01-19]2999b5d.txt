@@ -1,0 +1,1 @@
+  names prefixed with __ are not imported with 'from ... import *' (PY-2717)  

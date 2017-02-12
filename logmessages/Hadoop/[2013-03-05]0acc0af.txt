@@ -1,0 +1,1 @@
+  HADOOP-9250. Windows installer bugfixes. Contributed by Ivan Mitic.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1-win@1452668 13f79535-47bb-0310-9956-ffa450edef68  

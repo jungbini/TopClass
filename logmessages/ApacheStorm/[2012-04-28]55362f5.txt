@@ -1,0 +1,1 @@
+ fix problem with partition -> local partition mapping, added regular kafka spout  

@@ -1,0 +1,1 @@
+  readded fix on phs configuration.  

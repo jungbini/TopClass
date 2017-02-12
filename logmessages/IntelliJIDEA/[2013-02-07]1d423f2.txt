@@ -1,0 +1,1 @@
+  fix wrong request up/down in FragmentGraphDecorator and add's test for FragmentManager  

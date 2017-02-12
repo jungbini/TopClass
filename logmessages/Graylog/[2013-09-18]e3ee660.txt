@@ -1,0 +1,1 @@
+  don't try to flush index on initial start  fixes #238  

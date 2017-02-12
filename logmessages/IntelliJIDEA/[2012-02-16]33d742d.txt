@@ -1,0 +1,1 @@
+  memory leak fix: remove listener from the same set to which it was added  

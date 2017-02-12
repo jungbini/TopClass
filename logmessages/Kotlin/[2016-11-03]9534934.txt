@@ -1,0 +1,1 @@
+  Implemented kotlin quick fix provider for create android resource quick fixes  #KT-10465 Fixed #KT-12880 Fixed  

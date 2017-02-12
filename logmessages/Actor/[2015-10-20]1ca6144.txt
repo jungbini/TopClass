@@ -1,0 +1,1 @@
+  fix(server): chmod +x actor-cli  

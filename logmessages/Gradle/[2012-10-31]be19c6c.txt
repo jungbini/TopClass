@@ -1,0 +1,1 @@
+  GRADLE-2485 Adapt test for enabling debug mode using jvmargs.  

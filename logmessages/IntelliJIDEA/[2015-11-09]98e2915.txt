@@ -1,0 +1,1 @@
+  macros: support passing compound relative path to $FileDirPathFromParent(...)$ macro (fixes WEB-18982)  

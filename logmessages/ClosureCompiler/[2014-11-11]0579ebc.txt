@@ -1,0 +1,1 @@
+ Merge pull request #698 from vlajos/typofixes-vlajos-20141108  typo fixes - https://github.com/vlajos/misspell_fixer  commit 0579ebcf1d34eaeddcd9bf4d4c38c2d4666ad21e  typo fixes - https://github.com/vlajos/misspell_fixer - code  

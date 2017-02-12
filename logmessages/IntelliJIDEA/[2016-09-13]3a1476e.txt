@@ -1,0 +1,1 @@
+  kotlin UI DSL variant 2  more readable  make setOKActionEnabled public  init to fix ask password dialog  

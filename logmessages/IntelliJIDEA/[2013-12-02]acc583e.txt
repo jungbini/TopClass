@@ -1,0 +1,1 @@
+  fixed PY-10998 Wrong highlight in rst (restructured texts) for headlines  

@@ -1,0 +1,1 @@
+  [^ann] print debug info and restore instead of just failing on wrong completion phase (EA-27190)  

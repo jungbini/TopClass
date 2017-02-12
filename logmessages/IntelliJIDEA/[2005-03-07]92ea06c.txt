@@ -1,0 +1,1 @@
+  Reading new primitive type fields fixed  

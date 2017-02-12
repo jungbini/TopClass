@@ -1,0 +1,1 @@
+  Packages cxx asset libraries as normal libraries when package_asset_libraries is not set  Summary: Before, if a cxx library is marked with can_be_asset = True and an app does not set package_asset_libraries = True, the library would be missing from the apk. This 

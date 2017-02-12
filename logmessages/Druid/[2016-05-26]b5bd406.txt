@@ -1,0 +1,1 @@
+  fix #2991: race condition in OnheapIncrementalIndex#addToFacts (#3002)  * fix #2991: race condition in OnheapIncrementalIndex#addToFacts  * add missing header  * handle parseExceptions when first doing first agg  

@@ -1,0 +1,1 @@
+  hotfix: IDEA-119851 Gradle: the "out-of-process" mode doesn't work  

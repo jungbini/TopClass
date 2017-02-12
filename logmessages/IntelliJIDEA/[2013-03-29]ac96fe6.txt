@@ -1,0 +1,1 @@
+  fixed  PY-9301 Instance attribute defined outside init: false positive with init only in superclass  

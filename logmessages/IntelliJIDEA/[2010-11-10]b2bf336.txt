@@ -1,0 +1,1 @@
+  Correctly add/remove library to/from JavaScript library scope (broken with another fix)  

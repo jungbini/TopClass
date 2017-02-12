@@ -1,0 +1,1 @@
+  Minor, fix typos in GenerateProtoBufCompare.kt  

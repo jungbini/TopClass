@@ -1,0 +1,1 @@
+  fix(android): doc load percents color, emoji keyboard start page  

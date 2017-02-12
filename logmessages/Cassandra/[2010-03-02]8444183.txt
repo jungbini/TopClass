@@ -1,0 +1,1 @@
+  fix consistencylevel during bootstrap, partially, by hinting "down" bootstrapping nodes and just expanding target set to include them in blockFor calculation.  patch by jbellis; reviewed by Ryan King for CASSANDRA-822  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.6@918187 13f79535-47bb-0310-9956-ffa450edef68  

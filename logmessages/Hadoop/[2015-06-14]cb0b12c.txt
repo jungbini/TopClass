@@ -1,0 +1,1 @@
+  HDFS-8559. Erasure Coding: fix non-protobuf fsimage for striped blocks. (Jing Zhao via yliu)  

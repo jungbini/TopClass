@@ -1,0 +1,1 @@
+  [rev=roman.shevchenko] fix the famous completion IOOBE: the document was gc'ed and recreated based on the outdated LightVirtualFile content  

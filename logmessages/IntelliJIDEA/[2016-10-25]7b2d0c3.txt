@@ -1,0 +1,1 @@
+  java functional expressions: remove ":" from toString() + fix test data according to 381bbbe  

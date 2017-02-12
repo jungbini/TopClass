@@ -1,0 +1,1 @@
+  Introduced prebuilt binaries - Added PrebuiltLibraries, PrebuiltLibrary and associated binary model elements - Moved listing of binaries out of LibraryBinaryLocator into NativeDepednecyResolver - Added LibraryLocator that looks in PrebuiltLibraries for matching library  Cleaned up library locator: moved listing of binaries into resolver  Checkstyle fixes  

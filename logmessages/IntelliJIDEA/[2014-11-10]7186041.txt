@@ -1,0 +1,1 @@
+  editor gutter component: fix vcs painting (IDEA-131263)  

@@ -1,0 +1,1 @@
+  fixed PY-13150 Pyramid run configuration fails when specifing '--reload' in additional option  

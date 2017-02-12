@@ -1,0 +1,1 @@
+  IDEA-116503 (line separators in inspect.sh in Mac distributions fixed)  

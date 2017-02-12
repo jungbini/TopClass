@@ -1,0 +1,1 @@
+  quicklook plugin is incompatible after all the changes in debugger  

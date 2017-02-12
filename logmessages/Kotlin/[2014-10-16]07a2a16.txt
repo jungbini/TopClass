@@ -1,0 +1,1 @@
+  Type-related quick fixes: Render types using fully qualified names  

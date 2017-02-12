@@ -1,0 +1,1 @@
+  wizard popup positioning fix fox mac (^medvedev)  

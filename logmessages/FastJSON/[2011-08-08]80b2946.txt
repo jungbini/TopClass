@@ -1,0 +1,1 @@
+  asmJDK 1.5Listfixed it.  git-svn-id: http://code.alibabatech.com/svn/fastjson/trunk/fastjson@1285 fb902949-7fc4-4485-a80f-4d6ff335c879  

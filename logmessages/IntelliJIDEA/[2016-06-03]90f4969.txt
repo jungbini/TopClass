@@ -1,0 +1,1 @@
+  fixed "Disposer$2 has already been disposed" exception: extremely unlikely event when HeavyProcessLatch listener registered, some heavy processing finished, and already disposed disposable tried to register  

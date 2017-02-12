@@ -1,0 +1,1 @@
+  MAPREDUCE-911. Fix a bug in TestTaskFail related to speculative execution. Contributed by Amareshwari Sriramadasu.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20@809840 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  [rev=maxmedvedev] fix groovy import optimizer not optimizing any imports  

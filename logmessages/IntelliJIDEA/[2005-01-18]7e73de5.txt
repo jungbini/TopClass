@@ -1,0 +1,1 @@
+  fixed problem in plugin manager: plugins with dependencies won't download via IDEA's interface  

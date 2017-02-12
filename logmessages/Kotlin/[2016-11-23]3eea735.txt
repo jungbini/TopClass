@@ -1,0 +1,1 @@
+  Kotlin Facet: Access Gradle files under read action (fixes failure of GradleInspectionTest)  

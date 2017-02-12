@@ -1,0 +1,1 @@
+  Add HTML SAX PushParser and use it for HTML encoding detection.  This fixes a memory leak that was triggered by a SAX parser that relied on throw / catch in lib/nokogiri/html/document.rb.  

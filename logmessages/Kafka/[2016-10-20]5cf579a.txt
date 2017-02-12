@@ -1,0 +1,1 @@
+  MINOR: Fix vagrant rsync exclude argument  Existing VMs will need to be re-provisioned or re-created to pick up this change.  Reference docs: https://www.vagrantup.com/docs/synced-folders/rsync.html  Author: Magnus Edenhill <magnus@edenhill.se>  Reviewers: Jason Gustafson <jason@confluent.io>  Closes #2047 from edenhill/fix_vm_rsync_exclude  

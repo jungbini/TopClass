@@ -1,0 +1,1 @@
+  init: speed up scope variables loading WEB-11784 slow nodejs debug  

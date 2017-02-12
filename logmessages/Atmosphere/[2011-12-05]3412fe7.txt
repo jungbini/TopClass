@@ -1,0 +1,1 @@
+  Fix for https://github.com/Atmosphere/atmosphere/issues/102. Also move the JSON for IE 7 up and fix logging  

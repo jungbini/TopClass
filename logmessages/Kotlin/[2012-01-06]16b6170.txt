@@ -1,0 +1,1 @@
+  disabled test for KT-924 for now as its a new feature, not a bug  

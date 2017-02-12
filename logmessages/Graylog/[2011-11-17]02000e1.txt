@@ -1,0 +1,1 @@
+  elasticsearch URL is not configurable via config  fixes #SERVER-62  

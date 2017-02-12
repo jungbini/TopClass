@@ -1,0 +1,1 @@
+  Remove a bunch of dead code in ShellStep to fix javadoc warnings.  Summary: I noticed that `ant javadoc` was complaining that we had some unresolved `{@link}` tags, which led me to discover that we had a bit of dead code in `ShellStep` leftover.  Test Plan: Ran `ant clean javadoc` and verified that the Javadoc was generated without any warnings.  

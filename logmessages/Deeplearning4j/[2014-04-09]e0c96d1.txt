@@ -1,0 +1,1 @@
+  fixed constructor issues with reflection as well as an issue in backprop where the bias gradient might not match the length of the logistic layer  

@@ -1,0 +1,1 @@
+s broadcastNote 0a0cd25 [Damien Corneau] Stop rendering HTML and Angular if result wasn't refreshed da113c3 [Damien Corneau] Remove Ace warning in console  

@@ -1,0 +1,1 @@
+ Merge pull request #4453 from peisun1115/security  [ALLUXIO-2454] Hive permission issue fix  commit 3bae523136ee41c5798ac78aa60b0b4dbbb7b2df  style fix  

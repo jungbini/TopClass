@@ -1,0 +1,1 @@
+  GRADLE-525 - Added support for a DebugHelper that an IDE can use to map between gradle scripts and class files so gradle scripts can be debugged.  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@1717 004c2c75-fc45-0410-b1a2-da8352e2331b  

@@ -1,0 +1,1 @@
+  Rework the environment (in the general sense) augmenting for in process int testing to fix bug with gradle user home specification.  

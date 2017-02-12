@@ -1,0 +1,1 @@
+  safe delete: fixed delete from the top of the hierarchy  

@@ -1,0 +1,1 @@
+  add upper/lowercase check when naming/saving tabs/code (bug #1102)  

@@ -1,0 +1,1 @@
+  fixed source root detection for java files in default package (IDEA-74616)  

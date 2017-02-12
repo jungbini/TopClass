@@ -1,0 +1,1 @@
+  Improve error reporting in SingleThreadEventLoopTest. Fixes #2894  Motivation:  When an assertTrue(condition) statement fails we usually don't know why, as the parameters of the condition are not logged.  Modifications:  Include relevant parameters in the assertion error message.  Result:  Easier to debug and understand test failures.  

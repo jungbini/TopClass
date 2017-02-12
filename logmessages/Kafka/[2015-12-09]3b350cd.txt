@@ -1,0 +1,1 @@
+  HOTFIX: fix table-table outer join and left join. more tests  guozhangwang  * fixed bugs in table-table outer/left joins * added more tests  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Guozhang Wang  Closes #653 from ymatsuda/join_tests  

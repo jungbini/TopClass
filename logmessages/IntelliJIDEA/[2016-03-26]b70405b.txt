@@ -1,0 +1,1 @@
+  WEB-20340 JavaScript debugger doesn't show "this" reference with ES6 fat arrows  

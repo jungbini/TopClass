@@ -1,0 +1,1 @@
+  Issue #1404.  Issue with massive growing of WAL during document update was fixed.  

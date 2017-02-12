@@ -1,0 +1,1 @@
+  IDEA-141008 QuickDocumentation (Ctrl-Q) shows "JavaScript is disabled on your browser" sometimes  fix test case for Windows  

@@ -1,0 +1,1 @@
+  Dereferencing a pointer to struct does not highlight the variable, fix #1470  

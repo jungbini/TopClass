@@ -1,0 +1,1 @@
+  mapping check now poiting against current deflector target. fixes #WEBINTERFACE-307  

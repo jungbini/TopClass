@@ -1,0 +1,1 @@
+  IDEA-86631 Debugger doesn't work in a class which name contains dollar sign ($)  

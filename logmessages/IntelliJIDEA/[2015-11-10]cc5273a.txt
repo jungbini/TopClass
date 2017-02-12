@@ -1,0 +1,1 @@
+  IDEA-101238 fixed url parameter encoding for youtrack time tracking  

@@ -1,0 +1,1 @@
+  fix 'square' symbols in framework support wizard dialog  

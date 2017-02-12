@@ -1,0 +1,1 @@
+  clarify that ANTLR plugin only supports ANTLR 2 fixed capitalization of ANTLR  

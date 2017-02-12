@@ -1,0 +1,1 @@
+  fixed EDU-393 Resolve symbols in task scope  

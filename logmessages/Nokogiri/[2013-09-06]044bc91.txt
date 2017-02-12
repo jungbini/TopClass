@@ -1,0 +1,1 @@
+  fix all *-child pseudo selectors when used with a class and remove need for preprocessing the node tree  

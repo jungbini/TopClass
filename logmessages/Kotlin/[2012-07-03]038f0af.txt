@@ -1,0 +1,1 @@
+  fixed failing test case, so we can use the browser API from JVM code and at least have an empty document to play with  

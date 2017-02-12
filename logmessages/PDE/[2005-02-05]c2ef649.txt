@@ -1,0 +1,1 @@
+  using swingworker to fix the hanging bug (also in opengl)  

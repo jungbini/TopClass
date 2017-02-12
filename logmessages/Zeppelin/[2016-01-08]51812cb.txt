@@ -1,0 +1,1 @@
+ven-gpg-plugin and remove things failing deploy  

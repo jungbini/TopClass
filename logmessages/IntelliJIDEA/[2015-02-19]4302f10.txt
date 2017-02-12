@@ -1,0 +1,1 @@
+  fixed View as for empty selection  

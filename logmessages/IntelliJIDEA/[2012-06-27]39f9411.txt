@@ -1,0 +1,1 @@
+  fixed PY-6834 Convert lambda to function: check existing names when creating functions  

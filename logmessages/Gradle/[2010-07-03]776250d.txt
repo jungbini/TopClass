@@ -1,0 +1,1 @@
+  GRADLE-988 - Share a single implementation class for all empty scripts, rather than generating a separate class for each script. - Fail script compilation if a script contains a package statement, until GRADLE-1014 is fixed  

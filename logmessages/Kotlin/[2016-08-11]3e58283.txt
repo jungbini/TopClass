@@ -1,0 +1,1 @@
+  Add quickfix for adding 'inline' to a function with reified generic #KT-6975 Fixed  

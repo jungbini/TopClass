@@ -1,0 +1,1 @@
+  re-used python indenting lexer in mako templates. fixed PY-4572 Resolve Python imports in Mako templates to corresponding Python code  

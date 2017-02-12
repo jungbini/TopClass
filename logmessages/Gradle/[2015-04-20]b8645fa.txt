@@ -1,0 +1,1 @@
+  Fix failing component report related integTests  - caused by allowing model items ignored in model report - fixed by fixing LinePrefixingStyledTextOutput to allow prefixing first line & remove workaround in DefaultTextReportBuilder - add support for _NOT_ prefixing first line in LinePrefixingStyledTextOutput for compatibility reasons  

@@ -1,0 +1,1 @@
+  [vcs] Add LOG.debug to VcsVFSListener to diagnose why sometimes new files are not added.  

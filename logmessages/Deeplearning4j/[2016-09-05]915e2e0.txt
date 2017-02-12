@@ -1,0 +1,1 @@
+ For fixed gamma/beta case: don't allocate parameters in param initializer; test  

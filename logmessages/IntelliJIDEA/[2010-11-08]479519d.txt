@@ -1,0 +1,1 @@
+  IDEA-60904 Wrong background while debugging in frames list under GTK+L&F  

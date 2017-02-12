@@ -1,0 +1,1 @@
+  git4idea: Fixed: assert: GitRootTracker.fixRoots  

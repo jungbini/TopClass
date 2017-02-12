@@ -1,0 +1,1 @@
+  fixed launch4j config for windows build  

@@ -1,0 +1,1 @@
+  IDEA-121126 Debugger: mute breakpoints: Throwable at ApplicationImpl.assertReadAccessAllowed()  

@@ -1,0 +1,1 @@
+  error checking on ComboList, and fix bug in Aggregator so that it sets the correct group during aggregate  

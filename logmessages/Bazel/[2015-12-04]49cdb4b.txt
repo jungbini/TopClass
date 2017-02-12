@@ -1,0 +1,1 @@
+  Fix a bug in which the main process of j2objc wrapper blocks indefinitely if spawned threads fail.  -- MOS_MIGRATED_REVID=109423785  

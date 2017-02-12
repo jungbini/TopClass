@@ -1,0 +1,1 @@
+  CASSANDRA-3583-fix patch by Vijay; reviewed by Jonathan Ellis for CASSANDRA-3583  

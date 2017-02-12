@@ -1,0 +1,1 @@
+  Remove Gson, fixes #956  Along with replacing the usages of Gson this changeset also replaces direct usage of Jackson's ObjectMapper with the matching methods from Play's Json class.  

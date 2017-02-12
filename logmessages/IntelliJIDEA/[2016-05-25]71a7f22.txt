@@ -1,0 +1,1 @@
+  inspection toolwindow: fix for (IDEA-156469) reverted because of too broad read action (IDEA-156635)  

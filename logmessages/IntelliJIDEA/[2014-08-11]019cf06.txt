@@ -1,0 +1,1 @@
+  Editor tab title: cosmetic UI fixes  

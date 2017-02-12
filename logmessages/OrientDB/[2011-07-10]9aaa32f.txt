@@ -1,0 +1,1 @@
+  Wow, this is a huge contribution from Andrey, Artem and Maxim for a better usage of indexes even with complex queries. This overcomes the previous SQL engine where the index was used only if a single condition was used. This fixes the issue 64. Thanks a lot!  

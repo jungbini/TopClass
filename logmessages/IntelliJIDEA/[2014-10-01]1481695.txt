@@ -1,0 +1,1 @@
+  IDEA-130589 'View Text' on value with custom renderer in debugger shows default text for the value  

@@ -1,0 +1,1 @@
+  The FileSystem tests assume a specific umask. Set umask to 0022 explicilty so that chmod and mkdir tests work more reliably. This fixes the tests when run for example in Fedora.  

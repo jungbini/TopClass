@@ -1,0 +1,1 @@
+  external build: fixed updating files copied by resource compiler to module output in artifacts  

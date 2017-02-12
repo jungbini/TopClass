@@ -1,0 +1,1 @@
+  Don't ever resolve to a PsiDir, only to PsiFile('__init__.py') inside it. Partly fixes 147. See discussion there.  

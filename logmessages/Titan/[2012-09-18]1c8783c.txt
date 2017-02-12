@@ -1,0 +1,1 @@
+  fixed issue with putting FaunusElements into a map --- using MicroElement.  

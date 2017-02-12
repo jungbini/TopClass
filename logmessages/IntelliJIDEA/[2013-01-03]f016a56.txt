@@ -1,0 +1,1 @@
+  fix new format input str make ProcessOutputReader not abstract & fix it usage  

@@ -1,0 +1,1 @@
+  Fixed printing tabbed stack lines with a color code  Summary: For some reason, printing a leading tab with a prefixed color code outputs 4 spaces instead of 8, so this 

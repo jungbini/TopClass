@@ -1,0 +1,1 @@
+  Distributed: series of fix to improve HA and performance  Better mgmt of quorum. fixed test cases, fixed the case clusters are not aligned, avoided ThreadInterrupt exception.  

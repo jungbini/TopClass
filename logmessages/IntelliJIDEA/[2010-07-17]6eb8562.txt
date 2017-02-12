@@ -1,0 +1,1 @@
+  fixed after rebase: coverage: merge suites, collect non loaded classes for reports (IDEA-565202)  

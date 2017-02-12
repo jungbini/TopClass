@@ -1,0 +1,1 @@
+  fixing up win32 build, adding a few methods to dtd  

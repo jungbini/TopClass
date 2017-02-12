@@ -1,0 +1,1 @@
+  KT-2838 Type inference failed on passing null as a nullable argument #KT-2838 fixed  

@@ -1,0 +1,1 @@
+  KAFKA-1914; follow-up to fix SimpleFetchTest; reviewed by Joel Koshy  

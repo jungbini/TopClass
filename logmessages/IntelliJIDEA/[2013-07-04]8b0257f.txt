@@ -1,0 +1,1 @@
+  fixed PY-10207 Inner classes should not fire up "acces to protected member" inspections  

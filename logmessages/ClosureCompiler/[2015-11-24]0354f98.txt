@@ -1,0 +1,1 @@
+  Various simplifications to the @record processing code.  Also, fix a few bugs related to FunctionType handling so that * function namespaces and * class's own properties (this.p) are considered as properties that match against a structural interface. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=108643212  

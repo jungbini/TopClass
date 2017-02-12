@@ -1,0 +1,1 @@
+  renamed ApiScalaCompiler to ZincScalaCompiler fixed exclusion of sources when building on JDK5  

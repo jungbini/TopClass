@@ -1,0 +1,1 @@
+  fixed IDEA-111701 Emacs: pressing Ctrl+k several times should add lines to muti-line buffer (regression for IDEA-18764, broken in IDEA-111275)  moveToLogicalPosition and moveToVisualPosition in CaretModel sometimes doesn't actually move caret and used to perform softwrap adjustment on document changes  

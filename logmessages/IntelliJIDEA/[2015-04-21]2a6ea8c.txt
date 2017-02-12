@@ -1,0 +1,1 @@
+  CommandLineReferenceContributor now skips all languages but CommandLine (fix by Yann Cebron)  

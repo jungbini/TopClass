@@ -1,0 +1,1 @@
+  fixed PY-11595 Unable to move lines within Python doc strings  

@@ -1,0 +1,1 @@
+  inspection tool window: fix - tree forget some of nodes when grouped by  packages IDEA-151314  

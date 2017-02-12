@@ -1,0 +1,1 @@
+  ui: use prettier Editor-like transparent scrollbars  * fix rendering - do not paint outside of thumbBounds  

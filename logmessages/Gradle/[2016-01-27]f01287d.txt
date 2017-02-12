@@ -1,0 +1,1 @@
+  Make test retry work also when Spock expects a specific exception  This is an attempt to fix one remaining CI failure in cross version tests using old version of daemon  

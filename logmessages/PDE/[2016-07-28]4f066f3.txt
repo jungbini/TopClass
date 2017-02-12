@@ -1,0 +1,1 @@
+ Merge pull request #4573 from tyfkda/feature/fix-typo2  Fix typo in comment  commit 4f066f331f1f9a16cec67e58b3d0e73ecd0b0697  fix to prevent random(lo, hi) from returning hi (fixes #4551)  

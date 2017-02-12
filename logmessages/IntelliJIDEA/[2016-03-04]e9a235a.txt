@@ -1,0 +1,1 @@
+  inspection tool window: show "nothing to view" panel when entry point node is selected. show fixes for unused declaration  

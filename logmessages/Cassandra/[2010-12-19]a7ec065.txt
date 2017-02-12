@@ -1,0 +1,1 @@
+  fix logging contexts patch by Dave Brosius; reviewed by jbellis for CASSANDRA-1879  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1050751 13f79535-47bb-0310-9956-ffa450edef68  

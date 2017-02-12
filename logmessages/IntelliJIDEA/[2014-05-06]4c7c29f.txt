@@ -1,0 +1,1 @@
+  Run/Debug buttons stay disabled, thread hanging if external tool configured as 'before launch task' fails to start.  

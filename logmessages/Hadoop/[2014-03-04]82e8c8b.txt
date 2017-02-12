@@ -1,0 +1,1 @@
+  YARN-1766. Fixed a bug in ResourceManager to use configuration loaded from the configuration-provider when booting up. Contributed by Xuan Gong.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1574252 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  DumpLogSegment offset verification is incorrect for compressed messages (second fix); patched by Yang Ye; reviewed by Jun Rao; KAFKA-614  git-svn-id: https://svn.apache.org/repos/asf/kafka/branches/0.8@1415004 13f79535-47bb-0310-9956-ffa450edef68  

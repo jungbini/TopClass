@@ -1,0 +1,1 @@
+  check if ddms service corrupted before debug and offer to restart  

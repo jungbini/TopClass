@@ -1,0 +1,1 @@
+  Fixed a problem with configuring module selection reasons. If the module was participating in the second pass of conlifct resolution, it selection reason was already 'conflict resolution'. So the decorating factory that adds the selection reason must take this under consideration. Added toString() to improve debugging.  

@@ -1,0 +1,1 @@
+  enable simultaneous editing for all xml inheritors except template #WEB-15916 fixed  

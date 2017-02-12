@@ -1,0 +1,1 @@
+  styling for content packs. fixes #1376, #1395  

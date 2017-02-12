@@ -1,0 +1,1 @@
+  prefer tag own attributes over common ones #WEB-9900 fixed  

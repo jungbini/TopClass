@@ -1,0 +1,1 @@
+  fixes Graylog2/graylog2-web-interface#1046  

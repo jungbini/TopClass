@@ -1,0 +1,1 @@
+  bug fixed: show object's synthetic "val$..." fields under object's node when the object is not frame's 'this' object  

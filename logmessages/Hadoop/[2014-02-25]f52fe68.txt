@@ -1,0 +1,1 @@
+  HDFS-6014. Fix findbug warnings introduced by HDFS-5583. Contributed by Kihwal Lee.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-5535@1571784 13f79535-47bb-0310-9956-ffa450edef68  

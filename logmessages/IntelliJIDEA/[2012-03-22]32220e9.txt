@@ -1,0 +1,1 @@
+  fixed PY-5268 Move statement: breaks code in case of indented one-line compound statements  

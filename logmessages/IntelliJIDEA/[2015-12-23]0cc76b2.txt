@@ -1,0 +1,1 @@
+  Fix debugging with Python2 on Windows with non-English locale (PY-17409)  Standart normcase() function doesn't change case for non-English letters, so we should do it manually.  

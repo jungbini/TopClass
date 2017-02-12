@@ -1,0 +1,1 @@
+  IDEADEV-25245 Seam: jPDL support: completion for 'class' attribute of action is incorrect in some cases IDEADEV-23529 Servlet class name completion in web.xml bug  

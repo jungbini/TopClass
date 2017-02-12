@@ -1,0 +1,1 @@
+  [groovy] do not add builder class to the list of inner classes & fix processing of @Builder annotation parameters (IDEA-125224)  

@@ -1,0 +1,1 @@
+  Compatibility with Python 3.0 release (previous version only worked with alphas); builtin module is renamed in 3.0 release, this causes PY-138 (not fixed yet). Proper constructor signatures for several built-in types (fixes PY-137 and PY-94). Decorators for restored methods (fixes PY-65).  

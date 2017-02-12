@@ -1,0 +1,1 @@
+  Fix a bug I introduced on processing text files; extract a method to decrease code duplication.  

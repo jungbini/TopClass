@@ -1,0 +1,1 @@
+  fix scaled icons blinking in auto-completion in debugger/eval dialog  

@@ -1,0 +1,1 @@
+  fixed PY-2684 "Too broad exception clause" false positive  

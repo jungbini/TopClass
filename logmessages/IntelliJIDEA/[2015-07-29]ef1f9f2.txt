@@ -1,0 +1,1 @@
+  fixed usage type for static fields and methods (IDEA-143229)  

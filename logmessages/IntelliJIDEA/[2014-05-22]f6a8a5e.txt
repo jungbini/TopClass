@@ -1,0 +1,1 @@
+  (IDEA-89870, IDEA-114058) hg4idea: java.lang.AssertionError: Invalid command  * data sending in prompt hooks python script  fixed (do not send len and data separately, because of DataInputStream 'feature' ) * comment added  

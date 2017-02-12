@@ -1,0 +1,1 @@
+  Fixed 'Implement members implement functions with no curly braces - not convenient'  #KT-1317 fixed  

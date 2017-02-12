@@ -1,0 +1,1 @@
+  use org.graylog2. as metric prefix, otherwise the values won't be displayed in the metrics browser  #1071  

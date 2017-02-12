@@ -1,0 +1,1 @@
+  *** Reason for rollback ***  Seems to have broken exoblaze builds. https://paste.googleplex.com/5185376662585344 happens when rebuilding after a trivial change (removed a single method).  *** Original change description ***  Rollforward of "Workaround for duplicate input basename bug in apple's libtool", with regex fix  -- MOS_MIGRATED_REVID=121483994  

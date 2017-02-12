@@ -1,0 +1,1 @@
+  fix problems: 1) incorrect implementation of GlobalSearchScope.compare(VirtualFile f1, VirtualFile f2) 2) Debugger now searches classes according to the runtime classpath of the module, specified in the RunConfiguration.  

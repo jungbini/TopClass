@@ -1,0 +1,1 @@
+  Fixed a bug on projection in case of group by: null-temporary record is removed  

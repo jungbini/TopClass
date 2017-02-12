@@ -1,0 +1,1 @@
+  [vcs-log] try to fix intelli sort icon by not fliping in runtime it but rather use already flipped version IDEA-137760  

@@ -1,0 +1,1 @@
+  Expose jansi to AntClassloader  This fixes GRADLE-4363. org.codehaus.groovy.tools.shell.util.Logger uses jansi to log errors. The Groovydoc ant task uses org.codehaus.groovy.tools.shell.util.Logger to log. Therefore it requires jansi. Exposing it via the classloader for ant seems like an easy way to fix this bug.  

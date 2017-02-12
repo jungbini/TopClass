@@ -1,0 +1,1 @@
+  javadoc correction (prefix vs. breadth-first) and a related internal renaming  

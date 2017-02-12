@@ -1,0 +1,1 @@
+  GitMergeUpdater: fix swapped local/server versions, extract method from GitTask.  

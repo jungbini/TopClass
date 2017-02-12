@@ -1,0 +1,1 @@
+  Fix issue# 68 - File monitor thread terminates on any removeWatch call. (only formatting and debug info changes)  git-svn-id: https://svn.java.net/svn/jna~svn/trunk@552 2f8a963e-d2e4-e7d0-97bf-ccb7fcea9d80  

@@ -1,0 +1,1 @@
+  MINOR: Typo fixes in ReplicaFetchMaxBytesDoc  Author: Dionysis Grigoropoulos <dgrig@erethon.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1228 from Erethon/trunk  

@@ -1,0 +1,1 @@
+  HADOOP-9266. Fix javac, findbugs, and release audit warnings on branch-trunk-win. Contributed by Chris Nauroth.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-trunk-win@1441084 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  fixed  PY-7744 Rerun failed tests should not rerun skipped tests  

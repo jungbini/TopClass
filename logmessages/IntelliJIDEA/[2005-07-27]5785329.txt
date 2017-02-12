@@ -1,0 +1,1 @@
+  getSubpackages will not produce cycles - todo StackOverflow fixed  

@@ -1,0 +1,1 @@
+  Teach index working with source roots with package prefix  #KT-9167 Fixed  

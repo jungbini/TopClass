@@ -1,0 +1,1 @@
+  git4idea: fixed bugs related to rebase. Now editor is enabled for skip and continue actions.  

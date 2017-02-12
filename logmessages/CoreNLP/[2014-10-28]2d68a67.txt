@@ -1,0 +1,1 @@
+  Fix bug: the size of saved should depend on toPreCompute in preCompute()  

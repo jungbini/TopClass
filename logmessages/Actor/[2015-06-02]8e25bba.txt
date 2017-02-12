@@ -1,0 +1,1 @@
+  fix(sequence): fixed sql query which was querying all authId's updates  

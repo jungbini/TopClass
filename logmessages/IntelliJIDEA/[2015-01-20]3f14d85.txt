@@ -1,0 +1,1 @@
+  [vcs-log][linear-bek] fix tails detection  An edge to the node with layout index lower than x does not mean it is not a tail. It is, just no need to remove that edge.  

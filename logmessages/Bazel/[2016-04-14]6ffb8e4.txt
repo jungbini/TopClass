@@ -1,0 +1,1 @@
+  Fixes bugs so that we can build bazel with bazel twice without cleaning up on Windows  -- Change-Id: I0048202b431ca05b88f67153389ca40c1542b1d5 Reviewed-on: https://bazel-review.googlesource.com/#/c/3371 MOS_MIGRATED_REVID=119861292  

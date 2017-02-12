@@ -1,0 +1,1 @@
+  Buck plugin fix buck kill command  Summary: Buck kill action didn't also kill the process. Also, moved all the actions to pooled thread to avoid synch issues  Test Plan: Tested by starting an action and killing it.  Reviewed By: cotizo  fbshipit-source-id: aec6298  

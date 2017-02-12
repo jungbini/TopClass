@@ -1,0 +1,1 @@
+  [platform] source providers reorganization  - Ivy source provider along with a base class moved to the platform - the base class reused to reduce duplication - NPE fixed (EA-80328)  

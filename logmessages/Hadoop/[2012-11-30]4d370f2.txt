@@ -1,0 +1,1 @@
+  MAPREDUCE-4478. Fixed a bug in TaskTracker's heartbeat to keep it under control. (Liyin Liang via vinodkv) svn merge --ignore-ancestry -c 1415848 ../branch-1   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.1@1415849 13f79535-47bb-0310-9956-ffa450edef68  

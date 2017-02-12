@@ -1,0 +1,1 @@
+  KAFKA-2601; ConsoleProducer tool shows stacktrace on invalid command parameters  Author: GabrielNicolasAvellaneda <avellaneda.gabriel@gmail.com>  Reviewers: Ewen Cheslack-Postava <me@ewencp.org>, Sriharsha Chintalapani <harsha@hortonworks.com>  Closes #269 from GabrielNicolasAvellaneda/KAFKA-2601-fix  

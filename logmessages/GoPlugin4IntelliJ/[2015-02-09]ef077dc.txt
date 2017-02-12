@@ -1,0 +1,1 @@
+ unify slice and index expression, fix #1276 as well  

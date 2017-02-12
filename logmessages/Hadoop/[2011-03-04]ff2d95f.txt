@@ -1,0 +1,1 @@
+Author: Owen O'Malley <omalley@apache.org> Date:   Tue Mar 23 09:21:45 2010 -0700  HADOOP-6656. Renew Kerberos TGT when 80% of the renew lifetime has been used up. Include fix for NPE in capacity scheduler tests. (omalley)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077359 13f79535-47bb-0310-9956-ffa450edef68  

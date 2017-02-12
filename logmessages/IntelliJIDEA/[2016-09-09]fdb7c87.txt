@@ -1,0 +1,1 @@
+  [java] fixes module reference caching  

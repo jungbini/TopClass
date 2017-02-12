@@ -1,0 +1,1 @@
+  smart url opener (reuse existing or new tab)  fix chrome ext: Uncaught TypeError: Cannot read property 'windowId' of undefined fix firefox ext: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIURI.host] (cherry-picked from da28c0d)  

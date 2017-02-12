@@ -1,0 +1,1 @@
+ Fixed lost workers managenet.  - Small changes on BlockMaster on how to handle lost and reappearing workers. The previous codes had a few problems due to the buggy IndexedSet implementation (see also [TACHYON-1108])  

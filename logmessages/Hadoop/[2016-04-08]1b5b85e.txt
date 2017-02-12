@@ -1,0 +1,1 @@
+ (cherry picked from commit 26a23eff828a3f4fcbd4362761c329657603277d)  Conflicts: hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DFSInputStream.java  

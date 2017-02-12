@@ -1,0 +1,1 @@
+  Update test to read prefix from a properties file, in order to make sure that resources are available at runtime  Story: gradle/langos#113  

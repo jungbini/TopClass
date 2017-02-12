@@ -1,0 +1,1 @@
+  fixed  PY-7864 Dostest: Statement expected: false positive for empty doctest  

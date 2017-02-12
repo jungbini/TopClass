@@ -1,0 +1,1 @@
+  WAL max size limit was restored. Free space detection bug was fixed. Additional improvements.  

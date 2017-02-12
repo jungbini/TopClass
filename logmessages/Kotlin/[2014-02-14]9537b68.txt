@@ -1,0 +1,1 @@
+  Load 'equals' parameter from Java code with the name 'other'  This fixes a lot of warnings on mixed Kotlin+Java code about 

@@ -1,0 +1,1 @@
+  maven: erroneous 'duplicate dependency' fixed  

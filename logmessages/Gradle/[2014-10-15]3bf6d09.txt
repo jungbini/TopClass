@@ -1,0 +1,1 @@
+  Some cleanup on AbstractSourcesAndJavadocJarsIntegrationTest  - remove reduntant test - fix some formatting  

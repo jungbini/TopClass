@@ -1,0 +1,1 @@
+ Add documentation for host resolution timeout (TACHYON-303)  Adds documentation for the new host resolution timeout configuration option introduced as part of the TACHYON-303 fix  

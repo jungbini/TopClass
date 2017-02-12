@@ -1,0 +1,1 @@
+  build scripts: compile additional modules to fix building IDEA CE  

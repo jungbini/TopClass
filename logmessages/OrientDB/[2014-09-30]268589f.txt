@@ -1,0 +1,1 @@
+  fixed connetion not close on connect negotiation failure.  Conflicts: enterprise/src/main/java/com/orientechnologies/orient/enterprise/channel/binary/OChannelBinaryAsynchClient.java  

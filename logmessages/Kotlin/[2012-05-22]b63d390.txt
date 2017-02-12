@@ -1,0 +1,1 @@
+  KT-1256 Error highlighting in IDE should be less annoying #KT-1256 fixed  

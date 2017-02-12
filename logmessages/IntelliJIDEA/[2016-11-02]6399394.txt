@@ -1,0 +1,1 @@
+  Plugins update dialog message improved #IDEA-149776 fixed  

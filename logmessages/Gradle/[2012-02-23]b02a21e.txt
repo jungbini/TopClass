@@ -1,0 +1,1 @@
+  Enabled the tooling api tests for windows. Keeping figers crossed the CI problems are fixed now.  

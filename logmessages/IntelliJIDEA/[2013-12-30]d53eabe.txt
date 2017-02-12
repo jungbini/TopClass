@@ -1,0 +1,1 @@
+  qualified name fixed (IDEA-118683)  

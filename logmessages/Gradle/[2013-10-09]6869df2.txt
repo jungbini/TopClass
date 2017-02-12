@@ -1,0 +1,1 @@
+  REVIEW-3374: fix/simplify calculation of template versions  

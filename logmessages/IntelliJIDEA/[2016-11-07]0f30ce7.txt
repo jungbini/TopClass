@@ -1,0 +1,1 @@
+  migrate to matchers inspection: fix for migration of "assertFalse(collection.contains(item));" statement (IDEA-163310)  

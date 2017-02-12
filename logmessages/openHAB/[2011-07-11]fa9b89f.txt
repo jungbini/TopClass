@@ -1,0 +1,1 @@
+  Fixed bug in activation of bluetooth binding  

@@ -1,0 +1,1 @@
+  bug fix do not combine receiverInfo with error selectorInfo  

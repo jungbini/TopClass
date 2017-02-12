@@ -1,0 +1,1 @@
+  Use debugger signatures and add return declarations in PyDocStringGenerator by default  

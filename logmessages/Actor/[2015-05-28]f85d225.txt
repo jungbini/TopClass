@@ -1,0 +1,1 @@
+  fix(web): remove recent dialogs header, cuz only recent dialogs shown on dialogs list;  

@@ -1,0 +1,1 @@
+  Refresh after directory re-creation  - unneeded fix reverted - correct tests added  

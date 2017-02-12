@@ -1,0 +1,1 @@
+  Fix split-zip for builds that use ProGuard with `-dontobfuscate`.  Summary: Instead of just checking whether the mapping file exists, we look for the `-dontobfuscate` flag in the full configuration file.  This is less likely to ignore an earlier error.  Test Plan: Unit tests.  Messenger release primary dex does not change.  Messenger debugshrink builds.  

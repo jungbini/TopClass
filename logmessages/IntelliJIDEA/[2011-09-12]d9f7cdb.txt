@@ -1,0 +1,1 @@
+mmand. Default encoding is fine: it is cp1251/UTF-8 for Win/Unix or HGENCODING if it is set: being set for IDEA it is inherited by the hg process spawned by IDEA. Together with 7eab3d8f8f it fixes IDEA-67158.  Remove redundant HgEncodingUtil.getDefaultCharsetName Add javadocs and @NotNulls  

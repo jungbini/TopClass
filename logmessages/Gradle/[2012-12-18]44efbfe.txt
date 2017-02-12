@@ -1,0 +1,1 @@
+  some cleanup on refactorings; extract more things out from MavenHttpModule to related test fixtures.  

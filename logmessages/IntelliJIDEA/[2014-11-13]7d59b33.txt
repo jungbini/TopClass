@@ -1,0 +1,1 @@
+  [log] A bit better fix for IDEA-132218  Don't check matching heads for each details filter, calculate it only once (if all details filters matched).  

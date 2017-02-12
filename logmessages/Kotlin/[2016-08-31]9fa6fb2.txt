@@ -1,0 +1,1 @@
+  Potential fix for some random errors about "cannot choose between equals invoke functions".  

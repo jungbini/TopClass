@@ -1,0 +1,1 @@
+  kotlin builder: print 'label in local history' message to log with 'debug' level and once per build (https://github.com/JetBrains/kotlin/pull/745)  

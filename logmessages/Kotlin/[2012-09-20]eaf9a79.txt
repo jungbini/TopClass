@@ -1,0 +1,1 @@
+  correct handling of delegate properties #KT-2786 fixed  

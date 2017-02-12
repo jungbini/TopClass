@@ -1,0 +1,1 @@
+  debugger autovariables: do not display variables used in local and anonymous classes out of current execution scope.  

@@ -1,0 +1,1 @@
+  [git] IDEA-134721 Don't let fixup at the first position in rebase editor  

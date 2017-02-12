@@ -1,0 +1,1 @@
+  Introduced protobuf generating script.  It generates two variants: lite (for runtime usage) and debug (for tests).  

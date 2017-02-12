@@ -1,0 +1,1 @@
+  fix style: sort public methods in alphabetical order  

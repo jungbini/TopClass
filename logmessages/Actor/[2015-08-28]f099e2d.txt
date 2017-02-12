@@ -1,0 +1,1 @@
+  fix(sever): don't throw exception when there is no bot in group  

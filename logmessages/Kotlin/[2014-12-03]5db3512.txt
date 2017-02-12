@@ -1,0 +1,1 @@
+  JS backend: fix KT-3692:  js translator: Ensure that we don't create backing fields for traits  #KT-3692 Fixed  

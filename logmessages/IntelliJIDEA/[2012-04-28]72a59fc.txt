@@ -1,0 +1,1 @@
+  IDEA-85310  GitHttpAdapter: remove "throw" occasionally left while debugging.  [reviewed by irengrig]  

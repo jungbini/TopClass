@@ -1,0 +1,1 @@
+  fixed PY-4020 Byte literal contains characters > 255: gets duplicated on every symbol > 255  

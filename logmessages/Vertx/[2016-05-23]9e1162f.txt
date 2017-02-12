@@ -1,0 +1,1 @@
+  Enable adding netty logging handler to log HTTP requests/responses - fixes #1262  

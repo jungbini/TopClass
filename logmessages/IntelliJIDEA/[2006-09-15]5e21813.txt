@@ -1,0 +1,1 @@
+  fixing stupid typo in isLegateeOfUndefinedElement() don't highlight namespace declarations as undefined attributes  

@@ -1,0 +1,1 @@
+  JAR metadata charset now defaults to UTF-8, fixes GRADLE-1506  One can use the `metadataCharset` property to set a 

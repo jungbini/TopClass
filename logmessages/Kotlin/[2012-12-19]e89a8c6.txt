@@ -1,0 +1,1 @@
+  KT-3159 Disallow overriding var with 

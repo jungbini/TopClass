@@ -1,0 +1,1 @@
+  Dispatch mouse move events to target tools [fix-34267]  

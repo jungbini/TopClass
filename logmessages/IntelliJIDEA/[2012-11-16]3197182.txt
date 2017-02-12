@@ -1,0 +1,1 @@
+  IDEA-90965 Preview color as background in addition to the gutter square  #IDEA-90965 fixed  

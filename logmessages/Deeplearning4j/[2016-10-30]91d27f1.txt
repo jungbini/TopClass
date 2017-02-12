@@ -1,0 +1,1 @@
+  Unsupported nIn and nOut methods on LossLayer. Make GraphBuilderModule an interface, and fix compilation error with EmbeddingLayer.  

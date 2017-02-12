@@ -1,0 +1,1 @@
+  IDEA-94910 (fix VFS root path on Windows)  

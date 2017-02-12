@@ -1,0 +1,1 @@
+  A better fix for multiple line comments before statement start  

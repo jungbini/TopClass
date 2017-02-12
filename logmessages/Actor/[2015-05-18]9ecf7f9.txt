@@ -1,0 +1,1 @@
+  fix(web): set minMessageHeight to 32  

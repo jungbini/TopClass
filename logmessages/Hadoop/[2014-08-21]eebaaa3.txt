@@ -1,0 +1,1 @@
+  HADOOP-10583. bin/hadoop key throws NPE with no args and assorted other fixups. (clamb via tucu)   Conflicts: hadoop-common-project/hadoop-common/CHANGES.txt  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1619519 13f79535-47bb-0310-9956-ffa450edef68  

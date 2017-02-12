@@ -1,0 +1,1 @@
+  fixed lightFindElementAt() which led to incorrect error-highligthing in case of presence of a prolog element  

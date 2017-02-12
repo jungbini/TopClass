@@ -1,0 +1,1 @@
+  fix sometimes and randomly breaking unit tests of OperationInterface by dynamically reading database name in stubs #WEBINTERFACE-105  

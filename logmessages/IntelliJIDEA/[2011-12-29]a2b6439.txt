@@ -1,0 +1,1 @@
+  IDEA-79402 (fix for choosing of JARs only in Mac native file chooser)  

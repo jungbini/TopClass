@@ -1,0 +1,1 @@
+  maven: delete button unmapped IDEA-27047 fix maven: startup activities fix reverted  

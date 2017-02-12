@@ -1,0 +1,1 @@
+  fixed sorting in tree bundle dialog and added speedsearch  

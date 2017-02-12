@@ -1,0 +1,1 @@
+  [groovy] introduce field fixed (IDEA-146530)  Honor replaced elements while generating initializer for constructors. Properly remove unnecessary occurrences (see tests for cases). Replace all items independently of initialize-in choice because unneeded occurence will will be removed later properly, so we do not have to deal with cases.  

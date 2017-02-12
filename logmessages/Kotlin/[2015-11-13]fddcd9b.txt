@@ -1,0 +1,1 @@
+  Workaround for bug in jdi: ClassCastException in invoke method with Object[] param using Interface[] argument  

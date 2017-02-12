@@ -1,0 +1,1 @@
+  tests statistics: fix font for to calculate string width  

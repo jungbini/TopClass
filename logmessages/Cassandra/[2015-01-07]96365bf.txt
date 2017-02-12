@@ -1,0 +1,1 @@
+  Ninja: fix minor unit test regression from CASSANDRA-8365  

@@ -1,0 +1,1 @@
+  fix tests: provide path for community output directory  

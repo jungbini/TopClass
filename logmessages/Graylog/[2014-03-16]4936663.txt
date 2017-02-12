@@ -1,0 +1,1 @@
+  fix too high float precision of chart details. fixes #712  

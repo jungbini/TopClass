@@ -1,0 +1,1 @@
+ Merge pull request #1440 from digitaldan/alarm-sensor-fix  Fixes #1434  commit 8633e4ad9c9bca069b4ef763d89372d093cf35f1  fixed another two bugs: 1) default contact bit mask should be 0x80, not 0x50 2) need to use Integer.decode() instead of .parseInt()  

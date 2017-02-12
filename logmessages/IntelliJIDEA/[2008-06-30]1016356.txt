@@ -1,0 +1,1 @@
+  enable debug for idea's coverage configurations (junit; application)  

@@ -1,0 +1,1 @@
+  fixed PY-10510 Web2Py: Incorrect auto-indent in views  the problem still persist when there is no tag between <!DOCTYPE> and web2py tag  

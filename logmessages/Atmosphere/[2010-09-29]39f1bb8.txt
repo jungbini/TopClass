@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=61 ("Fail the websocket handshake before invoking a resource")  See issue description  

@@ -1,0 +1,1 @@
+  HADOOP-13088. fix shellprofiles in hadoop-tools to allow replacement  

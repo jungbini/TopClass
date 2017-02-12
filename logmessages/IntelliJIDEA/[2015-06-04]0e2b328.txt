@@ -1,0 +1,1 @@
+  move lang attribute to html tag #WEB-16802 fixed  

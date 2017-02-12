@@ -1,0 +1,1 @@
+  Do not suggest "Replace infix with safe call" inside conditions or binary / unary expressions #KT-13328 Fixed  

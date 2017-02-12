@@ -1,0 +1,1 @@
+  fix "Usage of obsolete 'junit.framework.Assert'" inspection's problem descriptor  

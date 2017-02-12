@@ -1,0 +1,1 @@
+  Fixed bug about out of transaction scope for reload()  

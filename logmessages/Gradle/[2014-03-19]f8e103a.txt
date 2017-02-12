@@ -1,0 +1,1 @@
+  Temporary fix for failing tests before we drop functionality as promised in deprecation warnings.  

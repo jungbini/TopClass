@@ -1,0 +1,1 @@
+  Added toString() implementations to the NativeBinary subclasses, to fix up the output of `gradle tasks`.  

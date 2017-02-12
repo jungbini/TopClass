@@ -1,0 +1,1 @@
+  MaxCube fix for device type. Initial support for EcoSwitch  

@@ -1,0 +1,1 @@
+  added _score to reserved ES fields  fixes #WEBINTERFACE-347  

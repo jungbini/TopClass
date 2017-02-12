@@ -1,0 +1,1 @@
+  IDEA-110064 JSF 2.2: Pass-through elements: if upper-case symbols are used instead of default 'jsf' namespace prefix, attributes are red-highlihted  

@@ -1,0 +1,1 @@
+  fixed PY-13592 Create New Project: do not update user-changed fields when changing location  

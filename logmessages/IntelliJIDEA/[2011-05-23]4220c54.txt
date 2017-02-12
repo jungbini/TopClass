@@ -1,0 +1,1 @@
+  fixed PY-3642 Insert documentation stub: do not generate docs for self param in class methods  

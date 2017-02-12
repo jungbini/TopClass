@@ -1,0 +1,1 @@
+  Prohibit annotations, modifiers and default values for parameters in function type  #KT-7619 fixed  

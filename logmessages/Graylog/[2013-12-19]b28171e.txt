@@ -1,0 +1,1 @@
+  add throwable to bug warning in api client  

@@ -1,0 +1,1 @@
+  Fix for Safari closed websocket without error.  Fix for log functions missing jQuery prefix.  Added some debug level logging.  

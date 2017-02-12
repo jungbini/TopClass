@@ -1,0 +1,1 @@
+  EDIDE-105 finally fix. files created by user is now shown in task directories.  

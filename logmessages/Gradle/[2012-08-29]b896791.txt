@@ -1,0 +1,1 @@
+  Use verbose logging in the tooling API when debug logging is enabled for the test.  

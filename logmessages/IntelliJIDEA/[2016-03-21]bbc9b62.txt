@@ -1,0 +1,1 @@
+  Javafx: Simplify tests on event handler methods' signature. Implement quick fix that corrects the event handler method's signature. Move reused code to utility class. Add tests for the quick fix. (IDEA-151694)  

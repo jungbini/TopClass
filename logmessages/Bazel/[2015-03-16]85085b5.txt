@@ -1,0 +1,1 @@
+  Add missing ${SYNOPSIS} tags to some Bazel rule classes.  Also fix a typo (add missing &lt; ).  -- MOS_MIGRATED_REVID=88715707  

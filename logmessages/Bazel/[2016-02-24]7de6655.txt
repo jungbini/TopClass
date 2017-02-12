@@ -1,0 +1,1 @@
+  Use SSL for scala repository  Potentially fixes #968.  The http url redirects to https which our redirect logic currently doesn't handle. Confirmed the https location is correct manually.  -- MOS_MIGRATED_REVID=115412099  

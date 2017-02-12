@@ -1,0 +1,1 @@
+  Distributed: fixed problem with restarting a distributed server on the same JVM (mostly test purpose)  

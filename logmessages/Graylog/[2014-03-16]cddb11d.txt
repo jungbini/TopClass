@@ -1,0 +1,1 @@
+  confirm overriding of LB state. fixes #722  

@@ -1,0 +1,1 @@
+  Bug fixed: non int integer literals are processed correctly now  

@@ -1,0 +1,1 @@
+  Maven: assertion when accessing gdata context on startup fixed IDEA-76643  

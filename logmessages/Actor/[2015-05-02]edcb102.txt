@@ -1,0 +1,1 @@
+  fix(dashboard): fix migration in test - create and drop extension ltree  

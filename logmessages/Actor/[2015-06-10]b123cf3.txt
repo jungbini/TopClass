@@ -1,0 +1,1 @@
+  fix(web): call onChatEnd if scrolled to top to load history  

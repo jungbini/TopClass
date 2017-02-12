@@ -1,0 +1,1 @@
+  Fix bug where runtime exceptions weren't propagating correctly.  

@@ -1,0 +1,1 @@
+  find the base type during the spec type resolve, fix #2110  

@@ -1,0 +1,1 @@
+  fixed a bug in non-multithreaded CRF training  

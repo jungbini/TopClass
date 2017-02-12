@@ -1,0 +1,1 @@
+  IDEA-160020 Editor Search and Replace UI: switching to multiline mode (stage 4: fix icons for graphite OS X theme)  

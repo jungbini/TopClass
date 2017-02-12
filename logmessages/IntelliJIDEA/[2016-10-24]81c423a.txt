@@ -1,0 +1,1 @@
+  fixed condition extraction in tests  

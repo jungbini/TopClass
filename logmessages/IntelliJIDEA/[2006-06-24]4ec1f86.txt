@@ -1,0 +1,1 @@
+  Rolled back the 'fix' because "dispose()" on the console is (and must be) called at the ContentManager's level, via the ContentDescriptor containing the console  

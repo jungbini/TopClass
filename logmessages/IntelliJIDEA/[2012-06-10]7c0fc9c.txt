@@ -1,0 +1,1 @@
+  IDEA-87233 Intentions: convert "then" statement to block and similar additionally fixed  

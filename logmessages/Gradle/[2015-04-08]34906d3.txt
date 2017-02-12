@@ -1,0 +1,1 @@
+  GRADLE-3275 Implemented exclude-rule merging for ExcludeAllModulesSpec  - This avoids UnsupportedOperationException when resolving Ivy.xml files with particular excludes - After a couple of hours of trying, I failed to create an integration test that replicates this. So I stuck with a Unit test and simple fix.  

@@ -1,0 +1,1 @@
+  Parse all fields in the H_Message  Increased parsing of the H-Message and output it in debug  

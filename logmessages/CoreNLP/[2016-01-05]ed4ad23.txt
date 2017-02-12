@@ -1,0 +1,1 @@
+  fix package issue with chinese hcoref demo  

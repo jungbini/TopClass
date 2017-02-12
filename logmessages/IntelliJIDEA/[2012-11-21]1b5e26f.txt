@@ -1,0 +1,1 @@
+  IDEA-92746 IDEA-94901 fix problems with BuildConfig.java duplicates  

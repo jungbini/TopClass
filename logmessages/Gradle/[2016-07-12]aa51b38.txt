@@ -1,0 +1,1 @@
+  Quick spelling fix in Java Plugin documentation. (#667)  

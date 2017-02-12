@@ -1,0 +1,1 @@
+  [vcs-log] fix heads comparator: individual ref manager do not preserve roots order EA-75749  

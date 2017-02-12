@@ -1,0 +1,1 @@
+  Write a -gensrc.jar even if the compilation failed  The generated sources are useful for debugging annotation processors.  -- MOS_MIGRATED_REVID=122683781  

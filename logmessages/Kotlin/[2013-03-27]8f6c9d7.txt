@@ -1,0 +1,1 @@
+  Compatibility with 123 branch is lost - start using fixed AddSupportForSingleDialog from IDEA  

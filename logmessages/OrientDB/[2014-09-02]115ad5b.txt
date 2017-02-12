@@ -1,0 +1,1 @@
+  fix forced csv serialization for index changes, issue #2676  

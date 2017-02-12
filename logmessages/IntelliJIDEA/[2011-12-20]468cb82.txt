@@ -1,0 +1,1 @@
+  focus fix for progress windows that dont have time to show up and screw focus trackback  

@@ -1,0 +1,1 @@
+  support direct line navigation shorthand (submission from RUBY-12579 improved) #RUBY-12579 fixed  

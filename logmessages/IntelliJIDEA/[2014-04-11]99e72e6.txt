@@ -1,0 +1,1 @@
+  IDEA-97465 Can't edit variable values in debugger with double click (F2 is required) - get back double click on empty space  

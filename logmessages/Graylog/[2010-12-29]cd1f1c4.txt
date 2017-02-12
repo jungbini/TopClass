@@ -1,0 +1,1 @@
+  key problems fixed with this workaround following GELF spec change  

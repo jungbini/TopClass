@@ -1,0 +1,1 @@
+  GitBranchWidget: add log debug, call later only for non-edt event  Additional investigation attempt for IDEA-113231. According to comments, update() is not called when needed (but updates properly on click).  

@@ -1,0 +1,1 @@
+  show "connected" message in xdebugger views when debugger is started  

@@ -1,0 +1,1 @@
+  fix(android): check if activity still exists when delayed video play fires  

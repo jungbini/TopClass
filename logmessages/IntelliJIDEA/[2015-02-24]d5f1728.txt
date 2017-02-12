@@ -1,0 +1,1 @@
+  fixed PY-14971 Unresolved references: numpy.isnan, numpy.double  added double as dtype  

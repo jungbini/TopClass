@@ -1,0 +1,1 @@
+ Workaround the MSYS character escaping bug on native mingw builds only.  It was triggered on cross builds only before, so that native builds with the DevKit didn't work.  

@@ -1,0 +1,1 @@
+  tests for auto variables fixes (locals from outer classes)  

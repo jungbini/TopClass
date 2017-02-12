@@ -1,0 +1,1 @@
+  Test calling a protected supertype method in Task compile-compatibility test  - This validates the fix for GRADLE-3207  +review REVIEW-5306  

@@ -1,0 +1,1 @@
+  project leak fixed, do not create dialog in test  

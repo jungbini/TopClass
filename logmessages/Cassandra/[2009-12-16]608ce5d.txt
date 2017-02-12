@@ -1,0 +1,1 @@
+  fix stress.py supercolumn inserts.  patch by Brandon Williams; reviewed by jbellis for CASSANDRA-602  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@891101 13f79535-47bb-0310-9956-ffa450edef68  

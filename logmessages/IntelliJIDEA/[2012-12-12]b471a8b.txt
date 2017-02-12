@@ -1,0 +1,1 @@
+  fixed PY-8202 Introduce parameter: breaks code when introducing parameter for last ineffective statement  

@@ -1,0 +1,1 @@
+  Add @bazel_tools prefix to objc tools  This is in preparation for removing the requirement that base_workspace be in bazel's package_path.  -- MOS_MIGRATED_REVID=112489640  

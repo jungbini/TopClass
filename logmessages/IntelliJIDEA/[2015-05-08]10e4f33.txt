@@ -1,0 +1,1 @@
+  junit: allow debug in fork mode (IDEA-121566)  

@@ -1,0 +1,1 @@
+  Disable alert checks for paused streams, fixes #657  

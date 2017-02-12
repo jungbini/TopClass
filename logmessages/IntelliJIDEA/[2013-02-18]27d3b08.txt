@@ -1,0 +1,1 @@
+  fix "IncorrectOperationException: No line comment prefix defined for language HTML" (EA-42780)  

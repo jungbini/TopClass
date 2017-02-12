@@ -1,0 +1,1 @@
+  prevent to drag of outside the scatter chart. (#2105)  * bug fix. - add null check.  * bug fix. - wrong status display of time-slider  * prevent to drag of outside the scatter chart. implement area of time slider that don't have event info.  

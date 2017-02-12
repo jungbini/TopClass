@@ -1,0 +1,1 @@
+  HADOOP-8075. Lower native-hadoop library log from info to debug. Contributed by Hzr Sefa rken   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1376322 13f79535-47bb-0310-9956-ffa450edef68  

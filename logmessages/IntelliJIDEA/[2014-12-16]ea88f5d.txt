@@ -1,0 +1,1 @@
+  - backporting 5571366b6f9c5d78d9f359bacc44da2ea7f3a42c (invalidate handlers on rename / move), r=Peter.Gromov - deadlock fix (IDEA-134360) (r=Roman.Chevchenko)  

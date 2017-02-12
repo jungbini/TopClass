@@ -1,0 +1,1 @@
+  IDEA-131931 Debugger: Throwable at SuspendContextImpl.getDebugProcess() on opening Referring Objects dialog from itself - better fix  

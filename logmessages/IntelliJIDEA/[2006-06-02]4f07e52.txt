@@ -1,0 +1,1 @@
+  fix closing Session Bean editor && IDEADEV-5769 No confirmation in case of Session Bean creation Redo  

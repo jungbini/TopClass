@@ -1,0 +1,1 @@
+  fixed PY-13561 Hang on New Project action  it's asked on new project combobox creation  

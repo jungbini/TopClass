@@ -1,0 +1,1 @@
+  Html: fix tests. check html context before injection.  

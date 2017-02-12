@@ -1,0 +1,1 @@
+  Change List<AstChange> to a Set<AstChange> in CollapseProperties. This fixes a bug where the same reference was being added twice, which caused flattenReferencesTo to behave incorrectly. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=98838703  

@@ -1,0 +1,1 @@
+  remove extra module files from predex enabled builds  Summary: the staging directory for application modules was being placed in the output directory for the secondary dexes, causing them to be included in the apk twice for builds with predex enabled  Test Plan: built instrumentation debug tests with modules  Reviewed By: marcinkosiba  fbshipit-source-id: 8d3b679  

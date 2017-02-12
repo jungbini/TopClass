@@ -1,0 +1,1 @@
+  Github: GithubRebase fixes  * encode token * fix repository settings updating * add default host  

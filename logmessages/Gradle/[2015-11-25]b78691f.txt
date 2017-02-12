@@ -1,0 +1,1 @@
+  fix version settings for crossversion test after branching or release  

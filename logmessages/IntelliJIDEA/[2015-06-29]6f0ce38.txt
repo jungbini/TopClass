@@ -1,0 +1,1 @@
+  lst: correct range painting at the end of file in default mode  click area is still bugged though  

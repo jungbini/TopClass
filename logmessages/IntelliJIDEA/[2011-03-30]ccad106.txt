@@ -1,0 +1,1 @@
+  numpy docs; search for canonical name further up the module hierarchy (needed for numpy); fix NPE in substituting macros  

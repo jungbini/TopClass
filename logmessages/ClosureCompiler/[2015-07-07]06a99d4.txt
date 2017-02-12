@@ -1,0 +1,1 @@
+  Fix a couple of bugs in the printing of arrow functions.  Most importantly, x=>(a,b) needs parens around the body to avoid being parsed as (x=>a),b ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=97713839  

@@ -1,0 +1,1 @@
+  IDEA-86776 fix filtering of process name, add "show all" checkbox  

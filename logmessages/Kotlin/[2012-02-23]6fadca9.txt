@@ -1,0 +1,1 @@
+  Fixed 'Completion suggests live tempates in name position'  #KT-1374 fixed  

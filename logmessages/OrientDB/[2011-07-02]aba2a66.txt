@@ -1,0 +1,1 @@
+  Index: Committed patch by Andrey Lomakin that fixes OIndexMVRBTreeAbstract#getEntriesBetween  

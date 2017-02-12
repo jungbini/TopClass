@@ -1,0 +1,1 @@
+  fixed PY-4293 Conditional expression in return clause is not flagged as incompatible with Python 2.4 removed duplicated tests  

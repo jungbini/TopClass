@@ -1,0 +1,1 @@
+  more diagnostics and possible fixes for EA-46770: don't let code fragment documents be gc'ed  

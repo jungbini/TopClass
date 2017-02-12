@@ -1,0 +1,1 @@
+  fix the documented property name for specifying avro reader schema (#3708)  

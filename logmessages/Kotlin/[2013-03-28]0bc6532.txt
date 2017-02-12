@@ -1,0 +1,1 @@
+  KT-1547 Wrong layout of closure classes  #KT-1547 fixed  

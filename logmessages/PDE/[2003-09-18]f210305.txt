@@ -1,0 +1,1 @@
+  fix bug in new color setting stuff, other imaging updates  

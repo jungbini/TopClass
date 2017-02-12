@@ -1,0 +1,1 @@
+  fixed updating reference to facets when just added module is renamed  

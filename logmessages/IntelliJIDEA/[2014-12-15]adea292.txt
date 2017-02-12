@@ -1,0 +1,1 @@
+  PY-8989 First attempt to handle multiline glued strings  Combine content of all glued nodes of string literal with com.jetbrains.python.psi.PyStringLiteralExpression#getStringValueTextRanges and then distribute them over separate lines. As a consequence any node-specific quotes or prefixes are not preserved.  

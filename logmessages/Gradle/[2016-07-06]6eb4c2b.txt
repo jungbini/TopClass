@@ -1,0 +1,1 @@
+  Minor style fixes (#663)  * NativeServices: Fix broken indentation  * ConsoleMetaData: Remove a redundant "public" modifier  

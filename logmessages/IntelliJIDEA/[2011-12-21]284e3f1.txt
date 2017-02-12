@@ -1,0 +1,1 @@
+  IDEA-78660: XSLT debug: Breakpoints dialog: there are two XSLT Breakpoints tabs  

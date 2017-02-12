@@ -1,0 +1,1 @@
+ Merge pull request #4055 from PasaLab/docfix-zyf-20161010  [DOCFIX] Add Running-Alluxio-on-Mesos.md of Chinese version  commit 33e4119fc541804ae305e9d300f33601f3df8521  fixed the output file name from running tests  

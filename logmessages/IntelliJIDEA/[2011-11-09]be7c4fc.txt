@@ -1,0 +1,1 @@
+  don't pass null quickfix provider if none is available  

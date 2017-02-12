@@ -1,0 +1,1 @@
+  Further attempt to fix handling of POMs with unicode paths in JDK 1.6 on Linux - Ensure that file urls passed into the ModuleDescriptorParser are UTF-8 encoded  

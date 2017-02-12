@@ -1,0 +1,1 @@
+  display throughput and node count in header  fixes #270  

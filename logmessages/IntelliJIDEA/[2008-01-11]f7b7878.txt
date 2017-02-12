@@ -1,0 +1,1 @@
+  IDEADEV-24065 - Debugger: UI: the detached view hides on Debug view switching to non-floating mode  

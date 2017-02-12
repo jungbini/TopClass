@@ -1,0 +1,1 @@
+  fixed tests on Mac: mark as allowed paths from JDK located not under JDK home (accessible via symlink)  

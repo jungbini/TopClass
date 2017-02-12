@@ -1,0 +1,1 @@
+  Fix incorrect diagnostic message for CONFLICTING_OVERLOADS  - the member and the container were mixed up - don't output "defined in" part of the message, because we tell later where it's already defined in - fix an instability of the diagnostic order in OverloadResolver by using LinkedHashSet  

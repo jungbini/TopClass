@@ -1,0 +1,1 @@
+  IDEA-102422: XPath: and/or expression with a path with a prefixed name as argument is red  

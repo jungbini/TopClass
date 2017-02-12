@@ -1,0 +1,1 @@
+  extends final inspection: compare non captured types (fix foreach loops)  

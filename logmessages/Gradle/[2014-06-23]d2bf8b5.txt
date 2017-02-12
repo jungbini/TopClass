@@ -1,0 +1,1 @@
+  Incremental java compilation - lowered down some lifecycle logging to info level. This could be tuned down to debug later in necessary.  

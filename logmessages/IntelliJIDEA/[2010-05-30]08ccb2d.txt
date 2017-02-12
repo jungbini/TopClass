@@ -1,0 +1,1 @@
+  fixed class cast exception while rename refactoring (PY-1022)  

@@ -1,0 +1,1 @@
+  fix(core): end call if already on call  

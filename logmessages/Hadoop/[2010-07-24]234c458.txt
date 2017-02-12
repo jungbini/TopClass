@@ -1,0 +1,1 @@
+  HBASE-2873  Minor clean up in basescanner; fix a log and make deletes of region processing run in order  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@978797 13f79535-47bb-0310-9956-ffa450edef68  

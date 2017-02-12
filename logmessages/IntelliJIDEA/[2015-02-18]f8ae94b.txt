@@ -1,0 +1,1 @@
+  quick fix: IDEA-136382 Bundled custom file types disappear  

@@ -1,0 +1,1 @@
+  fixed page titles if label contains state value  

@@ -1,0 +1,1 @@
+  Potential fix for SslHandler dead lock  - Related with: #1181  

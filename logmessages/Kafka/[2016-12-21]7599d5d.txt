@@ -1,0 +1,1 @@
+  MINOR: Fix document header/footer links  Based on:  https://github.com/apache/kafka-site/pull/27  I recommend also merging into 10.1.0.0 branch to avoid mishaps when re-publishing docs.  Author: Gwen Shapira <cshapi@gmail.com>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #2077 from gwenshap/protocol_doc_fix  

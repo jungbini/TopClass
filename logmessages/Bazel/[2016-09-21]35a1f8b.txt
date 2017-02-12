@@ -1,0 +1,1 @@
+  Be honest about type in Type#visitLabels  We avoided referencing Label directly, but as the code evolved it became inevitable.  Also fix a typo I introduced earlier.  -- MOS_MIGRATED_REVID=133831955  

@@ -1,0 +1,1 @@
+  Fix decorator related bug of NodeSet. Also, tweaked return value of add_child_node so that temporary root node won't be showed up later.  

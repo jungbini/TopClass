@@ -1,0 +1,1 @@
+  tune anonymous fields processing a bit; fix #1369  

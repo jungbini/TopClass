@@ -1,0 +1,1 @@
+  Fix an embarrassing bug in the stub build-runfiles script used during bootstrapping.  It apparently happened not to make a 

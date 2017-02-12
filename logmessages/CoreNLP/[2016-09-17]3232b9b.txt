@@ -1,0 +1,1 @@
+  Fixed a bug in Chinese number normalizer where sometimes ten is incorrecly normalized  

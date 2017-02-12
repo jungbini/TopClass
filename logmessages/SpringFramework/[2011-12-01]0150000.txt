@@ -1,0 +1,1 @@
+  backported TaskExecutorAdapter fix (SPR-8772)  

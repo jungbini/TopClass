@@ -1,0 +1,1 @@
+  fix(server:eventbus): respond with RpcError if event bus is not found  

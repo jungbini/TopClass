@@ -1,0 +1,1 @@
+  AppCode: npe + incorrect logic for pseudo-accessors fixed (after OC-5059) + tests  

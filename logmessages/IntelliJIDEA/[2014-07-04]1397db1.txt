@@ -1,0 +1,1 @@
+  fix our new v8 debugger protocol context problem  if we cannot grab object by id  well, just add fake node, so, we avoid infinite "collection" message  

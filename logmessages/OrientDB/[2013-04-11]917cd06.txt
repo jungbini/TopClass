@@ -1,0 +1,1 @@
+  Fixed bug on union and management of collection/arrays using the dot notation  

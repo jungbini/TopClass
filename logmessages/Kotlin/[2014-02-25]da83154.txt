@@ -1,0 +1,1 @@
+ Nullability fixed for a JS DOM stub  

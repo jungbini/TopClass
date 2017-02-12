@@ -1,0 +1,1 @@
+  fix command launcher creation on mac #IDEA-128480 fixed  

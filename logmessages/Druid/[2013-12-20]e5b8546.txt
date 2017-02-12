@@ -1,0 +1,1 @@
+  Autoscaling fixes.  - Initial targetWorkerCount must be subject to pool size limits - Use consistent workerSetupData for the entire autoscaling run - Don't call terminate() when we have nothing to terminate - Terminate obsolete workers even faster  

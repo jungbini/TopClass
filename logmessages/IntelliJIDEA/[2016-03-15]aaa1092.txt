@@ -1,0 +1,1 @@
+  IDEA-70943 Tooltip animations and buggy visibility are exceedingly frustrating  

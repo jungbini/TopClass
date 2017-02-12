@@ -1,0 +1,1 @@
+  Fixed OProfiler bug converting hooks in a weak hash map  

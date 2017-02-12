@@ -1,0 +1,1 @@
+  IDEA-89888 editor: fix painting of overlapping stripe markers with the same layer  * do not cut yEnd in case of two enclosed ranges with the same layer: [long (short range) range] * paint two stripes for two intersecting ranges with the same layer and 

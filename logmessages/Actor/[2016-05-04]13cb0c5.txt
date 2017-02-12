@@ -1,0 +1,1 @@
+  deps(server): upgrade sbt-actor-api with fix of container serialization  

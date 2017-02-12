@@ -1,0 +1,1 @@
+  xdebugger: added method to show breakpoints dialog  

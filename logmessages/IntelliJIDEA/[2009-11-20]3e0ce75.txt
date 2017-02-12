@@ -1,0 +1,1 @@
+  Maven: do not remove user-project libraries on import + test fixes  

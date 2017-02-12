@@ -1,0 +1,1 @@
+  GitRepositoryManager: initially update repositories after project startup.  This also fixes "DirectoryIndex is not initialized" exception.  Scan for errors outside of the synchronized block.  

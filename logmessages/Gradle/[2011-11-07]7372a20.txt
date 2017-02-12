@@ -1,0 +1,1 @@
+  Fix the bug in TempFileResolutionCacheManager when the cache is deleted during gradle execution - Not certain that this is even required any more  

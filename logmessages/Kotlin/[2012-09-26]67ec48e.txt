@@ -1,0 +1,1 @@
+  KT-2829 Local variables used only in multi-declaration are marked as unused #KT-2829 fixed  

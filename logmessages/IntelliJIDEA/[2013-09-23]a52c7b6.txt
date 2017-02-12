@@ -1,0 +1,1 @@
+  fixed PY-9262 Instance attribute defined outside init: false positive with superclass constructor call in class  

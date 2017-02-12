@@ -1,0 +1,1 @@
+there's no properties field in interpreter-setting.json  

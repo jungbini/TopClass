@@ -1,0 +1,1 @@
+  Fix bug - final entity type wasn't printed if last token of file is entity.  

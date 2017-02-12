@@ -1,0 +1,1 @@
+  Apply fix for http://java.net/jira/browse/ATMOSPHERE-85 ("Compatibility issue with Prototype.js and problem with streaming")  Patch provided by kuboluch  

@@ -1,0 +1,1 @@
+  JS: fixed exists() to support null types  

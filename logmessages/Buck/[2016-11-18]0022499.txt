@@ -1,0 +1,1 @@
+  updated PCH filename pattern  Summary: Update the ID building code for PCH files; the filenames should have a prefix part that is common to other PCHs for which it is likely a candidate for reuse.  This will help decrease the number of PCHs built and speed up build jobs.  Test Plan: * watch CI for existing tests  Reviewed By: Coneko  fbshipit-source-id: 17604ae  

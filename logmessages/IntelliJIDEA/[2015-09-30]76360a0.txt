@@ -1,0 +1,1 @@
+  fixed EA-73522 - NPE: PythonTestConfigurationProducer.isConfigurationFromContext  

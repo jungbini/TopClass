@@ -1,0 +1,1 @@
+  show the debug query link on the "empty results" page as well  - factored the actual modal out of the sidebar  

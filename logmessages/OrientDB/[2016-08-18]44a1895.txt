@@ -1,0 +1,1 @@
+  fixed db listener calls with delagate  

@@ -1,0 +1,1 @@
+  fix(server): downgrade hikaricp due https://github.com/brettwooldridge/HikariCP/issues/597  

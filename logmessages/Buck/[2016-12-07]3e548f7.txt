@@ -1,0 +1,1 @@
+  rust: fix doc for crate_root  Summary: Also bump rustc version  Test Plan: CI  Reviewed By: bolinfest  fbshipit-source-id: 4cbe92c  

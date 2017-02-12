@@ -1,0 +1,1 @@
+  added tests for 'parent' pseudoclass and h1[a] as a search for child::a. also fixed 'empty' test.  

@@ -1,0 +1,1 @@
+  Behavior on typing chars with code completion lookup is completely defined by our own handler + added tests for this handler + fixed a few bugs related to this behavior  

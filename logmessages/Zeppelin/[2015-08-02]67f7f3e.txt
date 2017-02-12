@@ -1,0 +1,1 @@
+commitcomment-12477286  Author: Rohit Agarwal <mindprince@gmail.com>  Closes #177 from mindprince/sync-fix and squashes the following commits:  ad9b5ca [Rohit Agarwal] Fix redundant synchronization on same object.  

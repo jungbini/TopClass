@@ -1,0 +1,1 @@
+ts that are in the given branch, but not in any remote branches in the given remote: `git log new_branch --not --remotes=origin` This fixes IDEA-83227.  

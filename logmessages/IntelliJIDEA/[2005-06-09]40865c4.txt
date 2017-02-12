@@ -1,0 +1,1 @@
+  fixed issue with nested exception during tear down causing initial exception to be forgotten  

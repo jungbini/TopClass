@@ -1,0 +1,1 @@
+  Sort the source files in the VisualStudio ProjectFile fixture for consistent test results.  

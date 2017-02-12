@@ -1,0 +1,1 @@
+  PY-13304 Always use continuation indent after function arguments  It probably conflicts with existing fix for PY-12749.  

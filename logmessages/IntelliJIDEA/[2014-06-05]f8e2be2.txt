@@ -1,0 +1,1 @@
+  do not recreate breakpoint highlighter if not requested implicitly, this fixes jumping breakpoints on several quick line insertions  

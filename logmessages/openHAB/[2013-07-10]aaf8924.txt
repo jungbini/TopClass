@@ -1,0 +1,1 @@
+  fixed MANIFEST und build.properties to make build work again  

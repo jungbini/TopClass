@@ -1,0 +1,1 @@
+  RUBY-12947: we have to explicitly specify ruby default external encoding for cucumber run #RUBY-12947 fixed  

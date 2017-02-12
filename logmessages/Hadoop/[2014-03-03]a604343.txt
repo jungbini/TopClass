@@ -1,0 +1,1 @@
+  YARN-1758. Fixed ResourceManager to not mandate the presence of site specific configuration files and thus fix failures in downstream tests. Contributed by Xuan Gong.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1573695 13f79535-47bb-0310-9956-ffa450edef68  

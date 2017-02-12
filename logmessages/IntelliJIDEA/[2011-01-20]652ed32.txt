@@ -1,0 +1,1 @@
+  xdebugger: allow to show additional actions in debug tool window  

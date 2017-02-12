@@ -1,0 +1,1 @@
+  fixed duplicated entries for project structure dialog in workspace.xml  

@@ -1,0 +1,1 @@
+  Replace ClusterEvent#date() with ClusterEvent#timestamp()  The DateTime type is being serialized as string into MongoDB which makes comparisons hard. We could hack-fix the ObjectMapper instance used by MongoJack, but this is faster.  

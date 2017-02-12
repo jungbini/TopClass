@@ -1,0 +1,1 @@
+  Ctrl+Click further fixes. Now works with multiple statements on a line.  

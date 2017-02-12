@@ -1,0 +1,1 @@
+  Make scrollpane and caption panel initialization overrideable [fix-30488]  

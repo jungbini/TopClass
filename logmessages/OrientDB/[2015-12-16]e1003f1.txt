@@ -1,0 +1,1 @@
+  fixed bug on detach of embedded map in object database, issue #5473  

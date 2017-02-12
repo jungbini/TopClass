@@ -1,0 +1,1 @@
+  show simple reference expressions used in current context in "all-variables" mode of debugger's Frame view  

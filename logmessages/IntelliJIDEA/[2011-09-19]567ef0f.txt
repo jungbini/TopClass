@@ -1,0 +1,1 @@
+  Git: fix LocalChangesUnderRoots grouping changes by roots. Add a test.  

@@ -1,0 +1,1 @@
+  rewrite sendRR API to fix regressions from #6132 patch by jbellis; reviewed by brandonwilliams for CASSANDRA-6165  

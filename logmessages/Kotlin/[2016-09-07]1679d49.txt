@@ -1,0 +1,1 @@
+  KT-8283: fix Kotlin.equals method to compare arrays by reference  

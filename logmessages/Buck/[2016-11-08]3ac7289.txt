@@ -1,0 +1,1 @@
+  Implement --wait-for-debugger (-w) for install android apk command  Summary: Pass -D flag to "am start" command if -w set. Should be used in together with -r. Closes https://github.com/facebook/buck/pull/985  Reviewed By: marcinkosiba  fbshipit-source-id: dd2b1e1  

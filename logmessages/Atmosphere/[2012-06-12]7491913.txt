@@ -1,0 +1,1 @@
+  Incremental fix for #413 IE8 & FF12 - 

@@ -1,0 +1,1 @@
+  REVIEW-1471 Made the fixture fail gracefully if afterExecute actions are configured for async Gradle execution.  

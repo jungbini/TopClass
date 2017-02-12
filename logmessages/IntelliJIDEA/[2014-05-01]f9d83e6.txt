@@ -1,0 +1,1 @@
+  [git tests] fix GitAddSteps  * explicitly mark file as dirty * use synchronous CLM.ensureUpToDate.  

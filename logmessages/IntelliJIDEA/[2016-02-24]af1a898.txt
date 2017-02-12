@@ -1,0 +1,1 @@
+  inline local: fix usages inside lambda body (IDEA-151960)  

@@ -1,0 +1,1 @@
+  buf fixed \x28 for single quote  

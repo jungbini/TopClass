@@ -1,0 +1,1 @@
+  fixed PY-3854 Code compatibility inspection should highlight usages of 'basestring' in py3 code as error  

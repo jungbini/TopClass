@@ -1,0 +1,1 @@
+  (IDEA-122795)  problem with merge during update project fixed  *execution pull with update or rebase reverted to the separeted calls pull and update or rebase; *separate rebase command implemented; *annotations added; *text indicator added;  

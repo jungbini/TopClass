@@ -1,0 +1,1 @@
+  Addition to the fix for IDEA-84746: use correct ModalityState  Addition to a6a0e32 According to the review by peter. (cherry-picked from 641cc5e)  

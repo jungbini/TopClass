@@ -1,0 +1,1 @@
+  Maven: Indices refactored and synchronized Maven: tests fixed  

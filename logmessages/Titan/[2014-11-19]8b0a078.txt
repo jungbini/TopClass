@@ -1,0 +1,1 @@
+  Fix bug in shorthand argument interpretation  a2149cec1d2d9b52b1bad596ef8cb1accdd2f3db broke a static initializer cycle triggered by TitanFactory.open('backend:arg') shorthand invocation, but it also added a bug that broke interpretation the 'arg' part of the shorthand.  This is related to #831.  

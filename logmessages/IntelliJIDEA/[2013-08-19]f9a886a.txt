@@ -1,0 +1,1 @@
+  DevKit: fix resolve scope for plugin IDs (include libraries)  

@@ -1,0 +1,1 @@
+56925d6 [Jeff Zhang] ZEPPELIN-1342. Adding dependencies via SPARK_SUBMIT_OPTIONS doesn't work on Spark 2.0.0  (cherry picked from commit c1999ea806fdb2a0739dc566420253af5cab8c46) Signed-off-by: Lee moon soo <moon@apache.org>  

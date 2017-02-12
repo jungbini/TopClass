@@ -1,0 +1,1 @@
+ Minor fix to indent. This is a follow-up to adding an UnsupportedOperationException in the KerasModelImport(InputStream) constructor.  

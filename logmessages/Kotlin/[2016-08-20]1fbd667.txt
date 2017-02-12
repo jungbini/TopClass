@@ -1,0 +1,1 @@
+  Add quickfix for "A type annotation is required on a value parameter" #KT-12804 Fixed  

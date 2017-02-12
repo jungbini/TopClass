@@ -1,0 +1,1 @@
+  Merge -c 1366280 from branch-1 to branch-1.1 to fix MAPREDUCE-782. Use PureJavaCrc32 in mapreduce spills.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.1@1390029 13f79535-47bb-0310-9956-ffa450edef68  

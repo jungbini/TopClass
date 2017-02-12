@@ -1,0 +1,1 @@
+  WEB-16972 'Collecting data' is shown in debugger tooltips when debugging with sourcemaps  

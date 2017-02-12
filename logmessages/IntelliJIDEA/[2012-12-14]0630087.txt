@@ -1,0 +1,1 @@
+  Darcula theme fixed for CoffeeScript language (cherry-picked from ed5d7a0) (reviewed by Denis Ushakov)  

@@ -1,0 +1,1 @@
+  Added debugging info to ShellSpout and pulled in latest upstream master.  

@@ -1,0 +1,1 @@
+  MINOR: Fix syntax used for comment in JAAS config file  Simple fix, but important because the incorrect syntax causes the server not to start.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Grant Henke, Guozhang Wang  Closes #819 from ijuma/fix-jaas-comment-syntax  

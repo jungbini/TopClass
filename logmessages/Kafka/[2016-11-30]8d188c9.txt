@@ -1,0 +1,1 @@
+  KAFKA-4271: Fix the server start script for Windows 32-bit OS  Without this fix the new consumer fails to run on a 32-bit Windows OS.  Author: Vahid Hashemian <vahidhashemian@us.ibm.com>  Reviewers: Jason Gustafson, Guozhang Wang  Closes #2189 from vahidhashemian/KAFKA-4271  

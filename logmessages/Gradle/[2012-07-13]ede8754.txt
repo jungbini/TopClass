@@ -1,0 +1,1 @@
+  GRADLE-2318: Add coverage for resolving nonunique snapshots versions from authenticated http maven repo. / refactor root maven-metadata handling in MavenRepository Test fixture  

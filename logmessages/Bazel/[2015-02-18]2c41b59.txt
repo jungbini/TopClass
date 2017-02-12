@@ -1,0 +1,1 @@
+  Add OutErr#close, and call that in test strategies.  This fixes "Text file is busy" when trying to execute log files for local tests just after blaze finishes.  -- MOS_MIGRATED_REVID=86597766  

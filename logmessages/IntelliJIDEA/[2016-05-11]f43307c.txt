@@ -1,0 +1,1 @@
+  fix recompile on resource files  

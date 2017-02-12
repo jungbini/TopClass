@@ -1,0 +1,1 @@
+  Fixed bug when previous checkpoint is not accounted.  

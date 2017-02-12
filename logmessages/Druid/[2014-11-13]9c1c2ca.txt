@@ -1,0 +1,1 @@
+ move IndexTask to use hashed partition; fixes #815  Conflicts: indexing-service/src/main/java/io/druid/indexing/common/task/IndexTask.java  

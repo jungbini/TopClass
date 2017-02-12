@@ -1,0 +1,1 @@
+  HDFS-2646. Hadoop HttpFS introduced 4 findbug warnings. (tucu)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1221572 13f79535-47bb-0310-9956-ffa450edef68  

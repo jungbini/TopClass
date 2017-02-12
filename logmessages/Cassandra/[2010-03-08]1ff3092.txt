@@ -1,0 +1,1 @@
+  fix classpath in cassandra-cli.bat for Windows.  patch by Morten Wegelbye Holm; reviewed by jbellis for CASSANDRA-858  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.6@920417 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  1) Try to fix the dependency issues for running the HadoopDruidIndexer locally.  

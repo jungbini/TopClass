@@ -1,0 +1,1 @@
+  vcs: fix target line in "Annotate [Previous] Revision"  scroll to the line user clicked on, not to the caret position in editor  

@@ -1,0 +1,1 @@
+  Work around compiler bug: rewriting one trait in Java  

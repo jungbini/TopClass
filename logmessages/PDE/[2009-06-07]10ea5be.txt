@@ -1,0 +1,1 @@
+ bug fixes (1.0.5)  commit 10ea5be8029c48ba23a4656623088eb60df9a52a  fix capitalization issue  

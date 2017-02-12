@@ -1,0 +1,1 @@
+  fixed PY-9715 Inconsistent "Too broad exception clauses" inspection  

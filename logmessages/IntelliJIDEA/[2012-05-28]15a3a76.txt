@@ -1,0 +1,1 @@
+  Table & Grid: fix for repaint before apply new component  

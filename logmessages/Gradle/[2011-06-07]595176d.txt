@@ -1,0 +1,1 @@
+  Fixed this lovely & beautiful :) test after merging the fix for GRADLE-1457. The init script now is correctly applied to both projects: the buildSrc and the regular project. So logger test needed to be fixed - some log entries appear twice in the output.  

@@ -1,0 +1,1 @@
+  Add a dependency descriptor to the generated project so that the performance tests can use it  * avoids scanning the whole source tree to find the dependents of a project * fixes a bug in the updated file list * temporarily(?) comment out the 50% changes version of tests as it doesn't seem to have dramatically 

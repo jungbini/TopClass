@@ -1,0 +1,1 @@
+  Infer "this" for function expressions in calls when they declare parameters. This fixes one of the common causes for property references off of "unknown" objects types. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=56864362  

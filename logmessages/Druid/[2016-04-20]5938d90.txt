@@ -1,0 +1,1 @@
+  Stream segments from database (#2859)  * Avoids fetching all segment records into heap by JDBC driver * Set connection to read-only to help database optimize queries * Update JDBC drivers (MySQL has fixes for streaming results)  

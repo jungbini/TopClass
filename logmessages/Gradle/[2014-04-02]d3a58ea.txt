@@ -1,0 +1,1 @@
+  Upgraded to new version of native-platform, to pick up fixes for non-ascii file names under apple jvm.  

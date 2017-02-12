@@ -1,0 +1,1 @@
+  HDFS-1718. Federation: MiniDFSCluster#waitActive() bug causes some tests to fail. Contributed by Suresh Srinivas.    git-svn-id: https://svn.apache.org/repos/asf/hadoop/hdfs/branches/HDFS-1052@1077847 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  [vcs-log] redo toolbar height fix, now minding l&f changes and the height of search window on mac and win  

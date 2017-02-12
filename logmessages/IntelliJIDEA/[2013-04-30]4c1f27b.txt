@@ -1,0 +1,1 @@
+  IDEA-104567 fix pattern for filtering android logcat: the tag may be empty [rev=alexander.lobas]  

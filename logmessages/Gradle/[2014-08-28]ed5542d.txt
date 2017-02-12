@@ -1,0 +1,1 @@
+  don't use fix port in SonarRunnerSmokeIntegrationTest  +review REVIEW-5170  

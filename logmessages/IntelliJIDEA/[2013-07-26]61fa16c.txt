@@ -1,0 +1,1 @@
+  ColoredTextContainer  avoid Swing dependency, ability to copy frames (as in JS debugger, now it is supported for all debuggers)  

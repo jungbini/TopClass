@@ -1,0 +1,1 @@
+  Testresourcescleanup (#1807)  * add method over load to simplify evaluation (useful for dropout where its easy to forget to add the train true/false parameter  * add dl4j streaming module  * use new get temp file from archive  * update tests  * fix lfw defaults  

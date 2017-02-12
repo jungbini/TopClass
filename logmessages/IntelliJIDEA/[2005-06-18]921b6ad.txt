@@ -1,0 +1,1 @@
+  fixed issue with enumerated values calculation in schema (error with maxOccurs="1" in xml schema documents)  

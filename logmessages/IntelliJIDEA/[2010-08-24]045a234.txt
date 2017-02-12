@@ -1,0 +1,1 @@
+  Git: git log, a bug with page navigation. plus correct (equal) page size loaded/shown  

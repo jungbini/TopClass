@@ -1,0 +1,1 @@
+  Fix pointer offset in binary sensor and null return from SensorType Added debug messages to allow remote debugging.  

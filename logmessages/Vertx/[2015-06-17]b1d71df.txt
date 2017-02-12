@@ -1,0 +1,1 @@
+ Merge pull request #1079 from cescoffier/fix_links  Fix links in the documentation  commit 263220fc880c9b0674aa2e030843f652062e978c  Merge pull request #1076 from zdanek/master  Fixed logging from anonymous class- https://bugs.eclipse.org/bugs/show_bug.cgi?id=470205  commit b1d71df55719be62bb649cc799e3771bc286c7d9  More fixes to ref counting  

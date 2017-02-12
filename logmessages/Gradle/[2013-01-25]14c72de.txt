@@ -1,0 +1,1 @@
+  GRADLE-2649: fix our reporting of junit testsuites  

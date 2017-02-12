@@ -1,0 +1,1 @@
+  fixed position of field charts  e.g. were lost when statistical function was changed  

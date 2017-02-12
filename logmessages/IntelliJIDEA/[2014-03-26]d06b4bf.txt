@@ -1,0 +1,1 @@
+  fixed handling AbstractMethodError by exception reporter, avoided self-contradictory messages, removed unused 'essential plugins' list (IDEA-122870)  

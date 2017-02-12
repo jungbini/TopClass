@@ -1,0 +1,1 @@
+  GRADLE-1422: fixed eclipse default dependencies for eclipse-wtp  

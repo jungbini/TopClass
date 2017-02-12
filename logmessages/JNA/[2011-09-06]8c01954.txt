@@ -1,0 +1,1 @@
+  Build assembly files with debug info  

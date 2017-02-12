@@ -1,0 +1,1 @@
+  fixed 'DPT 13.010 is not available' by enhancing types maps (calimero 3.2.1)  

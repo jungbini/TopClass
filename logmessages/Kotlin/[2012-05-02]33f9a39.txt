@@ -1,0 +1,1 @@
+  Added test for case when type from overridden method has same short name as something already present.  #KT-1602 fixed  

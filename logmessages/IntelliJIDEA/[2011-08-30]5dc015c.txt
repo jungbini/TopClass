@@ -1,0 +1,1 @@
+  VCS mapping combo fixed for GTK+ L&F  

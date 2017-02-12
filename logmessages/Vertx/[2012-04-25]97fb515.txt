@@ -1,0 +1,1 @@
+  fix to ws version issue and close end handler on close of SockJSSOcket  

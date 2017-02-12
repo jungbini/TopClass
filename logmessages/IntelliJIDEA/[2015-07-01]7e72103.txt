@@ -1,0 +1,1 @@
+  don't fail on null file path #IDEA-142041 fixed  

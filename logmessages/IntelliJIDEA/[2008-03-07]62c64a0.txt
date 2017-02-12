@@ -1,0 +1,1 @@
+  don't hold dom files & fix beforeFileDeletion listeners  

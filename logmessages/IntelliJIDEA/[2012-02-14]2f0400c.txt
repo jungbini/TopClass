@@ -1,0 +1,1 @@
+  ChangeListManagerImpl: introduce freezeImmediately to freeze without update. Use in GitFreezingProcess. This fixes IDEA-81281.  

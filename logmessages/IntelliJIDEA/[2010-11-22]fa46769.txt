@@ -1,0 +1,1 @@
+  fixed (PY-1423) Don't show 'Python requires 0o prefix for octal literals' if literal value is 0  

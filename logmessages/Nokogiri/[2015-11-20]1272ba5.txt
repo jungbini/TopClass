@@ -1,0 +1,1 @@
+  fixes the output of the transformation to be valid xml  

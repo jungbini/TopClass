@@ -1,0 +1,1 @@
+1 from corneadoug/change/errorMsgDirective 3ece1eb [Damien Corneau] configure and style ngToast 460d364 [Damien Corneau] Remove angular-ui-notification for ngToast 35d7469 [madhuka] fixing hover, delay time and cleaning error msg 9b131f2 [madhuka] using bower to update a0baf57 [madhuka] Adding Error Msg and Notifications feature  

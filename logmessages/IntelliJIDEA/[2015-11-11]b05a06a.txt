@@ -1,0 +1,1 @@
+  IDEA-147733 Android: IDEA freezes when running android application: deadlock fixed  

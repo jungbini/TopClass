@@ -1,0 +1,1 @@
+  Remove parent's env vars from child processes (fixed java 1.6 compilation error)  

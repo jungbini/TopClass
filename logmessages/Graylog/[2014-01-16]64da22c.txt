@@ -1,0 +1,1 @@
+  set SSL port for email sending when configured to use SSL  fixes #372  

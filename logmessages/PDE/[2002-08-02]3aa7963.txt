@@ -1,0 +1,1 @@
+  bug fixes X fill(#ffcc00) wasn't working for rect, calci not being set X   also affected background and stroke X export was failing if no data dir X move background() out of draw() for draw mode apps X click on project name to quickly go to rename mode  

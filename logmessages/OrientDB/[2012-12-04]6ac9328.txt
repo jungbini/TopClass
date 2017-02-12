@@ -1,0 +1,1 @@
+  Fixed bug on output in command for simple values reported by F.Fortino. Removed hook management on server shutdown too.  

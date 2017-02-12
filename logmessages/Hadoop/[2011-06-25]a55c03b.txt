@@ -1,0 +1,1 @@
+  HBASE-451   Remove HTableDescriptor from HRegionInfo addendum that fixes TestTableMapReduce   git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1139470 13f79535-47bb-0310-9956-ffa450edef68  

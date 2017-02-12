@@ -1,0 +1,1 @@
+  fixed PY-6509 Refresh packages table when packages list is loaded from the network  

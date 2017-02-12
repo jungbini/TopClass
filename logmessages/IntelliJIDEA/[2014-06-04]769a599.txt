@@ -1,0 +1,1 @@
+  WEB-12348 Quick fixes not always working in Inspection window  

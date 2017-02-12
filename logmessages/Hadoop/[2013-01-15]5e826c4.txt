@@ -1,0 +1,1 @@
+  Merge -c 1433461 from trunk to branch-2 to fix HDFS-4399. Fix RAT warnings by excluding images sub-dir in docs. Contributed by Thomas Graves.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1433467 13f79535-47bb-0310-9956-ffa450edef68  

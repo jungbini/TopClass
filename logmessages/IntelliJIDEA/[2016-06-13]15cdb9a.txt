@@ -1,0 +1,1 @@
+  on PCE during editor highlighter background initialization, clear all the text and rethrow, so that the next documentChanged/setText can fix everything (IDEA-157371)  

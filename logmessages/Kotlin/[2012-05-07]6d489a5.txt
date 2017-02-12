@@ -1,0 +1,1 @@
+  Implemented "Go to type declaration" for Kotlin entities.  #KT-1318 fixed  

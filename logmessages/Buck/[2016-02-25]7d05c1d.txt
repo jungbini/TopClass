@@ -1,0 +1,1 @@
+  python: fix conflicting native library error message  Summary:Previously, we'd add all native libraries using the top-level target name, which made the generated error message useless.  Instead, we should use the target name of the rule that adds the native library.  Test Plan: CI  Reviewed By: k21  fb-gh-sync-id: ef8cdda shipit-source-id: ef8cdda  

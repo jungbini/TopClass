@@ -1,0 +1,1 @@
+  JS backend: fix translation `when` statement -- now WhenTranslator returns JsBlock instead of hackish adding statements to context block.  It fixed the compiler crashing when translating `for`/`when`/`if` with `when` statement(KT-5234) and KT-5058.  #KT-5234 fixed #EA-57346 fixed #KT-5058 fixed  

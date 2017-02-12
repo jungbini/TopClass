@@ -1,0 +1,1 @@
+  fixed PY-12819 Unable to run GAE nosetests  Regression produced in 67046c75  PyCharm actually has python specific libraries and such libraries should be included in Python Path in PyCharm. Created special Python library type to mark this kind of libraries.  

@@ -1,0 +1,1 @@
+  Rework fix to avoid the Kotlin module to be considered a Gradle plugin and integrate runtime in relocated dependencies  +review REVIEW-6039  

@@ -1,0 +1,1 @@
+  IDEA-140727 IDEA becomes unresponsive with high CPU use - fix leaking of disposed injected editors via listeners on main editor  

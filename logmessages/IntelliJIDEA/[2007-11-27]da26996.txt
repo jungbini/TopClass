@@ -1,0 +1,1 @@
+  Maven: relative paths bug (IDEADEV-23427)  

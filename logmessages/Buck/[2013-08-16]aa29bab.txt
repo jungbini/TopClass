@@ -1,0 +1,1 @@
+  Add integration test to reproduce bug where genfiles are listed as srcs.  Summary: If the genfile is changed but the other sources are not, the jar is not rebuilt, and so the resulting jar contains the old genfiles.  Test Plan: Run GenfileAsSrcIntegrationTest  

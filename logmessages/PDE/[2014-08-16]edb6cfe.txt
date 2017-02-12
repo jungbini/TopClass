@@ -1,0 +1,1 @@
+  Addresses processing/processing-docs#104 and fixes processing/processing-docs#110 by hiding unusable PImage, PShape, and loadShape() constructors  

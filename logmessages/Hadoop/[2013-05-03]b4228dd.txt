@@ -1,0 +1,1 @@
+  svn merge -c 1478997 from branch-1 for HADOOP-9544. Backport UTF8 encoding fixes.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.2@1478999 13f79535-47bb-0310-9956-ffa450edef68  

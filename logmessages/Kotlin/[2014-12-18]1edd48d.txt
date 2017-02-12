@@ -1,0 +1,1 @@
+  #KT-6467 Fixes Removed invalid drawImage signatures, renamed parameters  #KT-6467 fixed  

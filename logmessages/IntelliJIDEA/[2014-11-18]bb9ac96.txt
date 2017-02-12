@@ -1,0 +1,1 @@
+ documents * during psi commit, return psi mod stamp and not the document's one * during multi-tree psi commit, indices should use the main tree's AST content and not the semi-updated parallel trees * consider documents committed after changes in absence of PSI (cherry picked from commit 5e3b801)  

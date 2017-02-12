@@ -1,0 +1,1 @@
+  fix: usage view is not activated after search has been finished  

@@ -1,0 +1,1 @@
+rDependencies function in createNewSetting()  

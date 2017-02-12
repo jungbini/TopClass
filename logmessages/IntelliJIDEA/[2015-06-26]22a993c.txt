@@ -1,0 +1,1 @@
+  DocumentEvent.wholeTextReplaced should only ever be true for replace events (fix LineSetIncrementalUpdateTest)  

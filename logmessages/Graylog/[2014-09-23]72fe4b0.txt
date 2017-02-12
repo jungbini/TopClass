@@ -1,0 +1,1 @@
+  fixing merge mistakes  graylog2 index prefix should not include separator @Inject annotation missing check cluster connectivity before attempting to run retention thread  

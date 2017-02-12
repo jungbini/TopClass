@@ -1,0 +1,1 @@
+  [groovy] @Synchronized minor fixes (IDEA-140847)  

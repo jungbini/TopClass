@@ -1,0 +1,1 @@
+  fixed add stepping filter action for threads view  

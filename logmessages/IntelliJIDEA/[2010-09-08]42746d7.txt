@@ -1,0 +1,1 @@
+  added replace-all option to shortcut element from plugin configuration xml, also fixed shortcut for run manage.py task on Mac OS X 10.5+ keymap  

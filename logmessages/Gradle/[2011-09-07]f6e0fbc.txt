@@ -1,0 +1,1 @@
+  Fixed DefaultModuleRegistry to choose the correct jar when some other jar has the same prefix (eg ant-1.8.2.jar vs ant-launcher-1.8.2.jar).  

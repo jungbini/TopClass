@@ -1,0 +1,1 @@
+  Fix http://dev.processing.org/bugs/show_bug.cgi?id=6  Funny bug. The grammar accepted any initial chunk of an active or static program as the whole thing, because it wasn't saying that the EOF had to come next!  

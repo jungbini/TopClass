@@ -1,0 +1,1 @@
+  Fixed keywords after 'this@' completion + fixed implementation of JetExpressionWithLabel.getLabelName()  

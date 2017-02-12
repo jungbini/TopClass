@@ -1,0 +1,1 @@
+  Fix sstabledump to include missing info in debug output  patch by Andrew Tolbert; reviewed by yukim for CASSANDRA-11321  

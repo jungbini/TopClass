@@ -1,0 +1,1 @@
+  fixed PY-9871 TestRunner not working with Django 1.6  

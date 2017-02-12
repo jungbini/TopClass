@@ -1,0 +1,1 @@
+  fixed PY-16392 Code completion in ipython notebook is broken by "%matplotlb inline" magic  

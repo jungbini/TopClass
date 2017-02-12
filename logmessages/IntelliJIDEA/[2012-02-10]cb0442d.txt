@@ -1,0 +1,1 @@
+  IDEA-76599 Quickfix to change a double literal to a float literal  

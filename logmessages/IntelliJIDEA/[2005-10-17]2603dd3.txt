@@ -1,0 +1,1 @@
+  Rename/Move: //IDEA/debugger-openapi/src/com/intellij/debugger/DebuggerBundle.java To: //IDEA/debugger/openapi/com/intellij/debugger/DebuggerBundle.java  

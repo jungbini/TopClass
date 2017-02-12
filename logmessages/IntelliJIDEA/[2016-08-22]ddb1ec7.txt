@@ -1,0 +1,1 @@
+  fix CCE in tests when instantiating UnusedDeclarationBase  

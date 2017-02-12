@@ -1,0 +1,1 @@
+  fixed initialization for NEWT  

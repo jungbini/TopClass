@@ -1,0 +1,1 @@
+  IDEA-57972 Refactor->Copy: "To Directory" garbled + IDEA-57688 Users can't figure out how to edit keymap + keymap panel better suggests keymap names + restore selection fix  

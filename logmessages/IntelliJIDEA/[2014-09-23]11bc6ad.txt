@@ -1,0 +1,1 @@
+  support plus-assignment in debugger evalautor  

@@ -1,0 +1,1 @@
+  fixed EDU-256 Do not show run selection menu on gutter icon if there is only one item to select  

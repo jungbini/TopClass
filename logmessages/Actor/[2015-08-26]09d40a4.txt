@@ -1,0 +1,1 @@
+  fix(web): keep scroll position on activity open/close  

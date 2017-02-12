@@ -1,0 +1,1 @@
+  [vcs-log] fix myDataPack field value in refresher  

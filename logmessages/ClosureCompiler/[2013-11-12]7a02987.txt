@@ -1,0 +1,1 @@
+  [FUZZER] All references of java.util.Stack are now replaced with Deque and ArrayList.  This CL also include a minor bug fix in the Driver ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=56487483  

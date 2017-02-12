@@ -1,0 +1,1 @@
+  HDFS-8684. Erasure Coding: fix some block number calculation for striped block. (yliu)  

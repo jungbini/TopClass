@@ -1,0 +1,1 @@
+  Polish Tomcat Plugin - fix miss return statement  

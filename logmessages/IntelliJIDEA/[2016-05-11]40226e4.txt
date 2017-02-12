@@ -1,0 +1,1 @@
+ testng: skip artificial debug socket for forked debugging in case no tests were found (IDEA-155583)  

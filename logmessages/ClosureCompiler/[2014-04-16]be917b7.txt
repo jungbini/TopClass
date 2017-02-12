@@ -1,0 +1,1 @@
+  Don't crash on typical jsdoc method declarations.  This quick fix skips type checking on these cases, which we will clearly need to come back to. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=65023390  

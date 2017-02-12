@@ -1,0 +1,1 @@
+  fixed test configuration (PY-1534)  

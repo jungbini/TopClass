@@ -1,0 +1,1 @@
+  KT-4568 Bug Fix: Refactored the convertNegatedExpressionWithDemorgansLaw intention to better handle longer and more complex expressions. Fixed bug and added appropriate test cases as well.  

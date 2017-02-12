@@ -1,0 +1,1 @@
+  ui: fix "Tip of the Day" dialog scaling under non-retina HiDPI  

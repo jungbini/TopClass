@@ -1,0 +1,1 @@
+  added core library to auto-start (fixes missing items in designer)  

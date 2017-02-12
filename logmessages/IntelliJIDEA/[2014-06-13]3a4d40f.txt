@@ -1,0 +1,1 @@
+  - introduced class for internal index debug assertions - more consistency assertions for ChangeBufferingList - introduced class for producing iterator of sorted file id set  

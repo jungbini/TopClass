@@ -1,0 +1,1 @@
+ Merge pull request #3165 from vijaysbhat/fix_newline_alluxio_stop  [ALLUXIO-1937] remove extra newline at the end of alluxio_stop.sh  commit 8908093fd7766b18146b2dd03d534bed06a1e989  Merge pull request #3161 from jsimsa/fix  [SMALLFIX] using <> efficiently  commit 01a0f0036d028ab6dad1200b7c0b78f5878bcf4e  Style fix  

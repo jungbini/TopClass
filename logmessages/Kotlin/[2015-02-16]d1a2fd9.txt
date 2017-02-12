@@ -1,0 +1,1 @@
+  KT-6586 accessing Kotlin class static class object variable's value from Java does not properly update between compiles  #KT-6586 fixed  

@@ -1,0 +1,1 @@
+  more bug notes, plus faster blur and new FILTER and DILATE code from toxi.  

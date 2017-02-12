@@ -1,0 +1,1 @@
+  fix(server:sdk): UserExtension#findUserIds searches by phone too  

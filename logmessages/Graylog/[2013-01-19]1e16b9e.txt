@@ -1,0 +1,1 @@
+  fix broken facet_filter's for universal search  fixes #WEBINTERFACE-392, #WEBINTERFACE-416  

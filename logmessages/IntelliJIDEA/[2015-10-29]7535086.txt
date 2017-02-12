@@ -1,0 +1,1 @@
+  maven: fix search of suitableVersions for ExternalLibraryDescriptor with equal min and max version options  

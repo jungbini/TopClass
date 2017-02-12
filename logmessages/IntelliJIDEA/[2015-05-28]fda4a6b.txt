@@ -1,0 +1,1 @@
+  try showing popup for whole editor area #WEB-9022 fixed  

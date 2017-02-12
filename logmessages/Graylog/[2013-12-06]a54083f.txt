@@ -1,0 +1,1 @@
+  Removing debug output, fixing js bug  JS bug prevented updating stream rule when no sample message is present  

@@ -1,0 +1,1 @@
+ Rename to LossLayer. Remove unused functions, fix gradient/params issues. TODO: gradient checks.  

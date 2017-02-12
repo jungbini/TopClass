@@ -1,0 +1,1 @@
+  fix toolwindow tab popup click-through [r=kirillk]  

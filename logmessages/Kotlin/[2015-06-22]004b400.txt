@@ -1,0 +1,1 @@
+  DirectiveBasedActionUtils: added intentions to suppress warning to the list of ignored in tests to fix DeprecatedSymbolUsage.testJavaDeprecated()  

@@ -1,0 +1,1 @@
+  Inspections and quickfixes for package names that don't conform with idiomatic go external code repository.  Closes #119.  Signed-off-by: Mihai Claudiu Toader <mtoader@gmail.com>  

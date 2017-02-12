@@ -1,0 +1,1 @@
+  decompiler: fixed SOE if referenced method name is the same as current  

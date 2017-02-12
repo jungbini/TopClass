@@ -1,0 +1,1 @@
+  fix caret after groovy smart enter inside a statement  

@@ -1,0 +1,1 @@
+  added keymap listener to update text after change #IDEA-88839 fixed  

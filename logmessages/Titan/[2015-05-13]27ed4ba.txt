@@ -1,0 +1,1 @@
+  hard order on strategies and an OptOut on a semantics of MapReduce -- @mbroecheller needs to fix it. Its simple, just throw the right exception.  

@@ -1,0 +1,1 @@
+  PY-19760 Change signature quick fix doesn't start in write action  PyChangeSignatureProcessor acquires it later when necessary.  

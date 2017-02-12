@@ -1,0 +1,1 @@
+  fixed eclipse tutorial to more closely match getting started  

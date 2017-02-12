@@ -1,0 +1,1 @@
+  Implemented ThermostatStateMsg. Can now receive battery, set temp and measured temp from radiator thermostat. Fixed bugs in measured temperature parsing. Added valvepos binding option.  

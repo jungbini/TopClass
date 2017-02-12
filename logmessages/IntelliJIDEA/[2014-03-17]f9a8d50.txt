@@ -1,0 +1,1 @@
+  IDEA-121067, EA-48867 Uncertain editor bug  

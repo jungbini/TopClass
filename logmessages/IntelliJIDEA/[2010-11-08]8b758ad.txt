@@ -1,0 +1,1 @@
+  'navigate' and 'fix' actions implemented for new project structure errors  

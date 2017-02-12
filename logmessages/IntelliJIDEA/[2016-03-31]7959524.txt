@@ -1,0 +1,1 @@
+  Javafx: In quickfix that creates FXML event handler don't specify unresolved genetic parameters in argument type. Tests added (IDEA-153589)  

@@ -1,0 +1,1 @@
+  cleanup mutation rule in ComponentBinariesRuleDefinitionHandler  - just iterate over existing componentSpecs; avoid .all(Action<ComponentSpec) - fix collectionbuilder type +review REVIEW-5192  

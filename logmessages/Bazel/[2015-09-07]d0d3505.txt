@@ -1,0 +1,1 @@
+  Inline the native deps suffix constant in one location.  Only one for now, as we need to migrate internally.  -- MOS_MIGRATED_REVID=102477370  

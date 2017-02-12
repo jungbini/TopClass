@@ -1,0 +1,1 @@
+  [GRADLE-3317] Changes test to an integ test to fix class visibility issue.  +review REVIEW-5557  

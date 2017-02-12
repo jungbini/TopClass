@@ -1,0 +1,1 @@
+  The order in which mentions are attached to a SpeakerInfo shouldn't matter, so instead we fix the non-deterministic behavior by using a LinkedHashSet  

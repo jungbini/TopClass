@@ -1,0 +1,1 @@
+  fix several bugs in AJAX loading of index information. rel #1374  

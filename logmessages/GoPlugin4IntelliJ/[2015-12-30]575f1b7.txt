@@ -1,0 +1,1 @@
+  [resolve] do not resolve init function, fix #2189  

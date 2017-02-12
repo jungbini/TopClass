@@ -1,0 +1,1 @@
+  IDEA-115240 Tags from scheme helptopic.xsd are not recognized WEB-7228 fix rolled back  

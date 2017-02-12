@@ -1,0 +1,1 @@
+  Fix wrong buffer size  This is a bug from CASSANDRA-11580. patch by yukim; reviewed by Stefania Alborghetti for CASSANDRA-12292  

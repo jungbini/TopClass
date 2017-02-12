@@ -1,0 +1,1 @@
+  [vcs] Move "Show Affected Revisions" implementation to vcs-impl & fix it from annotate in modal dialog  

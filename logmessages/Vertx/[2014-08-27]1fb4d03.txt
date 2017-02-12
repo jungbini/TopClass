@@ -1,0 +1,1 @@
+  Add MetricsProvider API to consume metrics, fix http client metrics and fix tests.  Signed-off-by: nscavell <nick.scavelli@gmail.com>  

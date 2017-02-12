@@ -1,0 +1,1 @@
+  fixed PY-7093 Disable type specifying intentions when already specified type is unresolved  

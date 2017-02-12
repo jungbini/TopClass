@@ -1,0 +1,1 @@
+  fix(server): in CreateGroup react on persisted events by their type  

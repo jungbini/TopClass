@@ -1,0 +1,1 @@
+  HEAD branch filter in new log fixed  

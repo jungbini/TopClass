@@ -1,0 +1,1 @@
+  adds the test case from #1128  The issue has been fixed already on master. Adding the test case to prevent regressions.  Fixed #1126  

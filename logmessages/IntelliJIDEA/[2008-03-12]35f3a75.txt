@@ -1,0 +1,1 @@
+  fix "read access violation" plus some serialization works.  

@@ -1,0 +1,1 @@
+  fixed details and versions in install package dialog  added xmlRpc with trusted manager per connection  

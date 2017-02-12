@@ -1,0 +1,1 @@
+  Incremental take to use the idle daemon timeout from the GRADLE_OPTS. This gives opportunity to fix the windows CI clean build problems. The daemon taking advantage of all GRADLE_OPTS is one of the incoming steps/changes.  

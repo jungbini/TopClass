@@ -1,0 +1,1 @@
+  HDFS-3157. Fix a bug in the case that the generation stamps of the stored block in a namenode and the reported block from a datanode do not match.  Contributed by Ashish Singhi   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1356086 13f79535-47bb-0310-9956-ffa450edef68  

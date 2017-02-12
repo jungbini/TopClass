@@ -1,0 +1,1 @@
+  EA-53845 fixed NPE. ProjectRootManager obviously cannot be obtained if delegate.getProject() == null. Some @NotNull & @Nullable added in relative places  

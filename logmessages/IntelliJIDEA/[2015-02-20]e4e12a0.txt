@@ -1,0 +1,1 @@
+  icon in inspection's settings fixed (IDEA-135474)  

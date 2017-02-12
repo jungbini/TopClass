@@ -1,0 +1,1 @@
+  fix for bug #494, sort charset passed in to PFont constructor  

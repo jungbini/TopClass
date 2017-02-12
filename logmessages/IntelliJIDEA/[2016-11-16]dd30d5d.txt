@@ -1,0 +1,1 @@
+  Django version updated (to fix tests)  

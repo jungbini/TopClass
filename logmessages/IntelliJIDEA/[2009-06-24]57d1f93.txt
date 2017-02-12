@@ -1,0 +1,1 @@
+  Maven: stack overflow fix (IDEADEV-38125)  

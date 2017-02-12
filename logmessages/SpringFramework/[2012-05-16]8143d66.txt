@@ -1,0 +1,1 @@
+  Pattern suffix issue in AnnotationMethodHandlerAdapter  Issue: SPR-9333 Backport-Issue: SPR-9419 Backport-Commit: cf5d55173bd73adf9c3a93204288013b1ceab246  

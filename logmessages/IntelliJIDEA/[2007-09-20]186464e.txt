@@ -1,0 +1,1 @@
+  bug in undo fixed ro-status handling reverted  

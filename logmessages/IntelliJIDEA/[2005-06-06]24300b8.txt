@@ -1,0 +1,1 @@
+  fixed issue with typing over of } in el inside attribute value  

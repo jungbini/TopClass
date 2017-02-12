@@ -1,0 +1,1 @@
+  guava type migration: when quick fix type is invalid, getText() throws exception (IDEA-149040)  

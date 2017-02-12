@@ -1,0 +1,1 @@
+  restore "Fix StringBuilder append" quickfix  

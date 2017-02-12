@@ -1,0 +1,1 @@
+  performance fix: don't try to search for top-level autoimport variants if a qualified reference is unresolved  

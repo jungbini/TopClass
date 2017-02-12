@@ -1,0 +1,1 @@
+ Merge pull request #703 from metamx/fix-period-granularity  fix granularity for precise periods with non-zero origin  commit a1c8b23ba7822e20b34b76d063ef848a5d69fc1b  fix duration granularity with non-zero origin  

@@ -1,0 +1,1 @@
+  fix parsing of "not in repository" messages (IDEADEV-12666)  

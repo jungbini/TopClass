@@ -1,0 +1,1 @@
+  FrenchDetokenizer bugfix (overlapping regex matches)  

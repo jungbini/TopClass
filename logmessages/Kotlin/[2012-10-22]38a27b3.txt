@@ -1,0 +1,1 @@
+  KT-2169 "Specify type" fix should be accessible for the whole function signature  #KT-2169 fixed  

@@ -1,0 +1,1 @@
+  ResolutionResult API - refactored/fixed the unresolved dependency result.  Made sure the equals/hashcode work well for the unresolved dependency results.  

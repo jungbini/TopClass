@@ -1,0 +1,1 @@
+ IDEA-118588 (Concatenation with empty string fails to fix an expression)  

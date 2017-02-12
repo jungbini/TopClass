@@ -1,0 +1,1 @@
+  Merge -c 1424815 from branch-1 to branch-1.1 to fix MAPREDUCE-4888. Fixed NLineInputFormat one-off error which dropped data. Contributed by Vinod K V.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.1@1424817 13f79535-47bb-0310-9956-ffa450edef68  

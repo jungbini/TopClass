@@ -1,0 +1,1 @@
+  kafka-1003; ConsumerFetcherManager should pass clientId as metricsPrefix to AbstractFetcherManager; patched by Swapnil Ghike; reviewed by Jun Rao  

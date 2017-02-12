@@ -1,0 +1,1 @@
+  Merge -c 1227808 from trunk to branch-0.23 to fix MAPREDUCE-3617.emoved wrong default value for yarn.resourcemanager.principal and yarn.nodemanager.principal.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1227810 13f79535-47bb-0310-9956-ffa450edef68  

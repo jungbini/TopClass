@@ -1,0 +1,1 @@
+  SettingsTreeView: fix sorting after search  

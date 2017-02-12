@@ -1,0 +1,1 @@
+  Subversion: update through command line to be possible for https protocol; some fixes for authenticator (cancel, acknowledge if authentication failed) authentication test *with local server* so test can be run only locally now  

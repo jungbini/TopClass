@@ -1,0 +1,1 @@
+  fix regression (IDEADEV-13756)  

@@ -1,0 +1,1 @@
+  transitive resolve thought the type refs, fix #1895  

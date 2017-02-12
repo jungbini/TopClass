@@ -1,0 +1,1 @@
+ Execute selection in console should use debug console when it is active and console view is hidden (PY-13712).  

@@ -1,0 +1,1 @@
+  Exclude xerces to fix hadoop build issue.  Patch by Sam Tunnicliffe, reviewed by brandonwilliams for CASSANDRA-6877  

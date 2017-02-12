@@ -1,0 +1,1 @@
+  Fixed nasty bug in tree optimization: - fixed the memory leak found 6 months ago but never understood!!! - optimization now happens in the main thread, watchdog just set a flag  

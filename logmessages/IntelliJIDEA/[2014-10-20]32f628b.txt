@@ -1,0 +1,1 @@
+  decompiler: fixed line mapping for try-catch and nested classes  

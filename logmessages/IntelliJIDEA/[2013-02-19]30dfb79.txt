@@ -1,0 +1,1 @@
+  revert changes (IDEA-25146 Maven integration, resolve dependencies from project) to fix compilation  

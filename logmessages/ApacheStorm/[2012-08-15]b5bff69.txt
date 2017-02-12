@@ -1,0 +1,1 @@
+  fix bug that would occur when splitting a stream in certain situations, added test for it  

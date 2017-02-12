@@ -1,0 +1,1 @@
+  fixed bug with missing elemnt while modifying list during iteration  

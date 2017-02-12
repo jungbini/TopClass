@@ -1,0 +1,1 @@
+  Fix gradle/gradle#933  This fix only that specific scenario. A more elaborate implementation of equality for `Serializer` and `CacheDecorator` needs to be done in order to eliminate any edge case.  

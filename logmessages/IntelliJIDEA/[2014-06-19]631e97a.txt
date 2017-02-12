@@ -1,0 +1,1 @@
+  use BootstrapTests for community tests to fix problem with long command line - 2  

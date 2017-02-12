@@ -1,0 +1,1 @@
+  trim selection to the template boundaries, so we won't delete extra chars while renaming #WEB-23455 fixed  

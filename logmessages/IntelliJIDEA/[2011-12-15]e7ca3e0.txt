@@ -1,0 +1,1 @@
+  move class to the correct package fix: suggest to choose root when multiple exist (IDEA-12474)  

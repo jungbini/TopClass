@@ -1,0 +1,1 @@
+  IG: fix static import checking in "Unused import" inspection  

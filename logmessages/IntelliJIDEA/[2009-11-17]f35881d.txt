@@ -1,0 +1,1 @@
+  Maven: documentation provider + some tiny fixes  

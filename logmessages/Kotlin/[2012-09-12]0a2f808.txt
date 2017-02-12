@@ -1,0 +1,1 @@
+  test case and fixes for object and classes inner for enum entry  

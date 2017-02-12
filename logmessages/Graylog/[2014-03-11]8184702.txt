@@ -1,0 +1,1 @@
+  only allow admin users to change the session timeout value for users  the server wasn't accepting the request, but the UI did show the fields erroneously  fixes #709  

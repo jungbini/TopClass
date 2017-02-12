@@ -1,0 +1,1 @@
+  fix failing DSL generation  - add apply method and plugins properties back to Project interface. - DSL generator doesn't yet handle inherited methods.  

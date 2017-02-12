@@ -1,0 +1,1 @@
+  MINOR: fix the logic of RocksDBWindowStore using RocksDBStore Segments  Author: Guozhang Wang <wangguoz@gmail.com>  Reviewers: Yasuhiro Matsuda  Closes #849 from guozhangwang/KRemoveInitializedCheck  

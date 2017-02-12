@@ -1,0 +1,1 @@
+  fix startup when WMI memory query fails patch by Josh McKenzie; reviewed by Ala' Alkhaldi for CASSANDRA-7505  

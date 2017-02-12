@@ -1,0 +1,1 @@
+  Rework struct initialization inspection (fixes #2687)  

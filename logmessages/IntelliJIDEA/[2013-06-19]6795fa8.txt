@@ -1,0 +1,1 @@
+  fixed PY-10032 PyCharm No Longer Highlights Module Docstrings after Comments  fixed PY-10030 Unicode literals highlighted as string literals in Python 2 with unicode_literals from future, comments and docstrings  

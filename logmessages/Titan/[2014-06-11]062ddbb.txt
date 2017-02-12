@@ -1,0 +1,1 @@
+ Finished bugfixing of counter tests  

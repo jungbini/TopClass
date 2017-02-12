@@ -1,0 +1,1 @@
+  allow showing gutter icons when document is empty  update following IDEA-CR-3956, and fixing a mistake  

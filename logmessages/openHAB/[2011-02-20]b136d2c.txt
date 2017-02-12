@@ -1,0 +1,1 @@
+  Fixed KNX binding provider bugs after generic provider refactoring  

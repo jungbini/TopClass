@@ -1,0 +1,1 @@
+  [vcs-log] fix jumping root label in details  

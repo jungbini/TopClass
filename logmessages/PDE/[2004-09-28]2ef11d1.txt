@@ -1,0 +1,1 @@
+  fixes editor header stuff, also 1.4-only prefs line, plus Info.plist  

@@ -1,0 +1,1 @@
+  Corrected class name extraction for inner classes, when checking ImportHelper.isAlreadyImported (fixes IDEA-142974)  

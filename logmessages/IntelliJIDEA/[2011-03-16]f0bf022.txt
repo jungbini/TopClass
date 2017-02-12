@@ -1,0 +1,1 @@
+  allow to change watches when debugging is finished (IDEA-62216, WI-1691, WI-3255)  

@@ -1,0 +1,1 @@
+  IG: handle floating point literals with 'f' or 'd' suffix (IDEA-151625)  

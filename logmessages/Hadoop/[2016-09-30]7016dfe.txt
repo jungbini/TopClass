@@ -1,0 +1,1 @@
+ (cherry picked from commit 25df276c6b24db46070c9885e48e363cc92d1b6f)  Conflicts: hadoop-maven-plugins/src/main/java/org/apache/hadoop/maven/plugin/versioninfo/VersionInfoMojo.java  

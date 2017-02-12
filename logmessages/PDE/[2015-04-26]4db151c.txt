@@ -1,0 +1,1 @@
+  take care of broken contrib panel (fixes #3172)  

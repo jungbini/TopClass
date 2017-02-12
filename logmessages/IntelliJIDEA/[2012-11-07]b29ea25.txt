@@ -1,0 +1,1 @@
+  IDEA-94147 fix png caching in android libs: create build targets for lib android modules too  

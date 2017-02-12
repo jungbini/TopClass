@@ -1,0 +1,1 @@
+  fix to iterating over rows; ensures vectors can be iterated over properly  

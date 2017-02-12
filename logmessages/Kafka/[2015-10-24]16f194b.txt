@@ -1,0 +1,1 @@
+  KAFKA-2460; Fix capitalisation in SSL classes  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Sriharsha Chintalapani <harsha@hortonworks.com>  Closes #355 from ijuma/kafka-2460-fix-capitalisation-in-ssl-classes  

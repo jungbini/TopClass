@@ -1,0 +1,1 @@
+  - fixed the IndexOutOfBoundsException exception when decompiling FastStringBuffer - fixed typo in LITERALS_AS_IS definition - some helper stuff  

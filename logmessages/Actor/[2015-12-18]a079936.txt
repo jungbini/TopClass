@@ -1,0 +1,1 @@
+  fix(server:bots): allow to use streaming text message in bot requests  

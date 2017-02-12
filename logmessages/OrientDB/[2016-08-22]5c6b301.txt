@@ -1,0 +1,1 @@
+  Issue #6553 was fixed. Deadlock in OneEntryPerKeyLockManager was fixed.  

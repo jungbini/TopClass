@@ -1,0 +1,1 @@
+  Generalizing error handling when working with (potentially 3rd-party) script templates, fixing #EA-91412 and alike  

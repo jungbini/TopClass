@@ -1,0 +1,1 @@
+  dfa: fix wrong instanceof detection when using several incarnations of the same generic field with 

@@ -1,0 +1,1 @@
+  fix parsing of generator in argument list to actually match Python grammaer (PY-6926)  

@@ -1,0 +1,1 @@
+  don't register groovy auto-import fix for non-capitalized references  

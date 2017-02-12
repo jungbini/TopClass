@@ -1,0 +1,1 @@
+  fixed an error with the smarthomatic project setup  Signed-off-by: Thomas Eichstdt-Engelen <thomas@openhab.org>  

@@ -1,0 +1,1 @@
+  fix dirty management in index manager  

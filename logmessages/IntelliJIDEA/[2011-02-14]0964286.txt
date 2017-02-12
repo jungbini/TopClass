@@ -1,0 +1,1 @@
+  fixed PY-2914: RE at com.jetbrains.python.psi.impl.PyBaseElementImpl.childToPsiNotNull  

@@ -1,0 +1,1 @@
+  fixed fetch of expand/flatten of embedded properties - issue #2937  

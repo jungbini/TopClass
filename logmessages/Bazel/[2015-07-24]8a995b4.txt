@@ -1,0 +1,1 @@
+  Remove implicit .a and .so outputs from Bazel.  Change CcLibrary to work both with and without declared outputs.  This fixed #61 - header-only libraries now compile on MacOS.  -- MOS_MIGRATED_REVID=99007746  

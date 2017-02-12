@@ -1,0 +1,1 @@
+  GRADLE-1785, GRADLE-1649 - Test tasks no longer applies default include and exclude patterns when test class scannign is disabled. - Test task forces maxParallelForks to 1 when debug is enabled. - Changed ClassFileExtractionManager to use a Gradle provided temp dir instead of the default.  

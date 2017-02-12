@@ -1,0 +1,1 @@
+  junit category: ignore package scope as it's not set by the user and won't work well in case of mixed package prefixes  

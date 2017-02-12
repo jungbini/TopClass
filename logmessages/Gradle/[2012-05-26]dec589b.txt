@@ -1,0 +1,1 @@
+  fixed newline in logging of test output events  

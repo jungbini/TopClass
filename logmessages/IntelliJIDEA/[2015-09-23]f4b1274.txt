@@ -1,0 +1,1 @@
+  CR-IC-7401 fix test "rename module using rename virtual file" after rename module using rename virtual file  

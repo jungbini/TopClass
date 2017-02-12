@@ -1,0 +1,1 @@
+  fixed PY-7933 Specify type in docstring intention not available  

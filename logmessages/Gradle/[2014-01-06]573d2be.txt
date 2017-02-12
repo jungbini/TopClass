@@ -1,0 +1,1 @@
+  temporally ignore ObjectiveCHelloWorldIntegrationTest until salt infrastructure is fixed  

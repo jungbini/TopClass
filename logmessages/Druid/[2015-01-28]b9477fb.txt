@@ -1,0 +1,1 @@
+ Merge pull request #1071 from swistakm/fix/druid-0.6.x-coordinator-config-docfix  fix documentation of default value for druid.coordinator.merge.on on 0.6.x branch  commit b9477fb7ae74df90ffa99c6b14fd93547e19ed3b  docs: fix documentation of default value for druid.coordinator.merge.on (false)  

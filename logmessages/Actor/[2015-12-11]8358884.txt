@@ -1,0 +1,1 @@
+ fix(server:messaging): restore dialog state on actor creation  

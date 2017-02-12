@@ -1,0 +1,1 @@
+  Some fixes to the internal design in the tooling api consumer. Should not depend on some classes out of protocol.  

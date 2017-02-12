@@ -1,0 +1,1 @@
+  Fixed bug on ORecordFlat.unsetDirty(). Now doesn't reset anymore the "_source" attribute  

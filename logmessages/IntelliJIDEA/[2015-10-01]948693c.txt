@@ -1,0 +1,1 @@
+  fixed EA-61315 - NPE: PyElementGeneratorImpl.createStringLiteralAlreadyEscaped  

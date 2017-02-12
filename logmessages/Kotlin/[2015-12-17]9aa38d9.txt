@@ -1,0 +1,1 @@
+  KT-8365 Bogus "Receiver never used" warning when receiver is used in invoke() convention call  #KT-8365 fixed  

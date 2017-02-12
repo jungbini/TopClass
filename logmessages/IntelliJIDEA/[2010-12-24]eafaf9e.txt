@@ -1,0 +1,1 @@
+  fix loading of .idea project if subdirectories exist under .idea/libraries or .idea/artifacts  

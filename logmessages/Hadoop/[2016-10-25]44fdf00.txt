@@ -1,0 +1,1 @@
+  YARN-5753. fix NPE in AMRMClientImpl.getMatchingRequests() (haibochen via rkanter)  

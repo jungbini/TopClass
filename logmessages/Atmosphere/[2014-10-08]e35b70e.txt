@@ -1,0 +1,1 @@
+  Fixes #1736, which fix regression of Atmosphere/atmosphere-javascript#119  

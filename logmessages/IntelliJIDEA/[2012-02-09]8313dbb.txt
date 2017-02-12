@@ -1,0 +1,1 @@
+  one more fix for caret position when choosing a class suggestion by dot  

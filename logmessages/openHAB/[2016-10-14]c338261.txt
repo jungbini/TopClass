@@ -1,0 +1,1 @@
+  [Plugwise] FindBugs issues fix (#4704)  * Locks that are not released when exceptions occur * Potential NPEs * Wrong String.format parameters  Signed-off-by: Wouter Born <github@maindrain.net>  

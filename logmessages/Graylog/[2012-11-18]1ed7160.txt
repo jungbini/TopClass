@@ -1,0 +1,1 @@
+  Dynamic stream outputs configured in web interface  fixes #SERVER-192  

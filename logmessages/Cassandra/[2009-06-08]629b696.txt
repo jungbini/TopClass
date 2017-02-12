@@ -1,0 +1,1 @@
+  fix race in TcpConnection.  patch by Jun Rao; reviewed by jbellis for CASSANDRA-220  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.3@782656 13f79535-47bb-0310-9956-ffa450edef68  

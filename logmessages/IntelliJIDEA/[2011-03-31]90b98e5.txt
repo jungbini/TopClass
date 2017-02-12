@@ -1,0 +1,1 @@
+  IDEA-67325 (Quickfix for "Manual array to collection copy" should use java.util.Collections.addAll instead of Collection.addAll(Arrays.asList()))  

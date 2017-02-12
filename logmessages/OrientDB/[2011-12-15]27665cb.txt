@@ -1,0 +1,1 @@
+  Patch by Laszlo Hordos to fix issue 646  

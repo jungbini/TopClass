@@ -1,0 +1,1 @@
+  UI inspections perf fix: lazy creation of Border renderer/editor  

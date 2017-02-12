@@ -1,0 +1,1 @@
+  Mercurial: checkout fix: check for null later to let new project wizard work.  

@@ -1,0 +1,1 @@
+  extend cleanuphelper in more places, and make cleanuphelper stricter about cleaning out old data.  fixes test heisenbugs.  patch by jbellis  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@894517 13f79535-47bb-0310-9956-ffa450edef68  

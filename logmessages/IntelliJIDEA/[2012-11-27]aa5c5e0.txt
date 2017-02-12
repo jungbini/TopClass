@@ -1,0 +1,1 @@
+  IDEA-70730: XSLT 2: attribute value template: a part of comment after closing curly brace is highlighted as fixed part  

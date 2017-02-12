@@ -1,0 +1,1 @@
+  Buck now re-materializes the distributed build slave's stdout/stderr into log files.  Summary: This is useful for progress tracking and debugging any build issues  Test Plan: ci run a distributed build and inspect the files  Reviewed By: marcinkosiba  fbshipit-source-id: 955dd55  

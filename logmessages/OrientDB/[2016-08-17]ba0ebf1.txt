@@ -1,0 +1,1 @@
+  leaks detector reports leaks directly in AssertionError message, if assertions are on and DebugLogManager is off  

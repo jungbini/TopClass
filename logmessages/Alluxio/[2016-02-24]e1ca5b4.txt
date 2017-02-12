@@ -1,0 +1,1 @@
+  add Kerberos link and fix a Chinese word  

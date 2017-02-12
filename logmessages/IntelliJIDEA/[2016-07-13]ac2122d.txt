@@ -1,0 +1,1 @@
+  code highlighting: redundant LOG.debug-s removed (could lead to exception during IntentionAction#getText. see for example AddNewArrayExpressionFix#getText implementation)  

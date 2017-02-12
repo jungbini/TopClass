@@ -1,0 +1,1 @@
+  bumped mongo driver to 2.7.1  and fixed some problems it introduced. replica set authentication working again. fixes #SERVER-61  

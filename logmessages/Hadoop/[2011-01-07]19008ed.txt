@@ -1,0 +1,1 @@
+  HBASE-3405  Allow HBaseRpcMetrics to register custom interface methods (test fix)  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1056161 13f79535-47bb-0310-9956-ffa450edef68  

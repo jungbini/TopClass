@@ -1,0 +1,1 @@
+  fixing boog with multiple namespaces. Closes #17  

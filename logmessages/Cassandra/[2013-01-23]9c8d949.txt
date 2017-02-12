@@ -1,0 +1,1 @@
+  fix sstable maxtimestamp forrow deletes andpre-1.1.1 sstables patch by jbellis; reviewed by slebresne for CASSANDRA-5153  

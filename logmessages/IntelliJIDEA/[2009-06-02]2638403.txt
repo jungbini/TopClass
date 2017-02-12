@@ -1,0 +1,1 @@
+  ManagedLibrariesEditor extracted from groovy facet editor an NPE fixed there (IDEADEV-37451) add 'edit library' action there  

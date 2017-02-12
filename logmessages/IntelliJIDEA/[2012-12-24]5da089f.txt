@@ -1,0 +1,1 @@
+  test for IDEA-89404 fix for IDEA-97507 "Unused CSS Selector" inspection tool showing false positives  

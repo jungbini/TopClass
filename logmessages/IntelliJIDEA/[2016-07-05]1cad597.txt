@@ -1,0 +1,1 @@
+  WEB-18588 allow selecting context for node webkit debugger  

@@ -1,0 +1,1 @@
+  - Some fixes for building the docs on windows - Some fixes for the userguide on IE  

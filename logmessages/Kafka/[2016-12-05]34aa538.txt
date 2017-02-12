@@ -1,0 +1,1 @@
+  HOTFIX: Fix bug in readToLogEnd in KafkaBasedLog.  Author: Konstantine Karantasis <konstantine@confluent.io>  Reviewers: Ismael Juma <ismael@juma.me.uk>, Ewen Cheslack-Postava <ewen@confluent.io>  Closes #2211 from kkonstantine/HOTFIX-Correctly-read-to-end-of-offsets-log-in-Connect-KafkaBasedLog  

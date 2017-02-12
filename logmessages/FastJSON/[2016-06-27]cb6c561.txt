@@ -1,0 +1,1 @@
+  bug fixed for final field. fixed issue #698  

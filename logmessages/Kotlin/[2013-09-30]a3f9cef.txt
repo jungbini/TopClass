@@ -1,0 +1,1 @@
+  fixed bug: 'isStatement' for function body == 'hasBlockBody' not vice versa  

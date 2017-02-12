@@ -1,0 +1,1 @@
+ fixed PY-7648 Wrong "docstring seems to be misplaced" warning in editor  

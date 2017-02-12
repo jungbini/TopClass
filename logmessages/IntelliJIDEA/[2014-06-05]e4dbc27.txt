@@ -1,0 +1,1 @@
+  fix problem with extending sorted set by one and attempting to increase random access capacity in case of value removal  

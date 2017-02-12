@@ -1,0 +1,1 @@
+  Infinite loop in file removal was fixed. Index is rebuilt before open.  

@@ -1,0 +1,1 @@
+  editor: fix stripe markers repainting  Sample case: [long (short error marker) warning {range to repaint} marker]. we do not process error marker, because it's out of current scope. Without this check, warning marker can override previously painted error marker.  

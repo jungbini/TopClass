@@ -1,0 +1,1 @@
+ Do not compute stubs when building DefaultImpls light classes  Do not build stubs when computing inner classes of a light class This should implicitly fix a deadlock reported in KT-9907 and KT-9811  

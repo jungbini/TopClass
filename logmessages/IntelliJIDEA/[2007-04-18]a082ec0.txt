@@ -1,0 +1,1 @@
+  backward dependencies extension; file scopes fix ( IDEADEV-16343)  

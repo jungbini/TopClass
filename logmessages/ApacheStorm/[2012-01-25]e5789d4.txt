@@ -1,0 +1,1 @@
+  implement controlling bolt, fix bug in transactionalspoutcoordinator component config  

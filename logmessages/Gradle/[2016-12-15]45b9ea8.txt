@@ -1,0 +1,1 @@
+  Upgrade gradle-script-kotlin 0.5.{0 => 1}  0.5.1 includes a minor fix to a runtime code generation issue surfaced by `AttributesSchema#attribute<T>(Attribute<T>, Action<AttributeMatchingStrategy<T>>)`.  

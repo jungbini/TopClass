@@ -1,0 +1,1 @@
+  restore fix for highlight usages which was lost during merge against J2K  

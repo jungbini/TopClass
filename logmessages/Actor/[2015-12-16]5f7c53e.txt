@@ -1,0 +1,1 @@
+  fix(server): removed kamon-akka-remote due to incompatibility with akka 2.4  

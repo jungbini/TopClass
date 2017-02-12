@@ -1,0 +1,1 @@
+  1. change user timeout to avoid network congestion case. 2. fix bug in copyfromlocal hdfsapi. 3. add getLocationHosts api to TachyonFile.  

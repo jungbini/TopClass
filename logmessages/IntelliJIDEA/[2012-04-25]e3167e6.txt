@@ -1,0 +1,1 @@
+  fixed PY-6248 django 1.4 manage.py error running shell fixed PY-2921 Django shell problem django console execute users manage.py  

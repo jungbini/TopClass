@@ -1,0 +1,1 @@
+  don't show quickfix lightbulb for INFORMATION severity highlights (RUBY-4877)  

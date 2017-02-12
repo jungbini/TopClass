@@ -1,0 +1,1 @@
+  Minor: fixed unmarshalling of rid when the value is not a rid  

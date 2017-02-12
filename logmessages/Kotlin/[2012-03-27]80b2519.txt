@@ -1,0 +1,1 @@
+  KT-1379 Override Methods does not respect caret position #KT-1379 fixed  

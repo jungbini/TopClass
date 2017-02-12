@@ -1,0 +1,1 @@
+  fix(android): force set display list fragment scroll listener  

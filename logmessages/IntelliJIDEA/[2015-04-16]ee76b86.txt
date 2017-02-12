@@ -1,0 +1,1 @@
+  refactoring: create a common abstract implementation for git and hg QuickList Content Provider; mercurial jumped enumeration fixed  

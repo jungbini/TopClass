@@ -1,0 +1,1 @@
+  Fix a bug in OWLQN: the gradient used to construct the y_k vectors, should be raw gradient (the gradient of the unregularized loss). See "Scalable Training of L1-Regularized Log-Linear Models" Section 3.2 rule 4.  

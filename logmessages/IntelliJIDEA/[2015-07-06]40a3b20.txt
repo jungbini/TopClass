@@ -1,0 +1,1 @@
+  IG: fix "Use of variable whose value is known to be constant" inspection in the presence of polyadic expressions  

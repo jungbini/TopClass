@@ -1,0 +1,1 @@
+  fix for bug #795, error highlighting broken  

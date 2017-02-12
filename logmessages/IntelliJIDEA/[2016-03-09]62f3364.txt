@@ -1,0 +1,1 @@
+  java inspections: some of QuickFix#getFamilyName()-s are fixed to be independent of context  

@@ -1,0 +1,1 @@
+  Do not use slice() to read content of an HTTP message  This fixes the bug introduced while fixing #412  

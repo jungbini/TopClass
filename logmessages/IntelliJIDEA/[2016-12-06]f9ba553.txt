@@ -1,0 +1,1 @@
+  fix test: avoid possible interference with background indexing thread by running the code in write action  

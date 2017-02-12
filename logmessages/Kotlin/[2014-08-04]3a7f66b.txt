@@ -1,0 +1,1 @@
+  Evaluate expression: fix exception when default package is used #KT-5555 Fixed  

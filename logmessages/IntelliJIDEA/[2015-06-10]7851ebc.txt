@@ -1,0 +1,1 @@
+  reset versionString fix reverted to previous implementation because clearing it in the listener would reset the versionString value explicitly configured via sdkModificator  

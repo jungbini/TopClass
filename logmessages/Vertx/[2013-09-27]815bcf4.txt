@@ -1,0 +1,1 @@
+  fix locating jars for case where one is not available  

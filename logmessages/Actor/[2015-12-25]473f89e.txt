@@ -1,0 +1,1 @@
+  fix(js): Fixing setting item in JsPreferencesStorage  

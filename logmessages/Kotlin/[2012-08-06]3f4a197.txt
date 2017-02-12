@@ -1,0 +1,1 @@
+  KT-2417 fix: proper handling of !in  

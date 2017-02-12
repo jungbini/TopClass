@@ -1,0 +1,1 @@
+  Updated design doc for dependency management bug fixes based on feedback  

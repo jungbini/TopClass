@@ -1,0 +1,1 @@
+  blacklist auto-generated files  Summary: prevent infer from running on files in src-gen/  Test Plan:without this 

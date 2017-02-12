@@ -1,0 +1,1 @@
+  Fix bug when a new watch point didn't get added  +review REVIEW-5709  

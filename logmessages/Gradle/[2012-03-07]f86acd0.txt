@@ -1,0 +1,1 @@
+  fixed capitalization of the word 'Gradle' in user guide  

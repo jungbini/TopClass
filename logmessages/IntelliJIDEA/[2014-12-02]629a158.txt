@@ -1,0 +1,1 @@
+  extract method: do not suggest Object as return type if it would be used in prefix/postfix expr  

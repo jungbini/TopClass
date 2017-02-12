@@ -1,0 +1,1 @@
+  fix for bin extension not being set in Table  

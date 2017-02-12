@@ -1,0 +1,1 @@
+  Ignore IOException when deleting old log files LogConfig.setupLogging()  Summary: This is a followup to my previous 

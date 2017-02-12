@@ -1,0 +1,1 @@
+  fixed PY-8962 No packages are listed on the "Available Packages" screen  use https directly, trust pypi certificate  

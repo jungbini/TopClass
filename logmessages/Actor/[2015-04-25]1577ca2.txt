@@ -1,0 +1,1 @@
+  styles(web): fix paddings at small screen;  

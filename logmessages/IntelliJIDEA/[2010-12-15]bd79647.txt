@@ -1,0 +1,1 @@
+  fixed some msgs, label changed to editor pane (PY-2470)  

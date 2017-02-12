@@ -1,0 +1,1 @@
+  Create from Usage: Show receiver type in the text of "Create extension" quick fix  

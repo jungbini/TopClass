@@ -1,0 +1,1 @@
+  Maven: settings are not saved fix (IDEA-53422)  

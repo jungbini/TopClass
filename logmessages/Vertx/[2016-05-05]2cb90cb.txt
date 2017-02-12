@@ -1,0 +1,1 @@
+  ClusteredEventBusTest.testDefaultCodecReplyExceptionSubclass test is fixed  Signed-off-by: Andrey Gura <andreyn.gura@gmail.com>  

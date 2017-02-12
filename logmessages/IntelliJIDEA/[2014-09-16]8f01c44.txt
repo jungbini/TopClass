@@ -1,0 +1,1 @@
+  fix "Double brace initialization" inspection quickfix problem  

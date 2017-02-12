@@ -1,0 +1,1 @@
+  move normalizeMemberName to debugger view support  

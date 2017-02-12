@@ -1,0 +1,1 @@
+  Make lists the canonical representation of compiler sources. They're so much easier to sort and mutate, which is going to make a 

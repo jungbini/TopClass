@@ -1,0 +1,1 @@
+  Only kill if not executed in debug mode  +review REVIEW-5713  

@@ -1,0 +1,1 @@
+  Explicitly use bash to test negative exit codes  sh doesn't actually support negative exit codes, so if someone (Travis) uses a 

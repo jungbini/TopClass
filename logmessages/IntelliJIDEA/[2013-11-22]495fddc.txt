@@ -1,0 +1,1 @@
+  added quick-fix to delete all unused libraries (IDEA-99885)  

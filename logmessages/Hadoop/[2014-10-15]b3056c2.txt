@@ -1,0 +1,1 @@
+  YARN-2685. Fixed a bug in CommonNodeLabelsManager that caused wrong resource tracking per label when a host runs multiple node-managers. Contributed by Wangda Tan.  

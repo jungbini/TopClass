@@ -1,0 +1,1 @@
+  fix #1005. fix a regression introduced in eebfda0  Parsing empty documents should raise a SyntaxError when strict parsing is turned on  

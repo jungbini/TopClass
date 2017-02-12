@@ -1,0 +1,1 @@
+ Merge branch 'master' into fix-groupyb  commit 50945a144aa8b9b1ccfd3892a21a4002069afe6c  Merge pull request #569 from tucksaun/fix-build-as-submodule  Fixed maven build when druid is integrated as a submodule  commit ababbcadfdca77720717265979cca6df1280ea95  fix package groupId  

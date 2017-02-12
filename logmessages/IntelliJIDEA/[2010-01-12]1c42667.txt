@@ -1,0 +1,1 @@
+  Ignore NPE for sun's bug under Linux, http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=6322854  

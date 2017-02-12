@@ -1,0 +1,1 @@
+  fix first stepic login after application restart  

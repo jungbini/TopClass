@@ -1,0 +1,1 @@
+  Patch by MeBigFat@gmail.com to fix issue 337 about loop in OLazyObjectMap.containsValue()  

@@ -1,0 +1,1 @@
+  fixed typo in build.properties which caused missing class files in the bundle  

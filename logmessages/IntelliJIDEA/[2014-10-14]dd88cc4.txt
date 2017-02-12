@@ -1,0 +1,1 @@
+  EA-56019 fix: don't create empty HTML blocks  

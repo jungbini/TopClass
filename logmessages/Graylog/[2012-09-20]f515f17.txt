@@ -1,0 +1,1 @@
+  show information about recent index in health page. fixes #WEBINTERFACE-318  

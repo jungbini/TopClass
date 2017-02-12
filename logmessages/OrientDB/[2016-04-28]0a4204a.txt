@@ -1,0 +1,1 @@
+  Fixed bug on batch script return in case of [1,2]  

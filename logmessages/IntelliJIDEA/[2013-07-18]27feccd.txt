@@ -1,0 +1,1 @@
+  IDEA-106990 (Quick fix for "Scope of variable is too broad at line" breaks code)  

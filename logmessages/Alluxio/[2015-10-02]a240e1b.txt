@@ -1,0 +1,1 @@
+ Removed the m prefix in thrift struct  

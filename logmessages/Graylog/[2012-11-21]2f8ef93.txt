@@ -1,0 +1,1 @@
+  check if index_information is even available  fixes #WEBINTERFACE-331  

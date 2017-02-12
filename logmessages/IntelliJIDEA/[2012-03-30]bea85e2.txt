@@ -1,0 +1,1 @@
+  IDEA-57470 spring: code completion in xml suggest unprefixed <constructor-arg> and <property> when "beans" namespace has been bound to prefix completing top-level elements from qualified ns  

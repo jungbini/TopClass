@@ -1,0 +1,1 @@
+312: refactoring ZeppelinServer to better Java style naming conventions 497a6ca [Alexander Bezzubov] ZEPPELIN-312: replace sync \w lock-free collection 524c401 [Alexander Bezzubov] ZEPPELIN-312: refactoring ZeppelinServer to adhere Java naming conventions  

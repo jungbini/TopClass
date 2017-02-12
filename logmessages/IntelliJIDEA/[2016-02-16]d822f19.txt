@@ -1,0 +1,1 @@
+  inspections tool window: properly show text on multiple apply fix button  

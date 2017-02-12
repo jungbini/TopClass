@@ -1,0 +1,1 @@
+  PatternMatchingTypingVisitor: rewrite type inference for 'when' using special constructs. This fixes several type inference issues for 'when': KT-9929, KT-9972, KT-10439, KT-10463 along with some other diagnostics-related issues.  

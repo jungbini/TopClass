@@ -1,0 +1,1 @@
+  Add filtering of suggested expressions for postfix templates  Do not suggest qualified expression's selector or a part of user type because they aren't really independent expressions  

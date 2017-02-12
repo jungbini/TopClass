@@ -1,0 +1,1 @@
+  fix error in validating files with jruby  Fixes #1361  

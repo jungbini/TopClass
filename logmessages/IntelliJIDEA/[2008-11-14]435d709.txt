@@ -1,0 +1,1 @@
+  toolwindow focus management fixes (floating toolwindow + when no editor open)  

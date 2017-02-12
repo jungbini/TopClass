@@ -1,0 +1,1 @@
+  PHP move verified warning breakpoint icon to debugger icons  

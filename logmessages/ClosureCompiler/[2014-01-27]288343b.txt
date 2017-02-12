@@ -1,0 +1,1 @@
+  [New Parser] General fixes - jsdoc attachment for casts, etc - reenable misplace @type annotation warnings - number literal parsing - detect function declarations without names - semi-colon after do-while is optional ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=60104104  

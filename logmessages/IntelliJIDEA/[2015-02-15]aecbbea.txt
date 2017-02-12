@@ -1,0 +1,1 @@
+  IDEA-136567 Groovy: fix NPE in compilation unit  

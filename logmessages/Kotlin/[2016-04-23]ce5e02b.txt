@@ -1,0 +1,1 @@
+  Format spaces in infix call (KT-12018)  #KT-12018 Fixed  

@@ -1,0 +1,1 @@
+  possible fix for editor window closing (issue #569)  

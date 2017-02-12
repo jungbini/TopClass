@@ -1,0 +1,1 @@
+  [buck] Eradicate whitelisting  Summary: infer configuration specifying a list of prefixes that we run Eradicate on. This will disable the Eradicate on unit tests.  

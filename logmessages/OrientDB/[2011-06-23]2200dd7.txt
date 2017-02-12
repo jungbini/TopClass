@@ -1,0 +1,1 @@
+  Schema: fixed bug that loose the linked class when operates against the schema  

@@ -1,0 +1,1 @@
+  fixing index page to be Color instead of RGB Color  

@@ -1,0 +1,1 @@
+  HOTFIX: Check hasNext in KStreamWindowReduce  Author: Guozhang Wang <wangguoz@gmail.com>  Reviewers: Damian Guy, Matthias J. Sax  Closes #1520 from guozhangwang/KHotfix-iter-hasNext-window-value-getter  

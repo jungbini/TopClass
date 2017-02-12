@@ -1,0 +1,1 @@
+  KT-1786 IDEA complains about toolwindow icon size #KT-1786 fixed  

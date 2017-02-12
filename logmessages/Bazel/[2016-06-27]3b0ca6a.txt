@@ -1,0 +1,1 @@
+  getting-started.md: fix typo in URL  -- Change-Id: Iab790f363ce1029da9706be6be176e4320bdcdb9 Reviewed-on: https://bazel-review.googlesource.com/#/c/3906 MOS_MIGRATED_REVID=125951789  

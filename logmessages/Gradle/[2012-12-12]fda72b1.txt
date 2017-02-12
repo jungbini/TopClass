@@ -1,0 +1,1 @@
+  fixed GRADLE-2586: Provide --configuration parameter to dependencies task  

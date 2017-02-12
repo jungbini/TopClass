@@ -1,0 +1,1 @@
+  fixed issue #3814 - orient.getDatabase() from studio  

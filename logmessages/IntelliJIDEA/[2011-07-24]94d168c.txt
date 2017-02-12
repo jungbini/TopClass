@@ -1,0 +1,1 @@
+  [mac] save fullscreen state fix  

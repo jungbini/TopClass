@@ -1,0 +1,1 @@
+  Ninja fix: Fix eclipse compilation issue with raw types  

@@ -1,0 +1,1 @@
+  vfs: ignore invalid .jar roots (tests fixed)  

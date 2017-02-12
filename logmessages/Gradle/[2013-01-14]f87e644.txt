@@ -1,0 +1,1 @@
+  Add some tests for the JS in the release notes for the fixed/known issues.  

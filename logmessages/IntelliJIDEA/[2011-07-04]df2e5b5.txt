@@ -1,0 +1,1 @@
+  fixed libraries for ejb version without ejb-jar.xml (IDEA-71718)  

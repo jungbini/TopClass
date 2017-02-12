@@ -1,0 +1,1 @@
+  cc_configure: use the wrapper only if on Darwin and ship the environment only if in homebrew  This will fix the sandboxing issues for rules_rust and rules_go while still allowing to build inside homebrew.  Should unblock #1238  Fixes bazelbuild/rules_go#20. Fixes bazelbuild/rules_rust#4.  Tested under homebrew + classic tests.  -- MOS_MIGRATED_REVID=121834186  

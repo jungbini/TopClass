@@ -1,0 +1,1 @@
+ Concatenate pending buffers when connection is paused to avoid ordering issues https://bugs.eclipse.org/bugs/show_bug.cgi?id=475017  

@@ -1,0 +1,1 @@
+  Protected in allowed in companion objects but forbidden in other objects, relevant test fixes  

@@ -1,0 +1,1 @@
+  HBASE-1615 HBASE-1597 introduced a bug when compacting after a split  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@791693 13f79535-47bb-0310-9956-ffa450edef68  

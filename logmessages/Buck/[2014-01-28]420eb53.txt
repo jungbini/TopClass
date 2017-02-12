@@ -1,0 +1,1 @@
+  Add `buck targets --show_rulekey`.  Summary: Previously, I don't think there was a fast way to get the RuleKey of a rule from the command line.  This is reasonably fast.  I can't figure out why it always shows debug output, but it's not that important, since this fills my needs.  Test Plan: Ran it on fb4a to verify that a particular change didn't affect the fb4a rulekey.  

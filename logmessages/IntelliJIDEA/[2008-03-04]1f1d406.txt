@@ -1,0 +1,1 @@
+  honor idea.platform.prefix when loading components in tests  

@@ -1,0 +1,1 @@
+  fixed PY-12696 Create VirtualEnv: when adding first base interpreter it is not selected right away  

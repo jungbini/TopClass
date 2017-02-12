@@ -1,0 +1,1 @@
+  input metrics for open and total connections. fixes #269  

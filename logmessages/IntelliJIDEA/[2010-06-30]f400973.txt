@@ -1,0 +1,1 @@
+  django db completion fixed (PY-1163, PY-1169)  

@@ -1,0 +1,1 @@
+  KT-11960 Fix case of instantiation of local class via its inner class or via nested lambda. Move tests to more appropriate location. Fix bug in blackbox codegen generator for JVM, which does not allow to suppress tests.  

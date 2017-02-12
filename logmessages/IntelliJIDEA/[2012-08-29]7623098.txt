@@ -1,0 +1,1 @@
+  compilation fixed  Conflicts: platform/lang-impl/src/com/intellij/ide/util/AbstractTreeClassChooserDialog.java  

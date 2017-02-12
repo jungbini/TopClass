@@ -1,0 +1,1 @@
+  Debugger: do not evaluate calls on mouse cover when 'Value auto tooltip' switched on  

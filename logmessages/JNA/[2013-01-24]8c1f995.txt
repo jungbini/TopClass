@@ -1,0 +1,1 @@
+  changes to allow StructureFieldOrderTest to run on linux. Still needs fixes to platform build.xml to allow this to run under linux AND fixes are needed for X11 Structure.getFieldOrder() methods.  

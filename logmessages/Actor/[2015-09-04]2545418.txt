@@ -1,0 +1,1 @@
+  fix(android): fix release/debug manifest  

@@ -1,0 +1,1 @@
+  Fixed bug on OMVRBTreeRID: sometimes add was lazy and in case of db close could be not saved on disk  

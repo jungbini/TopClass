@@ -1,0 +1,1 @@
+  Optimize KClass creation from Class instance  Don't create unnecessary iterator every time in HashPMap.get (see https://github.com/hrldcpr/pcollections/pull/41). Also fix a warning and remove misleading comment  

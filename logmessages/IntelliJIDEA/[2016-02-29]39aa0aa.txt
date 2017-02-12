@@ -1,0 +1,1 @@
+  moved collecting of disabled dependant plugins from InstallPluginAction and PluginsAdvertiserDialog to "suggestToEnableInstalledPlugins" in PluginManagerMain #IDEA-150127 fixed  

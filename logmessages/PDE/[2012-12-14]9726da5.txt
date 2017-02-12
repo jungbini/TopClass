@@ -1,0 +1,1 @@
+  several opengl fixes (among them, major memory leak due to incorrectly initialized static var)  

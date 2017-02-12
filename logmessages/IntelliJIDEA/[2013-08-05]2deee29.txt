@@ -1,0 +1,1 @@
+  fixed EA-48155 - NPE: PythonTestConfigurationProducer.createConfigurationFromFile  

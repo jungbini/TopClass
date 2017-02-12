@@ -1,0 +1,1 @@
+  Merge -c 1442840 from trunk to branch-2 to fix YARN-370. Fix SchedulerUtils to correctly round up the resource for containers. Contributed by Zhijie Shen.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1442841 13f79535-47bb-0310-9956-ffa450edef68  

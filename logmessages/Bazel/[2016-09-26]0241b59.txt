@@ -1,0 +1,1 @@
+  Implement --nocompress_suffixes option. The planned replacement of the ApkBuilder with singlejar uses it.  -- MOS_MIGRATED_REVID=134290339  

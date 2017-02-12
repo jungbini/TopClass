@@ -1,0 +1,1 @@
+  Merge -c 1529534 from trunk to branch-2 to fix YARN-1032. Fixed NPE in RackResolver. Contributed by Lohit Vijayarenu.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1529535 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  fix checkbox togging with mouse (do not access `checkbox.getX()` as these components are not layouted and the return value is unreliable)  

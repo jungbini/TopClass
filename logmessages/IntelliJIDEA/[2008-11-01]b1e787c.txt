@@ -1,0 +1,1 @@
+  [r=maxim] finishing with > should work in template data file; close lookup on more caret&selection events; undo common prefix only on second completion  

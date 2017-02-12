@@ -1,0 +1,1 @@
+  Integrate changes from trunk StackOverflow fixed in inspections (if class inherits itself) Inheritance of NonNls fixed for return value and parameters  

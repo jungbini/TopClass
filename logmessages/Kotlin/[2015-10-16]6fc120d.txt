@@ -1,0 +1,1 @@
+  Dropping package facades: - clashing JVM signature diagnostics should be reported in stable order - drop tests for clashes vs package facades - introduce box test for class named as old package facade - fix some testData  

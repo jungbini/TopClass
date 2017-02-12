@@ -1,0 +1,1 @@
+  fix UI: set invalid offset in display file will crash, offset should be numbers and should be in range [0, size(file)]  

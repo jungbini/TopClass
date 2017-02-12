@@ -1,0 +1,1 @@
+  tests fixed for W7 agents with tortoise: switch off unsupported sparse extensions for our hg version (2.6.2)  

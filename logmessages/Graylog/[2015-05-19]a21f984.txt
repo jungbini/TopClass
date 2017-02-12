@@ -1,0 +1,1 @@
+  change timestamp format string to include millisecond  fixes #1294  

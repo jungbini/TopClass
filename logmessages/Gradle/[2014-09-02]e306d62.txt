@@ -1,0 +1,1 @@
+  GRADLE-3161 - fixed caching when both classifier and type are specified in dependency declaration.  

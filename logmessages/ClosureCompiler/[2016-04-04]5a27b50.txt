@@ -1,0 +1,1 @@
+  Check that reported warnings/errors never contain "{0}", "{1}", etc.  If they do, it almost certainly means we forgot to fill in some placeholders when reporting the warning.  Also fix a couple places where we were already making this mistake. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=118964115  

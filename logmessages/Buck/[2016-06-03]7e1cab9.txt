@@ -1,0 +1,1 @@
+  Code Sign Command, and preserving code signature after absolutifying the binary  Summary: Code Signature appears to be at the end of the binary. During absolutification of the object file paths, we expand string table. Doing it carelessly will override code signature. This 

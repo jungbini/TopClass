@@ -1,0 +1,1 @@
+  fixed PY-12690 Detected from creating virtualenv interpreter has invalid slashes  

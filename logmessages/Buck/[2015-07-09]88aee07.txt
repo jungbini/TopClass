@@ -1,0 +1,1 @@
+  Fix `android_aar()` to actually work  Summary: We were not setting up our dependencies properly such that we were not packaging any of our Java classes.  This change fixes that, and it adds a test to check that the class is packaged.  Test Plan: * CI * Ran the modified test class in IntelliJ  

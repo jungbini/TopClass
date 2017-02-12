@@ -1,0 +1,1 @@
+  fixing a bug with indexing service not correctly killing worker nodes  

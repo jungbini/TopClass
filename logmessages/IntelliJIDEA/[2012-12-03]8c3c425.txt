@@ -1,0 +1,1 @@
+  Run/Debug configurations: get rid of name field blinking  

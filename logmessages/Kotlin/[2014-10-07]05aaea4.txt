@@ -1,0 +1,1 @@
+  Added API in PSI to add/remove modifiers and refactored quickfixes to use it  

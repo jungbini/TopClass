@@ -1,0 +1,1 @@
+  inspection tool window: NPE when ref-entity is null fixed + QF button can be disabled  

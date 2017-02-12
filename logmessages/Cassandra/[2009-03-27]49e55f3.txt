@@ -1,0 +1,1 @@
+  apply patch from Jun Rao fixing issue #17 (improve the start-server and stop-server script)  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@759295 13f79535-47bb-0310-9956-ffa450edef68  

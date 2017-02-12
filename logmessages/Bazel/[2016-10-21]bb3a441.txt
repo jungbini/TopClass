@@ -1,0 +1,1 @@
+  Move junitrunner fake/stub classes from javatests/c/g/testing/junit/runner to java/c/g/testing/junit/runner/sharding/testing. Also:  - Remove Guava dependencies and fix minor style issues in FakeShardingFilters - Fix lint issues in TestSuite[]ModelTest  -- MOS_MIGRATED_REVID=136840327  

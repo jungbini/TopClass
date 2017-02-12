@@ -1,0 +1,1 @@
+  add source and timestamp to CSV export  also escape newlines in fields using \n  fixes #559  

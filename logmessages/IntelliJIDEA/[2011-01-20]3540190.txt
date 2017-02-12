@@ -1,0 +1,1 @@
+  Fix Mercurial tests problem with not running several operations from AWT thread. Reworked tests setUp() and tearDown().. Avoided using fixture.findFile - using VirtualFile.findChild and other instead.  

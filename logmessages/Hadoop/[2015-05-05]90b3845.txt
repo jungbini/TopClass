@@ -1,0 +1,1 @@
+  HADOOP-11912. Extra configuration key used in TraceUtils should respect prefix (Masatake Iwasaki via Colin P. McCabe)  

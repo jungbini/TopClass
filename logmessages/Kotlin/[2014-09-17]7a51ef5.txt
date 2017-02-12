@@ -1,0 +1,1 @@
+  Stdlib: fix build -- use named object instead of instance of Any because Any not mapped yet in JS backend.  

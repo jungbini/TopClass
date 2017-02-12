@@ -1,0 +1,1 @@
+  support multi-literal injections in JS #WEB-8233 fixed  

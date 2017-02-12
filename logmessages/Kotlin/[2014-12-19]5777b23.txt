@@ -1,0 +1,1 @@
+  Avoid recounting auto-import suggesting for outdated quick-fix objects  

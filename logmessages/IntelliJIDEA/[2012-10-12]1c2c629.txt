@@ -1,0 +1,1 @@
+  GitBranchWorkerTest: better fix of line separators  (occasionally mixed line separator and file separator)  

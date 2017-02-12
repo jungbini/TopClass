@@ -1,0 +1,1 @@
+  (IDEA-114096) Adding file to mercurial is slow - try to fixed.  *copied filenames provided to status command  

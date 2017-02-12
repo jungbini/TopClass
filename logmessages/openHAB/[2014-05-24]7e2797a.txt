@@ -1,0 +1,1 @@
+  Fixed deadlock/race condition whereby more then one Quartz job tries to use the serial port to read from the oceanic unit Fixed bug related to Quartz job unscheduling  

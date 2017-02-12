@@ -1,0 +1,1 @@
+  Minor: fixed case on shutdown when the pool is null  

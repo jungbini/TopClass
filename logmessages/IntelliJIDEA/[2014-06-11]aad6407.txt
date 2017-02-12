@@ -1,0 +1,1 @@
+  dfa: fix too complex assertTrue (added state defensive copying)  

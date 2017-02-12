@@ -1,0 +1,1 @@
+  javafx: fix completion of stylesheets from application class  

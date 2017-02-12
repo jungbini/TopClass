@@ -1,0 +1,1 @@
+  fix striped tables/lists in darcula  

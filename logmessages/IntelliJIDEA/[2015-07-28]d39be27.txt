@@ -1,0 +1,1 @@
+  svn: Refactored SvnDiffProvider - code simplified, warnings fixed, @NotNull  

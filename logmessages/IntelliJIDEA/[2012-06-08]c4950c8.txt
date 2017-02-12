@@ -1,0 +1,1 @@
+  Ultimately fixed bug in integrate (classToSubClasses) (compile-server)  

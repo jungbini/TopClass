@@ -1,0 +1,1 @@
+  Do postponed operations/formatting in case of PSI modifications (fixes WI-26121 Format on paste throws exception after modification of injected fragment)  

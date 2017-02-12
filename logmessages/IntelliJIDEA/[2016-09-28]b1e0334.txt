@@ -1,0 +1,1 @@
+  Created utility method to add dependant disposables to editor, refactored previously existed similar code and fixes for EA-89074, EA-89083 to use it (following IDEA-CR-14087)  

@@ -1,0 +1,1 @@
+  fix issue with points > 512 (bug #1255)  

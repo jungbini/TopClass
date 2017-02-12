@@ -1,0 +1,1 @@
+  more accurate fix for HtmlTag.createChildTag creates XmlTag (IDEADEV-33106)  

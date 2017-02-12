@@ -1,0 +1,1 @@
+  WEB-16554 Debugging with sourcemaps: breakpoints in source file are not hit if it's located in a directory marked as sourceFolder  

@@ -1,0 +1,1 @@
+  massive insert removed all hooks, including OClassIndexManager,fixed  

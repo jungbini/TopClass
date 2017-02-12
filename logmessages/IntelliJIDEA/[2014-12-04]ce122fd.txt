@@ -1,0 +1,1 @@
+  maven: fix index context duplication, do not force to download the index for remote repositories registered by Gradle-Maven integration related issue: IDEA-126266 Maven cache is huge  

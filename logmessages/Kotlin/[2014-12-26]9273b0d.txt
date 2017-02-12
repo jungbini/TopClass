@@ -1,0 +1,1 @@
+  Preloader: support loading classpath dependencies from manifest  Move this logic from ide-compiler-runner. This fixes running 'kotlinc' CLI compiler locally when the runtime is changed binary incompatibly  

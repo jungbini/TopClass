@@ -1,0 +1,1 @@
+  fixed PY-11617 Nosetest runner: simple function tests cannot jump to source  

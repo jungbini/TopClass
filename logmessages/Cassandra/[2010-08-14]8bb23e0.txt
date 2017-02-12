@@ -1,0 +1,1 @@
+  word count fix for changes in CASSANDRA-1322/r984904  Patch by eevans  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@985424 13f79535-47bb-0310-9956-ffa450edef68  

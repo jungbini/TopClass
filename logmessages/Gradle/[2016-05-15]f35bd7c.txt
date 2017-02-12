@@ -1,0 +1,1 @@
+  Fixed bug in generating POM dependencies for performance tests  

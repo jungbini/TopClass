@@ -1,0 +1,1 @@
+  Issue #776 fixed. Ability to serialize ODocument.  

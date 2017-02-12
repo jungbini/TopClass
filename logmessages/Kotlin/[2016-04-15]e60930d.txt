@@ -1,0 +1,1 @@
+  Add variance modifier fix corrected: primary constructor parameters are taken into account  

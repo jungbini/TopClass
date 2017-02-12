@@ -1,0 +1,1 @@
+  Work around interrupt bug in download_and_extract  The actual issue is with the code that calls this method by way of reflection. This is a temporary work around to fix #2232.  RELNOTES: An IE bug was fixed in repository_ctx.download_and_extract  -- PiperOrigin-RevId: 141899395 MOS_MIGRATED_REVID=141899395  

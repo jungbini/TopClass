@@ -1,0 +1,1 @@
+  fixed sub-menu in 'Build Artifacts' popup (IDEA-78353) [rev by Dmitry A.]  

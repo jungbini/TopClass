@@ -1,0 +1,1 @@
+  fix for IDEADEV-3471 and some related changes from the InspectionGadgetsIridaI18N  

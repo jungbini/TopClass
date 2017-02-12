@@ -1,0 +1,1 @@
+ [#119] fixed a bug where memory chart was not rendering in Mixed View  

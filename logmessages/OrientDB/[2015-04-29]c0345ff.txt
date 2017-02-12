@@ -1,0 +1,1 @@
+  added print of debug information in display raw record, issue #4027  

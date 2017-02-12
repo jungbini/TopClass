@@ -1,0 +1,1 @@
+  maven: fix highlighting test  

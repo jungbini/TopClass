@@ -1,0 +1,1 @@
+  drop "ignore exceptions declared in test" and use "suppress for 'Tests' scope" quickfix  

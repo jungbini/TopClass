@@ -1,0 +1,1 @@
+  JS: decomposition of binary operator  #KT-6437 fixed #KT-7359 fixed  

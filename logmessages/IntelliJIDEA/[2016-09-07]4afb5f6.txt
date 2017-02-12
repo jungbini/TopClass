@@ -1,0 +1,1 @@
+  fix ITN (regression after last change)  correctly set focused component to password field if user specified  

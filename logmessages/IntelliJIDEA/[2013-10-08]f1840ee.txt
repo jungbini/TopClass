@@ -1,0 +1,1 @@
+  fixed PY-10982 Autopopup code completion interferes in docstring comments  

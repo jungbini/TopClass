@@ -1,0 +1,1 @@
+ Merge pull request #1167 from kgoderis/knx  KNX : fixed bug regarding double usage of datapoints in Item definition + DPT 7.001  commit eb424cb3d7eea0b2bb1d5e708bb91c795e1ee436  fixed unit test  

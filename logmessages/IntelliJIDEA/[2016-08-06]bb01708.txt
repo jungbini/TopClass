@@ -1,0 +1,1 @@
+  Preserve original stacktrace for exceptions in PyPackageUtil#refreshAndGetPackagesModally()  The same way it's done in PythonSdkUpdater, i.e. original stacktrace is attached as exception's cause and the whole trace is included only with debug level of logging.  

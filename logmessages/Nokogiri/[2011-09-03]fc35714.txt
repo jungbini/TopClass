@@ -1,0 +1,1 @@
+  Adds jruby only methods for jruby version before the fix.  

@@ -1,0 +1,1 @@
+ fix mvn soft link for integration tests  add comment and remove mvn in default container  remove unused links  

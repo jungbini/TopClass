@@ -1,0 +1,1 @@
+  cqlsh: Upgrade bundled py driver to fix nulls in UDTS and tuples  Patch by Tyler Hobbs; review by Aleksey Yeschenko for CASSANDRA-7656  

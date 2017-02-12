@@ -1,0 +1,1 @@
+  git: rebase: LOG.warn instead of debug for unexpected situations  

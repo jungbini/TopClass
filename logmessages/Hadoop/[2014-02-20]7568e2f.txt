@@ -1,0 +1,1 @@
+  HDFS-5944. LeaseManager:findLeaseWithPrefixPath can't handle path like /a/b/ and cause SecondaryNameNode failed do checkpoint. Contributed by Yunjiong Zhao  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1570366 13f79535-47bb-0310-9956-ffa450edef68  

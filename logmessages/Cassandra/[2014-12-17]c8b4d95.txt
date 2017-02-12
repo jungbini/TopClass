@@ -1,0 +1,1 @@
+ cqlsh: fix CONSISTENCY output  Patch by Adam Holmberg; reviewed by Tyler Hobbs for CASSANDRA-8507  

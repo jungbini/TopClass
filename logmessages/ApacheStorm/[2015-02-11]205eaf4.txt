@@ -1,0 +1,1 @@
+  STORM-329: fix cascading Storm failure by improving reconnection strategy and buffering messages  Thanks to @tedxia for the initial work on this patch, which covered a lot if not most of the work!  

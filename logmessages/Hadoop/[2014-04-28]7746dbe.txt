@@ -1,0 +1,1 @@
+  svn merge -c 1590637 merging from trunk to branch-2 to fix:HADOOP-10322. Add ability to read principal names from a keytab. Contributed by Benoy Antony and Daryn Sharp.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1590639 13f79535-47bb-0310-9956-ffa450edef68  

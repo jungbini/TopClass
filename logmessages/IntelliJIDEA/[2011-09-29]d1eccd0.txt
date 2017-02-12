@@ -1,0 +1,1 @@
+  Bug fix: Plugin Configuration type: IDEA doesn't read VM Options under Linux and Mac.  

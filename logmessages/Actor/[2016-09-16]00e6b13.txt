@@ -1,0 +1,1 @@
+  fix(core): mark encrypted messages as read after destruct/message delete/chat delete  

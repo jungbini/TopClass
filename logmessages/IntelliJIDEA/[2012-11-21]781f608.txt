@@ -1,0 +1,1 @@
+  IDEA-95467 fix issues with proguard, validate unambiguous android artifacts [rev=m.medvedev] (cherry-picked from 8e9026f)  

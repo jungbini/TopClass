@@ -1,0 +1,1 @@
+  Fixed bug when parsing template annotations of the form: @template T random text  The random text was parsed as part of T since it was captured using extractMultilineTextualBlock(token). ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=70722131  

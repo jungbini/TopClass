@@ -1,0 +1,1 @@
+  fix - received commands are now added to ignoreEventList as well  

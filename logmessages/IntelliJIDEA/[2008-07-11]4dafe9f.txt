@@ -1,0 +1,1 @@
+  fix loss of parameter on change signature when changing array type to varargs (IDEADEV-26977)  

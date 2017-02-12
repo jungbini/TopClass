@@ -1,0 +1,1 @@
+  KT-2859 Inconsistency before reparse upon completing by Tab key  #KT-2859 fixed  

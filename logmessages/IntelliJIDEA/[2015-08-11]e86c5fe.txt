@@ -1,0 +1,1 @@
+  [vcs-log][filters] fix missing edges in filtered graph  

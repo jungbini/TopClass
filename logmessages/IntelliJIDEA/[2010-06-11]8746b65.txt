@@ -1,0 +1,1 @@
+  XML index, initialPatternCondition indexed, minor configuration fixes  

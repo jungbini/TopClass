@@ -1,0 +1,1 @@
+ Do not wrap empty scope and fix kotlinSourceAndClassFiles()  

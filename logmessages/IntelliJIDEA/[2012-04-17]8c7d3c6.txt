@@ -1,0 +1,1 @@
+  html5 fixes: return xhtml schema from XmlDocument, return xhtml4 schema location if html4 is chosen as default language level  

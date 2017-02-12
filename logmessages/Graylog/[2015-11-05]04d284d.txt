@@ -1,0 +1,1 @@
+  Add dummy alert button and fix conditional receiver button rendering.  

@@ -1,0 +1,1 @@
+  parser: handle python syntax errors without offsets  Summary: A python `SyntaxError` may not have an `offset` (e.g. in the case of repeated arguments), so fix a bug where we were crashing in this case.  Test Plan: added test  Reviewed By: bhamiltoncx  fbshipit-source-id: 396c9b3  

@@ -1,0 +1,1 @@
+  fix fd leak in sstable2json with non-mmap'd i/o patch by jbellis; reviewed by Pavel Yaskevich for CASSANDRA-2304  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1080286 13f79535-47bb-0310-9956-ffa450edef68  

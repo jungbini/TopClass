@@ -1,0 +1,1 @@
+  fixed validation in case of full content update, issue #4017  

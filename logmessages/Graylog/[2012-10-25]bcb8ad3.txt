@@ -1,0 +1,1 @@
+  processbuffer_processors for example graylog2.conf  fixes #SERVER-170  

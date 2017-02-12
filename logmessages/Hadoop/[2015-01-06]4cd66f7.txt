@@ -1,0 +1,1 @@
+  HDFS-7583. Fix findbug in TransferFsImage.java (Contributed by Vinayakumar B)  

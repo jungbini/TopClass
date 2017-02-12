@@ -1,0 +1,1 @@
+  move package as directory: move non-java files as well; fix imports on classes in moved file(s)  

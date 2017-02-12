@@ -1,0 +1,1 @@
+  Some debugging methods for indexed mode in PShape3D  

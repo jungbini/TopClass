@@ -1,0 +1,1 @@
+  Modification of openhab.target to include Apache httpcore and httpclient Fixed typo in pom.xml Changed Plug-in configuration in Run and Debug launch configuration  

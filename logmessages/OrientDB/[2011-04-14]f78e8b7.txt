@@ -1,0 +1,1 @@
+  Contribution by Sylvain to fix issue 303 about multi-threda management with MVRB-Trees, reported also in the ML  

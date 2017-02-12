@@ -1,0 +1,1 @@
+  KAFKA-4023: Add thread id and task id for logging prefix in Streams  Author: bbejeck <bbejeck@gmail.com>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #1803 from bbejeck/KAFKA-4023_add_thread_id_prefix_for_logging  

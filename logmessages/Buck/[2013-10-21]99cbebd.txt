@@ -1,0 +1,1 @@
+  Add RuleKey to ArtifactCache events.  Summary: Log the RuleKey in chrome traces to aid with debugging.  Test Plan: buck build buck, verified artiract events had rule key in chrome trace.  

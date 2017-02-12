@@ -1,0 +1,1 @@
+  Add quickfix for UNUSED_LAMBDA_EXPRESSION (#867)  Fixes #KT-9757  

@@ -1,0 +1,1 @@
+  syslog_listen_address is now 0.0.0.0 by default  fixes #SERVER-240  

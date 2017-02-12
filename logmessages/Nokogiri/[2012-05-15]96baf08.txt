@@ -1,0 +1,1 @@
+  * Nokogiri::XML::Text#to_ary returns an array with the node text. fixes #679  

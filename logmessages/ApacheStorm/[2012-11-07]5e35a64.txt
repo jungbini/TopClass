@@ -1,0 +1,1 @@
+  fix regression in DefaultScheduler where it wouldn't reassign squeezed topologies correctly  

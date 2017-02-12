@@ -1,0 +1,1 @@
+  IDEA-69940 Reveal log broken [fix2]  

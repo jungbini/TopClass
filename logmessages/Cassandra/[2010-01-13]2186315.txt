@@ -1,0 +1,1 @@
+  fix NaN in nodeprobe totals when some CFs but not others have seen read or write ops.  patch by jbellis; reviewed by gdusbabek for CASSANDRA-646  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.5@898833 13f79535-47bb-0310-9956-ffa450edef68  

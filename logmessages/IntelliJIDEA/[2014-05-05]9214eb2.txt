@@ -1,0 +1,1 @@
+  [tests] Move enable debug logging for certain categories to a common place  

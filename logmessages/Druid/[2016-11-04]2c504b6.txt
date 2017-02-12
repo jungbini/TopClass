@@ -1,0 +1,1 @@
+  Add "like" filter. (#3642)  * Add "like" filter.  * Addressed some PR comments.  * Slight simplifications to LikeFilter.  * Additional simplifications.  * Fix comment in LikeFilter.  * Clarify comment in LikeFilter.  * Simplify LikeMatcher a bit.  * No use going through the optimized path if prefix is empty.  * Add more tests.  

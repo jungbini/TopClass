@@ -1,0 +1,1 @@
+  Launch terminal with fixed locale (IDEA-116401, IDEA-118832, IDEA-120131).  

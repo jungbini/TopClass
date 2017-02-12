@@ -1,0 +1,1 @@
+chance to fix a bug, as well as your data. patch by jbellis; reviewed by Jun Rao for CASSANDRA-264  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@789464 13f79535-47bb-0310-9956-ffa450edef68  

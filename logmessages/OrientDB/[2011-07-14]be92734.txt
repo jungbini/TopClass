@@ -1,0 +1,1 @@
+  SQL: fixed bug with indexes with query like "select from MapPoint where x = x" and x is an indexed field  

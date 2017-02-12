@@ -1,0 +1,1 @@
+ Merge pull request #1589 from druid-io/fix-firehose-doc  Add a lot more docs for firehoses  commit 0326a7ac69e0de0b36cf1a778e7b138d2d8f9e7b  Merge pull request #1597 from metamx/fix-doc  some docs were missing before, hopfully this is more clear  commit 012fff66160df8bbb5684304f2518598b796ac6f  fix firehose docs  

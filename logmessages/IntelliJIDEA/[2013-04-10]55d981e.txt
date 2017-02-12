@@ -1,0 +1,1 @@
+  inline: fix qualifier which is inserted to specify type params after inline (IDEA-104536)  

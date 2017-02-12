@@ -1,0 +1,1 @@
+  RUBY-8737: SMTestProxy now support several (non-comparison) failures of one test #RUBY-8737 fixed  

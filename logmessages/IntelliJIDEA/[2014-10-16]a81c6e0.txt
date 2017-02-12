@@ -1,0 +1,1 @@
+  [vcs-log] improve root column ui IDEA-105467 - fix width + add some padding in narrow mode; - return to single click; - cut selection; - show hand.  

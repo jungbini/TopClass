@@ -1,0 +1,1 @@
+  IDEA-160837 ('<code>...</code> can be replaced with {@code ...}' inspection quick fix should convert angle brackets)  

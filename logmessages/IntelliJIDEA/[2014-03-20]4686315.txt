@@ -1,0 +1,1 @@
+  A class may not at the same time be a subtype of two interface types which are 

@@ -1,0 +1,1 @@
+ist instead of throwing error when dependency artifact is empty  

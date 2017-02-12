@@ -1,0 +1,1 @@
+  fix for broken auto-merge of CASSANDRA-3612  

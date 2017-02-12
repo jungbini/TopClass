@@ -1,0 +1,1 @@
+  Fail of com.orientechnologies.orient.test.database.auto.SQLSelectTest.queryContainsInEmbeddedList test on IBM JDK was fixed.  

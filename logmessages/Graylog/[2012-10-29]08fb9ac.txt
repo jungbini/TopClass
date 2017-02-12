@@ -1,0 +1,1 @@
+  fixed little bug with double deleted consumers  

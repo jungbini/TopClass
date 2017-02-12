@@ -1,0 +1,1 @@
+  Fix issue #139, group all methods together at the top of the struct. Fix a bug that when function method receiver is a pointer, the method will not be added to struct in structure view.  

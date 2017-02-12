@@ -1,0 +1,1 @@
+ IDEA-144919 Plugin manager fails to report unsupported plugin and silently disables it. #IDEA-144919 fixed Added logging to idea.log with the reason why plugin is not loaded  

@@ -1,0 +1,1 @@
+  GRADLE-1896 - don't attempt to resolve a dependency on a module which has been excluded. - fixed the case where a direct dependency is excluded by a configuration exclude rule.  

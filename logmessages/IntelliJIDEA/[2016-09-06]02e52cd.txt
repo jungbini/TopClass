@@ -1,0 +1,1 @@
+  early cancel and restart debugger read actions - added a delay between iterations  

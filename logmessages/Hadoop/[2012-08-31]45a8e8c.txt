@@ -1,0 +1,1 @@
+  YARN-60. Fixed a bug in ResourceManager which causes all NMs to get NPEs and thus causes all containers to be rejected. Contributed by Vinod Kumar Vavilapalli.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1379550 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  [quickfix] rename to blank quickfix should also replace declaration with assignment if needed  

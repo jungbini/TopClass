@@ -1,0 +1,1 @@
+  [quickfix] do not suggest creating const quickfix on assignments and channel send/recieve  

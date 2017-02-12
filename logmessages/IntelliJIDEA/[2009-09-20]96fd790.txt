@@ -1,0 +1,1 @@
+  Makes default auto-imports non-qualified, gives user a choice how to import importable names. Fixes PY-203 and several small bugs.  

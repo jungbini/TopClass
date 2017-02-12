@@ -1,0 +1,1 @@
+  fix web start tests on OSX (still requires dialog dismissal, at least on first run)  

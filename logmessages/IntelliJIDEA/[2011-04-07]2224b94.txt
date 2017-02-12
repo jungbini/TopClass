@@ -1,0 +1,1 @@
+  fixed PY-3238 Do not highlight "Call to constructor of super class is missed" if there is no super class constructor  

@@ -1,0 +1,1 @@
+  Code style fixed  in HG tests.  *File name variables removed from HgPlatformTest (use local ones in appropriate methods); * HgMergeProvider filed moved from HgPlatformTest to HgMergeProviderTest; *Second repository creation moved to test methods; *UpdateProject  method added  to HgExecutor; *Unnecessary comments removed from MergeProveder tests.  

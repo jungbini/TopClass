@@ -1,0 +1,1 @@
+  fix(server:messaging): fixed internal error on favouriting already favourited dialogs, same for archived  

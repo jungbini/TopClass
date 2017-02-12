@@ -1,0 +1,1 @@
+  fixed starting browser via Desktop API from jdk 1.6  

@@ -1,0 +1,1 @@
+  [groovy] @ListenerList: fix empty custom name processing, add tests  

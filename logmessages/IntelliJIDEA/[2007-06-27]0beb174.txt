@@ -1,0 +1,1 @@
+  IDEADEV-15328: Serious race condition expanding chameleons fixed.  

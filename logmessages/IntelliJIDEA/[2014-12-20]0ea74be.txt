@@ -1,0 +1,1 @@
+  fixed EDU-308 Do not close Run Toolwindow on cancelling task check  

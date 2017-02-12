@@ -1,0 +1,1 @@
+  RUBY-12161: special case to parse valid octal chars #RUBY-12161 fixed  

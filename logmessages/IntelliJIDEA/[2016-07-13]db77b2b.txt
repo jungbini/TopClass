@@ -1,0 +1,1 @@
+  lst: fix inner ranges computatuion  we can't trim changes here, because inner ranges would not be updated  this fix causes regression - trimmable ranges (ex: " \nX\n" vs "")  

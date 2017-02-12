@@ -1,0 +1,1 @@
+  IDEA-125805 (language level increase quickfix for switch on enum/string)  

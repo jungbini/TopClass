@@ -1,0 +1,1 @@
+  javafx: fix if path to scene builder was set via 'path' env (IDEA-102482)  

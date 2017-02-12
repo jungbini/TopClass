@@ -1,0 +1,1 @@
+  PY-7378 Add test cases described in issue (problem has been fixed already)  

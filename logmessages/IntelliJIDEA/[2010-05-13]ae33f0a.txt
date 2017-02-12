@@ -1,0 +1,1 @@
+  test framework to understand nested highlightings test data fixed (no more caret displacement)  

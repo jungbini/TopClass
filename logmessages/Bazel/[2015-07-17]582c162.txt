@@ -1,0 +1,1 @@
+  Make android_ndk_repository work on case-insensitive OS X file systems by not creating a BUILD file next to the build/ directory of the NDK.  Fixes #297.  Note that a directory called build/ or BUILD/ is not taken as the root of a package (it must be a file).  Also drive-by fix the fallout from the recent changes to how Jack/Jill is handled.  -- MOS_MIGRATED_REVID=98476274  

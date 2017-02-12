@@ -1,0 +1,1 @@
+  include empty plugin dir skeleton in releases  fixes #SERVER-179  

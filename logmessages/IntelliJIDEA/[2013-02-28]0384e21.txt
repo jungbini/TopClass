@@ -1,0 +1,1 @@
+  fix confusion between SDK paths when "use module SDK" option is selected and a Python SDK is configured (PY-9021)  

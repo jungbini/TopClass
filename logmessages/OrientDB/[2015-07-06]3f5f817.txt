@@ -1,0 +1,1 @@
+  fixed issue #4320 - ClassCastException when parsing query  

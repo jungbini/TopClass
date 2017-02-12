@@ -1,0 +1,1 @@
+  fix+refactor(web): remove delete icons from recent chats  

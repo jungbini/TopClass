@@ -1,0 +1,1 @@
+  fix a PY-8704 Refactoring: Rename/Change Signature: inconsistent base class is proposed  

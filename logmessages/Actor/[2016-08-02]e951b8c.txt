@@ -1,0 +1,1 @@
+  feat+fix(iOS,core): Auto join to groups in iOS, fixing crash in ConductorActor  

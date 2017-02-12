@@ -1,0 +1,1 @@
+  LiveEdit update action  use RunProfile instead of debug session (action should be visible if RC stopped, just disabled)  

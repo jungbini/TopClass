@@ -1,0 +1,1 @@
+  GRADLE-800 - fixed a potential deadlock in server process when worker process does not stop cleanly.  

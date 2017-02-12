@@ -1,0 +1,1 @@
+  Console command "compare databases" was fixed.  

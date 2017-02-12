@@ -1,0 +1,1 @@
+  New Sources Tab  - fixed resizing of line chart - removed labels from pie chart  

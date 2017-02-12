@@ -1,0 +1,1 @@
+  Bug fix for #2097 . Changes: modified iteration over list when removing items.  

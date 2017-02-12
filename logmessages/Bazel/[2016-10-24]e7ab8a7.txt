@@ -1,0 +1,1 @@
+  Fix chocolatey package build scripts - minor fixes.   Closes #1949.  -- Reviewed-on: https://github.com/bazelbuild/bazel/pull/1949 MOS_MIGRATED_REVID=137022912  

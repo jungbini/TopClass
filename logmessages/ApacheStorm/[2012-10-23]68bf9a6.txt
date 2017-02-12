@@ -1,0 +1,1 @@
+  fix default scheduler to schedule and check available slots one topology at a time, also fix it to check to see how many unassigned slots will become available slots  

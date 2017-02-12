@@ -1,0 +1,1 @@
+  make sources list time range configurable  (conflicted with lennart's changes... missed that push :( )  fixes Graylog2/graylog2-web-interface#599  

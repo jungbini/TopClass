@@ -1,0 +1,1 @@
+  use Android Debug Bridge term instead of ddms to not confuse it with DDMS standalone tool  

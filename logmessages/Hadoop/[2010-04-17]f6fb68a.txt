@@ -1,0 +1,1 @@
+  HBASE-2460 add_table.rb deletes any tables for which the target table name is a prefix  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@935114 13f79535-47bb-0310-9956-ffa450edef68  

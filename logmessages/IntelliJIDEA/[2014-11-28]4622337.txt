@@ -1,0 +1,1 @@
+  fix NPE in notification on IOError #WEB-14085 fixed  

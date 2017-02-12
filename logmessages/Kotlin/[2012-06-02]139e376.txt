@@ -1,0 +1,1 @@
+  fix KT-2167 (enum generation)  #KT-2167 fixed  

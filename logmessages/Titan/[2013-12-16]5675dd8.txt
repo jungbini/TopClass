@@ -1,0 +1,1 @@
+ fixed a naming issue in *PipelineTest. Hard coded OUT messages for TitanGraphOutputMapReduce and about to do something crazy so I need to commit .  

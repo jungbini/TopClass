@@ -1,0 +1,1 @@
+  playback debugger is made textarea since editor gets released on project close  

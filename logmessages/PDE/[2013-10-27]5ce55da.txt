@@ -1,0 +1,1 @@
+  fixes for pixel ARGB vs RGB issues (#2030)  

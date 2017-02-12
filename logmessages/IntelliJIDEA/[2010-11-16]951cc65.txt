@@ -1,0 +1,1 @@
+  added inspection and quick fix for augmented assignment (PY-1415)  

@@ -1,0 +1,1 @@
+  rename scope.className to scope.description  actually, it is description  JS debugger doesn't describe closure scopes now, but we must do it.  

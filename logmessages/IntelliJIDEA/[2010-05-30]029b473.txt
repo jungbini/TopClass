@@ -1,0 +1,1 @@
+  1. Deadlock in rvm sdks initialization fixed. 2. my shiny indian code was dropped! 3. SDKs api improved a bit  

@@ -1,0 +1,1 @@
+  fixed PY-6731 Convert list comprehensions to for loop: bug with nested comprehensions  

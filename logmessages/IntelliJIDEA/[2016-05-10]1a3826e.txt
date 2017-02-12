@@ -1,0 +1,1 @@
+  IDEA-131748 Stop debug session kills all processes - disabled winp by default  

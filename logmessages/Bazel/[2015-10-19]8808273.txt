@@ -1,0 +1,1 @@
+  Use a sorted set for the test suite expansion key to prevent non-determinism.  While a normal set is theoretically sufficient, it can cause hard-to-reproduce problems. In particular, the iteration order of the expansion result depends on the iteration order of the requested targets. If there are multiple requests for the same set of targets, but with 

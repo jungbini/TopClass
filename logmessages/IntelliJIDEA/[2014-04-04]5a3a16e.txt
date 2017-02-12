@@ -1,0 +1,1 @@
+  move script-debugger-* to community  fix build scripts, add modules to community project  

@@ -1,0 +1,1 @@
+  fixed Cython tests.  Do not run resolveRelativeImportAsAbsolute from resolveChild in ResolveImportUtil because it's incorrect. We should create new QualifiedNameResolver instead.  

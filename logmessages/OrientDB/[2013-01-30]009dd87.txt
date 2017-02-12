@@ -1,0 +1,1 @@
+  Fixed annoying issue #1313  This was an ancient bug in remote transactions. Great! Probably now most/all Blueprints tests work against the remote protocol too  

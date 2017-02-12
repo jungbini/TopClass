@@ -1,0 +1,1 @@
+  IDEA-123114 Debugger: render awt.Image and swing.Icon in Variables/Watches/Evaluate views  

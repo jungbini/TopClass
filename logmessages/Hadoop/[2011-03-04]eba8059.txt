@@ -1,0 +1,1 @@
+Author: Alfred Thompson <atx@yahoo-inc.com> Date:   Tue Oct 19 21:34:53 2010 +0000  This revision fixes a misspelling in a method name.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077765 13f79535-47bb-0310-9956-ffa450edef68  

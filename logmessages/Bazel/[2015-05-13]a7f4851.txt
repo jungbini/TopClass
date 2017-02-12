@@ -1,0 +1,1 @@
+  Skylark: Fix bug that prevented functions generating rules.  -- MOS_MIGRATED_REVID=93507031  

@@ -1,0 +1,1 @@
+  fixed issue that name attr is not present in form tag in html schema (IDEADEV-1555)  

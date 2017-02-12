@@ -1,0 +1,1 @@
+  Add setAlive method. Fix bug with stage time when DEAD. Add logging for DEAD condition.  

@@ -1,0 +1,1 @@
+  make topology debug = false work correctly by explicitly checking for true  

@@ -1,0 +1,1 @@
+  fix equals templates (IDEA-141700)  

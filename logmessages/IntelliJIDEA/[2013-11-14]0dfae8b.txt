@@ -1,0 +1,1 @@
+  revert platform fix for PY-6095, apply Python specifix fix instead  

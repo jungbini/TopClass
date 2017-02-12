@@ -1,0 +1,1 @@
+  MergePanel fixes Html enter performance cvs encoding (in editors)  

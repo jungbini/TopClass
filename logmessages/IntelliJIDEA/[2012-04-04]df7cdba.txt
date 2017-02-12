@@ -1,0 +1,1 @@
+  artifact compiler: debug logging added for IDEA-82013 [rev by Dmitry A.]  

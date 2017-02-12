@@ -1,0 +1,1 @@
+  YARN-1107. Fixed a bug in ResourceManager because of which RM in secure mode fails to restart. Contributed by Omkar Vinit Joshi.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1520726 13f79535-47bb-0310-9956-ffa450edef68  

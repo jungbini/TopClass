@@ -1,0 +1,1 @@
+  Fix errors and fully support matplotlib interactive mode in run and debug with the option "Show command line afterwards" enabled (PY-21330)  

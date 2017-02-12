@@ -1,0 +1,1 @@
+  GRADLE-2475 Copy sysprop args to StartParameter for buildSrc build  Java system properties specified through JAVA_OPTS or GRADLE_OPTS currently are visible within buildSrc builds. However, passing sysprops on the command does not work. This was because the StartParameter that is cloned for buildSrc did not copy the sysprop args, which is fixed by this change.  

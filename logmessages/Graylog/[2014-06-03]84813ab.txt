@@ -1,0 +1,1 @@
+  Use ES index prefix on deflector, fixes #489  

@@ -1,0 +1,1 @@
+  fixed PY-12541 do not add ruby interpreter as possible base for virtualenv  

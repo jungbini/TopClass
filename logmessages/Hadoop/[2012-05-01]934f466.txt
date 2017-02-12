@@ -1,0 +1,1 @@
+  HADOOP-8317. Update maven-assembly-plugin to 2.3 - fix build on FreeBSD (Radim Kolar via bobby)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1332775 13f79535-47bb-0310-9956-ffa450edef68  

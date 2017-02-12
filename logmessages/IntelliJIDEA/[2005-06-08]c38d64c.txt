@@ -1,0 +1,1 @@
+  fixed issue with parsing of entity texts that was done by old xml parsing without producing xml texts (IDEADEV-1354)  

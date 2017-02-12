@@ -1,0 +1,1 @@
+  YARN-1670. Fixed a bug in log-aggregation that can cause the writer to write more log-data than the log-length that it records. Contributed by Mit Desai. svn merge --ignore-ancestry -c 1580005 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.4@1580007 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  replace " with ' in double-quoted injection #WEB-2329 fixed  

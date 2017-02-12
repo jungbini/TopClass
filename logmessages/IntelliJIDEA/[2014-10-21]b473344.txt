@@ -1,0 +1,1 @@
+  fixed PY-14104 do not save negative prompt index  

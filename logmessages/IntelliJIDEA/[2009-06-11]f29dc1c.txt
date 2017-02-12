@@ -1,0 +1,1 @@
+  fix builtins generation under Python 2.6  

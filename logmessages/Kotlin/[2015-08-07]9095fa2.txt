@@ -1,0 +1,1 @@
+  Make PropertyMetadataImpl a data class  To allow property delegates to use property metadata as a key in the hash map, and to improve debugging experience  

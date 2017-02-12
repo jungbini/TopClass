@@ -1,0 +1,1 @@
+  disable background make until we fix issue with several project opened (IDEA-104064)  

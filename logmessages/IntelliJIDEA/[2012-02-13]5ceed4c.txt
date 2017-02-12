@@ -1,0 +1,1 @@
+  IDEA-80683 Groovy: Extract Closure Parameter: do not add package prefix to created variables  

@@ -1,0 +1,1 @@
+ Merge pull request #1730 from metamx/union-queries-fix  fix #1727 - Union bySegment queries fix  commit eb48a9eb819f66fb29fe6643e1792ede366576ef  Merge pull request #1784 from dclim/documentation-fixes  Minor documentation fixes for CONTRIBUTING.md  commit a58df303bef1673cd7aa69c87b62d57e9e8bc990  Minor documentation fixes for CONTRIBUTING.md  

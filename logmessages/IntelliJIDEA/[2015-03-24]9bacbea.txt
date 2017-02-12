@@ -1,0 +1,1 @@
+in <> in author field; * extract username regex since it is the same for all vcs-es we have.  

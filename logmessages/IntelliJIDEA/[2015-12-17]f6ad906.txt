@@ -1,0 +1,1 @@
+  ES6. client debug: fix is not easy since it is a real situation when we set such breakpoint AFTER breakpoint hit. And we will filter out incorrectly, because we inspect old (used for server breakpoint) VM breakpoint (new breakpoint is not used at all since hit was occurred already).  

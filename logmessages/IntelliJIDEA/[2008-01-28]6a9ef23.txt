@@ -1,0 +1,1 @@
+  Maven: bugfixes (IDEADEV-22545, IDEADEV-24461, IDEADEV-24383)  

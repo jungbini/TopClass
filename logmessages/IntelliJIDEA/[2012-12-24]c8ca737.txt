@@ -1,0 +1,1 @@
+  fix assertion on adding import to empty file (EA-42079 - assert: AddImportHelper.getInsertPosition)  

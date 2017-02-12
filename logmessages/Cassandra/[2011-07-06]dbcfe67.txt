@@ -1,0 +1,1 @@
+  log unavailableexception details at debug level patch by jbellis; reviewed by slebresne for CASSANDRA-2856  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1143399 13f79535-47bb-0310-9956-ffa450edef68  

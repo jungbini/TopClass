@@ -1,0 +1,1 @@
+  Handle correctly 'Confirm open new project' option when project attachment is possible (PY-17836)  When the option selector says that there should be no confirmation dialog, there is no way to attach a project even if is generally allowed. So to fix that we add an action 'Attach project' which is enabled when there is no confirmation dialog on project open.  

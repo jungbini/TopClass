@@ -1,0 +1,1 @@
+  disable experimental depth sorting code for raw triangles, fix #2404  

@@ -1,0 +1,1 @@
+  Fix bug with custom RequestCondition  A custom RequestCondition which can be provided by overriding methods in RequestMappingHandlerMapping worked only for conditions that match and did not return null (as it should have) for conditions that don't match.  Issue: SPR-9134 Backport-Issue: SPR-9146 Backport-Commit: 64ee5e579adcec97122fc0ee1414031da3be0c6e  

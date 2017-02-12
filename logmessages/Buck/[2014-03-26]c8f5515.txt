@@ -1,0 +1,1 @@
+  Ensure we collect all transitive dependencies on library frameworks  Summary: Thanks to @grp for finding this. If you have a binary or a test which depends on other libraries, we need to ensure we collect the frameworks of all the transitive dependencies of the binary or test.  Test Plan: Unit test included. Test failed, added fix, test passes.  

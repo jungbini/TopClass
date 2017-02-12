@@ -1,0 +1,1 @@
+  Don't hardcode the runfiles prefix used by Java rules.  This is prep for replacing the prefix with one set in the WORKSPACE file.  -- MOS_MIGRATED_REVID=87282470  

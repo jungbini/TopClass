@@ -1,0 +1,1 @@
+  right (not hacking) fix of the "ant.file" property completion fixing http://www.jetbrains.net/jira/browse/IDEADEV-11633, http://www.jetbrains.net/jira/browse/IDEADEV-11632  

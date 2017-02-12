@@ -1,0 +1,1 @@
+  A real fix for PY-3600, with tests.  

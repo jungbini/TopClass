@@ -1,0 +1,1 @@
+  Add quickfix to add 'toString' (#866)  Fixes #KT-12121  

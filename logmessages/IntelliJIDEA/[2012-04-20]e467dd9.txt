@@ -1,0 +1,1 @@
+  1) Fixed bug in remote process termination. 2) For remote Django we allocate pty and send ctrl+C now. 3) Possibly exception from PY-6347 is fixed  

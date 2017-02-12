@@ -1,0 +1,1 @@
+  PY-21707 Invalid "Unresolved reference" in multiline format strings  It's a regression introduced by fix of  PY-19842  

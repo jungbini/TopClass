@@ -1,0 +1,1 @@
+ next steps content  quick start still requires 1. troubleshooting link, 2. mvn clean install, 3. updates to "your own NN" section, and 4. fix for formatting issues, various.  

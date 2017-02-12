@@ -1,0 +1,1 @@
+  fixed PY-7316 Wrong text ranges for type references that have qualified canonical names  

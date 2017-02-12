@@ -1,0 +1,1 @@
+  When retrieving language indent options use LanguageUtil.getLanguageForPsi instead of FileType.getLanguage, since for scratches it is always plain text (fixes IDEA-156091)  

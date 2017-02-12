@@ -1,0 +1,1 @@
+  fixed open file in explorer action to show error message if platform isn't supported  

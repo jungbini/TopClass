@@ -1,0 +1,1 @@
+  Committed patch by Andrey on index multi-thread bug  

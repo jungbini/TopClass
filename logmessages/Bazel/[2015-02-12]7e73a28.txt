@@ -1,0 +1,1 @@
+  Don't mark types used in dagger-generated code as explicit deps.  The previous fix suppressed strict deps errors, but continued to record explicit deps for types in dagger generated code. This prevented unused_deps from removing deps that were only needed by dagger.  Follow-up to []  RELNOTES: N/A  -- MOS_MIGRATED_REVID=86136508  

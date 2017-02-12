@@ -1,0 +1,1 @@
+  [^yole] fix NPE in TestCaseLoader when no excludes are defined  

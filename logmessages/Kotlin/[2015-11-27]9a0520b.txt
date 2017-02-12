@@ -1,0 +1,1 @@
+  fix EA-76198 (assert: KtElementImplStub.getContainingKtFile)  

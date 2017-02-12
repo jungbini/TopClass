@@ -1,0 +1,1 @@
+  [peter, spleaner] color scheme change bug  

@@ -1,0 +1,1 @@
+  [core] fix action callback not done when no other content available  

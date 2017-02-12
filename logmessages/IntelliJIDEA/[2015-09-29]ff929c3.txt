@@ -1,0 +1,1 @@
+  test fix: django is used as lib in python, not external lib  

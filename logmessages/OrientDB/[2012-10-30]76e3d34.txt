@@ -1,0 +1,1 @@
+  1. Auto-sharded id was added. 2. Bug with count was fixed.  

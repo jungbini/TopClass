@@ -1,0 +1,1 @@
+  elements panel: user WANT to see effective DOM even if debug session was terminated  

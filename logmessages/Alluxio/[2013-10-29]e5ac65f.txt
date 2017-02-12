@@ -1,0 +1,1 @@
+ fixed a issue that user could not run the script other than the TACHYON_HOME folder  

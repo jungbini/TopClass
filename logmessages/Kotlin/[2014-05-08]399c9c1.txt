@@ -1,0 +1,1 @@
+  JS backend: fixed compiler crash when use compareTo in infix call.  #EA-54661 fixed  

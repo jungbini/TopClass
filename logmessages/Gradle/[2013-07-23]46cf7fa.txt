@@ -1,0 +1,1 @@
+  Attempt to fix the build on Linux  - Update content of library sources in a simpler way - Use quoted header includes, rather than <> - Disable one test - Use the correct C++ syntax in CCallingCppHelloWorldApp  

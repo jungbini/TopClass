@@ -1,0 +1,1 @@
+  fix wrong path for sample config, also copy radio assembly to deploy dir  

@@ -1,0 +1,1 @@
+  fix typedef highlighting when resource cannot be loaded  

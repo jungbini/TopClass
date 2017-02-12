@@ -1,0 +1,1 @@
+  HDFS-7326. Add documentation for hdfs debug commands (Vijay Bhat via Colin P. McCabe)  

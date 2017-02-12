@@ -1,0 +1,1 @@
+  fixing a namespace bug (http://www.jetbrains.net/jira/browse/IDEADEV-9736)  

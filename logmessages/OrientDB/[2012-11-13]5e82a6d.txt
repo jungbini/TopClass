@@ -1,0 +1,1 @@
+  SQL: fixed bug in sum() function  

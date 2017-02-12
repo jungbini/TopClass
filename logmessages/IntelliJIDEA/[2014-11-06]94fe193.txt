@@ -1,0 +1,1 @@
+  fixed PY-14284 IPython Notebook: shortcuts scope should depend on the focus for non-code cells  

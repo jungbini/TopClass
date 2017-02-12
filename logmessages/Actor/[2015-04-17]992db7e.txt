@@ -1,0 +1,1 @@
+  fix(android): Double tap on picture in PictureActivity to zoom  

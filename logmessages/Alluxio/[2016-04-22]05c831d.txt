@@ -1,0 +1,1 @@
+ Folding getFileBlockInfoList into getStatus and fixing PublicAPI annotations.  

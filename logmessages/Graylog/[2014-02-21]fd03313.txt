@@ -1,0 +1,1 @@
+  style stream rule editor. fixes #638  

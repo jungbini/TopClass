@@ -1,0 +1,1 @@
+  fix(iOS): Trying to fix new cocoa pods compatibility  

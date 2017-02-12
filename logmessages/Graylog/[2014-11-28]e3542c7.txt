@@ -1,0 +1,1 @@
+  Try to fix flakiness of NaturalDateParser  Collections.sort() seems to be indeterministic (i. e. random failures on Travis CI), so let's try a more arcane approach by just swapping 'to' and 'from' if necessary.  Refs Graylog2/graylog2-web-interface#982  

@@ -1,0 +1,1 @@
+  fixed some test names from doctest configuration (if we load test from context) added possibility to load doctests from non-python file  

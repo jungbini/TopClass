@@ -1,0 +1,1 @@
+  Refatoring namespace implementation. Also, fixes attr#add_namesapce to meet with the change in 34a1424.  

@@ -1,0 +1,1 @@
+  Add test to make sure stubs do not contain any debug info  +review REVIEW-5649  

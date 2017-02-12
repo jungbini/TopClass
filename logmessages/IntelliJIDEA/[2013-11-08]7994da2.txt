@@ -1,0 +1,1 @@
+  External System: test fix Related task: IDEA-79466 gradle support should generate web module configuration  

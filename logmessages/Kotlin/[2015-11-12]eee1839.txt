@@ -1,0 +1,1 @@
+  Disable tests. Difference in test data is in line markers that is probable bug in old asm  

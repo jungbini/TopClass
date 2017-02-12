@@ -1,0 +1,1 @@
+  svn: Refactored SvnMergeInfoTest - methods extracted, duplication removed, warning fixes  

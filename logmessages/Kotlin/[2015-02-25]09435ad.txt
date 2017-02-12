@@ -1,0 +1,1 @@
+ Gradle: fix warning about annotations path entry points to a non-existent location #KT-6865 Fixed  

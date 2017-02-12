@@ -1,0 +1,1 @@
+  bugfix: delete hostgroup hosts together with hostgroup. also functional test for that  

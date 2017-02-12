@@ -1,0 +1,1 @@
+  new startup script from user fkasper2 (bug #825)  

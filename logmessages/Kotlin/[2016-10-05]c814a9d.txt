@@ -1,0 +1,1 @@
+  KT-2752: fix support of typealiases  

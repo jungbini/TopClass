@@ -1,0 +1,1 @@
+  IDEA-129381 Settings dialog: not the whole area of hyperlinks is clickable (fix popup on the edge)  

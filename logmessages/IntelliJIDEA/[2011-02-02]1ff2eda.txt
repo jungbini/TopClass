@@ -1,0 +1,1 @@
+  git log: fix completion is users filter  

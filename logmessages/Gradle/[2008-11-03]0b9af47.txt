@@ -1,0 +1,1 @@
+  Fixed wrong prefix for source distribution Added memory allocation for compile, testCompile and test.  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@1001 004c2c75-fc45-0410-b1a2-da8352e2331b  

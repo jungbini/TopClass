@@ -1,0 +1,1 @@
+ck 3c64db8 [Felix Cheung] spark script stop on error  

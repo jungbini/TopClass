@@ -1,0 +1,1 @@
+  add testcase & bug fixed for JSONReadercanner  

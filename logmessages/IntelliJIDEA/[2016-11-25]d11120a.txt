@@ -1,0 +1,1 @@
+  fix javac protobuf config (CUSTOM_OUTPUT_OBJECT id == 7)  

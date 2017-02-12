@@ -1,0 +1,1 @@
+  Merge -c from trunk to branch-2 to fix YARN-701. Use application tokens irrespective of secure or non-secure mode. Contributed by Vinod K V.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1504605 13f79535-47bb-0310-9956-ffa450edef68  

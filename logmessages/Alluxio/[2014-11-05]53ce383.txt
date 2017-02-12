@@ -1,0 +1,1 @@
+ Merge pull request #512 from shimingfei/lockBlockFix  fix lockblock bug in checkpoint thread  commit 53ce3833fcf8a9dfd54ef3fa62497ac85ad60af5  fix lockblock bug in checkpoint thread in workerstorage  

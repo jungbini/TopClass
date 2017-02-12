@@ -1,0 +1,1 @@
+  IDEA-126825 Debugger doesn't show execution point  

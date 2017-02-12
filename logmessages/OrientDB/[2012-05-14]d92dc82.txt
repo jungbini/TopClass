@@ -1,0 +1,1 @@
+  Fixed bug on indexes when a record was removed without specifying a key  

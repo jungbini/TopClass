@@ -1,0 +1,1 @@
+  update get_paged_slice to allow starting with a key; fixes for WideRowIterator patch by jbellis; reviewed by brandonwilliams for CASSANDRA-3883  

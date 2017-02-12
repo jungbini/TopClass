@@ -1,0 +1,1 @@
+  [hg] Better fix for EOFE in EA-28334: don't read more than is been awaited.  Don't read all available bytes: read only as much available bytes, that all bytes that have been read are no more that the expected length in summary.  

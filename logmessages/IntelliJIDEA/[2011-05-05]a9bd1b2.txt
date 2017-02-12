@@ -1,0 +1,1 @@
+  initialize text fixed (IDEA-69251)  

@@ -1,0 +1,1 @@
+  MINOR: Clarify 0.10.1.0 upgrade docs  This is a minor change to fix the most glaring issues. We have another JIRA to revamp the upgrade docs.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Jeff Klukas <jeff@klukas.net>, Jiangjie Qin <becket.qin@gmail.com>, Jason Gustafson <jason@confluent.io>  Closes #1971 from ijuma/kafka-4257-upgrade-docs-inconsitencies  

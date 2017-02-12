@@ -1,0 +1,1 @@
+  performance during inspection results browsing: do not collect all fixes to show action status  

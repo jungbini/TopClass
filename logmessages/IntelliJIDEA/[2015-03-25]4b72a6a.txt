@@ -1,0 +1,1 @@
+  fixed test data according new Python language level (3.5)  

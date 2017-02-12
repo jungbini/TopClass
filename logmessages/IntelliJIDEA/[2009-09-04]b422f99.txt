@@ -1,0 +1,1 @@
+  VCS: do not look for valid parent twice; assertion-for-read-action-required fix  

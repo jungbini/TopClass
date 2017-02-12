@@ -1,0 +1,1 @@
+  If one thread finished its work, debugger loses access to other suspended threads (PY-16525)  After killing thread check if there are other suspended threads and notify UI of it.  

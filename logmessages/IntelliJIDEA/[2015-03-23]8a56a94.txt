@@ -1,0 +1,1 @@
+  add assert != null fix should be disabled on the class level (EA-66814 - assert: AddAssertStatementFix.applyFix)  

@@ -1,0 +1,1 @@
+  TestNG xml reports.  1. Fixed the problem with TestNG report generation. The stack trace is a text element, not CDATA. 2. Reworked the coverage for encoding the xml. This will not fix the ibm build at this stage yet.  

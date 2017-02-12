@@ -1,0 +1,1 @@
+  show informative error when dashboard has been deleted but was chosen as a startpage  fixes #645  

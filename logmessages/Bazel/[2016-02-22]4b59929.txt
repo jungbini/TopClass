@@ -1,0 +1,1 @@
+  Workaround gcc bug.  Struct initialization for nested struct broken since 4.9.0. (https://gcc.gnu.org/bugzilla/show_bug.cgi?id=59832) Fixes #947.  -- MOS_MIGRATED_REVID=115224533  

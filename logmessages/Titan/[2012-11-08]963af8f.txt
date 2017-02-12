@@ -1,0 +1,1 @@
+  fixed a semantic bug in SideEffectMap. Mixing depth-first and breadth-first semantics.  

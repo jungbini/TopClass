@@ -1,0 +1,1 @@
+  VCS: change list manager: allow change providers limited access to inner state (fixes: Perforce: detect external change list addition) + tests  

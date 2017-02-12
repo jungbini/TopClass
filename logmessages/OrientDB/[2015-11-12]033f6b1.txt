@@ -1,0 +1,1 @@
+  enable auto-loading of driver implementing the Java SE Service Provider mechanism (SPM)  fix #5176 "Make JDBC driver auto-register"  

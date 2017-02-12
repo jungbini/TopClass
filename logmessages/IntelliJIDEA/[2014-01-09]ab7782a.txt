@@ -1,0 +1,1 @@
+  fixed PY-11765 @ivar and @type in class documentation cause PyUnresolvedReferences inspection to file  

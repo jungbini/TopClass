@@ -1,0 +1,1 @@
+  Minor log4j fix to ISR shrinking logic  

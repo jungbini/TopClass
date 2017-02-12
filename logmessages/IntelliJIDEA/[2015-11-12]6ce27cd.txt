@@ -1,0 +1,1 @@
+  fix RangeMarkerTest.testRangeMarkersAreWeakReferenced_NoVerify: account for FileStatusMap.WHOLE_FILE_DIRTY_MARKER  

@@ -1,0 +1,1 @@
+  SMALLFIX] Small fixes in several classes  - Used <> generic in InodeTree - Switched to java.util.Arrays in InodeTreeTest - Collapsed multiple catch statements into one in LineageMaster - Used foreach instead of for in MasterFaultToleranceIntegrationTest - Removed not needed String.format in MetricsServlet  

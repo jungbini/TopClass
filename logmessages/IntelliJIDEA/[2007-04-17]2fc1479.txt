@@ -1,0 +1,1 @@
+  fix logic for inheriting working copy format (IDEADEV-16261)  

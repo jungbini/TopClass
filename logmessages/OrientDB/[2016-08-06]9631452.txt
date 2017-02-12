@@ -1,0 +1,1 @@
+  HA: fixed issue with automatic repair database  - implemented content conflict resolver strategy - conflict resolver chain is now configurable via global cfg setting - the command invokes the repair in case of concurrent exception - fixed bug on autostart of 2 servers at the same time - fixed issue http://www.prjhub.com/#/issues/7365  

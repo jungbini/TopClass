@@ -1,0 +1,1 @@
+  KT-419 Strange 'unresolved' bug when using constructor parameters that aren't properties  === class A(w: Int) { var c = w { c = 17 } } ===  

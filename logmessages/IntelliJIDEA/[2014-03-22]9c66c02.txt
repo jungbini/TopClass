@@ -1,0 +1,1 @@
+  [log] IDEA-115897 Call applyFilters() on onFieldCleared().  Unfortunately the native SearchTextField doesn't call this method if the cross button is clicked, so this fix won't have any effect until that issue is fixed.  

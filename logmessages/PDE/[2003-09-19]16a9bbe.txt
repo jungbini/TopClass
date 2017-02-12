@@ -1,0 +1,1 @@
+  removed SMOOTH_IMAGES, fix for fonts and fill coloring, other misc  

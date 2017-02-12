@@ -1,0 +1,1 @@
+ Merge pull request #1052 from deeplearning4j/wordsNearest  WordsNearest fix, ParaVec impr, W2V impr  commit 8a6f6a79917f234a4a5254fd1c0560563e3b3ef3  Debugging and first test for ComputationGraph spark implementation  

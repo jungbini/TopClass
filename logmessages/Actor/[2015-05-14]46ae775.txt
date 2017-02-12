@@ -1,0 +1,1 @@
+  fix(web): use react instead of react-with-addons  

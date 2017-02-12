@@ -1,0 +1,1 @@
+  MINOR: Fixed introduction doc - wrong streams api link  Author: Jakub Dziworski <jakub.dziworski@gmail.com>  Reviewers: Guozhang Wang <wangguoz@gmail.com>, Jason Gustafson <jason@confluent.io>  Closes #1996 from JakubDziworski/doc_fix_streams_link  

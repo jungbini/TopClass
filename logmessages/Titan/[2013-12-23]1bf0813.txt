@@ -1,0 +1,1 @@
+ny number of calls to tx.getConfiguration().  The configuration doesn't hold mutable lock state, and this is the second time I've stumbled over spurious tx.getConfiguration() failures in ConsistentKeyLockerTest, so I think relaxing this constraint is appropriate.  

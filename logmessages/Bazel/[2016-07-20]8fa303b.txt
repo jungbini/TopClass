@@ -1,0 +1,1 @@
+  Minor backwards compatibility fixes: * Account for the dataKey in MergeConflicts (whoops.) * When finding a conflict, always take the last value -- this matches the current merger strategy.  -- MOS_MIGRATED_REVID=127980673  

@@ -1,0 +1,1 @@
+  :bug: #1954 fix the version comparison for 2.3.x  

@@ -1,0 +1,1 @@
+  fix problem with empty code folders on export (bug #1084)  

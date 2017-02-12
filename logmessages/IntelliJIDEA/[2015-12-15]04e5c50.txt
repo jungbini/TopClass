@@ -1,0 +1,1 @@
+  new project wizard: fixed premature termination for complicated step sequences (IDEA-148647)  

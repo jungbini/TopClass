@@ -1,0 +1,1 @@
+  GRADLE-2932 - Incremented the cache layout version.  - Simplified CacheLayout. - Changed GradleDistribution fixture to use a VersionNumber to represent the cache layout, instead of an integer.  

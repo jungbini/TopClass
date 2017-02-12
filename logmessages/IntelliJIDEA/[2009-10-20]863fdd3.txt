@@ -1,0 +1,1 @@
+  git4idea: IDEADEV-40920: fixed loading ask before conversion option  

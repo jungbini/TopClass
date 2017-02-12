@@ -1,0 +1,1 @@
+  Add warning about GAE specific env var and remove working directory from current project path (fixes #547)  

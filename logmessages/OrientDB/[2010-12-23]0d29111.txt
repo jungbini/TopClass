@@ -1,0 +1,1 @@
+  Fixed bug on cache: the record was removed when used. Now is much faster on massive load and traverse  

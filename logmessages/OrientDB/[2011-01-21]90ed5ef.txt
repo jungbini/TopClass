@@ -1,0 +1,1 @@
+  Fixed bug on fresh compilation after a clean.  

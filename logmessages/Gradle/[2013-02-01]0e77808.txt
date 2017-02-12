@@ -1,0 +1,1 @@
+  fix smoke test for old sonar plugin  

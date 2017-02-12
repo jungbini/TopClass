@@ -1,0 +1,1 @@
+  Blinking test PyTestTracebackParserTest fixed  On some windows agents Git was configured to checkout text files as windows (\r\n), while there was \n hardcoded in test. Fixed now.  

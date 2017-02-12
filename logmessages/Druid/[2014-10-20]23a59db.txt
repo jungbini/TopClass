@@ -1,0 +1,1 @@
+  fix ordering for partitions with same start time, fixes #796  Partitions with same start time may produce results out of order, especially in the presence of data gaps.  Results for those segments must be re-ordered prior to being merged  

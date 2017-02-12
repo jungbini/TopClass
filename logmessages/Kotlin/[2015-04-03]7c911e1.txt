@@ -1,0 +1,1 @@
+  When you build the project for the first time after cleaning, you lose paths to internal_impl jars of support libraries such as  build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar  They are absent in javaCompile.getClasspath() when javaCompile task starts.  This patch fixes it. #KT-7277 Fixed  

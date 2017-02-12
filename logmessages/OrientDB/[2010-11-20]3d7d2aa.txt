@@ -1,0 +1,1 @@
+  Binarychannel: debug message is in clear, not base64  

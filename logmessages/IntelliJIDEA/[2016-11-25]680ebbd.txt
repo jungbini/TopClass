@@ -1,0 +1,1 @@
+  do not add folding and start message to edu debug console  

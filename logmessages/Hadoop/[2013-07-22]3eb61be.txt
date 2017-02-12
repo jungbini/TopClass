@@ -1,0 +1,1 @@
+  HADOOP-9754. Remove unnecessary "throws IOException/InterruptedException", and fix generic and other javac warnings.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1505610 13f79535-47bb-0310-9956-ffa450edef68  

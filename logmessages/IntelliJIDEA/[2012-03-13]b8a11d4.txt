@@ -1,0 +1,1 @@
+  fixed PY-3818 Current parameter blinks for starred arguments  

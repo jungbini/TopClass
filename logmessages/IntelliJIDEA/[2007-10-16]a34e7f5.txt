@@ -1,0 +1,1 @@
+  fixed since 1.6 api list (IDEADEV-22586)  

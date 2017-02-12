@@ -1,0 +1,1 @@
+  Integrate work done by Mathieu Carbou (fix spelling typo, add some docs)  

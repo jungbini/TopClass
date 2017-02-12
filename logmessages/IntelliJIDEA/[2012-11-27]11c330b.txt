@@ -1,0 +1,1 @@
+  fixed   PY-8104 Change Signature: refactoring is invoked for method not at the caret when caret is inside other method  

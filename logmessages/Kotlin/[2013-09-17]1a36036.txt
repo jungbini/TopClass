@@ -1,0 +1,1 @@
+  Refactor DelegationResolver so that lazy and eager resolve share the code  Also fix an exception in LazyClassMemberScope  

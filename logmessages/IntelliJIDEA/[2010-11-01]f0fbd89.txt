@@ -1,0 +1,1 @@
+  GitBranchTest: fixed compile error (new parameter was added to GitBranch.list)  

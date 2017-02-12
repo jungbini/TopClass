@@ -1,0 +1,1 @@
+  add a debug printout in edu_stanford_nlp_mt_lm_KenLanguageModel.cc to indicate if the LM being loaded is an NPLM or not  

@@ -1,0 +1,1 @@
+  IDEA-76172 (Need a quickfix for "Incorrect dialog title capitalization" warning)  

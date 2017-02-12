@@ -1,0 +1,1 @@
+  fix issue #4670 by doing case insensitive matching for useLightweightEdges custom property  

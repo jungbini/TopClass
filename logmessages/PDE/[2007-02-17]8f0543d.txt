@@ -1,0 +1,1 @@
+  fix for bug #515, problem with external editor not updating properly  

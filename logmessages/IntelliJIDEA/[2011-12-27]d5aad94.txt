@@ -1,0 +1,1 @@
+  right/left lookup handlers to expand/collapse completion prefixes should work in completion only (peter)  

@@ -1,0 +1,1 @@
+tead of Info, SVNException instead of SvnBindException)  

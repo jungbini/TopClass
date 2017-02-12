@@ -1,0 +1,1 @@
+  Minor fix in JetNamedFunction  This caused NullPointerException while running JetParsingTest when I changed some test.  

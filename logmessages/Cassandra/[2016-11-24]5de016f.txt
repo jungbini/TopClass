@@ -1,0 +1,1 @@
+  ninja fix: for eclipse 4.5.1 compilation issue  

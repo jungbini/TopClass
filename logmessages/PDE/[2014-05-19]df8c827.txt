@@ -1,0 +1,1 @@
+  force .zip extension when archiving a sketch (fixes #2526)  

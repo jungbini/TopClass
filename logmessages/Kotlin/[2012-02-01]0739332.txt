@@ -1,0 +1,1 @@
+  Sometimes PsiClass'es are loaded twice for same class  This patch is workaround to fix tests.  

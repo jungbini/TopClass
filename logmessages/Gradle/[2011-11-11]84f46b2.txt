@@ -1,0 +1,1 @@
+  Added Findbugs, PMD, and JDepend plugins to code quality subproject.  

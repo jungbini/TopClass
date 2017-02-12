@@ -1,0 +1,1 @@
+  Fixed issue 121 about debug option in build http://code.google.com/p/orient/issues/detail?id=121  

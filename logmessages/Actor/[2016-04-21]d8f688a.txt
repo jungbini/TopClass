@@ -1,0 +1,1 @@
+  test(server:bot): fixed specs compilation errors  

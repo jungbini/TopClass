@@ -1,0 +1,1 @@
+  bug fixed for JSONType support  

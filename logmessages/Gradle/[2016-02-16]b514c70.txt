@@ -1,0 +1,1 @@
+  Add design spec for Eclipse WTP classpath fixes  

@@ -1,0 +1,1 @@
+  Moved code related to GradleExecuter and GradleDistribution into org.gradle.integtests.fixtures.executer - Affects many, many files, but mostly just imports - Certain files (eg RuleHelper) are not in the correct spot, but were moved to avoid cycles  

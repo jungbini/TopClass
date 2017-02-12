@@ -1,0 +1,1 @@
+  fix(android): clear chat toolbar menu before inflate  

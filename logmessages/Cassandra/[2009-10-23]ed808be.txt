@@ -1,0 +1,1 @@
+  fix regression recognizing local reads from 828148. patch by jbellis; reviewed by Brandon Williams for CASSANDRA-512  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@829136 13f79535-47bb-0310-9956-ffa450edef68  

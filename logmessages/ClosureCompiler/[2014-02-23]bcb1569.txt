@@ -1,0 +1,1 @@
+  Add an InferConsts pass, and use it demonstrate that it fixes problems with CommonJS aliases. R=johnlenz  

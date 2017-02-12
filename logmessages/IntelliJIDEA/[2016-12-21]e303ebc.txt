@@ -1,0 +1,1 @@
+  StreamApiMigrationInspection refactoring: use single fix class (now can apply the inspection in batch); more clear control flow (IDEA-CR-16910)  

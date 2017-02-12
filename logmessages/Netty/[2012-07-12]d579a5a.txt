@@ -1,0 +1,1 @@
+  Fix a bug which lead to a NPE when deserialize interfaces. See #452  

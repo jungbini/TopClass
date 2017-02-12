@@ -1,0 +1,1 @@
+  Open source the configuration tests.  - update the MOCK_CROSSTOOL to provide more stuff needed by tests - add a THIS_IS_BAZEL constant to allow disabling individual test cases - disable some tests in Bazel  The disabled tests are mainly due to 

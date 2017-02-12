@@ -1,0 +1,1 @@
+  [log] filters refactoring  * Store all filters inside the VcsLogFilterCollection; Use single filter of each type: if a filter accepts several values (like branches or users), encapsulate this into this filter class.  => Now a single object is passed instead of passing several 

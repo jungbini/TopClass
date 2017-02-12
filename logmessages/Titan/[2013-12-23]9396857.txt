@@ -1,0 +1,1 @@
+  Reformat broken debug log message  Fixes #544  

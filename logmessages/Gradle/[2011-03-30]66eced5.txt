@@ -1,0 +1,1 @@
+  Fixing doc generation problems after my previous refactoring. Renamed xmls accordingly to refactored classes. This should fix the build. Moved GeneratorTask and its little brother to a public package in ide subproject  

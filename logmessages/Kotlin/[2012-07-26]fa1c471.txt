@@ -1,0 +1,1 @@
+  Partial fix for KT-470: Remove duplicating errors on the same element.  Redeclarations for top-level properties still get two REDECLARATION diagnostics. (In overload resolver and declaration resolver) Also added test for redeclaring extension properties. Also remove useless null check.  

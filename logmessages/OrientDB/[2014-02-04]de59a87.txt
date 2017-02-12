@@ -1,0 +1,1 @@
+  Issues in handling of graph database in multithreading environment were fixed.  

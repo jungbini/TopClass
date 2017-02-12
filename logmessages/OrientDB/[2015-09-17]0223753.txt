@@ -1,0 +1,1 @@
+  fix return type on square bracket filtering (new parser)  now expressions like  SELECT out()[1, 2, 3] as foo SELECT out()[1-3] as foo SELECT out()[name = foo] as foo  return a list as the value of foo. The only exception is single number as a selector, eg.  SELECT out()[1] as foo  in this case foo will be the single value, not a list  

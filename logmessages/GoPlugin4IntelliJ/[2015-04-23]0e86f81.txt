@@ -1,0 +1,1 @@
+  enter handler for line comments, fix #1462  

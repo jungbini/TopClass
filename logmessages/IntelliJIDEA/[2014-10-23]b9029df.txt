@@ -1,0 +1,1 @@
+  ResourceBundleManager mehtod childRemoved -> beforeChildRemoval in psi listener. Exception EA-61152 for null document in xml file fixed  

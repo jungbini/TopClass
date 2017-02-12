@@ -1,0 +1,1 @@
+  Require tilde expansion in home cache dirs to start with ~/  Summary: In the shell, expansions like "~jacko/foo" are valid. Avoid expanding that into "/home/natthujacko/foo" by requiring the "~/" prefix.  Fixes #119, Fixes #120  Test Plan: Try to set a "~jacko" cache path and confirm that buck doesn't expand it (and therefore fails with an error).  

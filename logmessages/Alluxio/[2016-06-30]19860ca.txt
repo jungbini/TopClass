@@ -1,0 +1,1 @@
+ Merge pull request #3632 from ifcharming/docfix2  [Branch-1.1] [DOCFIX] Fix a minor issue in secure HDFS doc  commit 19860cab208b7bd03495b3eb73121889666da9e3  Fixing previous fix. LocalFileSystemCluster as UFS must not override UFS_ADDRESS parameter  

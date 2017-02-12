@@ -1,0 +1,1 @@
+  Use ctx.executable to get references to the binaries.  This fixes the build of Bazel with itself.  Using ctx.file instead of executable may yield a reference of the form external/blahblah/ which does not exist in the file system.  Using ctx.executable does point to the right binary.  -- MOS_MIGRATED_REVID=114990955  

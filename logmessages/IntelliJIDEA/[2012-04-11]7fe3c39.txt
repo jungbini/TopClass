@@ -1,0 +1,1 @@
+  fixed PY-6283 Introscpection- "This dictionary creation could be rewritten as a dictionary literal" produces invalid code  

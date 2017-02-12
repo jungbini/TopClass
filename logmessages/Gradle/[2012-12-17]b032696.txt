@@ -1,0 +1,1 @@
+  REVIEW-824: Updated IvyDescriptor fixture to provide access to more elements from the ivy.xml file  

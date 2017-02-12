@@ -1,0 +1,1 @@
+  IDEA-62734 regenerate debug certificate if neccessary  

@@ -1,0 +1,1 @@
+  IDEA-126013 fix SOE : maps and lists declared recursively should not fail type inference into recursion  

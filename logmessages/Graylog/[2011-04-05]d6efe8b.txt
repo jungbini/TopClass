@@ -1,0 +1,1 @@
+  - fixed invalid url param passed to link_to  

@@ -1,0 +1,1 @@
+  uniteWith(DirectoriesScope) lost the first scope fixed  

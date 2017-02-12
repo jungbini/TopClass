@@ -1,0 +1,1 @@
+  fix remaining part of IDEADEV-25197: detect collisions between renamed inner class method and outer class method  

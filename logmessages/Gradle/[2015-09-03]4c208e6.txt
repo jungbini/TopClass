@@ -1,0 +1,1 @@
+ Move dependency fixtures to milestone 3, and cross version testing into milestone 2 of test kit spec.  

@@ -1,0 +1,1 @@
+  fixed EDU-260 Course description edit field wrong behavior  

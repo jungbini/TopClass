@@ -1,0 +1,1 @@
+  fixed issue with serialization end closed databases  

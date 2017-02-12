@@ -1,0 +1,1 @@
+  Creating a GrammaticalStructure modifies the passed in tree with the CoordinationTransformer. For now, fix that bug by making a deepCopy... should just change the GrammaticalStructure, probably  

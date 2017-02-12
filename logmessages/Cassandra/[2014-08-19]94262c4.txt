@@ -1,0 +1,1 @@
+  cqlsh: fix COPY FROM handling of null/empty PK values  Patch by Tyler Hobbs; reviewed by Aleksey Yeschenko for CASSANDRA-7792  

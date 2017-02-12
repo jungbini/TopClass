@@ -1,0 +1,1 @@
+  [groovy] fix inspection description (IDEA-155037)  

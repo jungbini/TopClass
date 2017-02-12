@@ -1,0 +1,1 @@
+  Ignore `ApplyPluginIntegSpec` for daemon integration tests on Windows  While this test now appears to be relatively stable on Linux (reduced or eliminated flakiness), it now fails consistently on Windows. This failure should be investigated and fixed, so that this test can be re-enabled.  

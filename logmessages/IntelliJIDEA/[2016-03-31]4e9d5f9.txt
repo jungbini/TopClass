@@ -1,0 +1,1 @@
+  Debugger doesn't stop on breakpoints in threads if "Gevent compatible" option is set in Python debugger settings (PY-18823)  Patch user's thread and threading modules and avoid deadlock while importing global debugger  

@@ -1,0 +1,1 @@
+  fix - now all items of a provider are being processed  

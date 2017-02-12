@@ -1,0 +1,1 @@
+  when linking, do not walk transitive dependencies of a library whose preferred linkage is shared  Summary: Previously, even though a library may be linked into an app as a shared library, its dependencies would still be linked in as static libraries. This fixes that problem.  Test Plan: CI  Reviewed By: Coneko  fbshipit-source-id: ab113c4  

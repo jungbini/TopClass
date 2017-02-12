@@ -1,0 +1,1 @@
+  Introduce Property: Add test for name clash in the presence of anonymous initializer (was failing before ElementResolver fix)  

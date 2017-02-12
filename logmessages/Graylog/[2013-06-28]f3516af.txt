@@ -1,0 +1,1 @@
+  add prcessing info to JVM REST resoure, remove debug sleep  

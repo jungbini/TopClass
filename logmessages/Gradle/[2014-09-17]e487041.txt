@@ -1,0 +1,1 @@
+  [javafx-groovy-classpath-fix] Added some test preconditions useful for testing JavaFX projects  

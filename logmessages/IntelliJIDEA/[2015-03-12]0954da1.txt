@@ -1,0 +1,1 @@
+  IDEA-137520 Debugger close button doesn't function as expected when clicked from within the button overflow area (revert the IDEA-136485 fix)  

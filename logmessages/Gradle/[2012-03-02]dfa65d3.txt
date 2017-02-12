@@ -1,0 +1,1 @@
+  automatically exclude non-Java files from Java compilation, and better logging of compiler arguments  - automatic exclusion mimics behavior of AntJavaCompiler/Ant javac task, avoiding a breaking change - same debug logging of compiler arguments across all compilers  

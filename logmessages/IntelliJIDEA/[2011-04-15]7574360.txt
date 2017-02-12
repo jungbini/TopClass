@@ -1,0 +1,1 @@
+  prefixHumps weigher doesn't require item's prefix matcher  

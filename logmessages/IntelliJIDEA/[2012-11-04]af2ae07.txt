@@ -1,0 +1,1 @@
+  run configuration: allow to start junit/testng on module root when all package prefixes in module agree (IDEA-62296)  

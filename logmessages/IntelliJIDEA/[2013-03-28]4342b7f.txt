@@ -1,0 +1,1 @@
+  fixed target references in static method inspection  

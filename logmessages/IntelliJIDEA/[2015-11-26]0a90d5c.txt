@@ -1,0 +1,1 @@
+  DebugLogManager: store debug and trace categories separately  

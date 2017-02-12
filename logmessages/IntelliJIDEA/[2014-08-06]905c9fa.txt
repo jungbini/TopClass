@@ -1,0 +1,1 @@
+  fixed EDIDE-93 local course unzipped to the wrong location  

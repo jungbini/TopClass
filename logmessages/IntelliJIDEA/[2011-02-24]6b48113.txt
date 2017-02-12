@@ -1,0 +1,1 @@
+  GitRebaseProblemDetector: fix merge conflict indicator  <<When you have resolved this problem run \"git rebase --continue\">> is used both for merge conflict and for "no changes".  

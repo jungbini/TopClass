@@ -1,0 +1,1 @@
+  Ha, stupid bug - left the matrix slices unitialized  

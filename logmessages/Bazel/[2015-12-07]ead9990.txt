@@ -1,0 +1,1 @@
+  Refactor: ResolvedFile.getMetadata is now .getMetadataHash.  This is a subtle change that'll go a long way: there's a bug in the handling of directory symlinks (changes in the link target are not picked up) which I'll fix by combining the metadata hashes of all items in the directory, and use that as the directory symlink's metadata hash.  -- MOS_MIGRATED_REVID=109564943  

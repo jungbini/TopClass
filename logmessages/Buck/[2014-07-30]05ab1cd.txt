@@ -1,0 +1,1 @@
+  Cache .so files containing debug symbols.  Summary: The `extract_symbols` step on buildbot has been broken for a long time because whenever we hit a cache hit for ndk libraries, the script cannot find these files with symbols.  Test Plan: buck build instagram buck clean buck build instagram  `find buck-out -type f -name '*.so' | grep local` is not empty.  

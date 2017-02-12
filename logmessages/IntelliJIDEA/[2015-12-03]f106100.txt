@@ -1,0 +1,1 @@
+  guava type migration: proper quick fix for arrays (IDEA-148826)  

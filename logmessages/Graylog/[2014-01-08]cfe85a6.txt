@@ -1,0 +1,1 @@
+  get rid of trailing .0 of double-converted integers. fixes #457  

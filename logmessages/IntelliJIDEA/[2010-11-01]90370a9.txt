@@ -1,0 +1,1 @@
+  fix native file choosers dialog: check if window for which sheet will be shown is vusible  

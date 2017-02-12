@@ -1,0 +1,1 @@
+  rename local variable: survive after inplace rename (e.g. when accept typo quick fix); test  

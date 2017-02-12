@@ -1,0 +1,1 @@
+  KT-2415 Thread.currentThread() is not null KT-2411 CharSequence.toString() must return not-nullable string  #KT-2415 fixed #KT-2411 fixed  

@@ -1,0 +1,1 @@
+  git: annotations - fix "column number" column not being shown  follow-up: 24dc8fb  

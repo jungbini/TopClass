@@ -1,0 +1,1 @@
+  fix some stub/AST inconsistencies in java PsiClass  * getContainingClass worked 

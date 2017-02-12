@@ -1,0 +1,1 @@
+  A few minor fixes and cleanups:  - Dont use ModelType to access simple class instances - Fix user guide for reverted method name change - Fix test that wasnt updated for recent ComponentSpec change  

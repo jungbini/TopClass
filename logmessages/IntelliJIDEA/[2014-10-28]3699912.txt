@@ -1,0 +1,1 @@
+  IDEA-125322 Debugger: F2 adds new row in Watches  

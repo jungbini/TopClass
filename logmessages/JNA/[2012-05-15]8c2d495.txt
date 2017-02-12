@@ -1,0 +1,1 @@
+  Updated CHANGES with SID and Netapi32Util.getUserInfo fixes.  

@@ -1,0 +1,1 @@
+  make local insert() skip MessagingService and fix HH write patch by jbellis; reviewed by Jaakko Laine for CASSANDRA-558  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@881280 13f79535-47bb-0310-9956-ffa450edef68  

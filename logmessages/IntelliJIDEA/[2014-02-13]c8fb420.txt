@@ -1,0 +1,1 @@
+  fix negative offset when injection is contained in parent  

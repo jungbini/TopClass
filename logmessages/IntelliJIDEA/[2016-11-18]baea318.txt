@@ -1,0 +1,1 @@
+  Use appropriate Default/Darcula schemes for file colors (fixes IDEA-150834 Darcula Theme Corruption in non-editor panes when a custom editor scheme applied)  

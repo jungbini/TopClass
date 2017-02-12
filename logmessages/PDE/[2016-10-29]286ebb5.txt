@@ -1,0 +1,1 @@
+ Merge pull request #4710 from jordirosa-p5/bugfix-spanishTranslationOpenSketchFolder  The previous translation would actually stand for "Open sketches folder", as if this  commit 286ebb50024914422782d1abbb4848a771a6a7bd  deal with url rollover bugs in the status bar (fixes #4695)  

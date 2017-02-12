@@ -1,0 +1,1 @@
+  KT-3150 Kotlin m4 don't recognize function literals #KT-3150 fixed  added check for PLACEHOLDER_FUNCTION_TYPE to constraint system  

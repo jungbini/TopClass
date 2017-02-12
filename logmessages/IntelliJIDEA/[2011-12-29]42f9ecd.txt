@@ -1,0 +1,1 @@
+  Fixed bug in inferring type of enumerate().next() (PY-4702)  

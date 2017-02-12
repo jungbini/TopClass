@@ -1,0 +1,1 @@
+  fixed property rename bug, issue #3498  

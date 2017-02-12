@@ -1,0 +1,1 @@
+  fixed EA-30553  NPE AddCallSuperQuickFix.applyFix  

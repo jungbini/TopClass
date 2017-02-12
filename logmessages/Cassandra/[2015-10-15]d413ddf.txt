@@ -1,0 +1,1 @@
+  Followup to CASSANDRA-10468: fix reverse case and add unit test  patch by slebresne; reviewed by blerer for CASSANDRA-10468  

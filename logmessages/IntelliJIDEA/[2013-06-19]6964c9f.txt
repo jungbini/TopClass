@@ -1,0 +1,1 @@
+  remove unnecessary spaces before pasting text  fixed PY-9566 pasting code on an indented line inserts that indentation at the end of the line  

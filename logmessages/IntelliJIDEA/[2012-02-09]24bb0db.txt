@@ -1,0 +1,1 @@
+  compile server: fix processing events for newly added files  

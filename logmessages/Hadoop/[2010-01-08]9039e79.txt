@@ -1,0 +1,1 @@
+  HBASE-2093 [stargate] RowSpec parse bug  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@897094 13f79535-47bb-0310-9956-ffa450edef68  

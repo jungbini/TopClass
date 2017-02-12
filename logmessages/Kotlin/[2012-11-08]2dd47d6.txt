@@ -1,0 +1,1 @@
+  KT-1985 Add test case and fix minor bug  Reference compacting must be done before adding body to class.  

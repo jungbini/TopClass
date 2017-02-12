@@ -1,0 +1,1 @@
+  fix issue of high cpu usage when bolt idle  

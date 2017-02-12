@@ -1,0 +1,1 @@
+  Modbus: shared connections and fixes for serial slaves. (#4226)  

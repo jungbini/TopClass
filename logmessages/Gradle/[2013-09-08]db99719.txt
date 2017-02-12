@@ -1,0 +1,1 @@
+  Fixed the buildSrc cache so that it works fine after changing the cache lock format. I'm not fond of the fix, let's come up with a better approach.  

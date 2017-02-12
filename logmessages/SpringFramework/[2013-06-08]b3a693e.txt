@@ -1,0 +1,1 @@
+properly handles SQL comments prefixed by tab characters.  Issue: SPR-10330  

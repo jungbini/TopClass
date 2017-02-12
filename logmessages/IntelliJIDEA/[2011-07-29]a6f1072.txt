@@ -1,0 +1,1 @@
+  IDEA-72132 MessageBus subscription fixed.  New listener => new connection Also using the project MessageBus, since GitRepositoryManager is a project component.  

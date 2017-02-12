@@ -1,0 +1,1 @@
+  [log] LOG.info the ISE (Joiner failure), not LOG.error  Most of the cases then ISE happens are already known, so no need to annoy users until the Joiner is fixed.  

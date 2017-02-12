@@ -1,0 +1,1 @@
+  IDEA-25635 Change display behavior during background indexing: disable/remove content of tool windows instead of hiding windows fix is back  

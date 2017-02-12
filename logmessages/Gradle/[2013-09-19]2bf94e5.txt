@@ -1,0 +1,1 @@
+  REVIEW-3088: some tweaks on GradleBuild model request handling - rename ConsumerConnectionBackedModelProducer to ModelBuilderBackedModelProducer - fix if comparisions (eg. accidently used == instead of equals)  

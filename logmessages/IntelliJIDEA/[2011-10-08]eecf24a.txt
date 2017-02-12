@@ -1,0 +1,1 @@
+  Platform:/AppCode:Debugger: white icon for external tools AppCode:RunConfigurations: icons for device and simulator  

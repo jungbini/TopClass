@@ -1,0 +1,1 @@
+  fixed IOException: access is denied: on windows files may be locked and fail to delete, though java thinks everything is ok because of that new temp files may fail to be created if we scan for a file name sequentially  

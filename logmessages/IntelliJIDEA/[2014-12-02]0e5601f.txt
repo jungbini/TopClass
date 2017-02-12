@@ -1,0 +1,1 @@
+  extract method: generate annotations/primitive return type choice fixed  

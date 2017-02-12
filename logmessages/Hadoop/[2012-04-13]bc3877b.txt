@@ -1,0 +1,1 @@
+  svn merge -c 1310476 from trunk for HDFS-3136. Remove SLF4J dependency as HDFS does not need it to fix unnecessary warnings.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1325938 13f79535-47bb-0310-9956-ffa450edef68  

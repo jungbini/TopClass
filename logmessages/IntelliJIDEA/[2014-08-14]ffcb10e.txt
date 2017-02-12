@@ -1,0 +1,1 @@
+  register PyDebugger.ViewArray action  

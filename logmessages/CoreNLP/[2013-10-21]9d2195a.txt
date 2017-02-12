@@ -1,0 +1,1 @@
+  Add a setGoldClass method, fix the setPredictionError method  

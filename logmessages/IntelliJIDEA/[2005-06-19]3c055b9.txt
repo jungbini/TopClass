@@ -1,0 +1,1 @@
+  fixed deadlock with highlighting jspx with el in script value  

@@ -1,0 +1,1 @@
+  Make android_binary use a constant, hard-coded, checked-in debug key.  This is because apkbuilder uses $HOME/.android/debug.keystore by default, which does not exist when running within the sandbox, thus, it always generates a new debug key, and thus, "adb install -r" doesn't work.  -- MOS_MIGRATED_REVID=102331570  

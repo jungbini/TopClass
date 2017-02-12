@@ -1,0 +1,1 @@
+  do not remove quickfix from the list of available intentions after invocation  

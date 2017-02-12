@@ -1,0 +1,1 @@
+  improved usability for run/debug configuration panel  hideable Environment panel, proper order for django server configuration fields  

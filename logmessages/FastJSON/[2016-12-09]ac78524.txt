@@ -1,0 +1,1 @@
+  bug fixed for compatible jdk8 default method. issue #289 #830 #935  

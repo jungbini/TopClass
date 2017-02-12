@@ -1,0 +1,1 @@
+  fix for "PDF library matrix is not reset between frames" (bug #1227)  

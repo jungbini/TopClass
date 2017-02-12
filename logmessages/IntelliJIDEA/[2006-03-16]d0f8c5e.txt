@@ -1,0 +1,1 @@
+  correct resize for active debugger tooltips  

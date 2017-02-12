@@ -1,0 +1,1 @@
+  fixed non-updateable sections in injected fragments  

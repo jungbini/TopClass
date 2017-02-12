@@ -1,0 +1,1 @@
+  StreamToLoopInspection: fixed flatMap with method reference argument  

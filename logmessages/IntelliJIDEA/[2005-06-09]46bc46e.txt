@@ -1,0 +1,1 @@
+  - fixed anchor references - changed test cases for better suite the jsp syntax  

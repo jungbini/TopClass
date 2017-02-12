@@ -1,0 +1,1 @@
+  Add experimental support for putting full paths into compile actions. This is currently limited to compile actions started by the objc_* rules. Adding this because Xcode needs full paths to files embedded in the debug information if you want to debug while running in the simulator.  RELNOTES:none  -- MOS_MIGRATED_REVID=107253500  

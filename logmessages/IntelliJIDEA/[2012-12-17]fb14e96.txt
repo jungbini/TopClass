@@ -1,0 +1,1 @@
+  encoding fixes: utf-32 support, introduce two separate actions: Reload and Convert, warn on incompatible encoding on convert, UI more usable - new Project Encoding separate setting IDEA-74801, IDEA-74873  

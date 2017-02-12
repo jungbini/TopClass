@@ -1,0 +1,1 @@
+  Bug fix: Don't pass unresolved properties to command line  

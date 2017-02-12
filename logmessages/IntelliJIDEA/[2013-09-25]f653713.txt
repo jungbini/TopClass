@@ -1,0 +1,1 @@
+  IDEA-105758: Contradiction between error and fix actions (Java EE artifact)  

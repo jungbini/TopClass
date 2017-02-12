@@ -1,0 +1,1 @@
+  STORM-926:change pom to use maven-shade-plugin:2.2 and minimize the size of shade jar and fix duplicated classes warnings of flue-examples  

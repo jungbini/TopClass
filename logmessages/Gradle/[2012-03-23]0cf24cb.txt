@@ -1,0 +1,1 @@
+  GRADLE-2167 Run Findbugs in a workerprocess to avoid cmd line limitations.  

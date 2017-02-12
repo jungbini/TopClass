@@ -1,0 +1,1 @@
+  Loading icon position fixed in push dialog in case of single-repo project  

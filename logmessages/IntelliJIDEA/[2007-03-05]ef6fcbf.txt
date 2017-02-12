@@ -1,0 +1,1 @@
+  Do correct validation of javascript namespaces (IDEADEV-14015) Need quickfix for unresolved ns (IDEADEV-15115)  

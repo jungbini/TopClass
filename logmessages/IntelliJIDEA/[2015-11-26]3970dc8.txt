@@ -1,0 +1,1 @@
+  Introduces separate monitor object instead of .class object for persisting and getting statistics usages. Moved persisting and getting of usages to UsagesCollector. #IDEA-148384 fixed  

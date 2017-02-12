@@ -1,0 +1,1 @@
+  Git update: extract fetch; don't try to update if not needed.  1. Fetch all roots in the update start, before all blockings etc. 2. Check if update is needed for a root. If not, don't bother to check if stash needed etc. 3. It solves the bug that changes are stashed for rebase even if rebase does nothing.  

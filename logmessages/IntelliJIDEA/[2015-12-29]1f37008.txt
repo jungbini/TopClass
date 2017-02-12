@@ -1,0 +1,1 @@
+  DEA-149666 Bookmark icons are not shown for files in Project View: allow testing element icons: reuse new API in IconUtilTest + fix for already calculated deffered icons  

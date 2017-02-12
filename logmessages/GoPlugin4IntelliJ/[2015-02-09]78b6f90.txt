@@ -1,0 +1,1 @@
+  fix #1275: better short var processing for comm clauses  

@@ -1,0 +1,1 @@
+  Smart completion: bugfix - no function reference after dot  

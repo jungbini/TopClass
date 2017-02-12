@@ -1,0 +1,1 @@
+ CI tests fixed and now run on plocal/remote storage in CI environment  

@@ -1,0 +1,1 @@
+  STORM-1526  fix perf issue related to clojure dynamic method lookup in the spout.nextTuple() call tree  

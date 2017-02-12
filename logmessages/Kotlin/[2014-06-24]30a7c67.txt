@@ -1,0 +1,1 @@
+  Java to Kotlin converter: fixed crash in converter + more correct auto insertion of !!  #KT-851 Fixed  

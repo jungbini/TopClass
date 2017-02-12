@@ -1,0 +1,1 @@
+https://github.com/JetBrains/intellij-coverage/commit/1c8c693965ff0ae466916aa87aeb77aaddf01c61 https://github.com/JetBrains/intellij-coverage/commit/502d8d64fad56f74aef4312b05ebc3a317344808  

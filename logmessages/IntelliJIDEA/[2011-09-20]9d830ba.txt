@@ -1,0 +1,1 @@
+  funcTests: extract method from popup menu fixed  

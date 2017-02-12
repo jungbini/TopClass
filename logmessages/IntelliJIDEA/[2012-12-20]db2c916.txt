@@ -1,0 +1,1 @@
+  fix inability to add the first dom element to the collection control, and duplicate "Edit deployment descriptor" actions (IDEA-97589)  

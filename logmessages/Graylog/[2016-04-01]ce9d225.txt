@@ -1,0 +1,1 @@
+  disable shutdown hooks for log4j  once we stop the process is going to exit anyway, so there's no real use in unregistering logger context mbeans etc. this might change if we ever wanted to support unloading plugins, but that's so much more work than just this, we might as well fix the exceptions during shutdown the easy way  

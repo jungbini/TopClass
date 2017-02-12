@@ -1,0 +1,1 @@
+  *** Reason for rollback ***  Rolling back until [] is submitted and we have verified that there are no other breakages  *** Original change description ***  Handle the case of infinite symlink expansion where a path in a symlink chain is a symlink to an ancestor of a path in the chain.  -- MOS_MIGRATED_REVID=105251788  

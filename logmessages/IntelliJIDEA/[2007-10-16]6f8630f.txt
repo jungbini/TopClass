@@ -1,0 +1,1 @@
+  tooltips size and position fixes ( IDEADEV-22568)  

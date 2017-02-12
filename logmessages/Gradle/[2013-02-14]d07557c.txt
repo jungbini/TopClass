@@ -1,0 +1,1 @@
+  REVIEW-1399: fixed package name for sonar-runner plugin  

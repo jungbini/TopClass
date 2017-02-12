@@ -1,0 +1,1 @@
+  IDEA-95249 new WebView(contextMenuEnabled: false) in Groovy highlights 'false' as warning bug fix (cherry-picked from 8eace9d) reviewer: Maxim Medvedev  

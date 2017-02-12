@@ -1,0 +1,1 @@
+  [vcs-log] fix colored stripe color in details for multi-selection  

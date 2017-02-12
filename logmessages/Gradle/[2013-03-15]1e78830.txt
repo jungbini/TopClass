@@ -1,0 +1,1 @@
+  fixed GRADLE-2706: With Gradle 1.5 - PMD applying basic rules even when they are not included in our rule set files  - moved ruleSets default back from Pmd to PmdExtension - task adapts default if necessary (PMD >= 5.0) - added some integration tests  

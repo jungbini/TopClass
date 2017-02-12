@@ -1,0 +1,1 @@
+  StackOverflow fixed in case of inner class  

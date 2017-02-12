@@ -1,0 +1,1 @@
+  fixed missing cache release lock on statistic data write  

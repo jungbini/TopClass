@@ -1,0 +1,1 @@
+  fixed part of PY-5811 Exception doesn't inherit from base exception class: false positive for classes inerited from Exception  

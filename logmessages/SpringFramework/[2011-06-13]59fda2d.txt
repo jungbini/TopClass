@@ -1,0 +1,1 @@
+  restored original GenericConversionService behavior with respect to empty collections/maps; restored original FormattingConversionService behavior with respect to the use of subtypes; fixed collection element resolution when using a ConversionService with a DataBinder  

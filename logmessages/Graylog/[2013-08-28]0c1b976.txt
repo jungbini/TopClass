@@ -1,0 +1,1 @@
+  make loading users saner, fixes #185  we now store the credentials in the session cookie, AES encrypted. for actual security, we need to switch to ssl, of course  properly show an error message when we cannot authenticate against the graylog2 because it is unreachable.  

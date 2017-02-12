@@ -1,0 +1,1 @@
+  More fix for #286 Handling of "glued" messages. Make the token configurable on server and client, use messageDelimiter as well for finding the end of the message  

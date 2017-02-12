@@ -1,0 +1,1 @@
+  get rid of "DebuggerSettings" hack  add param to registerAdditionalActions  reason  it is not just cleanup, I want to reduce XDebugSessionTab GC roots, and now we don't create inner DefaultActionGroup class (java is not Kotlin and such class holds tab in any case)  

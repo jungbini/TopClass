@@ -1,0 +1,1 @@
+  Add utility InlineUtil.isInline instead of interface method in SimpleFunctionDescriptor  Also fix some warnings and reformat along the way  

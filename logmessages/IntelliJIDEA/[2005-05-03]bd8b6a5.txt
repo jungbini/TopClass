@@ -1,0 +1,1 @@
+  Working around sun's bug: 4818143. Clipboard access operations just hang. Worked around by executing them in a separate thread.  

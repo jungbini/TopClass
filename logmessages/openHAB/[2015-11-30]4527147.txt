@@ -1,0 +1,1 @@
+ Merge pull request #3493 from lewie/jdbc-update_and_sqlite_fix-20151130  JDBC-persistence - updated libraries to fix build errors  commit 45271478704eb97ee4d110a004ae1a32e26e128e  - updated sqlite persistence 3.8.11.1 -> 3.8.11.2 to fix build error - updated yank to maven Release 3.1.0 with new groupid - updated HikariCP 2.4.1 -> 2.4.2 - updated about.html - textual fixes  

@@ -1,0 +1,1 @@
+  Launching From Finder on Mac Fails  When you launch a shell script from Finder on Mac the `cwd` is the user's home dir, not the project dir.  This detects and fixes that.  PS: I'm not sure if this is where the template for Gradle Wrapper comes from.  Let me know if it is somewhere else.  

@@ -1,0 +1,1 @@
+  fix confusing global search for reader users. fixes #635  

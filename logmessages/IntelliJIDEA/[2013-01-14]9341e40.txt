@@ -1,0 +1,1 @@
+  fixed PY-8324 Create parameter: disable intention for unresolved imports inside function  

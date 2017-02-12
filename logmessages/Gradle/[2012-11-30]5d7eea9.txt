@@ -1,0 +1,1 @@
+  Extract some more artifact related expectations from HttpMavenModule to HttpArtifact test fixture.  

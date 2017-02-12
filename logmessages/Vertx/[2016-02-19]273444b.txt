@@ -1,0 +1,1 @@
+  Allow to plug a Context exception handler - fixes #1216  

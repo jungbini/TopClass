@@ -1,0 +1,1 @@
+  fix(chat): fixed photo class  

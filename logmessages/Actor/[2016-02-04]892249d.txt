@@ -1,0 +1,1 @@
+  feat+fix(core): Reduce sender key group id from message, fixing decryption of ephemeral chains  

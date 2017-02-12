@@ -1,0 +1,1 @@
+  KT-1719 Navigate -> Symbol... completions are not super helpful for extension functions #KT-1719 fixed  

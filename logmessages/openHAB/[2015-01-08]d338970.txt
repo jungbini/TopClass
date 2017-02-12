@@ -1,0 +1,1 @@
+  changed log level of fatal errors in charts  The log level DEBUG makes it quite hard to find a problem with wrong parameters in charts. (Particularly as even logback_debug.xml sets the level of messages from everything below org.openhab.ui to INFO.)  

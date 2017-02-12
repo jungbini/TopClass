@@ -1,0 +1,1 @@
+  Merge -c 1489087 from trunk to branch-2 to fix YARN-398. Make it possible to specify hard locality constraints in resource requests for CapacityScheduler. Contributed by Arun C. Murthy.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1489088 13f79535-47bb-0310-9956-ffa450edef68  

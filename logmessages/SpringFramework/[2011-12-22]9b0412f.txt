@@ -1,0 +1,1 @@
+  fixed NamedParameterJdbcTemplate to use correct maximum type for queryForInt/Long (SPR-8652)  

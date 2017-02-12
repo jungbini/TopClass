@@ -1,0 +1,1 @@
+  KT-933 Optimized iteration over progressions.  #KT-933 fixed  

@@ -1,0 +1,1 @@
+  "Collection and fixed children cannot intersect" assertions  

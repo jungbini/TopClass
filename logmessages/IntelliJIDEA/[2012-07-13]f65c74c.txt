@@ -1,0 +1,1 @@
+  IDEA-88519: Unexpected formatting live templates  - enable force-formatting for complex zen-coding templates only. simple templates is reformated according to template reformat option  #IDEA-88519 fixed  

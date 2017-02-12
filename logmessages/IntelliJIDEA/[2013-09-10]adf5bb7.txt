@@ -1,0 +1,1 @@
+  fixed building CE by 64-bit JDK (IDEA-112953)  

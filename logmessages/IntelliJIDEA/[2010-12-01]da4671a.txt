@@ -1,0 +1,1 @@
+  xdebugger: added ability to disable 'code fragment mode' in 'evaluate' dialog [rev by D.Avdeev]  

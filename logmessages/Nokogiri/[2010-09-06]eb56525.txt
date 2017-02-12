@@ -1,0 +1,1 @@
+ adding custom XSLT functions. fixes #336  

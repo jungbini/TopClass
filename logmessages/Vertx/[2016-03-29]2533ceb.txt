@@ -1,0 +1,1 @@
+  Add a `actualPort` method in HTTPServer to retrieve the listened port when set to 0. It fixes #1318  Signed-off-by: Clement Escoffier <clement.escoffier@gmail.com>  

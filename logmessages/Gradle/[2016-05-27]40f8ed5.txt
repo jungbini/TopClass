@@ -1,0 +1,1 @@
+  Introduced a fixture for killing isolated daemons created in integration tests  

@@ -1,0 +1,1 @@
+  YARN-377. Use the new StringUtils methods added by HADOOP-9252 and fix TestContainersMonitor.  Contributed by Chris Nauroth   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1443796 13f79535-47bb-0310-9956-ffa450edef68  

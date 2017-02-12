@@ -1,0 +1,1 @@
+  Remove useless PsiClass parameter  It was used only for a debug message and an assertion that never happened  

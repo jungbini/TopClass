@@ -1,0 +1,1 @@
+  Bump to Jersey 1.9.1, fix Guice API change in Jersey  

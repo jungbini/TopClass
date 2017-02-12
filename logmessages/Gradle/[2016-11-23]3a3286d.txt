@@ -1,0 +1,1 @@
+  Pass through Configuration attributes when creating a view  This fixes the case where a configuration view is created using attributes that are not required for selecting artifacts.  

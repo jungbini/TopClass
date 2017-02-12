@@ -1,0 +1,1 @@
+  fix contrib/word_count build. Patch by Jeremy Hanna, reviewed by Gary Dusbabek. CASSANDRA-992.  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.6@938658 13f79535-47bb-0310-9956-ffa450edef68  

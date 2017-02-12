@@ -1,0 +1,1 @@
+  KT-513 Proper use of resolved call in case of infix calls  

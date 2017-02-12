@@ -1,0 +1,1 @@
+ fix SLF4J/Log4j typo  Signed-off-by: Julian Ladisch <eclipse.org-rtn@ladisch.de>  

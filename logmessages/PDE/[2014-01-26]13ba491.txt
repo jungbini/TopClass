@@ -1,0 +1,1 @@
+  fix for indices not set properly with StringDict(Reader)  

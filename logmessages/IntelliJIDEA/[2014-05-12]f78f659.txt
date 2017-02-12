@@ -1,0 +1,1 @@
+  IDEA-124877 Run Configurations: Allow sort configurations under type or folder node (Exception fix)  

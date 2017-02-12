@@ -1,0 +1,1 @@
+  partial fix for GRADLE-1275: EclipsePlugin does not properly support WTP project dependencies  

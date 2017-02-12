@@ -1,0 +1,1 @@
+ Merge branch 'races_and_vertx_close_fixes'  commit 0e8d37030e87f0abe8ff3c6ddb44b27bdd8e839a  Merge pull request #1012 from eclipse/get-context-fix  VertxImpl.getContext should not return a context create from another Ver...  commit a40b19894c53498d382a1c91114799eb250d0457  Fix bug with reply handler not unregistered properly  

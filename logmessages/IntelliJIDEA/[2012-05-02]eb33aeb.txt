@@ -1,0 +1,1 @@
+  fixed PY-6451 .js files improperly autocommented  

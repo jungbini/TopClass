@@ -1,0 +1,1 @@
+  Platform: OS X scrollbars (leak in AWT listener fixed + only keep scrollbar visible while mouse is moving over the scrollpane)  

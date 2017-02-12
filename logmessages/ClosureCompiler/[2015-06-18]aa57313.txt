@@ -1,0 +1,1 @@
+  PolymerPass: Ensure that property type annotations on behaviors are not stripped until the SuppressBehaviors traversal. This fixes missing type issues when multiple elements in the same binary use the same behavior. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=96349620  

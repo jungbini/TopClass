@@ -1,0 +1,1 @@
+  HADOOP-11372. Fix new findbugs warnings in mapreduce-examples. Contributed by Li Lu.  

@@ -1,0 +1,1 @@
+  show how the message was broken into terms  available from full message view via a link and modal window. fixes #WEBINTERFACE-200  

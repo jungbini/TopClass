@@ -1,0 +1,1 @@
+  fixed PY-6467 Simplify chained comparison suggests strange solutions  

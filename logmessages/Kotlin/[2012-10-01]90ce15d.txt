@@ -1,0 +1,1 @@
+  Modify test for KT-1515 to actually test using javaClass in another package as stated in the request.  NOTE: not 100% that this test actually covers the corresponding fix by Alex Tkachman.  

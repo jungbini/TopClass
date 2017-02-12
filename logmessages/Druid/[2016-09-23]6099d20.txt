@@ -1,0 +1,1 @@
+  [FIX] ReleaseException when the path is being written by multiple tasks (#3494)  * fix ReleaseException when the path is being written by multiple task  * Do not throw IOException if another replica wins the race for segment creation  fix if check  * handle logging comments  * fix test  

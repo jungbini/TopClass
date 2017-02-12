@@ -1,0 +1,1 @@
+  fix transparency with new imageio (bug #350), add bug num to revisions.txt for lighting stuff  

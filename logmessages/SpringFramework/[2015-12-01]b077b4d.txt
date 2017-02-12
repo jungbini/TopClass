@@ -1,0 +1,1 @@
+an exception so this issue was hidden and appeared to function correctly.  To make the media type lookup case insensitive, added a line to the lookupMediaType method in MediaTypeFileExtensionResolver to first convert the extension (media type key) to lowercase prior to attempting to retrieve it from the mediaTypes map.  Issue: SPR-13747  

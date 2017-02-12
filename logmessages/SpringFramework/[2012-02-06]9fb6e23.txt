@@ -1,0 +1,1 @@
+dSql sql = NamedParameterUtils .parseSqlStatement("SELECT 'foo''bar', :xxx FROM DUAL"); assert sql.getTotalParameterCount() == 1 // correct  Issue: SPR-8280  

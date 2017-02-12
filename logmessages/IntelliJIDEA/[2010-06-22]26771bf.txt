@@ -1,0 +1,1 @@
+  make groovy's FindUsagesTest more up to date, fix property accessor usages  

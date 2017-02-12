@@ -1,0 +1,1 @@
+  Try to fix integration tests on CI. For Windows try to avoid multi-line comparisons. For Linux require daemon so message can be written properly.  +review REVIEW-5533  

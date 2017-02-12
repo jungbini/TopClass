@@ -1,0 +1,1 @@
+  fix to remove NUL when pasting code (#1973)  

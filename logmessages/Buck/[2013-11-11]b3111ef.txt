@@ -1,0 +1,1 @@
+  Add an option to DxStep to specify a custom dx executable.  Summary: Use the custom dx option when running the "dx merge" step in AndroidBinaryRule.  This also fixes a copy/paste error in DxStep's Javadoc.  Test Plan: Sandcastle builds.  

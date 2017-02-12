@@ -1,0 +1,1 @@
+  Patch by Davide Marques about the support for CORS and some bug fixed in orientdb-api.js  

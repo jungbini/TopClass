@@ -1,0 +1,1 @@
+  Enabled some more daemon lifecycle tests that run on windows. Added some comments on the remaining tests that not yet run on windows. Improved debugging a tiny bit.  

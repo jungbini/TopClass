@@ -1,0 +1,1 @@
+  KT-2883 Type inference fails due to non-Unit value returned #KT-2883 fixed  

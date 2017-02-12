@@ -1,0 +1,1 @@
+  add debug logging to highlight the exception in kdoc if it can't find functions in the model and added a test case  

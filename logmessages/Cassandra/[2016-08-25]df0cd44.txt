@@ -1,0 +1,1 @@
+  post-fix for: Provide option for cassandra-stress to dump all settings  patch by Ben Slater; reviewed by Robert Stupp for CASSANDRA-11914  

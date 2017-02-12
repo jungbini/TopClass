@@ -1,0 +1,1 @@
+  IDEA-158654 Debug become disabled for Run Configuration with dependency in 'Before run' section: ProcessHandler.getExitCode API made more safe  

@@ -1,0 +1,1 @@
+  attempt to fix PluginCrossVersionIntegrationTest by putting Groovy library on `groovy` or `compile` configuration depending on the target Gradle version  

@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE] Namespace definitions with non-empty object literals.  This fixes a leftover bug when the namespace is a qualified name. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=74056621  

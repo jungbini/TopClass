@@ -1,0 +1,1 @@
+  do not register fixes which need editor in batch mode (IDEA-116248)  

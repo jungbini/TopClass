@@ -1,0 +1,1 @@
+  More model chart fixes: tooltip, scaling, infer keys/param names (instead of hard-coding)  

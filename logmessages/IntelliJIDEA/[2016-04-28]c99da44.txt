@@ -1,0 +1,1 @@
+  editor: review fixes  * isLineMarkerVisible() check is unnecessary - it will be done in paintLineMarkerRenderer.  follow-up dd4dc3dc0abd44743fd4b998300af18b116622d0  

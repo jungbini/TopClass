@@ -1,0 +1,1 @@
+  improve tracing output, moving less-useful debug messages to trace and adding others as needed  

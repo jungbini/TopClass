@@ -1,0 +1,1 @@
+  merge MAPREDUCE-4705 from trunk. Fix a bug in job history lookup, which makes older jobs inaccessible despite the presence of a valid history file. (Contributed by Jason Lowe)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1395851 13f79535-47bb-0310-9956-ffa450edef68  

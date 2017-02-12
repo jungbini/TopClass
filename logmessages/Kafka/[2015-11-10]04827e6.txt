@@ -1,0 +1,1 @@
+  KAFKA-2752: Follow up to fix checkstlye  Author: Grant Henke <granthenke@gmail.com>  Reviewers: Ewen Cheslack-Postava  Closes #492 from granthenke/fix  

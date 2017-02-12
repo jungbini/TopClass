@@ -1,0 +1,1 @@
+  Gradle: copy kotlin classes after java compilation  #KT-9392 fixed #KT-12295 fixed #KT-12736 fixed  

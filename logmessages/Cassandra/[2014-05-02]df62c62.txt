@@ -1,0 +1,1 @@
+  fix logback version string typo: 1.1.12 s/b 1.1.2  

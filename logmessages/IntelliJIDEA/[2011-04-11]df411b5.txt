@@ -1,0 +1,1 @@
+  EA-26819 (fix + support for multi-scoped elements)  

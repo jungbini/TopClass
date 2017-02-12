@@ -1,0 +1,1 @@
+  HTTP 400 as ES answer for existing index is okay  strange, but okay. happens in older versions. fixes #SERVER-75  

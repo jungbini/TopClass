@@ -1,0 +1,1 @@
+  Move to struct assignment intention (#2806)  fixes #2702  

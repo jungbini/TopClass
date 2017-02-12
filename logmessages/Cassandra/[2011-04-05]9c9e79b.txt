@@ -1,0 +1,1 @@
+  fix sstable read count regression patch by Stu Hood; reviewed by jbellis for CASSANDRA-2422  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1089276 13f79535-47bb-0310-9956-ffa450edef68  

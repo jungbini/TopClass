@@ -1,0 +1,1 @@
+  fixing the tests logic  Summary: GroovyBuckConfigTest: copy non-existing dir logic from JavaBuckConfigTest, LicenseCheckTest: Using platform-specific paths  Test Plan: Check locally, check buck-verification-windows step  Reviewed By: marcinkosiba  fbshipit-source-id: ad6e8e6  

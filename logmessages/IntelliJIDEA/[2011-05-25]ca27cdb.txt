@@ -1,0 +1,1 @@
+  fixed problem with adding libraries for framework which is the first in frameworks list [rev by Peter]  

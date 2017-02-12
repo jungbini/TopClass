@@ -1,0 +1,1 @@
+  IDEA-141246 fix cancel button position for DFM progress indicator  

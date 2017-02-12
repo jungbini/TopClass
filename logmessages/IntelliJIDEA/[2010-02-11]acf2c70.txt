@@ -1,0 +1,1 @@
+  artifacts pointers fixed (IDEA-27203 & IDEA-27189)  

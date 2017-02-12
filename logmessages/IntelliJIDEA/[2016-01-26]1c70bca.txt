@@ -1,0 +1,1 @@
+  [platform] fixes NPE (EA-78417)  

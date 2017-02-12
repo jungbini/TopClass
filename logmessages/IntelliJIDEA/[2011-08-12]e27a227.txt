@@ -1,0 +1,1 @@
+  fix confirmation dialog for itn reporter window under macs  

@@ -1,0 +1,1 @@
+  fixed bug causing nil error in messages index view when favorited stream is deleted  

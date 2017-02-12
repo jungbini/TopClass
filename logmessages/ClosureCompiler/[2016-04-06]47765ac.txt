@@ -1,0 +1,1 @@
+  For the outer/inner class case fixed in c94e7c13e3bbfcba27d96f61f7ec176a222e406c, there is a sub-case we don't handle correctly, where the inner class name is a substring of the outer one. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=119187914  

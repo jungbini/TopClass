@@ -1,0 +1,1 @@
+  fixed PY-11109 Incorrect "Instance attribute defined outside __init__" in local classes  

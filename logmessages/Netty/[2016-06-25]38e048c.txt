@@ -1,0 +1,1 @@
+  Fixes #5054: IpV4Subnet.contains() always returns true for single-address subnets.  Motivation: See #5054 and to fix remaining issue stopping Netty 3.10.6.Final being released.  Modification: Copied IpToInt from Netty 4 and contains() functions.  Result: Now issue #5054 shown examples are doing what they are expected to do.  

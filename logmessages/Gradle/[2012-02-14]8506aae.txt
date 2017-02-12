@@ -1,0 +1,1 @@
+  Daemon server logs the information about his log file in a way it is visible to the client. This improves debugging a lot.  

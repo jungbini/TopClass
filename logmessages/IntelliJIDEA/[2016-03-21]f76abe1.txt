@@ -1,0 +1,1 @@
+  inspection toolwindow: use action toolbar for fix buttons  

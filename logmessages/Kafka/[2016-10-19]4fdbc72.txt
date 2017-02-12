@@ -1,0 +1,1 @@
+  HOTFIX: Fix putAll and putIfAbsent logic for correct eviction behavior  Author: Eno Thereska <eno.thereska@gmail.com>  Reviewers: Damian Guy, Guozhang Wang  Closes #2038 from enothereska/hotfix-put-cache  

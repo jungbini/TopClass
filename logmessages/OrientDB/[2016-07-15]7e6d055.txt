@@ -1,0 +1,1 @@
+  fixed corner case of serialization of temporary rids on query, issue #6398  

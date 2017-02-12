@@ -1,0 +1,1 @@
+  Wrong trace in call resolver fixed  

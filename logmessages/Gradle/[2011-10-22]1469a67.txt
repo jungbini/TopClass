@@ -1,0 +1,1 @@
+  fixed issue in Sonar plugin where sonar.project.skip didn't have any effect  

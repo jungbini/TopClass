@@ -1,0 +1,1 @@
+  non-static members access from implicitly static context fixed (IDEA-108285)  

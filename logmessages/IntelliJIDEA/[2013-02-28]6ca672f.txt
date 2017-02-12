@@ -1,0 +1,1 @@
+  [vcs] VcsConfiguration: fix spelling  This will change the xml tag, which will reset the setting to its default value, but it is not critical for this particular setting.  

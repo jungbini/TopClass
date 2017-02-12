@@ -1,0 +1,1 @@
+  Cosmetic bug fix: Change title of "Flip == to ==" to "Flip '=='"  like in java intention com.siyeh.ipp.bool.FlipComparisonIntention  

@@ -1,0 +1,1 @@
+  quickfixes to ignore errors and configure the PEP8 inspection (this completes PY-2766)  

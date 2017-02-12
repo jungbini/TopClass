@@ -1,0 +1,1 @@
+  fixed critical bug with receiver used in constructor, field initializer  

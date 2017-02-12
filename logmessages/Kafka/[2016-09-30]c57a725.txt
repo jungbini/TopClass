@@ -1,0 +1,1 @@
+3127f9c [Guozhang Wang] do not call partitioner if num partitions is non-positive  (cherry picked from commit 4292243009c066c9ab5477ce886d8eb00534587e) Signed-off-by: Guozhang Wang <wangguoz@gmail.com>  

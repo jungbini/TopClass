@@ -1,0 +1,1 @@
+  compile stress classes with debug symbols (so you can see the line numbers on stack traces)  

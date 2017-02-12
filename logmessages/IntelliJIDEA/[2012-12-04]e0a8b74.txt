@@ -1,0 +1,1 @@
+  weakKey gc fix. (IllegalArgumentException("Equal objects must have equal hashcodes."))  

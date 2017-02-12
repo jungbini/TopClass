@@ -1,0 +1,1 @@
+  [java] fixes blocking accept() call in process proxy  

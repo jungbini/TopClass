@@ -1,0 +1,1 @@
+  fix(server:rpc): Preserve local names after contacts import. fixed #96  

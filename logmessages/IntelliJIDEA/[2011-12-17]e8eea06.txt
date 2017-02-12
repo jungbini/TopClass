@@ -1,0 +1,1 @@
+  IDEA-79043 Convert to GString bug  

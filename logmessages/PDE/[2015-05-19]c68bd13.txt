@@ -1,0 +1,1 @@
+  only show inspector when debugger enabled, change inspector location  

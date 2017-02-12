@@ -1,0 +1,1 @@
+  git4idea: fixed fetch dialog, so if remote name is blank, destination branches become local heads. Added "Default" button to refspec panel. Restricted \{ \} only to windows, since it does not works on MacOS X.  

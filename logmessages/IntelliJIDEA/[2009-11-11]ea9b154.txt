@@ -1,0 +1,1 @@
+  Multiple targets support fixed in followAssignmentsChain(); some tests added.  

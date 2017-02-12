@@ -1,0 +1,1 @@
+  Removed reference to closed resources to speedup garbage collection on memory mapped files. This should fix, in part, a bug on close and delete database.  

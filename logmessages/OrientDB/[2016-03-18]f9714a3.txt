@@ -1,0 +1,1 @@
+ Merge pull request #5856 from taburet/issue-5693  Auto transaction start fixes  commit f9714a3a282f126631b979603ae07999d7c51a01  auto transaction start fixes #5693  

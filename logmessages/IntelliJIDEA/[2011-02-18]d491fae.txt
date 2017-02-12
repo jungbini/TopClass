@@ -1,0 +1,1 @@
+  fixed suite location in doctests  

@@ -1,0 +1,1 @@
+ fixed app engine script reference refresh (PY-1884), added test  

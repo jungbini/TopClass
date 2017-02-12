@@ -1,0 +1,1 @@
+  IDEA-116371 (NPE in BrowserUtil fixed)  

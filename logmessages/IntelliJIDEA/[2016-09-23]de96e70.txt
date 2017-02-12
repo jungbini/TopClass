@@ -1,0 +1,1 @@
+  extract method: fix complete normally custom check (IDEA-161592)  

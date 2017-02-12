@@ -1,0 +1,1 @@
+  HDFS-965. Split TestDelegationToken in to two parts and fix configuration to allow proxy users in the test. (Jitendra Pandey via omalley)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/hdfs/trunk@910981 13f79535-47bb-0310-9956-ffa450edef68  

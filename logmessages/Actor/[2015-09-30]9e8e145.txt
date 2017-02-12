@@ -1,0 +1,1 @@
+  fix(server:webaction): return RPCError in case of failure  

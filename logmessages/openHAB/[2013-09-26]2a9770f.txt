@@ -1,0 +1,1 @@
+ fixed red MAX!Cube configuration tests  

@@ -1,0 +1,1 @@
+  :bug: Remove old legacy code for early Comet Server. Fixes #1894  

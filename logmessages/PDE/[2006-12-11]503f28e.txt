@@ -1,0 +1,1 @@
+  fix some begin/endRaw issues, along with bug #465, which broke ambientLight  

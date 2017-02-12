@@ -1,0 +1,1 @@
+  Github: fix initialization order in copy constructor  Do not rewrite URL by default value  

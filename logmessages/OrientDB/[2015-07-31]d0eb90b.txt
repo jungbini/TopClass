@@ -1,0 +1,1 @@
+  fixed available resources count in resources pool  

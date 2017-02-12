@@ -1,0 +1,1 @@
+  fixed PY-13562 New Project: there is no focus in project location  

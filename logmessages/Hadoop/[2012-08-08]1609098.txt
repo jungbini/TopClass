@@ -1,0 +1,1 @@
+  Merge -c 1370666 from trunk to branch-2.1.0-alpha to fix YARN-1. Promote YARN to be a sub-project of Apache Hadoop.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1.0-alpha@1370669 13f79535-47bb-0310-9956-ffa450edef68  

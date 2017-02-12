@@ -1,0 +1,1 @@
+  Homematic: Some logging fixes (Exceptions are error level, old java.util.logger changed to slf4j), set timeout for XML RPC requests to 3 sec.  

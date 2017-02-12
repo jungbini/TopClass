@@ -1,0 +1,1 @@
+  Fixed issue 449. There was a bug in cluster.truncate() with repercussions on class.truncate() and drop cluster command!  

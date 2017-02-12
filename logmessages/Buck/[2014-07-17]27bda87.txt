@@ -1,0 +1,1 @@
+  Compute the buck version UID only once if possible.  Test Plan: Add a print statement in _get_buck_version_uid(). buckd --kill  buck targets # verify the debug statement is only printed once.  

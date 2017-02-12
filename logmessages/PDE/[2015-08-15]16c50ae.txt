@@ -1,0 +1,1 @@
+ Merge pull request #3606 from JakubValtar/remove-fixed-func  Remove debug code  commit 16c50ae53c12514e8536f07f868328184f3fc4b9  Min size of CM is fixed  

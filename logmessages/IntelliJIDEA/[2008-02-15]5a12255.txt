@@ -1,0 +1,1 @@
+  IDEADEV-24756 J2EE run configurations: Startup/Connection page: two Run and Debug configurations are shown  

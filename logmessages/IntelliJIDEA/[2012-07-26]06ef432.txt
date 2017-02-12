@@ -1,0 +1,1 @@
+  fixed  EA-37702 - assert: ComponentManagerImpl.getPicoContainer  

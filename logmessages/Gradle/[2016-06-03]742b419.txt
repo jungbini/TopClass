@@ -1,0 +1,1 @@
+  Temporary solution: set default source and target to 1.8 on Java 9  - temporary solution for missing v53 classfile support in ASM - classfile version changed to v53 in Java 9 b119 - https://bugs.openjdk.java.net/browse/JDK-8150011  

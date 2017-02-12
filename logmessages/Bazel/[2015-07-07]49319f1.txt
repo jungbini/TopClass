@@ -1,0 +1,1 @@
+  Skylark: Fixed a bug where set.union() was erroneously seen as a global function  -- MOS_MIGRATED_REVID=97681893  

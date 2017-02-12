@@ -1,0 +1,1 @@
+ Polish inspect mode interaction  - interaction fixes for button2 click and ctrl/cmd+button1 click - makes it much less likely to be invoked it by accident  

@@ -1,0 +1,1 @@
+  made the KNX binding work by activating all components at bundle startup fixes https://github.com/openhab/openhab2-addons/issues/631  Signed-off-by: Kai Kreuzer <kai@openhab.org>  

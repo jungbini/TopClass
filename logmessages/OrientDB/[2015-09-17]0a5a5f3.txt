@@ -1,0 +1,1 @@
+  fixed issue #4975 by auto-renaming classes with "."  

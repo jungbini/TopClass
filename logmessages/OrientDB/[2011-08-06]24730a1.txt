@@ -1,0 +1,1 @@
+  Index: - fixed a bug on index remove - improved performance by delegating saving to the std algorithm - avoided lazy flush on closing  

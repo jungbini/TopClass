@@ -1,0 +1,1 @@
+  fixed feature references after renaming (#4876)  Signed-off-by: Kai Kreuzer <kai@openhab.org>  

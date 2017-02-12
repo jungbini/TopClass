@@ -1,0 +1,1 @@
+  add new analytics event. - clickChangeAgentMain - clickChangeAgentInspector bug fix. - wrong analytics event send ( clickNode )  

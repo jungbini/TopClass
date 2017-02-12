@@ -1,0 +1,1 @@
+  IDEA-114003 XDebuger breakpoint properties: strage selection jumps in breakpoint tree  

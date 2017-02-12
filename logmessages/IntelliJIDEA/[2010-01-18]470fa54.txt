@@ -1,0 +1,1 @@
+  PythonSdkType was fixed : do not create sdk with empty binary path  

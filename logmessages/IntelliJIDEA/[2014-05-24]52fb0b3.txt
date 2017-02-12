@@ -1,0 +1,1 @@
+  DebugLogConfigureAction: define the default focused component  

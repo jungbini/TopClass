@@ -1,0 +1,1 @@
+  Add skeleton LossLayerGradientCheck and fix builder on LossLayer.  

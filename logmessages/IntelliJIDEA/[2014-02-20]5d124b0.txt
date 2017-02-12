@@ -1,0 +1,1 @@
+  fix method isn|'t implemented: com.intellij.execution.console.ProcessBackedConsoleExecuteActionHandler com.intellij.execution.runners.AbstractConsoleRunnerWithHistory#createConsoleExecuteActionHandler() (in Pythonid:3.1.1.134.1462)  

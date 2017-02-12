@@ -1,0 +1,1 @@
+  support for empty border; support for 3 levels of property nesting in PropertyInspector; fixes for null handling in IntFieldProperty  

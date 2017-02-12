@@ -1,0 +1,1 @@
+  fixed PY-8443 Rename module: reference in doctest is not updated: Throwable at com.intellij.refactoring.rename.RenameUtil.doRenameGenericNamedElement  

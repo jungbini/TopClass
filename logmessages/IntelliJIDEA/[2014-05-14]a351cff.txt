@@ -1,0 +1,1 @@
+  fixed PY-12037 long path cause wide menu  

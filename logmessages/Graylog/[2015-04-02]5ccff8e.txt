@@ -1,0 +1,1 @@
+  support reconnecting the sockjs client if we lose the connection to the web interface  properly inform the callbacks about the error  fix lint check and make jvm heap component hasError aware and generate a nicer message  

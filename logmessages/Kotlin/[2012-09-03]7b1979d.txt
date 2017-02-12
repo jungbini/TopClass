@@ -1,0 +1,1 @@
+  KT-2609 Copy @NotNull data from IDEA's JDK annotations  #KT-2609 fixed  

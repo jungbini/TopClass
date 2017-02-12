@@ -1,0 +1,1 @@
+  fix quoted names alter class syntax  ex. ALTER CLASS `foo-bar` ADDCLUSTER `foo-bar-baz`  

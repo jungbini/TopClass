@@ -1,0 +1,1 @@
+  Temporary added DEPRECATED_LAMBDA_SYNTAX to tests.  It will be fixed soon.  

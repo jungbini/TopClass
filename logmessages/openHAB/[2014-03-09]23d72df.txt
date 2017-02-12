@@ -1,0 +1,1 @@
+  MAX!Cube Binding refactoring  fixed issue with wrong S_Command set point encoding,  added suppressWarnings statement due to Date usage, restructured up conditional statements due to merge with forks.  

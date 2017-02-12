@@ -1,0 +1,1 @@
+  Fix for issue#673, uncaught throw 'encoding_found' in JRuby. This fix has cut one 1.9 error off, too.  

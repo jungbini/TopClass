@@ -1,0 +1,1 @@
+ tooltips for color picker sliders + fix exception while resizing toolwindow to minimum size + small ui fix if tabs doesn't fit  

@@ -1,0 +1,1 @@
+  move SchemaPrefix reference to schema reference provider  

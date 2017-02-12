@@ -1,0 +1,1 @@
+  RegExp: fix completion place for POSIX bracket expressions  

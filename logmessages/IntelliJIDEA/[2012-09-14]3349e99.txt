@@ -1,0 +1,1 @@
+  IDEA-19061 Integrate the Rearranger-plugin into core-IDEA  Test fixes  

@@ -1,0 +1,1 @@
+  working around libxml2 2.6.16 relax-ng crash bug: http://bugzilla.gnome.org/show_bug.cgi?id=338306  

@@ -1,0 +1,1 @@
+  Configure kotlin: fix NPE for Idea 145 of higher #KT-11772 Fixed  

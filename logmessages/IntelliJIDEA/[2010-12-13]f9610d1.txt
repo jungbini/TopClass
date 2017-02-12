@@ -1,0 +1,1 @@
+  sout debugging isn't needed anymore in autopopup tests  

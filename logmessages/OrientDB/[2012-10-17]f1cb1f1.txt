@@ -1,0 +1,1 @@
+  SQL: fixed bug on parsing of nested sub-query as target in TRAVERSE  

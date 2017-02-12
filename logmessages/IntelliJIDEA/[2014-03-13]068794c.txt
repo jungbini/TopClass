@@ -1,0 +1,1 @@
+  added PY-8367 Quickfix for removing unused parameter or variable  

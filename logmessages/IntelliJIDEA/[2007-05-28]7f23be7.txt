@@ -1,0 +1,1 @@
+  fix: vmProxy.nestedTypes() returns only those types that were loaded with the same loader as the outer type  

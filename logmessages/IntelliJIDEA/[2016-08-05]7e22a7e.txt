@@ -1,0 +1,1 @@
+  resource bundle editor: type in negation fixed (keep empty properties in default file) IDEA-159268  

@@ -1,0 +1,1 @@
+  Constant number of loop iterations in light shaders, to make them compatible with older Adreno GPUs (fixes issue 1145). Also, more careful handling of vectors in shaders to avoid problems with powerVR GPUs.  

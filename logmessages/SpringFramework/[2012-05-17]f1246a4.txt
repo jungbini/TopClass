@@ -1,0 +1,1 @@
+#lastIndexOf instead of String#indexOf when determining the location of the country code token.  Issue: SPR-9420  

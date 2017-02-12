@@ -1,0 +1,1 @@
+  in fact, we require one master node.  fixes #482  

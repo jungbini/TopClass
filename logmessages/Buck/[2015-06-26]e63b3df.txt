@@ -1,0 +1,1 @@
+  Fix IllegalStateException when constructing IjModuleGraph.  Summary: If TargetNode T1 within module A depends on a TargetNode T2 within a 

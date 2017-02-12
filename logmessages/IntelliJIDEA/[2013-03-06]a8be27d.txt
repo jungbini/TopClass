@@ -1,0 +1,1 @@
+  Handling for staticfiles_dirs prefixes (PY-8065).  

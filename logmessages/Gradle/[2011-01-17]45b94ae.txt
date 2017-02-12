@@ -1,0 +1,1 @@
+  fixed GRADLE-1304, part 2: IDEA plugin should replace the existing classpath when merging IDE configuration files  

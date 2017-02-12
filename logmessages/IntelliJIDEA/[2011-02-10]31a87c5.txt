@@ -1,0 +1,1 @@
+  fixed PY-1121 Django testing - removing database (Now django test runs as --noinput)  

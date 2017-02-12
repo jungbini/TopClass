@@ -1,0 +1,1 @@
+ Github: fix tests  * use DialogWrapper to show LoginDialogs * register DialogManager for GithubLoginDialog  

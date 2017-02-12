@@ -1,0 +1,1 @@
+  IDEA-161258 Add Java-8 migration fix to use Map.getOrDefault() where appropriate  

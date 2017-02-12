@@ -1,0 +1,1 @@
+  java postfix templates: '.format' template should be expression-based IDEA-139659  

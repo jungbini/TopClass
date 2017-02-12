@@ -1,0 +1,1 @@
+  removed "really" link in full message links  fixes #WEBINTERFACE-388  

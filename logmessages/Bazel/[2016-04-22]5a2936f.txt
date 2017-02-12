@@ -1,0 +1,1 @@
+  Check for additions to the directory in new_local_repository  Fixes #806.  RELNOTES: External repository correctness fix: adding a new file/directory as a child of a new_local_repository is now noticed.  -- MOS_MIGRATED_REVID=120557511  

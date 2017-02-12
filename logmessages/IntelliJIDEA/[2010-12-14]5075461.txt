@@ -1,0 +1,1 @@
+  fixed (PY-2467) PyCharm's own unittest / unittest2 helpers for PyDev get into the way while debugging a test suite which is run as a script  

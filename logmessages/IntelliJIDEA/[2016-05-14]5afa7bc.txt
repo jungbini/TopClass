@@ -1,0 +1,1 @@
+  Fix test runner progress for py.test  This change fixes an issue where the pytest runner did not report the number of tests to the test runner, resulting in a progress bar stuck at 50%.  

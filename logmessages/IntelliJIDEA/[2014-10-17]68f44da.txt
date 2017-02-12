@@ -1,0 +1,1 @@
+  fixing ChooseByNameBase assertions  * list update is requested * bg thread is canceled, a new one is started * then quickly a write action occurs * old bg thread hasn't finished yet and receives that event and restarts => two bg threads at the same time, bad  

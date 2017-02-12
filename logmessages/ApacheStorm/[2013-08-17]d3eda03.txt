@@ -1,0 +1,1 @@
+ fixed infinite loop in KafkaSpout  

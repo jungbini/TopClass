@@ -1,0 +1,1 @@
+  new debugger ui: focus and ui flickering fixes, popup actions for unselected tabs  

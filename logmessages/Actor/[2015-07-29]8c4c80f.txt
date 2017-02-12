@@ -1,0 +1,1 @@
+  fix(iOS): Fixing Pt localization for iPhone  

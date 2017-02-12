@@ -1,0 +1,1 @@
+  fixed issue on DELETE and DELETE EDGE when executed in batch scripts with LET variables as arguments  - issue #3110  

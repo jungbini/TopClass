@@ -1,0 +1,1 @@
+  [Feature] Thrift support for realtime and batch ingestion (#3418)  * Thrift ingestion plugin  1. thrift binary is platform dependent, use scrooge to generate java files to avoid style check failure 2. stream and hadoop ingesion are both supported, input format can be sequence file and lzo thrift block file. 3. base64 and protocol aware  change header  * fix conlicts in pom  

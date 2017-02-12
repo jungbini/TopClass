@@ -1,0 +1,1 @@
+  fixing compiler storage data integrity for certain cases when classes are moved between modules  

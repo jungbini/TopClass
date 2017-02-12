@@ -1,0 +1,1 @@
+  Effective visibility: fix for internal & protected vs protected comparison #KT-9582 Fixed  

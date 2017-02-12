@@ -1,0 +1,1 @@
+  Fix a regression introduced by 00853d94537c8bb648107f2cb8889d1c65e99886  .. by fixing incorrect bitwise operation for pipeline traversal  

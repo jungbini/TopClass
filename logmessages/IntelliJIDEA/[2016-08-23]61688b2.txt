@@ -1,0 +1,1 @@
+  use another fixture as base class for course creator tests  

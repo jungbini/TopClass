@@ -1,0 +1,1 @@
+  Add script which uses `bazel run` to invoke the command in the calling terminal, not the bazel server.  This fixes two user annoyances: 1) the command can now read from stdin 2) the bazel lock is not held when the command is invoked  The script use's bazel's `--script_path` flag to write out the shell script that runs the command.  -- MOS_MIGRATED_REVID=112815712  

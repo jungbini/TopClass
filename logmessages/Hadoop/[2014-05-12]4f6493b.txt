@@ -1,0 +1,1 @@
+  YARN-2016. Fix a bug in GetApplicationsRequestPBImpl to add the missed fields to proto. Contributed by Junping Du  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1594085 13f79535-47bb-0310-9956-ffa450edef68  

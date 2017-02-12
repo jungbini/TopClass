@@ -1,0 +1,1 @@
+  REVIEW-3564 Used a better fixture class.  

@@ -1,0 +1,1 @@
+  Fix a bug in StorageDir.cleanupUser where we forget to reclaim space of cleaned temp blocks  

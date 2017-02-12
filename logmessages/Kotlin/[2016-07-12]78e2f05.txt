@@ -1,0 +1,1 @@
+  Test for "Debugger: "Step over" dives into recursive call" (KT-12924)  Fixed in 7992df7b931b76d64800d89890dd50bc079049da  #KT-12924 Fixed  

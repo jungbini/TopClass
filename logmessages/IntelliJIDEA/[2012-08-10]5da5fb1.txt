@@ -1,0 +1,1 @@
+  breakpoints-ui. tree selection after breakpoint deleting. debugger manager listeners leak fixed.  

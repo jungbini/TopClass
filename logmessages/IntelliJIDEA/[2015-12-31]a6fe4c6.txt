@@ -1,0 +1,1 @@
+  IG: improved and added quickfix to "Confusing primitive array argument to varargs method" inspection  

@@ -1,0 +1,1 @@
+  Make Elasticsearch version check smarter, fixes #753  The Elasticsearch version check now checks if the version of the ES cluster is in a specific version range (currently: 1.3.2 <= cluster version <= 1.3.4).  

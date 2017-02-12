@@ -1,0 +1,1 @@
+  Refactoring startup and shutdown, refactoring service implementation, implementing error and info reporting to compiler output, idle autoshutdown mechanisms, fixing TargetId serializability, some other refactoring Fixing stream to log handler (by removing non-working optimization), fixing idle time calculation, reporting refactorings  

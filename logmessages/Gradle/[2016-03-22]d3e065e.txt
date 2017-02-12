@@ -1,0 +1,1 @@
+  GRADLE-1574: Unit-test fix  

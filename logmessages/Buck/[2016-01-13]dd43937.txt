@@ -1,0 +1,1 @@
+  More pex fixes for windows.  Summary: Aside from the two issues sdwilsh found, the last bit was convincing pex to not remove sys.prefix from sys.path. Closes https://github.com/facebook/buck/pull/614  Reviewed By: sdwilsh  fb-gh-sync-id: ae060dd  

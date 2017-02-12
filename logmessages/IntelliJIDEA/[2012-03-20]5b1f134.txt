@@ -1,0 +1,1 @@
+  EA-34735 - assert: DirectoryBasedStorage.<init>; fix python new project validation  

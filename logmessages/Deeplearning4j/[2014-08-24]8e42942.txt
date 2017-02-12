@@ -1,0 +1,1 @@
+  Update LFWRBMExample.java  fixed a typo in a comment, which would have appeared in a gist  

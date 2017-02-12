@@ -1,0 +1,1 @@
+  SVN 1.7: tests: fix a bit & bomb not working yet  

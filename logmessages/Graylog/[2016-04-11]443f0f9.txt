@@ -1,0 +1,1 @@
+ Make validation errors and exceptions more verbose  Previously, ValidationExceptions wouldn't print the acutal validation errors which makes debugging or simply identifying issues harder than necessary.  

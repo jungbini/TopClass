@@ -1,0 +1,1 @@
+  Fixed add method quick fix after changing the element reported by the unresolved references inspection  It was the unresolved identifier, now it's the unresolved reference expression.  

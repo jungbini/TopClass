@@ -1,0 +1,1 @@
+  IDEA-129802 Rearranger UI: fix toolbar icons  

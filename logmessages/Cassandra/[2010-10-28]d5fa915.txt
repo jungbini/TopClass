@@ -1,0 +1,1 @@
+  fix post-ByteBuffer hint delivery.  patch by Sylvain Lebresne; reviewed by jbellis for CASSANDRA-1672  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1028256 13f79535-47bb-0310-9956-ffa450edef68  

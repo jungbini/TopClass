@@ -1,0 +1,1 @@
+  Fixed flacky BlacklistingCompactionsTest, switched to fixed size types and increased corruption size  patch by Stefania Alborghetti; reviewed by Joel Knighton for CASSANDRA-12359  

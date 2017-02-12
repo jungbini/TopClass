@@ -1,0 +1,1 @@
+  Redirect LogEvent and StyledOutputEvent from worker processes to server  * use custom serializer * Added test coverage * TODO fix WorkerProcessIntegrationTest:workerProcessStdOutAndStdInIsForwardedToThisProcess  

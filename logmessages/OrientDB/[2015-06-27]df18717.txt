@@ -1,0 +1,1 @@
+  Minor: fixed returning of long of big numbers (instead of negatives one)  

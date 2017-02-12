@@ -1,0 +1,1 @@
+  Settings/Code Style/JavaDoc: fix highlighting of changed fragments  * do not highlight whole line, if there are found inner fragments -- before this change, whole modified line was highlighted. Now only changed whitespaces are highlighted. -- it was broken in 7af486c6 (DiffMarkup was not intended to be used like this) * Use new 

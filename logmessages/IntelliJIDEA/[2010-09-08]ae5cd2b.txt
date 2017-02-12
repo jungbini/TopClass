@@ -1,0 +1,1 @@
+  don't strip empty lines in debugger tooltip (IDEA-58046)  

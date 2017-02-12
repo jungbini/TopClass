@@ -1,0 +1,1 @@
+  fix mappings to properly work on 32-bit windows (fixes memory faults)  

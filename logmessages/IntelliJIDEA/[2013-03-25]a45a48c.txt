@@ -1,0 +1,1 @@
+  IDEA-103114 ("Surround with try-with-resources" fixed to not lose last declaration element)  

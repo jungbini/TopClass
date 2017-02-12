@@ -1,0 +1,1 @@
+  Buck-out logs for distributed build runs are now unzipped. Added tests.  Summary: This will make debugging easier (as no manual unzipping required), and mean we don't need to add unzipping logic to any scripts which require these files.  Added unit tests for the distributed build log lister class.  Test Plan: ci  Reviewed By: shivanker  fbshipit-source-id: f4237b8  

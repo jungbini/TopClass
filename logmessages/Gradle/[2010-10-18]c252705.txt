@@ -1,0 +1,1 @@
+  GRADLE-1177 - fixed typo in description for default configuration.  

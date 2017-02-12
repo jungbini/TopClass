@@ -1,0 +1,1 @@
+  indexexr index name now configurable  fixes #WEBINTERFACE-156  

@@ -1,0 +1,1 @@
+  RoboletricTestDescription: fix first-order deps  Summary: - Attach dependencies' exported deps as first-order deps - Add javac options deps as first-order deps  Test Plan: added unittest  

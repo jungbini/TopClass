@@ -1,0 +1,1 @@
+  Gradle plugin: fix compatibility with android-gradle plugin 2.0.0-alpha5 #KT-10676 Fixed  

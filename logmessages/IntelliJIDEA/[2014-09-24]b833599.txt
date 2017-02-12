@@ -1,0 +1,1 @@
+  [push] Change loading icons to the standard ones, fix widths  Let the LoadingIcon occupy the same area as the JCheckbox does to avoid flickering when loading icon is changed to the checkbox.  Keep an empty icon to occupy the same place for the single repo case.  

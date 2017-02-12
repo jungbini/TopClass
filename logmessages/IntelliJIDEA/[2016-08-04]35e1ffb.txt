@@ -1,0 +1,1 @@
+  don't call groovy position manager helpers on files they don't handle (fix(?) IDEA-159345)  

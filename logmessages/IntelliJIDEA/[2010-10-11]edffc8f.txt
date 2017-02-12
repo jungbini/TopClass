@@ -1,0 +1,1 @@
+  javadoc roots: fix for library located under module dir  

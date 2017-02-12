@@ -1,0 +1,1 @@
+  Fix IDEA-146574 IDEA shows warning in 'Run/Debug configuration' for JUnit test, but it runs fine  

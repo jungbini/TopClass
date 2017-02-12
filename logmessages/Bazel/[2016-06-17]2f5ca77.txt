@@ -1,0 +1,1 @@
+  Adds cycle detection errors when top-level dynamic configuration creation fails because transitive fragment visitation hits these cycles.  This makes CircularDependencyTest pass with dynamic configurations.  It's a little bit unfortunate that BuildViewTestCase follows a 

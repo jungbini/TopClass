@@ -1,0 +1,1 @@
+  Restore logic of StandardScriptDefinition handling, fixes codegen tests  

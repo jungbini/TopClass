@@ -1,0 +1,1 @@
+  fix get_range_slices with startkey and endtoken specified patch by Nikolay (nmmm) reviewed by dbrosius for CASSANDRA-4804  

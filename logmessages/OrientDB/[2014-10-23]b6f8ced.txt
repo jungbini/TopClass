@@ -1,0 +1,1 @@
+  fixed issue #2279 Javascript problem in Java8 - array serialization  

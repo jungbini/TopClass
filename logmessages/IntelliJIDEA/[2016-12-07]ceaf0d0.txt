@@ -1,0 +1,1 @@
+  ui: pass help button as a parameter  fix IDEA-146932 under linux and darcula LaF  

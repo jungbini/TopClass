@@ -1,0 +1,1 @@
+  fixed PY-13597 Create New Project: Create button is too high when creating project in Community Edition from Welcome screen  

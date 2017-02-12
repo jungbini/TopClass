@@ -1,0 +1,1 @@
+  memory tweaks.  fixing html.fragment.  LH#35  

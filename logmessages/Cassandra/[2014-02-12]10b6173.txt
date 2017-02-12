@@ -1,0 +1,1 @@
+ fix isDeterministic + CqlReader  commit 10b617364e9f639358f82c70056e31533a1ec11c  Improvements and fixes to cassandra/stress Patch by Benedict; reviewed by Pavel Yaskevich for CASSANDRA-6691  

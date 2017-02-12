@@ -1,0 +1,1 @@
+  LibraryTableBase.LibraryModel: fix memory leak of not removing listeners from library table dispatcher (IDEA-142882)  

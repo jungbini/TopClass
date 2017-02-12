@@ -1,0 +1,1 @@
+  KT-2111 Highlight Java classes/interfaces/etc in Kotlin code  #KT-2111 fixed  

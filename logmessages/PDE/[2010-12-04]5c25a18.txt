@@ -1,0 +1,1 @@
+  Using texture environment crossbar functionality to properly tint and light interpolated mulitextures (fixes issue 468)  

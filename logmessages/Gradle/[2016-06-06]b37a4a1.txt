@@ -1,0 +1,1 @@
+s by using a whitelist of resources/classes to relocate, instead of relying on a blacklist. This allows proper filtering of resources, while in the same time avoiding transforming arbitrary strings when they should not be relocated. This fixes the issue reported in `2.14-rc4` where `XercesBridge` cannot be initialized because of hard coded string literals.  +review REVIEW-6039  

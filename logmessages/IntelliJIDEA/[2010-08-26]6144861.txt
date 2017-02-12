@@ -1,0 +1,1 @@
+  Pair.hashCode() fixed and cleaned  

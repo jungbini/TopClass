@@ -1,0 +1,1 @@
+  fix compilation for 1.5, sorry. Details: SVN: 1) change auth file permissions using 1.5 API through file rename & copy contents 2) disable "save credentials" checkbox in dialogs when property disables it 3) fix Subversion directory change - to affect IDEA on-the-fly, not after restart only  

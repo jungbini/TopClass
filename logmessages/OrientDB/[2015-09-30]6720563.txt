@@ -1,0 +1,1 @@
+  refactor for use single api for open the database server side, fixed security problem in case of token  

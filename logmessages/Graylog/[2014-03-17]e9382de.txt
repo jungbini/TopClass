@@ -1,0 +1,1 @@
+  fix remove stream url prefix when running with application.context  issue #725  

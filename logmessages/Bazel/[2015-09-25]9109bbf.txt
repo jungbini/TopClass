@@ -1,0 +1,1 @@
+  Removed new_file_suffix().  -- MOS_MIGRATED_REVID=103926575  

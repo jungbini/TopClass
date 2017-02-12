@@ -1,0 +1,1 @@
+  fixed bug with file staying red underwaved in editor tab  

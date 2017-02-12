@@ -1,0 +1,1 @@
+  work around solaris/x86 JVM bug  

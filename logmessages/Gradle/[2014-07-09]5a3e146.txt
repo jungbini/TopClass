@@ -1,0 +1,1 @@
+  Add fix for GRADLE-3128  - in java the string representation of a UNC path is 'file:////someServer/repo'. - changed ExternalResourceName to deal with URIs with UNC paths which stores the entire UNC path in the path component of the URI  

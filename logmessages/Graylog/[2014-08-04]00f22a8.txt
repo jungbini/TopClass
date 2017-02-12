@@ -1,0 +1,1 @@
+  Add CLI parameters to dump the configuration of graylog2-server  The following CLI parameters have been implemented:  * `--dump-default-config` dumps the default configuration as defined per default values in the `Configuration` class. * `--dump-config` dumps the effective configuration after processing the config file.  fixes #616  

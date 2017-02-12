@@ -1,0 +1,1 @@
+  Test thread leak fix  We should wait for all thread listeners to complete after semaphore is released  

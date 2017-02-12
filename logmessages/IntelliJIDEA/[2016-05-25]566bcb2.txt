@@ -1,0 +1,1 @@
+  Do update debugger's focus if debugger is already suspended and other threads suspend (PY-2431)  

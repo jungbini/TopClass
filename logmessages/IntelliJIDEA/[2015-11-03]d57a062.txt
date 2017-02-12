@@ -1,0 +1,1 @@
+  IDEA-147244 Incompatible plugin should always be updated to compatible even if compatible is considered older #IDEA-147244 fixed  

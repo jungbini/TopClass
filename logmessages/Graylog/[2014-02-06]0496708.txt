@@ -1,0 +1,1 @@
+  close the ldap connection on config tests, too  fixes #411  

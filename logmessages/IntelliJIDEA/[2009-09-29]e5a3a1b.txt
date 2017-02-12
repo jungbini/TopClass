@@ -1,0 +1,1 @@
+  code coverage: fix qualified name for class in default package (IDEADEV-40575)  

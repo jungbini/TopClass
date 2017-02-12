@@ -1,0 +1,1 @@
+  Attempt to fix flaky tests where daemon registry deletion is failing  It seems like we are failing to delete the daemon registry, probably because it is locked by the periodic expiration thread.  This change simply re-tries the deletion a number of times.  

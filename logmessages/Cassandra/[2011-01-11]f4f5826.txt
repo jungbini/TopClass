@@ -1,0 +1,1 @@
+  fix race condition in MessagingService.targets patch by jbellis; reviewed by Folke Behrens for CASSANDRA-1959  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1057929 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+ Merge pull request #519 from ender672/allow_debug_symbols_extconf  Don't override gcc optimize flag in extconf.rb  commit 0562eff5dab435e98de16ec0657bd3641c7d7e37  Linking from the README to our support & bug report guidelines page.  

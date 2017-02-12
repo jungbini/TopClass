@@ -1,0 +1,1 @@
+ Merge pull request #568 from metamx/fix-topn  Fix inverted lexicographic topns and topns with dim extraction dimension specs  commit 642897dca3aabcd38f0aec1047ba593599cf03da  fix inverted logic  

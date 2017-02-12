@@ -1,0 +1,1 @@
+  generate correct bytecode for constructors using infix call syntax #KT-4589 Fixed  

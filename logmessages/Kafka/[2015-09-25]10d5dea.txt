@@ -1,0 +1,1 @@
+  HOTFIX: remove unused import causing checkstyle to fail  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Guozhang Wang  Closes #244 from hachikuji/hotfix-checkstyle  

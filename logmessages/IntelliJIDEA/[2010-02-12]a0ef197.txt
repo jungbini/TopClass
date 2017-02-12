@@ -1,0 +1,1 @@
+  added handler for apple awt bug - http://www.jetbrains.net/devnet/thread/278896  

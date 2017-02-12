@@ -1,0 +1,1 @@
+ Merge branch 'fix-supervisor-feign-dead' of https://github.com/tedxia/incubator-storm into STORM-577  STORM-577: supervisor heartbeat and handle event use separate timer  commit 41d1d9c0ef72db56c18fb1cc422f4dd949b32138  STORM-600: fixed a test that had some issues with scheduling order  

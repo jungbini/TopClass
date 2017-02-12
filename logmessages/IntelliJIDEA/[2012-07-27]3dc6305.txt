@@ -1,0 +1,1 @@
+  RUBY-11340: ErbErrorFilter should also disable errors for HTML #RUBY-11340 fixed  

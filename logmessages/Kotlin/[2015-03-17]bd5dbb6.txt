@@ -1,0 +1,1 @@
+  Fix header scope for secondary constructors  Add companion object's scope and nested classes  #KT-6996 fixed  

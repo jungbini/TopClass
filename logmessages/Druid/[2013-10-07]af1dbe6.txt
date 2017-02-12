@@ -1,0 +1,1 @@
+ Merge pull request #258 from metamx/fix-docs  Fix docs for 0.6 (part 1 of many)  commit af1dbe6eabc368ece16db31d96ae45395d511e52  fix docs for 0.6 part 1 of many  

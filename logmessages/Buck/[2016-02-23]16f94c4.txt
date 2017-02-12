@@ -1,0 +1,1 @@
+  Import test utility class FakeExecutor into Buck from jcommon  Summary:I'm fixing a bug in `CounterRegistryImpl` related to its use of a `ScheduledExecutorService`.  The tests for this class currently use `EasyMock` to model the behavior of `ScheduledExecutorService`. I don't really like `EasyMock`, so this 

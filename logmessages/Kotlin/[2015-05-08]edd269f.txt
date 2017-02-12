@@ -1,0 +1,1 @@
+  Quick fix for enum entry delimiter syntax fix, together with a set of tests.  Possible NPE in getNextSiblingIgnoringWhitespace fixed. Some warnings also removed. Last comma is replaced by semicolon. Comments are taken into account.  

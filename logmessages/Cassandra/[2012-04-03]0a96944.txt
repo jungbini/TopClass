@@ -1,0 +1,1 @@
+  Add snaptree dependency to pom (and fix yammer metrics dependency)  patch by stephenc; reviewed by slebresne for CASSANDRA-3676  

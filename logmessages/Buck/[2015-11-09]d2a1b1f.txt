@@ -1,0 +1,1 @@
+  Add Robolectric logging to java_test  Summary: Currently, Buck discards all logs written by java_test() targets.  It really helps engineers to see logs when debugging tests. This 

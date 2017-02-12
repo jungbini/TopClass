@@ -1,0 +1,1 @@
+  [merge tool] Fix conflict counter (displayed at the bottom of the merge tool)  It seems that the format used in some bundles (like {0, choice, 0#No changes|1#One change|2#{0, number} changes}) is not actually supported by IDEA. Construct the text in the merge tool manually, until that is fixed (because incorrect calculating of the number of conflicts annoys a lot).  

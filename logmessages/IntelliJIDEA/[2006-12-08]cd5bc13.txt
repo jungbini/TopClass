@@ -1,0 +1,1 @@
+  elimitate 'synchronized' in Debugger's event queue  

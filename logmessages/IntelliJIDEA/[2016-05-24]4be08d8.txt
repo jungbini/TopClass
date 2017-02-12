@@ -1,0 +1,1 @@
+  inspection toolwindow: when quick fixes are shown on popup action can't find view from data context  

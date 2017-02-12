@@ -1,0 +1,1 @@
+  fix(server:session): increase buffer size if item is more than max resend size  

@@ -1,0 +1,1 @@
+  Moved Java Object test classes to base package Fixed bug on List retrieving with old object implementation (ODatabaseObjectTx) Added testcase with old object implementation (ODatabaseObjectTx)  

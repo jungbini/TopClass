@@ -1,0 +1,1 @@
+  Restored "Install packaging tools" fix when there is no 'setuptools' installed  

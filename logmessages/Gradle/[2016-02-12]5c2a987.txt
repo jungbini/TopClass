@@ -1,0 +1,1 @@
+  Don't trigger the cancellation token if stream is closed while cleaning up monitor thread  This is an attempt to fix a sporadic breakage in `DefaultCancellableOperationManagerTest`, which appears to be caused by a race condition where the stream is closed before the monitor thread has been cancelled.  +review  

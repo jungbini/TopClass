@@ -1,0 +1,1 @@
+  fixed extra document changed event  

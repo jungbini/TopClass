@@ -1,0 +1,1 @@
+  fix ConfigurablesModifiedTest (failed because of context-dependent New menu)  

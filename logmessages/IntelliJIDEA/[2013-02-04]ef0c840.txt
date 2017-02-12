@@ -1,0 +1,1 @@
+  do not move caret to the line beginning in case of selection on paste fixed PY-8693 Smart indent pasted lines deletes part of string if pasting Django ORM query  

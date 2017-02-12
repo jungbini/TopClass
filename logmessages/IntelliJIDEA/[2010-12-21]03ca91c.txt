@@ -1,0 +1,1 @@
+  fixed [PY-2497] Show test results for selected test whether it's been passed or failed  

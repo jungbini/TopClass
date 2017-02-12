@@ -1,0 +1,1 @@
+  Externalize file_test and strings_test, and fix up the BUILD files.  -- MOS_MIGRATED_REVID=100109450  

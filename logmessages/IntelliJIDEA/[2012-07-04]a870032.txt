@@ -1,0 +1,1 @@
+  IDEA-88280 Cannot scroll down with arrows in "non-prefix matches" search results in "go to" popups  

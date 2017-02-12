@@ -1,0 +1,1 @@
+  avoid NPE, return 404 instead  fixes #256  

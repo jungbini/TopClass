@@ -1,0 +1,1 @@
+  IDEADEV-26722 add make synchronized quick fix  

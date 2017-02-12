@@ -1,0 +1,1 @@
+  IDEA-111925, IDEA-111937 - fix exception tolerance  

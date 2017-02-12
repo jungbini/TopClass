@@ -1,0 +1,1 @@
+  control+alt+A shortcut for AddUnversioned action: use it in git and perforce (instead of declaring again), fix KeymapTest  

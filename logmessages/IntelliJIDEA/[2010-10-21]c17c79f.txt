@@ -1,0 +1,1 @@
+  Git: better notifications if git failed to start.  Added GitExecutableValidator - a project service able to check if git is valid and display notification. Notification provides a link to the Settings to fix git path there. Use the validator when failing GitBranchConfigurations detection. Check if git is valid on plugin activate.  

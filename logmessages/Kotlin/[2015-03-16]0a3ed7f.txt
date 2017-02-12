@@ -1,0 +1,1 @@
+  JS: small fixes after conversion  

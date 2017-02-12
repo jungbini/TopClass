@@ -1,0 +1,1 @@
+  [shelve]: re-add 'Show/Hide already unshelved' to shelf tab context menu; fix option title; run icons.gant  

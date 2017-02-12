@@ -1,0 +1,1 @@
+  Gradle: fix dependencies scope merge IDEA-117556 Gradle custom provided configuration added with compile scope IDEA-117601 Gradle integration ignores scopes.TEST.plus in build.gradle  

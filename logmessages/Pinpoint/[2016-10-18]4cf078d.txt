@@ -1,0 +1,1 @@
+  [PinpiontWeb] fix a ActiveThread concurrency problem #1482  If webSocketSession status is not opened, then do not binding to flush aggregator.  

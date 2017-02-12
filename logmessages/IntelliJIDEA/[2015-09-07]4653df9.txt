@@ -1,0 +1,1 @@
+  PY-16828 Insert docstring stub on enter even if opening quotes have e.g. unicode prefix  Also I removed PythonDocCommentUtil and moved its only method to PythonEnterHandler  

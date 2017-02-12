@@ -1,0 +1,1 @@
+  misc favorites-breakpoint fixes; BreakpointsFavoritesManagerd has been moved to xdebugger-impl (IDEA-104033 New Favorites window throws exception in the RubyMine)  

@@ -1,0 +1,1 @@
+  fixed PY-14204 Run all code in an IPython notebook via normal run dialog  Added Shift-F10 shortcut  

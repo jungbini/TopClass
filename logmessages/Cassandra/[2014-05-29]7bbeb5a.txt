@@ -1,0 +1,1 @@
+  Fix bug with some IN queries missing results  patch by slebresne; reviewed by thobbs for CASSANDRA-7105  

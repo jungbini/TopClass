@@ -1,0 +1,1 @@
+  Test for KT-2155 Run-time error accessing internal value from other package  #KT-2155 fixed  

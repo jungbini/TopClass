@@ -1,0 +1,1 @@
+  js debugger for Chrome switched to new protocol (IDEA-80119)  

@@ -1,0 +1,1 @@
+  fix CFRR iterating through resultset consisting entirely of tombstones patch by jbellis; tested by Niel Drummand and reviewed by Brandon Williams for CASSANDRA-4466  

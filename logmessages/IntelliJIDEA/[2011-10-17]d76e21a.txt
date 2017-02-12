@@ -1,0 +1,1 @@
+  fixed more tests for headless environment  

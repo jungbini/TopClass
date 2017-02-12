@@ -1,0 +1,1 @@
+  fixed PY-2776 Python version compatibility inspection ignores selected version range  

@@ -1,0 +1,1 @@
+  added foreman to Gemfile, fixed two bugs with empty realtime config  

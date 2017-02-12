@@ -1,0 +1,1 @@
+ #123 fixed log when example stop by indentifier.  

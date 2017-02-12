@@ -1,0 +1,1 @@
+  another fix for too eager casting in completion  

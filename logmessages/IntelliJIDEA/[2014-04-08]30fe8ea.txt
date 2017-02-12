@@ -1,0 +1,1 @@
+  fixes for distraction-free & presentation mode: file-editors only & etc.  

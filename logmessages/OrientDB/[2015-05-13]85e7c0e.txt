@@ -1,0 +1,1 @@
+  Issue #2874 compilation error was fixed.  

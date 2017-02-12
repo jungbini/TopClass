@@ -1,0 +1,1 @@
+  (EA-50303) - fixed.  *if target revision is NULL_REVISION return input hgFile  

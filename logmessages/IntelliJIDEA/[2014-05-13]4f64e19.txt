@@ -1,0 +1,1 @@
+  java-xdebugger: IDEA-125037 Debugger: "Watch method return values" setting label is changed on stop  

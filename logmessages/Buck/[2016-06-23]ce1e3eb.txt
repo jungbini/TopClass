@@ -1,0 +1,1 @@
+  fix travis CI  Summary: the discussion is here: https://code.google.com/archive/p/miniz/issues/27  Fixing failing travis build Closes https://github.com/facebook/buck/pull/788  Reviewed By: Coneko  fbshipit-source-id: 458874e  

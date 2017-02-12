@@ -1,0 +1,1 @@
+  NodeBackedModelMap.create() to respect chained filtering  Previously NodeBackedModelMaps create() methods didnt take filtering into account, and allowed creating any type that the underlying factory was able to construct. Now that is fixed. Further update is coming to make the resulting error message nicer.  +review REVIEW-5738  

@@ -1,0 +1,1 @@
+  Add a spin assertion around the check that the release notes contain the same number of fixed issues as the data feed.  My theory here is that we are probing the list part way through the insertion op.  

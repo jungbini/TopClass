@@ -1,0 +1,1 @@
+  Append newline to EOF for .txt test data files  Reverts and fixes 102f0d3  

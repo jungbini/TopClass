@@ -1,0 +1,1 @@
+  GRADLEREV-49 - fix handling of aggregate reports after using test ids as key compared to test name.  

@@ -1,0 +1,1 @@
+  fixed PY-13028 Disable "+" on packages panel if no pip installed  

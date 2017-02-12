@@ -1,0 +1,1 @@
+  fixed BaseException usage in case of python 2.4 (PY-2688)  

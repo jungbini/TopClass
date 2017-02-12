@@ -1,0 +1,1 @@
+  gradle tests: fix for upward compatibility with groovy gradle plugins  

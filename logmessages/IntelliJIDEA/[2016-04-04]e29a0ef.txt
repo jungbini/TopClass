@@ -1,0 +1,1 @@
+  Debugger hangs on Jython with "Attach to subprocess" option enabled (PY-18742)  We shouldn't update sys.modules for the main thread, cause it leads to the second importing 'threading' module, and the new instance of main thread is created. In this case we lose thread id and thread additional info, so it totally breaks the debugger.  

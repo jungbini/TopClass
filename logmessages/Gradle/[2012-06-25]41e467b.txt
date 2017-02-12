@@ -1,0 +1,1 @@
+  GRADLE-2181: Add support for unicode filenames on linux systems. - add test coverage for copying files with unicode encoded name + retaining permissions - fix not working on java7  

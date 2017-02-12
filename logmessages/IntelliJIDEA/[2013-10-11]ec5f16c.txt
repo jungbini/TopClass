@@ -1,0 +1,1 @@
+  fixed PY-11058 False positive Statement expected, found statement break  

@@ -1,0 +1,1 @@
+  making sure the debug flags work, adding rlimit to the helper so we always get cores  

@@ -1,0 +1,1 @@
+  SSR: fix searching for "javadoc annotated methods" predefined pattern (IDEA-163936)  

@@ -1,0 +1,1 @@
+  Fix pattern matching for blacklist at java_binary  Summary: This is a fix for some cases where a pattern is not related with classes and it would get the class transformation.  Test Plan: CI  Reviewed By: Coneko  fbshipit-source-id: c5678a7  

@@ -1,0 +1,1 @@
+  Workaround for bug in Android Plugin: it generates LightFields for files starting from '.' (ex. .DS_Store file) #KT-6625 Fixed  

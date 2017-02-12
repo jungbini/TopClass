@@ -1,0 +1,1 @@
+  Allow empty go_prefix.  Fixes #676.  -- Change-Id: I7474d3e3071c99452b6e1835d6f70671f34b1fd9 Reviewed-on: https://bazel-review.googlesource.com/#/c/2693 MOS_MIGRATED_REVID=112564791  

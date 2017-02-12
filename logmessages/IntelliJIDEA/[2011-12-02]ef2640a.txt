@@ -1,0 +1,1 @@
+  fixed PY-5197 Move statement: inconsistent skipping of empty lines  

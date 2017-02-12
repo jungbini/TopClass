@@ -1,0 +1,1 @@
+  fixed PY-5131 Unresolved reference in PyQt for QtGui module  actually there were 3 problems - cyclic dependency in PyQt4.7+ from QSignalMapper to QtGui - garbage collection of QCoreApplication (see sip pitfalls) - none type of qApp in PyQt5  

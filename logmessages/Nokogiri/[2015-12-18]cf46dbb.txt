@@ -1,0 +1,1 @@
+ioned commit with a simpler fix to set the encoding when html fragments are being parsed  

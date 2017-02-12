@@ -1,0 +1,1 @@
+  updated html lexer in flex in order to fix problems with new version  

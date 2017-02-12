@@ -1,0 +1,1 @@
+  [git] GitMergeProvider: use Set instead of Map<..., Boolean>  Also solves a potential NPE in checking myReverseMap.get(root). Relates to the fix for IDEA-78808  

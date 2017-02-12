@@ -1,0 +1,1 @@
+  Copy all transitive frameworks of the particular bundle types into the bundles  Summary: After removing the phase of copying subframeworks into framework bundles, apps became broken if they are launched outside of Xcode session/derived data. This is because app bundle basically didn't contain these frameworks anymore. This 

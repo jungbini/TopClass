@@ -1,0 +1,1 @@
+e0 [astroshim] fix spark configuration b225dd4 [astroshim] add master yarn 93f7f9c [astroshim] update spark conf a4f3fa3 [astroshim] fix spark2.0 connection error with EMR  

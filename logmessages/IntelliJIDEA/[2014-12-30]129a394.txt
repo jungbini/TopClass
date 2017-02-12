@@ -1,0 +1,1 @@
+  IDEA-134483 Support kotlin inline functions debugging - isInScope fix  

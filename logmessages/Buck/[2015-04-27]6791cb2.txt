@@ -1,0 +1,1 @@
+  Easy: Fix copyrights in Apple testdata files  Summary: Jakub noticed the copyrights in the Apple testdata files were the defaults from Xcode. This fixes them.  Test Plan: ant  

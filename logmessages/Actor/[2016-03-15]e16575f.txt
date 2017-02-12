@@ -1,0 +1,1 @@
+  fix(android): fix fresco - bump gradle version  

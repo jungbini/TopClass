@@ -1,0 +1,1 @@
+  Default shorcuts for context run/debug for Mac. Goto Definition action internalled.  

@@ -1,0 +1,1 @@
+  Update graylog2-rest-client submodule, fixes #869  

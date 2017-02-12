@@ -1,0 +1,1 @@
+  fixed PY-15404 ipython notebook %load does not work  

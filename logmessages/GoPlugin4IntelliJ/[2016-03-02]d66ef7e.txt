@@ -1,0 +1,1 @@
+  Unresolved reference when function return types defined on multiple lines, fix #2349  

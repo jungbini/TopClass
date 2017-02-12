@@ -1,0 +1,1 @@
+  fixed add to watches for set: now whole set is added. that as a result fixes PY-2340  

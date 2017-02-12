@@ -1,0 +1,1 @@
+  fix regression with new xml library when used with svg lib  

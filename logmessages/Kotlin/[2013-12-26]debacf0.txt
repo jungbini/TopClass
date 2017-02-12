@@ -1,0 +1,1 @@
+  Instances of ChainedScope should always have a debugMessage  

@@ -1,0 +1,1 @@
+.interpreter property from test resources  

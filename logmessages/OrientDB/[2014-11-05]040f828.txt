@@ -1,0 +1,1 @@
+ Fix for bug #3022, allowing for mixing Object API and Graph/Document API in one thread  

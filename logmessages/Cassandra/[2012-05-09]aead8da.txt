@@ -1,0 +1,1 @@
+  L0 contents are overlapping (fix for #4142)  

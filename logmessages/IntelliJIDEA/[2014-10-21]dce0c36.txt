@@ -1,0 +1,1 @@
+  IDEA-131592 Menu disappeared after debugging Node application  

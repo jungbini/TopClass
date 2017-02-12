@@ -1,0 +1,1 @@
+ck in jdbc document  (cherry picked from commit f2702044709146285d7053d37b5138f60cf21729) Signed-off-by: Jongyoul Lee <jongyoul@apache.org>  

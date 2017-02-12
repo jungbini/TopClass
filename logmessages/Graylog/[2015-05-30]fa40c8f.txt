@@ -1,0 +1,1 @@
+  style users list a bit more. fixes #1359  

@@ -1,0 +1,1 @@
+  VcsUtil cleanup.  1. update vcs-api/VcsUtil with the fix (d3d24628) from vcs-impl/VcsUtil. 2. Create vcs-impl/VcsImplUtil - the VcsUtil extension with methods that need access to vcs-impl classes. 2. Move vcs-api/VcsUtil.showErrorMessage to the new vcs-impl/VcsImplUtil.  

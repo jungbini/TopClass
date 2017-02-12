@@ -1,0 +1,1 @@
+  cpp: fix "commom" typo in AddLoggingArgs() documentation  The correct spelling of it, is, of course, "common".  While at this, this also fix a mistaken usage of "from" instead of "form" in ConvertPath() documentation.  -- Change-Id: If93984b57da0c98b6dfe4ca70fd4158bd9e1a861 Reviewed-on: https://bazel-review.googlesource.com/#/c/3500 MOS_MIGRATED_REVID=120921796  

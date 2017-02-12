@@ -1,0 +1,1 @@
+  HADOOP-11429. Findbugs warnings in hadoop extras. Contributed by Varun Saxena.  

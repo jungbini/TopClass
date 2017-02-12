@@ -1,0 +1,1 @@
+  fix(ios): fixed status bar style after search  

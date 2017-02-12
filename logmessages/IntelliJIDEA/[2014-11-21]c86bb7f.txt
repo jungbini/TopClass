@@ -1,0 +1,1 @@
+  corrected method header text range calculation to work correctly with constructors (fixes IDEA-132781)  

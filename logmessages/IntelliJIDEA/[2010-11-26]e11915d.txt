@@ -1,0 +1,1 @@
+  Stub building performance test (test data to be updated after performance fix propagation)  

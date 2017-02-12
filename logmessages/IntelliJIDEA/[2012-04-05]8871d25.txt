@@ -1,0 +1,1 @@
+  fixed PY-6043 Joining Lines cause discreet elements to be joined  

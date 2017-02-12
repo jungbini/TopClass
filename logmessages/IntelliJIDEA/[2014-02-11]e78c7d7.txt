@@ -1,0 +1,1 @@
+  fix problem when action is disabled in popup menu, but working from keyboard shortcut  

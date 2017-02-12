@@ -1,0 +1,1 @@
+  fixed name of win inst. for pycharm education edition.  

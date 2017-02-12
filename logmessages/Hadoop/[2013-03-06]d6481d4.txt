@@ -1,0 +1,1 @@
+  merge -c 1453501 from trunk to branch-2 to fix YARN-429. capacity-scheduler config missing from yarn-test artifact. Contributed by Siddharth Seth.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1453502 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  failing converters could break extractors. fixes #268  

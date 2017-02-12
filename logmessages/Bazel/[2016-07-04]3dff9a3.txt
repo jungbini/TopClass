@@ -1,0 +1,1 @@
+  Adds a GPL warning to the binary installer  Also remove some bashism to fix #1456.  -- Change-Id: I374f1290a3eb9e9e5bcc48e19a1c0ab1c5bdaa99 Reviewed-on: https://bazel-review.googlesource.com/#/c/3952/ MOS_MIGRATED_REVID=126572632  

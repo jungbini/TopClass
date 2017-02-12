@@ -1,0 +1,1 @@
+  KAFKA-3582; Remove references to Copcyat from Kafka Connect property files  junrao  Author: Liquan Pei <liquanpei@gmail.com>  Reviewers: Jun Rao <junrao@gmail.com>  Closes #1236 from Ishiihara/minor-fix  

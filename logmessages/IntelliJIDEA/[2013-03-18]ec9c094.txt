@@ -1,0 +1,1 @@
+  fixed PY-7015 Auto-detect docstring format while rendering  

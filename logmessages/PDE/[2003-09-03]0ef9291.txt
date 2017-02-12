@@ -1,0 +1,1 @@
+  disabled debug flag.. caused NullPointerException if prog was empty  

@@ -1,0 +1,1 @@
+  fixed PY-2832 Python 3.x - "Statement can be replaced with function call ignores" arguments  

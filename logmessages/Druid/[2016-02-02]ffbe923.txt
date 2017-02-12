@@ -1,0 +1,1 @@
+ Merge pull request #2371 from metamx/fix-2335  remove convertProperties  commit ffbe923fb5af2795726e450ae74580facfff3ace  remove convertProperties  fixes https://github.com/druid-io/druid/issues/2335  

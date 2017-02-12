@@ -1,0 +1,1 @@
+  fixed PY-5130 Inspection 'Code compatibility inspection' false for Python version 2.6  

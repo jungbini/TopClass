@@ -1,0 +1,1 @@
+  LRU cache guarantee to keep size under limit (#3510)  * LRU cache guarantee to keep size under limit  * address comments  * fix failed tests in jdk7  

@@ -1,0 +1,1 @@
+  HOTFIX: Added check for metadata unavailable  Author: Eno Thereska <eno.thereska@gmail.com>  Reviewers: Damian Guy <damian.guy@gmail.com>, Ismael Juma <ismael@juma.me.uk>  Closes #1887 from enothereska/hotfix-metadata-unavailable  

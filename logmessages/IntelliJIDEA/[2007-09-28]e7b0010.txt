@@ -1,0 +1,1 @@
+  A bit more correct fix to cleaning clear files.  

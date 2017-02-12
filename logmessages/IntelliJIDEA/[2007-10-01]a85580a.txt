@@ -1,0 +1,1 @@
+  fix NPE if package containing file with open history has been deleted (IDEADEV-21878)  

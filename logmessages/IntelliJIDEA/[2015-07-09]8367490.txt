@@ -1,0 +1,1 @@
+  IDEA-142416 (fixed parsing of annotated fully-qualified types in assignment statements)  

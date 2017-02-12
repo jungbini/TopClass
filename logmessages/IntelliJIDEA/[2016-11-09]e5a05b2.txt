@@ -1,0 +1,1 @@
+  potential fix IDEA-163701 No warning from enabled inspection after refactoring and changing inspection profile settings  

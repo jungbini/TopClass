@@ -1,0 +1,1 @@
+  Fixed buffer expansion bug in A3D  

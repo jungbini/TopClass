@@ -1,0 +1,1 @@
+  Some fixes to DistributionFactory to give better error messages when an invalid distribution or installation is provided.  

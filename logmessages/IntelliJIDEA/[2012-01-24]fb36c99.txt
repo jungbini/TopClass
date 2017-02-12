@@ -1,0 +1,1 @@
+  don't show autopopup completion if the currently entered prefix is a complete filename (IDEA-78996)  

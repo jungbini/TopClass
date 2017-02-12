@@ -1,0 +1,1 @@
+  fix PsiCheckerTestGenerated according to removed "property with backing field" highlighting  

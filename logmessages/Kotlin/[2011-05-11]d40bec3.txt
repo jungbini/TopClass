@@ -1,0 +1,1 @@
+  JET-26 Check bounds in generic types: fixed substitution problems  

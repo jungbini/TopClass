@@ -1,0 +1,1 @@
+  Configure Client Properties dialog bugfixes (IDEADEV-6556 and others)  

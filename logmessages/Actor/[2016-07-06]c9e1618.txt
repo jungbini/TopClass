@@ -1,0 +1,1 @@
+  fix(android): fix compile errors, default hackable share menu fields  

@@ -1,0 +1,1 @@
+  SQL fixed syntax on inner select without a target eg. select from (select foo())  

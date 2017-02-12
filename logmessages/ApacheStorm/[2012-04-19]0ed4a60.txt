@@ -1,0 +1,1 @@
+ added close method to opaque coordinator, fixed critical bug in opaque emitted causing duplication of messages when pipelining batches  

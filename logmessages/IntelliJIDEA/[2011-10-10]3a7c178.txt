@@ -1,0 +1,1 @@
+  macros fix: ctrl-f + type + esc doesnt work  

@@ -1,0 +1,1 @@
+  new debugger ui: issue with minimized views for the "restore layout" action fixed  

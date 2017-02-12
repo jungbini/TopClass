@@ -1,0 +1,1 @@
+  Added MIN_JAVA_VERSION directive for intentions and fixed failed test(convertIfToAssert/inapplicableCauseSent.kt).  

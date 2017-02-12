@@ -1,0 +1,1 @@
+  KAFKA-3290: fix race condition with worker task shutdown and mock validation  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Gwen Shapira  Closes #1008 from hachikuji/KAFKA-3290-REVISITED  

@@ -1,0 +1,1 @@
+ Introduce method defined on non-local type inspection (fixes #2031)  

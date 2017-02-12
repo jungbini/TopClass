@@ -1,0 +1,1 @@
+  PY-21245 Handle quotes in lookup items inside multiline string literals better  Namely, allow lookup items that contain quotes in some cases if the containing string literal is multiline, hence there is still a suitable type of quotes to wrap injected string literal into.  The orignal error described in the issue has been fixed earlier as part of other changes for PY-21161.  

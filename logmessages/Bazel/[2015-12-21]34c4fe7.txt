@@ -1,0 +1,1 @@
+  Fixes a bug for the case where a protobuf is used to supply arguments, where bundle id, if not specified, would have a value of the empty string instead of null.  -- MOS_MIGRATED_REVID=110724117  

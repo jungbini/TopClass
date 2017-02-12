@@ -1,0 +1,1 @@
+  [scala] fix declared dependencies.  Without those dependencies, scala builds fails with sandboxing enabled  -- Change-Id: I64d262ada6ab3df210e72eba53305febecfbdbaa Reviewed-on: https://bazel-review.googlesource.com/#/c/2660/ MOS_MIGRATED_REVID=111952523  

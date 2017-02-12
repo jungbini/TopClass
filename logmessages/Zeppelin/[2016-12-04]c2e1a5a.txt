@@ -1,0 +1,1 @@
+4e64 [Khalid Huseynov] add isEmpty() 6650de8 [Khalid Huseynov] fix null -> EMPTY  

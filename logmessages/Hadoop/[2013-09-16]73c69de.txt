@@ -1,0 +1,1 @@
+  Merge -c 1523660 from trunk to branch-2 to fix MAPREDUCE-5493. Cleanup in-memory & on-disk segments to prevent leak on shuffle completion. Contributed by Jason Lowe.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1523661 13f79535-47bb-0310-9956-ffa450edef68  

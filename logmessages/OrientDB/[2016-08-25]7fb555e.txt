@@ -1,0 +1,1 @@
+  fixed bug on double/float type detection , issue #6595  

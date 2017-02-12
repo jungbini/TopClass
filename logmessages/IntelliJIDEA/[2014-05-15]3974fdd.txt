@@ -1,0 +1,1 @@
+  Fixed console debug for remote interpreter (PY-12959).  

@@ -1,0 +1,1 @@
+  Multi-platform navigation fix: from class to type alias & vice versa  

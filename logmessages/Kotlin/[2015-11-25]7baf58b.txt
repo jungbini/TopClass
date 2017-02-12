@@ -1,0 +1,1 @@
+  Refactoring: mark all fields in PositionStrategies with @JvmFileld and fix warnings  

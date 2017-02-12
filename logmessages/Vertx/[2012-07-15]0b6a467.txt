@@ -1,0 +1,1 @@
+  JsonArray.toArray() converts JsonObjects to Maps (fixes #287)  

@@ -1,0 +1,1 @@
+  SVN: fix svn configurable's isModified (SSH timeouts) = fix Configurables test  

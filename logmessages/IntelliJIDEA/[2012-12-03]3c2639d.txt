@@ -1,0 +1,1 @@
+  IDEA-96441 ugly 'Done' button in debugger popup header  

@@ -1,0 +1,1 @@
+  platform: race between JNA and environment loading fixed  https://android-review.googlesource.com/#/c/67352/  

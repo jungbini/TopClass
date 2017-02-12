@@ -1,0 +1,1 @@
+  IDEA-121667 nashorn: quick evaluate, watches, evaluate (thread assert exceptions not yet elimanated completly) get rid of code duplication  introduce PromiseDebuggerEvaluator  

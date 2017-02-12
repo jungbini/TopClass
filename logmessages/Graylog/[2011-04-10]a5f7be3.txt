@@ -1,0 +1,1 @@
+ Merge branch 'hotfix/doubled-alarm_active'  commit a5f7be3bafba0ea62f987700f08e395a460e7fb0  fix all the reader/admin stuff. this now has correct right validations for the new scoping stuff, including one ugly fix in the application layout menu (cc @cipherpunk) #NO_ISSUE  

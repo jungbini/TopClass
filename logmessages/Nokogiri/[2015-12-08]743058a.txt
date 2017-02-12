@@ -1,0 +1,1 @@
+ originaly tested whether the passed document has a ruby object in '_private' which is unnecessary since we return the node's ruby object if one exists. This commit moves the conditional to the beginning of the function and simplifies it.a new object will be created and attach to the document, otherwise.  

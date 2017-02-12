@@ -1,0 +1,1 @@
+  IDEA-102508 error status of run configuration is not updated after fix Get rid of extra repaints  

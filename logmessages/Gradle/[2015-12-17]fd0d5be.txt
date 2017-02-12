@@ -1,0 +1,1 @@
+  Use RetryRule in DefaultFileWatcherFactoryTest  - JDK's WatchService seems to miss changes sporadically - might be some WatchService bug - f.e. http://blog.omega-prime.co.uk/?p=161&v=3  +review REVIEW-5709  

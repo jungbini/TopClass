@@ -1,0 +1,1 @@
+  fixed tooltip for refresh courses action  

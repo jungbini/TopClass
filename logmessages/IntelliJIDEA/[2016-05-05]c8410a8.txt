@@ -1,0 +1,1 @@
+  IDEA-155443 Selecting completion variant with Ctrl+Shift+Enter doesn't work in debugger Evaluate popup  

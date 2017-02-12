@@ -1,0 +1,1 @@
+  Fixed bug on temporary records as return of projections.  From the original mail: "The problem was in the temporary RID contained in the $cars (select @rid from $current). You've a temporary RID (made by projections) with inside the same RID. OrientDB believed that was a regular reference to a invalid record..."  

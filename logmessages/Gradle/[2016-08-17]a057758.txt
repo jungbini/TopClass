@@ -1,0 +1,1 @@
+  Fix too coarse input declaration in native binaries rules  - promote ProjectLayout registration from JvmComponentPlugin into ComponentModelBasePlugin - use ProjectLayout as input instead of File buildDir in native binaries rules  This fixes GRADLE-3523 and allow build authors to register root nodes of type File.  +review REVIEW-6171  

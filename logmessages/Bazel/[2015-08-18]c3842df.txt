@@ -1,0 +1,1 @@
+  CI scripts: another fix after moving from .ci/ to scripts/ci  -- MOS_MIGRATED_REVID=100915378  

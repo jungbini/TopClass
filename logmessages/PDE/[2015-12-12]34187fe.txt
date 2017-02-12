@@ -1,0 +1,1 @@
+  Fix minor autoformatter bugs. Fixes #4185.  Enums without semicolons and labels that aren't in a method body.  

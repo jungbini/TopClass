@@ -1,0 +1,1 @@
+  Fixed nasty bug on lazy unmarshalling of collections  

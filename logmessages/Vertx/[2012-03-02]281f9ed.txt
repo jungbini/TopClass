@@ -1,0 +1,1 @@
+  added some notes on cluster configuration and bug in cluster default host  

@@ -1,0 +1,1 @@
+  project structure errors: fixed escaped symbols for one-line error view  

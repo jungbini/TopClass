@@ -1,0 +1,1 @@
+  [#160] Revert the fix for #160 for the branch '3'  - Fix will be part of 4.x  

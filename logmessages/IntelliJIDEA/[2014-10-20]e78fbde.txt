@@ -1,0 +1,1 @@
+  fixed PY-14168 IPython Notebook: collapsed code cell in new files  

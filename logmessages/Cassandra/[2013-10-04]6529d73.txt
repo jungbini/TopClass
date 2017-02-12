@@ -1,0 +1,1 @@
+  fix CME in StreamResultFuture patch by Mikhail Stepura; reviewed by jbellis for CASSANDRA-6129  

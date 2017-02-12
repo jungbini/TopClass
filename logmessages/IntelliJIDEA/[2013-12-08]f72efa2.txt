@@ -1,0 +1,1 @@
+  Delete help button from postfix completion configurable  

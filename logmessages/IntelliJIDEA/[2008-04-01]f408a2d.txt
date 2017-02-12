@@ -1,0 +1,1 @@
+  editor tabs: structure view update fixed  

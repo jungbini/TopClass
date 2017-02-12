@@ -1,0 +1,1 @@
+ Merge pull request #3169 from joelmoniz/bugfix-replaceLibHeaderError  Contribution Manager up and running again  commit 88b9e12af48c86cedac3051ffc2f004051724797  fix for #3074, opening prefs from shortcut marks sketch as modified  

@@ -1,0 +1,1 @@
+  Fixed bug on SQL UPDATE with ADD and PUT operators and JSON.  Now this add a document inside a collection: > update #63:1 add comments = { '@type' : 'd', 'text' : 'another test', 'id' : 3232 }  

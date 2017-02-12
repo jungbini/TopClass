@@ -1,0 +1,1 @@
+  Refactor AbstractMultiFileJvmBasicCompletionTest to extend CompletionTestCase  Extract common code from JetFixtureCompletionBaseTestCase to CompletionTestUtil.kt Reason for this change is that I couldn't get the check that prohibits tree loading to work with fixture test case  

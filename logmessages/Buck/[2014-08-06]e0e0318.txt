@@ -1,0 +1,1 @@
+  Fix bug in IncrementingFakeClock.  Summary: Fakes are fun!  This one had a bug: `IncrementingFakeClock.nanoTime()` would always increment the fake clock by 'increment' each time it was called, but `IncrementingFakeClock.currentTimeMillis()` only incremented the fake clock by 1 ns each time it was called.  Test Plan: Unit test included.  

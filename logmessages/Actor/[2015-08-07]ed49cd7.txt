@@ -1,0 +1,1 @@
+  fix(server): increased session idle timeout to 40 min  

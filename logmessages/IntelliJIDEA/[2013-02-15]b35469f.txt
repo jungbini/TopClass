@@ -1,0 +1,1 @@
+  removed unwanted spacer fix a PY-8779 Test statistics table is not anchored properly  

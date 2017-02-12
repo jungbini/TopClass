@@ -1,0 +1,1 @@
+  fixed GRADLE-1415: 'eclipse' plugin with 'war' plugin fails with class cast exception  

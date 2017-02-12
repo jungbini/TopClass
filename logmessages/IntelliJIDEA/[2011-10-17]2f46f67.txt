@@ -1,0 +1,1 @@
+  fixed PY-4773 Mako: SyntaxError: false positive for comments inside python code blocks  

@@ -1,0 +1,1 @@
+  fixed enabling of push listener in case of pool create by OServerAdmin api  

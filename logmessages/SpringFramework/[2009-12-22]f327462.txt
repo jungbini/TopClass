@@ -1,0 +1,1 @@
+  STS-723: fixed ViewControllerBeanDefinitionParser to not rely on instance state for handler mapping and handler adapter bean names  

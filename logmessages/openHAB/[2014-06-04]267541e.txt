@@ -1,0 +1,1 @@
+ Merge pull request #1113 from paulianttila/bug-fixes  Configuration update fixes to several bindings  commit 267541e9db01a3032793395ea42e0b9522690065  Squeezebox bugs corrections (#1077 + #1082) + some cleaning  

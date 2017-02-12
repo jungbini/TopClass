@@ -1,0 +1,1 @@
+  Quick Fixes: Implement 'Move to constructor parameters' quick-fix #KT-6604 In Progress  

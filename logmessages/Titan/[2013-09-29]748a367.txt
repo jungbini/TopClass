@@ -1,0 +1,1 @@
+  Adding MemoryTests @Category annotation  Also found and fixed an undocumented maven feature/bug related to profile activation that's been bothering me for a while. The behavior and a workaround is detailed in a comment in titan-cassandra/pom.xml.  

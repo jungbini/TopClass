@@ -1,0 +1,1 @@
+ Use build setup type ids in test.  Also fixes failing test after type rename.  

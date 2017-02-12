@@ -1,0 +1,1 @@
+  [java] fixes JRT file system refresh on Windows  

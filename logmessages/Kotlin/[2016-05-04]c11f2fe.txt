@@ -1,0 +1,1 @@
+  JS/Inlining: fix bug in temporary assignment elimination which causes excess removal of assignment statement. When there is a set of temporary variables that receive same value in 

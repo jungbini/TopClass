@@ -1,0 +1,1 @@
+  fixes after merge rename JetTypeMapper constants removed JetStandardLibraryNames class check Nothing on equals (removed mapping from Nothing to Nothing)  

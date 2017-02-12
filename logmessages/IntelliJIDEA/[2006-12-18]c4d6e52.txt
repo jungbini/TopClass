@@ -1,0 +1,1 @@
+  eliminate SuspendContext leak when running on and debugging with jdk 1.6  

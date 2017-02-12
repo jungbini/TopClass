@@ -1,0 +1,1 @@
+  finish ltext and rtext debugging  

@@ -1,0 +1,1 @@
+  git4idea: fixed bug with generating scripts on unix platforms  

@@ -1,0 +1,1 @@
+  fixed PY-2912 Add red curly underline to name in tab for po files when there're errors in file  

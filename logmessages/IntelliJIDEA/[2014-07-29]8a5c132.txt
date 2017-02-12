@@ -1,0 +1,1 @@
+  better fix for IDEA-88643 delete item from list of breakpoints by pressing delete key: selection should not return to position 1.  

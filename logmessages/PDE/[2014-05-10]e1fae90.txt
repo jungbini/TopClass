@@ -1,0 +1,1 @@
+  JNA fix for OS X command line  

@@ -1,0 +1,1 @@
+  PY-21273 Fixing deadlock on debugging Python script in docker container  Critical sections in ClientModeDebuggerTransport under mySocketObject shortened, myState taken out of them completely.  

@@ -1,0 +1,1 @@
+  Move JDWPUtil to integ test sources  This way we have the tools.jar dependency only for the integration test configuration local to the launcher project and it doesn't pollute the whole project via test fixtures  +review REVIEW-6330  

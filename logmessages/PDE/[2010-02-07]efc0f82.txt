@@ -1,0 +1,1 @@
+  add encoding and disable ant libs on build scripts, working to fix up windows version  

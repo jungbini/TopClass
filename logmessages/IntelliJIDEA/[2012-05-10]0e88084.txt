@@ -1,0 +1,1 @@
+  fixed PY-6513 Filtering the Install Packages dialog does not update description correctly  

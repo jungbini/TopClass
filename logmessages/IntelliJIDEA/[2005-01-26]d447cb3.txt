@@ -1,0 +1,1 @@
+  fixed: 1. no stackframes for threads on first pause; 2. pause and then step - locks debugger  

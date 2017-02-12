@@ -1,0 +1,1 @@
+  replace homegrown matching with expressions provided by the semver library  fix missing SUT version number, it needs to be static inside the BaseRestTest class  

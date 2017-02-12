@@ -1,0 +1,1 @@
+  IDEA-90594 Android designer: keep Designer mode consistent. re-fixed for all editor providers  

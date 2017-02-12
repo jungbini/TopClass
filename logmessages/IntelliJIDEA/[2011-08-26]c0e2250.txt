@@ -1,0 +1,1 @@
+  implemented automatic root detection for javascript libraries to fix exception  

@@ -1,0 +1,1 @@
+  ninja: fix isDecomissioning check from CASSANDRA-12008  

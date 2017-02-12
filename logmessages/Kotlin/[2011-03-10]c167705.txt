@@ -1,0 +1,1 @@
+  Resolution in generic classes fixed  

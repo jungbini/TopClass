@@ -1,0 +1,1 @@
+ move model building detection to better location - fixes classycle failure  +review REVIEW-5509  

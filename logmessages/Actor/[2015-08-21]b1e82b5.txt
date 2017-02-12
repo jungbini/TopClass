@@ -1,0 +1,1 @@
+  fix(web): fix toolbar text overflow and modal window display in firefox;  

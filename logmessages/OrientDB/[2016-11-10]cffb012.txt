@@ -1,0 +1,1 @@
+  fixed missing close and erron in case of script engine reload, issue #6876  

@@ -1,0 +1,1 @@
+  fix NPE from circular dependency on compaction strategy  

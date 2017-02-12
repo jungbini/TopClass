@@ -1,0 +1,1 @@
+  Fix createSymlinksForInputs to correctly handle existing files that are not symlinks.  This bug caused rare NotASymlinkException exceptions when using sandboxed workers.  -- MOS_MIGRATED_REVID=136010526  

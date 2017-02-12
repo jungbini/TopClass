@@ -1,0 +1,1 @@
+  fix(web): stub mixpanel in case of ad blocker  

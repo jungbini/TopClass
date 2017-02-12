@@ -1,0 +1,1 @@
+  LexicalizedParser: fix small bug in param passed to ArgUtils; TreeAnnotatorAndBinarizer, PostSplitter: cleanup, make things final; Options, TrainOptions, TreeAnnotator: add support for Strahler number subcategorization; TreebankAnnotator: add todo saying useless.  

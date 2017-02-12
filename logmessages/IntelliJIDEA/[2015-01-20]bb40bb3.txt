@@ -1,0 +1,1 @@
+  IDEA-135419 Git: Force Push:  html tags from the confirmation dialog fixed  

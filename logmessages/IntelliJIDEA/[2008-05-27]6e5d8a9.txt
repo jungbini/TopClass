@@ -1,0 +1,1 @@
+  IDEADEV-26820 fixed ([#9368] Throwable: DirectoryIndexImpl.checkAvailability) - SVN change list will go for VCS root only on request, not in init stage  

@@ -1,0 +1,1 @@
+  EA-42827 postpone displaying ballons until the application is loaded to fix notification-induced cyclic component initialization  

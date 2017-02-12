@@ -1,0 +1,1 @@
+ Merge pull request #452 from dlsniper/fix-sdk  Improve SDK creation so that projects can be created in first directory of GOPATH (fixes #441)  commit 48001f9ae74ef5510a4856beccc7f39adab7b9a6  for statement fix  

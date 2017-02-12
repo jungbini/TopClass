@@ -1,0 +1,1 @@
+  Ignore CachedKotlinTaskExecutionIntegrationTest on Windows  Until the Kotlin issue is fixed.  +review REVIEW-6324  

@@ -1,0 +1,1 @@
+  Fixed bug on using RID with the # as prefix. Added a new test case  

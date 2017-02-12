@@ -1,0 +1,1 @@
+  DefaultIdeaErrorLogger - wrap exceptions - exception classes leak fix  

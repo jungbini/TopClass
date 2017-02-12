@@ -1,0 +1,1 @@
+  RFXCOM binding: fixed sequence number logging.  

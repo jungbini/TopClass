@@ -1,0 +1,1 @@
+  fixed issue related with spaces in folder names in generated nsis scripts.  

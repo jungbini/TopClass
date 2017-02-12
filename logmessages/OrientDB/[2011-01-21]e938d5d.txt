@@ -1,0 +1,1 @@
+  - Implemented db.load(rid, fetchplan). This is fundamental in HTTP REST protocol. - Fixed bug about fetch plan specifying a depth level > -1  

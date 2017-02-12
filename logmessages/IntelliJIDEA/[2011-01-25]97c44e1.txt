@@ -1,0 +1,1 @@
+  IDEA-64456 do not check process name, if it is waiting for debugger  

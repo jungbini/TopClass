@@ -1,0 +1,1 @@
+  HBASE-2692 Some more things that have been fixed by hbase-2692  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@991687 13f79535-47bb-0310-9956-ffa450edef68  

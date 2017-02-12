@@ -1,0 +1,1 @@
+  KAFKA-2676: Fix incorrect package name in tests  Also fixed a couple of other tests with the same issue.  This is my original work and I license the work to the project under the project's open source license  Author: Kim Christensen <kich@mvno.dk>  Reviewers: Ismael Juma  Closes #828 from kichristensen/KAFKA-2676  

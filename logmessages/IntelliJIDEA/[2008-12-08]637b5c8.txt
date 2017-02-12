@@ -1,0 +1,1 @@
+  recursive constructor invocation fix while generating Groovy->Java stubs  

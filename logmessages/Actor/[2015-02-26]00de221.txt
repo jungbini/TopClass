@@ -1,0 +1,1 @@
+  fix(android): Fixed references to removed progress view  

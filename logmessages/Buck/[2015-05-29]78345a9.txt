@@ -1,0 +1,1 @@
+  Make DebugPathSanitizer fields non-optional  Summary: * `DebugPathSanitizer` is currently an optional field of `CxxPlatform` and cxx rules and steps. It is always present in the production code and almost always absent in the test code. Make the `DebugPathSanitizer` fields non-optional since it adds unneeded complexity, introduces 

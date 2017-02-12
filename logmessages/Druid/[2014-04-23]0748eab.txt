@@ -1,0 +1,1 @@
+ batch ingestion fixes  1) Fix path when mapped output is compressed 2) Add number of reducers to the determine hashed partitions job manually 3) Add a way to disable determine partitions and specify shardCount in HashedPartitionsSpec  

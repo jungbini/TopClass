@@ -1,0 +1,1 @@
+  Fixed bug with visited markers in CFG backwards traversal (PY-3587)  

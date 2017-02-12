@@ -1,0 +1,1 @@
+  SpellChecker:fix IdentifierSplitter (support numbers in names IDEA-53401)  

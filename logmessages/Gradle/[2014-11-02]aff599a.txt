@@ -1,0 +1,1 @@
+  daemon monitoring - reworked integ test  - This should fix the CI. I cannot really execute failing leaky build because teamcity thinks the entire build is failed when anywhere in the log GC overhead String is found. - After this change, we have the same level of validation and we have 1 less test, which is pretty cool  

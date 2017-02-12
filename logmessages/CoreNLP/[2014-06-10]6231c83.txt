@@ -1,0 +1,1 @@
+  Change debugOutputSeconds to debugOutputFrequency to make it more general. In the case of the DVParser, make it so that it indicates how many training batches to cycle through between intermediate models  

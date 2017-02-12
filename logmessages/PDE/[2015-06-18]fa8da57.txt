@@ -1,0 +1,1 @@
+  clearing brush, back on the EDT, fix focus issues #3380 #3389  

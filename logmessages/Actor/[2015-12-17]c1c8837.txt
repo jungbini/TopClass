@@ -1,0 +1,1 @@
+  fix(server): add blocking to function with IO code  

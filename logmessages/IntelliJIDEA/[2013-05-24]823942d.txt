@@ -1,0 +1,1 @@
+  fix virtual file comparator in case of deleted files  

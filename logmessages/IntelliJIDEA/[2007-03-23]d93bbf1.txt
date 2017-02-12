@@ -1,0 +1,1 @@
+  fix IDEADEV-15335, IDEADEV-15338, correctly (though relatively slow) create folders with copying the content.  

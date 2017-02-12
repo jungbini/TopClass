@@ -1,0 +1,1 @@
+  isOptimizedScrollingEnabled: fix incorrect "!" and reuse the base logic  

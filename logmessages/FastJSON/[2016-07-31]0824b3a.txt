@@ -1,0 +1,1 @@
+  bug fied for special char jsonpath. issue #747  

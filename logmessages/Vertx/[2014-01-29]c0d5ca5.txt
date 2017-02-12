@@ -1,0 +1,1 @@
+  Make sure all buffer leaks are logged during the testsuite run  * Also fix a leak in a test * Use the correct allocator for the dnsclient  

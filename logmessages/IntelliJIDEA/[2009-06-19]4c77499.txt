@@ -1,0 +1,1 @@
+  TreeUi: project view extra expansion when selecting fixed  

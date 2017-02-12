@@ -1,0 +1,1 @@
+  backport cache size fix for 100% from 0.7.  patch by Jon Hermes; reviewed by jbellis for CASSANDRA-1129  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.6@949382 13f79535-47bb-0310-9956-ffa450edef68  

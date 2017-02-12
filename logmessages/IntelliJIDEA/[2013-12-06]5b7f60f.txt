@@ -1,0 +1,1 @@
+  remove outdated and buggy (in case of library code) property java.debugger.xBreakpoint.onlyIfHasFacets  

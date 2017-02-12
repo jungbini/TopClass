@@ -1,0 +1,1 @@
+  Fix a bug in the optimization for turning "obj == null" into "!obj": - Expression result nodes were not properly handled. - Nullable types were, embarrassingly, not handled. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=125638199  

@@ -1,0 +1,1 @@
+  fix javadoc for com.intellij.psi.JavaPsiFacade.isInPackage()  

@@ -1,0 +1,1 @@
+  Write to trace in case class qualifier is a short reference to default object  This allows to fix some cases when there is a 

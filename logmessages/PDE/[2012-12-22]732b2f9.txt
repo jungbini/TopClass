@@ -1,0 +1,1 @@
+  more fixes from Manindra (issue #1504)  

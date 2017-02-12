@@ -1,0 +1,1 @@
+  IDEA-156380 Spellchecker marks `<tbody>` and `<thead>` as typos in .jsp files: fix reverted  

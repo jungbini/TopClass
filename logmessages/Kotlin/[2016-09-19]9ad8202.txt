@@ -1,0 +1,1 @@
+  Partial build fix (new convert to expression body opportunity in quick-fixes)  

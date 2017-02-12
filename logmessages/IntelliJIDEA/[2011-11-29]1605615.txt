@@ -1,0 +1,1 @@
+  IDEA-77786: XSLT debug: on debugging 2.0 stylesheet highlighting in Evaluate Expression and Watches could follow 2.0 syntax  

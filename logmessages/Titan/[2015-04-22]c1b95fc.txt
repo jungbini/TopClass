@@ -1,0 +1,1 @@
+  Added multi-cardinality indexing in ES. https://github.com/thinkaurelius/titan/issues/593  Also fix Lucene test failures  

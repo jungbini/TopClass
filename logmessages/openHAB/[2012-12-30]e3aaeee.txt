@@ -1,0 +1,1 @@
+  fixed bug when setting the initial color state  

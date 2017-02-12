@@ -1,0 +1,1 @@
+  some debugger actions added as transparent  

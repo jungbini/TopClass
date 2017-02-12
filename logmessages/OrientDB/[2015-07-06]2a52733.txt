@@ -1,0 +1,1 @@
+  fixed issue #4319 - Query parsing problem  

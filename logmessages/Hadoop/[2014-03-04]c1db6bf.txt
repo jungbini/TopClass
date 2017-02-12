@@ -1,0 +1,1 @@
+  HDFS-6040. fix DFSClient issue without libhadoop.so and some other ShortCircuitShm cleanups (cmccabe)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1573885 13f79535-47bb-0310-9956-ffa450edef68  

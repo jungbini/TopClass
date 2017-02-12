@@ -1,0 +1,1 @@
+  "configure template directories" quickfix for unresolved template reference is also available in Flask  

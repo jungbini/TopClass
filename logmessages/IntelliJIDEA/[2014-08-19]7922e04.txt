@@ -1,0 +1,1 @@
+  IDEA-118777 NPE is thrown on attempt to close Debug Window that is deattached from panel  

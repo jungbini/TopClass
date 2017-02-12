@@ -1,0 +1,1 @@
+  added sax parser for html in jruby - fixes issue #1147 (tests included)  

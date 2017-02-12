@@ -1,0 +1,1 @@
+  False alarm for lower-end character literals in possible loss of precision inspecton fixed.  

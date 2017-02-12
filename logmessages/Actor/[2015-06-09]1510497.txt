@@ -1,0 +1,1 @@
+  android(fix) notification wrong avatar placeholder in chat with no avatar  

@@ -1,0 +1,1 @@
+  remote input io periodicals and replace them with metricsstore component  fixes #1214  

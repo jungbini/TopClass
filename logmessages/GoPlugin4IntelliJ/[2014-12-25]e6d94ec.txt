@@ -1,0 +1,1 @@
+  fix #1042: Assignment to a variable should not be considered as usage  

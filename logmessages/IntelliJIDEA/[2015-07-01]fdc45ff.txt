@@ -1,0 +1,1 @@
+  vcs: fix double click listener in ChangesBrowser  * check for checkbox area only if checkboxes are shown  

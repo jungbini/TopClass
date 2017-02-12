@@ -1,0 +1,1 @@
+  IDEA-69048: revert when no occurrences chosen fixed  

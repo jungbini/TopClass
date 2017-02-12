@@ -1,0 +1,1 @@
+ Merge pull request #4250 from calvinjia/format-fix-1.3  [SMALLFIX] Exit at the end of format  commit 4d3ec190986bd7a21740ed558b015ab4ff6d40ec  fix java.lang.UnsatisfiedLinkError: Native Library /usr/java/jdk1.8.0_92/jre/lib/amd64/libjaas_unix.so already loaded in another classloader  

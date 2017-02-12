@@ -1,0 +1,1 @@
+  fixed bug in django formatter (PY-1160)  

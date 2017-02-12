@@ -1,0 +1,1 @@
+  delete empty, no longer used indices automatically. fixes #SERVER-142  

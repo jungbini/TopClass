@@ -1,0 +1,1 @@
+  make error status open browser when url is present (fixes #3471)  

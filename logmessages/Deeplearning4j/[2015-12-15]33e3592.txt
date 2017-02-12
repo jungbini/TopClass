@@ -1,0 +1,1 @@
+ Merge pull request #956 from deeplearning4j/DistributedLookupTable_implementation  AbstractVectors, ParagraphVectors and bunch of minor fixes and improvements over existing codebase.  commit 33e35921795a2efe520ade720a50e30945220f5a  Minor fixes over current branch  

@@ -1,0 +1,1 @@
+  LightAdvHighlightingTest.testLocalVariableInitialization test fix  

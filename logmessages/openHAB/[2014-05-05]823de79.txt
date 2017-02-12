@@ -1,0 +1,1 @@
+  Add debug message when all bindings updated.  

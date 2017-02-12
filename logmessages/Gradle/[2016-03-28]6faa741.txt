@@ -1,0 +1,1 @@
+  Simplified findbugs worker implementation and adjusted int test expectations for improvements to failure reporting.  

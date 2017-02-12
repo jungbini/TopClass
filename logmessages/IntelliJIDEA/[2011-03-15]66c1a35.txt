@@ -1,0 +1,1 @@
+  fixed PY-3095 "Redundant parentheses" should react on parentheses around side of 'and' or 'or' boolean expression  

@@ -1,0 +1,1 @@
+  IDEA-72296: XSLT debug: when execution point goes off the view the editor does not scroll  

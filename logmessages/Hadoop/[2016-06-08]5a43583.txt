@@ -1,0 +1,1 @@
+  YARN-5080. Addendum fix to the original patch to fix YARN logs CLI. Contributed by Xuan Gong  

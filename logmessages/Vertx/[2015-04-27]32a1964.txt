@@ -1,0 +1,1 @@
+ Explicitly close all connections and unregister all handlers when event bus closes. ConcurrentHashSet fix.  

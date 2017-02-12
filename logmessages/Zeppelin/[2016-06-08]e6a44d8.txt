@@ -1,0 +1,1 @@
+n. Allow visually selecting table text. 7bc85b5 [Hao Xia] Table rendering improvements: * Render up to 5 digits after decimal point * Allow visual selection of table cells * Default to text renderer  

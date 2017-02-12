@@ -1,0 +1,1 @@
+  fixed positive fault of base method signature matching inspection in case of named params and **kwargs (PY-1083)  

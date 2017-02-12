@@ -1,0 +1,1 @@
+  [r=anton] - fix INRE in todo view - on file types changes schedule all indixes rebuild in dumb mode rather than simply marking them as required_rebuild  

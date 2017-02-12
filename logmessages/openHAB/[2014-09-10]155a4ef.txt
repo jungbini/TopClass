@@ -1,0 +1,1 @@
+  final update: added support for serial terminal tested tcp reconnection, fixed bugs checked in missing meta data files  

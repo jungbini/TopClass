@@ -1,0 +1,1 @@
+  new debugger ui: view updates on/off  

@@ -1,0 +1,1 @@
+  Added ignore shadowed built-in quick-fix (PY-8672)  

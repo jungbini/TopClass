@@ -1,0 +1,1 @@
+ IDEA-156065 WinPty process does not kill agent on end - fixed incorrect exit code after winptyprocess termination  

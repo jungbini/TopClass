@@ -1,0 +1,1 @@
+  JS backend: fixed an equals behavior after it became a member of jet.Any.  

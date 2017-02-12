@@ -1,0 +1,1 @@
+  fix for #316 - changed the upload interval to once a day at 2am  

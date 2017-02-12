@@ -1,0 +1,1 @@
+  display resolved ldap groups during login test  fixes #1570  

@@ -1,0 +1,1 @@
+  Adding possibility to skip params inheritance on daemon jvm options creation, refactoring appropriate api, using it to fix tests  

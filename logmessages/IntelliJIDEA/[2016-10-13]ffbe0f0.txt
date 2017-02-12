@@ -1,0 +1,1 @@
+tion test: switch on inplace mode in tests EA-86900 - RE: PostprocessReformattingAspect.beforeDocumentChanged  (cherry picked from commit 614deb2e243b733f8e6cfd0faa7a0de80bf35895)  

@@ -1,0 +1,1 @@
+ Fix bug. not initialized 'Open Filter Wizard' property  

@@ -1,0 +1,1 @@
+  [TACHYON-623] Add a new JCA provider which registers the PlainSaslServerFacroty to create instances of PlainSaslServer -- fixed the failed unit test  

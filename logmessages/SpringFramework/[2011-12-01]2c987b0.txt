@@ -1,0 +1,1 @@
+  backported DefaultResponseErrorHandler IOException fix (SPR-8713)  

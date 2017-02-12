@@ -1,0 +1,1 @@
+  Log transformer: supported resolve on prefix and postfix  

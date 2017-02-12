@@ -1,0 +1,1 @@
+  Fix a bug where ChannelFutureProgressListener.operationProgressed() isn't something invoked  - Fixes #1950 - Use writtenBytes instead of localWrittenBytes so that operationProgressed() is triggered even when write operation was split into multiple system calls.  

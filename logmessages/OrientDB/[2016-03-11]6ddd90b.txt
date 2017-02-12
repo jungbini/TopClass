@@ -1,0 +1,1 @@
+  Issue #5795 few MT problems during live index rebuild were fixed.  

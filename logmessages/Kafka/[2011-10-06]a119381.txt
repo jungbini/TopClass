@@ -1,0 +1,1 @@
+the perf sub project anymore  git-svn-id: https://svn.apache.org/repos/asf/incubator/kafka/trunk@1179855 13f79535-47bb-0310-9956-ffa450edef68  

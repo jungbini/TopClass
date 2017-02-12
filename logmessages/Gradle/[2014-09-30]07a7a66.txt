@@ -1,0 +1,1 @@
+  Allow arbitrary ordering of task inputs  - fix equals method in ModelReference for path == null - might make sense to find a more general approache to filter and reorganise method rule inputs +review REVIEW-5208  

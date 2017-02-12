@@ -1,0 +1,1 @@
+  Catch package lookup exceptions during AST lookup  Noticed this while debugging #1228. Referencing a non-existent (BuildFileNotFoundException) package would print "Loading failed; build aborted" with no error message about what had actually gone wrong.  -- MOS_MIGRATED_REVID=121602225  

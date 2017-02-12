@@ -1,0 +1,1 @@
+  'GroovyUnresolvedAccess intention': don't add empty intention action if there are fixes  

@@ -1,0 +1,1 @@
+  Issue #1404  Java 6 compatibility fix.  

@@ -1,0 +1,1 @@
+  Fixed bug on distributed tx about the returning value form update  

@@ -1,0 +1,1 @@
+  FunctionN and ExtensionFunctionN are now abstract classes, not traits  + Indexing of their type parameters is fixed (should match actual positions in the parameter list)  The reason to make them classes: * This is how they are actually implemented in the JVM back-end (for performance)  This can be reconsidered later, but seems to be a reasonable solution  

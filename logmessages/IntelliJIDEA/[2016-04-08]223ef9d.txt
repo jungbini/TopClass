@@ -1,0 +1,1 @@
+  Fix of bug in FileUtil - do not empty the file if one tries to copy it into itself.  

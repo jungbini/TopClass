@@ -1,0 +1,1 @@
+  work around Ldap api timeout bug when connecting  https://issues.apache.org/jira/browse/DIRAPI-161 needs to be fixed so we can remove the clunky timeout handling  removed some dead code  

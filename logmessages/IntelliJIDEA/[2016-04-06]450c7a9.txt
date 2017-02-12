@@ -1,0 +1,1 @@
+  avoid duplicate String instance for myDebugName  I was playing with MAT on IDEA and found 2500+ instance of this class (subclasses included). and there're 600+ instance of String "collection of library root".  So intern() should make sense here.  Null check is not performed as it seems not necessary :-)  

@@ -1,0 +1,1 @@
+  Resolved anonymous pointer field metheds  And fixed NullPointerException issue in GoStructureViewElement.java.  

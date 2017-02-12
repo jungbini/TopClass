@@ -1,0 +1,1 @@
+  [resolve] don't expand channel type, fix #2057  

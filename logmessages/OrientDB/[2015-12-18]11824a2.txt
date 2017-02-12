@@ -1,0 +1,1 @@
+  backported fix for complex return value on batch commands  

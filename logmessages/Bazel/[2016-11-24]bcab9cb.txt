@@ -1,0 +1,1 @@
+  Support choco package fixes  I've used this to create https://chocolatey.org/packages/bazel/0.4.1-rc2-20161124-122858 which is in the queue for automated validation.  That package is built with #2134.  Closes #2135.  -- Reviewed-on: https://github.com/bazelbuild/bazel/pull/2135 MOS_MIGRATED_REVID=140131036  

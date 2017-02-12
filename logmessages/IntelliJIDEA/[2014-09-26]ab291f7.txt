@@ -1,0 +1,1 @@
+  IDEA-130445 Adding one extra SelectionListener on every debugger step - at least do not add extra listener with show disabled  

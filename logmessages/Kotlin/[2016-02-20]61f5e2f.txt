@@ -1,0 +1,1 @@
+  Minor, pass -Xmx256m to compiler in CompilerSmokeTestBase  This fixes CompilerFileLimitTest when running locally  

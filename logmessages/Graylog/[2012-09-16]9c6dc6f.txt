@@ -1,0 +1,1 @@
+  show index and deflector information on health page. fixes #WEBINTERFACE-305  

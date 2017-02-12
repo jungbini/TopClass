@@ -1,0 +1,1 @@
+  Updates to the release notes on fix for classified artifact SNAPSHOT change checking.  

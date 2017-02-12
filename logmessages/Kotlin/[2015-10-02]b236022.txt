@@ -1,0 +1,1 @@
+  Smart completion: no "::xxx" items for members and fixed bug with constructors not appearing there  

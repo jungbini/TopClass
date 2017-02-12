@@ -1,0 +1,1 @@
+  Fix to move comment intention, fixes based on Bas's new "Scope of variable too broad" inspection  

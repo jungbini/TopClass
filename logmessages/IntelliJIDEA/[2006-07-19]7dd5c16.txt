@@ -1,0 +1,1 @@
+  removed overloaded findPrefix() which was a hack for ant  

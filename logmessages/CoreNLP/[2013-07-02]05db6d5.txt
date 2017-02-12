@@ -1,0 +1,1 @@
+  Fix a bug in the Arabic tagger where it wouldn't use the correct tree reader  

@@ -1,0 +1,1 @@
+  Update hoe-debugging dep for Ruby 2.2 support.  

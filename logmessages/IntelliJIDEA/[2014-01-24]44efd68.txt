@@ -1,0 +1,1 @@
+  fixed EA-53497 - assert: TextRange.<init>  

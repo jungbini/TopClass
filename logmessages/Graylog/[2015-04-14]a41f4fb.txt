@@ -1,0 +1,1 @@
+  Fixing bug when an output which is added to multiple streams is deleted  In this case a stale reference is left for all but one stream, because the update is only updating the first document it finds.  

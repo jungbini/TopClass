@@ -1,0 +1,1 @@
+  Debugger doesn't step into 'for' body if there's inline function call in range expression (KT-13534)  #KT-13534 Fixed  

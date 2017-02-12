@@ -1,0 +1,1 @@
+  We encountered situation when cached folding data is inconsistent. It's not clear what produced that, so, the following was done: 1. Corresponding check was added and cached data is rebuilt in case of inconsistency; 2. Debug asserts are activated if dedicated flag is on (it's off by default);  

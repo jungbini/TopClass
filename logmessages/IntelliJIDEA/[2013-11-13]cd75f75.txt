@@ -1,0 +1,1 @@
+  Assert final caret position in tests, fix caret, disable .null/.notnull on 'new T()' expressions, etc  

@@ -1,0 +1,1 @@
+  IDEA-60564 (New inspection: "Unqualified inner class" (with quickfix))  

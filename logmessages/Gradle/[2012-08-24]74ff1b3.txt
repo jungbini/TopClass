@@ -1,0 +1,1 @@
+  Dependency report - fixed broken samples test after removing configurations from the view.  

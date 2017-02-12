@@ -1,0 +1,1 @@
+  fixed PY-10337 Web2Py: propagate variables from for cycles to view context  

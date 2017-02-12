@@ -1,0 +1,1 @@
+  Do not treat invalid HTML chars as whitespace (fix for EA-31140 and other)  

@@ -1,0 +1,1 @@
+  fixed NPE (IDEADEV-3015)  

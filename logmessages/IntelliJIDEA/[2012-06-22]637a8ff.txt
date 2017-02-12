@@ -1,0 +1,1 @@
+  [git] IDEA-87709 Take files updated via git merge --ff-only into account and show them in the updated files info.  Caused by the fix for IDEA-87609.  

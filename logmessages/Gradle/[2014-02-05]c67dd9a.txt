@@ -1,0 +1,1 @@
+  fix for GRADLE-2923 (identical source file names) - TODO apply fix for other languages (asm, objective-c, objective-cpp)  

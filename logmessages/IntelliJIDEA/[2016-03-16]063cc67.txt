@@ -1,0 +1,1 @@
+  IDEA-152963 Color mismatch when copy-pasting text with highlighting to native applications on Mac OS - fixed tests  

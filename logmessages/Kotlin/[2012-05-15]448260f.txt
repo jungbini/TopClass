@@ -1,0 +1,1 @@
+  KT-1996 Missing ABSTRACT_MEMBER_NOT_IMPLEMENTED when two supertypes contains same abstract member  === trait Foo { fun foo(): Unit }  trait Bar { fun foo(): Unit }  class Baz : Foo, Bar // no error here ===  #KT-1996 fixed  

@@ -1,0 +1,1 @@
+  WD, Recursive compare: fixed excluded paths and refresh bug; fixed NPE after refresh  

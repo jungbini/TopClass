@@ -1,0 +1,1 @@
+  cqlsh copy: fixed possible race in initializing feeding thread  patch by Stefania Alborghetti; reviewed by Paulo Motta for CASSANDRA-11701  

@@ -1,0 +1,1 @@
+  java-decompiler: NPE fixed  https://github.com/JetBrains/intellij-community/pull/268  

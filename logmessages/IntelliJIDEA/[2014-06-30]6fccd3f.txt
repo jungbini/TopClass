@@ -1,0 +1,1 @@
+  fix possibly endless matchingDegree calculation (IDEA-126721)  * NameUtil.nextWord should always return a value greater than its argument * There are neither lowercase nor uppercase unicode letters * so check for !upperCase instead of lowerCase to ensure we traverse at least one letter  

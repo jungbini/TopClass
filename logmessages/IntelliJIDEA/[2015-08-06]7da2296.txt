@@ -1,0 +1,1 @@
+  fixed EDU-346 Ability to pass message to the 'passed' method  

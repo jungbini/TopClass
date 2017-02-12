@@ -1,0 +1,1 @@
+  MasqueradingPsiBuilderAdapter now tries to assign whitespace&foreign to as high parent as possible (fixes WEB-13621)  

@@ -1,0 +1,1 @@
+  reverted fix for IDEA-121089 Rearrange watches in Debug toolwindow with drag-and-drop (it disables DnD from editor)  

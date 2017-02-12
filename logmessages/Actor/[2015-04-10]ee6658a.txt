@@ -1,0 +1,1 @@
+  fix(iOS): Calling onProfileOpen/Closed in UserInfoController  

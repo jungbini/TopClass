@@ -1,0 +1,1 @@
+  fixed PY-11277 Python: Wrong "argument equals default" inspection  

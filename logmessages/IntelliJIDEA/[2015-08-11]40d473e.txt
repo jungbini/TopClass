@@ -1,0 +1,1 @@
+  Working prototype of code style settings deriver: somewhat works for java and c++; also for scala with appropriate extension implemented. Has some issues with UI (FCodeStyleSettingsNameProvider is an ugly stub). Also formatting while running the FExtractCodeStyleAction is sometimes buggy (has significant delays or does not happen at all). Running time should also be improved.  

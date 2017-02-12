@@ -1,0 +1,1 @@
+  Make use of test report fixtures to check the result of execution of tests  Story: gradle/langos#103  

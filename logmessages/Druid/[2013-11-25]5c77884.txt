@@ -1,0 +1,1 @@
+  Address code review - more tests - fix license - add missing getter  

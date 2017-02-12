@@ -1,0 +1,1 @@
+  fixed PY-12478 Test Runner detector gets info about installed package from wrong project interpreter for multi-project  

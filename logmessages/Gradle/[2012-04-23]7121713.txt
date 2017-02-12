@@ -1,0 +1,1 @@
+  - Remove unused FindBugsExecuter.findBugsDaemonServer. - Rethrow exceptions occured in findbugs process at client side.  

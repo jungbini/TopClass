@@ -1,0 +1,1 @@
+  added test case and bug fix for (next|previous)(Elements|Siblings) methods  

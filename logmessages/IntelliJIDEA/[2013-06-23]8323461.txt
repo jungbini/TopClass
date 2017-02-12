@@ -1,0 +1,1 @@
+  fixed PY-7083 Lists in Epytext don't render properly in Ctrl+Q pop-up  do not break on improperly formatted paragraph  

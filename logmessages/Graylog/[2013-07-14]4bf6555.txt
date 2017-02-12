@@ -1,0 +1,1 @@
+  use jersey2 via netty for REST API  implement Metrics filters for jersey2 use Jersey 2 injection for access to Core.class in rest resources fixed path for test this needs the currently unreleased org.graylog2:jersey-netty module (also on github)  

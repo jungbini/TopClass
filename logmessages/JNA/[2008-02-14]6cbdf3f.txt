@@ -1,0 +1,1 @@
+  Fix .pc file bug and bump version  

@@ -1,0 +1,1 @@
+  IDEA-95627 Postgres stored functions cannot be formatted  1. Use only cached injected data; 2. Minor code style fixes;  

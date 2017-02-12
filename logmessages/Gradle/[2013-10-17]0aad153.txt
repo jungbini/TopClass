@@ -1,0 +1,1 @@
+  Changed the HtmlTestExecutionResult assert methods so that they actually assert stuff, and some other minor fixes in the various TestExecutionResult implementations.  

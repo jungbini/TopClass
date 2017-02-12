@@ -1,0 +1,1 @@
+ Bug fix: LocalAlluxioAlluxioCluster does not initialize correct UFS for some US clusters  

@@ -1,0 +1,1 @@
+  Fix bug in CoordinationTransformer which can produce potentially invalid tree.  

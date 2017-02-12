@@ -1,0 +1,1 @@
+  Formatter should add new line between type and function, fix #1878  

@@ -1,0 +1,1 @@
+  IDEA-140152 In the debug window gear menu, the current state of the watching method return values and auto variables mode selections is unclear  

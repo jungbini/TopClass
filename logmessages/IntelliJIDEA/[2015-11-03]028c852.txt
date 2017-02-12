@@ -1,0 +1,1 @@
+  maven: fix tests for the fix (IDEA-147047 Suggest 'LATEST' and 'RELEASE' in completion variants in dependency/'version' tag in pom.xml files)  

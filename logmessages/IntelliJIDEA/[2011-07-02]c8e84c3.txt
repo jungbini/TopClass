@@ -1,0 +1,1 @@
+  subtypes will also be class-prepared, no need to iterate over them when waiting for a breakpoint => significant groovy debugger speedup when there are lots of closures  

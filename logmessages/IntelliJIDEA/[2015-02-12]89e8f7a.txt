@@ -1,0 +1,1 @@
+  SSR: fix method javadoc matching (second part of IDEA-126909)  

@@ -1,0 +1,1 @@
+  Partial fix for KT-3698: properly write field initializer  

@@ -1,0 +1,1 @@
+  refresh the old item reference in ReturnType after a model change fixes broken update mechanism after model change  Signed-off-by: Tobias Brutigam <tbraeuigam@gmail.com>  

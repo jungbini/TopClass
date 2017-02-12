@@ -1,0 +1,1 @@
+  Update vertx-core/src/main/java/org/vertx/java/core/http/impl/DefaultHttpServerResponse.java  fix multiple Set-Cookie headers issue  

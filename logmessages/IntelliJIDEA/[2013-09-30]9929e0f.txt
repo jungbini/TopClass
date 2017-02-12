@@ -1,0 +1,1 @@
+  fix gaps in renderer in case of file colors enabled  

@@ -1,0 +1,1 @@
+  git4idea: fixed bugs with push when there are multiple modules in the project under the same vcs. added reporting progress to the push.  

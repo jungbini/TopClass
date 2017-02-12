@@ -1,0 +1,1 @@
+  fixed usage of deprecated maven variable  

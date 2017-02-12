@@ -1,0 +1,1 @@
+  Fix ClassCastException in SamAdapterOverridabilityCondition  This was happening on the upcoming hierarchy of property getters and setters in kotlin.reflect. No test added because it's not so easy to come up with a small example, and because the fix itself is rather trivial  

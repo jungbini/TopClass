@@ -1,0 +1,1 @@
+  java-xdebugger: add to watch support  

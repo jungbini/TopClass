@@ -1,0 +1,1 @@
+  [git] create gen folder for generated sources in git4idea module and move Git4ideaIcons  This fixes icon for Deep Compare action (since Git4ideaIcons was located in resources folder it was not compiled).  

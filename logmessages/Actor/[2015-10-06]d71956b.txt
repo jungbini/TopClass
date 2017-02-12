@@ -1,0 +1,1 @@
+  fix(web): put emoji list generation back to constructor, cuz change title not working  

@@ -1,0 +1,1 @@
+  Modified level of some debug output. Moved CoreTypeMapperTest to the correct folder.  

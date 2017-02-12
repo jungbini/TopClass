@@ -1,0 +1,1 @@
+  Mark output_base and output_user_root to not be backed up by TimeMachine on Darwin.  This is equivalent to what Xcode does with the directories that it generates as part its builds.  fix for https://github.com/bazelbuild/bazel/issues/1514  -- MOS_MIGRATED_REVID=127927131  

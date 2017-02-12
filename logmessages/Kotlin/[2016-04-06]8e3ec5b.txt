@@ -1,0 +1,1 @@
+  Debugger: fix breakpoints inside inline functions in libraries sources  

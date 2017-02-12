@@ -1,0 +1,1 @@
+  PY-19923 Don't log stacktrace of ExecutionException so as not to pollute log files  Unless debug logging for PythonSdkUpdater is enabled.  

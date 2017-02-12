@@ -1,0 +1,1 @@
+  Restore and deprecate Function{n}/ExtensionFunction{n} classes for easier migration  Users' Java code will not break in common cases (when passing functions to Kotlin), and deprecation warnings will be reported.  Provide an inspection with a quick fix which allows to replace deprecated function class usages to the new classes. Include this fix to the "code cleanup" action  

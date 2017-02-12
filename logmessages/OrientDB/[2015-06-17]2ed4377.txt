@@ -1,0 +1,1 @@
+  fixed missing custom attributes of class in export/import database, issue #4272  

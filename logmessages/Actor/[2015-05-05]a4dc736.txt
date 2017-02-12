@@ -1,0 +1,1 @@
+  fix(android): Fixed persisting pending file name on send photo  

@@ -1,0 +1,1 @@
+  IG: fix "Non-varargs method overrides varargs method" quick fix  

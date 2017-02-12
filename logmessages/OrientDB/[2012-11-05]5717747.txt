@@ -1,0 +1,1 @@
+  Patch by Macied to fix issue 1082. Thanks for your patience about my long understanding of it!  

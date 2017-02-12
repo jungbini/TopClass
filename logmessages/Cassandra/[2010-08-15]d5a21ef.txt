@@ -1,0 +1,1 @@
+  fall back to subsnitch on score equality as well as no score at all, fix probability calculation. Patch by jbellis and brandonwilliams, reviewed by brandonwilliams for CASSANDRA-981  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@985724 13f79535-47bb-0310-9956-ffa450edef68  

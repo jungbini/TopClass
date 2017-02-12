@@ -1,0 +1,1 @@
+  KT-2069 Cannot call super method when superclass has type parameters #KT-2069 fixed  

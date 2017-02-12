@@ -1,0 +1,1 @@
+  MINOR: Fix a typos in comments  Author: ouyangliduo <ouyangliduo@360.cn>  Reviewers: Gwen Shapira, Lin Dong  Closes #701 from oyld/typos_fix  

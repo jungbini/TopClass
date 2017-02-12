@@ -1,0 +1,1 @@
+  iterator must return text ranges in proper order (fix renderers in Ctrl+N)  

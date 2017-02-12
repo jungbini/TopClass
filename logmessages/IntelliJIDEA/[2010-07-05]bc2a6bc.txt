@@ -1,0 +1,1 @@
+  Property declaration inspection + tests + fixes to PyClass.scanProperties.  

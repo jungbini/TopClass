@@ -1,0 +1,1 @@
+  HBASE-1488 After 1304 goes in, fix and reenable test of thrift, mr indexer, and merge tool -- part 1  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@785913 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Refactored contribution manager to get rid of Info objects. Still has bugs though.  

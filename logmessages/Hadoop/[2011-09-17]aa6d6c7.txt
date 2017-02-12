@@ -1,0 +1,1 @@
+  HBASE-4400 fixed up the anonymous Abortable in createAndForceNodeToOpenedState()   git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1172068 13f79535-47bb-0310-9956-ffa450edef68  

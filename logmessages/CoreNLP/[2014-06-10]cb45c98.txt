@@ -1,0 +1,1 @@
+  Remove logging every time a pleonastic pattern fires (I think I added this for debugging once).  

@@ -1,0 +1,1 @@
+  ninja: fix bad class name in UFTest (CASSANDRA-7395)  

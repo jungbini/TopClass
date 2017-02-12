@@ -1,0 +1,1 @@
+  Moved knowledge of which Gradle versions work with which Java version into a single location in the test fixtures.  

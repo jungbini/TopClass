@@ -1,0 +1,1 @@
+  [quickfix] do not suggest to create local variables and constants on top level  

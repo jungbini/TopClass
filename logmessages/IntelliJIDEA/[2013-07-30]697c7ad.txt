@@ -1,0 +1,1 @@
+  fixed PY-2388 Make PyCharm's testrunner aware of setup.py  

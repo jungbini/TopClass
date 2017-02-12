@@ -1,0 +1,1 @@
+  fixed PY-6886 Paste leads to syntactically incorrect code with caret beyond actual indent  

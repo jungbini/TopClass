@@ -1,0 +1,1 @@
+ Merge pull request #379 from paykoob/bugfix/holdStateInSingupFragment  fix(android): crash when authActivity is invisible and state changed  commit 2b61270410579254c0da59db437521474c5480d4  fix(core): Fixing compare incompatibility with j2objc in CallManager  

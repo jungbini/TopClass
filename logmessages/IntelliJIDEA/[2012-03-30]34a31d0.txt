@@ -1,0 +1,1 @@
+  Do not show Install package quickfix if 'pip' tool is not found (PY-6156)  

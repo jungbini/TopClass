@@ -1,0 +1,1 @@
+  show all applicable live templates when none match the prefix (IDEA-76372)  

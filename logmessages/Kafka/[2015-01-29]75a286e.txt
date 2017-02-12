@@ -1,0 +1,1 @@
+  KAFKA-1760 Follow-up: fix compilation issue with Scala 2.11  

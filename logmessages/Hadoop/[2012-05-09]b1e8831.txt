@@ -1,0 +1,1 @@
+  HADOOP-8354. test-patch findbugs may fail if a dependent module is changed Contributed by Tom White and Robert Evans.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1336213 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Render 'annotation class not found' for error types in tests  After 13ae3d9 it became unclear whether an annotation mentioned in test data is resolved or not, this change fixes that  

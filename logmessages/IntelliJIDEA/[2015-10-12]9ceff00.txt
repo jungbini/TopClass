@@ -1,0 +1,1 @@
+  fix background of expandable hint  

@@ -1,0 +1,1 @@
+  1. ability to load ruby coverage plugin in IDEA debug instance. 2. Several EP were extracted  

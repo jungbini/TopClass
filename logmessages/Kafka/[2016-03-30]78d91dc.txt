@@ -1,0 +1,1 @@
+  KAFKA-3475; Introduce our own `MiniKdc`  This also fixes KAFKA-3453 and KAFKA-2866.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Gwen Shapira  Closes #1155 from ijuma/kafka-3475-introduce-our-minikdc  

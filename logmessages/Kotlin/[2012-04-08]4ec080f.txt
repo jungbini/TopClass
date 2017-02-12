@@ -1,0 +1,1 @@
+  KT-1666 Invoking "Go to Declaration" for String type offers two variants - Temp boring fix #KT-1666 fixed  

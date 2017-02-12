@@ -1,0 +1,1 @@
+  use formatted value for field value searches  avoid using the display mapped value because that will not match the stored data anyway and often leads to syntax errors  fixes #539  

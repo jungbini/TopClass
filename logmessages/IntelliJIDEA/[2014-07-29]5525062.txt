@@ -1,0 +1,1 @@
+  registry.properties moved to 'util' module to fix MissingResourceException when Registry is used from core part of the platform (e.g. in Kotlin compiler); unnecessary and confusing defaultValue arguments removed  

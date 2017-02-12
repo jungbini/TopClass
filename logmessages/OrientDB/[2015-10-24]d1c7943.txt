@@ -1,0 +1,1 @@
+  Lucene remote tests were fixed.  

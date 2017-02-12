@@ -1,0 +1,1 @@
+  fix pluggable scheduler to respect dynamic number of workers  

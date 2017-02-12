@@ -1,0 +1,1 @@
+es branch already exists more robust by using a git plumbing command instead of checking file existence in the .git directory.  Also fix outdated wording talking about wikidoc in one of the messages it prints to console.  

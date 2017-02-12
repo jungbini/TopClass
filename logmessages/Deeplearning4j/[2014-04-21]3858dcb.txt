@@ -1,0 +1,1 @@
+  added some tensor fixes, still working on last bits of convolution  

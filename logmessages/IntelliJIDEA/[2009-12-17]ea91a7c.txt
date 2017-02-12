@@ -1,0 +1,1 @@
+  IDEADEV-41969 Code Style | Imports | Import Layout: Remove button not visible on Mac + usability issues (table header fix by cdr)  

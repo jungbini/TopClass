@@ -1,0 +1,1 @@
+  fixed endless flickering in frames view  

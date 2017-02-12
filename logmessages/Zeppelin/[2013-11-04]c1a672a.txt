@@ -1,0 +1,1 @@
+  Bugfix, generate proper uri for adding resource  

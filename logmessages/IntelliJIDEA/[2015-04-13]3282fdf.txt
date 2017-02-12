@@ -1,0 +1,1 @@
+  sync tags only if > is present after element #IDEA-139113 fixed  

@@ -1,0 +1,1 @@
+  allow access to LocalInspectionToolSession in buildVisitor(); use it to fix Python inspections  

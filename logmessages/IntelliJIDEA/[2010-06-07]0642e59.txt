@@ -1,0 +1,1 @@
+  Another fix for EA-20311: split HTML attribute if it contains outer language elements (a case when there is a mix of CSS and PHP in attribute value)  

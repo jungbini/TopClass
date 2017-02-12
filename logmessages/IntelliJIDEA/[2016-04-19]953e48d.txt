@@ -1,0 +1,1 @@
+ SmartEnterProcessor#commit method restored to fix binary compatibility with Kotlin plugin (KT-11844)  

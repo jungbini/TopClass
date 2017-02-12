@@ -1,0 +1,1 @@
+  paint line numbers with line highlighter foreground color - fixes after review  

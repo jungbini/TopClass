@@ -1,0 +1,1 @@
+  IDEA-113780 "Annotate" from history fixed for renamed/moved files  

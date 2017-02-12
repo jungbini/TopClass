@@ -1,0 +1,1 @@
+  IDEA-108593 Run/Debug Configurations: Select Maven Goal: Down key with completion list opened shows "Select maven project" popup  

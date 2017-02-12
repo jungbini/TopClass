@@ -1,0 +1,1 @@
+  Added option to merge Metrics across stores  The new option storage.merge-basic-metrics = true (default) combines the metrics for edgeStore, idStore, vertexStore, etc.  Setting the option to false makes each store report its metrics separately under a unique prefix starting with "com.thinkaurelius.titan." and ending in the store name.  

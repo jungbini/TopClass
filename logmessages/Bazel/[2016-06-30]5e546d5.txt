@@ -1,0 +1,1 @@
+  Minor fixes to the Bazel documentation.  -- MOS_MIGRATED_REVID=126298962  

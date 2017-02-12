@@ -1,0 +1,1 @@
+  HBASE-2997  Performance fixes - profiler driven (build/test fix)    git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@997533 13f79535-47bb-0310-9956-ffa450edef68  

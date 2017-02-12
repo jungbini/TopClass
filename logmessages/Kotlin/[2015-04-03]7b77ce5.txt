@@ -1,0 +1,1 @@
+  Added assertion. There should be either space symbol after prefix (e.g., //ABSENT: A) or no symbols at all (e.g. //RUNTIME).  

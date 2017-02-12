@@ -1,0 +1,1 @@
+  xdebugger full value text popup: ui fixed  

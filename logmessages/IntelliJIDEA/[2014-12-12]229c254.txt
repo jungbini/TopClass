@@ -1,0 +1,1 @@
+  Fixed collecting wrong '__contains__' attribute for structural types  The 'x in y' expression implies that 'y' has the '__contains__' attribute, while our references in qualified expressions tell that the 'x' references the name '__contains__'. In order to fix this we have to treat the operators with a receiver on the right side of the expression 

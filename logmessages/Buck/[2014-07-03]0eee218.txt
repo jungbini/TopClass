@@ -1,0 +1,1 @@
+  Don't bother finding the repository root for trivial cases  Summary: When running `buck --version` (or `buck -V`) we don't need to navigate up to the repository root.  This is a pretty hacky fix.  There is probably a much nicer way of doing this, that generalizes and pays off some debt!  Test Plan: Run it on the command line.  

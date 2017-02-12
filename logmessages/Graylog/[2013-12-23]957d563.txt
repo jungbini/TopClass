@@ -1,0 +1,1 @@
+  regard streams in several parts of frontend. fixes #443  

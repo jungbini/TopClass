@@ -1,0 +1,1 @@
+  strip html tags #WEB-12364 fixed  

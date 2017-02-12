@@ -1,0 +1,1 @@
+  Replication: fixed conflicts on record create. Improved and simplified the task management  

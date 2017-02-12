@@ -1,0 +1,1 @@
+  Fix bug in testVertexTTLWithCompositeIndex  An invocation to addVertex was missing an argument  

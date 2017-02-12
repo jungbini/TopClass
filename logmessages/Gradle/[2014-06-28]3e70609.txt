@@ -1,0 +1,1 @@
+ Minor improvements to maven-publish exclusion support  - tabs to spaces - Added test fixture type for MavenDependencyExclusion - Avoid unnecessary collection empty checks  

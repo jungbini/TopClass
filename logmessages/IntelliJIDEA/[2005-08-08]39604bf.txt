@@ -1,0 +1,1 @@
+  forcibly set connecting timeout to 0 (forever) cause some debuggees (j2me) are too slow in starting jvm  

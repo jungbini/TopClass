@@ -1,0 +1,1 @@
+  improved support of dirty manager in transaction, fix issue on reference loop  

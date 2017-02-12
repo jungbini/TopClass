@@ -1,0 +1,1 @@
+  added jna.jar to classpath to fix ReorderJars task  

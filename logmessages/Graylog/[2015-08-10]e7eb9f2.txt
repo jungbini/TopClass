@@ -1,0 +1,1 @@
+  support updating roles in rest client  fix exception when using Optional.get()  issue #1321 #951  

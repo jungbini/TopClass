@@ -1,0 +1,1 @@
+  Minor style fixes in intellij_info_tests.bzl  1) remove no-op conversion to dictionary 2) use [] instead of dict.get  -- MOS_MIGRATED_REVID=125655793  

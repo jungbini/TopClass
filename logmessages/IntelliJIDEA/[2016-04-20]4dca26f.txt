@@ -1,0 +1,1 @@
+  Javafx: Don't allow renaming built-in $controller property, fixed renaming property of object declared with <fx:define> (IDEA-153758, IDEA-153751)  

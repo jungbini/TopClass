@@ -1,0 +1,1 @@
+  better recovery for syntax errors in parameter list (PY-3635); fix old bug with tuple parameters parsing  

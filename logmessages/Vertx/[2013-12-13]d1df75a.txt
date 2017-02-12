@@ -1,0 +1,1 @@
+  Correctly notify exceptionHandler if a channel is closed during the websocket handshake.  See https://bugs.eclipse.org/bugs/show_bug.cgi?id=419726  

@@ -1,0 +1,1 @@
+  more comfortable and better looking stream rules  fixes #WEBINTERFACE-367  

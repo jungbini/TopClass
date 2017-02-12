@@ -1,0 +1,1 @@
+  fix discontinous selection in Project View on Mac with Cmd+Click  

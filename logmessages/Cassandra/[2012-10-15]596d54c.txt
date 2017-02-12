@@ -1,0 +1,1 @@
+  cqlsh: fix copy to/from for cql3 Patch by Aleksey Yeschenko, reviewed by brandonwilliams for CASSANDRA-4674  

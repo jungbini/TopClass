@@ -1,0 +1,1 @@
+  fix StaticContext: use module name from module descriptor  

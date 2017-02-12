@@ -1,0 +1,1 @@
+  fix SSTIT on Windows patch by Vladimir Loncar; reviewed by jbellis for CASSANDRA-3043  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8@1158693 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  fix assertion on renaming enum constant with initializer (IDEADEV-28840)  

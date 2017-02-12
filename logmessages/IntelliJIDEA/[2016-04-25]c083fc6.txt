@@ -1,0 +1,1 @@
+  vcs: History For Selection - do not reinstall valid DiffRequest on asynchronous update  * fix possible data race if DiffRequestPanelImpl.setRequest() is called not from EDT  

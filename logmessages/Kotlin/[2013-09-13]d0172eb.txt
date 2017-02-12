@@ -1,0 +1,1 @@
+  Fixed bug in TypeConversionUtil#getAllBoxedTypeSupers which created CachedValueProvider.Result with null as dependency because the ProjectRootModificationTracker service was not registered. Register ProjectRootModificationTracker as NEVER_CHANGE in JavaToKotlinTranslator.  

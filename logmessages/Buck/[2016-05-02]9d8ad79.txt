@@ -1,0 +1,1 @@
+  Fix a dangling semaphore  Summary: Noticed this while reading `JavaInMemoryFileManager`. Figured I'd fix it.  Test Plan: CI  Reviewed By: andrewjcg  fb-gh-sync-id: dca4cf9 fbshipit-source-id: dca4cf9  

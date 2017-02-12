@@ -1,0 +1,1 @@
+  fix vcs gathering  Summary: When we used to make the command check the object was Command instead of AbstractCommand and it was not picking up the overriding method.  Test Plan: manual testing unit tests  Reviewed By: Coneko  fbshipit-source-id: 7304bcb  

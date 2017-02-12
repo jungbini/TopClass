@@ -1,0 +1,1 @@
+  Changed core project's testFixtures publication so that the runtime dependencies are made available to those projects using the fixtures.  

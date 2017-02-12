@@ -1,0 +1,1 @@
+  fix - schedulers within synchronizer are only started when it is properly configured  

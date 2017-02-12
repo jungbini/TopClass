@@ -1,0 +1,1 @@
+  dead code (fix for PY-4072?)  

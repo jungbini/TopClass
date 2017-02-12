@@ -1,0 +1,1 @@
+ correctly apply command line patchers for debug run configuration (PY-6740)  

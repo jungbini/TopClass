@@ -1,0 +1,1 @@
+  Performance fix: IDEA-148903 xml file long processing  

@@ -1,0 +1,1 @@
+  CPP-778 Support for semantic per-variable highlighting (fix Darcula background, before code inspection pass, EP approach)  

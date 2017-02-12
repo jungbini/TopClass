@@ -1,0 +1,1 @@
+  git4idea: fixed many spelling and javadoc comments errors  

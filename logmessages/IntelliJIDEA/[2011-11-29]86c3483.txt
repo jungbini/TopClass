@@ -1,0 +1,1 @@
+  cleanup unused properties, fix a bit of spelling  

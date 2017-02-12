@@ -1,0 +1,1 @@
+  [Mercurial] Rollback of HgRemoveCheckinHandler changes. Correct fix: change for locally deleted files is provided by HgChangeProvider.  

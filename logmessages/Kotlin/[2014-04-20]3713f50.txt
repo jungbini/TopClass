@@ -1,0 +1,1 @@
+ Merge pull request #433 from kuity/ReplaceInfixCallFix  Bug Fix for KT-4652 Replace with Infix Call  commit 3713f508004ceca1df899cf6e8469948217f0893  Intention to convert assert into an if with throw - bug fix for when the call is dot qualified  

@@ -1,0 +1,1 @@
+  NegativeArraySizeException fixed (IDEADEV-37585)  

@@ -1,0 +1,1 @@
+  fixed property migration in case of value not changed.  

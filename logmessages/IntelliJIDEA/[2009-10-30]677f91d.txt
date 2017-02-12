@@ -1,0 +1,1 @@
+  dubugger: consider search scope from run configuration when navigating from exception trace hyperlinks (IDEADEV-41133)  

@@ -1,0 +1,1 @@
+  GRADLE-2983 Fixed IndexOutOfBoundsException error when finalizers are used.  Not sure if this is they way we want to fix it. Please review.  

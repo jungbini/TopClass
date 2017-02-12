@@ -1,0 +1,1 @@
+  fix docCount vs count aggregation  - Filter.docCount is not the same as ValueCount, it included messages without that field  

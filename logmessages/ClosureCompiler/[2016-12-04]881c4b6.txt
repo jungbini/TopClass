@@ -1,0 +1,1 @@
+  Two tiny performance fixes in JsType  * use an ImmutableSet instead of ImmutableList for COVARIANT_TYPES since we only ever call .contains on it. * used indexed iteration in one more uniontype for-loop.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=140996996  

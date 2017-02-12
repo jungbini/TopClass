@@ -1,0 +1,1 @@
+ fix modelX/Y/Z, remove more reflection code, fix for bug #681, updatePixels issues  

@@ -1,0 +1,1 @@
+  fixed broken streams updating with new mongoid  fixes #WEBINTERFACE-195  

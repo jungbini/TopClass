@@ -1,0 +1,1 @@
+ bug fix. The ID of the scatter chart are the same. Amended to create an ID as random.  

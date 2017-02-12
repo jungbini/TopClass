@@ -1,0 +1,1 @@
+  JS backend: fix default arguments  generate special statements, like this: if (arg1 === void(0)) arg1 = value1  

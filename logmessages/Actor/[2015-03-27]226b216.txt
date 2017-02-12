@@ -1,0 +1,1 @@
+  feat(js): Added angular binding for users, fixed SHA256  

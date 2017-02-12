@@ -1,0 +1,1 @@
+  Migrate non-tx index updates to atomic operations manager #6332 + minor cluster scan fixes  

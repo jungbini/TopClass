@@ -1,0 +1,1 @@
+  fixed PY-2706 Preserve original traceback if creation of testcase fails  

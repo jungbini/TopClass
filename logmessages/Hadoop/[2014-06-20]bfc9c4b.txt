@@ -1,0 +1,1 @@
+  HADOOP-10479. Fix new findbugs warnings in hadoop-minikdc. Contributed by Swarnim Kulkarni.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1604292 13f79535-47bb-0310-9956-ffa450edef68  

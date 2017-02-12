@@ -1,0 +1,1 @@
+  Replaced some direct usages of IdentityFileResolver with factory methods  - GlobalScopeServices creates a default FileResolver instance. - Use FileResolver.withNoBaseDir() and withBaseDir() to create new resolvers. - Use TestFiles fixture to create resolvers in tests.  

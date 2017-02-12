@@ -1,0 +1,1 @@
+  Fix for WI-6841  'Quick Documentation Lookup' bug  

@@ -1,0 +1,1 @@
+  fixed Argument for @NotNull parameter 'directory' of com/jetbrains/python/psi/PyUtil.isPackage must not be null  getContainingDirectory could return null for reference expression associated with importSource  

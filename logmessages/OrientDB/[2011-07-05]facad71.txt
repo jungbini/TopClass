@@ -1,0 +1,1 @@
+  Console: fixed bug on linux/mac when the history file has been deleted  

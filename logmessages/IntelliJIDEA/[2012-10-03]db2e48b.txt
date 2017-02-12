@@ -1,0 +1,1 @@
+  IDEA-90719 fix order of apklib dependencies (cherry-picked from db18c45)  

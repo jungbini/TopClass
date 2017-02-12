@@ -1,0 +1,1 @@
+  AddMethodQualifierQuickFix NPE on calling variable name fixed  

@@ -1,0 +1,1 @@
+  fixed changed class name in launcher  

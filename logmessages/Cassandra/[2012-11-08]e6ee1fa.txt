@@ -1,0 +1,1 @@
+  allow --debug to print RTE  

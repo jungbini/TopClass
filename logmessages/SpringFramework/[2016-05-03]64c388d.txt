@@ -1,0 +1,1 @@
+itives when testing with JPA had already been added to the Testing chapter of the reference manual. However, the example did not work properly and the accompanying text mixed concepts from Hibernate and JPA.  This commit fixes the @Autowired/@PersistenceContext bug, updates the text, and marks each test as @Transactional in order to avoid any misinterpretation.  Issue: SPR-9032  

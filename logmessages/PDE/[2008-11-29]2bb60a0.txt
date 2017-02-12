@@ -1,0 +1,1 @@
+ bug fix release for 1.0.1  commit 2bb60a078d7473560ed4f89a8b7840c01a9d8868  fix up dist scripts to include the release number  

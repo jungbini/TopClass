@@ -1,0 +1,1 @@
+  make sure soft wrap model is notified about scrollable viewport changes before other (higher-level) listeners (should fix EA-68610)  

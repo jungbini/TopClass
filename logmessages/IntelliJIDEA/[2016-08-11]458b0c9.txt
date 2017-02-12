@@ -1,0 +1,1 @@
+  more fixes for IDEA-73115 "Show Usages" action should be more smart and detect on which usage it's invoked do not pre-select the usage under the caret by default  

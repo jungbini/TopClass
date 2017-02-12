@@ -1,0 +1,1 @@
+  REVIEW-1597 Refactoring and fixes in the project evaluation.  Moved the 'executing' check to the a better place. This way it should cover one more edge case (cyclic project configuration dependencies). Removed one unit test because it stopped adding any value. Spockified one jmock test.  

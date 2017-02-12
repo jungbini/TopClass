@@ -1,0 +1,1 @@
+  (with special flag) fileloader data is persisted in classpath.index file and reused if available (make will clean the index files upon nontrivial change, see d261422680c7868d5d556c7eee653fcd5f4fdcc2). This change allows faster debugged Idea / tests (with -Djava.system.class.loader=UrlClassLoader) start up especially for Windows  

@@ -1,0 +1,1 @@
+  JS: fix exception handling in coroutines when initializing via resumeWithException  

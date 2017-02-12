@@ -1,0 +1,1 @@
+  IDEADEV-36252: added new format for the comments that could occur in rebase script, some spelling errors are fixed  

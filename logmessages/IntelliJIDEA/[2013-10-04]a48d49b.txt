@@ -1,0 +1,1 @@
+  fixed PY-10995 properly, fixed broken test  we can skip formatting events in case of current string ends with spaces  

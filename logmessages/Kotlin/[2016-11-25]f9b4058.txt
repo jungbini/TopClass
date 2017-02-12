@@ -1,0 +1,1 @@
+  Partial fix  for KT-14989:  Missed null check for platform type  

@@ -1,0 +1,1 @@
+  Fix encoding of keys returned by XML::Node#namespaces.  The key parts were encoded like the document, but should be UTF-8 per definition. The value parts were already encoded as UTF-8.  This fixes the tests as well, however they are not effective, since the encoding of the input document is already UTF-8.  

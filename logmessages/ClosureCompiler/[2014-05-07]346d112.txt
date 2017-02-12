@@ -1,0 +1,1 @@
+ closure-compiler tests cleanup - use diamond syntax - fix assertEquals usage with empty sets - remove excess casts/generics - fix some spelling errors ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=66368440  

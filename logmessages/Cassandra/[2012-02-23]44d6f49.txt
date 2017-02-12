@@ -1,0 +1,1 @@
+  fix NPE in DefsTest and DatabaseDescriptorTest caused by not initialized (started) Gossiper  

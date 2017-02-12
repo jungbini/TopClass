@@ -1,0 +1,1 @@
+  Avoid further 'type mismatch' errors in ExtendedBeanInfo  This change fixes further cases under JDK 6 in which setting a bridged (e.g. String-returning) read method can conflict with an existing corresponding bridge write method that accepts an Object parameter.  This appears to be a implementation 

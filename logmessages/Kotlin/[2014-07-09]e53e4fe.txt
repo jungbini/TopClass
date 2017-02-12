@@ -1,0 +1,1 @@
+  fixed isSafeCast, so it doesn't use Class.forName()  

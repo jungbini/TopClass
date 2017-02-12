@@ -1,0 +1,1 @@
+  add links to WCAG articles and update description to match 2.0 standard #WEB-15677 fixed  

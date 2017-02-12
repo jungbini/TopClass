@@ -1,0 +1,1 @@
+  Don't allow to call constructors of singletons  This fixes testKt2014  

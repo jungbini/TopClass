@@ -1,0 +1,1 @@
+  KAFKA-2821; fix deadlock in group metadata write callback  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Ismael Juma <ismael@juma.me.uk>, Jun Rao <junrao@gmail.com>  Closes #519 from hachikuji/KAFKA-2821  

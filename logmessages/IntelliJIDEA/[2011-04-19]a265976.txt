@@ -1,0 +1,1 @@
+  IDEA-68188 XSLT: usages of namespace prefix are not found in preserve-space and strip-space elements  

@@ -1,0 +1,1 @@
+  fix for incorrectly reporting variable can be weakened to several non-intersecting types  

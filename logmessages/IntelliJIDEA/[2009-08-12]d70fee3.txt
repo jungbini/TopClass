@@ -1,0 +1,1 @@
+  Quickfix to create Cucumber step definition for unresolved step (RUBY-4482)  

@@ -1,0 +1,1 @@
+  Implement 'output_groups' provider.  This behavior - that 'output_groups' is a provider available on targets and aspects - has been accidental, but people already depend on it. This CL keeps that behavior, while fixing the bug that two aspects could not both provide output groups.  -- MOS_MIGRATED_REVID=139578378  

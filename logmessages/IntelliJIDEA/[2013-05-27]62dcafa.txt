@@ -1,0 +1,1 @@
+  fixed PY-9819 Wrong highlight for property in metaclass  

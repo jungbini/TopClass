@@ -1,0 +1,1 @@
+  SPR-8006 + fix contains/get race-condition of caches (by adding an extra cache call)  

@@ -1,0 +1,1 @@
+of org.springframework:spring-context to the Jasper Reports dependencies in spring-context-support and spring-webmvc. (cherry picked from commit 7a6a132)  

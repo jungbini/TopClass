@@ -1,0 +1,1 @@
+ fixed PY-7294 Invalid warning about encodings in Python files  

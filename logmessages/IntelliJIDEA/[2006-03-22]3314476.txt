@@ -1,0 +1,1 @@
+  resolve methods conflict bug + cleanup completion code  

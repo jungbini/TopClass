@@ -1,0 +1,1 @@
+ Add support for ecobee3 remote sensors; fix multiple OAuth instance bug; remove ItemRegistry inspection.  

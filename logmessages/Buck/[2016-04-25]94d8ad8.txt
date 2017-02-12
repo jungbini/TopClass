@@ -1,0 +1,1 @@
+  Remove the cell prefix entirely.  Summary: For `buck query` '+' is parsed as a binary operator and hence it's not useful as a cell designation. Instead, just remove this entirely and leave it up to the implementer.  Test Plan: Update unit tests  Reviewed By: Coneko  fb-gh-sync-id: 93b43a5 fbshipit-source-id: 93b43a5  

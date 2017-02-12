@@ -1,0 +1,1 @@
+  search for error elements through all siblings #WEB-13313 fixed  

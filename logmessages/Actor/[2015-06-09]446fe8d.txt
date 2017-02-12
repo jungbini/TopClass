@@ -1,0 +1,1 @@
+  android(fix) AvatarPlaceholderDrawable always new text size  

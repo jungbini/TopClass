@@ -1,0 +1,1 @@
+  Fix handling of object literals in arrow functions. This fixes https://github.com/google/closure-compiler/issues/2070  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=136175312  

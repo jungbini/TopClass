@@ -1,0 +1,1 @@
+  update dependencies, fixed test logging  updated bug fix patch versions: - metrics - joda-time - async-http-client  More major versions are available, but this needs more testing.  Update surefire to use separate test config files (in test/resources/test-log4j.xml) to avoid updating the production config for tests all the time.  

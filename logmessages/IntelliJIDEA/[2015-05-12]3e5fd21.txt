@@ -1,0 +1,1 @@
+  IDEABKL-5810 Editing of RTL languages (Arabic, Hebrew) is not supported  * fix display of glyph vector fragments on Mac  

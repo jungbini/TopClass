@@ -1,0 +1,1 @@
+ Fix resolving inside test files.  Also fixes #1036  

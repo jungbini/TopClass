@@ -1,0 +1,1 @@
+  GRADLE-819 - Moved ProjectBuilder to o.g.testfixtures - Changed ProjectBuilder to handle project.apply from: - Changed HelperUtil to use ProjectBuilder - Some changes to the custom plugin sample  

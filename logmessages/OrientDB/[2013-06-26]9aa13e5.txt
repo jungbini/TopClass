@@ -1,0 +1,1 @@
+  sql: fixed minor bugs on expand against variable, better management of memory on graph navigation  

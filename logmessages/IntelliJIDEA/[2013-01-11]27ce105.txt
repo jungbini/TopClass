@@ -1,0 +1,1 @@
+  fixed PY-8401 Change Signature: breaks code when chaging default value of an argument before star in case keyword-only arguments  

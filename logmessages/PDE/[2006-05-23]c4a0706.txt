@@ -1,0 +1,1 @@
+  fix for bug #359, which caused a non-null stream to be returned with the annoying java plug-in  

@@ -1,0 +1,1 @@
+  Add test case for batch script fix  in a case like  let $a = select from foo limit 1 select from (traverse doesnotexist from $a)  the $a variable was not correctly passed to the traverse  

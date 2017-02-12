@@ -1,0 +1,1 @@
+  uppercase prefix should middle-match lowercase string  

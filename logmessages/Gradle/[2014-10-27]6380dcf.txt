@@ -1,0 +1,1 @@
+  add "play new" test resources  - fix source path for twirlCompiler in PlayApplicationPlugin - fix source ref when setting sourceDirectory in TwirlCompile - add integration test coverage for component related twirl invocation; will evolve this over time  

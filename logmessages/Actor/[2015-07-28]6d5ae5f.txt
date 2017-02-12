@@ -1,0 +1,1 @@
+  fix(web): open dialog when try to add user by phone if user is already there;  

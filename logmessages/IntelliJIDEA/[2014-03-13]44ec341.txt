@@ -1,0 +1,1 @@
+  [log] IDEA-122051 Better fix case when no current user is defined  Correction: check current user existance only if "me" is selected, other user should be used intact.  

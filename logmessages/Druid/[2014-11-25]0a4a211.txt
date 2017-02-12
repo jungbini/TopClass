@@ -1,0 +1,1 @@
+ fix smile exception on error + content-type  

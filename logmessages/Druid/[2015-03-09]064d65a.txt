@@ -1,0 +1,1 @@
+ Merge pull request #1182 from druid-io/better-docs  Rework the druid docs and fix many mistakes  commit 064d65a009c88f1fed1b4dd98671c5e9e4a43b7c  rework the druid docs and fix many mistakes  

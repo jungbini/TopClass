@@ -1,0 +1,1 @@
+  fix module relative macro replacements: do not step out of the project dir  

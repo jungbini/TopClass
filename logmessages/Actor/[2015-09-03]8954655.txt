@@ -1,0 +1,1 @@
+  chore(android): add pushReceiver to debug  

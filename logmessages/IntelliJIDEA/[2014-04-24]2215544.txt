@@ -1,0 +1,1 @@
+  fix another RTF background colouring issue (IDEA-67767)  

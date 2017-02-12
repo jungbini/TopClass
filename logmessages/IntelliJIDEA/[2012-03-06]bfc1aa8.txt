@@ -1,0 +1,1 @@
+  Allow multiple mapping settings in Remote debug configuration (PY-4778).  

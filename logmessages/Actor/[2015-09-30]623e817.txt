@@ -1,0 +1,1 @@
+  fix(core): Deleting dialogs even hidden peers  

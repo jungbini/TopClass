@@ -1,0 +1,1 @@
+  [r=nik] fixed broken functionality: if there were compile errors, find dependencies of actually compiled and mark them for compilation for the next time  

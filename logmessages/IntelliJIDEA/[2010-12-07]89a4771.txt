@@ -1,0 +1,1 @@
+  Commented test that uses copy/paste with system buffer because it may fail spontaneously under Linux (You're seeing this message because of the workaround to JRE issue: http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=4818143 IDEA would hang otherwise. The system clipboard might be not working correctly. It is recommended to restart IDEA)  

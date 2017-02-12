@@ -1,0 +1,1 @@
+  Fix Cassandra test JVM options w/o JaCoCo  This should fix the regression that I introduced in 13b66abe4106c414b31991a0aa6a622c2b58d49d.  The titan-cassandra tests seem to run both with and without -Pcoverage on my machine now, as did titan-es, titan-lucene, and titan-rexster.  

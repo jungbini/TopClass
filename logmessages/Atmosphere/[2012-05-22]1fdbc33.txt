@@ -1,0 +1,1 @@
+  Incremental fix for #316 Add support for Annotated Atmosphere's Component  

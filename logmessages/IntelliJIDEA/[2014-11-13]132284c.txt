@@ -1,0 +1,1 @@
+  fixed PY-14380 PyCharm 4 EAP doesn't start on OS X  

@@ -1,0 +1,1 @@
+  IDEA-83595 Allow adding more than one gradle project  Compilation fix (ide 'make' bug that it didn't show it earlier?)  

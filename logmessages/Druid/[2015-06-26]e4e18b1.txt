@@ -1,0 +1,1 @@
+ fix npe thrown from getEntry() and getStatus() SQLMetadataStorageActionHandler due to a non-exist entryId  

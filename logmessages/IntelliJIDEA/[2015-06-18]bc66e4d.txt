@@ -1,0 +1,1 @@
+  NPE fixed for applyPatch and unshelve  

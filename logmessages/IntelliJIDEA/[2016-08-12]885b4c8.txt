@@ -1,0 +1,1 @@
+  discovery index: fix initialization  

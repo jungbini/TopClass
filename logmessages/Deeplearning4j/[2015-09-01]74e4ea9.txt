@@ -1,0 +1,1 @@
+ Fixed dense layer as no op with pre train. Partial recurisve autoencoder fix with additional gaps identified. Adjusted seed tests for only those that are pretrain.  

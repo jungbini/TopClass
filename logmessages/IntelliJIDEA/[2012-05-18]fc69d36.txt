@@ -1,0 +1,1 @@
+  IDEA-15281 tests fixed. All modifications moved inside writeAction  

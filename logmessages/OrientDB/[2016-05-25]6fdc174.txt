@@ -1,0 +1,1 @@
+ fixed support for json serialization of custom values, issue #6192  

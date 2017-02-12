@@ -1,0 +1,1 @@
+  tput: unknown terminal "emacs" (PY-14999)  Do not set "TERM" variable to emacs, because sometimes it isn't supported and may lead to errors. Also it doesn't fix problems with paging in IPython and this bug should be fixed properly: PY-21370  

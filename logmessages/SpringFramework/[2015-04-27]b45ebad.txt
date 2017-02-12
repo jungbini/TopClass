@@ -1,0 +1,1 @@
+sageBrokerBeanDefinitionParserTests and NoClassDefFoundError: io/netty/channel/nio/NioEventLoopGroup.  

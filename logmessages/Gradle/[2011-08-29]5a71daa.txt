@@ -1,0 +1,1 @@
+  Stabilized the daemon functional test a bit. This test is still a bit flaky due to occasional OverlappingFileLockException but will do for now. I'll fix the file cache access with the single registry file refactoring.  

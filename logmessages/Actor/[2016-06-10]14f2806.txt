@@ -1,0 +1,1 @@
+  fix(core): do not override maxInDate if it's not greater then date in ConversationState  

@@ -1,0 +1,1 @@
+  brings findbugs count from 266 -> 250 bugs by fixing some scopes, removing some dead code, and not implementing Serializable unnecessarily.  patch by Michael Greene; reviewed for CASSANDRA-338 by jbellis  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@800547 13f79535-47bb-0310-9956-ffa450edef68  

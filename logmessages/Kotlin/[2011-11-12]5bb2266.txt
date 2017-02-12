@@ -1,0 +1,1 @@
+  Internal compiler errors are reported as warnings, and individually namespace-by-namespace. To make it easier to work even in the presence of some bug-triggering code in the current project  

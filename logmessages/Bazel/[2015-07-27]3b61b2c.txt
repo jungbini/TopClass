@@ -1,0 +1,1 @@
+  Release note scripts: fix fmt usage under Linux  For some strange reason fmt do not try to fill the line by default under GNU/Linux. This is using a wrapper around fmt to fix //scripts/release:relnotes_test on Linux.  Fixes #331.  -- MOS_MIGRATED_REVID=99165254  

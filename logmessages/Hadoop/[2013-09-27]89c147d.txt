@@ -1,0 +1,1 @@
+  HDFS-5266. Addendum for addressing Findbugs warnings for lack of hashCode method and lack of null check in equals. Contributed by Chris Nauroth.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-4949@1527023 13f79535-47bb-0310-9956-ffa450edef68  

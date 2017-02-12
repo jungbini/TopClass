@@ -1,0 +1,1 @@
+  fixed incorrect slots mapping (double and long slots were not checked in parameters)  

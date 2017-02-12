@@ -1,0 +1,1 @@
+ remove temporarily copied Java safe delete implementation (the underlying IDEA problem has been fixed)  

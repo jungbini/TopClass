@@ -1,0 +1,1 @@
+  HDFS-9217. Fix broken findbugsExcludeFile.xml for hadoop-hdfs-client module. Contributed by Mingliang Liu.  

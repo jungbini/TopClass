@@ -1,0 +1,1 @@
+  OMFG refactor fixUp() for '1.postfix'-like expressions from PSI to document changes, much easier but still hard as hell :(  

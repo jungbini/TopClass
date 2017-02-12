@@ -1,0 +1,1 @@
+  fix use of direct buffers from CASSANDRA-1714 patch by Pavel Yaskevich; reviewed by jbellis for CASSANDRA-1989  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1059355 13f79535-47bb-0310-9956-ffa450edef68  

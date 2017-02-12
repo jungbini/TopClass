@@ -1,0 +1,1 @@
+  EA-31894 - assert: EditorImpl.xyToVisualPosition  1. Debug info is added; 2. @NotNull is added; 3. Added utility methods for building test on the basis of EA data;  

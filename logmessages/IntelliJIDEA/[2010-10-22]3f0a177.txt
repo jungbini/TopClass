@@ -1,0 +1,1 @@
+  add quickfix to implement abstract methods for enum constants without class initializer (IDEA-59807)  

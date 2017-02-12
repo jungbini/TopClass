@@ -1,0 +1,1 @@
+  Bug fix: set scope provided for dependencies from grails-maven-plugin.  

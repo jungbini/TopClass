@@ -1,0 +1,1 @@
+  added dependency from Lucene MemoryIndex, fixup import  

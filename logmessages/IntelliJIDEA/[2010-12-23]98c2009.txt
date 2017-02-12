@@ -1,0 +1,1 @@
+  fixed PY-2594 Can't run simple test using nosetests  

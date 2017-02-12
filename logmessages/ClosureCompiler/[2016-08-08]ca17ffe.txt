@@ -1,0 +1,1 @@
+  Edit the text of "Reference to fully qualified import name" warning  This is to make it clearer what the intended fix should be in case there is no "short name" yet.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=129680669  

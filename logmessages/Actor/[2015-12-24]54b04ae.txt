@@ -1,0 +1,1 @@
+  feat(iOS) : add voice notes(beta) + some stickers code and fix some es lang  

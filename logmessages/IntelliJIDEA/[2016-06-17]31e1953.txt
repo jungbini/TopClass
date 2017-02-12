@@ -1,0 +1,1 @@
+  introduce JBPanelWithEmptyText & better fix for IDEA-157591, IDEA-157466  

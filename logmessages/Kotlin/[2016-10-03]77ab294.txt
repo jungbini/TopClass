@@ -1,0 +1,1 @@
+  Remove effectively dead code in parser  `parseLabeledExpression` can only be called from `parsePrefixExpression`, but the latter in the beginning tries to parse annotated expression, thus advances any number of AT symbols  

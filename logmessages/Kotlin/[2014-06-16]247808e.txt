@@ -1,0 +1,1 @@
+  IDEA plugin: fixed crashing ifExpressionToElvis intention when applying to if expression which is part of another expression.  #EA-57307 fixed  

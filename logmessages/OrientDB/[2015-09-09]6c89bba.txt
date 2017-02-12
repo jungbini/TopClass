@@ -1,0 +1,1 @@
+  fixed unique index in case of not tx, issue #4930  

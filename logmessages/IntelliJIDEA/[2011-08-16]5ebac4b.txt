@@ -1,0 +1,1 @@
+  Minor code changes: Implement method 'copy' in GrLightMethodBuilder, add prefix 'my' to 'String namedParametersArray'  

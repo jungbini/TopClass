@@ -1,0 +1,1 @@
+  IDEA-69424 Ubuntu global menu integration  We have some clean up code in MyDialog.dispose() that removes window listener using reflection. The purpose of the change was to fix the leaks but it broke jayatana unblocking code and the JDK bug (6614056) mentioned in the comments was fixed in 2008. So, I'm removing this code for now.  

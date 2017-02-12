@@ -1,0 +1,1 @@
+  Fixed important bug in reference shortening  

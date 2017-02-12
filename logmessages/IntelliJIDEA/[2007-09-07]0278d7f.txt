@@ -1,0 +1,1 @@
+  deadlock fix: avoid taking write action under disposer lock (IDEADEV-20857)  

@@ -1,0 +1,1 @@
+ make IndexSizeExceededException constructor take formatString and arguments than just fixed String like ISE, IAE etc  

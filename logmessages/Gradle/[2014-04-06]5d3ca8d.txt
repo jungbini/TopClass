@@ -1,0 +1,1 @@
+  Changed some int tests to use the http repo fixtures.  

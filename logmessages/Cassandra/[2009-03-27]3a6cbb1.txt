@@ -1,0 +1,1 @@
+  add deletion marker support to Column (boolean isMarkedForDelete), SuperColumn, and ColumnFamily (change boolean isMarkedForDelete to long markedForDeleteAt).  Column is also made immutable to avoid confusion as to how to handle merging 

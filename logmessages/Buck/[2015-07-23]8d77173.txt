@@ -1,0 +1,1 @@
+  C/C++: fix bug using static PDC libs in shared links  Summary: This fixes a bug where we'd end up pulling in PDC static libraries into contexts that actually needed PIC static libs.  This 

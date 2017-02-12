@@ -1,0 +1,1 @@
+  Fixed bug on object displaying using the console  

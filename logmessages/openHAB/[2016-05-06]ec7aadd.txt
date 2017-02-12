@@ -1,0 +1,1 @@
+  Bugfix at binding EM. only Datapoint.CUMULATED items could be updated and multiple jitter updates for CUMULATED.  cherry-picked from #4351  Signed-off-by: Thomas Eichstdt-Engelen <thomas@openhab.org>  

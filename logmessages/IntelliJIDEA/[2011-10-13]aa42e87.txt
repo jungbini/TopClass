@@ -1,0 +1,1 @@
+  IDEA-75255 Relief remote debugging of tests running under teamcity  1. It's possible to not use predefined test groups (testGroups.properties) during tests discovery (allows to manually specify tests filtering pattern); 2. Created gant script for remote debugging (remote_debug.gant); 3. Created driver shell script for convenient work on local machine (remote_debug.sh);  

@@ -1,0 +1,1 @@
+  KT-8137 AE at JetSourceNavigationHelper.convertNamedClassOrObject() on function local class with several constructor parameters  #KT-8137 #EA-69470 fixed  

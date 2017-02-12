@@ -1,0 +1,1 @@
+ fix of bin/start.sh hangs by redirecting output to the null device.  

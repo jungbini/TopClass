@@ -1,0 +1,1 @@
+  fix isContainer() implementation for legacy ant versions  

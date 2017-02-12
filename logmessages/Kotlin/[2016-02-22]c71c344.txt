@@ -1,0 +1,1 @@
+  Fix NCDFE on primitive iterators during boxing optimization  The real fix is in ProgressionIteratorBasicValue's constructor, other changes are refactorings  #KT-11153 Fixed  

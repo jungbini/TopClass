@@ -1,0 +1,1 @@
+  Move DebugXProtoBuf classes to build-common  KT-8487  

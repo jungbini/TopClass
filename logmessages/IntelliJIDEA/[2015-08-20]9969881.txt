@@ -1,0 +1,1 @@
+  dirty fix for Xerces validation corrected for cases when path to working directory contains spaces  

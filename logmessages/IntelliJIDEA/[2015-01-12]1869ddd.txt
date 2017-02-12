@@ -1,0 +1,1 @@
+  fixed EDU-328 Answer placeholder ranges are removable after first check  

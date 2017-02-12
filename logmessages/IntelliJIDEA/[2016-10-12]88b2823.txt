@@ -1,0 +1,1 @@
+  variable array fix: don't create fix if it can't be applied when there is no variable in the context EA-54266 - ISE: VariableArrayTypeFix.getText  

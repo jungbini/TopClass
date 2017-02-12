@@ -1,0 +1,1 @@
+  Fix cached_classpath generation for `mvn package`  `mvn install` worked fine for all HBase builds, but running the `package` (which does not install Titan artifacts in the local repository, just builds jars) would fail due to the way the HBase test daemon's cached_classpath.txt file was generated.  This is fixed.  

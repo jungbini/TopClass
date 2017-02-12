@@ -1,0 +1,1 @@
+  XDebugger: session tabs leak fixed  

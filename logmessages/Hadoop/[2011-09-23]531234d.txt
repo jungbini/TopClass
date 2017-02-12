@@ -1,0 +1,1 @@
+  HDFS-2342. add Jersey libraries to ivy.xml files in contrib, to fix TestSleepJob and TestHdfsProxy. Contributed by TTsz Wo (Nicholas), SZE.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-205@1174564 13f79535-47bb-0310-9956-ffa450edef68  

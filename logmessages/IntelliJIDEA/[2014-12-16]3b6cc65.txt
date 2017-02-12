@@ -1,0 +1,1 @@
+  revert "SegmentArrayWithData: fixed contradictory comparison in range check"  (temp. solution to make test pass)  

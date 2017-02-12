@@ -1,0 +1,1 @@
+  Fix NPE when tool window has been closed before the starting of debug session  

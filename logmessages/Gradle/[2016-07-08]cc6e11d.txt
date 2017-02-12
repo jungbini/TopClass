@@ -1,0 +1,1 @@
+tains the specified module descriptor when explicitly set. Before that the descriptor was written twice in the EAR file.  This commit also renames the `groovy` folder to `java` now that there are no longer Groovy files in the `ear` module.  +review REVIEW-6081  

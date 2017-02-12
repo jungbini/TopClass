@@ -1,0 +1,1 @@
+  PY-16098 Fixed: Warn that async and await will become keywords in Python 3.7  Warn about variables, classes and functions called "await" or "async" in Pythons 3.5 and 3.6. Suggest quick fix to rename such nodes  

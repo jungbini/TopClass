@@ -1,0 +1,1 @@
+  bug fixed gereric base class, for issue 604. https://github.com/alibaba/fastjson/issues/604  

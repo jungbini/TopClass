@@ -1,0 +1,1 @@
+  Correct test case for KT-12776  After minifying test, it stopped failing without fix  

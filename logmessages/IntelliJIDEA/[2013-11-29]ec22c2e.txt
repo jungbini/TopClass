@@ -1,0 +1,1 @@
+  fix NPE  url could be in any form, so, parsed can be null  

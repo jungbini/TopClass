@@ -1,0 +1,1 @@
+  toolbars are gone from debugger views, console and log can live with horizontal  

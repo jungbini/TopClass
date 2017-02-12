@@ -1,0 +1,1 @@
+  increase timeout value for searches  fixes #441  

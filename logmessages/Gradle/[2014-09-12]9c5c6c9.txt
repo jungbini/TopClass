@@ -1,0 +1,1 @@
+ Convert plugin class to Java.  Highlighted some design issues that will be fixed in a subsequent change.  +review REVIEW-5188  

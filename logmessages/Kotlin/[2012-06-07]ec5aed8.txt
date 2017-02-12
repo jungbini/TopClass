@@ -1,0 +1,1 @@
+  KT-2207 Syntax errors are not reported from the compiler #KT-2207 fixed  

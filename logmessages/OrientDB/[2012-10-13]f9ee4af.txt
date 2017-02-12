@@ -1,0 +1,1 @@
+  Fixed bug reported by Ervis on SQL update with PUT: the value wasn't computed every time but only once.  

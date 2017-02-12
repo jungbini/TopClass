@@ -1,0 +1,1 @@
+  possible fix for IDEADEV-33355 Spring context configuration and new Spring Validation Bean syntax  

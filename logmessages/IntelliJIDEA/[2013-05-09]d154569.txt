@@ -1,0 +1,1 @@
+  fixed PY-9721 "Replace <name> with self.<name>" quickfix does not handle classmethods or staticmethods correctly  

@@ -1,0 +1,1 @@
+  [java] fixes identifier highlighting in decompiled code  

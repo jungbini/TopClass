@@ -1,0 +1,1 @@
+ Add 'replace with return' quick fix  This change adds a 'replace with return' quick fix and addresses https://github.com/go-lang-plugin-org/go-lang-idea-plugin/issues/2002.  

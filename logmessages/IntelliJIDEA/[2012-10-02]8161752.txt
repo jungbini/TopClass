@@ -1,0 +1,1 @@
+  [^romka] fix wrong screen detection on ubuntu 12.04 (cherry-picked from 35329e5)  

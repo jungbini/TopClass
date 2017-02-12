@@ -1,0 +1,1 @@
+  IDEA-77658 XSLT debug: breakpoint in xsl:sequence inside xsl:function is not hit  

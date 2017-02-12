@@ -1,0 +1,1 @@
+  Change values propagated from CxxPreprocessorInput fields to be sets instead of lists.  Summary: `CxxPreprocessorInput`'s fields are now sets and not lists, but they get passed around as lists. This fixes that.  Test Plan: CI  

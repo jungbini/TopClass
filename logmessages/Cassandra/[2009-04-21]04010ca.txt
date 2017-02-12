@@ -1,0 +1,1 @@
+  fix strange line endings and indentation so we can apply patches sanely. patch by Per Mellqvist; reviewed by Eric Evans for #43  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@767167 13f79535-47bb-0310-9956-ffa450edef68  

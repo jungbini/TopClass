@@ -1,0 +1,1 @@
+  Don't retain strings in the debugLog by default.  You can turn the debug log back on by switching CompilerOptions.useDebugLog to true. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=65405798  

@@ -1,0 +1,1 @@
+  Competion in debugger for runtime receiver type should not show members grayed  

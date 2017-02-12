@@ -1,0 +1,1 @@
+  IDEA-95236 fix names of produces android test configurations; create "all in module" configuration if package is empty  (cherry-picked from 4ccf5ba)  

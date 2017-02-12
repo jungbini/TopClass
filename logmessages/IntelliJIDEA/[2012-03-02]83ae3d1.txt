@@ -1,0 +1,1 @@
+  show auto-import only as quickfix, not as balloon, if same name is available in class context (PY-5597)  

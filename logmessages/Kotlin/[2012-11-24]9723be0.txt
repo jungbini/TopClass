@@ -1,0 +1,1 @@
+  fix StdLibToJSTest#testCompileJavaScriptFiles  (cherry-picked from d9c7ff5)  

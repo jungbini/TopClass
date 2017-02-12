@@ -1,0 +1,1 @@
+  GRADLE-1954 - fixed typo in sample.  

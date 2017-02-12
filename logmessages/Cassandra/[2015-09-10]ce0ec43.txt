@@ -1,0 +1,1 @@
+  ninja fix erroneous error message in CASSANDRA-10109  

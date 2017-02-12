@@ -1,0 +1,1 @@
+  fix templates file naming so that Velocity can pick them up from disk  

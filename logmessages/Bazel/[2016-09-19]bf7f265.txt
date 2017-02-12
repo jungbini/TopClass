@@ -1,0 +1,1 @@
+  Add refresh and upgrade/downgrade to pacman command.  This fixed issue #947 for me.  Closes #1652.  -- Reviewed-on: https://github.com/bazelbuild/bazel/pull/1652 MOS_MIGRATED_REVID=133564534  

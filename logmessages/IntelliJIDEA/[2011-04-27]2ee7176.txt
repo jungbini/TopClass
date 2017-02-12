@@ -1,0 +1,1 @@
+  VCS: Show Diff from annotation: speed up; test for lines splitting; debug info for bug added  

@@ -1,0 +1,1 @@
+  add copy extractor to drop down on message partial  fixes #735  

@@ -1,0 +1,1 @@
+  CHANGELOG updates  - upcoming version will be 1.7.0 - note ruby 2.4.0 deprecation warning fixes  

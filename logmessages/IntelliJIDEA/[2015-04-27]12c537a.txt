@@ -1,0 +1,1 @@
+  fixed notnull assertion  

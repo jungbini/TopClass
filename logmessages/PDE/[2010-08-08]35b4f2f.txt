@@ -1,0 +1,1 @@
+  fix width of the progress window, also fix a bug for the removed 'label' xml  

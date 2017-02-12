@@ -1,0 +1,1 @@
+  IDEA-CR-5446 fix NPE in tests  

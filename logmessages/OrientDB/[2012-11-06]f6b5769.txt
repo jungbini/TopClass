@@ -1,0 +1,1 @@
+  Fixed severe bug on the management of complex parsing of records when nested field A is a new document that has inside the field B as a document with an identity  

@@ -1,0 +1,1 @@
+  fix for the quick fix of the "Unnecessary label on 'continue' statement" inspection  

@@ -1,0 +1,1 @@
+  Fix a bug that names with digits or underscores will be considered as not exported names.  

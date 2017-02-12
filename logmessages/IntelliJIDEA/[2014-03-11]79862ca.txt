@@ -1,0 +1,1 @@
+  move isTruncated/getActualLength/reloadHeavyValue to StringValue  WEB-9756 fix presentation  

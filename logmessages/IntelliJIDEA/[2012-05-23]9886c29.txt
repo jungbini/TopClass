@@ -1,0 +1,1 @@
+  IDEA-85926 ('Compute constant value' intention shouldn't be applied in right-associative manner) and fix the intentions in the presence of polyadic expressions  

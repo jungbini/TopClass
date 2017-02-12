@@ -1,0 +1,1 @@
+  removed another ConfigurationException which i overlooked in Till's fix  

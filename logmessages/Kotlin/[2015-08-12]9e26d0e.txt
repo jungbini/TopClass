@@ -1,0 +1,1 @@
+  Graying members from smart cast receiver types that require explicit receiver cast + changed immediate member criteria (override member is not counted as immediate anymore) + fixed a bug in graying members  

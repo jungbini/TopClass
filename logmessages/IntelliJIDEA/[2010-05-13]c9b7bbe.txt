@@ -1,0 +1,1 @@
+  word selection test added to fixture more informative assertion messages  

@@ -1,0 +1,1 @@
+  fix(sequence): return seq of last update instead of the current seq in Difference  

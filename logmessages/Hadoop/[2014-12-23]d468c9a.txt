@@ -1,0 +1,1 @@
+  YARN-2940. Fix new findbugs warnings in rest of the hadoop-yarn components. (Contributed by Li Lu)  

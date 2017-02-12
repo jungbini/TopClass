@@ -1,0 +1,1 @@
+  bg indicator - "jumping" fixed on odd sizes  

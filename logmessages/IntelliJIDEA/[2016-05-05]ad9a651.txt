@@ -1,0 +1,1 @@
+  IDEA-155313 Stack variables requested more than once on the first debugger stop - fixed empty watches on first debugger start with disabled toolwindow activation  

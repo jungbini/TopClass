@@ -1,0 +1,1 @@
+  Infinite circular scroll performance improvements. timeline click event bug fix.  

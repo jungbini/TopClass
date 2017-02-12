@@ -1,0 +1,1 @@
+  some more coverage on package detection with antlr2  - fix handling package information with header in a oneliner - add coverage for syntax used by hibernate team  +review REVIEW-5595  

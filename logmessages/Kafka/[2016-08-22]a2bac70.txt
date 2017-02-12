@@ -1,0 +1,1 @@
+  MINOR: Refactor TopologyBuilder with ApplicationID Prefix  Author: Guozhang Wang <wangguoz@gmail.com>  Reviewers: Damian Guy <damian.guy@gmail.com>, Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1736 from guozhangwang/Kminor-topology-applicationID  

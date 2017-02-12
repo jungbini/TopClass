@@ -1,0 +1,1 @@
+  [vcs-log] fix EA-69636 -- check for negative values  

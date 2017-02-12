@@ -1,0 +1,1 @@
+  Temporary fix for CASSANDRA-8326  This is a temporary python driver fix for CASSANDRA-8326.  The patch has not been properly reviewed and tested by the python driver team. The driver version bundled here can be found at the following branch:  https://github.com/thobbs/python-driver/tree/CASSANDRA-8326-temp-fix  

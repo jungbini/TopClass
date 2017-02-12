@@ -1,0 +1,1 @@
+  Fix Jinja2 exception breakpoints.  The  update policy of active debug session was changed. The name of the exception breakpoint should be passed to the thread info for successful suspending.  

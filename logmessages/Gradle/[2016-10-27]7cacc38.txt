@@ -1,0 +1,1 @@
+  Another attempt at fixing flaky test: Ensure build script is compiled prior to running the builds under test.  

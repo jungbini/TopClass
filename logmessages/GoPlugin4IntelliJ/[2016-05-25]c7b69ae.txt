@@ -1,0 +1,1 @@
+  Debugger compatibility with 2016.2 EAP build 162.426  Fixes #2538  

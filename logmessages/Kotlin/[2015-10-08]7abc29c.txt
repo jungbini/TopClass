@@ -1,0 +1,1 @@
+  fix 'where' clause in IDEA plugin code  

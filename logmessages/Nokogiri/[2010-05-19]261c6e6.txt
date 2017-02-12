@@ -1,0 +1,1 @@
+  Fix force encoding. Changing encoding after the parsing would have been the best, however, this caused decode errors as far as I tested. This fix is done by text processing before parsing.  

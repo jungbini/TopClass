@@ -1,0 +1,1 @@
+  go to action should not merge actions with same name #IDEA-88797 fixed  

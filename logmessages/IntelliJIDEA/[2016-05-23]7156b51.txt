@@ -1,0 +1,1 @@
+ CPP-6675 Debugger stepping and evaluation optimizations: on the stop collect as less frames as possible CPP-6672 When target is suspended in library code without sources, select first frame with available code  fix for optimized version of computeFrames: when looking for frame to select, if first getFrames gives the frame  with not existing source, read the rest of the batch  

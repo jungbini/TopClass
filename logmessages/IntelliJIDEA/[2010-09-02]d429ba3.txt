@@ -1,0 +1,1 @@
+  option to ignore unused loop iteration variables (PY-1432); fix unused lambda parameter check  

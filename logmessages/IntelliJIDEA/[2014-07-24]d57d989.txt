@@ -1,0 +1,1 @@
+  Complete fix for IDEA-62908, works now when virtual space is disabled as well.  

@@ -1,0 +1,1 @@
+  tab fixes: borders, disposal, preferred size, painting issues, default implementation for TabbedPaneWrapper  

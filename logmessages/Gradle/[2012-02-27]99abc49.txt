@@ -1,0 +1,1 @@
+  Disable this test on windows, until GRADLE-2118 is fixed.  

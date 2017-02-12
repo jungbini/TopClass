@@ -1,0 +1,1 @@
+  bug fixed for serialize org.springframework.data.domain.Page error. issue #638  

@@ -1,0 +1,1 @@
+  Don't try to use the library extension as the suffix.  System.load() doesn't appear to care what the library you tell it to load is called.  Could be a possible source of why it won't load on multi-byte charsets under windows.    git-svn-id: https://svn.java.net/svn/jna~svn/trunk@263 2f8a963e-d2e4-e7d0-97bf-ccb7fcea9d80  

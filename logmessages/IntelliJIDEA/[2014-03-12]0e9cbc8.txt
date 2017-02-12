@@ -1,0 +1,1 @@
+  added convert to new-style class quick fix to the Old-style class contains new-style class features inspection  

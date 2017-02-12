@@ -1,0 +1,1 @@
+  Merge -c 1497918 from branch-1 to branch-1.2 to fix MAPREDUCE-5260. Fix JvmManager to deal better with corner-cases in shutting down. Contributed by zhaoyunjiong.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.2@1497919 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  generalized fix on dobule connection release.  Conflicts: client/src/main/java/com/orientechnologies/orient/client/remote/ORemoteConnectionManager.java  

@@ -1,0 +1,1 @@
+  EA-86898 - assert: CaretImpl.lambda$doSetSelection$ open another editor if fix is invoked from method call  

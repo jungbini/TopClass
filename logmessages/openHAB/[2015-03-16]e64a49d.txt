@@ -1,0 +1,1 @@
+ Merge branch 'concurrency-fix' of https://github.com/watou/openhab into watou-concurrency-fix  Conflicts: bundles/binding/org.openhab.binding.nest/src/main/java/org/openhab/binding/nest/internal/NestBinding.java  commit e64a49d5fb25da54869514b96c6bf3bd2f42511d  Correction of bug #2073  

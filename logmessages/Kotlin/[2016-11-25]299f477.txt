@@ -1,0 +1,1 @@
+  Call method references search in UnusedSymbolInspection.hasReferences to fix secondary constructor search  Makes #KT-12500 Fixed Makes #KT-12501 Fixed  

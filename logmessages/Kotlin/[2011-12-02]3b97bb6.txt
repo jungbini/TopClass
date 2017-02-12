@@ -1,0 +1,1 @@
+  imolement most of the intrinsic logic. test fixes to follow  

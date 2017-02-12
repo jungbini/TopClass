@@ -1,0 +1,1 @@
+  IDEA-115906 Throwable ; IDEA-117401 IAE fixed  *update isFresh method for repository; *hgVersion used for appropriate branchheads file detection; *tests updated; *additional checks inserted in HgRepositoryReader for migrating between hg versions  

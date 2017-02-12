@@ -1,0 +1,1 @@
+  refactored the kdoc model to be in the kotlin.doc package, added a KDocConfig to represent the title and package prefixes -> URL links and provided some sensible out of the box defaults so we can link to external classes now in kdoc for KT-1463  

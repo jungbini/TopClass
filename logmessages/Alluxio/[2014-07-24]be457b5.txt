@@ -1,0 +1,1 @@
+  Updated the BasicOperations example class: 1. Change the ordering of methods definition so they follow the sequence calls from main. 2. Add log debug to createFile so it is consistent with other methods. 3. Print time of execution for read and write so all methods are consistent.  

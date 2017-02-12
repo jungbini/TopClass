@@ -1,0 +1,1 @@
+  xdebugger: full value popup ui fixed and option to set font added  

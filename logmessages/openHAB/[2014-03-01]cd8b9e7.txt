@@ -1,0 +1,1 @@
+ debug logging added, DateFormat one statically initialised, improved comments and ouptuts  commit cd8b9e7b96d6a150a6419c1708bd048e7553a2ce  debug logging added, DateFormat one statically initialised, improved comments and ouptuts  

@@ -1,0 +1,1 @@
+  I think I fixed a potential indexoutofbounds in coref  

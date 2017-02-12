@@ -1,0 +1,1 @@
+  Validate directory before registering quick fix  

@@ -1,0 +1,1 @@
+  Fixed intermittent buildSrc test failure due to a null sometimes slipping through.  I can't work out why this only failed intermittently, but I'm confident that this fixes it.  

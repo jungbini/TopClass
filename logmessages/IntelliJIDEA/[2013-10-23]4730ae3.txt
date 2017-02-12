@@ -1,0 +1,1 @@
+  IDEA-114047: "Create Class" quickfix places new class in "target/generated-source" by default  

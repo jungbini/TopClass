@@ -1,0 +1,1 @@
+  Removed some duplication from wtp int tests, and use the fixtures in a few more places.  

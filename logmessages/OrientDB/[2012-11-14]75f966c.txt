@@ -1,0 +1,1 @@
+  SQL functions: fixed bug in avg and eval. Added the support for context variables in Intersect and Union functions  

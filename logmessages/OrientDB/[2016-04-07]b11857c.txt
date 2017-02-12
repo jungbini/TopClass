@@ -1,0 +1,1 @@
+  Issue #4873 ,JMX bean tests were added , few issues were fixed.  

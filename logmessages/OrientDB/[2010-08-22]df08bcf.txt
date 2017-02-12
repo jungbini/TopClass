@@ -1,0 +1,1 @@
+  Issue 100: http://code.google.com/p/orient/issues/detail?id=100 Fixed issue about creation of multiple records in one single tx. This bug has been introduced recently and was on the missed reset of the rid.clusterPosition to -1.  

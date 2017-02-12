@@ -1,0 +1,1 @@
+  HBASE-3159  Double play of OpenedRegionHandler for a single region and assorted fixes around this + TestRollingRestart added  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1028497 13f79535-47bb-0310-9956-ffa450edef68  

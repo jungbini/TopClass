@@ -1,0 +1,1 @@
+  STORM-821: Renaming the connection provider to fix the type. Allowing column val to be null.  

@@ -1,0 +1,1 @@
+ merge upstream/master and fix conflicts  commit bfd800877f094fda55c36c6c9420193fa173eb33  fix format issues from @jsima's comments  

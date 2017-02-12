@@ -1,0 +1,1 @@
+  correct regexp for tag name #WEB-16756 fixed  

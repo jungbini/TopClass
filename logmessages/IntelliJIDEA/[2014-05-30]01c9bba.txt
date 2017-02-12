@@ -1,0 +1,1 @@
+  old inference: ignore java 1.6 bug in new versions (IDEA-125744)  

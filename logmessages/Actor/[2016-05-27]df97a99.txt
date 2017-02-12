@@ -1,0 +1,1 @@
+  fix(server:webrtc): forbid to call in groups with more than 25 members  

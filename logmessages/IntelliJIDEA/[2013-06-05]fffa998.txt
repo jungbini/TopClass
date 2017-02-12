@@ -1,0 +1,1 @@
+  Git/Hg repo reader fixed to recognize Windows file separators; trim() call incorporated  

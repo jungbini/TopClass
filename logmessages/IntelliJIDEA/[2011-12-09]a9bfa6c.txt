@@ -1,0 +1,1 @@
+  IDEA-78479: XSLT debug: Saxon9: user function call evaluation gives just NPE  

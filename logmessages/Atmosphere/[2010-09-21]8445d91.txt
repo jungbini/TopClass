@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=44 ("cannot resume with @Resume")  Make sure we alwasy retrieve the proper AtmosphereResource when using Servlet Session  

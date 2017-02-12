@@ -1,0 +1,1 @@
+  maven: fix layoutJps for changed maven modules structure  

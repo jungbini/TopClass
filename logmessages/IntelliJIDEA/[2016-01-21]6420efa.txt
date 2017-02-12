@@ -1,0 +1,1 @@
+  Add fields to thread_info for jinja2 templates debugging  

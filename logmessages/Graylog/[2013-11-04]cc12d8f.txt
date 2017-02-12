@@ -1,0 +1,1 @@
+  fixes for adding dashboard widgets. #360  

@@ -1,0 +1,1 @@
+  make buttons bigger & fix text centering  

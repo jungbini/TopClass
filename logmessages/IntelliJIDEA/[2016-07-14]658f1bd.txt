@@ -1,0 +1,1 @@
+  create special text attributes for ansi escapes that delegate to the color scheme #RUBY-18264 fixed  

@@ -1,0 +1,1 @@
+  python: fix merged linking with multiple python platforms  Summary: Make sure to filter out irrelevant python platforms when using the merged link strategy.  Test Plan: added integration test  Reviewed By: sdwilsh  fb-gh-sync-id: ade90cc  

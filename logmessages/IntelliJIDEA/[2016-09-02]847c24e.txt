@@ -1,0 +1,1 @@
+  properties: rewrite fix for IDEA-97844. associate string literal in field with properties file  

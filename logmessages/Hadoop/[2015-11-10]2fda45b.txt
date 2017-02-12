@@ -1,0 +1,1 @@
+  HDFS-9401. Fix findbugs warnings in BlockRecoveryWorker. Contributed by Brahma Reddy Battula.  

@@ -1,0 +1,1 @@
+  go: fix missing first-order deps on binary rule  Summary: The Go binary rule needs first-order deps on all the linkable it's consuming.  Test Plan: CI  Reviewed By: azhavnerchik  fbshipit-source-id: 3de87c7  

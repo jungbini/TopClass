@@ -1,0 +1,1 @@
+  Reverted change for Formatter exception fix (invalid characters in HTML), a deeper problem  

@@ -1,0 +1,1 @@
+  use putIfAbsent in NNLM cache, also fix bug to avoid removing and accessing same key at the same time  

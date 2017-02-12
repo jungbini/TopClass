@@ -1,0 +1,1 @@
+  fixed EDU-304 Unreadable text in About splash  

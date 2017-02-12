@@ -1,0 +1,1 @@
+  Add externs for W3C Web MIDI spec.  From external contributor retromodular at gmail.com  Fixed whitespace and prefixed optional parameters with "opt_" to pass lint checks. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=62547446  

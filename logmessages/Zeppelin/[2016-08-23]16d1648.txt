@@ -1,0 +1,1 @@
+s in the REST API doc. 3397fb0 [Kavin Kumar] Handled NPE when the json is empty for interpreter setting POST request and corrected the json in the REST API doc.  (cherry picked from commit 47ac1d41e7ec18a16c6144460fbbc35877d71a11) Signed-off-by: Mina Lee <minalee@apache.org>  Conflicts: zeppelin-server/src/main/java/org/apache/zeppelin/rest/InterpreterRestApi.java  

@@ -1,0 +1,1 @@
+  fix #834. properly handle self closing tags in xhtml docs.  

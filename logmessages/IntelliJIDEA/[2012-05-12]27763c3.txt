@@ -1,0 +1,1 @@
+  fixed PY-6529 "Manage repositories" dialog should use ToolbarDecorator for add/remove buttons  

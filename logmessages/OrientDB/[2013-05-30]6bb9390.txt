@@ -1,0 +1,1 @@
+  MMAP: fixed autoflush on timeout. Default is 30secs Addred other minor improvements  

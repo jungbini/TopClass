@@ -1,0 +1,1 @@
+  make api client timeouts configurable  the application will log timeout keys that are available on debug (on their first use) each timeout can be configured in the graylog2-web-interface.conf with setting: timeout.<keyname> = 5ms (e.g.)  time parsing is done via typesafe's configuration object (e.g. 1s, 5m etc)  fixes #592  

@@ -1,0 +1,1 @@
+  fixed PY-9568 Doctest match pattern doesn't work with py extension  do not match name twice  

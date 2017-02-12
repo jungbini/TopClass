@@ -1,0 +1,1 @@
+  D: fix missing source link tree rule error  Summary:Make sure to resolve a the source tree for the current rule when building it's static archive.  Previously, we'd just resolve it for dependencies.  Test Plan: CI  Reviewed By: inglorion  fb-gh-sync-id: 9e9cc3a shipit-source-id: 9e9cc3a  

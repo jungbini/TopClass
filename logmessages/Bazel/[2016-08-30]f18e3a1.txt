@@ -1,0 +1,1 @@
+  Save CEN (Central Directory) offset and size values in the End of Central Directory record if possible, even when we create Zip64 End of Central Directory record. It is a workaround for the bug in the Java compiler and 'javah' tool.  RELNOTES:  -- MOS_MIGRATED_REVID=131681005  

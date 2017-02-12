@@ -1,0 +1,1 @@
+  fixed PY-12991 Missing Added by user mark on paths added to the interpreter  

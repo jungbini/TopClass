@@ -1,0 +1,1 @@
+  KAFKA-3158; ConsumerGroupCommand should tell whether group is actually dead  This patch fix 

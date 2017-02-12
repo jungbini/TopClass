@@ -1,0 +1,1 @@
+  Not building light class for local class (to fix exception in tests).  

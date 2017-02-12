@@ -1,0 +1,1 @@
+  HDFS-3093. Fix bug where namenode -format interpreted the -force flag in reverse. Contributed by Todd Lipcon.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1300813 13f79535-47bb-0310-9956-ffa450edef68  

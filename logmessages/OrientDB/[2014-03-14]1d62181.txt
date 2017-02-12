@@ -1,0 +1,1 @@
+  Fixed bug reported by Mateusz about distributed create record  

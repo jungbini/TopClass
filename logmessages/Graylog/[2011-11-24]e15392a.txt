@@ -1,0 +1,1 @@
+  decline incomplete GELF messages  was lost after ES changes. fixes #SERVER-58 (god, this GELF handling needs a serious rewrite)  

@@ -1,0 +1,1 @@
+  Fixed bug reported by Bayoda about last update on new management of custom types  

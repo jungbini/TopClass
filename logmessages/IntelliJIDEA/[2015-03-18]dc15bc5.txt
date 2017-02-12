@@ -1,0 +1,1 @@
+  fixed "Do not log ProcessCanceledException" exceptions (EA-64570, EA-64491, EA-63606)  

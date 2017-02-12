@@ -1,0 +1,1 @@
+ fritzboxtr064 binding: fix wrong operators  

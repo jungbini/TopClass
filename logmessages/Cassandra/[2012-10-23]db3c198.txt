@@ -1,0 +1,1 @@
+  fix BulkLoader NPE caused by #4732 patch by jbellis; reviewed by yukim for CASSANDRA-4846  

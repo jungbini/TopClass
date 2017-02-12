@@ -1,0 +1,1 @@
+  HADOOP-11529. Fix findbugs warnings in hadoop-archives. Contributed by Masatake Iwasaki.  

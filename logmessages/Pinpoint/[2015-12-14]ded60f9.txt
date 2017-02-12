@@ -1,0 +1,1 @@
+  Redesign Collector's ZookeeperCluster logic. #1305  1.fixed test case  

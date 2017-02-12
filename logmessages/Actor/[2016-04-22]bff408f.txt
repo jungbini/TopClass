@@ -1,0 +1,1 @@
+  fix(server): dont add peers to DMs or groups if it is already in favourites  

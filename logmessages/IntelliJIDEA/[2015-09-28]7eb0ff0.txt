@@ -1,0 +1,1 @@
+  remove myBreakpointListener/myDependentBreakpointListener listeners before debug process stop to avoid mystic erros  stop is async and, so, there is a time window when user can trigger breakpoint processing  

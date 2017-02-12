@@ -1,0 +1,1 @@
+  do not attach debugger if application is not yet deployed  

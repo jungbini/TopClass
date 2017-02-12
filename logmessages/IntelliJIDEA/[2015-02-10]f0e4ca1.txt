@@ -1,0 +1,1 @@
+  WEB-13490 Debug for Meteor packages doesn't work  

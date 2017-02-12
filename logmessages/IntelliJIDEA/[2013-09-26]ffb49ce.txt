@@ -1,0 +1,1 @@
+  fixed PY-10902 PyCharm 3 no __init__ class introspection for django Meta classes  

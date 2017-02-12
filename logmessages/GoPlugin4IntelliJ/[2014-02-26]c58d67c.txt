@@ -1,0 +1,1 @@
+ Fix issue checking func type against literal function, fix issue #630  

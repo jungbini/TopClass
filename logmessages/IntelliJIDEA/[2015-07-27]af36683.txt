@@ -1,0 +1,1 @@
+  IDEA-143135 HiDPI on Linux: ComboBox UI bug  

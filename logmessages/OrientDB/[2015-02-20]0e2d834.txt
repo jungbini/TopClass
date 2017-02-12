@@ -1,0 +1,1 @@
+  fixed wrong call on merge of ridbags  

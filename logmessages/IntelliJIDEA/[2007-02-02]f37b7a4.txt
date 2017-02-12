@@ -1,0 +1,1 @@
+  lvcs -startup optimization -use of cache updater -cache updating bug fixes NOTE: to disable new lvcs use define 'newlocalvcs.disabled' system property  

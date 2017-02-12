@@ -1,0 +1,1 @@
+  Some tidy up after fixing the project dependency resolution for configuration time resolves.  

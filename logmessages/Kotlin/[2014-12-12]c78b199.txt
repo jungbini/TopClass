@@ -1,0 +1,1 @@
+  JS test minor: fixed recursion test for inliner  After changes in translator exception is no longer wrapped into another one  

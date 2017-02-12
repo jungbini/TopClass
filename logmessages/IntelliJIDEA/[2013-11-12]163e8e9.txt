@@ -1,0 +1,1 @@
+  IDEA-116291 New Mercurial log: Details not correct and garbled  *Subject method fixed for HgRevision  

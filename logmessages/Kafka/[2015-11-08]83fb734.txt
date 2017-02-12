@@ -1,0 +1,1 @@
+  HOTFIX: fix group coordinator edge cases around metadata storage callback  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Guozhang Wang  Closes #451 from hachikuji/hotfix-group-coordinator  

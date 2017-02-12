@@ -1,0 +1,1 @@
+  encode the api-docs path properly to make Safari happy  fixes #307  

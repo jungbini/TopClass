@@ -1,0 +1,1 @@
+  HADOOP-8821. Fix findbugs warning related concatenating string in a for loop in Configuration#dumpDeprecatedKeys(). Contributed by Suresh Srinivas.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1385389 13f79535-47bb-0310-9956-ffa450edef68  

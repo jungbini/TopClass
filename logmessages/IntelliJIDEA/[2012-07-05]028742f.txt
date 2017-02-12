@@ -1,0 +1,1 @@
+  cumulative statistics for all fixes (IDEA-88318)  

@@ -1,0 +1,1 @@
+  fix switching from/to Darcula  

@@ -1,0 +1,1 @@
+  add setters for boolean uniforms contributed by AmnonOwed, fixes #1991.  

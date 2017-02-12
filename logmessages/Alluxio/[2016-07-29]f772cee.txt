@@ -1,0 +1,1 @@
+ [ALLUXIO-2116] gracefully get under storage type and fix checkstyle error  

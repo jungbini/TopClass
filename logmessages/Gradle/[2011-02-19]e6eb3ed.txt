@@ -1,0 +1,1 @@
+  fixed GRADLE-1391: Groovydoc doesn't create external links in generated HTML  

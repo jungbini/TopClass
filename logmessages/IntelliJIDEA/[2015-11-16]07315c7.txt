@@ -1,0 +1,1 @@
+  Error on stop process when debugging (PY-17546)  Do not stop on exception breakpoints in case of KeyboardInterrupt  

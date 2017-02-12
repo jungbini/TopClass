@@ -1,0 +1,1 @@
+  fix exception in Python spellchecker (PY-4784)  

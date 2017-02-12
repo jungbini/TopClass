@@ -1,0 +1,1 @@
+  Bug fixed: [RUBY-1769] - Incorrect indication of "All tests passed"  

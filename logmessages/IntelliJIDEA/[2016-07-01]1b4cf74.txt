@@ -1,0 +1,1 @@
+  Exceptions in collecting call signatures shouldn't break debugger (PY-19650)  

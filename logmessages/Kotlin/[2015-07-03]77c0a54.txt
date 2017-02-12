@@ -1,0 +1,1 @@
+  convert QuickFixRegistrar to Kotlin; on-demand registration of quickfixes (KT-8307) #KT-8307 Fixed  

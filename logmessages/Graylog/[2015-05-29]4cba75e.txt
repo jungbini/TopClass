@@ -1,0 +1,1 @@
+ Unbreak loading recent messages in extractor form. Broke in 9f830d4.  Remove the filtered suffix from the url because it's filtered by default now.  

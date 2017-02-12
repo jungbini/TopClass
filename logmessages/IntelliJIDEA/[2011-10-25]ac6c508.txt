@@ -1,0 +1,1 @@
+  IDEA-75280 fix red code: support for inline drawables for all drawable lists  

@@ -1,0 +1,1 @@
+  fix bg color for active tab (white always)  

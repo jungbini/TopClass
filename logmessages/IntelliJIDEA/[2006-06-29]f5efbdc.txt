@@ -1,0 +1,1 @@
+  fixed crash due to reference to nonexisting root highlight level  

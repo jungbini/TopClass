@@ -1,0 +1,1 @@
+  an attempt to fix diagram performance (IDEA-98769)  

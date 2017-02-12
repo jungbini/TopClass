@@ -1,0 +1,1 @@
+  XcconfigStack: encode inherited variables with intermediate aliases.  Summary: This 

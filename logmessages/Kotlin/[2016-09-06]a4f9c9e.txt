@@ -1,0 +1,1 @@
+  Remove kotlin-jps-plugin.jar from plugin.xml  Possible fix for KT-13642  

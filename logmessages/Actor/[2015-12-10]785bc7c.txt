@@ -1,0 +1,1 @@
+  fix(android): notify chat closed when reusing chat activity  

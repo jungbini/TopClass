@@ -1,0 +1,1 @@
+  GitRepositoryReader: optimize reading from packed-refs  Don't use split("\n"): we already have code to read by lines, reuse it. Write a performance test sketch. It now tests nothing, just was used for debugging, in future may become a performance test. May help with IDEA-94306  

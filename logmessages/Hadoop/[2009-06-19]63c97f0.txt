@@ -1,0 +1,1 @@
+  HADOOP-4687. Fix libraries to be consistent with each other and fix TestFTPFileSystem test case to use the current API.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/branches/HADOOP-4687/hdfs@786386 13f79535-47bb-0310-9956-ffa450edef68  

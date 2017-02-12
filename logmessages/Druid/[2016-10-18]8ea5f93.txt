@@ -1,0 +1,1 @@
+  Integration Tests - fix middlemanager  property name in doc (#3586)  

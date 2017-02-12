@@ -1,0 +1,1 @@
+  IDEA-139945 When putting a watch on a breakpoint, Java debugger produces a boxed Integer instead of primitive int  

@@ -1,0 +1,1 @@
+  fixed syntax error in creating index statements; added a test for MetadataConnector  

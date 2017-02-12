@@ -1,0 +1,1 @@
+  JS backend: partial fix for #KT-2670 -- throw NPE when unsafe cast null value to not nullable type.  

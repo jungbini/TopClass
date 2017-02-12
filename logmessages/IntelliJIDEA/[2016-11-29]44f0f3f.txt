@@ -1,0 +1,1 @@
+  correct annotation operating fixes wrt read-only files  they can change either the current file or external annotations file so they should be invoked outside write action all callees (e.g. suppressions) should honor that  

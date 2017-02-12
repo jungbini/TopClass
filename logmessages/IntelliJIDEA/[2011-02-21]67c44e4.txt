@@ -1,0 +1,1 @@
+  forbid diamonds on non-parameterized types (javac should be fixed accordingly)  

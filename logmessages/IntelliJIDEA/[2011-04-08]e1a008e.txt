@@ -1,0 +1,1 @@
+  EA-26028: EditorUtil.getLastVisualLineColumnNumber  Debug info is added  

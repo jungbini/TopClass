@@ -1,0 +1,1 @@
+  Fixing bug #1218 ... JS mode not highlighting exceptions correctly  

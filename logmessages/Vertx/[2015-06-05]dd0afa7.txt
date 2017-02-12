@@ -1,0 +1,1 @@
+  Fix bug where iteration of entries caused underlying object to change resulting in equals failing  

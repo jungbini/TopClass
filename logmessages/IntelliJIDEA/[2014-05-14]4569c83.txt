@@ -1,0 +1,1 @@
+  fixed PY-12369 Code Inspection fails for negative default parameter  

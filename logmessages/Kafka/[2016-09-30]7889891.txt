@@ -1,0 +1,1 @@
+  HOTFIX: Revert async change in ProduceConsumeValidateTest  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1945 from hachikuji/hotfix-produce-consume-validate  

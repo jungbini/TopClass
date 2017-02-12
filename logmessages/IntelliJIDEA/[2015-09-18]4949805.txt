@@ -1,0 +1,1 @@
+  devkit: 'Specify JetBrains as vendor' quickfix corrected, tests added  

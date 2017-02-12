@@ -1,0 +1,1 @@
+  Fix LWW bug affecting MaterializedViews  Patch by tjake; reviewed by carl for CASSANDRA-10197  

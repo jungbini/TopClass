@@ -1,0 +1,1 @@
+  tolerate invalid light virtual files when working with document: they have document inside. the change fixes tests  

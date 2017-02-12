@@ -1,0 +1,1 @@
+  [Mercurial] HgWorkingCopyRevisionsCommand.parent: couple of null pointer fixes.  

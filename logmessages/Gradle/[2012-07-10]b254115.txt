@@ -1,0 +1,1 @@
+  GRADLE-2238: fix classpath problem for dist when 3party dependency is filecollection and not externalDependency.  

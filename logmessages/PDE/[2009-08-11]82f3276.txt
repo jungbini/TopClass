@@ -1,0 +1,1 @@
+  fix a crash on startup problem (console being null)  

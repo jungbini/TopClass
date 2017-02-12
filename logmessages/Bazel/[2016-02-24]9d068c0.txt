@@ -1,0 +1,1 @@
+  Support full logging of handled events in the experimental UI  To allow debugging and faster development of the new experimental UI, add an additional option telling the experimental UI to log each event available to the handler.  -- Change-Id: Ib14c42d2afa5f52f6c444592274c8eaeeda15a81 Reviewed-on: https://bazel-review.googlesource.com/#/c/3010/2 MOS_MIGRATED_REVID=115453031  

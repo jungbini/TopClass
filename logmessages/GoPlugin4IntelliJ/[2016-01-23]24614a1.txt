@@ -1,0 +1,1 @@
+  Improve unnamed field initialization inspection (fixes #2267)  

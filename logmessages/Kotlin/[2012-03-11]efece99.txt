@@ -1,0 +1,1 @@
+  Completion for top-level functions from class and jar files - import quick fix  

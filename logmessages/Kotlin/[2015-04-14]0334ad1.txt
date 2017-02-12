@@ -1,0 +1,1 @@
+  ConvertToConcatenatedStringIntention - minor code improvements + fixed bug  

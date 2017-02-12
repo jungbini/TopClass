@@ -1,0 +1,1 @@
+  fix race condition between forceUpdate() and indexUnsavedDocuments() which lead to "twin stubs" problem  

@@ -1,0 +1,1 @@
+rt held over from AsciiDoc.  I gathered the settings relevant for our current DocBook->HTML output into titansingle.xsl and deleted asciicommon.xsl.  I also made some minor changes to the style of the HTML output produced by DocBook.  

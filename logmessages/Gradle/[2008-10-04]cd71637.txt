@@ -1,0 +1,1 @@
+  - use a tex4ht config file to apply styles to html userguides - fixed footnotes for single html page userguide  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@899 004c2c75-fc45-0410-b1a2-da8352e2331b  

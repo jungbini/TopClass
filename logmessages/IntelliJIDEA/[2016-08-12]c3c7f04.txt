@@ -1,0 +1,1 @@
+  [hg]: (IDEA-159723, IDEA-159729) fix hg update dialog to be compatible with new MigLayout library  * problem Introduced in a9e7965f88;  

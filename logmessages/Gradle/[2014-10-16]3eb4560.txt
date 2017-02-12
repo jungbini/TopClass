@@ -1,0 +1,1 @@
+  Split up TestableDaemon fixture into a piece that understands the log file and another that uses the registry. Use these both of these consistently when asserting that a daemon is idle/busy/stopped.  

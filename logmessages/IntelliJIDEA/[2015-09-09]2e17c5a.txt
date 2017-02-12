@@ -1,0 +1,1 @@
+  support smart pointers into injected psi prefix/suffix  

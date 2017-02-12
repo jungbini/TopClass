@@ -1,0 +1,1 @@
+ revert indentation 55d95ec [Renjith Kamath] ZEPPELIN-1254 review fix ab0bced [Renjith Kamath] ZEPPELIN-1254  boradcast after updating the interpreter bindings 299bb51 [Renjith Kamath] ZEPPELIN-1254 review fix 97bfd7d [Renjith Kamath] ZEPPELIN-1254 Make get and save Interpreter bindings calls via websocket  

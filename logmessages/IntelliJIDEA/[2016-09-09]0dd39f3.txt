@@ -1,0 +1,1 @@
+  Update CompatibilityVisitor to highlight and suggest quick fix for underscores in numeric literals in Pythons < 3.6  As a result compatibility inspection warns about underscores for Pythons < 3.6  

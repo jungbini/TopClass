@@ -1,0 +1,1 @@
+  YARN-5316  fix hadoop-aws pom not to do the exclusion  (Sangjin Li via Vrushali C)  

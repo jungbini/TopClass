@@ -1,0 +1,1 @@
+  Add auth support for proxy downloads  Should fix #587.  RELNOTES: Support for downloading remote resources through proxies by setting HTTP_PROXY (or HTTPS_PROXY).  -- Change-Id: I4ae18c4f1a9e911e538efd446323e279e9776eec Reviewed-on: https://github.com/bazelbuild/bazel/pull/759 MOS_MIGRATED_REVID=111708438  

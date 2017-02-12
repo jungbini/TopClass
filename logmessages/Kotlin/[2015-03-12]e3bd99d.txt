@@ -1,0 +1,1 @@
+  JS: fix clash between sources and metadata in one library  

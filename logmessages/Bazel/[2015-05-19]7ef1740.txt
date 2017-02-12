@@ -1,0 +1,1 @@
+  Deactivate bazel_sandboxing_test  This test is flaky.  Also fix the shebang.  -- MOS_MIGRATED_REVID=93973769  

@@ -1,0 +1,1 @@
+  resource bundle editor: npe fixed: property selected when "no values" panel is shown (IDEA-146365)  

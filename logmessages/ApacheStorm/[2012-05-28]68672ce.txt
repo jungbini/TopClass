@@ -1,0 +1,1 @@
+ fix bug where tuple tree could ack even if tuples weren't delivered (because coordination tuples always ack). now it always keeps a coordination tuple until the condition is met before it acks them  

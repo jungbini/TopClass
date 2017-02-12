@@ -1,0 +1,1 @@
+  KAFKA-2773: Fixed broken vagrant provision scripts for static zk/broker cluster  Author: Geoff Anderson <geoff@confluent.io>  Reviewers: Ewen Cheslack-Postava  Closes #454 from granders/KAFKA-2773-vagrant-fix  

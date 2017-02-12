@@ -1,0 +1,1 @@
+  unnecessary module dependencies: when scope contains module - add quick fix to remove; when scope doesn't - note that it should be checked with broader scope  

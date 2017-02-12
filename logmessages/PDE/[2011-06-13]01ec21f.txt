@@ -1,0 +1,1 @@
+  fixed socketexception on shutdown in js mode server  

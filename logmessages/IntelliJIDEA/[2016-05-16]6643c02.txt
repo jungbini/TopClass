@@ -1,0 +1,1 @@
+ Add setting "Show return values" and ability to turn it on/off during debug session (PY-13540)  

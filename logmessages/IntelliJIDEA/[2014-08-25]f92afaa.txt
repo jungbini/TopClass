@@ -1,0 +1,1 @@
+  fixed PY-13677 reStructuredText substitution with underscores  

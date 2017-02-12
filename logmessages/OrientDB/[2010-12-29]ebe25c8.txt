@@ -1,0 +1,1 @@
+  Fixed bug using SQL projection against Object Database interface. Now returns always documents instead of POJOs when the ODocument has no class associated.  

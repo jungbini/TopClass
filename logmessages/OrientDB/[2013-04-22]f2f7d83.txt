@@ -1,0 +1,1 @@
+  Fixed bug reported by Melissa through the ML about Object Database and deletion of record bytes objects  

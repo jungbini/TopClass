@@ -1,0 +1,1 @@
+  fixed PY-9496 Don't show warnings about base classes without __init__ PY-9302 Class has no __init__ method: false positive for child class without one  

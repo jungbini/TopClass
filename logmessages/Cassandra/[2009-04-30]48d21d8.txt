@@ -1,0 +1,1 @@
+  fix antlr check.  patch by johano; reviewed by jbellis for CASSANDRA-125  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@770324 13f79535-47bb-0310-9956-ffa450edef68  

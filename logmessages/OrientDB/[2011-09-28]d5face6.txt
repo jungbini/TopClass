@@ -1,0 +1,1 @@
+  Fixed bug on validation of linked class types. Created also new methods to know and change the validation policy. This is needed to the importer to avoid checking of linked records before they're loaded.  

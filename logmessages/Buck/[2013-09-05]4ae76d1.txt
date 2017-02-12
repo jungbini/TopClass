@@ -1,0 +1,1 @@
+  Update DirectoryTraversal.visit() to throw IOException.  Summary: This allows an `IOException` in `DirectoryTraverser` that was previously being rethrown as a `RuntimeException` to propagate, as well as in a number of other places. Also fixes weirdness of `IOException` propagation in `ZipSplitter`.  Test Plan: Sandcastle builds.  

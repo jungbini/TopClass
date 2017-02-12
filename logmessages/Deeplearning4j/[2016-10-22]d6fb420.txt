@@ -1,0 +1,1 @@
+ Merge pull request #2208 from deeplearning4j/ab_metadataeval  Switch metadata functionality to not be fixed to DataVec RecordMetaData in Evaluation class  commit d6fb420c2134a2514d24802eac2a2b398c32f455  Switch metadata functionality to not be fixed to DataVec RecordMetaData in Evaluation class  

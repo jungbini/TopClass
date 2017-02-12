@@ -1,0 +1,1 @@
+  HDFS-4189. Renames the getMutableXxx methods to getXxx4Write and fix a bug that some getExistingPathINodes calls should be getINodesInPath4Write.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-2802@1441193 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Add an option to debug unit tests  Summary: Add an option to build.xml to allow debugging unit tests. Also, provide an option to override default debug port.  Test Plan: Run command:  ant java-test -DdebugTest=true  Wait for message "[junit] Listening for transport dt_socket at address: 8787". After that try to connect to the process from IDE.  

@@ -1,0 +1,1 @@
+  misc fixes: focus fix for editor activation + popups window searching + some constants extracted to registry  

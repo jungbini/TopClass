@@ -1,0 +1,1 @@
+  fix recursion in initialization of FileBasedIndex on error recovery path of StubUpdatingIndex instantiation, correctly restore on stringenumerator corruption/version change on index creation  

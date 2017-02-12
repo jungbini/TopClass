@@ -1,0 +1,1 @@
+ Merge pull request #662 from Graylog2/fix-log-messages  Fix log messages in try-catch blocks  commit a7b0bc608e0baba765d385aea0cd7c245dd922ac  Don't run periodic cluster check if ES client hasn't been initialized completely, fixes #660  

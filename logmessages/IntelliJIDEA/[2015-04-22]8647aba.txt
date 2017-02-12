@@ -1,0 +1,1 @@
+  Fix hanging in remote debugging (PY-15515)  After changes in PyDBDaemonThread the non-daemon thread, created in CheckOutputThread is unnecessary. Moreover it left alive always and confused haveAliveThreads()  

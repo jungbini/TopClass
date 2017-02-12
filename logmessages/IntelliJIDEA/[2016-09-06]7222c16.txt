@@ -1,0 +1,1 @@
+  "Show command line afterwards" conflicts with debugger (PY-16324)  

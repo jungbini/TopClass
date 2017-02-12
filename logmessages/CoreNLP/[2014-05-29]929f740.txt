@@ -1,0 +1,1 @@
+  done debugging. String.trim() errorgit push origin patterns  

@@ -1,0 +1,1 @@
+ Merge pull request #1775 from eugene-auduchinok/expression_result_count_fix  Add void assignment case in GoVarDeclarationInspection  commit 0b78860b1b63dbb0c07796cce439bdcc8cea0ad4  Can't Use "nil" to Initialize a Variable Without an Explicit Type (fixes # 1758)  

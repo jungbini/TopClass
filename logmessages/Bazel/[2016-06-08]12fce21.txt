@@ -1,0 +1,1 @@
+  fixed use_testrunner doc  changed use_testrunner doc from mentioning non existent GoogleTestRunner to BazelTestRunner fixes bazelbuild/bazel#1345  -- Reviewed-on: https://github.com/bazelbuild/bazel/pull/1354 MOS_MIGRATED_REVID=124335414  

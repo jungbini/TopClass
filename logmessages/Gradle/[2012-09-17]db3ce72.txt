@@ -1,0 +1,1 @@
+  Hotfix for classpathManifest issue wrt jarjar dependencies declared as a fileTree. Proper fix coming soon.  

@@ -1,0 +1,1 @@
+  Cut off debug info. Eats up to 2mb memory.  

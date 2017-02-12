@@ -1,0 +1,1 @@
+  error/debug messages from Android not showing up (issue #1440)  

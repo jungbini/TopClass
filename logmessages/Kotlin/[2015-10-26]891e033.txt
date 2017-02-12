@@ -1,0 +1,1 @@
+  KT-9664 Add quickfix to convert a piece of code to pretty look SAM-style  #KT-9664 Fixed  

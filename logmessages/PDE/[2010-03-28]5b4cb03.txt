@@ -1,0 +1,1 @@
+  fixed bug with japanese text in autoformat  

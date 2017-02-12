@@ -1,0 +1,1 @@
+  IDEA-130822 Special Java/Swing widget to enable/disable breakpoints does not hide when active tab changes during debugger session  

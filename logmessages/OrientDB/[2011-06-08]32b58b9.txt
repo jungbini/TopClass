@@ -1,0 +1,1 @@
+  Committed a bug reported and fixed via Twitter (really!) by @januszesser (Jan Esser) in server configuration: now properties can be null in XML file  

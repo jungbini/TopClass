@@ -1,0 +1,1 @@
+  upgrade to kryo 2.17, hopefully fixing linkageerror bug  

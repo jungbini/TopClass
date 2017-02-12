@@ -1,0 +1,1 @@
+  GRADLE-2502: Add integration test that exposes the bug.  

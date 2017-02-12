@@ -1,0 +1,1 @@
+  HBASE-2513 hbase-2414 added bug where we'd tight-loop if no root available  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@941101 13f79535-47bb-0310-9956-ffa450edef68  

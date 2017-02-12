@@ -1,0 +1,1 @@
+  Minor: do less work in debug thread during stepping commands for inline functions  

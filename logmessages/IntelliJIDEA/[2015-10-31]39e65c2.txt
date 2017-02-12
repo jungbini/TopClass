@@ -1,0 +1,1 @@
+  [vcs] IDEA-146940 remove read action since directoryMappingChanged() clients can be slow  The read action was introduced to capture Already Disposed Exception, but that's not worth it + the ADE on pooled threads should be fixed some other way.  

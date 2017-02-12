@@ -1,0 +1,1 @@
+  IDEA-156888 Simplify JDK setup for new projects: re-fixed  

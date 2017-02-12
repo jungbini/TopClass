@@ -1,0 +1,1 @@
+  attempts to turn off console antialiasing, fix for cmd-key macosx issues  

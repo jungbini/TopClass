@@ -1,0 +1,1 @@
+  Fix for problem with symbols '_' and '$' within GOTO feature. Oromatcher uses \x prefix for codes within regexp so it does not understand standard '\u' prefix that was used.  

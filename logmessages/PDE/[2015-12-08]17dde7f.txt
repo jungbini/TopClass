@@ -1,0 +1,1 @@
+  scale point offset in 3D, fixes #4188  

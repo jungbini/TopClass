@@ -1,0 +1,1 @@
+  Studio: fixed nasty problem with query history when text contains "  

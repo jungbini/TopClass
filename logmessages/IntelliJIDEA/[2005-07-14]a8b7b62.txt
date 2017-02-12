@@ -1,0 +1,1 @@
+  fixed issue with second and further updates of j2ee file templates not caused their save ( 	 IDEADEV-1882)  

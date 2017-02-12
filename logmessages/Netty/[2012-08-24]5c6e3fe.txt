@@ -1,0 +1,1 @@
+ Don't rely on the return value fo Selector.select(..) as it is buggy and so can cause 100% cpu usage. See #535  

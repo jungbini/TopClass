@@ -1,0 +1,1 @@
+ Retina Support: BlockCursor fixed (IDEA-87500) Retina icons MemoryIndicator Gutter improved Editor and fragment popups in retina.  

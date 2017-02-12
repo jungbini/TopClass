@@ -1,0 +1,1 @@
+  incorrect variable scope resolution in switch context, fix #1269  

@@ -1,0 +1,1 @@
+  fix error with not showing dependencies tab for the first module when second module is added to the project  

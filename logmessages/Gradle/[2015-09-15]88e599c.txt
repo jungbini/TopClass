@@ -1,0 +1,1 @@
+  fix bug in ProjectGeneratorTask - rootProjectTemplates wasn't used when it should have been used  +review REVIEW-5616  

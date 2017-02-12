@@ -1,0 +1,1 @@
+  maven: ejb-client artifacts building fix  

@@ -1,0 +1,1 @@
+  [hg] mercurial reference comparator works better for references in 

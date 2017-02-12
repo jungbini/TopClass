@@ -1,0 +1,1 @@
+  Make sandboxed execution the default in Bazel. This should be safe, as the strategy is only used if your Linux kernel is new enough and your running system supports it. If this breaks you, please file a bug and you can always go back to non-sandboxed execution by using --spawn_strategy=standalone.  -- MOS_MIGRATED_REVID=101464269  

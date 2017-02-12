@@ -1,0 +1,1 @@
+  Controllable find usages options in CodeInsight fixture  

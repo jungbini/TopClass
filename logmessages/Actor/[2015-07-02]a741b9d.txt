@@ -1,0 +1,1 @@
+  fix(activation, email): change to new server configuration style  

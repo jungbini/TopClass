@@ -1,0 +1,1 @@
+  fixed PY-12033 PyAbstractClass invalid warning for properties.  

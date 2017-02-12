@@ -1,0 +1,1 @@
+  fixed ListSelectionHandler (removed unusable whiteSpaces from selection)  

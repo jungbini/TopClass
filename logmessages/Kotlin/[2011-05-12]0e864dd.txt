@@ -1,0 +1,1 @@
+  fix PropertyGenTest: context of a function can be not only a class but also a namespace  

@@ -1,0 +1,1 @@
+  MAPREDUCE-3215. Reneabled and fixed bugs in the failing test TestNoJobSetupCleanup. Contributed by Hitesh Shah.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1197101 13f79535-47bb-0310-9956-ffa450edef68  

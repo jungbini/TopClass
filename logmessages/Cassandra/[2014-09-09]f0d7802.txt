@@ -1,0 +1,1 @@
+  Ninja: fixed CHANGES.txt for CASSANDRA-7828  

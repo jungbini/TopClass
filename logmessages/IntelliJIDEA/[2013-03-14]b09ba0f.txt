@@ -1,0 +1,1 @@
+  jps: fix loading project when project directory is named '.idea' (ZD-62)  

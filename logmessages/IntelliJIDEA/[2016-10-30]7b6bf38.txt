@@ -1,0 +1,1 @@
+  PY-21278 Deadlock on closing PyCharm when Python debug server configuration is waiting for a script to be connected fixed  

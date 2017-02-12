@@ -1,0 +1,1 @@
+  Just drop calls to super() constructor in externs files.  This fixes an exception that occurs when trying to find the superclass on a class defined in externs.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=137041268  

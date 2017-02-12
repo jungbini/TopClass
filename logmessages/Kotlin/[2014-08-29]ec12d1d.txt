@@ -1,0 +1,1 @@
+ Fix deprecation warnings on junit.framework.Assert  Use org.junit.Assert instead everywhere. Also fix some other minor warnings  

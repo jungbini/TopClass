@@ -1,0 +1,1 @@
+  CSS: fix image and color preview for injected languages  

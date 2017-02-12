@@ -1,0 +1,1 @@
+  Add note that `TestReportTask` will need to have some fixes applied when we render test output per test, rather than per class.  

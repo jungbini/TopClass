@@ -1,0 +1,1 @@
+  fix todo duplication when several pattern match -> prefer finding match with last pattern (in settings list), thus default TODO pattern is matched last  

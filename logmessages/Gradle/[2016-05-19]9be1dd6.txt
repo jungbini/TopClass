@@ -1,0 +1,1 @@
+parser, by caching the entity resolver and the document factory. This significantly reduces the cost of creation of a parser by reducing lookups in classpath. We're not caching the parser itself, even if it could be reused, because of thread-safety.  +review REVIEW-5952  

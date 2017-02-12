@@ -1,0 +1,1 @@
+  [buck] fix apple BUCK file  Test Plan: wait for async tests to finish. ran ./bin/buck test --all locally, it no longer complained about Genrule not being defined  

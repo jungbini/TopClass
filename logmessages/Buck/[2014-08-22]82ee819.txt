@@ -1,0 +1,1 @@
+  Delete ios_test rule.  Summary: Updates unit tests to stop referencing the rule. Also fixes a few uncovered bugs with project generation for dynamic libraries.  Test Plan: buildbot  

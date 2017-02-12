@@ -1,0 +1,1 @@
+  fixed and removed some ELASTIC flags  fixes #WEBINTERFACE-155  

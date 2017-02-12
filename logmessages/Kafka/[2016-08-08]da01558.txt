@@ -1,0 +1,1 @@
+  MINOR: Remove redundant clause in secureAclsEnabled check  Also include a few minor clean-ups.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Manikumar reddy O <manikumar.reddy@gmail.com>, Grant Henke <granthenke@gmail.com>, Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1623 from ijuma/fix-zk-inconsistent-security-check  

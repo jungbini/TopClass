@@ -1,0 +1,1 @@
+  WI-1691 "Watches" window saves state only when debug session is active  

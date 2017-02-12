@@ -1,0 +1,1 @@
+  fix ex component must be showning to determine its location  

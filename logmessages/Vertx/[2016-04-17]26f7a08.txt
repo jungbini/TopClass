@@ -1,0 +1,1 @@
+  Additional HTTP methods support - fixes #1339  

@@ -1,0 +1,1 @@
+  fix(session): properly calculate message body sizes  

@@ -1,0 +1,1 @@
+  When SVN authentication is failed, suggest to clear authentication cache or change configuration directory right in the error message for IDEA-92220 "Click to fix" link doesn't work if invalid SVN credentials was entered  

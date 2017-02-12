@@ -1,0 +1,1 @@
+  improved dirty manager implementation, fixed tracking on map, issue #2629  

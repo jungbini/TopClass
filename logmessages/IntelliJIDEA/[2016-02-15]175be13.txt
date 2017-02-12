@@ -1,0 +1,1 @@
+  Search in terminal with ignored case by default + exception fixed  

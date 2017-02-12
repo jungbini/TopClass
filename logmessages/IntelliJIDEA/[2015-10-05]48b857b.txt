@@ -1,0 +1,1 @@
+  PY-17052 Union is callable if at least one union member is callable  * This change breaks PyCallingNonCallableInspectionTest but it is PY-17112 bug  

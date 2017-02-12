@@ -1,0 +1,1 @@
+  KT-2240 Wrong overload resolution ambiguity when object literal is involved #KT-2240 fixed  

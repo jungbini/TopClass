@@ -1,0 +1,1 @@
+  Added a spec for fixing GRADLE-2649 and generally handling suites better.  

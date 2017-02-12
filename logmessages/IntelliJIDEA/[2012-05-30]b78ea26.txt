@@ -1,0 +1,1 @@
+  a dirty fix for IDEA-86774 Ctrl+Space doesn't work in "Go to class" actions  

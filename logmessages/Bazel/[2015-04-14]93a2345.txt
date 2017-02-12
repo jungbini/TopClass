@@ -1,0 +1,1 @@
+  Fix the wrong PATH on install.md  I thought we already fixed it like 5 times but it's still bad. Sigh.  -- MOS_MIGRATED_REVID=91086820  

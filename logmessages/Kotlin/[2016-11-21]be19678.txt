@@ -1,0 +1,1 @@
+  JS: fix bug in temporary variable elimination  

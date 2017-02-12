@@ -1,0 +1,1 @@
+ orientdb-api.js: fix ODatabase.open()  ODatabase.open() made an ajax request for /connect/, but that doesn't return data (any more?). Requesting /database/ gets us the expected reply with the database info object.  

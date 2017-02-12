@@ -1,0 +1,1 @@
+  DOC: Fix typo (unclosed string)  Small typo fix in documentations.  Closes #1629.  -- Reviewed-on: https://github.com/bazelbuild/bazel/pull/1629 MOS_MIGRATED_REVID=129985238  

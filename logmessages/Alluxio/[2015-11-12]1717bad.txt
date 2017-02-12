@@ -1,0 +1,1 @@
+  [SMALLFIX] Enable Findbugs checking for unnecessary boxing/unboxing  

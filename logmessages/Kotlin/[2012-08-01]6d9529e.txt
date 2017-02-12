@@ -1,0 +1,1 @@
+  KT-948 Make type inference work with sure()/!! !! part fixed  

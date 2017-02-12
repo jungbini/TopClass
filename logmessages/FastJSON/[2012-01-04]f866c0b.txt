@@ -1,0 +1,1 @@
+  bug fixed for null value enum field asm optimize  

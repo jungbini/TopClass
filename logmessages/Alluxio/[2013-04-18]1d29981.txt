@@ -1,0 +1,1 @@
+  1. Change name Partition to File in DataServerMessage. 2. Add equal method to checkpointinfo. 3. fix a bug in dataserver.  

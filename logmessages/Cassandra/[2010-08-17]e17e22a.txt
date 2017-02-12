@@ -1,0 +1,1 @@
+  separate CFS dir cleanup from CFS instantiation. fixes race condition. patch by gdusbabek, reviewed by jbellis. CASSANDRA-1382   git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@986430 13f79535-47bb-0310-9956-ffa450edef68  
