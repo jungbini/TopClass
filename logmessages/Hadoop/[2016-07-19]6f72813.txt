@@ -1,0 +1,1 @@
+  YARN-5300. Exclude generated federation protobuf sources from YARN Javadoc/findbugs build  

@@ -1,0 +1,1 @@
+  EnterAction in text and comments fixed  

@@ -1,0 +1,1 @@
+  GSP editor handlers altered GSP spacing bug fixed  

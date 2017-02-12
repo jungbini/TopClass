@@ -1,0 +1,1 @@
+  Eleven new tests about smart casts and value / variable null safety. At this moment 5/11 are passed successfully. Related issues: KT-3175 (active), KT-3993 (fixed at M11), KT-5427 (fixed at M11), KT-4450, KT-5840, KT-5907, KT-6819.  

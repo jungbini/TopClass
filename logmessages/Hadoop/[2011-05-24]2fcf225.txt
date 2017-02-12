@@ -1,0 +1,1 @@
+  HBASE-3899 HBase RPC to support free-ing up server handler threads even if response is not ready -- fix double application of WritableDelayed  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1126863 13f79535-47bb-0310-9956-ffa450edef68  

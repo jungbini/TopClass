@@ -1,0 +1,1 @@
+  IDEADEV-22869: Unlike 'manual array copy', 'manual array to collection copy' shall only be reported (and quickfixed) if copying full array range.  

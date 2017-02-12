@@ -1,0 +1,1 @@
+  Fix designer window location [fix-33053]  

@@ -1,0 +1,1 @@
+  IDEA-24796 (while loop replaceable with 'for each' inspection - Quickfix should use existing iteration variable where possible and avoid creating redundant local variable.)  

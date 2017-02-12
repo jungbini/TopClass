@@ -1,0 +1,1 @@
+  Bug fixed - [RUBY-1959] : Plugin doesn't merge additional PATH from Ruby plugin settings with environment of spawned process  

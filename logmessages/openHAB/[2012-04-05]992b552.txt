@@ -1,0 +1,1 @@
+  fix - prevents throwing a SchedulerExceptions when creating a Trigger with modifiedBy-clause of a calendar which doesn't exist  

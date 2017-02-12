@@ -1,0 +1,1 @@
+  HDFS-2373. Commands using webhdfs and hftp print unnecessary debug info on the console with security enabled. Contributed by Arpit Gupta.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-205@1176638 13f79535-47bb-0310-9956-ffa450edef68  

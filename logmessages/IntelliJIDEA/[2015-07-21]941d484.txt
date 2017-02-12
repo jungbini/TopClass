@@ -1,0 +1,1 @@
+  always stop on the first line in debug  Added custom executor to make canRun method in pyDebugRunner return false. Also it can be useful to replace debug tool window with custom tool window  

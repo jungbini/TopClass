@@ -1,0 +1,1 @@
+  remember corresponding XDebugProcess in DebugProcessImpl - fixed tests  

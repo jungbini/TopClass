@@ -1,0 +1,1 @@
+  bug fix. (#2094)  - add null check.  

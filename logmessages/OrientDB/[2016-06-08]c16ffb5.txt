@@ -1,0 +1,1 @@
+  fixed bug on transaction graph and unique indexes in embedded, issue #6271  

@@ -1,0 +1,1 @@
+  IDEA-115201 Slow expression evaluation in remote debug session - added a simple check in isVisibleFromClassLoader  

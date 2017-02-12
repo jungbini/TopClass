@@ -1,0 +1,1 @@
+  fixed bug where IdeaModule.moduleDir wasn't used anywhere  

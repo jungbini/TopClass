@@ -1,0 +1,1 @@
+  fixed sorting of children in variable view (PY-2471)  

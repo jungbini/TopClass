@@ -1,0 +1,1 @@
+ Merge pull request #245 from donjaime/master  Provide an option to launch vertx in debug mode so you can attach a debugger  commit e5fced4337bd5bf6ba8231e71da1c0fcead1fb4b  Adding ability to launch vertx's JVM in debug mode, which will wait on a remote debugger to attach before running, to the bash script.  

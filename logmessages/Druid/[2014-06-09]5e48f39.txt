@@ -1,0 +1,1 @@
+  fix index task new schema defaults  

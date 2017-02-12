@@ -1,0 +1,1 @@
+  Issue 598 fix by Luca Molino to speed up JSON serialization  

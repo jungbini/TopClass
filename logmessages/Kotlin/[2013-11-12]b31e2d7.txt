@@ -1,0 +1,1 @@
+  JPS: ignore excluded directories and files in compilation.  #KT-4188 fixed  

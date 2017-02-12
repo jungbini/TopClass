@@ -1,0 +1,1 @@
+  Make sidebar visible on small screens  Also disable affix when the screen is small. Fixes #1390  

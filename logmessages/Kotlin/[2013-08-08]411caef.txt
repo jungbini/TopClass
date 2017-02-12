@@ -1,0 +1,1 @@
+  JS backend: cosmetic changes in javautil.kt: - added some methods to AbstractList - fixed codestyle - moved up LinkedList declaration  

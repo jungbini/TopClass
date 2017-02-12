@@ -1,0 +1,1 @@
+  cqlsh: ninja-fix DROP INDEX autocompletion for CQL3 tables (2.0)  

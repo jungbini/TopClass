@@ -1,0 +1,1 @@
+  fix rendering a table in Settings / Menus and Toolbars  

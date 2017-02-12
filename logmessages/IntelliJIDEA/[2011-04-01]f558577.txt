@@ -1,0 +1,1 @@
+  fixed python-plugin-common (returned lost documentation link provider)  

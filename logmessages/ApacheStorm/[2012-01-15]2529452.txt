@@ -1,0 +1,1 @@
+  make fix for #82 work on windows as well  

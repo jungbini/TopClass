@@ -1,0 +1,1 @@
+  Ignore exceptions in DefaultFileWatcherFactory.stop  - could be caused by JDK-8011537 which is fixed since JDK8u40  +review REVIEW-5709  

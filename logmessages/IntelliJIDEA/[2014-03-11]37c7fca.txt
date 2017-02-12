@@ -1,0 +1,1 @@
+  removed state from add super call quickfix, added tests  

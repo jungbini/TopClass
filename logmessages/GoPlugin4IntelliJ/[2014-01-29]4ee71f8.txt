@@ -1,0 +1,1 @@
+ fix issue #573, fix issue with literal func, add some live templates  

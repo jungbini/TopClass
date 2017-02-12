@@ -1,0 +1,1 @@
+  HDFS-7155. Bugfix in createLocatedFileStatus caused by bad merge. (Arpit Agarwal)  Conflicts: hadoop-hdfs-project/hadoop-hdfs/CHANGES-HDFS-6581.txt  

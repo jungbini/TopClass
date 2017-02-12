@@ -1,0 +1,1 @@
+ Merge pull request #115 from joosthub/lfw_loader_fix  Fix potential infinite loop in LFWLoader  commit d6b0dfc7b8497e1ff34619dc668a34303a43361d  fix placement of params and gradient  

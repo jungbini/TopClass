@@ -1,0 +1,1 @@
+  bug fix in TranscriptsParser (speaker info), better document format  

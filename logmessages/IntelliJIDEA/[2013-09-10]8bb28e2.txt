@@ -1,0 +1,1 @@
+  Cocoa does not like activities while transition in full screen is happening. This fix prevents simultaneous entering in the full screen mode.  

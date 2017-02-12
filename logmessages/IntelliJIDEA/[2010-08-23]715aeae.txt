@@ -1,0 +1,1 @@
+  Initial and incomplete Django+Buildout support: server (+debugger) only. Consoles still lack buildout support. PythonCommandLineState and patchers refactored.  

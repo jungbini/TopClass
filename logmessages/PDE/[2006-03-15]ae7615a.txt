@@ -1,0 +1,1 @@
+  fix for drag & drop exceptions on macosx.. ignore other data flavors  

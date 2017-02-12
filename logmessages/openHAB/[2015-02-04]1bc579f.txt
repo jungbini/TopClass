@@ -1,0 +1,1 @@
+ Merge pull request #2058 from idserda/fix-pilight-scale  [PiLight]Fix for scaling decimal values in pilight binding  commit 1bc579f48d4aa5fdc0c37de69cb555f150c0b3f7  Fixed bug  

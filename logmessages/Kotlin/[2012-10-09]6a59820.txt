@@ -1,0 +1,1 @@
+  added a test case for File.relativePath() along with fixing a bug if you pass the same file as the argument; it should have returned the empty string  

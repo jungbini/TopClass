@@ -1,0 +1,1 @@
+  debugger evaluator: try with resources not yet supported - process with the compiling evaluator  

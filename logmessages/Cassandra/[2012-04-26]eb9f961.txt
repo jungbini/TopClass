@@ -1,0 +1,1 @@
+  Fix bug with super columns where row cache is not updated  patch by slebresne; reviewed by jbellis for CASSANDRA-4190  

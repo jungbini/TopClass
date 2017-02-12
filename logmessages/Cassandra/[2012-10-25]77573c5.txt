@@ -1,0 +1,1 @@
+  cqlsh: fix help topics Patch by Aleksey Yeschenko, reviewed by brandonwilliams for CASSANDRA-4811  

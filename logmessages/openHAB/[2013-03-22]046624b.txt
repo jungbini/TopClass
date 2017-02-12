@@ -1,0 +1,1 @@
+  fixed bug with services shutting down by itself  

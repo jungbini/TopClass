@@ -1,0 +1,1 @@
+  lots of work on set(), also fix requestImage()  

@@ -1,0 +1,1 @@
+  spell fix  gerQualifiedName --> getQualifiedName  

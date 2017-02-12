@@ -1,0 +1,1 @@
+  Minor, remove workarounds for the fixed KT-5786  

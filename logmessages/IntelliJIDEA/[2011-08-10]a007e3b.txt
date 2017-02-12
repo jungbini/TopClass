@@ -1,0 +1,1 @@
+  IDEA-71364 Edit Freemarker Fragment is buggy  

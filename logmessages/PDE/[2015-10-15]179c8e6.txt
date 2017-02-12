@@ -1,0 +1,1 @@
+  Turn off fixed rate scheduling in OpenGL  After some testing, it appears that fixed rate scheduling tries to catch up later when it runs slower than desired, creating weird speedups when the load decreases. Turning it back off.  

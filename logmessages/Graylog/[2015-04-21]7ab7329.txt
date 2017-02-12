@@ -1,0 +1,1 @@
+  add 100% height to modal-backdrop to fix react-bootstrap container issue  - not showing backdrop otherwise because its default container has 0 height - fix warnings from react/react-bootstrap  

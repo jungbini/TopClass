@@ -1,0 +1,1 @@
+  GRADLE-762.  Patch from Mike H.  Fixing a bug where live output was being lost because the standard output/error listeners weren't hooked up to the LoggingConfigurer  

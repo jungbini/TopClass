@@ -1,0 +1,1 @@
+  Gah; not the bug. Fix the crash when parser ignores sentences  

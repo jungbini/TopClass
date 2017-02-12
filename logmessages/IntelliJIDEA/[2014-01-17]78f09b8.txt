@@ -1,0 +1,1 @@
+  IDEA-91376 Debugger links incorrectly to codeline in a class which name contains a dollar sign  

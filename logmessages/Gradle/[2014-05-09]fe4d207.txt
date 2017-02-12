@@ -1,0 +1,1 @@
+  Incremental java compilation - fixed a bug in class cycles detection.  

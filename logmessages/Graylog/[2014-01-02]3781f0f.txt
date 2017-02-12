@@ -1,0 +1,1 @@
+  chart styling fixes. #329  

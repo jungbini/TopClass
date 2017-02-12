@@ -1,0 +1,1 @@
+  Debugger: fix step over inside inline function (do not step into function literal argument)  

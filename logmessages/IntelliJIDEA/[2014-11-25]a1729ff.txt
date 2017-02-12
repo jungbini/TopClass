@@ -1,0 +1,1 @@
+  fix groovy super type cache NPE for local classes  

@@ -1,0 +1,1 @@
+  Fixed bug while changing the schema in transaction: an exception is raised  

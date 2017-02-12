@@ -1,0 +1,1 @@
+  No line markers for anonymous or local class' methods  #KT-3270 fixed  

@@ -1,0 +1,1 @@
+  continue "auto expressions in Coffee" spec fix NPE - absoluteLocalPathToSourceIndex  

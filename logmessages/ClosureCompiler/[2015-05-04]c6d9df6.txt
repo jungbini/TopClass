@@ -1,0 +1,1 @@
+  PolymerPass: 2 Behaviors fixes - 1) Allow inline object literals in the behaviors array. 2) If two or more behaviors for the same elements define the same function, only copy the last behavior's function definition over to the element prototype. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=92786023  

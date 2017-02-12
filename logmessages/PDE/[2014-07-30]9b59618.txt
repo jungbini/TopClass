@@ -1,0 +1,1 @@
+  add special case for image() with degenerate PGraphics (fixes #2208)  

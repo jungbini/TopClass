@@ -1,0 +1,1 @@
+  Skip additional visibility check for java classes in debug mode  

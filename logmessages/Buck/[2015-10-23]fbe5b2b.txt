@@ -1,0 +1,1 @@
+  Move provisioning profile related logic into a ProvisioningProfileStore  Summary: Move provisioning profile selection out of the provisioning profile copy step into an object that both holds and vends these objects.  Also fix some tests which were checking the wrong things.  Test Plan: unit tests  

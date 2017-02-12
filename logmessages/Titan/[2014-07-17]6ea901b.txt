@@ -1,0 +1,1 @@
+titan-hadoop-1 and -2 on my machine, but the Cassandra-backed tests still fail, in one case with an assertion failure that ends inside titan-core's EdgeSerializer  

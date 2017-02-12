@@ -1,0 +1,1 @@
+ Update to syslog4j 0.9.53 to fix parsing structured syslog.  Fixes #1161.  

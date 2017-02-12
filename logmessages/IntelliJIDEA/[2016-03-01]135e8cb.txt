@@ -1,0 +1,1 @@
+  inspection tool window: update nodes when fix action is invoked (IDEA-152226)  

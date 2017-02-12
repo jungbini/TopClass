@@ -1,0 +1,1 @@
+  [java] fix the failing test that was introduced in pull request #733 (01a30183).  

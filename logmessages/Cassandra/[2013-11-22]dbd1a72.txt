@@ -1,0 +1,1 @@
+  allocate fixed index summary memory pool and resample cold index summaries to use less memory patch by Tyler Hobbs; reviewed by jbellis for CASSANDRA-5519  

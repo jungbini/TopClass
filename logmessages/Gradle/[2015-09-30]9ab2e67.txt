@@ -1,0 +1,1 @@
+  Temporarily changed tapi to hijack System.out and System.err again, to get logging capture for testkit debug mode working again. Still pending a real fix for this.  

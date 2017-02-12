@@ -1,0 +1,1 @@
+  update to jersey 2.5  fixes #314  

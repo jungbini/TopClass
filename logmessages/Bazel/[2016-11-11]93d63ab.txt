@@ -1,0 +1,1 @@
+  Fix doc bug: Target.files is the immediate files-to-build, not transitive  -- MOS_MIGRATED_REVID=138926471  

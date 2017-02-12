@@ -1,0 +1,1 @@
+  Add note about fixing deadlock in debugger (KT-12067)  

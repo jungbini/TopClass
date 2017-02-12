@@ -1,0 +1,1 @@
+  Fixed bug on ENUM OClass creation, now checks if the class is an enum and doens't register it.  

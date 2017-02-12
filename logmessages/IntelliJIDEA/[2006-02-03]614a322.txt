@@ -1,0 +1,1 @@
+  fixed IDEADEV-4040, test added minor performance improvements in SmartEnterProcessor  

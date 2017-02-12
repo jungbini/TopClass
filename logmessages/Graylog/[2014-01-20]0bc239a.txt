@@ -1,0 +1,1 @@
+  allow all integers in message count alert condition  fixes #517  

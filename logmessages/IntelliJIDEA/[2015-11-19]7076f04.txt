@@ -1,0 +1,1 @@
+  EA-75989 - ISE: LogicalPositionCache.checkDisposed  improve previous fix - don't request state from any invalid editor  

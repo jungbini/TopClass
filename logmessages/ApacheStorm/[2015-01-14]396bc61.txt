@@ -1,0 +1,1 @@
+  Storm-616: removing duplicate license and fixing typos.  

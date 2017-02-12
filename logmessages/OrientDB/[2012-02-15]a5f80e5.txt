@@ -1,0 +1,1 @@
+  Issue 696 was fixed.  

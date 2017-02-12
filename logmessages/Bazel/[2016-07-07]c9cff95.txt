@@ -1,0 +1,1 @@
+  Split and extract the SHA1 from Maven files that have extra paths in them  This fixes #1461, which leads to bad sha1 values for some maven jars.  Closes #1473.  -- Reviewed-on: https://github.com/bazelbuild/bazel/pull/1473 MOS_MIGRATED_REVID=126785326  

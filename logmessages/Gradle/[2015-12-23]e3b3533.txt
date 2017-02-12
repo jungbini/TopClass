@@ -1,0 +1,1 @@
+  Fail the build if build result output is accessed with Gradle < 2.9 in debug mode  +review REVIEW-5698  

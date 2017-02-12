@@ -1,0 +1,1 @@
+  [jeka] cleaner code and debug info in the dumb mode area  

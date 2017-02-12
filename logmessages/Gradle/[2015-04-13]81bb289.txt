@@ -1,0 +1,1 @@
+  fix release notes  - fix failing ci - update template for pointing to new forum  +review REVIEW-5460  

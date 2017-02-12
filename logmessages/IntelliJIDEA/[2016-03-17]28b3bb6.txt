@@ -1,0 +1,1 @@
+  fixing one more SOE on Ant configuration initialization (IDEA-152435)  

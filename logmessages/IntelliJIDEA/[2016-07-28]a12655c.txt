@@ -1,0 +1,1 @@
+  fix course generation for old courses  

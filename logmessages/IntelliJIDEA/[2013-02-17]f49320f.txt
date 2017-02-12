@@ -1,0 +1,1 @@
+  Fixed broken debug of new threads. Better fix for jython.  

@@ -1,0 +1,1 @@
+  do not loose qualifier from type reference (e.g. for extends list fix)  

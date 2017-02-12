@@ -1,0 +1,1 @@
+  Adding missing test to demonstrate cross-cell java compilation.  Summary: And catch a bug in the process. Who'd have thought that writing a test would lead to things getting better?  Test Plan: buck test --all  Reviewed By: marcinkosiba  fb-gh-sync-id: 6933e81  

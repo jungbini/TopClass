@@ -1,0 +1,1 @@
+  More precise value reassignment analysis. #KT-7418 Fixed. #KT-6902 Fixed.  Variable can now be "exactly initialized", "may be initialized" and "not initialized". A set of relevant tests. Some fixed tests.  

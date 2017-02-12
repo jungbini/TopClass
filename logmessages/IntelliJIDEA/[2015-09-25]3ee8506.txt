@@ -1,0 +1,1 @@
+  ChainedIterator#toString doesn't exhaust iterator itself  Implementation of toString() with side-effects is horrible (especially for future debugging).  

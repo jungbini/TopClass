@@ -1,0 +1,1 @@
+  fix rootsChanged() for closed project  

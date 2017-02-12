@@ -1,0 +1,1 @@
+  javafx: inplace rename for custom components called by qualified name fixed (IDEA-101227)  

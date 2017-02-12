@@ -1,0 +1,1 @@
+  fix default value for max segments to merge  

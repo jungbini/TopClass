@@ -1,0 +1,1 @@
+  Create a unit test to reproduce a bug in SourcePath.  Summary: Mark the test with `@Ignore` and assigning to Simon to fix.  We need to get this fixed before we can start using SourcePaths more broadly.  Test Plan: Sandcastle builds.  

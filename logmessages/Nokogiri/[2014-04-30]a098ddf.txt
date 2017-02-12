@@ -1,0 +1,1 @@
+  Close #1087. Fix JRuby memory exhaustion vulnerability  Thanks to Michal Ochman for fixing this.  

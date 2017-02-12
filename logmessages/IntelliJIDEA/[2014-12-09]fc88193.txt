@@ -1,0 +1,1 @@
+  IDEA-134114 Modified breakpoints stop working when more than one debug session active  

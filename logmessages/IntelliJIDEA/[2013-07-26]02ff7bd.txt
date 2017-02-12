@@ -1,0 +1,1 @@
+  fixed PY-10366 Locate Duplicates: do not anonymize classnames  

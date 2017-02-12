@@ -1,0 +1,1 @@
+  IDEA-18659 Debugger log tabs must be closable with middle click  

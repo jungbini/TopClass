@@ -1,0 +1,1 @@
+  add testing workarounds for JVM thread handling bug on OSX  

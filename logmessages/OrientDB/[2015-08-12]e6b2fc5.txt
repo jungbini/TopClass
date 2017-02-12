@@ -1,0 +1,1 @@
+  fixed issue #4776 - UPDATE with Named Parameter set to a list containing booleans results in _NOT_PARSED_  

@@ -1,0 +1,1 @@
+  fix absolute links that cause problems in subdirectory deployments #WEBINTERFACE-97  

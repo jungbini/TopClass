@@ -1,0 +1,1 @@
+  fix - build properties does now contain inbinding.xml  

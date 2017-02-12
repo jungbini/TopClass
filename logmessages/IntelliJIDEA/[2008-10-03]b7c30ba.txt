@@ -1,0 +1,1 @@
+  Configuration assertion exn fix Gant basics added  

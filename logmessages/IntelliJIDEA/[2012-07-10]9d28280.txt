@@ -1,0 +1,1 @@
+  fixed PY-6928 Paste inserts code one line after caret and messes up code in case for as the last compound statement in function PY-6907 Paste leads to syntactically incorrect code in case of dedent in copied text  

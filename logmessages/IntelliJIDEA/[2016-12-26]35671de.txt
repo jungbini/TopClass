@@ -1,0 +1,1 @@
+  [groovy] fix NPE warning in static import method fix  

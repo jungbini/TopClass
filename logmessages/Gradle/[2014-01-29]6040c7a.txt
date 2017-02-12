@@ -1,0 +1,1 @@
+  Added some extra CUnit integration test coverage - One test is disabled due to a bug - Other new tests demonstrate some insufficiencies in design  

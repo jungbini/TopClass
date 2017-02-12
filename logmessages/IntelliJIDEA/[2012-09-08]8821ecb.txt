@@ -1,0 +1,1 @@
+  better quickfix if first stringbuilder argument is a primitive literal  

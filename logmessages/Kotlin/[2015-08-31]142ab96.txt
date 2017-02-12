@@ -1,0 +1,1 @@
+  Run/Debug editor gutter drop down does not work in Kotlin files (KT-8720)  #KT-8720 Fixed  

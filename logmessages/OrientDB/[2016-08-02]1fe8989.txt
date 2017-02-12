@@ -1,0 +1,1 @@
+  content encoding for http binary streams fixed  

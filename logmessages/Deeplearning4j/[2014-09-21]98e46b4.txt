@@ -1,0 +1,1 @@
+  minor fix to word2vec loader, num words should not return 0  

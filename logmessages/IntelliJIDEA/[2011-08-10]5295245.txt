@@ -1,0 +1,1 @@
+  1. origin repo searching fixed  2. use "upstream" name for fork parent remote repo (github naming conventions) 3. if upstream contains a branch with same name as current branch - preselect it instead of "master" branch  

@@ -1,0 +1,1 @@
+ Merge pull request #1662 from testn/dns-fix  Use inflight DNS client instead  commit b6ace9d1823a4ac6c4121856bdd1a1548d7707cc  A composite future join should fail with the cause of one of its components - fixes #1664  

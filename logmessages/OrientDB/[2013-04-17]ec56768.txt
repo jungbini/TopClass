@@ -1,0 +1,1 @@
+  fix unsafe methods for java 6 adding maven profile for building java 7 dependent classes  

@@ -1,0 +1,1 @@
+  Move distribution pom.xml to root  This is a change to distribution assembly archive layout.  In the old archives, the maven test suite failed because the data directory wasn't in mvn's working directory.  Apparently at least one test requires stuff from the data dir.  My changes fix the path problem.  

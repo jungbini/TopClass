@@ -1,0 +1,1 @@
+  Fix the installer and fixing the package shiped into binary version of Bazel.  -- MOS_MIGRATED_REVID=102567966  

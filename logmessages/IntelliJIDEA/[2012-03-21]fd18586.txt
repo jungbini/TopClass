@@ -1,0 +1,1 @@
+  fixed PY-6045 Incorrect simplification of chained comparison  

@@ -1,0 +1,1 @@
+  YARN-3248. Correct fix version from branch-2.7 to branch-2.8 in the change log.  

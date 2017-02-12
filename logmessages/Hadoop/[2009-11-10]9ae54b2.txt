@@ -1,0 +1,1 @@
+  HBASE-1966  Apply the fix from site/ to remove the forrest dependency on java5 HBASE-1967  [Transactional] client.TestTransactions.testPutPutScan fails sometimes Temporary fix   git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@834294 13f79535-47bb-0310-9956-ffa450edef68  

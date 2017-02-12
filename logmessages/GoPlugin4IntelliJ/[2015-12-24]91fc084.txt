@@ -1,0 +1,1 @@
+  Improve declared but not used inspection (fixes #2170)  

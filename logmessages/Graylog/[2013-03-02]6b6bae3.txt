@@ -1,0 +1,1 @@
+  Upgrade graylog2-plugins, pull request cleanup  fixes #113  

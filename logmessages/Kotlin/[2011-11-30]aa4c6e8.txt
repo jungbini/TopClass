@@ -1,0 +1,1 @@
+  Make proper scope for property declaration  Make sure same scope is used for both property creation and for properly body resolution. This fixes KT-421 Strange 'unresolved' bug with backing fields.  

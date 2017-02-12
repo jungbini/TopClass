@@ -1,0 +1,1 @@
+  fixed CRF training slowdown issue caused by multithreading  

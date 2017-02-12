@@ -1,0 +1,1 @@
+  fix a bug that failed to parse embeded struct in single line  

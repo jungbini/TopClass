@@ -1,0 +1,1 @@
+  fixed default facets for depended "java" projects * only "fixed" facets are senseless as they have no effect at all * "jst.web" and "jst.utility" are not allowed together * "jst.utility" requires "jst.java"  

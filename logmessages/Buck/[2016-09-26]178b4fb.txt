@@ -1,0 +1,1 @@
+  lua: fix flaky integration test  Summary: The build output on stderr can sometimes interleave with the stderr output being tested.  Test Plan: ran it  Reviewed By: yiding  fbshipit-source-id: fabe4e7  

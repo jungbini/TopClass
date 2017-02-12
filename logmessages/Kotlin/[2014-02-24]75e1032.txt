@@ -1,0 +1,1 @@
+  Fixed printing usage type in tests and fixed "find usages" tests.  

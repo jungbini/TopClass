@@ -1,0 +1,1 @@
+  Fix deserialization bug in TokenUpdateVerbHandler; change TokenUpdater to update one node at a time, and add bin/tokenupdater as a convenience.  Patch by Sammy Yu; reviewed for CASSANDRA-363 by jbellis  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@815373 13f79535-47bb-0310-9956-ffa450edef68  

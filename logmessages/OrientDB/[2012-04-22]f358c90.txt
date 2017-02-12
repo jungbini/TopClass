@@ -1,0 +1,1 @@
+  Bug with parallel select from index: function executions was fixed.  

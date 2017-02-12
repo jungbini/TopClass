@@ -1,0 +1,1 @@
+  CE main module dependencies fixed  

@@ -1,0 +1,1 @@
+  fixed simple misspelling in exception message  

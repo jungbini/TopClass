@@ -1,0 +1,1 @@
+  Ninja fix for invocation order of core and max pool size.  Fixes 979af884 for CASSANDRA-12248  

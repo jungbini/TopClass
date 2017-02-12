@@ -1,0 +1,1 @@
+  fix autodetection of welcome screen caption color which was broken by icon caching  

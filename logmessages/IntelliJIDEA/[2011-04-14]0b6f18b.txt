@@ -1,0 +1,1 @@
+  remove "View as:" useless prefix in project view under Mac OS  

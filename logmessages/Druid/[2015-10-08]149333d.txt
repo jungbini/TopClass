@@ -1,0 +1,1 @@
+ forward cancellation request to all brokers, fixes #1802  

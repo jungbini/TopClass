@@ -1,0 +1,1 @@
+ Standardise config reports and fix NPE in battery report  

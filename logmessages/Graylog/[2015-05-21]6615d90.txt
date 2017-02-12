@@ -1,0 +1,1 @@
+  Guard against NPEs in {Input,Node,Streams}Description, fixes #1312  

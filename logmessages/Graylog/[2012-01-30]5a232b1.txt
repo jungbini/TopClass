@@ -1,0 +1,1 @@
+  finished quickfilter histograms  fixes #WEBINTERFACE-231  

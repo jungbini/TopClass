@@ -1,0 +1,1 @@
+  Disabling sauce connect for now.  The sauce addon is currently breaking our builds because the URL for the client changed. Right now we are not really using it, so it does not make sense to fix it. Plan is to reenable it when we have someone who takes care of it.  

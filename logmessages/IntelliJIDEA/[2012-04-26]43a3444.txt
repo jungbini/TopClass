@@ -1,0 +1,1 @@
+  fix stub/AST mismatches and IOOBE in indices: use correct file content when building stubs for unsaved document (IDEA-85266) [r=peter, jeka]  

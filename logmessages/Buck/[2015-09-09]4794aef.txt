@@ -1,0 +1,1 @@
+  Ensure the directory exists before writing a file  Summary: This fixes experimental project generation for IntelliJ on Windows by ensuring that we've actually created the destination folder prior to writing out the temporary file to it.  Test Plan: `buck project --experimental-ij-generation` in https://github.com/sdwilsh/xplat-buck-demo  

@@ -1,0 +1,1 @@
+ Merge branch 'post_input_whitespace_bug' of https://github.com/aceofspades/nokogiri into aceofspades-post_input_whitespace_bug  commit c98745d9098487c51685a732f1c5a21d8d07cdad  Make sure library directories we set take precedence over $(libdir).  This is a workaround for Ruby bug #9760 which will be fixed in Ruby 2.2.  

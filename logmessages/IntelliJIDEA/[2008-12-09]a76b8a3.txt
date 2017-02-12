@@ -1,0 +1,1 @@
+  prepend VM debug params instead of appending them to user-specified vm params (IDEADEV-14785)  

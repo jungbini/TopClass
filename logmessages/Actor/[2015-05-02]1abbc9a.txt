@@ -1,0 +1,1 @@
+  fix(build): exclude -Ywarn-unused-import scalacOption, and -Dscalac.patmat.analysisBudget  javaOption from actor-dashboard sub-project due play framework issues  

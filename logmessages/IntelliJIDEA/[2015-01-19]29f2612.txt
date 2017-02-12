@@ -1,0 +1,1 @@
+  fix ContentManagerUtil#getContentManagerFromContext  Return a content manager from context if a visible toolwindow is not required  

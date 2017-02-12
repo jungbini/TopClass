@@ -1,0 +1,1 @@
+  zip/jar/tar test fixtures are aware of archives metadata charset  jar test fixture uses UTF-8 to decode archive metadata  

@@ -1,0 +1,1 @@
+  CQL3 Predicate logic bug when using composite columns  patch by slebresne; reviewed by tjake for CASSANDRA-4759  

@@ -1,0 +1,1 @@
+  fix 'return inspection': support fallthrough statement  

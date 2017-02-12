@@ -1,0 +1,1 @@
+  change library scopes to fix installers build (no licence info yet)  

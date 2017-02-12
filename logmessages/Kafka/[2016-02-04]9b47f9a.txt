@@ -1,0 +1,1 @@
+  MINOR: log connect reconfiguration error only if there was an error  Author: Gwen Shapira <cshapi@gmail.com>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #871 from gwenshap/fix-cc-log  

@@ -1,0 +1,1 @@
+  Live Templates: fix overlapped segments on each segment change  

@@ -1,0 +1,1 @@
+  Fix for #1313 & #1332  For issue #1313, partial fix: enhance coding/deconding to missing part. Now filename is correctly undecoded. Name and Value must be encoded to allow parsing. For issue #1332, add text/plain to content-type as default type if not specified.  

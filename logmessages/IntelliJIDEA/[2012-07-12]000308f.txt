@@ -1,0 +1,1 @@
+  fixed PY-6884 Paste changes code logic in case empty line inside indented block  

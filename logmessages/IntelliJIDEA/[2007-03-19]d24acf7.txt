@@ -1,0 +1,1 @@
+  debugger content manager - focus painting  

@@ -1,0 +1,1 @@
+  (EA-68047) - Access to invalid element fixed  

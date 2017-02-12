@@ -1,0 +1,1 @@
+  Actually test the publish module's samples, and fix them.  

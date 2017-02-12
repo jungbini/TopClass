@@ -1,0 +1,1 @@
+  don't load files too big even if file type ignores size limit #WEB-15906 fixed  

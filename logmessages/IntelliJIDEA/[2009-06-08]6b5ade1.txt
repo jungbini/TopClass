@@ -1,0 +1,1 @@
+  IDEADEV-37576 Groovy debugger: references to 'this' in Watches section are resolved incorrectly  

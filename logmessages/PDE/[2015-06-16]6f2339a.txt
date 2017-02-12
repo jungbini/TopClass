@@ -1,0 +1,1 @@
+  deal with drag & drop of .pde files (fixes #3383)  

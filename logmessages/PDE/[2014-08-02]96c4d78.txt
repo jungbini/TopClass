@@ -1,0 +1,1 @@
+  fix AIOOBE when sorting all NaN FloatList or FloatDict  

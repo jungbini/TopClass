@@ -1,0 +1,1 @@
+  Add some contents to the jars we are signing to try and fix the CI failure.  

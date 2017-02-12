@@ -1,0 +1,1 @@
+  Added test which should be enabled after fixing bug in front-end.  

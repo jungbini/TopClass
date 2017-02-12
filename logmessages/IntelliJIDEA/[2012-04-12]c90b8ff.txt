@@ -1,0 +1,1 @@
+  IDEA-84100 Code completion does not work for Spring injected beans in debugger  

@@ -1,0 +1,1 @@
+  use LightTempDirTestFixture in CodeInsightTestFixture only if specifically requested; don't use Rails light fixtures for now  

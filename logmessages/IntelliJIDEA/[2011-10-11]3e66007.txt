@@ -1,0 +1,1 @@
+  IDEA-75350 Git untracked files: fix for move and copy cases, add tests  For move and copy events add both paths (before move/copy and after it) to possiblyUntrackedFiles.  

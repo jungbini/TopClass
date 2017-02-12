@@ -1,0 +1,1 @@
+  maven: tests fix for recently added asm-attrs artifact to test local repo + fixed wrong repository URL definition in testDoNotFailToConfigureUnresolvedVersionRangeDependencies test  

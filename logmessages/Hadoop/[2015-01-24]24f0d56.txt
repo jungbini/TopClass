@@ -1,0 +1,1 @@
+  HDFS-7676. Fix TestFileTruncate to avoid bug of HDFS-7611. Contributed by Konstantin Shvachko.  

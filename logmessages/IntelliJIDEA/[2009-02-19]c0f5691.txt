@@ -1,0 +1,1 @@
+  the "optimize imports" option on reformat mxml file could / should be enabled (IDEA-19303), Optimize imports action & quick fix scope for mxml files (IDEADEV-34228)  

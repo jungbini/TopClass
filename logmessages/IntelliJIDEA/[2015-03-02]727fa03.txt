@@ -1,0 +1,1 @@
+  IDEA-136868 AE at com.intellij.codeInsight.daemon.impl.analysis.IncreaseLanguageLevelFix.invoke(IncreaseLanguageLevelFix.java:101)  a better fix  

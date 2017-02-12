@@ -1,0 +1,1 @@
+  JS: fix exception during translation of for expression with iterator having generic type constrained by Iterable. Fix #KT-8385  

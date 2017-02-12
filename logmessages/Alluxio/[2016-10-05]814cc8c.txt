@@ -1,0 +1,1 @@
+ Merge pull request #4019 from aaudiber/fix-fault-tolerance  [ALLUXIO-2252] Fix master fault tolerance integration test  commit 814cc8c23dc6dd28cc23ef91371c1bf1c7b37841  fix test  

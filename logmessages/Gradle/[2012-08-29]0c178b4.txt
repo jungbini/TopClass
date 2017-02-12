@@ -1,0 +1,1 @@
+  fixed GRADLE-2234: Since 1.0-milestone-6 gradle does not respect javax.net.ssl system properties  - use SystemDefaultHttpClient/DecompressingHttpClient instead of ContentEncodingHttpClient - as a result of the above, we can simplify HttpClientConfigurer a little bit - add tests for Ivy and Maven repos  

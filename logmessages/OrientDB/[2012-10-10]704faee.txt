@@ -1,0 +1,1 @@
+  SQL: fixed bug on equals operator against null left/right  

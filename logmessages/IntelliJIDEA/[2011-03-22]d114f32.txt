@@ -1,0 +1,1 @@
+  fixed couple of concurrency issues, plain text fields replaced with EditorComboBoxes with regex syntax highlighting.  

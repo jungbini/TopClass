@@ -1,0 +1,1 @@
+  fixed the validation logic in validate-launched-once.  

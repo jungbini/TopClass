@@ -1,0 +1,1 @@
+  Fix minor bugs/inefficiencies: wrong return type in RuleBranchingFactor, non-short circuit condition in GenericTimeExpressionPatterns, unnecessary StringBuilder in JodaTimeUtils, trailing spaces in example.properties  

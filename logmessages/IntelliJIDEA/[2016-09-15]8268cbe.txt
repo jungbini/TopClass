@@ -1,0 +1,1 @@
+  ui: fix bookmark rendering on HiDPI  * move `drawCenteredString()` to platform * fix painting of insects/borders in UI Inspector  

@@ -1,0 +1,1 @@
+  IDEA-64212 compete "android:" prefix  

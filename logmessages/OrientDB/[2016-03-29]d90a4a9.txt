@@ -1,0 +1,1 @@
+  Cluster tests on CI environment are fixed.  

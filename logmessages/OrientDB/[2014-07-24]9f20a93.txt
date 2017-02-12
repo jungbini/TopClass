@@ -1,0 +1,1 @@
+  fix  network serialization: csv db to binary network.  

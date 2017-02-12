@@ -1,0 +1,1 @@
+  test fixed: (test loading protocol does not work in py < 2.7)  

@@ -1,0 +1,1 @@
+  fix UI leak via contents of FrameWrapper that stayed forever in Window.allWindows  

@@ -1,0 +1,1 @@
+  Adding set(boolean) methods + fix w in set(int) method  

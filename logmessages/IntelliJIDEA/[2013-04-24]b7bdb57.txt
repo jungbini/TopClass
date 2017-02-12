@@ -1,0 +1,1 @@
+  fix nullability according to javadoc (IDEA-106039)  

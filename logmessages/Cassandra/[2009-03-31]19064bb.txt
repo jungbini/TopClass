@@ -1,0 +1,1 @@
+  apply patch from johano fixing #30 (creates javadoc build target)  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@760440 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Fix for a bug that caused invalid code generated for calling extension from another extension.  

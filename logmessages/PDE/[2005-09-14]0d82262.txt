@@ -1,0 +1,1 @@
+  notes and fixes to remove errant 1.4-specific code  

@@ -1,0 +1,1 @@
+  IDEA-97686 fix generating R.java if "Run 'process-resources' maven task" option is selected  (cherry-picked from e84b1c6)  

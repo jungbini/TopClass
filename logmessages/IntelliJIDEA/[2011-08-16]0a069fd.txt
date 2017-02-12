@@ -1,0 +1,1 @@
+  fixed scrolling to selected node after opening Project Structure dialog  

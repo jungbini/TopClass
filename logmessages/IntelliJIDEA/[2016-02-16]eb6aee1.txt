@@ -1,0 +1,1 @@
+  #RUBY-17804 #IDEA-CR-8480 fix add empty project to project wizard  

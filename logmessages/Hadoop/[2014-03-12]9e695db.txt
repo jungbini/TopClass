@@ -1,0 +1,1 @@
+  Merge -c 1576946 from trunk to branch-2 to fix MAPREDUCE-5553. Allow users to easily access completed/pending/successful/failed tasks on MR AM web-ui. Contributed by Paul Han.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1576947 13f79535-47bb-0310-9956-ffa450edef68  

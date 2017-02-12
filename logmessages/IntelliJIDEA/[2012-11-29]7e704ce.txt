@@ -1,0 +1,1 @@
+  fixed PY-8062 Code compatibility inspection should allow selecting individual Python versions  

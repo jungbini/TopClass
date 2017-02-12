@@ -1,0 +1,1 @@
+  IDEA plugin: fixed using SimplifyNegatedBinaryExpressionIntention and dependent tests.  + minor reformat.  

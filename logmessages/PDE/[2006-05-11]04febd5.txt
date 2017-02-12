@@ -1,0 +1,1 @@
+  begin/endFrame become begin/endDraw.. new DXF constant.. --hide-stop param.. fix for array methods to use any kind of objects  

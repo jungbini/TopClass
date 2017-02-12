@@ -1,0 +1,1 @@
+  HBASE-2180 Bad random read performance from synchronizing hfile.fddatainputstream -- putting this as improvement in CHANGES because thats what j-d wants though I think it a bug because our perf. was so bad  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@907846 13f79535-47bb-0310-9956-ffa450edef68  

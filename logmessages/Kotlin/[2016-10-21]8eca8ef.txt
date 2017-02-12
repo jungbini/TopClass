@@ -1,0 +1,1 @@
+  JS: fix some bugs: 1. Fix translation of FQN in inline lambdas 2. Fix StringBuilder.length 3. Workaround order of declaration of names for imported declarations  

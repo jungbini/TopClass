@@ -1,0 +1,1 @@
+  specify -XX:MaxPermSize=512m for ScalaCompile tasks in integtest - add forking option - also specify option in ForkScalaCompileInDaemonModeFixture - another attempt to fix PermGen failures in coverage builds  

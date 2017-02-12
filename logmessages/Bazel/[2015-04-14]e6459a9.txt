@@ -1,0 +1,1 @@
+  Check that getenv() returns non-null in blaze::Which()  getenv() returns value was not checked for non-null result and it led to exception raised at runtime on some corner case (see bug #113).  -- MOS_MIGRATED_REVID=91071694  

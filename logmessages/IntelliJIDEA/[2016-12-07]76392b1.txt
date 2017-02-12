@@ -1,0 +1,1 @@
+  fix AsyncFilterRunner data race and other review comments from IDEA-CR-16528  

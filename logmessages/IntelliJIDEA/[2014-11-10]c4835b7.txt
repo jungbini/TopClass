@@ -1,0 +1,1 @@
+  IDEA-132585 NPE when XSLT debug  

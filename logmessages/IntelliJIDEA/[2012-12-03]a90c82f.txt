@@ -1,0 +1,1 @@
+  fixed PY-8159 Lines continued with \ in doctest are marked as errors  

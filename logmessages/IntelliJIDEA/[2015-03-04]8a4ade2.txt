@@ -1,0 +1,1 @@
+  Debugger: always dispose console view in EDT  

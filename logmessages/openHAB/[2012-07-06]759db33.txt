@@ -1,0 +1,1 @@
+  - switched to atmosphere 1.0 Snapshot -> resolves XML / streaming bug - added 300ms delay for non streaming connections to increase the chance that a group event completes - compare actual broadcast with last broadcast to prevent double posts  

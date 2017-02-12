@@ -1,0 +1,1 @@
+  obsolete code and tests removed, IDEADEV-41068 fixed  

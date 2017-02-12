@@ -1,0 +1,1 @@
+  Smart completion fixed filtering of non-suitable generic inheritors  

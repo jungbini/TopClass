@@ -1,0 +1,1 @@
+  fixed AE at com.intellij.util.PausesStat.finished(PausesStat.java:57)  

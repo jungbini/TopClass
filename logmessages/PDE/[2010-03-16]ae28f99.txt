@@ -1,0 +1,1 @@
+  While changing PdePreprocessor to make it more amenable to unit tests, I discovered a bug in my last fix. This fixes the bug while changing the construction of PdePreprocessor. Now instead of emitting the literal text "public" while walking the tree, I modify the tree to contain the "public" modifier on methods that lack explicit access.  

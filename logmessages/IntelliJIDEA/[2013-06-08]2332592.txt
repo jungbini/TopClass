@@ -1,0 +1,1 @@
+  [git log] fix git4idea dependencies, move time measurement above  

@@ -1,0 +1,1 @@
+ Merge branch 'master' into server/debug-dialogs  commit f12ea0d8142949bfc15d6b009e1956b728e28532  fix(server:session): don't delay session buffer overflow but increase buffer after enqueuing to let large packets be sent  

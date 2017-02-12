@@ -1,0 +1,1 @@
+  GRADLE-2167: Simplify Findbugs daemon: -Start and stop fb worker process for each fb task; remove FindbugsDaemonServerProtocol.  

@@ -1,0 +1,1 @@
+  "group adjacent buttons" quickfix handles gap rows  

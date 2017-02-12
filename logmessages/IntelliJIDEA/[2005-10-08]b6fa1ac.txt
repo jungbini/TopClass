@@ -1,0 +1,1 @@
+  binding of Xerces messages to attributes is fixed ( IDEADEV-2636)  

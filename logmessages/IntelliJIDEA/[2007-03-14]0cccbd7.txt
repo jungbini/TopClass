@@ -1,0 +1,1 @@
+  support properties with prefix (IDEADEV-15250)  

@@ -1,0 +1,1 @@
+  don't require EditorWindow for injected file copy remove unused CompletionContext fields fixed EA-44452 (CCE EditorWindow)  

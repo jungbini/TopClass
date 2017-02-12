@@ -1,0 +1,1 @@
+  fixed PY-6528 "Install to user's site packages directory" shows wrong path for remote interpreter  

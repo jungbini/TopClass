@@ -1,0 +1,1 @@
+  TestAppBackend  correct termination (dispose project/app) call setResult on detach if nio used (otherwise inifnite JS debug process closing)  

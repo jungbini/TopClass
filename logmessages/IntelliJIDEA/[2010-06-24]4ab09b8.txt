@@ -1,0 +1,1 @@
+  Exposed "get all highlightings" method in CodeInsight test fixture  

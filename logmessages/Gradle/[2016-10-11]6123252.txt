@@ -1,0 +1,1 @@
+  Fix Test task relocatability  We kept track of the candidate class files twice, and the second copy was absolute path-sensitive. Now this should be fixed.  +review REVIEW-6290  

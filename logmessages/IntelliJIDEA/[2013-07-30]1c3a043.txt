@@ -1,0 +1,1 @@
+  fix reference to a missing method (IDEA-111243 Cannot run main class using InnteliJ 130.1365)  

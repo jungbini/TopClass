@@ -1,0 +1,1 @@
+ Merge pull request #1180 from Graylog2/fix-issue-1179  track metrics for the gelf chunk manager  commit b20e458590834cb78a72cf7f99c8c8ac55836a8e  Merge pull request #1178 from Graylog2/fix-issue-1101  Handle double values in greater/smaller stream matcher.  commit e7c8c869faf60cb24013c113e8443045a0e2ff02  track metrics for the gelf chunk manager  fixes #1179  

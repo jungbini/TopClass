@@ -1,0 +1,1 @@
+  Distirbuted: fixed bug on hot attaching of new node. Now db are always synchronized  

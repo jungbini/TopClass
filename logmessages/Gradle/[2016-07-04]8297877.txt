@@ -1,0 +1,1 @@
+  Update Jacoco version to 0.7.7.201606060606  This is required for running Jacoco with Java 9. For some reason `&nbsp;` is inserted between the coverage and the `%` in the html report on Java 9. We remove this in the test fixture.  

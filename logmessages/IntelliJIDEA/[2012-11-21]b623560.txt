@@ -1,0 +1,1 @@
+  fix windows and popups blinking under Darcula (Mac OS X)  

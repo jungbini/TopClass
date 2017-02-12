@@ -1,0 +1,1 @@
+  *** Reason for rollback ***  Breaks a few thousand targets in the depot. It's weird, but I confirmed manually that this rollback fixes the issue.  *** Original change description ***  Distinguish between user-supplied ios_cpu and the default, and don't propagate the default to the XCode project control.  -- MOS_MIGRATED_REVID=102340901  

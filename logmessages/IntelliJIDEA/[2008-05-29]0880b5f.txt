@@ -1,0 +1,1 @@
+  1. fix of stubIndex deadlock during update 2. stubUpdating index and affected stub indices are updated atomically  

@@ -1,0 +1,1 @@
+  [git] IDEA-101668 Fix Git log for detached HEAD  `git log --branches --tags --remotes` doesn't count the current HEAD if it is detached. To fix it, show the log from the HEAD: `git log HEAD --branches --tags --remotes`  

@@ -1,0 +1,1 @@
+  icons classes generation: fixed regex processing in icon-robots.txt files, android finally excluded from generation  

@@ -1,0 +1,1 @@
+  HOTFIX: Generate javadocs for all Streams packages with the exception of internals  Author: Michael G. Noll <michael@confluent.io>  Reviewers: Eno Thereska, Gwen Shapira  Closes #1013 from miguno/trunk-streams-javadocs-fixes  

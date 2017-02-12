@@ -1,0 +1,1 @@
+  YARN-1788. Fixed a bug in ResourceManager to set the apps-completed and apps-killed metrics correctly for killed applications. Contributed by Varun Vasudev. svn merge --ignore-ancestry -c 1576072 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1576073 13f79535-47bb-0310-9956-ffa450edef68  

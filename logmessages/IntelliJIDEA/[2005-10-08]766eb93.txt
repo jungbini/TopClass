@@ -1,0 +1,1 @@
+  resetting validation results if previously calculated dependent files are out of date, binding of Xerces messages to attributes values is fixed  

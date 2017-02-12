@@ -1,0 +1,1 @@
+  Fixed bug on sysdate() SQL function: now use the optional format passed  

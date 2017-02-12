@@ -1,0 +1,1 @@
+  choose quick fix by class equivalence first to avoid wrong fix to be performed based on fixes hierarchy (IDEA-137069)  

@@ -1,0 +1,1 @@
+  AppCode:Project Settings: keyboard editing Property Table: keyboard editing support, focusing problems fixed, combo box editor redone JBTextField: with status text (cherry-picked from 6d2afbd)  

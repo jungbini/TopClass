@@ -1,0 +1,1 @@
+  fix GspCreateVariableQuickFixTest: make Groovy intentions work in all files where there' a Groovy language root  

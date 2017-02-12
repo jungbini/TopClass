@@ -1,0 +1,1 @@
+ finalizing 1.0.9, fixes regressions in 1.0.8  commit cc5d4383102fc2efab76279187029b1b7310ae44  remove menu dimming (bug #786), other fixes  

@@ -1,0 +1,1 @@
+  HADOOP-5661. Fixes some findbugs warnings in o.a.h.mapred* packages and supresses a bunch of them. Contributed by Jothi Padmanabhan.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk@766093 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  fix additional library source roots (previously, it worked only for roots provided also by some component, e.g. for excluded directories)  

@@ -1,0 +1,1 @@
+  prevent maven test initialization failing to spoil the fixture for other tests  

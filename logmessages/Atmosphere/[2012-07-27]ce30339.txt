@@ -1,0 +1,1 @@
+  #534 Improve Javadoc for GWT client and small implementation fix  

@@ -1,0 +1,1 @@
+  drop "ignore in test code" checkbox and use "suppress for 'Tests' scope" quickfix  

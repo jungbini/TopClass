@@ -1,0 +1,1 @@
+  fix ci issue  - don't calculate max target bytecode level if list is empty  

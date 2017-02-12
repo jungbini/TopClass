@@ -1,0 +1,1 @@
+  [vcs] Extract HierarchicalFilePathComparator to a separate class  To reuse in the ChangeListsIndexes to fix IDEA-137136.  

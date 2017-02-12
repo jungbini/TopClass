@@ -1,0 +1,1 @@
+  HBASE-3199  large response handling: some fixups and cleanups    git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1033274 13f79535-47bb-0310-9956-ffa450edef68  

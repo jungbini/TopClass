@@ -1,0 +1,1 @@
+  use last rotation time initially when locating the anchor used for rotation  - fixes missing rotation if the downtime missed more than one period  fixes #725 fixes #829  

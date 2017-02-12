@@ -1,0 +1,1 @@
+  [psi-based formatting] place space before empty element if it's left bound and first child of it's parent (since bounds works only for child on the same level), fixes IDEA-158868  

@@ -1,0 +1,1 @@
+  Do not use scroll pane for all Run/Debug configurations. If some configurable needs to be scrolled it should use scroll pane by itself.  

@@ -1,0 +1,1 @@
+  fixed PY-14048 django_test_manage.py uses test runner deprecated since Django 1.6 (now causing RemovedInDjango18Warning)  

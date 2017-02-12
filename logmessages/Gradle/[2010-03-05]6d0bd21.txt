@@ -1,0 +1,1 @@
+  Fixing a bug where you could add a favorite with no display name or command.  

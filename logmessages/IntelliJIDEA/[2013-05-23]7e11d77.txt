@@ -1,0 +1,1 @@
+  quick fix for rehashing: single hashCode for all memory states  

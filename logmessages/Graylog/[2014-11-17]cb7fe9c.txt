@@ -1,0 +1,1 @@
+  Let MessageInput set the SourceNodes of a RawMessage.  There is currently a bug which results in two identical SourceNode objects in the RawMessage object.  

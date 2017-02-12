@@ -1,0 +1,1 @@
+  redundant assignment in arg list fixed (IDEA-126190)  

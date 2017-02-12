@@ -1,0 +1,1 @@
+  correct return value for UniqueResultsQuery.forEach (fixes delete of referenced fields in UI Designer)  

@@ -1,0 +1,1 @@
+  fixed tests (no attribute/attribute value when parsing pi)  

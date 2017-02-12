@@ -1,0 +1,1 @@
+  fixed unwanted overwriting when smart-completing cast  

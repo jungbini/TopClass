@@ -1,0 +1,1 @@
+  Some fixes for tooling api tests with target Gradle < 2.7 and Java >= 1.9.  

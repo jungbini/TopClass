@@ -1,0 +1,1 @@
+  [git] fix mem leak: don't store the whole packed-refs content in branch names or hashes  

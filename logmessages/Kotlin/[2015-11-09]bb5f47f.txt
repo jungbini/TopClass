@@ -1,0 +1,1 @@
+  fixed coverage: correctly apply extensions to run command line #KT-9464 Fixed  

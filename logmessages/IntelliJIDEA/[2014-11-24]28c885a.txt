@@ -1,0 +1,1 @@
+ fixed PY-13965 Global declarations in nested functions are marked as undefined at module level  

@@ -1,0 +1,1 @@
+ Merge pull request #3954 from peisun1115/bugfix  [ALLUXIO-2236] Fix a bug related channel close  commit 90fe69416a6c7e240f9b7618dc13f668509f28ea  fix test  

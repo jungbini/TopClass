@@ -1,0 +1,1 @@
+  Supported SAM adapter in infix calls.  

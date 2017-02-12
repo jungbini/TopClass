@@ -1,0 +1,1 @@
+  HDFS-9174. Fix findbugs warnings in FSOutputSummer.tracer and DirectoryScanner$ReportCompiler.currentThread. Contributed by Yi Liu.  

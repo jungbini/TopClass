@@ -1,0 +1,1 @@
+  GRADLE-2226, LongRunningOperation.withArguments() not working. The arguments parsing now happens with allowUnknownOptions(). Also the verboseLogging settings is consumed 

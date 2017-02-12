@@ -1,0 +1,1 @@
+  [rev=max,jeka] IDEA-62291 (fix contention between indexing and post-startup activities)  

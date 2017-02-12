@@ -1,0 +1,1 @@
+  GRADLE-2243: - Add integrationTest for proper handling of ignoreFailures convention property. - Add fix for ignored ignoreFailures property when set via extensions.  

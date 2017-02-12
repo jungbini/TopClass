@@ -1,0 +1,1 @@
+  Index: increased log level to "info" instead of "debug" on index rebuild  

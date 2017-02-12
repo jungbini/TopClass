@@ -1,0 +1,1 @@
+  fix elasticsearch connection KB help link  

@@ -1,0 +1,1 @@
+ IDEA-117643 use a correct file for searching for binding variables. Complete binding variables in debugger's watch editor  

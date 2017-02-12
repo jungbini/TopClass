@@ -1,0 +1,1 @@
+  Fix typeahead layout, fixes #1303  

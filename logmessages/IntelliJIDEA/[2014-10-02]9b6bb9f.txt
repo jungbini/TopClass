@@ -1,0 +1,1 @@
+  use declared method purity in general side effect checker (e.g. for completion in debugger evaluation)  

@@ -1,0 +1,1 @@
+  temporarily disable IDEA-94683 fix as it leads to popups being non-focused or disappear  

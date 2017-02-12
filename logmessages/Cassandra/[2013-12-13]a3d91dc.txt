@@ -1,0 +1,1 @@
+  fix race referencing tokenMetadataCache patch by jbellis; reviewed by rbranson for CASSANDRA-6485  

@@ -1,0 +1,1 @@
+  IDEA-108904 hg: mercurial can't show file log  *do not use --follow with largefiles extension (workaround for hg bug)  

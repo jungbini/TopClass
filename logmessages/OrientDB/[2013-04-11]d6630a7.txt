@@ -1,0 +1,1 @@
+  SQL: fixed UNION function to recognize collection of collections  

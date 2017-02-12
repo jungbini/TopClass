@@ -1,0 +1,1 @@
+  IDEA-63054: HTML 5 support bug with xhtml files  

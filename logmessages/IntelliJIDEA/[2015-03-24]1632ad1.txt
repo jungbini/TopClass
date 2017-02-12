@@ -1,0 +1,1 @@
+  fixed reload course list action (used force reload)  

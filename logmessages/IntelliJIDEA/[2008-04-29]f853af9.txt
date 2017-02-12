@@ -1,0 +1,1 @@
+  revert incorrect change to Python resolve logic; fix Python tests  

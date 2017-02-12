@@ -1,0 +1,1 @@
+  vfs: create handler as soon as archive root is loaded  (fixes file pointer test)  

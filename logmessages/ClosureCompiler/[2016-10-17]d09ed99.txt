@@ -1,0 +1,1 @@
+  Change the pre-collapsing inlining pass to run to a fix point.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=136388647  

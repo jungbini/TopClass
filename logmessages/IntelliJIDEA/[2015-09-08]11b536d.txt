@@ -1,0 +1,1 @@
+  IDEA-144791 Smart Step Into (Shift+F7): Focus issue in debugger  

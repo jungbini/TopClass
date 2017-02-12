@@ -1,0 +1,1 @@
+  JS: chained reified function calls (KT-12527) fixed  

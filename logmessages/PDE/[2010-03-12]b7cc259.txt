@@ -1,0 +1,1 @@
+  Can't reproduce bug that necessitated this hack, so took the hack out. Confirm?  

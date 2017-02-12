@@ -1,0 +1,1 @@
+  ensure that script line >= 0 to simplify code (fix -1 line error)  

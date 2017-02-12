@@ -1,0 +1,1 @@
+  allow dumb mode  fix after changes in 70b64b0  

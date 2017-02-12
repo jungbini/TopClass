@@ -1,0 +1,1 @@
+  PrjHub issue #6104 , crash of  IndexCrashRestoreMultiValueTest is fixed.  

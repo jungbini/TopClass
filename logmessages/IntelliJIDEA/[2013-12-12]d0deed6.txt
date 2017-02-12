@@ -1,0 +1,1 @@
+  fixed PY-11594 New Project: selected interpreter is not set as project interpreter when attaching project to already opened one  

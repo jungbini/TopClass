@@ -1,0 +1,1 @@
+  Use `LoggingServiceRegistry.newNestedLogging()` in the `ProjectBuilder` fixture, rather than a test implementation that does the same thing.  

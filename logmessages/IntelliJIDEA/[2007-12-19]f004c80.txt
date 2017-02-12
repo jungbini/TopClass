@@ -1,0 +1,1 @@
+  fix file actions in CVS checkout dialog (IDEADEV-23989)  

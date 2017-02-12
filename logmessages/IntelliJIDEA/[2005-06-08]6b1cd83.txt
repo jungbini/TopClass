@@ -1,0 +1,1 @@
+  fixed issue with not saving case sensitive flag across same search model calls  

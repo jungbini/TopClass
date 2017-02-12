@@ -1,0 +1,1 @@
+  do not show run configuration settings if show settings enabled via edit run configuration from choose configuration popup on run/debug  

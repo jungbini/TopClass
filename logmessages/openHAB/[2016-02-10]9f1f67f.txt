@@ -1,0 +1,1 @@
+  Fixed javascript that was breaking the colorpicker.  This fixes #3864.  

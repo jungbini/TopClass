@@ -1,0 +1,1 @@
+  Fix bugs causing ZipStep to write invalid uncompressed zips.  Summary: There were a few bugs in `ZipStep` and `OverwritingZipOutputStream` that were causing uncompressed zip entries to get writting incorrectly.  Test Plan: added test case  

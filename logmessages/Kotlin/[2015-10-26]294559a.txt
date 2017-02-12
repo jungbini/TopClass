@@ -1,0 +1,1 @@
+  Overridable val should not be treated as constant  #KT-9443 fixed  

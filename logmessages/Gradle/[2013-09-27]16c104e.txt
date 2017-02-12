@@ -1,0 +1,1 @@
+  Simplified 'assembler' sample and fix it to work on all tool chains  - Now targets the i386 platform only  

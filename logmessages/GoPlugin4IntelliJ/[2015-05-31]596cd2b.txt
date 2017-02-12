@@ -1,0 +1,1 @@
+  The autocompletion adds parenthesis instead brackets in map types, fix #1655  

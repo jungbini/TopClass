@@ -1,0 +1,1 @@
+ Merge pull request #1868 from paulianttila/nrjavaserial-fixes  Decrease CPU consumption caused by nrjavaserial library  commit b1605fc384b00a9c6c6f4dee7a688fe9703a6b11  Fix configuration converter bug getting parameter from database  

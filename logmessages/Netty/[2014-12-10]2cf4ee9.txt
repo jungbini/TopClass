@@ -1,0 +1,1 @@
+  HTTP/2 Sonar Bugs  Motivation: Clinker provides a Sonar tool which detects potential bugs or problems in the code.  These problems were reported here http://clinker.netty.io/sonar/drilldown/issues/io.netty:netty-parent:master?  Modifications: Make the recommended changes as reported by Sonar  Result: Better or more standard code.  Less Sonar problem reports for HTTP/2 codec.  

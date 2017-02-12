@@ -1,0 +1,1 @@
+  remove failed statistics requests from the component's state  fixes #1310  

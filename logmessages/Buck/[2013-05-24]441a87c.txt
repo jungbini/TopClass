@@ -1,0 +1,1 @@
+  Fix a bug where a resourceFilter was being passed as a proguard config.  Summary: This was introduced in https://phabricator.fb.com/D814987. Presumably a copy/paste error.  Test Plan: Built an app in fbandroid that was previously failing. Sandcastle builds.  

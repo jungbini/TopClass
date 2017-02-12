@@ -1,0 +1,1 @@
+  Total rewriting of the memory management of MVRB-Tree: - entrypoints now it's a TreeMap of all the nodes in memory - during optimize()  the entrypoints map is reduced to the config size - fixed a couple of bugs - registered much less memory used and all the operations are now much faster!  This activity has been sponsored by Bayoda.com. Thanks Bayoda!  

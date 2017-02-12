@@ -1,0 +1,1 @@
+  Fix all the margins on quickvalues widget :wow:  Make margin calculation for quickvalues a bit more reliable, fixes #1487  

@@ -1,0 +1,1 @@
+  fix KT-10064 Regression: Error with multiple main functions within a single package  #KT-10064 Fixed  

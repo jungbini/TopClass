@@ -1,0 +1,1 @@
+  Debugger filters: changes are lost after editing (PY-19204)  Fire changes of the cell value, sometimes they can be lost because of the table cell editor.  

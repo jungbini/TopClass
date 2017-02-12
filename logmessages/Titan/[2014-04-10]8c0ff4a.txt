@@ -1,0 +1,1 @@
+  Fixed bug due to bypassing Hash prefixed KCVS when doing bulk mutations.  

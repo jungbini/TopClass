@@ -1,0 +1,1 @@
+  IPP: fix delete initializer when splitting declaration and initialization  

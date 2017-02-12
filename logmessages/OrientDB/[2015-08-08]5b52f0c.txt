@@ -1,0 +1,1 @@
+  fixed configuration for testing server xml  

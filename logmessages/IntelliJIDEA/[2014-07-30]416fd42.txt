@@ -1,0 +1,1 @@
+  second part of fix "IDEA-127645 Open in browser not working"  don't disable default browser policy combobox  

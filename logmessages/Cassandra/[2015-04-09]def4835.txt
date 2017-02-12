@@ -1,0 +1,1 @@
+  Add missing follow on fix for 7816 only applied to cassandra-2.1 branch in 763130bdbde2f4cec2e8973bcd5203caf51cc89f  

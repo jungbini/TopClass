@@ -1,0 +1,1 @@
+  JS backend: fixed name clash between public function w/o parameters and non-public function with same name.  

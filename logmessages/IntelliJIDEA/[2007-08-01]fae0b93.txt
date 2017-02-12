@@ -1,0 +1,1 @@
+  fixed regression: move up/down buttons in extract method dialog were broken after combo box selection of types was introduced (IDEADEV-19755)  

@@ -1,0 +1,1 @@
+  This workaround is not needed anymore after the fix in e705ff2  

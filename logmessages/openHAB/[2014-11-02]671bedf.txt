@@ -1,0 +1,1 @@
+ Merge pull request #1575 from gernoteger/CULTransports  CULNetworkHandler: fixed #1772,#1774: refactored CULNetworkHandlerImpl,CULSerialHandlerImpl...  commit 671bedfdc1e8aff840682a976c7427b8fcea4c37  Removed line number in normal logging and date in debug logging  

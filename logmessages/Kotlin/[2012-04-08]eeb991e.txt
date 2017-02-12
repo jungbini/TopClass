@@ -1,0 +1,1 @@
+  Fixed exception on opening non-Kotlin class file.  #EA-35266 fixed  

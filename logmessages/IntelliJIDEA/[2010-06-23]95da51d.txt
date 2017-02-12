@@ -1,0 +1,1 @@
+  [by kirillk]: fix overlayed tool buttons for windows  

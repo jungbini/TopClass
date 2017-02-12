@@ -1,0 +1,1 @@
+  HADOOP-11017. Addendum to fix RM HA. KMS delegation token secret manager should be able to use zookeeper as store. (Arun Suresh via kasha)  

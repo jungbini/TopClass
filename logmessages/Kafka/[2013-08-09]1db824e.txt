@@ -1,0 +1,1 @@
+  KAFKA-992 followup: Fix zookeeper de-registration bug for controller and consumer; reviewed by Neha Narkhede  

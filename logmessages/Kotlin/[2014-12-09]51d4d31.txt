@@ -1,0 +1,1 @@
+  Change return type quick-fix: Add support of constant expressions #KT-6260 Fixed #KT-6404 Fixed  

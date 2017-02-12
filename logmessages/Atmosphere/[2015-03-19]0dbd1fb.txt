@@ -1,0 +1,1 @@
+  :bug: Prevent AtmosphereInterceptor duplication when annotations are used #1905, Fixes #1890  

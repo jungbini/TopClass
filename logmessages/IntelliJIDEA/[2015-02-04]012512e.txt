@@ -1,0 +1,1 @@
+  TextMate: fix usability problems with theme mapping component (RUBY-16269)  

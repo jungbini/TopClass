@@ -1,0 +1,1 @@
+  Use type from compile time value for prefix expression  

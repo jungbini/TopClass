@@ -1,0 +1,1 @@
+  fixed PY-9322 Django: not able to run django tests without nose installed  do not import nosetests if settings.TEST_RUNNER was not set to NoseTestSuiteRunner  

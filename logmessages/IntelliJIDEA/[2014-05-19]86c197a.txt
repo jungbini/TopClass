@@ -1,0 +1,1 @@
+  IDEA-125227 New debugger: please disable switch from expression mode to code fragment mode when evaluating multiline expressions  

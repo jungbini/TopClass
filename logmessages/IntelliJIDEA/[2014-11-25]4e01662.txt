@@ -1,0 +1,1 @@
+  fixed PY-9736 Packaging: emphasize installing label by another color  

@@ -1,0 +1,1 @@
+  fix combobox painting under IntelliJ LaF (bottom gap)  

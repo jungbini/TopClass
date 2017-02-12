@@ -1,0 +1,1 @@
+  balloon animation cycle extracted to registry for debugging purpose  

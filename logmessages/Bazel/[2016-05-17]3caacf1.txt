@@ -1,0 +1,1 @@
+  Support top-level packages in pkg_tar  Previously, _short_path_dirname would take a short path like "libfoo.jar", rfind would return -1, sp[:-1] would return "libfoo.ja", and then _dest_path would strip that prefix off of "libfoo.jar", leaving just "r".  Also added some unit tests for these functions.  Fixes #1253.  -- MOS_MIGRATED_REVID=122527723  

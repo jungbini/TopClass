@@ -1,0 +1,1 @@
+  [KT-4124] Fix bug when constructing like this: "A.Companion.B()"  

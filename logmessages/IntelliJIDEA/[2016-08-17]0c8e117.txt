@@ -1,0 +1,1 @@
+  [groovy] move up/down: fix moving fields with groovy docs (IDEA-159925)  

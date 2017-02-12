@@ -1,0 +1,1 @@
+  a fix for CME in tests while dispose of SlowlyClosingAlarm  

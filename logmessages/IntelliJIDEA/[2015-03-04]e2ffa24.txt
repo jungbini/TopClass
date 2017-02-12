@@ -1,0 +1,1 @@
+  IDEA-132168 Debugger: Show value on selection change: selection is evaluated twice  

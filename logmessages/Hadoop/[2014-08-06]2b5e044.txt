@@ -1,0 +1,1 @@
+  HDFS-6817. Fix findbugs and other warnings. (yliu)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/fs-encryption@1616092 13f79535-47bb-0310-9956-ffa450edef68  

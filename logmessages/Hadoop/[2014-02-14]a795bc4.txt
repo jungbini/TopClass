@@ -1,0 +1,1 @@
+  HDFS-5494. Merge Protobuf-based-FSImage code from trunk - fix build break after merge. (Contributed by Jing Zhao)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-5535@1568517 13f79535-47bb-0310-9956-ffa450edef68  

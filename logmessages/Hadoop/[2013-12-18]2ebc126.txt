@@ -1,0 +1,1 @@
+  HDFS-5676. fix inconsistent synchronization of CachingStrategy (cmccabe)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1552164 13f79535-47bb-0310-9956-ffa450edef68  

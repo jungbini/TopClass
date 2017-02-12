@@ -1,0 +1,1 @@
+  Maven: invalid plugin model reading fix (IDEADEV-27477)  

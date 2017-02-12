@@ -1,0 +1,1 @@
+  Added a little more test coverage for plugin backwards compatibility fixes.  

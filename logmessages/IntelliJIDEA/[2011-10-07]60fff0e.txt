@@ -1,0 +1,1 @@
+  'create library from files' action: speed search added and fixed creating module library  

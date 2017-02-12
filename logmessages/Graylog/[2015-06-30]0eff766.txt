@@ -1,0 +1,1 @@
+  Suffixing default mongo db/es cluster name with _test, uppercasing constants.  

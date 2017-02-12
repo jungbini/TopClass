@@ -1,0 +1,1 @@
+  [STORM-1370] - Bug fixes for MultitenantScheduler  

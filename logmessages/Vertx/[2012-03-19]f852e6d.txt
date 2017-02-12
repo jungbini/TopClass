@@ -1,0 +1,1 @@
+  fixed race condition in event bus, plus some perf stuff  

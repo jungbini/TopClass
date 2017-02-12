@@ -1,0 +1,1 @@
+  Incremental fix for #493. Rename the cookie to avoid clash with jquery-socket, turn the mechanism to disabled by defualt  

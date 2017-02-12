@@ -1,0 +1,1 @@
+  TextAreasTest.test1: reverted logging  The test no longer fails (fixed in UIUtil.java), so I removed the logging and the module deps.  

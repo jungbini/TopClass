@@ -1,0 +1,1 @@
+  fixed double save with dirty in case after remote merge, issue #2629  

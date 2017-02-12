@@ -1,0 +1,1 @@
+  [java] fixes type-annotated parameter index calculation (IDEA-162379)  

@@ -1,0 +1,1 @@
+  reliably check if a task for debugger manager thread was interrupted  

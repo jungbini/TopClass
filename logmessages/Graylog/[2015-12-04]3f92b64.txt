@@ -1,0 +1,1 @@
+  Fix search sidebar resizing  Use react-overlays' `AutoAffix` component instead of jQuery and manual calculation.  PS: Oma component, we will miss you!  

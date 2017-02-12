@@ -1,0 +1,1 @@
+  fixed PY-6117 Show flavor icons in "Add" popup when adding a new Python interpreter  

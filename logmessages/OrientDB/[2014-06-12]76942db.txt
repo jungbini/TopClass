@@ -1,0 +1,1 @@
+  add first test for binary serialization, fixed issues relative to the test  

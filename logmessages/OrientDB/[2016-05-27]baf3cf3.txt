@@ -1,0 +1,1 @@
+  fixed missing token in error sending in case of session authentication failure.  

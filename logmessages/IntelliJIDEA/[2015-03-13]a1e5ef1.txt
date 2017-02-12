@@ -1,0 +1,1 @@
+  more SOE checks to fix IDEA-136966  

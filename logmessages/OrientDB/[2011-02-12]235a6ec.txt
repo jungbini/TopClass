@@ -1,0 +1,1 @@
+  Fixed bug in OrientDB JS api with firefox and IE. Reported by pabramowitsch in the ML  

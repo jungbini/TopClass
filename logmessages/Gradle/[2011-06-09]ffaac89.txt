@@ -1,0 +1,1 @@
+  Reverted my previous changes to the fixture data. Kept the enhancement of the assertion.  

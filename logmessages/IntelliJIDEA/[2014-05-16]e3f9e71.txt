@@ -1,0 +1,1 @@
+  javafx: quick fix to switch to javafx css in property starts with -fx-; make css dialects configurable visible when file-mappings are available (IDEA-125020)  

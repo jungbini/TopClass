@@ -1,0 +1,1 @@
+  fix SketchMergeAggregatorFactory.finalizeResults, comparator and more UTs for timeseries, topN (#3613)  

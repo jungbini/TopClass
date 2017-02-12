@@ -1,0 +1,1 @@
+  Spelling fixes and add some utility functions.  

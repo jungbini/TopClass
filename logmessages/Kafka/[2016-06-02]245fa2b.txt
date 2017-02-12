@@ -1,0 +1,1 @@
+  HOTFIX: updated JavaDoc example for 0.9 tech-prev to 0.10  Author: Matthias J. Sax <matthias@confluent.io>  Reviewers: Sriharsha Chintalapani, Ismael Juma, Guozhang Wang  Closes #1450 from mjsax/hotfix  

@@ -1,0 +1,1 @@
+  fixed bugs with calculating offsets and allow to inject psi inside range of element  

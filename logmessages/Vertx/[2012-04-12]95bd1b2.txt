@@ -1,0 +1,1 @@
+ Merge pull request #80 from pidster/eventbus_generic_fix  use generics to construct cluster manager  commit 95bd1b29dd9f567232c1f818d6f9f9be8d3a6745  Fixed bug in undeploy  

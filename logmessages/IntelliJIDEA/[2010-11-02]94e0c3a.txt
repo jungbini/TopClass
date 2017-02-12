@@ -1,0 +1,1 @@
+  VCS: line status trackers: fix install on start  

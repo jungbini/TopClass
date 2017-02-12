@@ -1,0 +1,1 @@
+  fix(android): workaround smiles crash with translations null bug  

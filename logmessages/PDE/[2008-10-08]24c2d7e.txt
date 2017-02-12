@@ -1,0 +1,1 @@
+  fix a bug in the caching mechanism and add PGraphics javadoc  

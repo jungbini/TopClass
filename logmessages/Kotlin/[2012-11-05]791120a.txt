@@ -1,0 +1,1 @@
+  Refactor: remove ResolverScopeData class, hack JavaBaseScope to use ClassPsiDeclarationProvider and PackagePsiDeclarationProvider interfaces  Compilation errors fixed  

@@ -1,0 +1,1 @@
+  fixed bug with refreshing home page through early returning long-polling REST requests  

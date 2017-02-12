@@ -1,0 +1,1 @@
+  pause action restored in java debug views [rev by peter]  

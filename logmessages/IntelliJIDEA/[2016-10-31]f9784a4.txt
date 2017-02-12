@@ -1,0 +1,1 @@
+  WEB-23769 JS debugger: update wip protocol to chrome 54  

@@ -1,0 +1,1 @@
+  fixes issue where frames that are bound to an item do not get updated in the rest api  

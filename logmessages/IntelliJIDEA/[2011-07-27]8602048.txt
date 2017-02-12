@@ -1,0 +1,1 @@
+  GitChangeProvider fix for copied files  If a file status is "copied", read the "old file path".  

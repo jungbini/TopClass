@@ -1,0 +1,1 @@
+  Attempting to fix TestHeapSize on Hudson (align array heapsize)  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1001944 13f79535-47bb-0310-9956-ffa450edef68  

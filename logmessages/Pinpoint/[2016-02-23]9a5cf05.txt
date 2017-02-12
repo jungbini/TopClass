@@ -1,0 +1,1 @@
+  1. remove jdk Logger 2. fix try-catch block for UnsupportedEncodingException  

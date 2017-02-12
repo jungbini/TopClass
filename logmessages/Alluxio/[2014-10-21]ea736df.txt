@@ -1,0 +1,1 @@
+ Merge pull request #480 from dcapwell/findbugsfix  Findbugsfix  commit ea736df7518df135380cda479cbe5481c54c7666  fixed unneeded code that compiler checks already.  Fixed array so it cant go past array  

@@ -1,0 +1,1 @@
+  fixed - add to watches started working with ctrl modifier  

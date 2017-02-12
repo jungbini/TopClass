@@ -1,0 +1,1 @@
+  fix doc-comment title for groovy if the caret is inside doc-comment  

@@ -1,0 +1,1 @@
+  Added hack to avoid exception in tests and compiler.  The hack is relevant only to IDEA 12, because in IDEA 13 related bug is already fixed.  

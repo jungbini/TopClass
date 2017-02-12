@@ -1,0 +1,1 @@
+happen during refresh, visible pack arrives with both new graph and new filters. So DeepComparator should check filters first.  

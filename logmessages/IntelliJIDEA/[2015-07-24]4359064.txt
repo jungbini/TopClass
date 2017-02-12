@@ -1,0 +1,1 @@
+  [test framework] introduces bare application test fixture and base test case class  

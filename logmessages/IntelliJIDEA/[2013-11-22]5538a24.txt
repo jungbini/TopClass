@@ -1,0 +1,1 @@
+  IDEA-116929 [regression] Ant: after rewriting to DOM API create target quick fix is missing  

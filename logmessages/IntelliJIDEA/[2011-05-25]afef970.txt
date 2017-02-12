@@ -1,0 +1,1 @@
+  Fixed bug in unbound locals inspection for augmented assignments (PY-3651)  

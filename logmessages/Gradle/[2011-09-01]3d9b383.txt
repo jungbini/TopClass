@@ -1,0 +1,1 @@
+  Fixes for changing daemon interface to be start/stop based.  Fixed timeout deadline calculation bugs Daemon idle timeout now starts from the point it is ready for connections, not instantiation Don't tear down the entire daemon if we lose a connection  

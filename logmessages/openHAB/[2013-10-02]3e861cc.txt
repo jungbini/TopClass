@@ -1,0 +1,1 @@
+ fixed optional configuration parameters for MAX!Cube binding  

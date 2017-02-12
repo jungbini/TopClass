@@ -1,0 +1,1 @@
+ Merge branch 'fix_storm-kafka_pom_example' of https://github.com/patricklucas/storm  commit e757b6cb1e111b61956588fc2819d4466356d6ee  Merge branch 'STORM-511-offset-fix' of github.com:viktortnk/storm  commit 3fc7f30ed693354f014f00948c527e0f2273c66c  fix acknowledgeMode bug in trident spout  

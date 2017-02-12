@@ -1,0 +1,1 @@
+  Check if group lookup worked to avoid a NPE  The group lookup can fail if the group belongs to a 

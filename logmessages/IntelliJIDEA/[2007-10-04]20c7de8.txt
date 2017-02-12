@@ -1,0 +1,1 @@
+  [review by yole]: IDEADEV-22064: Generate serial version UID fix now works for anonymous and local classes.  

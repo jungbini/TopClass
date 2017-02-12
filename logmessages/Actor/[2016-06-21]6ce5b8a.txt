@@ -1,0 +1,1 @@
+  fix(iOS): Fixing video size, fixing not-accepting video on iOS  

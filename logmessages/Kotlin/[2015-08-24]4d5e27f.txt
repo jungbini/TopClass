@@ -1,0 +1,1 @@
+  Bug fix: enumeration cases in when now processed correctly  

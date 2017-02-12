@@ -1,0 +1,1 @@
+  fixed artifactIds to make the build pass again  

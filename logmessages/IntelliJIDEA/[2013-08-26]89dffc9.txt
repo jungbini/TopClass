@@ -1,0 +1,1 @@
+  cal property name: accept without any other checks non-letter prefixes (IDEA-112585)  

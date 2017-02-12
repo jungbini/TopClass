@@ -1,0 +1,1 @@
+  Revert inappropriate fix (PY-20684)  We can't just change number, because Out in IPython has numbers too. And the first command we execute is getting info about console.  

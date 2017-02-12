@@ -1,0 +1,1 @@
+  possible additional fix for ghost editors on os x  

@@ -1,0 +1,1 @@
+  PY-18926: Wrapping AttributeError  Nose has bug: instead of Test we are getting ContextSuite in case of error in setup class. It does not have attribute .test, so we wrap it try / except to mimic previous behavior (pre 5.0) when we simply did not check this field  

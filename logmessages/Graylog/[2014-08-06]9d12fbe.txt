@@ -1,0 +1,1 @@
+  Make InputSetupService a singleton.  This fixes at least the graceful shutdown order.  

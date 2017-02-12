@@ -1,0 +1,1 @@
+  encapsulate fields: raise conflict if postfix/prefix expression result value is used further (IDEA-131841)  

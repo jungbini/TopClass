@@ -1,0 +1,1 @@
+  don't close lookup in debugger watch when selecting in it by mouse (IDEA-74731)  

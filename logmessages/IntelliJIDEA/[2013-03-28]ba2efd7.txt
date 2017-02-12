@@ -1,0 +1,1 @@
+  fixed tests  null is not instance of any class  

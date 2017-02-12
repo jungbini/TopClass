@@ -1,0 +1,1 @@
+  fold data uri in html #WEB-21768 fixed  

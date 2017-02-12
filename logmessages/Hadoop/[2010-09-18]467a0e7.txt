@@ -1,0 +1,1 @@
+  HBASE-3016  Refactor zk logging in trunk; do less and and identifier to log messages to help debugging  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@998555 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Revert "Include headers in search path during swift compilation"  Summary: This reverts https://github.com/facebook/buck/pull/911, with some minor fixes after merging.  The reason is here: https://github.com/facebook/buck/pull/983#issuecomment-259938575  /cc ryu2 Closes https://github.com/facebook/buck/pull/1007  Reviewed By: ryu2  fbshipit-source-id: 98e69f5  

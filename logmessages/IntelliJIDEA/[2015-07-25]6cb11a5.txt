@@ -1,0 +1,1 @@
+  fixed cache pattern for courses  

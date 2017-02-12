@@ -1,0 +1,1 @@
+  fixed item 3 of PY-5673 Incomplete/incorrect rendering of Sphinx/rst docstrings  

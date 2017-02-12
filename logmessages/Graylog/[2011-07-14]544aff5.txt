@@ -1,0 +1,1 @@
+  - changed static url to route helper to work in url-prefixed environments  

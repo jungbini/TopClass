@@ -1,0 +1,1 @@
+  fix PY-15635  In iPython notebook view the save shortcut should save the notebook  PY-16907 iPython notebook does not auto-save  

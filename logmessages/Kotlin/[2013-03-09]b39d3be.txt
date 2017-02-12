@@ -1,0 +1,1 @@
+ #KT-3381 fixed.  Corrected documentation misspelling.  

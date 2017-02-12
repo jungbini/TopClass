@@ -1,0 +1,1 @@
+  indenting case block in select statement, fix #1729  

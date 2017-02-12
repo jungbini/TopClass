@@ -1,0 +1,1 @@
+  merge -c 1459054 from trunk to branch-2 to fix YARN-297. Improve hashCode implementations for PB records. Contributed by Xuan Gong.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1459055 13f79535-47bb-0310-9956-ffa450edef68  

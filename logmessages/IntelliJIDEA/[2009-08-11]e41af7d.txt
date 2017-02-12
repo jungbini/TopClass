@@ -1,0 +1,1 @@
+  looks like a test fix: moves generic XML documentation provider to the end of list  

@@ -1,0 +1,1 @@
+  method reference: ref qualified isExact fixed (IDEA-120370)  

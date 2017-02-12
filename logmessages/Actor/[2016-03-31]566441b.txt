@@ -1,0 +1,1 @@
+  fix(android): move barAvatar unbind from onPause to onDestroy  

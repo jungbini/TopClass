@@ -1,0 +1,1 @@
+  fix deadlock  use getInstance directly and only when need  

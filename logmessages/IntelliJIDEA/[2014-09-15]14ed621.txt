@@ -1,0 +1,1 @@
+  PushDialog: fix 'enter' with modifiers behaviour  

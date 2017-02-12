@@ -1,0 +1,1 @@
+  PY-11592 Django 1.6: TEMPLATE_DIRS variable in settings.py is not created properly on project creation (test fix)  

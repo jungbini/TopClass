@@ -1,0 +1,1 @@
+  1)added show command-line action to debug console 2)fixed multi-line command-line console input in debug  

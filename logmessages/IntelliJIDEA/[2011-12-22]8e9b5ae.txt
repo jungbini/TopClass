@@ -1,0 +1,1 @@
+  XDebugger: action toolbar in Variables view  

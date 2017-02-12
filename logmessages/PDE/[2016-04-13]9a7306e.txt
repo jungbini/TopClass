@@ -1,0 +1,1 @@
+  flushes after drawing the source texture, fixes #4404  

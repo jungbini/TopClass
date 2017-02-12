@@ -1,0 +1,1 @@
+  testng: enable run/debug action on editor tabs  

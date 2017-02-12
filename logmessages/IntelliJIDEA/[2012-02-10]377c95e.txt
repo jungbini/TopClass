@@ -1,0 +1,1 @@
+  correct fix for deadlock: register Maven file type via FileTypeFactory  

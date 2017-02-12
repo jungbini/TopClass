@@ -1,0 +1,1 @@
+  "Manual array to collection copy" should work for foreach statements too some annotations and related NPE fixes  

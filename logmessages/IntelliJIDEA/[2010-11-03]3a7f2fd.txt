@@ -1,0 +1,1 @@
+. git show is now called with <file path> to filter out other files changed during the commit. And --follow parameters is needed in that case (which is fine for 'git show').  

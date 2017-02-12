@@ -1,0 +1,1 @@
+  IDEA-143852 Debugger does not stop at breakpoints at junit tests  

@@ -1,0 +1,1 @@
+  prevent ESC in Color Selector from causing P5 to quit (bug #1006)  

@@ -1,0 +1,1 @@
+  HDFS-6694. TestPipelinesFailover.testPipelineRecoveryStress tests fail intermittently with various symptoms - debugging patch (Contributed by Yongjun Zhang)  

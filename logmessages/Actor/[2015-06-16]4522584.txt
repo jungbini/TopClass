@@ -1,0 +1,1 @@
+  android(fix) blink cover avatars  

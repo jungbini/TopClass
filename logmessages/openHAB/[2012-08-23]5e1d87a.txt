@@ -1,0 +1,1 @@
+  fixes the count() methods of AND and OR GroupFunctions so that getStateAs() instead of getState() is incorporated - so Dimmers which are in a Group of type Switch are counted correctly as well (thanks Rick for analyzing)  

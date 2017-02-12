@@ -1,0 +1,1 @@
+  fixed incorrect rename for spring stereotypes  

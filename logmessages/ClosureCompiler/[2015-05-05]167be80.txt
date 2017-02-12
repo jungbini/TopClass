@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE] Bugfix when a method w/out jsdoc is grabbing the signature of a parent method. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=92864161  

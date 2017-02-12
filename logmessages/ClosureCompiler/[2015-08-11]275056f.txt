@@ -1,0 +1,1 @@
+  [NTI] Tighten types in strict and non-strict comparisons after nullable dereference.  cl/100302336 was not a complete fix.  Also, fix a bug where we were removing null and undefined from a type too eagerly. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=100394685  

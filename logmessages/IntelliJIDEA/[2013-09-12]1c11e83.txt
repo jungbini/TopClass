@@ -1,0 +1,1 @@
+  Pull request #100 by evra + some small cleanups and style fixes by klikh  

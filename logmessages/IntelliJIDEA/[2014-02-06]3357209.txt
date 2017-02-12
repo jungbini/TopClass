@@ -1,0 +1,1 @@
+  cleanup, prepare to fix WEB-9756 Quick evaluate expression popup: long values are cut and cannot be copy correctly  SimpleColoredComponent  add getFragmentTagAt AbstractBaseTagMouseListener  remove duplicated code  

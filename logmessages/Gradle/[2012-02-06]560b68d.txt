@@ -1,0 +1,1 @@
+  Fix error in findbugs plugin during output when there are errors.  

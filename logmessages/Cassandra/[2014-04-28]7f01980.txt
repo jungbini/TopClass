@@ -1,0 +1,1 @@
+  fix npe when specifying -Dcassandra.fd_initial_value_ms  patch by dbrosius reviewed by bwilliams for cassandra 6751  

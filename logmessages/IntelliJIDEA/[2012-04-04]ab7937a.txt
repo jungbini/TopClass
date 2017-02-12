@@ -1,0 +1,1 @@
+  fixed exception in Chrome Command line options dialog (EA-35185) [rev by Dmitry A.]  

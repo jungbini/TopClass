@@ -1,0 +1,1 @@
+  Fix for KT-13400, KT-13389 Resolving FQN in quick doc  Problem related to not complete fix in KT-10398  

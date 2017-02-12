@@ -1,0 +1,1 @@
+  KT-3853 ISE on resolving function implementation from trait from Java  The fix is simple and dirty, because the related code will be removed soon anyways. Fix is necessary for compiling Kara.  #KT-3853 fixed  

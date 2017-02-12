@@ -1,0 +1,1 @@
+  [rev maxim] dom race condition fix, no more custom children access before dom extenders are registered  

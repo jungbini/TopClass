@@ -1,0 +1,1 @@
+  Merge -c 1516337 from trunk to branch-2.1-beta to fix YARN-1082. Create base directories on HDFS after RM login to ensure RM recovery doesn't fail in secure mode. Contributed by Vinod K V.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1516339 13f79535-47bb-0310-9956-ffa450edef68  

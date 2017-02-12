@@ -1,0 +1,1 @@
+ debug checks in test should be checked on each document to avoid first instantiation dependency  

@@ -1,0 +1,1 @@
+  add caret to new line (fix #2585)  

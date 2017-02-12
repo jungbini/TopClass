@@ -1,0 +1,1 @@
+  show quickfixes from all inspections in Alt-Enter popup in UI Designer  

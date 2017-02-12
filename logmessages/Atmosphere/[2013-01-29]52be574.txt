@@ -1,0 +1,1 @@
+  One more fix for #841 : make sure the factory is used from the AtmosphereFramework class  

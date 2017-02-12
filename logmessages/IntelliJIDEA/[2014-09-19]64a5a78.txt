@@ -1,0 +1,1 @@
+  disabled obsolete handlers in java debugger support  

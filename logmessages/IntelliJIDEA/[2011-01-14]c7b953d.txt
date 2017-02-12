@@ -1,0 +1,1 @@
+  Another fix for IDEA-26242 (Idea analyzes certain files in our project for a very long time, using tons of memory in the process.)  

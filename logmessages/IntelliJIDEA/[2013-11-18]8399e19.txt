@@ -1,0 +1,1 @@
+  IDEA-115586 Support specifying default base branch and branch prefix for branches created through Task system: fixed  

@@ -1,0 +1,1 @@
+  fixed opening file via command line launcher (IDEA-155437)  

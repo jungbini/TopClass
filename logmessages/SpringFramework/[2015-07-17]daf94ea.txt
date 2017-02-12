@@ -1,0 +1,1 @@
+tation by not allowing empty paths as valid resource paths.  Issue: SPR-13241  

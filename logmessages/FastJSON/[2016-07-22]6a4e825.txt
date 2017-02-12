@@ -1,0 +1,1 @@
+  bug fixed for jsonpath. issue #735  

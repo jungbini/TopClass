@@ -1,0 +1,1 @@
+  fixed PY-13477 PyQt5: missing completion for QApplication class PY-14235 PyCharm auto completion doesn't work for PyQt 5.3 (but does for 5.2) PY-14103 Skeleton Generator Problems with PyQt4 PY-13990 PyCharm 4 EAP: fails on generation index for PyQt5 (5.3.2) and python 3.4  

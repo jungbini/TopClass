@@ -1,0 +1,1 @@
+  fixed PY-6018 Problem running py.test (ImportError: No module named teamcity) (according for new python helpers path)  

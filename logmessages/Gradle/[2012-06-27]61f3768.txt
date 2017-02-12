@@ -1,0 +1,1 @@
+  GRADLE-2238: fix unstable m2 repo integrationtests.  

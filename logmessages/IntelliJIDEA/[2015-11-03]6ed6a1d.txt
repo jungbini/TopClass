@@ -1,0 +1,1 @@
+  Attempt to fix blinking performance test, now is checked indent detection time relatively to file read time  

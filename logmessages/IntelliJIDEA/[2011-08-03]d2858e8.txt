@@ -1,0 +1,1 @@
+  set platform prefix automatically in plugin run configuration (IDEA-71433); assorted cleanup  

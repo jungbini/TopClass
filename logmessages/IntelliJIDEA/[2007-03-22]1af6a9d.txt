@@ -1,0 +1,1 @@
+  assorted fixes for changelist synchronization (in particular multiline changelist descriptions: IDEADEV-14764)  

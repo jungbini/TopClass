@@ -1,0 +1,1 @@
+  tests fixed after SVN: library deletion question asked (SVN local file operations listener to work without command context also)  

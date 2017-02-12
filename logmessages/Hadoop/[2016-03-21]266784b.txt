@@ -1,0 +1,1 @@
+  YARN-4849. [YARN-3368] cleanup code base, integrate web UI related build to mvn, and fix licenses. (wangda)  

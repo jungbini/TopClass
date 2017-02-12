@@ -1,0 +1,1 @@
+  fixed not symmetric plus signs inside folding anchors - floor to odd  

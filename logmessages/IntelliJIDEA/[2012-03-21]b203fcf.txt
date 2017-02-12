@@ -1,0 +1,1 @@
+  BuildFilePropertiesPanel. Toolbar decorator and some fixes. [reviewed by Konstantin Bulenkov]  

@@ -1,0 +1,1 @@
+  fix up arrow jumping to the first suggestion in in-place rename  

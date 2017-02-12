@@ -1,0 +1,1 @@
+  svn merge -c 1516745 from branch-2 for HADOOP-9899. Remove the debug message, added by HADOOP-8855, from KerberosAuthenticator.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1516749 13f79535-47bb-0310-9956-ffa450edef68  

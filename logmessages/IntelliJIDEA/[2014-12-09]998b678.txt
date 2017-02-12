@@ -1,0 +1,1 @@
+  EA-55181 - fixed assertion in EditorWindow.checkConsistency on task switching  

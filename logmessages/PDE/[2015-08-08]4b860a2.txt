@@ -1,0 +1,1 @@
+ add workaround for setTitle() resetting cursor() (fixes #3472)  

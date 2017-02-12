@@ -1,0 +1,1 @@
+  Create AppleCxxPlatforms in KnownBuildRuleTypes  Summary: Now that we have `AppleCxxPlatform`, we can create it in `KnownBuildRuleTypes` so we can feed it down to the various Apple `Description` implementations.  This 

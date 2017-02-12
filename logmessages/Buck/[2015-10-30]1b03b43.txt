@@ -1,0 +1,1 @@
+  Add some support for running go tests.  Summary: This isn't as complete as the `go test` command, mostly because `go test` "magically" recompiles the package under test. The closest you can get to `go test`-like functionality is via duplication, as mentioned in the docs. It might be nice to make this easier via param or 

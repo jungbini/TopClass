@@ -1,0 +1,1 @@
+  Thread problems with updateTo action fixed  *do not call updateToFromLog from awt thread; *unnecessary pool thread removed from UpdateToAction; *create one common method for updateTo as background task  

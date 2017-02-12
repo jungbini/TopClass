@@ -1,0 +1,1 @@
+  fixed PY-3652 Test runner tries to run tests from improperly named module  in producer  

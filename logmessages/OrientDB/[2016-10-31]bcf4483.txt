@@ -1,0 +1,1 @@
+  fixed issue on restricted abstract class creation, issue #6849  

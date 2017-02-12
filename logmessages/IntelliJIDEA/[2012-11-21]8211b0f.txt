@@ -1,0 +1,1 @@
+  Bug fix: consume AWT event when event is handled by listener. reviewer: dmitriy.avdeev (cherry-picked from 33ca840)  

@@ -1,0 +1,1 @@
+  IDEA-75399 fix packing standard java resources from library modules to apk  

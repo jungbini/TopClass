@@ -1,0 +1,1 @@
+  [hg tests] Make hg tests not light, but heavy  Light tests are not suitable, because hg tests need to work with a real file system and recreate project and project directory.  Therefore, extend from simply UsefulTestCase and manually set up fixtures.  

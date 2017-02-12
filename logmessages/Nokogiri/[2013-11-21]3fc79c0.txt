@@ -1,0 +1,1 @@
+  Fix segfault when doing marking and doc is not a document node  This fixes the problem where the doc node can actually also be a XML_DOCUMENT_FRAG_NODE. In that case it's structured like a node which means it stores a VALUE inside _private.  This checks the type of the code and uses the correct marking for the specific cases.  Fixes #939  

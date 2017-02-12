@@ -1,0 +1,1 @@
+  fix to strokeWeight.. was formerly integer.. need to clean this up  

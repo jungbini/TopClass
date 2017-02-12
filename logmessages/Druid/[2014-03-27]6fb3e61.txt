@@ -1,0 +1,1 @@
+ Merge pull request #446 from liquidm/add_druiddirectclient_logging  add url logging to DirectDruidClient for debugging purposes  commit 4d2535258f1167591df3e054121ec693a0c93f57  Merge pull request #448 from metamx/hdfs-config-fix  path should already be a proper uri  commit 6fb3e61a98a694d3d3a2d5cba4c746c1eb524ab6  add url logging to DirectDruidClient for debugging purposes  

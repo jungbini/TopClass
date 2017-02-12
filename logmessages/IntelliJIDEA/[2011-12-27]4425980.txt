@@ -1,0 +1,1 @@
+  Test fix for 'IDEA Test Assistant' plugin's action  

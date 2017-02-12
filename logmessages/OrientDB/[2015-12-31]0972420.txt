@@ -1,0 +1,1 @@
+  fixed null pointer and schema creation skip in case of missing database in thread, issue #4953  

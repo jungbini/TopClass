@@ -1,0 +1,1 @@
+  compiler test output in fixtures, more straightforward addFileToProject()  

@@ -1,0 +1,1 @@
+  added possibility to defined nested property/macrodef parameter references (like "@{${prop}}") corresponding tests added fixed http://www.jetbrains.net/jira/browse/IDEADEV-10649  

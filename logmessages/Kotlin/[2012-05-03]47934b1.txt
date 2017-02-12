@@ -1,0 +1,1 @@
+  KT-1575 Can't define a fix-point generic type #KT-1575 Fixed  

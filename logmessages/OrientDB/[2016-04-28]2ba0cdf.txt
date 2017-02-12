@@ -1,0 +1,1 @@
+  fixed missing link save in case of vertex linking, issue #5355  

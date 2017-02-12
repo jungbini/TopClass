@@ -1,0 +1,1 @@
+  correct fix of http://ea.jetbrains.com/browser/ea_problems/19608  

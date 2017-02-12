@@ -1,0 +1,1 @@
+  [cdr] fix incorrect enabling of "Move to another source folder" checkbox  

@@ -1,0 +1,1 @@
+  IDEA-149798 Extensible Attach to Local Process action: show ad text with currently selected debugger  

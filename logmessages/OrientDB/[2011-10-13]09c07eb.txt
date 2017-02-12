@@ -1,0 +1,1 @@
+  Fixed bug found by Adolfo on Gremlin function on remote connections  

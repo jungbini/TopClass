@@ -1,0 +1,1 @@
+  KT-2326 Link external annotations via mechanism in IDEA core when Kotlin depends on IDEA 12.x  Dropped temporary classes.  #KT-2326 fixed  

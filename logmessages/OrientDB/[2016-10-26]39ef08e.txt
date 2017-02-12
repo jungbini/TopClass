@@ -1,0 +1,1 @@
+  fix for refactor of recordId fileds accessor  

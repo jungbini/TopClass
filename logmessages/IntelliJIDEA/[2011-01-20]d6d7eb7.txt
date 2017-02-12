@@ -1,0 +1,1 @@
+  syncPublisher instead of not working asyncPublisher. This partly fixes IDEA-64408 - braches info will be reloaded on switching file editor.  

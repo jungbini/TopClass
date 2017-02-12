@@ -1,0 +1,1 @@
+  Fixing quick bug in SGDMinimizer, and CoNLLBenchmark  

@@ -1,0 +1,1 @@
+  IDEA-62756 apply quick fix: change signature -> changes files are visible in Changes | Local only after force-refresh [review=ann,yole]  

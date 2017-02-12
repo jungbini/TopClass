@@ -1,0 +1,1 @@
+  Start cleaning up the HTTP fixtures - introduce HttpArtifact - move expectArtifactGet > HttpArtifact#expectGet - todo move more artifact related logic from mavenmodule to HttpArtifact  

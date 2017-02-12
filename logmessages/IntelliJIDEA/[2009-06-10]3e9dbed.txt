@@ -1,0 +1,1 @@
+  hopefully, a getMirror() == null fix. the problem was as follows: it may happen that PSI is collected as it only being hold by soft reference in ClsFile, but mirror tree remains.  

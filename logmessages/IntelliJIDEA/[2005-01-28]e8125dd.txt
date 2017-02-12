@@ -1,0 +1,1 @@
+  Quickfixes should be available for readonly files  

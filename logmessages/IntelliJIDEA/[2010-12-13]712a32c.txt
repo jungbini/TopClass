@@ -1,0 +1,1 @@
+  fixed debug position update for remote files  

@@ -1,0 +1,1 @@
+  make gutter of console match error list (fixes #3904)  

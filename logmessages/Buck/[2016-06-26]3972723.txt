@@ -1,0 +1,1 @@
+  fix buck completion to allow for special characters  Summary: characters such as "/" would be interpreted as escape characters in the regex, this allows for "/" when resolving completions  Test Plan: tested with a path like //java/com/foo  Reviewed By: rightparen  fbshipit-source-id: 4708430  

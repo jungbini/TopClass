@@ -1,0 +1,1 @@
+ Merge pull request #961 from jaehong-kim/ok-http-fix  add type properties.  commit f70110acfc9475fb814fd4511d590dd88f8557a2  Update .travis.yml  Temporary fix to suppress DEBUG logs as Travis builds are failing due to console log exceeding 4MB.  

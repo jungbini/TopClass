@@ -1,0 +1,1 @@
+  disable fix all action if only empty quickfix is available  

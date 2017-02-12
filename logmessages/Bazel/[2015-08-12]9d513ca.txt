@@ -1,0 +1,1 @@
+  Set the workspace suffix for runfiles  This CL covers the "easy" cases.  Followup CLs will take care of couple dozen remaining gnarly ones.  -- MOS_MIGRATED_REVID=100479410  

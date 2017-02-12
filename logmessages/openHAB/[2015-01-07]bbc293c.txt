@@ -1,0 +1,1 @@
+ this hopefully fixes #144 - Binding crashes on Mac > 10.8  

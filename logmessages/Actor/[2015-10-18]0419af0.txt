@@ -1,0 +1,1 @@
+  fix(sdk-ios): Fixing makefile because of too long file names  

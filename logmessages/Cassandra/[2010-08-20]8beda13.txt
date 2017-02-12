@@ -1,0 +1,1 @@
+  fix FD leak in single-row slicepredicate queries. patch by jbellis; reviewed by brandonwilliams for CASSANDRA-1416  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@987630 13f79535-47bb-0310-9956-ffa450edef68  

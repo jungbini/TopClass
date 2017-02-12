@@ -1,0 +1,1 @@
+ Proposed fix for #442:  Provided a default `BroadcasterFactory` implementation to be retrieved by `getDefault()` before any `AtmosphereResources` are referenced.  

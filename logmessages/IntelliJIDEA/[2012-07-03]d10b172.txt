@@ -1,0 +1,1 @@
+  Bug fix: find pom-4.0.0.xml file in maven3 home.  

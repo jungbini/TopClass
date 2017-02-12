@@ -1,0 +1,1 @@
+  added jfrog snapshot repo fixes #3711  Signed-off-by: Kai Kreuzer <kai@openhab.org>  

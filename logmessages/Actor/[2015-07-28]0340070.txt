@@ -1,0 +1,1 @@
+  fix(iOS): Removing "join public group" from compose  

@@ -1,0 +1,1 @@
+  IDEADEV-33962: exclude from validation settings fixed  

@@ -1,0 +1,1 @@
+  Fix a bug in UnnamedDependency, add a test which checks its output  

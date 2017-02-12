@@ -1,0 +1,1 @@
+  Start go get fix in modal mode when it's invoking from console filter  

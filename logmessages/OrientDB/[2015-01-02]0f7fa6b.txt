@@ -1,0 +1,1 @@
+  fixed serializer detection for server before 2.0. issue #3287  

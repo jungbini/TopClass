@@ -1,0 +1,1 @@
+  Clear tree visitor cache at the end of the build  - fixes the memory calculation at the end of the build - cache would be dereferenced and garbage collectable after the Gradle scope services get closed.  +review REVIEW-5911  

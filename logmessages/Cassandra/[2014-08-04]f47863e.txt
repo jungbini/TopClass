@@ -1,0 +1,1 @@
+  fix warnings for _ as identifier patch by Robert Stupp; reviewed by jbellis for CASSANDRA-7675  

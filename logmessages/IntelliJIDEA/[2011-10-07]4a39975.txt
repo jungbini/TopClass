@@ -1,0 +1,1 @@
+  focus fix: default awt popup doesnt react on focus request right after focused progress window gets removed  

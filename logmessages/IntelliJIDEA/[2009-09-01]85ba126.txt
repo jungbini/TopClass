@@ -1,0 +1,1 @@
+  IDEADEV-39998 (Replace Operator Assignment with Postfix Increment intention)  

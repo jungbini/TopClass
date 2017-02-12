@@ -1,0 +1,1 @@
+  fixed issue where search-path was not getting preprocessed, except in the test case where we were explicitly running 'to_xpath'  

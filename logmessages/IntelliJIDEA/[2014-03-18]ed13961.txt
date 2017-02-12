@@ -1,0 +1,1 @@
+  IDEA-122347 No quick fix to add explicit type arguments  

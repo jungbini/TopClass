@@ -1,0 +1,1 @@
+  [test framework] bare test fixture extended  

@@ -1,0 +1,1 @@
+  fixed double send on the record on network, in case of result set and fetch plan, issue #3360.  

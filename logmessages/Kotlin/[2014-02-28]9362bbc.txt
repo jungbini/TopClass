@@ -1,0 +1,1 @@
+ fix KT-4612 properly implement KDoc compiler, added integration test.  

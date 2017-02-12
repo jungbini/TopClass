@@ -1,0 +1,1 @@
+  Simplify range type inspection + fix testdata  

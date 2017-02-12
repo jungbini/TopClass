@@ -1,0 +1,1 @@
+  Failed getting template line shouldn't break debugging for the current frame (PY-20545)  

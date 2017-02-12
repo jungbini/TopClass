@@ -1,0 +1,1 @@
+  fixed GRADLE-1499: projectProperty setter of Sonar task adds to globalProperties  

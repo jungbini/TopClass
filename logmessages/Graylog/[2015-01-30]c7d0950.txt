@@ -1,0 +1,1 @@
+  Even more helper methods for PluginModule  Also fixes addMessageFilter(Class<? extends MessageInput>) which was broken since Graylog2 0.92.x. http://i.imgur.com/1DjsUO1.jpg  

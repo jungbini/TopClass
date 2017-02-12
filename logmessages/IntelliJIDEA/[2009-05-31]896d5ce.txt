@@ -1,0 +1,1 @@
+  fix tests: Python typed handler works only in Python code  

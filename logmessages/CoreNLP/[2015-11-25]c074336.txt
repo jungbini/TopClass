@@ -1,0 +1,1 @@
+  attempt to fix bug with sentences() in Document.java  

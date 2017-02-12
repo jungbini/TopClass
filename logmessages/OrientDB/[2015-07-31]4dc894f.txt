@@ -1,0 +1,1 @@
+  fixed issue #4691 - UPDATE UPSERT ADD doesn't create first entry  

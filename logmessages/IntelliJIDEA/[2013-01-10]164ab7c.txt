@@ -1,0 +1,1 @@
+  IDEA-98233 Problem with debugger in Grails 2.2.0 + Intellij 12.0.2 (build 123.100)  

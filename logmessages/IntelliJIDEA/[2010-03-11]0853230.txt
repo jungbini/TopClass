@@ -1,0 +1,1 @@
+  offer correct quickfix for @classmethod with no parameters  

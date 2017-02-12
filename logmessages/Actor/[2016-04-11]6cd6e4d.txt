@@ -1,0 +1,1 @@
+  fix(android): replace TintImageView wth ImageView in ActorSettingsField  

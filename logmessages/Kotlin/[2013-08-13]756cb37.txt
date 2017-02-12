@@ -1,0 +1,1 @@
+  fixed: use function placeholder when there is no declared value parameter list  (not when there is no value parameters)  

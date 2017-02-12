@@ -1,0 +1,1 @@
+  fix setModified() so that OpenGL updates properly (#1786)  

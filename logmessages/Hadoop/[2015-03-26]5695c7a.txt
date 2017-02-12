@@ -1,0 +1,1 @@
+  HADOOP-11553 addendum fix the typo in the changes file  

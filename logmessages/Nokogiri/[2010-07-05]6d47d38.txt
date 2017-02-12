@@ -1,0 +1,1 @@
+  made extconf.rb and Rakefile Windows friendly; fixed Manifest.txt entries  

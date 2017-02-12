@@ -1,0 +1,1 @@
+  margin for dashboard quickvalues widget. fixes #1401  

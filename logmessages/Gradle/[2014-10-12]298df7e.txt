@@ -1,0 +1,1 @@
+ Changed DaemonLifecycleSpec to use Daemon test fixture and removed GradleExecuter.daemonRegistry property.  

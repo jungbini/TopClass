@@ -1,0 +1,1 @@
+direct output of the process running interpreter.sh to log4j  

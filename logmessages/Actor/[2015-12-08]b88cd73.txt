@@ -1,0 +1,1 @@
+  fix(server:botkit): change Response type of ShowStickerPacks and ShowStickers  

@@ -1,0 +1,1 @@
+  add all goto tests  - fix base test case failing when no res directory present - get rid of JetProperty -> XmlAttr caching  

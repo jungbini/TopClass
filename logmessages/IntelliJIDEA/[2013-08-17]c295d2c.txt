@@ -1,0 +1,1 @@
+  force getFamilyName implementation!  It could be omitted for onTheFly only fixes but seems that it should be treated each time with caution and more over now it is even not possible to detect onTheFly status in current IG API (which should be fixed)  

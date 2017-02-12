@@ -1,0 +1,1 @@
+  upgraded to hazelcast 2.6.3 + fixed a few concurrent issues in ha + move hazelcast dep outside core build  

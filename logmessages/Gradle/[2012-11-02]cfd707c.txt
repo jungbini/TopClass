@@ -1,0 +1,1 @@
+  - Added GradleExecuter.beforeExecute(), to allow fixtures to inject configuration into all builds executed by the given executer. - Added a rule to reconfigure all mavenCentral() instances in all test builds to point to repo.gradle.org instead.  

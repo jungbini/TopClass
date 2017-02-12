@@ -1,0 +1,1 @@
+  use FIle.separator in NsiFiles, fix idea_win.nsh on Linux  

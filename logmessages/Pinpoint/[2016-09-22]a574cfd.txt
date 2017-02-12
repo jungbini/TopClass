@@ -1,0 +1,1 @@
+  bug fix (#2103)  * bug fix. - add null check.  * bug fix. - wrong status display of time-slider  

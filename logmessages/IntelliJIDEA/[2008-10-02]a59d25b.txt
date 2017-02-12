@@ -1,0 +1,1 @@
+  fix "Sources output dir is null..." assertion during compilation  

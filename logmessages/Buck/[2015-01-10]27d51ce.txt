@@ -1,0 +1,1 @@
+  On Travis, run `buck test --all` before `ant test`.  Summary: As noted in `.travis.yml`, we want to run `buck test --all` first because its test output lists which tests failed whereas Ant's does not. As a result, the Buck way makes it easier to debug tests.  Test Plan: Verify that we see test failures from Buck's testrunner rather than Ant's.  

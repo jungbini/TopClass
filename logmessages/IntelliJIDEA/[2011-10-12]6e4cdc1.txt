@@ -1,0 +1,1 @@
+  progress window hanging problem fixed  Conflicts:  platform/platform-impl/src/com/intellij/openapi/progress/util/ProgressWindow.java  

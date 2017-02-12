@@ -1,0 +1,1 @@
+  HBASE-4323  Add debug logging when AssignmentManager can't make a plan for a region.  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1164277 13f79535-47bb-0310-9956-ffa450edef68  

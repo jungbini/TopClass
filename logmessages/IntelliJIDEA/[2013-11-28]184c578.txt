@@ -1,0 +1,1 @@
+  fixed PY-11500 False positive in method may be static inspection for decorated methods  

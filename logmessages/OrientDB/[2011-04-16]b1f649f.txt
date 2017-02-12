@@ -1,0 +1,1 @@
+  Fixed bugs on query parsing when parenthesis was united to the rest of the text  

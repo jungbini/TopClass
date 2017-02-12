@@ -1,0 +1,1 @@
+  Fix for http://java.net/jira/browse/ATMOSPHERE-139 ("Regression: SimpleBroadcaster broken after fix for async write.")  

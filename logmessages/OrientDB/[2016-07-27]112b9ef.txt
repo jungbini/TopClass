@@ -1,0 +1,1 @@
+  fixed issue on sql creation of linked value using embedding syntax.  

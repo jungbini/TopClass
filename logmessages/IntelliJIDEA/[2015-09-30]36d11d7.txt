@@ -1,0 +1,1 @@
+  PY-6637 Change name of the refactoring - "Make function top-level"  I added "localFunction" prefix to existing test cases to enable this refactoring for instance methods in future.  

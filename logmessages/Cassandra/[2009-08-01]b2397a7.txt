@@ -1,0 +1,1 @@
+  SF shouldn't duplicate position checking that was already done by SSTable.  move utility methods to IndexHelper.  fix off-by-4 in dataSizeReturned. patch by jbellis; reviewed by Stu Hood for CASSANDRA-330  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@799947 13f79535-47bb-0310-9956-ffa450edef68  

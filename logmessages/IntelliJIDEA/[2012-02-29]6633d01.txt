@@ -1,0 +1,1 @@
+  Bug fix: MavenIndicesManager.getMavenSettings() must return cloned settings because there is no read action.  

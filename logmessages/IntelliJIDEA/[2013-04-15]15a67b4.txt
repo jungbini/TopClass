@@ -1,0 +1,1 @@
+  IDEA-98755 fix quickfix "unsupported class file format", not it opens dialog for changing bytecode version [rev=alexander.lobas]  

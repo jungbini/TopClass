@@ -1,0 +1,1 @@
+  fix excessive garbage production: don't create assertion message when not needed  

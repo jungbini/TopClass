@@ -1,0 +1,1 @@
+  fix stdlib compilation after javabean refactoring  

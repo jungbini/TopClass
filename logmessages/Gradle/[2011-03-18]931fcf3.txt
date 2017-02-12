@@ -1,0 +1,1 @@
+  Tweaked how the build decides which dependencies to include in the poms for published projects, to fix broken int test  

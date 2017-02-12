@@ -1,0 +1,1 @@
+  Debugger: fix EE for localvariables inside inline function call #KT-10674 Fixed  

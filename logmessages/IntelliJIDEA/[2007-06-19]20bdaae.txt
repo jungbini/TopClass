@@ -1,0 +1,1 @@
+  IDEADEV-18123: Hide extensions for known file types fixed.  

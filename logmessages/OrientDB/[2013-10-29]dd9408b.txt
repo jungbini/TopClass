@@ -1,0 +1,1 @@
+  fixed method send in OMailPlugin, now cc and bcc are not mandatory anymore  

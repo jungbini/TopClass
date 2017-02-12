@@ -1,0 +1,1 @@
+ fixed [RUBY-9854] Debugger processes on Windows not closing properly Rails Server  

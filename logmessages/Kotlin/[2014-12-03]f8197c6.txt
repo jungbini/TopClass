@@ -1,0 +1,1 @@
+  KT-4016 Support "Copy Reference" action on class, method, etc  #KT-4016 fixed  

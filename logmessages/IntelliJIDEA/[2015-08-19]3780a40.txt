@@ -1,0 +1,1 @@
+  fix vfs refresh logging (IDEA-CR-4380)  

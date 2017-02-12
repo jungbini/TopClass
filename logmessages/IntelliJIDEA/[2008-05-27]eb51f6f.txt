@@ -1,0 +1,1 @@
+  IDEADEV-26802 fixed ([#9350] NPE: SvnRepositoryContentRevision.create)  

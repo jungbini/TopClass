@@ -1,0 +1,1 @@
+ Merge pull request #3330 from mtsio/bugfix-incomplete_error  fix Greek error messages  commit 1505abe114e450e675a544503441a45857f838bf  fixed case in name of TexLight shader  

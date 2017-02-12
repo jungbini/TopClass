@@ -1,0 +1,1 @@
+  Restore Skylark "support" for inheritance  Classes of the same EvalUtils.getSkylarkType are once again the same for the type inferencer.  Also, for debugging purposes, only print SkylarkClassObject as struct, not all classes that implement ClassObject yet are considered disjoint by the type engine.  -- MOS_MIGRATED_REVID=87933890  

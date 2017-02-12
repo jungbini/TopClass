@@ -1,0 +1,1 @@
+  fix(js): Fixing isBot flag in user and fixing find groups promice  

@@ -1,0 +1,1 @@
+  catch security exception inside main(), should fix java web start  

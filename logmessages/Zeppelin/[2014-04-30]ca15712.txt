@@ -1,0 +1,1 @@
+ ZEPPELIN-92 fix isConncted implementation  

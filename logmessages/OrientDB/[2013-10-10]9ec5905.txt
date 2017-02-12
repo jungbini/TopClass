@@ -1,0 +1,1 @@
+  NPE during second delete of removed record was fixed. 1-st level cache is enabled by default.  

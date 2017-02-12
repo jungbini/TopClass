@@ -1,0 +1,1 @@
+  fixed server shutdown now wait for opertation termination, improved disconnected clients cleanup, issue #3260  

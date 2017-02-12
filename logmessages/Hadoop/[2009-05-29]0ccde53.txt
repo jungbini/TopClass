@@ -1,0 +1,1 @@
+  HADOOP-5864. Fix DMI and OBL findbugs in packages hdfs and metrics. Contributed by Hairong Kuang.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk@780114 13f79535-47bb-0310-9956-ffa450edef68  

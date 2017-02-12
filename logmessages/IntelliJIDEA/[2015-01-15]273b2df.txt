@@ -1,0 +1,1 @@
+  fixed EDU-122 Exception while reloading empty task  in case of course deletion NPE happened and user got strange exception about listener also made a bit of code cleanup  

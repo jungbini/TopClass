@@ -1,0 +1,1 @@
+  Binary compatibility test is fixed.  

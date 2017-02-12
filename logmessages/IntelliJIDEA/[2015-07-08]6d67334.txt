@@ -1,0 +1,1 @@
+  fixed hot swap not working in existing debug session after failed another session attach  

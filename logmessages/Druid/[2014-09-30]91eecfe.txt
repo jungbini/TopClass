@@ -1,0 +1,1 @@
+  fix #730 - memory check throws exception if fails  fix exception handling, do not catch ProvisionException  

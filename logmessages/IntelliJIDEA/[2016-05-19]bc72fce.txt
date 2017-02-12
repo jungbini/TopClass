@@ -1,0 +1,1 @@
+ Merge remote-tracking branch 'origin/master' into amakeev/debugger  commit bc72fce6d446529af4d66568407d1111b44a7a2d  IDEA-156280 Incorrect evaluation inside anonymous class - fixes after IDEA-CR-10896  

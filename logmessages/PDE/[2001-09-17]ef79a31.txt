@@ -1,0 +1,1 @@
+  fixed nasty OutOfMemoryError bug. removing basicstamp dir  

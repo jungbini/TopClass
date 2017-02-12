@@ -1,0 +1,1 @@
+  github: remove two-step deserialization - fix non-mandatory fields  * these checks were in constructors, and were missed during the refactoring  

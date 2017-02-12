@@ -1,0 +1,1 @@
+  Fix bug in counter mutation serialization  patch by slebresne; reviewed by iamaleksey for CASSANDRA-10073  

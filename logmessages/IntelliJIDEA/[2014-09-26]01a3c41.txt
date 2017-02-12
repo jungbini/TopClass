@@ -1,0 +1,1 @@
+  allow to gc virtual machine on debug session stop  

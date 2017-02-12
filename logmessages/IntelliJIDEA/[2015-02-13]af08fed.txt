@@ -1,0 +1,1 @@
+  platform: Unix startup script refactored  - 'eval' removed (fixes IDEA-127964) - JVM arguments inlined in call (fixes IDEA-133849) - VM options files handling cleaned  

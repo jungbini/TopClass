@@ -1,0 +1,1 @@
+  STORM-2040 Fix bug on assert-can-serialize  * type of element of tuple-batch is changed but not reflected to assert-can-serialize * it only raises issue when topology.testing.always.try.serialize is true  

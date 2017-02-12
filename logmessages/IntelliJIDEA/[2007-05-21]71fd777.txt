@@ -1,0 +1,1 @@
+  big project compile compile bug fixed added progress indicator for generating and compiling  

@@ -1,0 +1,1 @@
+  fix progress counting in wide row iterator patch by Piotr Koalczkowski; reviewed by jbellis for CASSANDRA-4803  

@@ -1,0 +1,1 @@
+  HDFS-7515. Fix new findbugs warnings in hadoop-hdfs. Contributed by Haohui Mai.  

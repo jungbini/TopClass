@@ -1,0 +1,1 @@
+  IDEA-127201 Debugger tree: message nodes should follow "static" or "this" nodes  

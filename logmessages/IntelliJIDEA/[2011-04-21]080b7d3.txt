@@ -1,0 +1,1 @@
+  IDEA-68362 Emacs: Teach emacs like 'kill-word', 'backward-kill-word', 'kill-region' and 'kill-ring-save' actions to work with kill ring  Test fixes - remove IS-A KillRingTransferable checking because it was found out that some JVM implementations wrap Transferables into sun.awt.datatransfer.TransferableProxy before storing it at the system clipboard  

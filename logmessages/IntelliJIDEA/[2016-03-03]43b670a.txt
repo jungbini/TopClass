@@ -1,0 +1,1 @@
+  git: amend: simplify ignore-whitespace comparison, and fix NPE warning  

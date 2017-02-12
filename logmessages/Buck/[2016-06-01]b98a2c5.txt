@@ -1,0 +1,1 @@
+  fixing concurrency issues in BuckClient  Summary: There are some small concurrency issues which may or may not have the keepalive thread respawn while IntelliJ is exiting.  Test Plan: sandcastle  Reviewed By: cosmin1123  fbshipit-source-id: 46fa793  

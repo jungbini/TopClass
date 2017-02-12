@@ -1,0 +1,1 @@
+  cqlsh: fix CREATE/ALTER WITH completion  patch by Mikhail Stepura; reviewed by Aleksey Yeschenko for CASSANDRA-6196  

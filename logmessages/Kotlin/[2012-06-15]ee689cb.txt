@@ -1,0 +1,1 @@
+  Safe calls work for native properties  #KT-2209 fixed  

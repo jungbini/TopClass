@@ -1,0 +1,1 @@
+  IDEA-20943 Run/Debug Dialog is too big on 15" MacBook Pro  

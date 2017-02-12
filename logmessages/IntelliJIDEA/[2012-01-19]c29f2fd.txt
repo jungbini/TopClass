@@ -1,0 +1,1 @@
+  compile-server: fix double initialization of DependencyContext in mappings  

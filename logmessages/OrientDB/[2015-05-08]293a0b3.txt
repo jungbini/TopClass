@@ -1,0 +1,1 @@
+  fixed bug on not existing link using the object db, issue #4110  

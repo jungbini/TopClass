@@ -1,0 +1,1 @@
+  KT-3500: ClassFormatError: Duplicate method name&signature in class file && KT-3429: Traits override bug  

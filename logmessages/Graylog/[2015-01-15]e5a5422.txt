@@ -1,0 +1,1 @@
+  hide content pack link if the user doesn't have enough permissions to import content packs  right now only admin users would have the necessary permissions  fixes #1033  

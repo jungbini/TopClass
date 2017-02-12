@@ -1,0 +1,1 @@
+  Fixed test data according to fixed bug in IDEA JPS.  

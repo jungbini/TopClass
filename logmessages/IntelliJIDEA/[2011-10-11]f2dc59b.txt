@@ -1,0 +1,1 @@
+  RUBY-9536 fix broken import for all products, except flex  

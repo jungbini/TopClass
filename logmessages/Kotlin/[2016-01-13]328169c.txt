@@ -1,0 +1,1 @@
+  Minor: fix test data as exhaustive when error message was changed  

@@ -1,0 +1,1 @@
+  only does copy for normal attributes, fixes #4048  

@@ -1,0 +1,1 @@
+  Refactoring: Get rid of "Jet" in the names of refactoring/quick fixes-related classes  

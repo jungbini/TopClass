@@ -1,0 +1,1 @@
+  XDebugger: less intrusive 'show more' link  for the full value AppCode:Debugger: Displaying a full value of the variable in the popup  

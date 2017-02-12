@@ -1,0 +1,1 @@
+  Fix logic of forcing method return type to be wrapped  Return type must be wrapped if any super-method in the hierarchy, not just the direct super-method, returns a reference type (as opposed to a primitive type)  Actually there was a test reflecting this, but it wasn't running because of an unfixed diagnostic error  

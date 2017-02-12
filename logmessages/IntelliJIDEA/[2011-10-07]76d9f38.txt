@@ -1,0 +1,1 @@
+  revert fix for IDEA-73842 (new approach is written, but is not yet fully tested)  

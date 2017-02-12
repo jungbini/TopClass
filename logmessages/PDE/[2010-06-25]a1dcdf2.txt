@@ -1,0 +1,1 @@
+  fixes for bad regexp being used with the adobe stuff  

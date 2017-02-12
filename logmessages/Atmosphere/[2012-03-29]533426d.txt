@@ -1,0 +1,1 @@
+  Incremental fix for #70 Add support for TrackMessageSize. long-polling and streaming now supported. Missing: CORS and JSONP  

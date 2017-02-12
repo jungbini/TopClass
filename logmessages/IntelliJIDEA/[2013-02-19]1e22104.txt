@@ -1,0 +1,1 @@
+  fix a PY-8926 Python: Conversion of docsting into recommended triple double-quoted form keeps doublequote at last position  

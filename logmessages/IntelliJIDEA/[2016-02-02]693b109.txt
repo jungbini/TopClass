@@ -1,0 +1,1 @@
+  DBE: fix intentions that were missing in console. Test intention in scratch files too.  

@@ -1,0 +1,1 @@
+  HDFS-6783. Addendum patch to fix test failures. (Contributed by Yi Liu)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1618635 13f79535-47bb-0310-9956-ffa450edef68  

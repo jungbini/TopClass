@@ -1,0 +1,1 @@
+  IDEA-57885; fix duplicated default patterns  

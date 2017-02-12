@@ -1,0 +1,1 @@
+ts and complete fix 378bf52 [Bruno Bonnin] Update ElasticsearchInterpreter.java 7651647 [Bruno Bonnin] ZEPPELIN-602 elasticsearch throws ArrayIndexOutOfBoundsException for interpreting an empty paragraph  

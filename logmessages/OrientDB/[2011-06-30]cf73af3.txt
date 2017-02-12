@@ -1,0 +1,1 @@
+  ALTER CLUSTER sql command: patch by Luca Molino to fix issue 403  

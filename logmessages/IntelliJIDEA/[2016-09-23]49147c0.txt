@@ -1,0 +1,1 @@
+  registry.properties: fix "Idea"->"IntelliJ IDEA"/"IDE"  

@@ -1,0 +1,1 @@
+  Switch to EncodingEnvironmentUtil.setLocaleEnvironmentIfMac() from using deprecated fixDefaultEncodingIfMac()  

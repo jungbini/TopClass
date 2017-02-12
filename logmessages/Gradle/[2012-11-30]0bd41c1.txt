@@ -1,0 +1,1 @@
+  fixed NPE that got swallowed by catch-all block  

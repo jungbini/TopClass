@@ -1,0 +1,1 @@
+  fix(server): return RpcError on EntityNotFound  

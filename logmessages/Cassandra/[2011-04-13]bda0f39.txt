@@ -1,0 +1,1 @@
+  Allow pig to use multiple schemas, fix BytesTypes cast during storage. Patch by Jeremy Hanna, reviewed by brandonwilliams for CASSANDRA-2465  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1091857 13f79535-47bb-0310-9956-ffa450edef68  

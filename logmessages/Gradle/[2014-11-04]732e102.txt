@@ -1,0 +1,1 @@
+  Target test binaries to x86, to fix tests on cygwin/mingw  

@@ -1,0 +1,1 @@
+  Prepare for IDEABKL-3617 implemetation. LanguageFileType now has option if it supports JVM debugging.  

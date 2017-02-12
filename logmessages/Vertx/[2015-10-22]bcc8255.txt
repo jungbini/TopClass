@@ -1,0 +1,1 @@
+  Race fixed in HAManager  Signed-off-by: Andrey Gura <andreyn.gura@gmail.com>  

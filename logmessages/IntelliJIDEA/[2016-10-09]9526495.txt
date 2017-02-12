@@ -1,0 +1,1 @@
+  compilation fix: /s/com.jediterm.pty.PtyProcessTtyConnector/com.jediterm.terminal.ProcessTtyConnector, but I'm not sure  

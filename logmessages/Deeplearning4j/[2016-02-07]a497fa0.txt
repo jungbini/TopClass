@@ -1,0 +1,1 @@
+ use valid HTML in templates  In the old templates, the content was put after the </body> tag, this fix makes the HTML valid again.  

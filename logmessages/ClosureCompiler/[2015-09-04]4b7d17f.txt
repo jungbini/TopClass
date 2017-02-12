@@ -1,0 +1,1 @@
+ Make sure inline annotations on destructuring params are not lost in transpilation.  Partial fix for #1114 ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=102388123  

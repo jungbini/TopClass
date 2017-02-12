@@ -1,0 +1,1 @@
+  fix KEYS index from skipping results patch by Dmitry Petrashko; reviewed by Pavel Yaskevich for CASSANDRA-3996  

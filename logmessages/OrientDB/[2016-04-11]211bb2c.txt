@@ -1,0 +1,1 @@
+  add check for null value in debug logging, issue # #5962  

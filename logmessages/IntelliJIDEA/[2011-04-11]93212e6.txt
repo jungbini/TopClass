@@ -1,0 +1,1 @@
+  fixed PY-3303 run_tests() got an unexcepted keyword argument 'failfast' when testing an app in a buildout based project.  

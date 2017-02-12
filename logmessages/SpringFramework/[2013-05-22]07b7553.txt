@@ -1,0 +1,1 @@
+igurations rather than the project. It also removes unnecessarily added code that was commented out.  Issue: SPR-10572  

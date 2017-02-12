@@ -1,0 +1,1 @@
+  RidBag: Fixed bug in iterator.reset()  

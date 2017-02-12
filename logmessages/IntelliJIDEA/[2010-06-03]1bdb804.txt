@@ -1,0 +1,1 @@
+  Maven: profiles activation and invald project reading fixes  

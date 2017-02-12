@@ -1,0 +1,1 @@
+  StringConcatenationInLoopsInspection: quick-fix refactoring, methods extracted; CommentTracker: var-args delete() overload (IDEA-CR-16660)  

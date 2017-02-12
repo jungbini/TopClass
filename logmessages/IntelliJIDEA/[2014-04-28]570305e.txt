@@ -1,0 +1,1 @@
+  java-xdebugger: filter library frames support  

@@ -1,0 +1,1 @@
+  Fixed WI-8255 Create Php class from template with ticked 'Reformat according to style' is bugged  

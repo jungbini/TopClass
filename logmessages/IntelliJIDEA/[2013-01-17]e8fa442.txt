@@ -1,0 +1,1 @@
+  fixed PY-6319 Don't show repository name in "Available Packages" if I only have one repo configured  

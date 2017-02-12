@@ -1,0 +1,1 @@
+  extracted class formatting fix (IDEADEV-31149)  

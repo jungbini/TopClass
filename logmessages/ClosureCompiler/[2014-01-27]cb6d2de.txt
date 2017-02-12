@@ -1,0 +1,1 @@
+  document.register got renamed to document.registerElement: https://www.w3.org/Bugs/Public/show_bug.cgi?id=24087 ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=60186374  

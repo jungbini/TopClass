@@ -1,0 +1,1 @@
+  fixed PY-7663 Newline ignored in the quick documentation  

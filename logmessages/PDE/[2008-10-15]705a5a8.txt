@@ -1,0 +1,1 @@
+ disable swing file chooser for linux to prevent some error spew (bug #951)  

@@ -1,0 +1,1 @@
+  partial fix for GRADLE-1300: The 'idea' task for Gradle's build is incredibly slow  - turned all @InputFiles annotations on IdeaModule into @Input - code cleanup  

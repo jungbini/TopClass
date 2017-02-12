@@ -1,0 +1,1 @@
+  Apply language transforms in a more structured way  For each binary, for each source set, we try to find a language transform and apply it. We still ignore sourceSets that we are unable to transform, but this will now be easier to fix.  

@@ -1,0 +1,1 @@
+  fix broken link and use of pipes in table (#3290)  

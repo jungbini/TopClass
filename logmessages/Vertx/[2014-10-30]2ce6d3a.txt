@@ -1,0 +1,1 @@
+  added toString() method for CaseInsensitiveHeaders (copied from 2.x branch) added unit test for the class (cleaned up unit tests and fixed checkstyle errors)  Signed-off-by: Alex <alexlehm@gmail.com>  

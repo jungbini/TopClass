@@ -1,0 +1,1 @@
+  move KDocFinder to plugin because it's not used in compiler; wrap it in an object to avoid package facade conflicts; add test to findKDoc() and fix it so that it actually works  

@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=48 ("X-Cache-Date must be fill expended date String, not UTC time.")  Fix typo.  

@@ -1,0 +1,1 @@
+  KAFKA-4443; Minor comment clean-up  Removed stale comment left behind, minor fixes (UpdateMetadataRequest instead of MetadataUpdateRequest) and remove redundant comments.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Jiangjie (Becket) Qin <becket.qin@gmail.com>, Dong Lin <lindong28@gmail.com>  Closes #2194 from ijuma/kafka-4443-minor-follow-up  

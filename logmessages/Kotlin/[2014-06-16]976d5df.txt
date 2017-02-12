@@ -1,0 +1,1 @@
+  KT-5244 Crash from Kotlin JPS plugin when creating module script  #KT-5244 fixed  

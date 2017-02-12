@@ -1,0 +1,1 @@
+  Implementing new logic of choosing the daemon, startup and shutdown, some related refactorings and fixes  

@@ -1,0 +1,1 @@
+  re-adding caretUndoStack.push() and caretRedoStack.clear() calls to fix bug #707  

@@ -1,0 +1,1 @@
+  Yet another fix for RUBY-7852 Errant editing after surround selection on typing quote  

@@ -1,0 +1,1 @@
+  Name Suggester: Do not strip "get"/"is"/"set" prefixes if remaining sequence is not upper-cased #KT-7399 Fixed  

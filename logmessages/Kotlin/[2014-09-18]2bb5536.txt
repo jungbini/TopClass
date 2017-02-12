@@ -1,0 +1,1 @@
+  Dealing with infix calls in completion  #KT-4846 Fixed  

@@ -1,0 +1,1 @@
+  fix equals to compare this to the parm, rather than this to this  

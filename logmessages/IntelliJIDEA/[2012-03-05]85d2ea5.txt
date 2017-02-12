@@ -1,0 +1,1 @@
+  IDEA-82102 POM-editor (and others) react slowly to keyboard input / slow response fix: 1) removed synchronization on class object (unneeded) 2) first check if virtual files are the same when comparing them 3) get vcs mapping for file once (was taken 3 times in worst case)  

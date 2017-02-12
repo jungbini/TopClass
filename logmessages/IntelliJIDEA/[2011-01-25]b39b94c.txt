@@ -1,0 +1,1 @@
+  fixed PY-2774 'from . import x' not highlighted as syntax error under Python 2.4  

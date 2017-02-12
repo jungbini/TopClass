@@ -1,0 +1,1 @@
+  MAPREDUCE-3265. Removed debug logs during job submission to LOG.debug to cut down noise.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1205628 13f79535-47bb-0310-9956-ffa450edef68  

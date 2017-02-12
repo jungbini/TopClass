@@ -1,0 +1,1 @@
+  Another attempt to fix PY-4; bad PyClassTypes not created anymore.  

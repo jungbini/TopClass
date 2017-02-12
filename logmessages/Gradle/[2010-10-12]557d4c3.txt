@@ -1,0 +1,1 @@
+  Split handling of logging command-line options (--debug, --info, --quiet and --no-color) into a separate converter.  

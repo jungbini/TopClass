@@ -1,0 +1,1 @@
+  fixed framework detection in new project wizard  

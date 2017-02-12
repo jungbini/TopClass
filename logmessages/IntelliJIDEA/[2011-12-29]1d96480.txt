@@ -1,0 +1,1 @@
+  IDEA-79375 IDEA doesn't highlight parent brackets  1. Removed the code that was expected to fix css braces matching (IDEA-38432) (it hasn't worked anyway); 2. Corrected processing in case of unmatched opposite direction brace; 3. Added tests either for the problem mentioned at the current ticket or IDEA-38434;  

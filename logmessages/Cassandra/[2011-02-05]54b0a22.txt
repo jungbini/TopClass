@@ -1,0 +1,1 @@
+  add sample -Xdebug line con configuration file patch by mdennis; reviewed by jbellis for CASSANDRA-2114  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1067386 13f79535-47bb-0310-9956-ffa450edef68  

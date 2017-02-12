@@ -1,0 +1,1 @@
+  Patch by Kasper: Found a little bug in the readonly implementation when running client/server mode. When a new document is created then the fields received server side will be marked as dirty as they were empty before creation. I have added an additional check in the validation that the version number should be above 0 before any failure will be raised.  

@@ -1,0 +1,1 @@
+  IDEA-94942 Make svn command line implementation always use "interactive authentication" (fixes error when "passive authentication" was applied on some threads where thread local storage was not correctly cleared)  

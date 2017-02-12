@@ -1,0 +1,1 @@
+  search for sphinx-quckstart in default location  fixed PY-10238 sphinx-quickstart couldn't be found under /usr/local/bin  

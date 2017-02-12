@@ -1,0 +1,1 @@
+  KAFKA-3489; Update request metrics if a client closes a connection while the broker response is in flight  I also fixed a few issues in `SocketServerTest` and included a few clean-ups.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Jun Rao <junrao@gmail.com>  Closes #1172 from ijuma/kafka-3489-update-request-metrics-if-client-closes  

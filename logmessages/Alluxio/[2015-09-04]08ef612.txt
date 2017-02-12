@@ -1,0 +1,1 @@
+  small fix to avoid calling journal lookup twice  

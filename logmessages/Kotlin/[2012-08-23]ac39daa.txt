@@ -1,0 +1,1 @@
+  KT-2667 Support multi-declarations in for-loops in control flow analysis #KT-2667 fixed  

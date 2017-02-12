@@ -1,0 +1,1 @@
+  bug caused by several quick clicks on breakpoint icon fixed  

@@ -1,0 +1,1 @@
+  allow removing LDAP-based users  repair confirm box when deleting users  fixes #348  

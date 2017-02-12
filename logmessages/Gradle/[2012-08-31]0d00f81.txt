@@ -1,0 +1,1 @@
+  Fixed one of the tooling api the test so that it does not leave daemons behind.  Started using the ToolingApi fixture instead of directly using the connector. This way the test uses the sensible daemon defaults (short idle time, test user home dir, etc.). This should make the CI more stable.  

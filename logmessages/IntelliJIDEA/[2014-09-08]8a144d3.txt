@@ -1,0 +1,1 @@
+  fixed endless loop on adding error message node (cleaning message children before firing nodesRemoved causing getChildren and caluclation again)  

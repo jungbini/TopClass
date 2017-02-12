@@ -1,0 +1,1 @@
+  SVN: fix to ask current revision locally (COMMITTED constant was used -> provoked remote query)  

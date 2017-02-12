@@ -1,0 +1,1 @@
+ggleAllTable and toggleAllEditor does not match paragraph button  

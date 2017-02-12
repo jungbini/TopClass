@@ -1,0 +1,1 @@
+  Some doc updates + fixing failing userguide sample  - added default "" to sonar.tests if tests are empty. offers convenience to customize the sources (see userguide - sample)  +review REVIEW-5170  

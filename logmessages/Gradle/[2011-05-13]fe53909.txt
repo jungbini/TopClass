@@ -1,0 +1,1 @@
+  more POM generation for publications fixed copyright headers  

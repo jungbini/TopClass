@@ -1,0 +1,1 @@
+  new jb-v8-debugger support: fix bootstrap  

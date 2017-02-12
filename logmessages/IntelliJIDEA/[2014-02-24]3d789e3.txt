@@ -1,0 +1,1 @@
+  temporary fix for completion issue (IDEA-80056, EA-54248)  

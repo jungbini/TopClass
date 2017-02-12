@@ -1,0 +1,1 @@
+  fix duplicate plugin update notifications: don't queue the next plugin update while the network request from the previous update is still running  

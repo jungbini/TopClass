@@ -1,0 +1,1 @@
+  Change debug integration test to resume the VM rather than rely on killing the process.  This avoids some of the process management issues on windows that were causing builds to hang.  +review REVIEW-5668  

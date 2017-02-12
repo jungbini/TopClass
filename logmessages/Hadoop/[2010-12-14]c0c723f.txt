@@ -1,0 +1,1 @@
+  HBASE-3337 Restore HBCK fix of unassignment and dupe assignment for new master  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1049236 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  fix dist scripts so that the name "1.0" can be used  

@@ -1,0 +1,1 @@
+  Fixed an integer overflow bug related to truncating a long to an int.  Summary: This happened when I used the Buck httpserver on a machine I had not used for 4 months. The new timestamps were sufficiently far apart to reveal the bug that you see in the unit test.  Test Plan: Wrote a regression/unit test.  

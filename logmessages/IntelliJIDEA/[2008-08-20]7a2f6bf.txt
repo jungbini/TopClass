@@ -1,0 +1,1 @@
+  Ruby test runner: Duplicated output bug was fixed!!!  

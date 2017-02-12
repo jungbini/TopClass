@@ -1,0 +1,1 @@
+  git4idea: fixed setting executable flag for unix platforms  

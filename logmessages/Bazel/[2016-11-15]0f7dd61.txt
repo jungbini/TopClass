@@ -1,0 +1,1 @@
+  Remove the conditionals around buildConfiguration and make buildConfiguration always present. This also fixes an issue with split targets in which the generated protos would end up in the wrong location, and then compiled with the wrong flags.  -- MOS_MIGRATED_REVID=139253937  

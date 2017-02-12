@@ -1,0 +1,1 @@
+  Don't propagate loose types to declared property slots. This generally improves type checking around property assignments in local scope.  This also revealed a problem with @implictCast property handling in local scope, and that is fixed here as well. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=88979120  

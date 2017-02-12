@@ -1,0 +1,1 @@
+  don't always use LTR base direction for bidirectional text layout, autodetect direction as per Unicode standard (following bug report at https://code.google.com/p/android/issues/detail?id=182739#c13)  

@@ -1,0 +1,1 @@
+  [platform] moves Java extension directories to the end of the classpath (ZD-79286)  Expected to fix crashes and license activation problems caused by users messing with Java extension directories.  

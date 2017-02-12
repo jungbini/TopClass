@@ -1,0 +1,1 @@
+  HA: fixed error on resynchronisation after a server is down  

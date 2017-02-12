@@ -1,0 +1,1 @@
+  new project model: fixed compilation in jdk 1.7  

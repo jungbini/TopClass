@@ -1,0 +1,1 @@
+  Partial body resolve: fixed for ! and parenthesis in conditions  

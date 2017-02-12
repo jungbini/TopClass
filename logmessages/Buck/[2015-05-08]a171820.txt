@@ -1,0 +1,1 @@
+  AndroidBinaryGraphEnhancer: fixup first-order deps  Summary: - Keep first-order deps in exopackage mode - Add dexed java libraries as first-order deps of dex merge step  Test Plan: changed unittest to test for new behavior  

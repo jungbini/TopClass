@@ -1,0 +1,1 @@
+  Merge -c 1504735 from trunk to branch-2 to fix YARN-918. Remove ApplicationAttemptId from RegisterApplicationMasterRequestProto. Contributed by Vinod K V.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1504736 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  fixed PY-8398 Change Signature: disable refactor and preview buttons in case of validation error in the dialog  

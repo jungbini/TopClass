@@ -1,0 +1,1 @@
+  [apple] Output GCC_PREFIX_HEADER configuration for prefix_header=.  Summary: This fixes the project generator to match the specified prefix_header=. An xcconfig defining GCC_PREFIX_HEADER when the rule does not will still be respected, for compatibility.  Test Plan: Unit test.  

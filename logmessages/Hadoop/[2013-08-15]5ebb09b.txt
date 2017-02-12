@@ -1,0 +1,1 @@
+  svn merge -c 1514448 merging from trunk to branch-2.1-beta to fix HADOOP-9868. Also fix broken CHANGES.txt.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1514456 13f79535-47bb-0310-9956-ffa450edef68  

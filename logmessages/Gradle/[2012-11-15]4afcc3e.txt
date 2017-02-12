@@ -1,0 +1,1 @@
+  GRADLE-2552 - fix duplicate files in distribution zips.  Also added a distribution test for this.  

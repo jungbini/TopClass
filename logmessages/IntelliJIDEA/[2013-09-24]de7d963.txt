@@ -1,0 +1,1 @@
+  extract XDebuggerEditorsProviderBase, init JavaBreakpointType (is not registered, so, not in action now)  

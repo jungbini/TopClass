@@ -1,0 +1,1 @@
+  debugger: option to disable JIT when starting the debuggee, otherwise JIT is always enabled  

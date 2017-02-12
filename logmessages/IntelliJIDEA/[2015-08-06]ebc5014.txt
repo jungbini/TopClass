@@ -1,0 +1,1 @@
+  ResourceBundleEditor: exception is raised when deleted file editor looses focus fixed IDEA-143521  

@@ -1,0 +1,1 @@
+  don't complain about frequent app.invokeLater calls since they don't lead to long (linear) peekEvent in AWT event queue  fixes some log traces from IDEA-162047  

@@ -1,0 +1,1 @@
+arately 2dd73e4 [Jeff Zhang] change version from 2.3 to 2.6 in .travis.yml 6c9795f [Jeff Zhang] update test e99be8d [Jeff Zhang] update .travis.yml 2ce1532 [Jeff Zhang] add licence header 995ddf3 [Jeff Zhang] enable travis for livy integration test 798de1b [Jeff Zhang] ZEPPELIN-1607. Refactor Livy Interpreter to adapt scope mode  

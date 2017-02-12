@@ -1,0 +1,1 @@
+  IDEA-150753 Make 'Collapse empty tag' quick fix available for tags with whitespace contents  

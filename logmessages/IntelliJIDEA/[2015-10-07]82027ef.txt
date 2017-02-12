@@ -1,0 +1,1 @@
+  IDEA-146113 Debugger: Column Mode selection blinks when you stay at breakpoint.  

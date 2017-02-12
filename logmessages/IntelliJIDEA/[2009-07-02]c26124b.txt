@@ -1,0 +1,1 @@
+  git4idea: IDEADEV-38333: fixed too early sending of notification  

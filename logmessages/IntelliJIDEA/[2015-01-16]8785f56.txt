@@ -1,0 +1,1 @@
+  NullableNotNullManager: added default implementation to new method to avoid breaking API (fixed compatibility with Kotlin plugin)  

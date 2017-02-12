@@ -1,0 +1,1 @@
+  XmlAnnotatedElement renamed to DomElement & small fix  

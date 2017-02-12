@@ -1,0 +1,1 @@
+  fixed PY-3342 Change command name in the Sphinx actions menu  

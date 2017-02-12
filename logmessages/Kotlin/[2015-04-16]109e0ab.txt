@@ -1,0 +1,1 @@
+  Review fixes for mutable variable smart casting (mostly refactoring).  DataFlowValue.isPredictable() introduced instead of isStableIdentifier(). Parenthesized assignments are treated correctly.  

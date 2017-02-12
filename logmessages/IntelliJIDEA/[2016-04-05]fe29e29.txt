@@ -1,0 +1,1 @@
+  [vcs-log] do not fix minimum value for author and date column width IDEA-131265  

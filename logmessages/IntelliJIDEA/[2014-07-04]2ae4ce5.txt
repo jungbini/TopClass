@@ -1,0 +1,1 @@
+  Maven: fix serialization problem during project resolve related issues: IDEA-116383 cannot reconnect, IDEA-116482 EAP: Maven suddenly shows "cannot connect"  

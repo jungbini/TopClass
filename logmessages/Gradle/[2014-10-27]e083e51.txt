@@ -1,0 +1,1 @@
+  Use 32-bit binaries when testing CUnit  - This is a fix for the build: we should test that we can build both 32 & 64 bit variants against CUnit on platforms that support this.  

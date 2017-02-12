@@ -1,0 +1,1 @@
+  1. revised usage of Application.invokeLater vs. SwingUtilities.invokeLater - fixes stepping speed for large stacks 2. better merging of postponed events back into the command queue (original command priorities are now honored)  

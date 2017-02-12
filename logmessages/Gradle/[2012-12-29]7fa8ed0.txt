@@ -1,0 +1,1 @@
+  GRADLE-2613 - fixed EOFException on time out opening lock while another process is releasing the lock.  

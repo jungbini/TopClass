@@ -1,0 +1,1 @@
+  ONKYO BINDING MULTIPLE DEVICE STATUS UPDATE FIX (#4258)  Onkyo Binding multiple devices status update fix  

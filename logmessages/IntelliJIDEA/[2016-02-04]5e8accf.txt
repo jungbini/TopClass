@@ -1,0 +1,1 @@
+  fixed reloading TestModuleProperties after reopening (IDEA-150835)  

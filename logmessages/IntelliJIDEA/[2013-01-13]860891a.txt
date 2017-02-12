@@ -1,0 +1,1 @@
+  fixed  PY-8442 Add import alias: references in docstrings are not updated  

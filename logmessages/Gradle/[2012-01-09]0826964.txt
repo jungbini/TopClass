@@ -1,0 +1,1 @@
+  fixed codeQuality sample test by replacing deprecated code-quality plugin with checkstyle/codenarc plugins (user guide update is pending)  

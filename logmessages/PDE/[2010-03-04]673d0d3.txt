@@ -1,0 +1,1 @@
+  Fix bug 1470: now auto-detects JAVA_HOME and auto-inserts JAVA_HOME/bin into path.  

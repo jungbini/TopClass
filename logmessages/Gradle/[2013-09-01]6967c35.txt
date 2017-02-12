@@ -1,0 +1,1 @@
+  GRADLE-2762 - fix publishing to mavenLocal to follow maven rules  Change the PublishToMavenLocal tasks to utilize the Maven Ant InstallTask under the hood instead of DeployTask. Fixes the issue where snapshots were being deployed as unique versions to mavenLocal.  

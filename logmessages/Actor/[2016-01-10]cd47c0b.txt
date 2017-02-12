@@ -1,0 +1,1 @@
+  fix(iOS): change size on duration in voice messages  

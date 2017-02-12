@@ -1,0 +1,1 @@
+ review comments  1) Rename firehose to IngestSegment 2) fix segment overlapping, intervals 3) fix overshadow  

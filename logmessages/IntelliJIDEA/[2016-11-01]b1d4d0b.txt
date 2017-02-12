@@ -1,0 +1,1 @@
+  CPP-860 Add various New Project Templates IDEA-CR-14813  after-review fixes  

@@ -1,0 +1,1 @@
+  fix(web): add right padding to compose textarea  

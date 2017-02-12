@@ -1,0 +1,1 @@
+  [435450] fixed by initializing context attribute in constructor of org.vertx.java.core.impl.BlockingAction.java  Signed-off-by: jerome Doucet <jerdct@gmail.com>  

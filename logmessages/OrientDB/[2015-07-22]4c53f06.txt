@@ -1,0 +1,1 @@
+  fixed issue #4028 - OrientDB allows to create a class beginning with '#' character  

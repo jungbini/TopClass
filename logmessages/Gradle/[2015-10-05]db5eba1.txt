@@ -1,0 +1,1 @@
+  Adding explicit support for FileCollection.plus(Iterable<FileCollection>) to fix https://discuss.gradle.org/t/gradle-2-8-rc-1-is-now-available-for-testing/11953/11  +review REVIEW-5641  

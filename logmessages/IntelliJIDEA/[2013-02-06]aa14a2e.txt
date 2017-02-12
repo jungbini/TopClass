@@ -1,0 +1,1 @@
+  Reverted default value of unknown objects to None (PY-8703)  This reverts the effects of 16a8636bae4c5ac2ef5ab21e3a155adadd00e1ad, so a new fix for PY-7340 is required.  

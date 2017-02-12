@@ -1,0 +1,1 @@
+  address review comments  fixes Graylog2/graylog2-web-interface#1205  

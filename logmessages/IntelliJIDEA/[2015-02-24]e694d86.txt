@@ -1,0 +1,1 @@
+  fixed PY-11316 Unresolved reference 'numpy.square' and relative (PY-12474, PY-13124, PY-13694)  Added resolve from site-packages to the appropriate skeleton symbol. It's made only for relative imports, other cases are covered in ResolveImportUtil.resolveRelativeImportAsAbsolute  

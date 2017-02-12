@@ -1,0 +1,1 @@
+  KT-544 fixed: "Create generic init functions for generic classes"  

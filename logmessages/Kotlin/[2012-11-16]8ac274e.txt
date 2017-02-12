@@ -1,0 +1,1 @@
+  fix [WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-javadoc-plugin is missing. @ line 62, column 21  (cherry-picked from 2882cbf)  

@@ -1,0 +1,1 @@
+  Now docstring intention available if type is not specified in docstring and annotation intention available if type is not specified in annotation fixed PY-8782 Specify return type in doctring: intention is not available on function call with collected types  

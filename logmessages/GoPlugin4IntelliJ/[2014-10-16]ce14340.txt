@@ -1,0 +1,1 @@
+ Merge pull request #825 from bronze1man/pr-fixStructField  fix #478 ,Undefined field in structure compile error can be found now.  commit ce1434098c968aa2dc702828f3fe0c188e7369ba  fix #478 ,Undefined field in structure compile error can be found now.  

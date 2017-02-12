@@ -1,0 +1,1 @@
+  New class SimpleProcessListener and components to handle encoding/decoding bytes to Unicode  Summary: The `ListeningProcessExecutor` class streams stdio bytes to and from a listener.  Much of the time, we need to encode and decode these bytes to and from Unicode. I added streaming support to the third-party `NuProcess` library to efficiently handle this.  This 

@@ -1,0 +1,1 @@
+  AppCode:Debugger: in some cases fields cannot be evaluated (replaced with self->field) (OC-149)  

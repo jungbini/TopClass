@@ -1,0 +1,1 @@
+  fixed issue #4325 - Index of EMBEDDEDLIST does not update properly (on UPDATE CONTENT)  

@@ -1,0 +1,1 @@
+  fixed possible sql injection on prepared statements with parameter on query target  

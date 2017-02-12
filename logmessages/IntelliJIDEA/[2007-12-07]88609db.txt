@@ -1,0 +1,1 @@
+  fix visibility field update (IDEADEV-23187)  

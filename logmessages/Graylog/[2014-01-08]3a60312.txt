@@ -1,0 +1,1 @@
+  Radio did not read GELF integer fields because it produces Longs, not Integers. fixes #353  

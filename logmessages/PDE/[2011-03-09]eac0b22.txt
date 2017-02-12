@@ -1,0 +1,1 @@
+  remove examples menu, fix import library, debugging library examples  

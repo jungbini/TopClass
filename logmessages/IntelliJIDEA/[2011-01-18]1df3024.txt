@@ -1,0 +1,1 @@
+  encoding fixes: update status bar encoding panel more often, show presentable tooltip, correctly set 'wasdetectedfrombytes' flag, correctly reload editor when encoding changes  

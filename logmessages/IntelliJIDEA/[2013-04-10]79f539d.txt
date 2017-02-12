@@ -1,0 +1,1 @@
+  message format inspection: ignore properties ending/starting with regexp, suggest to rename to old-key.regexp as fix (IDEA-97691)  

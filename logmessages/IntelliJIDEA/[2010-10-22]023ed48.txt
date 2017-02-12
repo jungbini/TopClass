@@ -1,0 +1,1 @@
+  common prefix: update lookup position & don't let the preselected item survive  

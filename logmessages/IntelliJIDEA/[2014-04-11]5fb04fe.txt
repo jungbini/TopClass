@@ -1,0 +1,1 @@
+  proper perf fix for IDEA-101698 reapplied, fixing IDEA-123573  

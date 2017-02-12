@@ -1,0 +1,1 @@
+  Ninja: fix check for duplicate cols in INSERT  This was caused by the changes for CASSANDRA-8178  

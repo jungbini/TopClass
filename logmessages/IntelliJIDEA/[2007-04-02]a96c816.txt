@@ -1,0 +1,1 @@
+  fix completion for AntFileReferences with backslashes (IDEADEV-15808)  

@@ -1,0 +1,1 @@
+  ninja fix to remove double param in logging msg from merge  

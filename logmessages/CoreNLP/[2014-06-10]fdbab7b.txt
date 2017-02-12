@@ -1,0 +1,1 @@
+  Fix a bug when a SemanticGraph with a single node and no edges would not be constructed with the node  

@@ -1,0 +1,1 @@
+  refactor CodeSignIdentity loading/lookups to its own class  Summary: - Get it out of the kitchen sink AppleConfig. - Associate lookup methods (by fingerprint, by name prefix) with the new class. - Rename the field 'FullName' to 'SubjectCommonName', which describes more accurately what the field is. - Reword some comments and messages for brevity.  Test Plan: unit tests.  

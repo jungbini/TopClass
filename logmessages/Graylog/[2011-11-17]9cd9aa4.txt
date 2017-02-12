@@ -1,0 +1,1 @@
+  you can now set an optional maximum msg queue size  fixes #SERVER-67  

@@ -1,0 +1,1 @@
+  A partial fix for performance regression when compiling scripts. Problem is still there when scripts use the new plugins { } block.  Solution is to defer creation of a project's script class loader until after the script's class path has been finalised, so that the simplest class loader graph can be created to meet the requirements declared in the script.  

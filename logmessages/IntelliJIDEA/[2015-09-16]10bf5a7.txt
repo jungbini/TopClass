@@ -1,0 +1,1 @@
+  gradle: fix filtering idea gradle plugin tasks  

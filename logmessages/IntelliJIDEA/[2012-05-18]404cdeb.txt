@@ -1,0 +1,1 @@
+  IDEA-86216 Groovy: Create From Usage: 'Create Interface' quick fix is missing for unresolved data type  

@@ -1,0 +1,1 @@
+  IDEA-147903 Unable to evaluate static interface methods - fixes after review  

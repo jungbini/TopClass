@@ -1,0 +1,1 @@
+  distinct between fields of current page and all fieds. fixes #325  

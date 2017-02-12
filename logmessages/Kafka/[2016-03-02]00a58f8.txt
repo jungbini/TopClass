@@ -1,0 +1,1 @@
+  KAFKA-2944: Replaced the NPE with a nicer error and clean exit and added debug message to assist with figuring this out.  ssage to assist with figuring this out.  Author: Gwen Shapira <cshapi@gmail.com>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #993 from gwenshap/KAFKA-2944  

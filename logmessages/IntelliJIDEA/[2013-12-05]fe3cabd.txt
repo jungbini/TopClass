@@ -1,0 +1,1 @@
+  fix bad loop IDEA-117644 ("Move initializer to constructor" intention breaks code)  

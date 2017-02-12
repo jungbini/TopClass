@@ -1,0 +1,1 @@
+  fixed bug in FaunusTitanGraph around only edges with properties loading. Updated ElementPicker to put _label into PropertyMapMap-type computations.  

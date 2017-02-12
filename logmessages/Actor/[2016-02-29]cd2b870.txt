@@ -1,0 +1,1 @@
+  fix(server:messaging): don't auto-archive favourites  

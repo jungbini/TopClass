@@ -1,0 +1,1 @@
+ Merge pull request #831 from metamx/fix-query-wait-emmitted  fix query/wait being emitted twice  commit 5be801356ab458b0546f20c12ad1bc97ac741305  fix query/wait emitted twice  

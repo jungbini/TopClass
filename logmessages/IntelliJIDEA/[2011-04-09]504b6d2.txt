@@ -1,0 +1,1 @@
+  quick fix to annotate parameter @Nullable: do not suggest to annotate non project method when external annotations are disabled  

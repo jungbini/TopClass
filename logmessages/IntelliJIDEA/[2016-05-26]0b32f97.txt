@@ -1,0 +1,1 @@
+  [platform] fixes noisy nested .jar logging (less destructive)  

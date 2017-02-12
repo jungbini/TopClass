@@ -1,0 +1,1 @@
+  fix long-test xml patch by Tyler Patterson; reviewed by jbellis for CASSANDRA-4270  

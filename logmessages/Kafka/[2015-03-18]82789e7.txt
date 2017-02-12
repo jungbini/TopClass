@@ -1,0 +1,1 @@
+  KAFKA-1997; Hopefully last follow-up fix to get messageHandlerArgs right  

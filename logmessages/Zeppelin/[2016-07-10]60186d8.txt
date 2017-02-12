@@ -1,0 +1,1 @@
+troshim] remove snapshot from popup 829e9c1 [astroshim] fix select box and snapshot backend code.  

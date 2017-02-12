@@ -1,0 +1,1 @@
+  avoid caret visual position changes on parameter hints adding (IDEA-115424)  fix side effect of horizontal scrolling not working correctly for Home/End on a long line  

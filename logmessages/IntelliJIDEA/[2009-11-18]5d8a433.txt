@@ -1,0 +1,1 @@
+  Git: fix: annotations disappear on focus switch  

@@ -1,0 +1,1 @@
+  Bump to the latest Grizzly version, remove the hack as this has been fixed in grizzly  

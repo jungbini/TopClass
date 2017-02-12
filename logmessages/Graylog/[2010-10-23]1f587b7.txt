@@ -1,0 +1,1 @@
+  seems like i finally fixed the top menu position for smaller resolutions  

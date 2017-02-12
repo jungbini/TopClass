@@ -1,0 +1,1 @@
+  Workaround for duplicate input basename bug in apple's libtool.  Creates a symlink for each input file to libtool, with a md5 hash suffix, and passes these symlinks instead.  -- MOS_MIGRATED_REVID=121279266  

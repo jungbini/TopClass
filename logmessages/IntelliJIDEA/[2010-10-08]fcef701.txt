@@ -1,0 +1,1 @@
+  fixed text in font editor for PyCharm  

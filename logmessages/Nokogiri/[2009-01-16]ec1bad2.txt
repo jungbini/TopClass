@@ -1,0 +1,1 @@
+  fixed angry_add_child test, and specified behavior of node equality  

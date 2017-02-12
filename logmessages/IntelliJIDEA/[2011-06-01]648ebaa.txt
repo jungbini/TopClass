@@ -1,0 +1,1 @@
+  don't be smart, just calculate the common prefix based on lookup strings and insert it (IDEA-63646,IDEA-70503)  

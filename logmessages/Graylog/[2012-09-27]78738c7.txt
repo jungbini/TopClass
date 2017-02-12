@@ -1,0 +1,1 @@
+  stream dashboards now availble for reader users, too. fixes #WEBINTERFACE-264  

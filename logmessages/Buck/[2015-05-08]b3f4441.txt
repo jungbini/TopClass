@@ -1,0 +1,1 @@
+  NdkLibraryDescription: fixup first-order deps  Summary: Previously, we were adding the build rules that generate all of the C/C++ deps as first-order deps of the generated Makefile.  This worked since the generated makefile was, in turn, a dep of the NDK build rule, however, this was never really correct.  This 

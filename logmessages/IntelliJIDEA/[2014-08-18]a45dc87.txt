@@ -1,0 +1,1 @@
+  inspections ui: severities table cell not changes foreground on selection while editing fixed  

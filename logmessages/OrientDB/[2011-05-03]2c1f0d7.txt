@@ -1,0 +1,1 @@
+  Fixed bug on Collection conversion in SQL query  

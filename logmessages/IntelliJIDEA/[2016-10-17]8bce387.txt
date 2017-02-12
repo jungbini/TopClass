@@ -1,0 +1,1 @@
+ order to separate a commit record, find "record end" symbol first. After this, find the beginning of the next record ("record start" symbol). This helps with commit messages containing "record start" (\u0001 used for that), since "record start" in the message is not treated now as a beginning of a new record.  This fixes EA-90019.  (cherry picked from commit 4a147ef)  

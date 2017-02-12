@@ -1,0 +1,1 @@
+  don't encode the script tag. fix #798.  

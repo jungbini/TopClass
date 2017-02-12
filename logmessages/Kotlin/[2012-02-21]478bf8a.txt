@@ -1,0 +1,1 @@
+  Fixed order of automatically implemented abstract members.  #KT-1357 fixed  

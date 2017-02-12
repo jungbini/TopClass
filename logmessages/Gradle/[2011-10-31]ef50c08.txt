@@ -1,0 +1,1 @@
+  GRADLE-1009 [Tidying up things after adding test output listener]. Added missing javadoc documentation (this should also fix the build)  

@@ -1,0 +1,1 @@
+  merge -c 1504970 from trunk to branch-2 to fix YARN-919. Document setting default heap sizes in yarn env.sh Contributed by Mayank Bansal.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1504971 13f79535-47bb-0310-9956-ffa450edef68  

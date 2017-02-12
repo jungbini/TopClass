@@ -1,0 +1,1 @@
+  temporary revert IDEA-90145 Ask to save changes when an unsaved file is externally deleted to fix tests  

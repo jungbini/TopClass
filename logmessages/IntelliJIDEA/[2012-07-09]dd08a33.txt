@@ -1,0 +1,1 @@
+  restore submenu selection when no quickfixes available; disable intention was moved from the first place (IDEA-88376)  

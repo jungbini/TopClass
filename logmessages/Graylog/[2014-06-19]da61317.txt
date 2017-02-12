@@ -1,0 +1,1 @@
+  repair graceful shutdown  some steps were omitted during conversion to guava's service.  fixes #591  

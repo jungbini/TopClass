@@ -1,0 +1,1 @@
+  groovy intentions/fixes: make files writable outside write action  

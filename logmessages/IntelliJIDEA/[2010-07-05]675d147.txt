@@ -1,0 +1,1 @@
+  git4idea: IDEA-56209 IDEA-51045 fixed merge sides in update dialog  

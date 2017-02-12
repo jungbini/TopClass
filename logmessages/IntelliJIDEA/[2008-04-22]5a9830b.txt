@@ -1,0 +1,1 @@
+  correctly check remote process state when closing debugger toolwindow  

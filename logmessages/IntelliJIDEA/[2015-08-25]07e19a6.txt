@@ -1,0 +1,1 @@
+  fix NPE if MultipleFileMergeDialog was created without project (as ICS does)  

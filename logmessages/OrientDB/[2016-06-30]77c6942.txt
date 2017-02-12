@@ -1,0 +1,1 @@
+LockedException - The database is not releasing lock till all nodes are restarted"  http://www.prjhub.com/#/issues/6449  

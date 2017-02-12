@@ -1,0 +1,1 @@
+  Shade in kotlin-compiler-embeddable  Now kotlin gradle plugin is compatible with android gradle plugin 2.2  #KT-12478 fixed #KT-12431 fixed #KT-12406 fixed  

@@ -1,0 +1,1 @@
+  Samsung AC fix for issue #2863 allowing the user to specify a certificate to use when connecting to the air conditioner  

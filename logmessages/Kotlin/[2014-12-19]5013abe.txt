@@ -1,0 +1,1 @@
+  JS backend: fix KT-6401 JS: wrong result for code with many spread operator  #KT-6401 Fixed  

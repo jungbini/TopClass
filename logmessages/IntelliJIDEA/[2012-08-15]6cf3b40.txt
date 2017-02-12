@@ -1,0 +1,1 @@
+  IDEA-89908 fix reset emulator settings from android run configuration  

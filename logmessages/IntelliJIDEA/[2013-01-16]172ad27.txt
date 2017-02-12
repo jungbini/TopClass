@@ -1,0 +1,1 @@
+  javafx: event handler ref; create handler method fix  

@@ -1,0 +1,1 @@
+  svn merge -c 1594917 merging from trunk to branch-2 to fix:HDFS-6400. Cannot execute hdfs oiv_legacy. Contributed by Akira AJISAKA.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1594918 13f79535-47bb-0310-9956-ffa450edef68  

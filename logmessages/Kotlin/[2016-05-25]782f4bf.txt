@@ -1,0 +1,1 @@
+  Set idea.io.use.nio2=true every build on windows  Otherwise (setting property once in static block) gradle daemon might clear system properties  #KT-11770 fixed  

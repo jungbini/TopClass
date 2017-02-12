@@ -1,0 +1,1 @@
+  completion performance: PsiPackage.processDeclarations matches prefix before retrieving class  

@@ -1,0 +1,1 @@
+  Added missing depedency to //src/main/java/com/google/devtools/build/lib:syntax.  This should fix the build on Bazel CI.  -- MOS_MIGRATED_REVID=107268744  

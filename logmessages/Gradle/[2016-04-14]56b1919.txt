@@ -1,0 +1,1 @@
+  Minor fix in release notes about CopySpec filteringCharset  +review REVIEW-5907  

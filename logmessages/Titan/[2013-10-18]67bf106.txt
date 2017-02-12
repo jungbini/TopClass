@@ -1,0 +1,1 @@
+  Added Metrics Graphite reporter support  I just tested this against a local Graphite instance and successfully ingested data and exercised the Graphite "prefix" config option, but I didn't scrutinize the results beyond that.  This Graphite reporter support should be considered lightly tested.  

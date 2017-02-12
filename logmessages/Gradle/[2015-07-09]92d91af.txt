@@ -1,0 +1,1 @@
+  Extracted `ProgressEvents` fixture out of the various tooling api progress event tests.  

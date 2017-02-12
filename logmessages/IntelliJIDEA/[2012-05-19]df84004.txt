@@ -1,0 +1,1 @@
+  IDEA-86196 Groovy: Create method quickfix uses generationInfo for insertion  

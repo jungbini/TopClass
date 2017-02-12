@@ -1,0 +1,1 @@
+  [git] log suppressed output by separate logger  This allows to enable git4idea debug log and avoid massive output from git log etc. If the whole output is needed, it can be enabled by separate logger with the "output" prefix. Prefix is used instead of suffix, because loggers are dot-recursive, i.e. enabling git4idea.GitHandler would enable git4idea.GitHandler.out.  

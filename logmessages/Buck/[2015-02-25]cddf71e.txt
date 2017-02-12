@@ -1,0 +1,1 @@
+  Don't use --no-crunch in debug builds.  Summary: It turns out `--no-crunch` still messes up images, so we disable it again for non-release builds. We still leave the skip_crunch_pngs flags to make it possible to preprocess the PNGs.  Test Plan: CI  

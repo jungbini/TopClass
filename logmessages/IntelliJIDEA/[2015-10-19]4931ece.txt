@@ -1,0 +1,1 @@
+  gradle: test project SDK configuration import fix  

@@ -1,0 +1,1 @@
+  "remove trailing blank lines" quickfix (PY-9008)  

@@ -1,0 +1,1 @@
+  Adding a debug log message in VertexIDAssigner  

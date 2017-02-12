@@ -1,0 +1,1 @@
+  Added base class for creating list of formatting blocks for any ASTNode, code building array initializer blocks moved into separate class, fixed IDEA-55518  

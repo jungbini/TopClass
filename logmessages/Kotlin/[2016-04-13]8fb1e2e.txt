@@ -1,0 +1,1 @@
+  Fix EA-72969 - assert: ExtractFunctionForDebuggerUtilKt$getFunctionForExtractedFragment$.invoke : ERROR_TYPES Context element for codeFragment can be a KtFile (not  only KtExpression) ex. in case when file was changed after debugger starts and there is no expression at line with breakpoint  

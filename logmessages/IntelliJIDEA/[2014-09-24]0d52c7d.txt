@@ -1,0 +1,1 @@
+  keymap fixes for new folding actions (IDEA-74010)  

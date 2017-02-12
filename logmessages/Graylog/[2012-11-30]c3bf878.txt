@@ -1,0 +1,1 @@
+  processor sequence wait strategy now configurable  fixes #SERVER-238  

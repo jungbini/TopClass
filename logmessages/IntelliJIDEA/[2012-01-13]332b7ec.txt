@@ -1,0 +1,1 @@
+  IDEA-77946 fix SOE (workaround for http://code.google.com/p/android/issues/detail?id=24317)  

@@ -1,0 +1,1 @@
+  allow intentions and quick fixes to be annotated with @WrapInTransaction  

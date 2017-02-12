@@ -1,0 +1,1 @@
+  fix anonymous patterns in goto class  

@@ -1,0 +1,1 @@
+  fixing leading text node with newline in fragment parsing. closes #178.  

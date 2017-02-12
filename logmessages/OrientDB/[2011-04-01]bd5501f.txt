@@ -1,0 +1,1 @@
+  Fixed bug on OrientDB Studio and Raw tab: with latest jQuery version the content was interpreted automatically, instead in RAW panel I need raw text to display  

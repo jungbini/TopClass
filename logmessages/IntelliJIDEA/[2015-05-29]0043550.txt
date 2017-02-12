@@ -1,0 +1,1 @@
+  another fix for caret moving left/right when selection exists in RTL fragment  

@@ -1,0 +1,1 @@
+  fixed GRADLE-1078: eclipse .classpath generation should order source folders per usual conventions  

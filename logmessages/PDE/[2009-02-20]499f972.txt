@@ -1,0 +1,1 @@
+  fixes bug #958, darker drawing with opengl  

@@ -1,0 +1,1 @@
+er' into ZEPPELIN-1102 b77e0ee [astroshim] fixes elasticsearch auto completion code and add testcase.  

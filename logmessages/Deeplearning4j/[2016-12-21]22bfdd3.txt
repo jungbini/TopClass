@@ -1,0 +1,1 @@
+ Merge pull request #2558 from deeplearning4j/model_loading  Fixed bug related to Convolution weights stored in Theano order  commit 22bfdd38a3f1c79207c72d2594b9b655fae16507  Fixed bug related to Convolution layer weights stored in Theano dimension order. We were improperly permuting the dimensions, but in fact Theano stores convolution weights in same order as DL4J.  

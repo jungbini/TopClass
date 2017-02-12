@@ -1,0 +1,1 @@
+  IDEA-66266 (add/remove modifier quick fix to work on explicit ones only)  

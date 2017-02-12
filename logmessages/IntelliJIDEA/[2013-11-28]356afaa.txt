@@ -1,0 +1,1 @@
+  drop "ignore empty 'catch' blocks in tests" and use "suppress for 'Tests' scope" quickfix  

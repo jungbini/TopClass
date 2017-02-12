@@ -1,0 +1,1 @@
+  keep windows on screen (bug #1508)  

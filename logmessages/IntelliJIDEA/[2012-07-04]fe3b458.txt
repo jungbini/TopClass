@@ -1,0 +1,1 @@
+  IDEA-88302: SmartEnter doesn't work when caret placed at the start of line  - delete custom behaviour for this case  #IDEA-88302 fixed  

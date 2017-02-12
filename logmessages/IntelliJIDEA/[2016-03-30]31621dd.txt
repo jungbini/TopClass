@@ -1,0 +1,1 @@
+  [ui] fixes "Attach sources" chooser cancellation (IDEA-153651)  

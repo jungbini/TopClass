@@ -1,0 +1,1 @@
+  Bug fix: use myExplicitProfiles when compute project state hash code.  

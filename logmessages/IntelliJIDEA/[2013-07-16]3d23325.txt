@@ -1,0 +1,1 @@
+  RUBY-13871: (fixing build) jsch updated to 0.1.50  

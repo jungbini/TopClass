@@ -1,0 +1,1 @@
+  support scratch files in EC #WEB-13658 fixed  

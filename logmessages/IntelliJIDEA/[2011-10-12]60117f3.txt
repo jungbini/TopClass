@@ -1,0 +1,1 @@
+  progress window hanging problem fixed  

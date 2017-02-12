@@ -1,0 +1,1 @@
+  remove unnecessary parentheses in IDEA-161061 Quick-fix to replace nullableExpr.equals(...) with Objects.equals(nullableExpr, ...) (IDEA-CR-13960)  

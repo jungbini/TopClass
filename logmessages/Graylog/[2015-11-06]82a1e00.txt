@@ -1,0 +1,1 @@
+  Disable incremental compilation in maven-compiler-plugin  This should fix the case that the Java compiler failed on a second compile run if `mvn clean` hasn't been called before.  See https://issues.apache.org/jira/browse/MCOMPILER-236 for details.  

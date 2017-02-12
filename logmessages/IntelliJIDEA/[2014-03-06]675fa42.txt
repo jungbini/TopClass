@@ -1,0 +1,1 @@
+  fix tests. Rebinding for 'def' reference should do nothing because it references to an inferred variable's type or to a variable itself.  

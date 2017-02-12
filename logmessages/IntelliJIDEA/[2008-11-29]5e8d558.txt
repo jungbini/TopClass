@@ -1,0 +1,1 @@
+  Add "Add 'self' parameter" quickfix. Use properties instead of bare strings. Move/rename PyInspectionToolProvider.  

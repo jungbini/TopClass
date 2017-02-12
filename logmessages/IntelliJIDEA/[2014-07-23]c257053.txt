@@ -1,0 +1,1 @@
+  java: clean AST/PSI separation for annotation parameter list (fixes IDEA-119684)  

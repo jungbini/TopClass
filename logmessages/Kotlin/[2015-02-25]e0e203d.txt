@@ -1,0 +1,1 @@
+ Debugger: classLoader can be null (ex. classes from android application). JDIEval will use CallerClassLoader for find classes #KT-6825 Fixed  

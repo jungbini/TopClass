@@ -1,0 +1,1 @@
+ Merge pull request #431 from metamx/backwardscompatibilityfix  Fix backwards compatibilty constant post aggregator  commit cb40fcc46951fc72029a711d758cfbbd8021e9b3  fix maven release plugin with recent versions of git  

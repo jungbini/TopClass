@@ -1,0 +1,1 @@
+  fixed HTML foldings in JSP (after root tag)  

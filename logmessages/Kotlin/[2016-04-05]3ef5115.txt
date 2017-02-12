@@ -1,0 +1,1 @@
+  Debugger: remove unnecessary whitespaces in presentation of line breakpoint variants  

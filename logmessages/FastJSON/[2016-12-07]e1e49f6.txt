@@ -1,0 +1,1 @@
+  fixed for issue #849(improved TypeRerence Performance) and #937  

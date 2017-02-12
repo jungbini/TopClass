@@ -1,0 +1,1 @@
+  extract method with last declaration statement fixed (EA-64510 - IOE: PsiJavaCodeReferenceElementImpl.cannotBindError)  

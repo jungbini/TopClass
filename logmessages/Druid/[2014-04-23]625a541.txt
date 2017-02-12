@@ -1,0 +1,1 @@
+ Merge pull request #500 from metamx/batch-ingestion-fixes  Batch ingestion fixes  commit 625a5418d2035a5598c46c33fe99405f71ab3c64  minor fix  

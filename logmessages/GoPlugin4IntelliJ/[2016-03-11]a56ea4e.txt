@@ -1,0 +1,1 @@
+  Reimplement add import quick fix  Do not invoke multiple packages popup on auto-import. Fixes #2381 Run under command action in order to run formatting aspect after. Fixes #1816 Get rid of PsiReference from the import quick fix. Fixes #1959  Fixes #2336 somehow  

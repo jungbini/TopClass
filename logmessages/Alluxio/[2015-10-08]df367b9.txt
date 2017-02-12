@@ -1,0 +1,1 @@
+ Merge pull request #1722 from uronce-cc/fix-deploy-ufs-addr  [SMALLFIX] In tachyon-ft mode, ufs master may be 

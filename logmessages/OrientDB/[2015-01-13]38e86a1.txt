@@ -1,0 +1,1 @@
+  fixed issue #3296 - queries are not shortened anymore in error logs  

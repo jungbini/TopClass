@@ -1,0 +1,1 @@
+  fixed PY-9084 Not able to run Django Tests: AttributeError: 'NoneType' object has no attribute 'ismethod'  proper fix for import_system_module in case of virtual environment (__future__ module used)  

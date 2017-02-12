@@ -1,0 +1,1 @@
+  another fix for IDEA-81337 breakpoint viewer condition field combo dropdown does not close  

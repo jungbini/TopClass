@@ -1,0 +1,1 @@
+  Enable debugging from within VisualStudio - Build using the InstallExecutable task - Use the install directory as output  

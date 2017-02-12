@@ -1,0 +1,1 @@
+  IDEA-121060 Multiple carets: comment/uncomment works incorrectly  fixed existing tests  

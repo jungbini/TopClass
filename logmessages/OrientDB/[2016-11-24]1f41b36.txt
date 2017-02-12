@@ -1,0 +1,1 @@
+  fixes double declaration of dependency from core test jar  

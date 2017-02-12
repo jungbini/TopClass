@@ -1,0 +1,1 @@
+  SVN 1.7: status through command line: fix NPE  

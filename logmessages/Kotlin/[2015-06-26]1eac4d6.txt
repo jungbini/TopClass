@@ -1,0 +1,1 @@
+  "annotation" is now parsed as an identifier. It is no longer a soft keyword.  Sometimes it's allowed to parse "annotation" unescaped even if other annotations must be escaped. A set of annotations and their options tests. A swarm of existing tests fixed (mostly kotlin.annotation.annotation() added to txt-files). STUB_VERSION increased. Some quick fixes slightly changed.  

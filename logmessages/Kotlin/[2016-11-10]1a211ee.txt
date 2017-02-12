@@ -1,0 +1,1 @@
+  Completion for fqNames in KDoc links  Tests, also proved that KT-14432 are fixed Added completion and tests for extension functions.  

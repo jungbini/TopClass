@@ -1,0 +1,1 @@
+  one more NPE fix [^batrak]  

@@ -1,0 +1,1 @@
+  fix adding libraries in module dependencies settings dialog [r=nik]  

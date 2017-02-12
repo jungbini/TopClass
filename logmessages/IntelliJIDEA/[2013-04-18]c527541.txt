@@ -1,0 +1,1 @@
+  fix double quick-doc loading in completion lookup  

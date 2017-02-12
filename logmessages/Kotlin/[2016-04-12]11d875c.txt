@@ -1,0 +1,1 @@
+  Fix deadlock in StaticScopeForKotlinEnum  Also fix possible deadlock in ReflectionTypes  #KT-11869 Fixed  

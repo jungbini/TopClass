@@ -1,0 +1,1 @@
+  Use occurrence navigator to find next node to select after node removal to fix  IDEA-165473 Find Usages results tool window scrolls erratically when removing result items and Group by usage type option enabled in view  

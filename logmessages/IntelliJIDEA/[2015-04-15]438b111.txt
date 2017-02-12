@@ -1,0 +1,1 @@
+  more local fix for WEB-16189 Select path to Node.js and JSCS automatically  

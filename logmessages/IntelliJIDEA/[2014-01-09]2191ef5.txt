@@ -1,0 +1,1 @@
+  Problem with several users in log filter fixed.  *for user and branch filter '|' delimiter are not allowed; *'|' should be used only inside revset argument  

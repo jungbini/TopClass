@@ -1,0 +1,1 @@
+  Python: don't kill softly in suspend debug mode  (PY-5185).  

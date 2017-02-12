@@ -1,0 +1,1 @@
+  HDFS-7194 Fix findbugs "inefficient new String constructor" warning in DFSClient#PATH (yzhang via cmccabe)  

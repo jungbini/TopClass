@@ -1,0 +1,1 @@
+  [git] fix test: adjust implementations after changing method signatures  

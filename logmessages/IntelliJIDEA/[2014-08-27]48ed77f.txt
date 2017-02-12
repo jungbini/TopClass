@@ -1,0 +1,1 @@
+  fixed PY-7422 Create class: intention is not available for unresolved module reference  

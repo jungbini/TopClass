@@ -1,0 +1,1 @@
+  Contribution by Luca Molino to fix issues 293, 390 and 391  

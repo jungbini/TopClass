@@ -1,0 +1,1 @@
+  fixed PY-3295 "Convert single-quoted string to double-quoted string" intention changes the meaning of the code on escaped backslahes  

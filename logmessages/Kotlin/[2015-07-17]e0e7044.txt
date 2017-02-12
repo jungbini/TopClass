@@ -1,0 +1,1 @@
+  Synthetic properties: fixed completion and inspection for generic class + fixed KT-8539 No completion of generic extension function for <*> type arguments  #KT-8539 Fixed  

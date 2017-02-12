@@ -1,0 +1,1 @@
+  test fix, correctly remove root after deleting, correctly find attributes for special files  

@@ -1,0 +1,1 @@
+  fixes two bug related to resultSet navigation through resultSetMetadata - returns null for each field missing in the current record - avoid NPE when fetchig Date, Time and Timestamp  refs : ph 7201  

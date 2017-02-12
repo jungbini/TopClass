@@ -1,0 +1,1 @@
+  fix drop race with flush. patch by gdusbabek, reviewed by jbellis. CASSANDRA-1631   git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1025543 13f79535-47bb-0310-9956-ffa450edef68  

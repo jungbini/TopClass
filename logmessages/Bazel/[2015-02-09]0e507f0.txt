@@ -1,0 +1,1 @@
+  Skylark: fixing a crash. It occurred when the files field of the struct returned by the rule implementation function doesn't have the correct generic type. Error messages are unified.  -- MOS_MIGRATED_REVID=85874511  

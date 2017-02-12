@@ -1,0 +1,1 @@
+  HADOOP-10476. Bumping the findbugs version to 3.0.0. Contributed by Haohui Mai.  

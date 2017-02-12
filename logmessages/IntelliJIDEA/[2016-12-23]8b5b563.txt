@@ -1,0 +1,1 @@
+  IG: fix disjunct exception type check (IDEA-165847)  

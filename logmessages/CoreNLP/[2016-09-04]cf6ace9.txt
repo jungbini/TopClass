@@ -1,0 +1,1 @@
+  Fix the endpoints for each batch in the DVParser. Hopefully this bug was already caught by later code anyway  

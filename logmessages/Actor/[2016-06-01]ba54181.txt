@@ -1,0 +1,1 @@
+  fix(android): release video views on pause, try init on streams added  

@@ -1,0 +1,1 @@
+  IDEADEV-37642 Autocomplete common prefix doesn't work in some cases don't insert common prefix when completing inside identifier  

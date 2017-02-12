@@ -1,0 +1,1 @@
+  comparator fixed (IDEADEV-19879)  

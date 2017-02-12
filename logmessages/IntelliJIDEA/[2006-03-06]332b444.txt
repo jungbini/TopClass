@@ -1,0 +1,1 @@
+  fixing one more invalid cast of a non-PsiFileImpl file  

@@ -1,0 +1,1 @@
+  KT-15092 Suppress inspection "use property access syntax" for some getters and fix completion for them  fixed #KT-15092  

@@ -1,0 +1,1 @@
+  improve whitespace handling of "Replace with 'try' with resources" quickfix  

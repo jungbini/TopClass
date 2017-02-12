@@ -1,0 +1,1 @@
+  fixed OSGi metadata for optional "javax.inject" package import (SPR-9173)  

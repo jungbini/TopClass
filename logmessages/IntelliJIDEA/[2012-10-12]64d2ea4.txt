@@ -1,0 +1,1 @@
+  IDEA-68253 Issue trackers integration. Search query placeholder bug.  

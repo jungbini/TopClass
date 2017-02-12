@@ -1,0 +1,1 @@
+  Refactoring: move the IDEA-135058 fix into the isMovingForward method  

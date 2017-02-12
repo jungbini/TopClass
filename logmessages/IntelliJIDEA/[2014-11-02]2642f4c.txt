@@ -1,0 +1,1 @@
+  FrameWrapper: provide Project by data key  This fixes IDEA-131489  

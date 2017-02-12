@@ -1,0 +1,1 @@
+  Starts allowing "MSG_" prefix in ORIGINAL_NAME as well, in case some renaming pass has already run.  Roll-forward of cl/115087429 by stalcup@ with some small changes. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=115566632  

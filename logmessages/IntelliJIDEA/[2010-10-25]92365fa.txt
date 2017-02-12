@@ -1,0 +1,1 @@
+  correctly rename references to prefixed enviroment vars (IDEA-58548)  

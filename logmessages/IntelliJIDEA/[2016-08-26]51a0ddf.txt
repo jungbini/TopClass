@@ -1,0 +1,1 @@
+  Fix bugs in hashCode-based instances tracker  

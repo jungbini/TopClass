@@ -1,0 +1,1 @@
+ bug fix. incorrect circle position in WAS node  

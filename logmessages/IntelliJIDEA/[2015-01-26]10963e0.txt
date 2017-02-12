@@ -1,0 +1,1 @@
+  IDEA-132136 Inspection Window closes when script finished / debugging ends  

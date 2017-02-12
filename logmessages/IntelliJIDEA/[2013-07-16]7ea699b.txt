@@ -1,0 +1,1 @@
+  IDEA-110136 Breakpoints are not stored in the task context: NPE fixed  

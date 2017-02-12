@@ -1,0 +1,1 @@
+  fix a bug where intervals were being returned as String instead of Interval objects by the compute nodes  

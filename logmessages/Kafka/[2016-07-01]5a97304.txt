@@ -1,0 +1,1 @@
+  MINOR: fix Bash shebang on vagrant/ scripts  Author: Shikhar Bhushan <shikhar@confluent.io>  Reviewers: Geoff Anderson <geoff@confluent.io>, Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1567 from shikhar/vagrant-scripts-shebang  

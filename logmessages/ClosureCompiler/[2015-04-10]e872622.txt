@@ -1,0 +1,1 @@
+  Roll-forward of cl/90763662 now that Wiz is fixed  Deprecate getFunctionJSDocInfo and use getBestJSDocInfo instead.  Also tweak getBestJSDocInfo to be less forgiving about JSDoc in unusual places such as cast nodes and hook expressions. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=90844630  

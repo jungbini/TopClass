@@ -1,0 +1,1 @@
+  fix 'operator' modifier inspection #KT-9349 Fixed  

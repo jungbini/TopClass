@@ -1,0 +1,1 @@
+  fixing css and search custom functions on NodeSet  

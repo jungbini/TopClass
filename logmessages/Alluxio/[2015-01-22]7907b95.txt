@@ -1,0 +1,1 @@
+ fix under fs and glusterfs configuration issues When tachyon is used for MapReduce jobs, under fs may not be properly initialized. This fix is to set those properties before under fs initialize() is called.  Signed-off-by: rootfs <hchen@redhat.com>  

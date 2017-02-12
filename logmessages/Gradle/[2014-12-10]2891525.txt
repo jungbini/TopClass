@@ -1,0 +1,1 @@
+  Adding some debug information to troubleshoot play scala compilation issues.  

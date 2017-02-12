@@ -1,0 +1,1 @@
+  Added runtime test for overriding statically inherited members and changed super translation to support dynamic dispatch of static methods. (Also fixed a bug occurring when a class inherits more than one static member from its super class). ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=70341056  

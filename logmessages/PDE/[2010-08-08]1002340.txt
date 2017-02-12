@@ -1,0 +1,1 @@
+  remove opengl in preproc, fix permissions, debug bunk  

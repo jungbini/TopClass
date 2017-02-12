@@ -1,0 +1,1 @@
+  fix for default stroke cap and join  

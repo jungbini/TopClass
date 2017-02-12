@@ -1,0 +1,1 @@
+  1. Bug fixed [RUBY-5526] : Unresolved methods and typos must use 

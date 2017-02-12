@@ -1,0 +1,1 @@
+  Fix for <else> keyword dropped by buggy inline method refactoring.  

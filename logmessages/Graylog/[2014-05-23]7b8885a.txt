@@ -1,0 +1,1 @@
+  appPrefix was applied twice for field chart urls  fixes #787  

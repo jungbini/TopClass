@@ -1,0 +1,1 @@
+  ninja-fix to make an EnumSet a static and final field, not an instance field.  

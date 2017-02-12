@@ -1,0 +1,1 @@
+  Fixed bug when class or trait declared early than its parent, traits and abstract classes which declared after doesn't translated #KT-3437 Fixed  

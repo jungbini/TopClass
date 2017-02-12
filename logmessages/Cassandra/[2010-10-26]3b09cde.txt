@@ -1,0 +1,1 @@
+  fix hinted handoff replay.  patch by Chen Xinli and jbellis; reviewed by brandonwilliams for CASSANDRA-1656  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.6@1027458 13f79535-47bb-0310-9956-ffa450edef68  

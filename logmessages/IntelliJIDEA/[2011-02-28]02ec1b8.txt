@@ -1,0 +1,1 @@
+ ed9f81b introduced this bug: tree was completely refreshed after background fetch, thus information about some commits deselected by user was lost.  

@@ -1,0 +1,1 @@
+  C/C++: fix ELF parsing with lots of sections  Summary: The ELF header types are unsigned, and we were trying to store these in signed types of equal size.  This 

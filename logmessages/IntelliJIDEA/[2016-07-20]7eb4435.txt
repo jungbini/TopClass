@@ -1,0 +1,1 @@
+  [platform] fixes unwanted file extension appending (IDEA-148656)  

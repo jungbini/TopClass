@@ -1,0 +1,1 @@
+  IDEA-71882 Debugger: Improve usability for checking data sub-range  1. 'Adjust range' action operates on lists as well now; 2. Adjusted range is preserved for local variables delivered at another stack frame; 3. Node representation is updated on target range change now (cached values were used before);  

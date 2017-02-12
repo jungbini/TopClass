@@ -1,0 +1,1 @@
+  Fix multiple resource leaks by closing InputStream instances  The main fix is in BuiltInsPackageFragment, the rest is the improvement of other usages of getResourceAsStream  #KT-11433 Fixed  

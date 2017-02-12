@@ -1,0 +1,1 @@
+  Post-review fixes, added support for octal escaping definition for char  

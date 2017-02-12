@@ -1,0 +1,1 @@
+  Add a class which represents a stack where the prefix can be reused by several 

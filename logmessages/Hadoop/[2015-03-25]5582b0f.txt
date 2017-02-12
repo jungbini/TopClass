@@ -1,0 +1,1 @@
+  HADOOP-11741. Add LOG.isDebugEnabled() guard for some LOG.debug(). Contributed by Walter Su.  

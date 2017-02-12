@@ -1,0 +1,1 @@
+  IDE: fix detecting target platform for module when it contains js stdlib without regular name  Don't use fixed library name to detect JS stdlib.  

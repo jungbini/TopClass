@@ -1,0 +1,1 @@
+  forms compiler: fixed searching for nested form located in the same module with package prefix  

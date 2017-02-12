@@ -1,0 +1,1 @@
+  fixed issue with no ability to remove last character in additional javadoc tag  

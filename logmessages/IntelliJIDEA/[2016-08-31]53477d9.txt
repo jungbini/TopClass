@@ -1,0 +1,1 @@
+  unused declaration: collect fixes from description only if problem node is selected (IDEA-160300)  

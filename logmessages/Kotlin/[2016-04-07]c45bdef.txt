@@ -1,0 +1,1 @@
+  Minor: Add idea -> lint_idea dependency (fixes IDEA tests), change lint sdk to 1.8  

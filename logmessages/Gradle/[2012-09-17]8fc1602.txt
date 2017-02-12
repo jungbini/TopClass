@@ -1,0 +1,1 @@
+  Changed the jarjar prefix into something more reasonable: something that is in our namespace and that does not reveal the implementation details.  

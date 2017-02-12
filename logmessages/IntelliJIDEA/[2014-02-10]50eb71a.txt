@@ -1,0 +1,1 @@
+  IDEA-95952 Debugger tooltip is shown in the incorrect place and overlaps annotation tooltip.  

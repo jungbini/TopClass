@@ -1,0 +1,1 @@
+  allow ConfigurationExceptions in CodeStyles: prefix/suffix should be valid java identifier parts (IDEA-109232)  

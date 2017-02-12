@@ -1,0 +1,1 @@
+  IDEADEV-34498 (Non exception class name inspection quickfix fails)  

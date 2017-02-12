@@ -1,0 +1,1 @@
+  Add compilation test cases for API dependencies  The failing fixture is commented out while we search for a good solution.  Issue: gradle/langos#23 +review REVIEW-5662  

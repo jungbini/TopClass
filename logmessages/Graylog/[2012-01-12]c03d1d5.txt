@@ -1,0 +1,1 @@
+  show warning if the ES message mapping is invalid  fixes #WEBINTERFACE-223  

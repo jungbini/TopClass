@@ -1,0 +1,1 @@
+  Reduce the fixed cost of applying an IDE plugin, by avoiding chain of delegation in Groovy closures  

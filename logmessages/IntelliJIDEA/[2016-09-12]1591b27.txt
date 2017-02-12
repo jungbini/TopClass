@@ -1,0 +1,1 @@
+  fix SoftWrapApplianceOnDocumentModificationTest by invoking "line comment" action even though it's disabled  

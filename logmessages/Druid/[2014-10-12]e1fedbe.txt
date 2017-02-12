@@ -1,0 +1,1 @@
+ RemoteTaskRunner should respect worker version changes (fixes #787).  

@@ -1,0 +1,1 @@
+  Move test kit debugging story to after classpath injection story.  

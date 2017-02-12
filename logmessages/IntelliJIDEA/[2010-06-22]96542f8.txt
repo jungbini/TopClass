@@ -1,0 +1,1 @@
+  [Mercurial] IDEA-55929: fixed possible valid executable file name for Windows.  

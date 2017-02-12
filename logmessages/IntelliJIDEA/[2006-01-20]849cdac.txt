@@ -1,0 +1,1 @@
+  jgraph 2-click fix  

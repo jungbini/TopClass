@@ -1,0 +1,1 @@
+  don't use AtomicReferenceFieldUpdater  field name could be changed, use our util class  IDEA-123653 NCDFE Could not initialize class com.intellij.javascript.debugger.nashorn.NashornScope IDEA-123652 EIE at com.intellij.javascript.debugger.nashorn.NashornCallFrame  

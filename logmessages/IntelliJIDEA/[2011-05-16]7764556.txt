@@ -1,0 +1,1 @@
+  Fixed bug in scoping rules for references in default function argument values (PY-3550)  

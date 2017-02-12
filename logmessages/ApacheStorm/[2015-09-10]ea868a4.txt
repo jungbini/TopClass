@@ -1,0 +1,1 @@
+  Sampling pct and Fields fixes  1. Changed UI default sampling pct to 10 pct 2. Fixes to fields logged by EventLogger  

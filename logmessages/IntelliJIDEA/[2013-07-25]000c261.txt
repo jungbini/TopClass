@@ -1,0 +1,1 @@
+  fixed PY-9676 Unresolved attribute reference 'key' for class '*Property'  

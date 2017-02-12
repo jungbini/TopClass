@@ -1,0 +1,1 @@
+  HOTFIX: correct sourceNodes for kstream.through()  guozhangwang  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Guozhang Wang  Closes #374 from ymatsuda/fix_through_operator  

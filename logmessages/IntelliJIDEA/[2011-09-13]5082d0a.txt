@@ -1,0 +1,1 @@
+  fix some "Nullable/NotNull configuration" ui problems  - better title - remove and set default actions now disabled when there is no selection to prevent exceptions  

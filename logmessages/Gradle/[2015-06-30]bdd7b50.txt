@@ -1,0 +1,1 @@
+  Minor fixes to Javadocs. Catch exception for GradleConnector at the time of calling method connect().  +review REVIEW-5533  

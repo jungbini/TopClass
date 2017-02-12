@@ -1,0 +1,1 @@
+  fixed let clause with select or traverse statement  

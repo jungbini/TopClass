@@ -1,0 +1,1 @@
+  Fixed bug on node removal: it could remain between entrypoints  

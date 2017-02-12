@@ -1,0 +1,1 @@
+  Reverting this commits fixes some issues with URL encoding. For example, colons were not properly escaped.  Fixes Graylog2/graylog2-web-interface#1356  

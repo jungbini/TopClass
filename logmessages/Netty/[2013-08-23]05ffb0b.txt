@@ -1,0 +1,1 @@
+  Ensure that SelectorUtil is initialized when AbstractNioSelector is initialized  - Related issue: #1701 - The dead lock reported in #1701 is basically because SelectorUtil's logger is initialized in a 

@@ -1,0 +1,1 @@
+  IDEA-27486 Make file templates per-project: fixing clients  

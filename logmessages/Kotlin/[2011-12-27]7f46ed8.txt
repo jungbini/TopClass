@@ -1,0 +1,1 @@
+  added fix "replace dot call with safe call" (from Sergey Ignatov)  

@@ -1,0 +1,1 @@
+  Log all the requests to debug level in logger io.druid.jetty.RequestLog  

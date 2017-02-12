@@ -1,0 +1,1 @@
+  fix for bug #1245, also a spacing change  

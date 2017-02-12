@@ -1,0 +1,1 @@
+  fix Collections.emptyMap not being suggested in completion if jdk8 is used  

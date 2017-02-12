@@ -1,0 +1,1 @@
+  autoclose thead with tbody #WEB-2411 fixed  

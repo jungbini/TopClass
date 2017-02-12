@@ -1,0 +1,1 @@
+  fix rollback on failure in case of graph batch opertation, added test for failing references, issue #4045  

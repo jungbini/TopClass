@@ -1,0 +1,1 @@
+  Implementation of additional parameter specification for indexes. These parameters can modify the behavior of the index. For instance, a mapping specification is now supported for ES and Lucene when it comes to strings (index them as TEXT or STRING). This fixes #410.  

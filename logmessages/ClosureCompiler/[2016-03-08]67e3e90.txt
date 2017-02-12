@@ -1,0 +1,1 @@
+  Fix bug in TranspilingClosureBundler when the first file is a module.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=116720469  

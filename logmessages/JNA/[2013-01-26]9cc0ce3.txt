@@ -1,0 +1,1 @@
+  fix string field write issue where native-derived struct is assigned to an inner structure field  

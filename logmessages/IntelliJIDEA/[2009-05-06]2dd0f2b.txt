@@ -1,0 +1,1 @@
+  1. make reset link work (IDEADEV-36679) 2. text color in renderers fixed  

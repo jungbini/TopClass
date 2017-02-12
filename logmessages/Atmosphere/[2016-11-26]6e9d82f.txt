@@ -1,0 +1,1 @@
+  ISSUE #2186 Broadcaster objects cleanup - fixing junit  

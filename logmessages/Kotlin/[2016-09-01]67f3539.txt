@@ -1,0 +1,1 @@
+  Show lint diagnostics even if there're errors in the file (KT-12022)  It also affects working with KotlinChangeLocalityDetector. Right after error is fixed in local context file is still reported as having errors and diagnostics are not counted.  #KT-12022 Fixed  

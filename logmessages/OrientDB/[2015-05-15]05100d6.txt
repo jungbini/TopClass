@@ -1,0 +1,1 @@
+  fixed wrong distribute configuration serializer on database open, issue #4160  

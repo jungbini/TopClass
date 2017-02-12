@@ -1,0 +1,1 @@
+  Make ES tests log on the console  Cheating a bit to make debugging a test setup failure on CI easier  

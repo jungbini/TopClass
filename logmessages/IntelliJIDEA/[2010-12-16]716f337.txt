@@ -1,0 +1,1 @@
+  partly fixed PY-2518 Join 2 ifs: merge comments if both presented (Still have problem if comment is on the same level as Statement List)  

@@ -1,0 +1,1 @@
+  Django forms and formset fix: PyCollectionTypeImpl fix return type to support myElementsTypes  

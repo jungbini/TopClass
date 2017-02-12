@@ -1,0 +1,1 @@
+  upgrade to custom built snappy-in-java 0.3 with fix for big endian vm crash (IDEA-135495)  

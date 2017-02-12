@@ -1,0 +1,1 @@
+  PY-15975 Interface introduced to prevent configurations from running under debug, hence tests rerun support debug now while rest not  

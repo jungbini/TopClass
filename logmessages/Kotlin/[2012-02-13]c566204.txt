@@ -1,0 +1,1 @@
+  Fixed "Can't make indentation with pressing Tab"  #KT-1241 fixed  

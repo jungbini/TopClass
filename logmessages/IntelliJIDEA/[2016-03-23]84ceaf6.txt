@@ -1,0 +1,1 @@
+  CPP-2138 [for] cyclic navigation by 'complete statement' action + fix in platform implementation  

@@ -1,0 +1,1 @@
+  new module wizard: fixed navigation via mnemonics  

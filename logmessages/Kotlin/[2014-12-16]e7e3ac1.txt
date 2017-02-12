@@ -1,0 +1,1 @@
+  ProjectRootsUtil: fix check for library class and source file for js projects  Update JetSourceFilterScope Extract JsProjectDetector  

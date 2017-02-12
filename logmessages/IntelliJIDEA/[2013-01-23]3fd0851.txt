@@ -1,0 +1,1 @@
+  fixed PY-8541 Modules is not sorted by alphabetic in the list of SDK  

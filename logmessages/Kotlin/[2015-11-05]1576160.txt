@@ -1,0 +1,1 @@
+  Improve implementation of callable reference superclasses  Previously to use reflection on them, you had to wrap an already created object with a "Reflection.function" or "Reflection.propertyN" call, which the JVM back-end was doing. This was not optimal in several senses and current solution fixes that  

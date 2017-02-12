@@ -1,0 +1,1 @@
+  added more logging into spout, fixed bug where it would refresh zk on every nextTuple  

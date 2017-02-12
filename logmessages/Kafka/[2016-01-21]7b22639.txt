@@ -1,0 +1,1 @@
+  MINOR: Vagrant AWS overrideable EC2 instance name prefix  ewencp This small change allows users to use Vagrantfile.local to specify a custom prefix for names of ec2 instances brought up with vagrant.  This makes management of multiple aws test clusters a little easier since individual clusters can be assigned 

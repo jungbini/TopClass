@@ -1,0 +1,1 @@
+  Refactor and fix buildDecompiledText#appendDescriptor  Make it clear that first we render all enum entries, then the companion if it exists, then anything else. Previously the companion wasn't rendered in the case when the scope did not contain anything else (which was the case for the scope of a class not found in the decompiler)  

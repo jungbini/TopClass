@@ -1,0 +1,1 @@
+ Make it clear that 3.3 fixes compatibility and 3.2 plugins need to be recompiled  +review REVIEW-6411  

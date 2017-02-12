@@ -1,0 +1,1 @@
+  YARN-2938. Fixed new findbugs warnings in hadoop-yarn-resourcemanager and hadoop-yarn-applicationhistoryservice. Contributed by Varun Saxena.  

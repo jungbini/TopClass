@@ -1,0 +1,1 @@
+  Actually allow halide_library() to use supported_platforms_regex  Summary: I noticed that both halide build rules were being executed. This fix truly implements the regex (at least, well enough for my needs).  Test Plan: Get a little farther building a Halide-dependent app on Linux.  Reviewed By: yiding  fbshipit-source-id: 424f6b1  

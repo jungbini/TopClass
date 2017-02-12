@@ -1,0 +1,1 @@
+  setting "fixed" state in YouTrack  

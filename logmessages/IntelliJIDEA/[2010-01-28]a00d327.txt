@@ -1,0 +1,1 @@
+  IDEA-51755 (Quickfix for "Instantiating object to get class object" fails with arrays)  

@@ -1,0 +1,1 @@
+  IDEA-130195 Code fragments in debugger can no longer evaluate Grails domain methods  

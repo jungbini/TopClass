@@ -1,0 +1,1 @@
+  fix(server): removed obsolete and wrong apple push config section  

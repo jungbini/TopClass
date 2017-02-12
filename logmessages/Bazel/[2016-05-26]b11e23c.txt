@@ -1,0 +1,1 @@
+  Fixes bug where the well known types would not be added as an input to the generating action and would fail to compile.  -- MOS_MIGRATED_REVID=123320220  

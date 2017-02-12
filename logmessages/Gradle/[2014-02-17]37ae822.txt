@@ -1,0 +1,1 @@
+  GRADLE-3027 Stared working on fixing the issue with creation of ivy's module id / module rev ids leading to endless loop. Removed extra attributes handling for the ivy ids because we don't use them.  

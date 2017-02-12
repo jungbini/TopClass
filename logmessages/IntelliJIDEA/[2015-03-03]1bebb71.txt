@@ -1,0 +1,1 @@
+  IDEA-121380 Debugger: Groovy: JDWP Error: 35 on hitting method breakpoint  

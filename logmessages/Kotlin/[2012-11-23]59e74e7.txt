@@ -1,0 +1,1 @@
+  Test for KT-2619  Remove outdated check in WhenChecker  # KT-2619 fixed  

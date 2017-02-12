@@ -1,0 +1,1 @@
+  Distirbuted: fixed issues on receiving messages during db installing  

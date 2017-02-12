@@ -1,0 +1,1 @@
+  improve string breaking performance with edge case (fixes #211)  

@@ -1,0 +1,1 @@
+  Use XmlTransformer more effectively in DefaultMavenPom.  Also fixed method visibility of ErroringAction#doExecute.  

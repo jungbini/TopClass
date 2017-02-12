@@ -1,0 +1,1 @@
+  - Some fixes for test stdout capture when calling code does not have all permissions (eg tests are using a SecurityManager).  

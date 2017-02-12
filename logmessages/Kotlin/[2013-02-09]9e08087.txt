@@ -1,0 +1,1 @@
+  Added quickfix for OPEN_MODIFIER_IN_ENUM  

@@ -1,0 +1,1 @@
+  Support case-insensitive comparision in Path.java with WindowsFileSystem  Since file path is case-insensitive on Windows, we need to support this. Also fixed .d file inclusions check in CppCompileAction.java on Windows  -- MOS_MIGRATED_REVID=121823250  

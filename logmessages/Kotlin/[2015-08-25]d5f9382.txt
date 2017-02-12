@@ -1,0 +1,1 @@
+  fix for EA-68992 (JS) IPBE: UninitializedMessageException.asInvalidProtocolBufferException.  

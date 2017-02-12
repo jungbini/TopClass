@@ -1,0 +1,1 @@
+  JS: fix compile-time failure when inheriting one local class from another local class  

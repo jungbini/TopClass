@@ -1,0 +1,1 @@
+  Easy: Add verbose logging to diagnose ProjectGenerator bugs  Summary: Scott Wolchok reported a nasty bug in ProjectGenerator. I added verbose logs to figure out what was going on.  Test Plan: ant  

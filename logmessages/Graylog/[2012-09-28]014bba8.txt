@@ -1,0 +1,1 @@
+  don't explode when hitting awkward timestamps. fixes #WEBINTERFACE-294  

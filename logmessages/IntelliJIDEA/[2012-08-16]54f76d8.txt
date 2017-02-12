@@ -1,0 +1,1 @@
+  Smart save: don't save the document if the content didn't change  * FileDocumentManager.saveDocument: compare the document's content with the VirtualFile's content, and perform the save only if the contents are 

@@ -1,0 +1,1 @@
+  Java control flow: Detecting redundant assignment when the control flow includes a try-finally statement, fixed handling calls, tests added (IDEA-155836)  

@@ -1,0 +1,1 @@
+  move notes out of source and into bug report  

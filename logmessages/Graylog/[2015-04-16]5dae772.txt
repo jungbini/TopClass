@@ -1,0 +1,1 @@
+  fix row css for global inputs  

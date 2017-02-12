@@ -1,0 +1,1 @@
+  allow middle matches only with 3 typed prefix letters  

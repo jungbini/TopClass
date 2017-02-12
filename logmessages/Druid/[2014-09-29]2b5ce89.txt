@@ -1,0 +1,1 @@
+ fix spatial indexing with multi spatial dims  

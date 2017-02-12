@@ -1,0 +1,1 @@
+  debugger: sending less network packets during debug; toString() evaluation is single-threaded  

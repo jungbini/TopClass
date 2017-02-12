@@ -1,0 +1,1 @@
+  fix XML::Reader working with non-existent attributes  nokogiri now bundles a newer libxml, so doesn't have to worry about old bad behavior, and the workaround was broken  

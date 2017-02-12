@@ -1,0 +1,1 @@
+  fix(server:groups): edit messages in channels; change edit messages rules: can change any own messages in last hour  

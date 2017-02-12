@@ -1,0 +1,1 @@
+  IDEA-86518 (Quickfix for identical catch branches produces incrorrect and incompilable code)  

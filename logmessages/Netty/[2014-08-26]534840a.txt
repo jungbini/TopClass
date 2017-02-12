@@ -1,0 +1,1 @@
+  Fix a bug in CIDR.contains(InetAddress) implementations  Related issue: #2767  Motivation:  CIDR.contains(InetAddress) implementations should always return true when the CIDR's prefix length is 0.  Modifications:  - Make CIDR.contains(InetAddress) return true if the current cidrMask is 0 - Add tests  Result:  Fixed the issue #2767  

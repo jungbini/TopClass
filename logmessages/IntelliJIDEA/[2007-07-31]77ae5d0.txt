@@ -1,0 +1,1 @@
+  "replace inheritance with delegation" bugfixes (IDEADEV-19699, IDEADEV-19675)  

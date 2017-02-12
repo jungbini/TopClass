@@ -1,0 +1,1 @@
+  svn merge -c 1242389 from trunk to branch 0.23 fixes HADOOP-8042 When copying a file out of HDFS, modifying it, and uploading it back into HDFS, the put fails due to a CRC mismatch   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1242394 13f79535-47bb-0310-9956-ffa450edef68  

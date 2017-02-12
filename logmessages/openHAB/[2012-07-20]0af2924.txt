@@ -1,0 +1,1 @@
+  fix - made format more NPE resistant since there could occur NPEs in the deeps of the java.util.Calendar.clone() under certain circumstances  

@@ -1,0 +1,1 @@
+  [svn] fix ContentRevision creation for locally non-existing directory  If local path is null, the directory flag should be passed explicitly.  

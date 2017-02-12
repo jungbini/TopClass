@@ -1,0 +1,1 @@
+  GRADLE-2529: use new task for creating tooling-api fatJar - fixes issues with "task overwrite:true"  

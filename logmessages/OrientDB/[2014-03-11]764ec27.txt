@@ -1,0 +1,1 @@
+  Issue #1899  NPE in graphdb import was fixed.  

@@ -1,0 +1,1 @@
+  Fix of handling of file close in case of entry is absent was fixed  

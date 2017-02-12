@@ -1,0 +1,1 @@
+  Fixed bug reported by Ninja in ML about insert/update embedded document. It was always treated as map instead of embedded document.  

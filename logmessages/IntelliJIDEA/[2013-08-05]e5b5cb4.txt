@@ -1,0 +1,1 @@
+  fixed EA-41700 - RE: PythonIndentingProcessor.checkStartState  

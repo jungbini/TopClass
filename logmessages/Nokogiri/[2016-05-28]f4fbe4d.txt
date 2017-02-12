@@ -1,0 +1,1 @@
+  update CHANGELOG  for reader attribute fix #1254  

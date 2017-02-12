@@ -1,0 +1,1 @@
+  Set the LibraryIdentifier before building the LTO Indexing link action  Otherwise we fail the Precondition check added at the start of CppLinkAction build() for a shared library target's indexing action.  Added a test which reproduces the issue without the fix.  -- MOS_MIGRATED_REVID=130513291  

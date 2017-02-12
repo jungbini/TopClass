@@ -1,0 +1,1 @@
+  move smart completion assignability checking closer to reference processor to fix IDEADEV-40813 Smart completion inside "if" statement with "instanceof" in condition doesn't suggest method with generic return type  

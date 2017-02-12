@@ -1,0 +1,1 @@
+  Rename *allowGet* methods on dependency resolution fixtures to *allowGetOrHead* which is more accurate.  

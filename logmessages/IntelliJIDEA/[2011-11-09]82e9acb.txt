@@ -1,0 +1,1 @@
+  Django psiViewer bug fix  

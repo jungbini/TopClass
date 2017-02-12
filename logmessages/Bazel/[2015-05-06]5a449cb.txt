@@ -1,0 +1,1 @@
+  Track BUILD file changes on new_ repositories  I noticed, while writing http://bazel.io/docs/cpp.html#including-external-libraries-an-example, that the BUILD file didn't get reparsed when it changed. This fixes that.  -- MOS_MIGRATED_REVID=92921670  

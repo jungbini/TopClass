@@ -1,0 +1,1 @@
+  MAPREDUCE-6069. Lint/style fixes and removal of unused code. Contributed by Todd Lipcon.  

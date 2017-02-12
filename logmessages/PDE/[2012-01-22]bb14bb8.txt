@@ -1,0 +1,1 @@
+  fixing issue #936 - random hangs when starting new server in js mode  

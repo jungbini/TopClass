@@ -1,0 +1,1 @@
+ Add a debug() method to Serial  This commit also turns a 100ns wait inside JSSC in a yield() and removes the invocation of serialEvent outside the synchronized block.  

@@ -1,0 +1,1 @@
+  quick fix for idea community tests.  markdown4j dependency in community needs investigation  

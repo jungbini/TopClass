@@ -1,0 +1,1 @@
+  WEB-6242 Darkula Theme. SCSS variables are hard to read.  #WEB-6242 fixed  

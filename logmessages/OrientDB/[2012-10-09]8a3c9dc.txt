@@ -1,0 +1,1 @@
+  SQL: fixed bug on operator precedence reported by Rdiger Rttelstein in ML. The testing example was: select * from EbookPropertyItem WHERE (( author.toLowerCase() like '%trudi+%' or  title.toLowerCase() like '%trudi+%' or  file.toLowerCase() like '%trudi%') and  basePath.toLowerCase() <> '/home/guru/documents/' and  basePath.toLowerCase() <> '/home/guru/e-books/')  

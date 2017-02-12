@@ -1,0 +1,1 @@
+ Merge branch '#119_ui_bug_fix' of emeroad/pinpoint-opensource  from pull-request 259  * refs/heads/#119_ui_bug_fix: #119 fix copy right   - modify url yobi to GitHub  commit 2840acaa6169a53481414cc48e36bef742ec2154  #119 fix klocwork warning - improve argument validation : CommandDispatcher, ProfilerCommandServiceRegistry  

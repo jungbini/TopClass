@@ -1,0 +1,1 @@
+  Fixed a bug: NETTY-56 (The ChannFuture returned by SslHandler.handshake() is not completed when the associated Channel is closed during handshake.)  

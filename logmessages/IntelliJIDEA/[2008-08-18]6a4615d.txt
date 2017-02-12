@@ -1,0 +1,1 @@
+  should fix NPE on double dispose (IDEADEV-29151)  

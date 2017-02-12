@@ -1,0 +1,1 @@
+  Java inspection: avoid applying twice in the batch mode the fix for inspection "Split Try Statement with Multiple Resources" (IDEA-157727)  

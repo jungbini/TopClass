@@ -1,0 +1,1 @@
+  Fix bug(s) with Skylark import cycles: we assumed that a package that failed to load must have failed because of an exception, which is false in the case of cycles;  -- MOS_MIGRATED_REVID=135742248  

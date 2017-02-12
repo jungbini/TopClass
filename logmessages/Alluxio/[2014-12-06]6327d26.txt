@@ -1,0 +1,1 @@
+  Fixed bug in RemoteBlockInStream  I had to seek to the beginning of the block when initializing the checkpoint input stream.  

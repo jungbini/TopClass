@@ -1,0 +1,1 @@
+  fix excess xml parsing when renaming resources  - rebuild resource name -> xml attribute mappings same time as rebuilding synthetic properties - update mappings during rename  

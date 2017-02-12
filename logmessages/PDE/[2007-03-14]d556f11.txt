@@ -1,0 +1,1 @@
+  fix up the svg library to handle inheritance of drawing modes  

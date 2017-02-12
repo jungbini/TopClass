@@ -1,0 +1,1 @@
+  Debugger: allow Evaluate Expression in context of File (for some synthetic methods or when file was changed during debug and breakpoint line no longer match the actual line)  

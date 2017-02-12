@@ -1,0 +1,1 @@
+  Update nailgun-client to upstream master  Summary: This picks up the changes to https://github.com/martylamb/nailgun/pull/56, which fixes #262.  Test Plan: CI  

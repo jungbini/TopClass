@@ -1,0 +1,1 @@
+  Buck plugin added buck install debug action  Summary: It adds a new action, debug.  Test Plan: Button works and starts an install.  Reviewed By: alsutton  fb-gh-sync-id: 74cda4c fbshipit-source-id: 74cda4c  

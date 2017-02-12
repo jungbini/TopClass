@@ -1,0 +1,1 @@
+  Javafx: Update FXML when renaming private event handler method in controller's superclass. Test added. Introduced fixture-based common superclass for rename tests.  (IDEA-154116)  

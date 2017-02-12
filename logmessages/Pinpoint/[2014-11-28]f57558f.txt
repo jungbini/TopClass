@@ -1,0 +1,1 @@
+ [#107] Changed name postfix of tests that need interacting servers from Test to IT  

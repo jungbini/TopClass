@@ -1,0 +1,1 @@
+  fix potential race in Table.open.  patch by jbellis; reviewed by Jeff Hodges for CASSANDRA-734  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.5@902868 13f79535-47bb-0310-9956-ffa450edef68  

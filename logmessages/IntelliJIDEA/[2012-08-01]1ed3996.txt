@@ -1,0 +1,1 @@
+  fixed PY-7098 Type specifying intentions should not be available for references which look like a callables  

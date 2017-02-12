@@ -1,0 +1,1 @@
+ Merge pull request #685 from m0sth8/fix_create_function_bugfix  Fix create function  commit c8024bd43db732d815317938982e3dec3971a7fb  Fix for issue #689  Windows path separators are not properly handled in Run/Debug configuration, hence plugin does not work out of the box in Windows. In this fix I have made the path handling more portable to include Windows scenario as well.  

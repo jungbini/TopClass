@@ -1,0 +1,1 @@
+  build process: fixed building projects under JDK 1.7 and older (IDEA-162589)  

@@ -1,0 +1,1 @@
+  Trivial NPE's fixed introduced by ven. Both were highlighted with inspection BTW.  

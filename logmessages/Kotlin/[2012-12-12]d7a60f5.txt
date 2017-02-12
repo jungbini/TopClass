@@ -1,0 +1,1 @@
+  added tests for KT-2369, KT-2585 and KT-2972  KT-2369 Variable is not marked as uninitialized in 'finally' section #KT-2369 fixed KT-2585 Code in try-finally is incorrectly marked as unreachable #KT-2585 fixed KT-2972 Wrong "unused value" warning when finally is present #KT-2972 fixed  

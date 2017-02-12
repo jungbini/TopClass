@@ -1,0 +1,1 @@
+  artifacts editor: adding artifacts by d'n'd, actions for nodes from included elements fixed  

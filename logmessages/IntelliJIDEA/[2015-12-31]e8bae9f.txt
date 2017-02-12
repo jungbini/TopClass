@@ -1,0 +1,1 @@
+  RestService  call activateLastFocusedFrame if need, most of the services are responsibile to call it in appropriate time, generic solution is not suitable here  node-rpc-client  fix connect, but "write" is not yet done  

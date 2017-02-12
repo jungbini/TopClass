@@ -1,0 +1,1 @@
+  fixed PY-11705 Nothing is selected by default in Docstring format field  

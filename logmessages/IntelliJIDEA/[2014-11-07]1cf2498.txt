@@ -1,0 +1,1 @@
+  fix pasting generic signature inside javadoc (IDEA-132482)  

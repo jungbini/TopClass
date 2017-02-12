@@ -1,0 +1,1 @@
+  Configuration on demand - cleaned up the integ test code.  Busted a single test into separate use cases and added little bit more coverage. We'll still add more coverage as we ponder the problem more. Fixed some problem with the fixture code for asserting on which projects were evaluated.  

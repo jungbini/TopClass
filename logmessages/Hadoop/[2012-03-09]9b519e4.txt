@@ -1,0 +1,1 @@
+  Merge -c 1299098 from branch-1 to branch-1.0 to fix MAPREDUCE-3773. Add queue metrics with buckets for job run times. Contributed by Owen O'Malley.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.0@1299099 13f79535-47bb-0310-9956-ffa450edef68  

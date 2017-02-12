@@ -1,0 +1,1 @@
+  converted jsonpath and http poller to codec and transport  fixed timestamp handling to use the timestamp from the rawmessage instead of now() if the message did not contain a timestamp (gelf, syslog)  

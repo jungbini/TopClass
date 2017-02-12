@@ -1,0 +1,1 @@
+  IDEA-23075 Debugger "Set Value" TextBox should be a TextArea - implemented editable mode of the view text action  

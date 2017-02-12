@@ -1,0 +1,1 @@
+  avoid NaN in timerange selector. fixes #367  

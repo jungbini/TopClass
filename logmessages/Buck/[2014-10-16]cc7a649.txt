@@ -1,0 +1,1 @@
+  New method ProjectFilesystem.isSymLink  Summary: I need this to fix a caching bug in a follow-up 

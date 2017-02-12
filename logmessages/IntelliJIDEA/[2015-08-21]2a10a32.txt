@@ -1,0 +1,1 @@
+  [groovy] trait fields: fix type  

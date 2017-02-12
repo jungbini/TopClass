@@ -1,0 +1,1 @@
+  Merge -r 755985:755986 from trunk to branch 0.20 to fix HADOOP-5534.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/branches/branch-0.20@755988 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  build scripts: don't add suffix '64' for VM_OPTIONS environment variable in launcher for Windows distribution if 32-bit launcher isn't generated  

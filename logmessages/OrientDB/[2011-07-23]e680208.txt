@@ -1,0 +1,1 @@
+  Removed checks if db is open as a bug reported in the ML by Stefan Ollinger  

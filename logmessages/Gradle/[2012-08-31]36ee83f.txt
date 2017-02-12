@@ -1,0 +1,1 @@
+  GRADLE-2444 (daemon becomes unusable). Made the DaemonConnection implement Connection.  This makes things simpler and allows implementing the actual fix for the problem.  

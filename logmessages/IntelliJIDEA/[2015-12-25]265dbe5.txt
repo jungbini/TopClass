@@ -1,0 +1,1 @@
+  IDEA-149570 Java debugger "Treads" view does not display frames, stalling on "Collecting data..."  

@@ -1,0 +1,1 @@
+  add highlighting for hex literals; fix #1372  

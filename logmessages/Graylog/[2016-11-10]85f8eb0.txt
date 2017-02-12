@@ -1,0 +1,1 @@
+  Try fixing VersionEye on Travis CI (#3080)  https://bitbucket.org/versioneye/versioneye/issues/275/ssl-certificate-issues-when-using-gradle#comment-30124371  

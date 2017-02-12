@@ -1,0 +1,1 @@
+  workaround for bug in javac: class moved to separate file  

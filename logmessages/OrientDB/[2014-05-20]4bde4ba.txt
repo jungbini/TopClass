@@ -1,0 +1,1 @@
+  Fixed ugly bug on Object Database and improved performance on class inspection  

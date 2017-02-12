@@ -1,0 +1,1 @@
+  VcsConfiguration: move to PersistentStateComponent standard usage  Make VcsConfiguration to be the PersistentStateComponent's state. Annotate non-standard elements to keep compatibility with previous implementation. This fixes IDEA-103538, IDEA-81143  

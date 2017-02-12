@@ -1,0 +1,1 @@
+  Bug in wal fetch task was fixed.  

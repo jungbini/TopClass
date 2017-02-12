@@ -1,0 +1,1 @@
+  deprecated classes temporary restored to fix compatibility with Kotlin plugin  

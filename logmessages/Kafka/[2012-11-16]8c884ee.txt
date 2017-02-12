@@ -1,0 +1,1 @@
+  KAFKA-544 Trivial fix--migration tool is using message when it should be using a byte array. Checked in w/o review.   git-svn-id: https://svn.apache.org/repos/asf/incubator/kafka/branches/0.8@1410588 13f79535-47bb-0310-9956-ffa450edef68  

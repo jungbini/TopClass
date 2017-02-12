@@ -1,0 +1,1 @@
+  Java inspection: fixed test data for TooBroadScopeInspection (IDEA-157727)  

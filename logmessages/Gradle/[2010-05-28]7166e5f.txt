@@ -1,0 +1,1 @@
+  Fixed bug in intellij configuration which added libs twice to gradle-core.  

@@ -1,0 +1,1 @@
+  Query width provider only at defined points (editor shown/hidden/resized), so that isSoftWrappingEnabled() cannot change value 'unexpectedly'  hopefully this fixes EA-89893  

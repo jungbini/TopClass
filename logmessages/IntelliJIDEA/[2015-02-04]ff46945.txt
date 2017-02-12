@@ -1,0 +1,1 @@
+  enabled quick evaluate and smart step into while debugging decompiled code  

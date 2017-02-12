@@ -1,0 +1,1 @@
+  fix(core): Better broken closure work-around  

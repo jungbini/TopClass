@@ -1,0 +1,1 @@
+  QThread.parent() returns None when debugging (PY-15647)  QThread and QRunnable have constructors with parameters. We lost them while patching.  

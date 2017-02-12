@@ -1,0 +1,1 @@
+  remove all adapters when 'unregisterComponent' is called (fixed problem with duplicated ChangeListManager instances in BookmarkManagerTest, registered by ReformatOnlyVcsChangedTextTest)  

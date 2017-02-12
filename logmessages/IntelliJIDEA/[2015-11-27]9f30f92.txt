@@ -1,0 +1,1 @@
+  fix test in case of highlighting re-start  

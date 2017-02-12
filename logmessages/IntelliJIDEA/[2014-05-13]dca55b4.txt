@@ -1,0 +1,1 @@
+  java-xdebugger: IDEA-125038 Debugger: setting field breakpoint causes IAE at SimpleColoredComponent.append()  

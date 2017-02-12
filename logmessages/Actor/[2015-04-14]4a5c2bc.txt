@@ -1,0 +1,1 @@
+  fix(ios): fixed auth empty code field crash impr(ios): fade in avatar when it is loaded  

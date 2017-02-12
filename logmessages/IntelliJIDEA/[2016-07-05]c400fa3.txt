@@ -1,0 +1,1 @@
+  unused declaration inspection: improve CommentOut quick fix  if parent element is not suspicious IDEA-157566  

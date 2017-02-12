@@ -1,0 +1,1 @@
+ unique URLs in findAndReadConfigFile to work around apparent sbt/nsc bug where the same resource is returned more than once  

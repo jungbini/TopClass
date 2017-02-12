@@ -1,0 +1,1 @@
+  fix offsets to ByteBuffer.get patch by slebresne; reviewed by jbellis for CASSANDRA-1939  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7.0@1055642 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  highlight infix function calls #KT-6540 Fixed  

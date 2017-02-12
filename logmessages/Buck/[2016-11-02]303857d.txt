@@ -1,0 +1,1 @@
+  Revert "engine: fix flow where dep-files and their rule keys wouldn't be cached"  Summary: This may be causing build issues related to missing build output recorded path data.  Test Plan: CI  Reviewed By: dreiss  fbshipit-source-id: e103a24  

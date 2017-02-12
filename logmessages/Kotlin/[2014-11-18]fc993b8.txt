@@ -1,0 +1,1 @@
+  Checked that KT-4453 has been fixed recently by change in TipsManager  

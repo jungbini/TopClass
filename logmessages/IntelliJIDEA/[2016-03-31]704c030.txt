@@ -1,0 +1,1 @@
+  revert: remove flag configuration.saving.v3 to fix IDEA-153741  

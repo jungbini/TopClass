@@ -1,0 +1,1 @@
+  Rfxcom: received command logging changed from info to debug level  Signed-off-by: Pauli Anttila <pauli.anttila@gmail.com>  

@@ -1,0 +1,1 @@
+  Smart completion fix for throw new Runnable (part of IDEA-2694)  

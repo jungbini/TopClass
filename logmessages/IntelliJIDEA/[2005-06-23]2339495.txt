@@ -1,0 +1,1 @@
+  fixed issues finding custom tags and xml attributes  

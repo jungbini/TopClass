@@ -1,0 +1,1 @@
+  added Sonar debug settings to plugin model, removed obsolete TODO  

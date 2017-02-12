@@ -1,0 +1,1 @@
+  [groovy] CCE fixed, cast removed because type definition methods can be light methods that don't implement GrMethod interface  

@@ -1,0 +1,1 @@
+  starting rev 94, fixing some textMode issues, additions to the faq, toxi code for tga leniancy  

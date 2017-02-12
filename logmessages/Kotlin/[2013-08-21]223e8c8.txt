@@ -1,0 +1,1 @@
+  Refactor DescriptorUtils  Remove dependency on org.jetbrains.jet.lang.psi, move utilities closer to their usages, add NotNull annotations, fix formatting, etc.  

@@ -1,0 +1,1 @@
+  Avoid dead-lock reading debugger output: close InputStream while blocking read from StreamReader, don't close StreamReader.  

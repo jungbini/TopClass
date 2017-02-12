@@ -1,0 +1,1 @@
+  Added pycharm-debug.egg to plugin build.  

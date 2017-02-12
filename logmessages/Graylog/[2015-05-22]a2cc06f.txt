@@ -1,0 +1,1 @@
+  system throughput resource was returning 0 because of a Double vs Long issue  fixes Graylog2/graylog2-web-interface#1313  

@@ -1,0 +1,1 @@
+  HQL/JDBC console layout settings problem fix  

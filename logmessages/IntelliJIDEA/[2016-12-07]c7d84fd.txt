@@ -1,0 +1,1 @@
+  fix EDU-796 Do not run skeleton generation for base python 2.7 interpreter creating new project  there is no point configuring sdk for newly created empty project because we'll definitely overwrite it  

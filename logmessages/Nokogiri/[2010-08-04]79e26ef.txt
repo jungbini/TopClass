@@ -1,0 +1,1 @@
+ fixing the default parse options for HTML/XML fragments  

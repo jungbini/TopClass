@@ -1,0 +1,1 @@
+  1) Fix bugs with VersionConverterTask 2) Fix bugs with NPEs on indexing  

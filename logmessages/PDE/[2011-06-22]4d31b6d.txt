@@ -1,0 +1,1 @@
+  js mode: pjs directive regex fix, crash on cancel-need-save fix and more  

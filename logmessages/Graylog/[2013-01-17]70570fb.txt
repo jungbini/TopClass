@@ -1,0 +1,1 @@
+  Rewriter supports setFilterOut() again  fixes #SERVER-252  

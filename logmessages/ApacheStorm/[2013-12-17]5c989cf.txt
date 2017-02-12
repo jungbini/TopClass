@@ -1,0 +1,1 @@
+  remove compile command and fix typo.  

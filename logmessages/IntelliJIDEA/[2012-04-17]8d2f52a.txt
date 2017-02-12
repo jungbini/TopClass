@@ -1,0 +1,1 @@
+  another attempt to fix IDEA-74871 (Next/Previous Project Window action doesn't move focus to visible window)  

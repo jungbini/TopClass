@@ -1,0 +1,1 @@
+  fixed loading directory based project on mac: ignore .DS_Store files  

@@ -1,0 +1,1 @@
+  IDEADEV-24128 - Debugger: UI: the detached view is not updated if the focus is in the tabbed view  

@@ -1,0 +1,1 @@
+  fixed EDU-271 Pycharm Educational doen't resolve stacktraces in Run window  added PythonTracebackFilter to content executor  

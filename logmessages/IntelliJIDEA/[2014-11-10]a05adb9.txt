@@ -1,0 +1,1 @@
+  compiling debugger: shift original context if on private, so 'make public' won't invalidate anchor (IDEA-132525)  

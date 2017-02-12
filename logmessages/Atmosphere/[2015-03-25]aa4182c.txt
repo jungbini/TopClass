@@ -1,0 +1,1 @@
+  :bug: Fixes regression caused by #1885  

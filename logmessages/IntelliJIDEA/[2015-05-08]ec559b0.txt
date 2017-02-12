@@ -1,0 +1,1 @@
+  debug in fork mode: disable socket for run  

@@ -1,0 +1,1 @@
+y use '.equals()' instead of '=='.  Issue: SPR-8079, SPR-8347  

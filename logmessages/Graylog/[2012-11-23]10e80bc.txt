@@ -1,0 +1,1 @@
+  bumped tire version. fixed missing facet_filters  

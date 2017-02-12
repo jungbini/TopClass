@@ -1,0 +1,1 @@
+  HADOOP-5337. JobTracker, upon restart, now waits for the TaskTrackers to join back before scheduling new tasks. This fixes race conditions associated with greedy scheduling as was the case earlier. Contributed by Amar Kamat.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk@761632 13f79535-47bb-0310-9956-ffa450edef68  

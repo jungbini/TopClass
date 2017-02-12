@@ -1,0 +1,1 @@
+  bug fix - empty node setting menu in context menu of server-map  

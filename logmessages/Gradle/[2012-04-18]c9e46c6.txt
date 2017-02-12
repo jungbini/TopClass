@@ -1,0 +1,1 @@
+  Javadoc tweaks, fixed a typo, removed some logging.  

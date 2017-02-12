@@ -1,0 +1,1 @@
+  [vcs] File history: if the file becomes invalid (both virtual file and io file don't exist), adjust the empty text.  Print "File <filename> not found" instead of standard "nothing to show". This if for IDEA-89589: a usability enhancement, since the original bug can't be fixed (see details in the bugreport).  

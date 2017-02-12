@@ -1,0 +1,1 @@
+  fix deadlock bug due to variant of dining philosophers problem. spouts now use an overflow buffer to prevent blocking and guarantee that it can consume the incoming queue of acks and fails  the bug resulted from cyclic topology e.g. spout -> bolt -> acker -> spout and all buffers filling up. All tasks would be blocked on emitting.  

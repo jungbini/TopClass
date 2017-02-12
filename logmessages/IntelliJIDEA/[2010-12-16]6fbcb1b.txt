@@ -1,0 +1,1 @@
+  fixed 'Unable to display children' in debugger (PY-2508)  

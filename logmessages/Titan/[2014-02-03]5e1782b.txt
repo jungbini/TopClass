@@ -1,0 +1,1 @@
+  Cleanup in config option preloader  Deleted commented code and reduced the loglevel on an innocuous debug message needlessly marked as error.  

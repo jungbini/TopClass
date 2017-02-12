@@ -1,0 +1,1 @@
+  [groovy] fix unnecessary semicolon for traditional loops  

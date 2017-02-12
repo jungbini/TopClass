@@ -1,0 +1,1 @@
+  Minor: fix sasl.kerberos.service.name  sasl.kerberos.service.name surround by double quote didn't work, have to remove.  Author: BINLEI XUE <kongpo0412@gmail.com>  Reviewers: Gwen Shapira  Closes #720 from secjex/patch-1  

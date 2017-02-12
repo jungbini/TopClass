@@ -1,0 +1,1 @@
+  init: avoid to register XDebugSessionTab as disposable parent  to avoid memory leaks (Disposer holds instance of XDebugSession) lazy init LogFilesManager (not required for all xdebug session tabs)  

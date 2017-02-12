@@ -1,0 +1,1 @@
+  Make aar_import always process the resources.  Previously, the FilesToBuild included the unprocessed resources. This meant that some bugs did not manifest themselves by building just the aar_import but only showed up if the aar_import was depended on by an android_library.  -- PiperOrigin-RevId: 141068502 MOS_MIGRATED_REVID=141068502  

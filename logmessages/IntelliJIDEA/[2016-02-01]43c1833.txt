@@ -1,0 +1,1 @@
+  vcs: fix SelectionHistoryDialogTest.testTitles  before this fix, Change could be simultaneously "before block start" and "after block end", which is invalid  

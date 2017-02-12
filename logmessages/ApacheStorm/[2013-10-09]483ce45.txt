@@ -1,0 +1,1 @@
+ fix the issue that tick tuple cannot work with system bolt  

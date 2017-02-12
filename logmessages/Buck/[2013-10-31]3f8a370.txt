@@ -1,0 +1,1 @@
+  Specify --no-optimize to dx for APK debug builds.  Test Plan: Sandcastle builds.  

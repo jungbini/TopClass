@@ -1,0 +1,1 @@
+  Fix set dashboard as startpage for reader users  Use the same menu item for reader and admin users, fixing the menu item for readers. Fixes #2005  

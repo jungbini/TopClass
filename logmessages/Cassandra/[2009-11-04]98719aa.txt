@@ -1,0 +1,1 @@
+  don't removeDeleted on the whole CF before filtering what the request was for; it's expensive.  also, fixes subcolumn queries being counted twice in readStats patch by jbellis; reviewed by gdusbabek for CASSANDRA-510  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@832797 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  make elasticsearch config optional  we set the most common values to sensible defaults and allow overriding key settings directly in the graylog2.conf you can still set other settings in the elasticsearch.yml fixes #249  

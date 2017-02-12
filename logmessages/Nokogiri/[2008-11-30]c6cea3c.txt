@@ -1,0 +1,1 @@
+  fixing up rdoc and adding an rdoc test  

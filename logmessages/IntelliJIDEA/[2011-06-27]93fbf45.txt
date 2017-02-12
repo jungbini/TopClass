@@ -1,0 +1,1 @@
+  fixed PY-3315 Call to constructor of super class is missed: quick-fix for inspection (comment)  

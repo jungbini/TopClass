@@ -1,0 +1,1 @@
+  rename profile ci to findbugs  

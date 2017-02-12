@@ -1,0 +1,1 @@
+  Make print() and fail() available in BUILD files to allow easier debugging. The functions were already available in Skylark extensions, but not directly in the BUILD files.  RELNOTES[NEW]: print and fail are now available in BUILD files.  -- MOS_MIGRATED_REVID=132307913  

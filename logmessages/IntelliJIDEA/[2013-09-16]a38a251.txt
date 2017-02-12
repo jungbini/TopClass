@@ -1,0 +1,1 @@
+  Show filters only for table editor + a few model and UI fixes  

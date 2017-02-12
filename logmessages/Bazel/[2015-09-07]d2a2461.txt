@@ -1,0 +1,1 @@
+  Improved error message when accessing undeclared configuration fragments.  Users will get an error when rules access configuration fragments without having declared them as required fragments. The error message now contains more details on the cause of the error and may also include a possible Skylark fix, if applicable.  -- MOS_MIGRATED_REVID=102497559  

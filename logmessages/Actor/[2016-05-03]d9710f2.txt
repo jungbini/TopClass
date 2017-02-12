@@ -1,0 +1,1 @@
+  fix(js): Fixing notification sounds in Electron app  

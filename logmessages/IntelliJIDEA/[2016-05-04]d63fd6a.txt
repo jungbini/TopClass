@@ -1,0 +1,1 @@
+  IDEA-75002 merge: allow to assign shortcuts to actions  * fix action titles - capitalisation, wording  

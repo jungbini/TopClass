@@ -1,0 +1,1 @@
+  HOTFIX: Fix verbose logging in ControllerChannelManager.brokerReady  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1786 from hachikuji/hotfix-ctrlchannelmgr-verbose-logging  

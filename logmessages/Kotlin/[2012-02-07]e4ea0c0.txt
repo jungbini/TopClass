@@ -1,0 +1,1 @@
+  remove idea_fix module add .kt and .jet files as resources  

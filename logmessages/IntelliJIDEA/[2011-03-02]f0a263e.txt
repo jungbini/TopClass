@@ -1,0 +1,1 @@
+  recent files fix for undocked editors  

@@ -1,0 +1,1 @@
+  KAFKA-4157; Transient system test failure in replica_verification_test.test_replica_lags  t.test_replica_lags  Author: Grant Henke <granthenke@gmail.com>  Reviewers: Ashish Singh <asingh@cloudera.com>, Ismael Juma <ismael@juma.me.uk>  Closes #1849 from granthenke/replica-verification-fix  

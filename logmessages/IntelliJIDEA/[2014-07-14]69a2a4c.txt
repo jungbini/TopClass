@@ -1,0 +1,1 @@
+  path completion: rendering fixed for several matched context helpers  

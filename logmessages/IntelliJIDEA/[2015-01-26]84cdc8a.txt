@@ -1,0 +1,1 @@
+  fixed StudyExecutor extension point  It was renamed earlier  

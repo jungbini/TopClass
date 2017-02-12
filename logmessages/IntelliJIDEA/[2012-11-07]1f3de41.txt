@@ -1,0 +1,1 @@
+  svn: test that "IDEA-92941 Subversion: duplicated classes are created on Undo added file move" is fixed  

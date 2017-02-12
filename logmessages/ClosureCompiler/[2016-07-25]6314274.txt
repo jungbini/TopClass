@@ -1,0 +1,1 @@
+  One more fix (hopefully the last!) in JsMessageVisitor, to allow aliases in object literals, e.g.  this.msgs = { MSG_YES: other.namespace.MSG_YES, MSG_NO: other.namespace.MSG_NO, };  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=128382407  

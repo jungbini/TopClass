@@ -1,0 +1,1 @@
+  do not store reference to PsiElement in add field quickfix  

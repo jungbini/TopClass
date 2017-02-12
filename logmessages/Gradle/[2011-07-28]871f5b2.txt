@@ -1,0 +1,1 @@
+  Added some very simple debug statements so that resolving a problem will be quicker next time.  

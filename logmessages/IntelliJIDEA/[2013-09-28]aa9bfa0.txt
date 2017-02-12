@@ -1,0 +1,1 @@
+  Use ExtendsListFix instead of custom "Make class 'Cloneable'" quick fix  

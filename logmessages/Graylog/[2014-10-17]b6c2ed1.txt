@@ -1,0 +1,1 @@
+  New Sources Tab  - fixed updating relative query when brushing the filter  

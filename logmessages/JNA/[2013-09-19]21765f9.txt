@@ -1,0 +1,1 @@
+ Merge pull request #276 from dblock/fix-tests  Removed dependency on JNA_LIB and contrib paths.  commit bb27c0916400042fbe49b2fe894f878fe87d03c9  Merge pull request #274 from dblock/fix-tests  Fix: use a 

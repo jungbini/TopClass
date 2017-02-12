@@ -1,0 +1,1 @@
+  Properties Files: test data fixed according to reduced espaced symbol count  

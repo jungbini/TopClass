@@ -1,0 +1,1 @@
+  Cucumber for Java. Failed scenario counting fixed  

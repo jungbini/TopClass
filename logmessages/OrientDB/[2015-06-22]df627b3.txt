@@ -1,0 +1,1 @@
+  fixed issue #4415 - queries as a target for UPDATE  

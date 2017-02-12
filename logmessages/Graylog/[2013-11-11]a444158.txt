@@ -1,0 +1,1 @@
+  lock LDAP generated accounts when LDAP is disabled  those accounts cannot be used to authenticate against the server anymore the built-in admin user will still be accessible  fixes #297  

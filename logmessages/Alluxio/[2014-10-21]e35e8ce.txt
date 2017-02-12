@@ -1,0 +1,1 @@
+  fixed issues caught by findbugs on WebInterfaceBrowseServlet  

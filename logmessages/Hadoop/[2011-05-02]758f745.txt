@@ -1,0 +1,1 @@
+  Merge -r 1098853:1098854 to branch-0.20-security to fix HADOOP-6269.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security@1098855 13f79535-47bb-0310-9956-ffa450edef68  

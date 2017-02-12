@@ -1,0 +1,1 @@
+  Minor, fix runtime for compiler in CompilerSmokeTest  

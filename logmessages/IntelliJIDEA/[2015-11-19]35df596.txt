@@ -1,0 +1,1 @@
+  Fix IndexError in pydev_monkey.py when subprocess and tox debugging (PY-9767)  

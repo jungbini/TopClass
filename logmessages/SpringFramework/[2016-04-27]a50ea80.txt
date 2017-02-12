@@ -1,0 +1,1 @@
+ Section 6: > entity tags are presumed to be more accurate than date validators  So in case both conditions are present, the "If-None-Match" condition takes precedence.  Issue: SPR-14224  

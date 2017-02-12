@@ -1,0 +1,1 @@
+ for stacktrace 1ba8bb3 [Zhong Wang] fix test ca338ef [Zhong Wang] log full stack trace in interpreter log 25014ec [Zhong Wang] clearer exception handling logic 39dd274 [Zhong Wang] only print the error message for SQL exceptions  

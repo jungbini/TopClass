@@ -1,0 +1,1 @@
+  fix checking of correct nodes in isolation scheduler, add test that isolation scheduler doesn't reassign after correct assignment  

@@ -1,0 +1,1 @@
+  fixed PY-15938 iPython Notebook does not run in PyCharm 4.5  Used old mechanism for detecting executable because Anaconda patches ipython package and does not register entry point  

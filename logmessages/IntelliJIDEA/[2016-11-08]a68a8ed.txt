@@ -1,0 +1,1 @@
+  WI-33168 Application no longer takes focus when hitting a breakpoint in 2016.3 EAP during PHP Debug (change log level)  

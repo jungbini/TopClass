@@ -1,0 +1,1 @@
+  Add FileStatsStorage and InMemoryStatsStorage as aliases for MapDBStatsStorage; fix ui GraphInfo compgraph bug  

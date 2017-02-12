@@ -1,0 +1,1 @@
+  IDEADEV-22765 (module names  with slashes) + (possible bug fix)  

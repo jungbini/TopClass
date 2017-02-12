@@ -1,0 +1,1 @@
+  Spellchecker: fix word splitting (IDEA-25905 Spell Checker Can't Handle German Umlauts)  

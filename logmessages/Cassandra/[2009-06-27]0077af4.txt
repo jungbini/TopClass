@@ -1,0 +1,1 @@
+  add isDebugEnabled check for logger.debug for performance.  patch by goffinet; reviewed by jbellis for CASSANDRA-174  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@788914 13f79535-47bb-0310-9956-ffa450edef68  

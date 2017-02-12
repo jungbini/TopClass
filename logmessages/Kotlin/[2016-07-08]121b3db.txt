@@ -1,0 +1,1 @@
+  fix incompatibility with ASM 6: don't call getReturnType() on a type which is not a method type (IDEA-158090)  

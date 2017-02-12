@@ -1,0 +1,1 @@
+  fixed PY-4539 Completion: elif keyword shouldn't be available in completion list after else extracted keyword completion tests  

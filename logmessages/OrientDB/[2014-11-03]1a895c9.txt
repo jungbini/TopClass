@@ -1,0 +1,1 @@
+  fixed wrong pool close, that not properly clean the connections.  

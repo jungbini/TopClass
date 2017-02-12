@@ -1,0 +1,1 @@
+  junit version fixed for licenses (hamcrest has new BSD which is weaker than junit!)  

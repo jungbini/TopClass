@@ -1,0 +1,1 @@
+  MoveStatementUpDownTest.testScriptlet2 fixed  

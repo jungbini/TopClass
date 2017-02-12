@@ -1,0 +1,1 @@
+  xdebugger: breakpoint editing balloon is closing after it was expanded.  

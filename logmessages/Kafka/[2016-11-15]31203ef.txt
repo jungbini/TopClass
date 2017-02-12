@@ -1,0 +1,1 @@
+  MINOR: Clarify how to fix conversion issues when plain JSON data is used with schemas.enable=true  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #2041 from ewencp/clarify-json-converter-failure  

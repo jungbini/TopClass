@@ -1,0 +1,1 @@
+ Reverted timing back to fix reliability. - cherry-picked from #3920  Signed-off-by: Thomas Eichstdt-Engelen <thomas@openhab.org>  

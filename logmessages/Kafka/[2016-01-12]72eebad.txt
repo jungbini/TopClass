@@ -1,0 +1,1 @@
+  KAFKA-3069: Fix recursion in ZkSecurityMigrator  I'm also fixing a bug in the testChroot test case.  Author: Flavio Junqueira <fpj@apache.org>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #736 from fpj/KAFKA-3069  

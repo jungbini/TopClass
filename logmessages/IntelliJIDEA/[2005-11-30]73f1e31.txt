@@ -1,0 +1,1 @@
+  fix live templates NPE at the end of file  

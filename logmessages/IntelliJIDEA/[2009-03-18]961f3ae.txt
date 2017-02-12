@@ -1,0 +1,1 @@
+  fixed "Loop in icons delegation" error for XSLT files (IDEADEV-35016)  

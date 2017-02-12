@@ -1,0 +1,1 @@
+  Make 'Save' default action on Add/Edit Stream Rule dialog, fixes #824  

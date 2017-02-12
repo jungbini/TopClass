@@ -1,0 +1,1 @@
+  1. rails project view tests fixed 2. workaround which allows to ignore nodes order in tree (due to bugs with nodes sorters in project view)  

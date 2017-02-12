@@ -1,0 +1,1 @@
+  compilation of tests fixed: use junit assertions instead of Kotlin ones  

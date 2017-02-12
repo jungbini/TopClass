@@ -1,0 +1,1 @@
+  fix sstabledump script to follow the template  

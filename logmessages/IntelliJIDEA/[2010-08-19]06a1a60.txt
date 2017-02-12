@@ -1,0 +1,1 @@
+  re-inherit DjangoServerRunConfiguration, fix saving of environment variables (PY-1613)  

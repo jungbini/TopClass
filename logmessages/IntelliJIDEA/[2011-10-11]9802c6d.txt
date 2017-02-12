@@ -1,0 +1,1 @@
+  apply patch fix: for conflict and "try to resolve somehow", when matching line is found at the end of file + tests  

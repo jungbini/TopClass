@@ -1,0 +1,1 @@
+  fix #1216: "call on declare" function result not recognized  

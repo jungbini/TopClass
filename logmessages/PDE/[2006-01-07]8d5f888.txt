@@ -1,0 +1,1 @@
+  fixed a few validation and style issues in examples  

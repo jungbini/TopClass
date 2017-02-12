@@ -1,0 +1,1 @@
+  Updated example test path in the test.html (used to debug JS box tests) to match the current state.  

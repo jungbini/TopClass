@@ -1,0 +1,1 @@
+  fixed bug with incorrect copy of pseudocode part  (was noticeable in doTestCopy4 example) labels after part should be repeated as well  

@@ -1,0 +1,1 @@
+  fixed PY-14109 IPython Notebook: propose to configure/start server in-place on trying to run some cell  

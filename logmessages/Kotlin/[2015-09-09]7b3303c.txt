@@ -1,0 +1,1 @@
+  Report special diagnostic on inlineUsage with LOCAL_CONTINUE_AND_BREAK  Such usages should be removed by quckfixes  

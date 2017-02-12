@@ -1,0 +1,1 @@
+  fix(web): fixed reading of messages which don't fit in viewport  

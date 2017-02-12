@@ -1,0 +1,1 @@
+  method refs: fix variable initializing order (IDEA-132445)  

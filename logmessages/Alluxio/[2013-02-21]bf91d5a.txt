@@ -1,0 +1,1 @@
+  Fix a byte size computation bug.  

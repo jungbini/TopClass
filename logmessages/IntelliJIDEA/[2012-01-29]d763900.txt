@@ -1,0 +1,1 @@
+  IDEA-80487 Debug tool window: generic UI: dropping tab into tab row turn views into tabs  

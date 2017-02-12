@@ -1,0 +1,1 @@
+  Remove not use js library. Bug fix. set 2 day to max period.  

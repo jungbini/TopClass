@@ -1,0 +1,1 @@
+  enabling "add xsi location" intention for prefixed namespaces  

@@ -1,0 +1,1 @@
+  find usages and rename work for Kotlin classes called from Java code (KT-1641) #KT-1641 fixed  

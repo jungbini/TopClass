@@ -1,0 +1,1 @@
+  Allow to specify ranges which can't be indented by PostprocessReformattingAspect (fixes WI-22725 surround heredoc block with try catch causes parse error) [CR-IC-5135]  

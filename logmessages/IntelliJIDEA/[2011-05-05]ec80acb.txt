@@ -1,0 +1,1 @@
+  moving PsiReferenceContributor to application level: FindUsagesTest fixed  

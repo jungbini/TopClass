@@ -1,0 +1,1 @@
+  fix(web): completely disable transitions for recent dialogs.  

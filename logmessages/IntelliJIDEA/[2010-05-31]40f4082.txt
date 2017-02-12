@@ -1,0 +1,1 @@
+  fix Groovy SDK detection in Groovy project itself  

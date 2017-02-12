@@ -1,0 +1,1 @@
+  fixed restarting after installing update via patch  

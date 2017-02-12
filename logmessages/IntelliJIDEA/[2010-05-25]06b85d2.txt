@@ -1,0 +1,1 @@
+  Builtins highlighting: fixed a regression, added a test.  

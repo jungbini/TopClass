@@ -1,0 +1,1 @@
+  KT-4302 Kotlin plugin drops unsaved document content on indexing finish  #KT-4302 fixed  

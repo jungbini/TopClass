@@ -1,0 +1,1 @@
+  fix for Find in Path Preview to show proper position (IDEA-155972)  

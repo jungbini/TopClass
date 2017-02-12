@@ -1,0 +1,1 @@
+  IDEADEV-26217 Java: Tab in smart completion list inserts superfluous semicolon within expressions and one more completion bug  

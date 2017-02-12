@@ -1,0 +1,1 @@
+  HDFS-4888. Refactor and fix FSNamesystem.getTurnOffTip. Contributed by Ravi Prakash.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1498665 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Fixed bug with wrong extension for tar.gz. Fixed bug with wrong default destination dir for archives.  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@1006 004c2c75-fc45-0410-b1a2-da8352e2331b  

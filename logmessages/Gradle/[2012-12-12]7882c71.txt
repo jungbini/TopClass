@@ -1,0 +1,1 @@
+  REVIEW-664 After moving classes core->coreImpl, fixed the tests in core so that mocks are used instead of concretet instances that live in core-impl.  

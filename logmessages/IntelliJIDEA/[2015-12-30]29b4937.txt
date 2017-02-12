@@ -1,0 +1,1 @@
+ Temporary fixes to compile with Kotlin beta4, revert after migrating to newer version where type projections are fixed.  

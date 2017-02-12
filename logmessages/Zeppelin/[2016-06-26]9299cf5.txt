@@ -1,0 +1,1 @@
+dropdown css when on mobile 8170782 [Damien CORNEAU] Fix Notebook ordering in dropdown 5a0fa09 [Damien CORNEAU] fix jshint errors a52b219 [Damien CORNEAU] Change Notebook dropdown style  (cherry picked from commit eca39e2f3f3082bf997183879e5999b4f61faf8b) Signed-off-by: Mina Lee <minalee@apache.org>  

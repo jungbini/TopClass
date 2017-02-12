@@ -1,0 +1,1 @@
+  Javafx: Regression fixed - allow enum constants in fx:value attribute. Tests added  

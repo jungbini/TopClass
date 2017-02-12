@@ -1,0 +1,1 @@
+  KT-2122 Code completion after val with space should not add local variable's name (set priority in completion for local variables and parameters) #KT-2122 fixed  

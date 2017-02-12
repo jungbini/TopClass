@@ -1,0 +1,1 @@
+  preserve fixed size ( IDEADEV-33268)  

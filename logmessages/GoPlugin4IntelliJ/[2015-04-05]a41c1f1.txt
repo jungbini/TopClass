@@ -1,0 +1,1 @@
+  parsing performance issue with assignments, fix #1530  

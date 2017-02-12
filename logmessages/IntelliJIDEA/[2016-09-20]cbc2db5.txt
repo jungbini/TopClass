@@ -1,0 +1,1 @@
+  IDEA-161167 cannot use a qualified class instance creation expression in Java debugger "Evaluate Expression"  

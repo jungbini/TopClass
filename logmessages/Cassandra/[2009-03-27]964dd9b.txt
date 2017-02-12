@@ -1,0 +1,1 @@
+  This is a wierd revert to fix some issues. Some changes will need to be re-applied.  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@759026 13f79535-47bb-0310-9956-ffa450edef68  

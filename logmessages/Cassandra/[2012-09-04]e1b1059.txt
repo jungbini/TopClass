@@ -1,0 +1,1 @@
+  fix FD leak in slice queries patch by jbellis; reviewed by Sam Tunnicliffe and tested by brandonwilliams  

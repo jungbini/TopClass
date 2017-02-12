@@ -1,0 +1,1 @@
+  Issue #2691 fix which in reality leads to NPE was removed.  Conflicts: core/src/main/java/com/orientechnologies/orient/core/index/sbtree/local/OSBTree.java  

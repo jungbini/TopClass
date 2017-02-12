@@ -1,0 +1,1 @@
+  focus fixes for non-modal dialogs with popups -- affact ctrl-alt-t in alt-f8  

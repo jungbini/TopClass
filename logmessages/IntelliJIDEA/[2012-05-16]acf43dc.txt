@@ -1,0 +1,1 @@
+  IDEA-86056 (Unnecessary 'null' check before 'equals()' call quick fix changes the logic)  

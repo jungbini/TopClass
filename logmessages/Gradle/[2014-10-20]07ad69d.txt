@@ -1,0 +1,1 @@
+  Added more trace to the perf tests fixture  So that I can hunt down the problem with the performance tests (e.g. problem parsing the gclog file). Added javadocs.  

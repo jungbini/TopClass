@@ -1,0 +1,1 @@
+  fix "Non-short-circuit boolean expression" inspection broken by introduction of polyadic expression. Add test.  

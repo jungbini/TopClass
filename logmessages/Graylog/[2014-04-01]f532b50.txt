@@ -1,0 +1,1 @@
+  proper (re-)connection handing for AMQP inputs. fixes #385  

@@ -1,0 +1,1 @@
+  Refactor QualifiedExpressionResolver  - fix return types everywhere: Collection<DeclarationDescriptor> instead of Collection<? extends DeclarationDescriptor> - delete useless LookupResult.EMPTY and merge LookupResult with SuccessfulLookupResult - reformat, minor inlines, etc.  

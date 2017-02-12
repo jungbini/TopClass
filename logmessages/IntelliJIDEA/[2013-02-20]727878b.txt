@@ -1,0 +1,1 @@
+  fixed PY-7857 Doctest: missing completion and highlighting for python keywords  

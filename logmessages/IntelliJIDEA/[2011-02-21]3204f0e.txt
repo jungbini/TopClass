@@ -1,0 +1,1 @@
+  fix comparing of 2 io files [rev=andrey.zaytsev]  

@@ -1,0 +1,1 @@
+  Sort suggestions by name (fixes randomly failing test)  +review REVIEW-5505  

@@ -1,0 +1,1 @@
+  introduce constant: check forward reference fix ( IDEA-84139)  

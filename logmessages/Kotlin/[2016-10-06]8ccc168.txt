@@ -1,0 +1,1 @@
+  Include output of module daemon-common to compiler jar in compiler-quick  This fixes CompilerDaemonTest with the compiler built by "ant compiler-quick"  

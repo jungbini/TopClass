@@ -1,0 +1,1 @@
+  more fixes for consistent utf-8 support  

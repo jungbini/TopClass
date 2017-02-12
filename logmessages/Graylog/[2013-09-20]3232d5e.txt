@@ -1,0 +1,1 @@
+  link to API browser in nodes list. fixes #212  

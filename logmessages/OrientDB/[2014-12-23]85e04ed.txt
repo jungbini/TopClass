@@ -1,0 +1,1 @@
+  fixed validation of ORestricted sets, added logic for clear deleted records from linkset and linklist, issue #3234  

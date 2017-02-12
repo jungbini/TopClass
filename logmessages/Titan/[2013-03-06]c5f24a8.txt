@@ -1,0 +1,1 @@
+  dependency issues fixed for Titan/Cassandra. Updated properties files as now full class is needed.  

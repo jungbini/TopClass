@@ -1,0 +1,1 @@
+  Vcs: annotations highlighting. after or/and before revision highlighting. bug with annotation tooltip fixed  

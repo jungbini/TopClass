@@ -1,0 +1,1 @@
+  fixed infinite loop in case of missing exception class in the client, issue #5918  

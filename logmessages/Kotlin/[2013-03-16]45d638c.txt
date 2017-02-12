@@ -1,0 +1,1 @@
+  Loading interface with only one method inherited from Object as not functional.  #KT-1242 fixed  

@@ -1,0 +1,1 @@
+  editor: enable debugger breakpoint actions in dumb mode  

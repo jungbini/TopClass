@@ -1,0 +1,1 @@
+  fixed PY-12970 Extract variable: disable refactoring for parts of comrehensions  

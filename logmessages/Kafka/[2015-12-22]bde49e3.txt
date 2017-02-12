@@ -1,0 +1,1 @@
+  MINOR: Use "new line" delimeters in a portable way in a unit test  This fixes failure of the FileStreamSinkTaskTest unit test on Windows  Signed-off-by: glikson <gliksonil.ibm.com>  Author: glikson <glikson@il.ibm.com>  Reviewers: Guozhang Wang <wangguoz@gmail.com>, Ewen Cheslack-Postava <ewen@confluent.io>  Closes #708 from glikson/file-ut-newline  

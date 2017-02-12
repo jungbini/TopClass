@@ -1,0 +1,1 @@
+  update code quality plugins default versions  checkstyle from 5.7 to 6.4.1 codenarc from 0.21 to 0.23 findbugs from 3.0.0 to 3.0.1  todo: - update pmd (need more work as packaging for pmd has changed) - document updates in release notes  +review REVIEW-5443  

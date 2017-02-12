@@ -1,0 +1,1 @@
+  XDebugger: compare value with clipboard action (IDEA-89243), finish 'Load value' progress if evaluation failed  

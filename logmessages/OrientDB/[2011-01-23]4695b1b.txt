@@ -1,0 +1,1 @@
+  Fixed bug in console on refreshing db schema after schema changes  

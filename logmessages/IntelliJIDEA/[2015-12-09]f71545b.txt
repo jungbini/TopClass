@@ -1,0 +1,1 @@
+  Fix module debugging in a new process (PY-17885)  We should change interpreter flag '-m' to debugger parameter '--module' in order to debug python modules  

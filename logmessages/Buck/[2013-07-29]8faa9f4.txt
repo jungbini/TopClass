@@ -1,0 +1,1 @@
+  Change buck_base_path to buck.base_path.  Summary: Ultimately, all properties that are not defined as part of a build rule should be prefixed using "buck.".  Test Plan: Sandcastle builds.  

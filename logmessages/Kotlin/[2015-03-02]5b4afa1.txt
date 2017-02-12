@@ -1,0 +1,1 @@
+  Fixed bug in reference shortening related on on the fly import optimization  

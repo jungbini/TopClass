@@ -1,0 +1,1 @@
+  fixes to sketchbook reloading, plus notes on changes to core  

@@ -1,0 +1,1 @@
+ fix minor merge  commit 223b10c09cf53d2748e4178db5616fbccdc11202  JsonArray.toArray() converts JsonObjects to Maps (fixes #287)  

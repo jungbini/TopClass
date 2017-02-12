@@ -1,0 +1,1 @@
+  support AMQP vHosts. fixes #528  

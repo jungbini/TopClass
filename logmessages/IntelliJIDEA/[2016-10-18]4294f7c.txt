@@ -1,0 +1,1 @@
+  CPP-7453 exception while renaming fixed, rename in the end fixed, inline renaming and refactoring implemented  

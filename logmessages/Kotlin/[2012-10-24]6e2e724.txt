@@ -1,0 +1,1 @@
+  Implement JetPositionManager.getSourcePosition() properly  JetPositionManager now finds a PsiFile to create a SourcePosition correctly. This fixes problems with breakpoints and navigation between frames when there's more than one file with the given name (not necessarily in the same package)  

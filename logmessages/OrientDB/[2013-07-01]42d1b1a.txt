@@ -1,0 +1,1 @@
+  SQL: fixed bug on execution of functions inside other predicates  

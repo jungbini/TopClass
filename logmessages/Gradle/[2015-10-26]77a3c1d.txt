@@ -1,0 +1,1 @@
+  Pass a baseDir to the fixture for JvmLibrarySpec's  

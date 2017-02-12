@@ -1,0 +1,1 @@
+  fix spacebar inclusion/exclusion for nodes with children  

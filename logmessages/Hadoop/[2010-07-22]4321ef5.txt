@@ -1,0 +1,1 @@
+  HBASE-2862 Name DFSClient for Improved Debugging  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@966874 13f79535-47bb-0310-9956-ffa450edef68  

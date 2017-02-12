@@ -1,0 +1,1 @@
+  fixing search paths.  closes #69  

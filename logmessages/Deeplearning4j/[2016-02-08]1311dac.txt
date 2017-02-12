@@ -1,0 +1,1 @@
+ Fix the title of the page & some errors  This fixes the problem with words glued together in the title of the page.  Other changes the incorrect title of some pages - the special characters, like ':' should be put into the quotes.  

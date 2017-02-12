@@ -1,0 +1,1 @@
+  [java] fix TestNodeEncoding::test_serialize_encoding_xml.  

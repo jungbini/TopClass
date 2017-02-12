@@ -1,0 +1,1 @@
+  test: hard-coded debug port dropped to avoid conflicts  Port will be selected by JDWP agent, one will need to check build log to find it (see https://confluence.jetbrains.com/display/IDEA/IDEA+Testing)  

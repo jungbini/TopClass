@@ -1,0 +1,1 @@
+  allow to search for all messages of an input. fixes #424  

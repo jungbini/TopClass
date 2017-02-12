@@ -1,0 +1,1 @@
+  only update host counts in case of new messages  fixes #142  

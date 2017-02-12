@@ -1,0 +1,1 @@
+  fix for KT-2711 wrong check on descriptor being integral range method added to JetStandardLibrary to get all integral range descriptors #KT-2711 fixed  

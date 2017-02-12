@@ -1,0 +1,1 @@
+  inplace introduce: fix for method call occurrences (IDEA-72868)  

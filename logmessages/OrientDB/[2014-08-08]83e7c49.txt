@@ -1,0 +1,1 @@
+ fixed backup.sh for support plocal and remote lvm  

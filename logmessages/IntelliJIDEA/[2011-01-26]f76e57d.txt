@@ -1,0 +1,1 @@
+  fixed PY-2698 'Too broad exception clause' inspection  

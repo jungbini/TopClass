@@ -1,0 +1,1 @@
+  HDFS-2935. Shared edits dir property should be suffixed with nameservice and namenodeID. Contributed by Todd Lipcon.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-1623@1244761 13f79535-47bb-0310-9956-ffa450edef68  

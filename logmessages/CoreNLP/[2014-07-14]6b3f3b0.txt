@@ -1,0 +1,1 @@
+  Add a brief test of named relations, add debug output for the names  

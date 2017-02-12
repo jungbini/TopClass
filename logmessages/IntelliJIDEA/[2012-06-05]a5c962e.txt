@@ -1,0 +1,1 @@
+  IDEA-86830 Name of "Import class" quickfix in javadoc is confusing fixed  

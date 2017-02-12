@@ -1,0 +1,1 @@
+  fix tests: invoked later reparseFiles(file) interfere with highlighting in tests  

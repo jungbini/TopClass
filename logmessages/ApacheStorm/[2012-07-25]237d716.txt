@@ -1,0 +1,1 @@
+  Update storm-kafka/src/jvm/storm/kafka/ZkCoordinator.java  Fixing a bug that causes partitions to be unassigned if the hash code of the "HostPort" is negative.  

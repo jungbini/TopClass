@@ -1,0 +1,1 @@
+  tests fix, compare paths ignore case for case insensitive  

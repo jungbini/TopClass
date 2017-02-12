@@ -1,0 +1,1 @@
+  Small fixes of import quickfix: 1. Change import popup title and import message; 2. Remove duplicates of top level and extension functions (in the case of overloaded functions) in import quickfix popup.  

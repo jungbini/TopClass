@@ -1,0 +1,1 @@
+  EA-79438 - IAE: PopupHandler.installPopupHandler  fix initialisation order issue, introduced in 6b3ab5d  

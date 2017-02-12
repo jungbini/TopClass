@@ -1,0 +1,1 @@
+  additional bug fixes for hadoop based spatial indexing  

@@ -1,0 +1,1 @@
+  Run maven goal before Run/Debug, before/after Make, on a shortcut  

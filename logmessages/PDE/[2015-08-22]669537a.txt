@@ -1,0 +1,1 @@
+ Merge pull request #3702 from joelmoniz/bugfix-autoformatUndo2  Fix (another) issue with undoing auto-format  commit 669537aff7f4fc30fdb752ce3171c08332f671ce  fix up the error table a little more  

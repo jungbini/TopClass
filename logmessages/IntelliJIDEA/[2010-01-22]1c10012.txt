@@ -1,0 +1,1 @@
+  PSI equivalence bug for method type parameters  

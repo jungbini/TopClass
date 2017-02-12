@@ -1,0 +1,1 @@
+  fix race condition in supervisor where resources for a worker were being cleaned up before setting the new assignment, potentially leading to the supervisor continuously dying  

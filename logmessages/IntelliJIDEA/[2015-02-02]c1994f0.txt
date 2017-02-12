@@ -1,0 +1,1 @@
+  fix handling of fold regions with empty placeholder text in soft wrap model  

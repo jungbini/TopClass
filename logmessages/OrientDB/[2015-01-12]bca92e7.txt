@@ -1,0 +1,1 @@
+  fixed error space limit handle with disabled WAL.  

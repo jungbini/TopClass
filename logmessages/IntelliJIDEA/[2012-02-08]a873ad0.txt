@@ -1,0 +1,1 @@
+  Revert the fix for IDEA-79095  

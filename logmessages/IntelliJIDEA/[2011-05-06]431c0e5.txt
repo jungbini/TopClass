@@ -1,0 +1,1 @@
+  fixed failure in helper PY-2658 Can't launch my "dynamic" unit-tests in PyCharm 1.1 (but they work fine in 1.0 and 1.0.1)  

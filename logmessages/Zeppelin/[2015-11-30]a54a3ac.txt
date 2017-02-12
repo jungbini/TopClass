@@ -1,0 +1,1 @@
+" is true, when it is not defined.  

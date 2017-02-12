@@ -1,0 +1,1 @@
+ent detecting renames => use "--follow" to overcome it (unless git version is 1.7.2 or older, since follow is buggy and throw errors in some cases).  

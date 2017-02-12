@@ -1,0 +1,1 @@
+  fixed PY-10697 Instance attribute defined outside init false positive for django models  

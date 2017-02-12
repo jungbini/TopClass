@@ -1,0 +1,1 @@
+  TextAreaPainter.java - Chinese and tabs  This is a merge of @hoshi-sano 's #2173 and half of my #2244 which fixes #2180. Tested tabs only, but I assume hoshi did his bit OK.  

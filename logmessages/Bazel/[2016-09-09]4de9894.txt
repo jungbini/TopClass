@@ -1,0 +1,1 @@
+  Various minor fixes in the client:  - Don't call setrlimit() (it was needed to make 32-bit JVMs work with >3GB heaps) - Remove a non-functional way to tweak the Linux scheduler - Cosmetic fixes  -- MOS_MIGRATED_REVID=132653426  

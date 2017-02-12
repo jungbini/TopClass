@@ -1,0 +1,1 @@
+  fix(android+common+cocoa): Fixed null pointer exceptions and added annotations, changed rename method and updated method names for cocoa  

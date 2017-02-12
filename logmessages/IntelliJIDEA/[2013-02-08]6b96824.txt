@@ -1,0 +1,1 @@
+  show a dotted border around the first autopopup item instead of preview  preview is distracting, doesn't show the full text to be inserted and there seems to be no way of showing it together with the typed prefix  

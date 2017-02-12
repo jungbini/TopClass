@@ -1,0 +1,1 @@
+  fixed PY-11428 "Variable in function should be lowercase" false positive for variables declared global  

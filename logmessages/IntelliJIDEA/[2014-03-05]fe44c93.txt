@@ -1,0 +1,1 @@
+  Multicaret XML: fix type handler for multicaret mode  

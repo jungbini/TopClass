@@ -1,0 +1,1 @@
+  [git] EA-40045 fix virtual file comparator in case of deleted files  

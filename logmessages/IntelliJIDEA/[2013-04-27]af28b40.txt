@@ -1,0 +1,1 @@
+  [vcs] cleanup, notnull  Clean GitMergeProvider from unnecessary javadocs, fix warnings. Let MergeProvider#isBinary accept @NotNull.  

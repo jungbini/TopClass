@@ -1,0 +1,1 @@
+  fixed: explicit receiver kind for resolved call shouldn't be used as expected receiver kind for function  

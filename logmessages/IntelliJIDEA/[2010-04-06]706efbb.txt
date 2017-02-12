@@ -1,0 +1,1 @@
+  Spellchecker: fix TextSplitter  Conflicts:  plugins/properties/src/com/intellij/lang/properties/spellchecker/PropertiesSpellcheckingStrategy.java plugins/spellchecker/src/com/intellij/spellchecker/tokenizer/SpellcheckingStrategy.java plugins/spellchecker/testSrc/com/intellij/spellchecker/inspection/PropertiesTest.java  

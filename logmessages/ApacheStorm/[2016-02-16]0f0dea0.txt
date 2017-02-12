@@ -1,0 +1,1 @@
+  [STORM-1540] Fix Debug/Sampling for Trident  When ConsList emitted by a trident spout has to be transferred over the network, it fails during Serialization. The proposed fix is to make ConsList kyro serializable.  

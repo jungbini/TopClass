@@ -1,0 +1,1 @@
+  chore(iOS): fixed CFBundleVersion  

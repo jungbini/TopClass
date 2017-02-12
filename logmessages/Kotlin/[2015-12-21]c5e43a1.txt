@@ -1,0 +1,1 @@
+  kotlin-test: fix manifest description caused by copy-paste  

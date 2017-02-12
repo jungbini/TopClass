@@ -1,0 +1,1 @@
+  avoid duplicate fixes of an unresolved property  

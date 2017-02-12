@@ -1,0 +1,1 @@
+  correctly cancel drag of debugger contents by Esc  

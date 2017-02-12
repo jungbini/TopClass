@@ -1,0 +1,1 @@
+  Make Rule know about the name of the workspace it is in.  This is needed for taking the runfiles prefix from the WORKSPACE file instead of hardcoding it.  -- MOS_MIGRATED_REVID=87347883  

@@ -1,0 +1,1 @@
+  Small fixes: * Sort the FullyQualifiedNames during writing for determinism. * Crunch all pngs not in raw  -- MOS_MIGRATED_REVID=124245017  

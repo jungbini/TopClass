@@ -1,0 +1,1 @@
+  Don't run the peephole optimizations as a loop when they are surrounded by one time passes.  The second run will always do nothing as the pass itself runs to a fixed point internally.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=131886218  

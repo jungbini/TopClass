@@ -1,0 +1,1 @@
+  Enable repair -pr and -local together (fix regression of CASSANDRA-7450)  Patch by Jrme Mainaud; Reviewed by Paulo Motta for CASSANDRA-12522  

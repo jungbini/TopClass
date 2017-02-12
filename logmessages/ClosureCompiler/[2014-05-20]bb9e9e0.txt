@@ -1,0 +1,1 @@
+  Remove workaround for a bug in the RegExp parser in Opera 9.2  See discussion on issue #423 -- this has been tested in Opera 10, so it's unlikely to be present in any newer versions of Opera (especially since the latest ones are based on Chromium) ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=67635208  

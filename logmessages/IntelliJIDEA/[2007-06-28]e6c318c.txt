@@ -1,0 +1,1 @@
+  multi line tooltip fix (http://www.jetbrains.net/jira/browse/IDEADEV-18432)  

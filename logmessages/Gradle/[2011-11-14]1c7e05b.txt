@@ -1,0 +1,1 @@
+  Small fixes: added not-null assertions so that toString() and hashcode() are safe. Tweaked toString() a bit so that it does not look like representation of Map. Removed the setters so that the object is immutable now.  

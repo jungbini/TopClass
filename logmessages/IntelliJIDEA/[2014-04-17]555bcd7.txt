@@ -1,0 +1,1 @@
+  WEB-11485 Debug Console missing horizontal scrollbar WEB-11238 Live Console: avoid overlapping for the error and link to the file (issue still actual in case of softwrap)  

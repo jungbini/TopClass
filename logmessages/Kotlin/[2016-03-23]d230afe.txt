@@ -1,0 +1,1 @@
+  Reuse BindingContext and perform quickfix directly on PSI instead of the editor  

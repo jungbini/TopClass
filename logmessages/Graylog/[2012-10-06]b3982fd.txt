@@ -1,0 +1,1 @@
+  don't start as master if there is another master  fixes #SERVER-145  

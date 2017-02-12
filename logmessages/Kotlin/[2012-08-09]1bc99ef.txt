@@ -1,0 +1,1 @@
+  KT-2579 Rename Range.minus() to reversed and make it extension  #KT-2579 fixed  

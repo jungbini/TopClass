@@ -1,0 +1,1 @@
+  fix IDEA-137876 File switcher shows recent files instead of opened files  

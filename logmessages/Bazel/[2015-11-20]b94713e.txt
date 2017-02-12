@@ -1,0 +1,1 @@
+  *** Reason for rollback ***  Roll-forward with fixes: - Tests were missing for xzcat - xz output was not supported - bz2 input was missing declaration  -- MOS_MIGRATED_REVID=108325435  

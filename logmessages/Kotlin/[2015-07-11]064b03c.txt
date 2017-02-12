@@ -1,0 +1,1 @@
+  Minor: Suppress error message to fix compilation against Java 8  

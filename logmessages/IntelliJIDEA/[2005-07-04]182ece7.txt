@@ -1,0 +1,1 @@
+  Jsp formatter changes && IDEADEV-1750 should be fixed  

@@ -1,0 +1,1 @@
+  Fix an NPE that could occur when a dep was loaded via the build cache.  Test Plan: This fixed an NPE that I was seeing.  

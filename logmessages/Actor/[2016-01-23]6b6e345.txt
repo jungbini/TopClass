@@ -1,0 +1,1 @@
+  test(bots): attempt to fix bot spec  

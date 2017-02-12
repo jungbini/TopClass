@@ -1,0 +1,1 @@
+  JS backend: fixed trait inheritance implementation in ES3. Now each traits in same hierarchy represent separate object, instead a single object.  

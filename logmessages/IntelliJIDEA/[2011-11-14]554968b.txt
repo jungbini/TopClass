@@ -1,0 +1,1 @@
+  fixed PY-5022 Test Runner does not work with django South  

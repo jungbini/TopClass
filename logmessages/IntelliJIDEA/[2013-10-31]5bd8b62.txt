@@ -1,0 +1,1 @@
+  fix to switch intersection types order in casts when one of the last types is not an interface  

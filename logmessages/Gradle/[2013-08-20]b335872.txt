@@ -1,0 +1,1 @@
+  Added a super class for a couple of specs to share fixtures.  

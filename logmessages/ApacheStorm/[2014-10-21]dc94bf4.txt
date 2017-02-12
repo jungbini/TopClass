@@ -1,0 +1,1 @@
+ Merge branch 'STORM-511-offset-fix' of github.com:viktortnk/storm into storm-511  commit dc94bf47886c2c7b80f9eff8feec8054f6b9d43f  STORM-538: Also shade com.google.thirdparty.publicsuffix from Guava  Change storm-core/pom.xml to also relocate com.google.thirdparty.publicsuffix package to org.apache.storm.guava  

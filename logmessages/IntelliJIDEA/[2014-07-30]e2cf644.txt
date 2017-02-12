@@ -1,0 +1,1 @@
+  fixed template offsets in docstring generator  

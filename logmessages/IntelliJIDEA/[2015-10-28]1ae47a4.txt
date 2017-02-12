@@ -1,0 +1,1 @@
+  [ui] a logic to override "always show thumb" property for transparent buttonless scroll bars  On GTK+, the thumb fits entire width/height of a scroll bar when visible (see BasicScrollBarUI.layoutVScrollbar()). The fix detects such situations and resets thumb size, thus hiding the thumb when not needed.  

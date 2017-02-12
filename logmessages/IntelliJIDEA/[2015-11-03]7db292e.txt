@@ -1,0 +1,1 @@
+  provide proper executable name for switch boot jdk action #IDEA-147197 fixed  

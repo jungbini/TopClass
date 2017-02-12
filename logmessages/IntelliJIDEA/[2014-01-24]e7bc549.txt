@@ -1,0 +1,1 @@
+  new html5 schema with blackjack and extensions SVG, MathML and RDFa are now supported #WEB-462 fixed #WEB-417 fixed  

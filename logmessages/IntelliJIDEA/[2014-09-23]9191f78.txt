@@ -1,0 +1,1 @@
+  Removed the action link from the description of the problem  Links are added by traversing the list of available fixes.  

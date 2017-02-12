@@ -1,0 +1,1 @@
+  IDEA-137256 (non-boolean option handling in console decompiler fixed)  

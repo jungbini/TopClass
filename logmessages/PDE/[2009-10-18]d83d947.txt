@@ -1,0 +1,1 @@
+  removing menubar stuff for osx (bug #786) and saving files with temp (bug #967)  

@@ -1,0 +1,1 @@
+  Split the lint checks (that run in the standalone linter) and the analyzer checks (more complex checks that usually rely on typechecking) into two separate groups.  This also fixes a problem where we are spuriously reporting requires not being sorted, in an ES6 module. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=113277240  

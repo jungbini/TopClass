@@ -1,0 +1,1 @@
+  Fixed bug with newlines separated by comments Fixed bug with generics and shift operators like >> or >>> Added some tests  

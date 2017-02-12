@@ -1,0 +1,1 @@
+  JS: inline componentN functions  #KT-7294 fixed  

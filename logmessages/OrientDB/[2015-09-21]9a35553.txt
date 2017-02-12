@@ -1,0 +1,1 @@
+  fixed lucene query with other condition witout index usage  

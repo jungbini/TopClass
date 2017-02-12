@@ -1,0 +1,1 @@
+  IDEA-90377 Enter Exception Class on creating exception breakpoint in Java debugger shouldn't show classes which do not subclass Throwable  

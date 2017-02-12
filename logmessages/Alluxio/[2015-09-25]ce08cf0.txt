@@ -1,0 +1,1 @@
+  Fixed bug in BlockDataManager.removeBlock and added exceptions for deleting lineages  

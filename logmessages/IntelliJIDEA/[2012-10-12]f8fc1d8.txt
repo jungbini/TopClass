@@ -1,0 +1,1 @@
+  Groovy: fix NPE in 'introduce constant'  

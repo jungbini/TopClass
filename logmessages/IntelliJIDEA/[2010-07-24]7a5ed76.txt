@@ -1,0 +1,1 @@
+  support modules & PsiReferenceProviderBean. And fix missing Action/Group methods.  

@@ -1,0 +1,1 @@
+  svn merge -r 1409090:1409089 reverting HDFS-4171 until test failures can be fixed.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1409268 13f79535-47bb-0310-9956-ffa450edef68  

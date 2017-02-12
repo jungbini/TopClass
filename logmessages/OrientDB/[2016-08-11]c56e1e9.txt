@@ -1,0 +1,1 @@
+  class cast fixes in crash tests under Java 8  

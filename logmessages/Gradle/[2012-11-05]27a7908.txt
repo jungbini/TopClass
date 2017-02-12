@@ -1,0 +1,1 @@
+  Move (some) Ivy specific test fixtures into a dedicated package, instead of growing the 'org.gradle.integtests' ball of mud.  Had to move some other stuff that hangs off this as well to avoid package cycles.  

@@ -1,0 +1,1 @@
+  Merge 763501:763502 from trunk to fix HADOOPO-5645. After HADOOP-4920 we need a place to checkin releasenotes.html.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/branches/branch-0.20@763504 13f79535-47bb-0310-9956-ffa450edef68  

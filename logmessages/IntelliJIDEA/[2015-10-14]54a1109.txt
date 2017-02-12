@@ -1,0 +1,1 @@
+  [platform] socket lock fixes  - timeout increased to reduce the probability of false "no instance" - EOT marker introduced to the protocol to avoid unneeded waiting  

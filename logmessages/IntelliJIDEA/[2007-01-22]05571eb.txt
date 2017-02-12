@@ -1,0 +1,1 @@
+  isIgnoredFile() API; fix ignore by prefix (IDEADEV-13170)  

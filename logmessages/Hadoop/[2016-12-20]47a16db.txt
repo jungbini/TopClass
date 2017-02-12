@@ -1,0 +1,1 @@
+  YARN-6014. Followup fix for slider core module findbugs. Contributed by Jian He  

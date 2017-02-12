@@ -1,0 +1,1 @@
+  Minor: fixed graph closing on MT env  

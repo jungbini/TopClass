@@ -1,0 +1,1 @@
+  IDEA-131748 Stop debug session kills all processes - added a registry flag to disable winp usage and use taskkill  

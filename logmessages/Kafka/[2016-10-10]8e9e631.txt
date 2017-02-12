@@ -1,0 +1,1 @@
+  MINOR: Fix table of contents and section numbers in the documentation  Removed a non-existing reference in table of contents and fixed some section numbers.  Author: Vahid Hashemian <vahidhashemian@us.ibm.com>  Reviewers: Jason Gustafson <jason@confluent.io>  Closes #2004 from vahidhashemian/doc/fix_toc  

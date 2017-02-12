@@ -1,0 +1,1 @@
+  Recognize Bryan Bess for a fix for groovy and scala plugin docs  

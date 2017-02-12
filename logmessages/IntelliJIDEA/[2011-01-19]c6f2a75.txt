@@ -1,0 +1,1 @@
+  end of line painting fix: SCL-2700  

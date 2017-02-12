@@ -1,0 +1,1 @@
+  Generalize error processing in retrieving gradle settings, fixes #EA-87096, #EA-87129, #EA-87275 and alike  

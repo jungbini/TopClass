@@ -1,0 +1,1 @@
+  show call hierarchy for the containing method, not the usage view target close button in navigate/call hierarchy fixed  

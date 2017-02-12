@@ -1,0 +1,1 @@
+  Fixed a bug on HTTP REST protocol and POST database command: the type was ignored.  

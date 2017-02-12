@@ -1,0 +1,1 @@
+  cqlsh: fix COPY FROM with ReversedType  patch by Aleksey Yeschenko; reviewed by Brandon Williams for CASSANDRA-5610  

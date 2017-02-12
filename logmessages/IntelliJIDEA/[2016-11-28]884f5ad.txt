@@ -1,0 +1,1 @@
+  Won't return empty list if there are no metaclass attributes with specified name. This bug was introduced in PY-19702-related changes.  

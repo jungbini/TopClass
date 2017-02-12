@@ -1,0 +1,1 @@
+  IDEA-129232 Debugger: switch language in evaluate expression window doesn't affect on selected EvaluationBuilder  

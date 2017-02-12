@@ -1,0 +1,1 @@
+  [patch]: cleanUp and small fixes  * use ChangelistChooser as a default focused component; * do not choose default changelist as best variant, return null instead; * update changelist text only if name was not preselected manually; * apply from clipboard to default changelist instead of newly create with strange name; * cleanUp lambdas;  

@@ -1,0 +1,1 @@
+  Addendum fix for HDFS-10817 to fix failure of the added testFSReadLockLongHoldingReport in branch-2.  

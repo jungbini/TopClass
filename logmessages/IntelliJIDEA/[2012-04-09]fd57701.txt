@@ -1,0 +1,1 @@
+icked from commit fa41dabf)  + added the same code for PasswordSafePromptDialog.  

@@ -1,0 +1,1 @@
+  android execution: support for "debug on usb device" and "emulator only" options  

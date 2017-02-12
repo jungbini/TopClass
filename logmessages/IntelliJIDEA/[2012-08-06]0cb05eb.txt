@@ -1,0 +1,1 @@
+  PivotalTracker works only with API token now #IDEA-89770 fixed #IDEA-89180 fixed  

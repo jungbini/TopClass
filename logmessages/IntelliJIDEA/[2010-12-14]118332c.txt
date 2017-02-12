@@ -1,0 +1,1 @@
+  fixed operator checking in Augmented Assignment QuickFix  

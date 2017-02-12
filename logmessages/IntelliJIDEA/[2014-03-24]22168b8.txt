@@ -1,0 +1,1 @@
+  following CR-IC-4636  fixed painting of block selection on active breakpoint line  

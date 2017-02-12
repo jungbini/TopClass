@@ -1,0 +1,1 @@
+  fix for NPE when readingPause isn't set properly  

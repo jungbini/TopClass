@@ -1,0 +1,1 @@
+  Assertion failure fixed on fixpoint generics loaded from Java  

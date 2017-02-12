@@ -1,0 +1,1 @@
+  Misc. minor house-keeping fixes: add reasonable GC settings, fix up README, fix up example configs, fix the logging for tools, use a log directory for logs instead of the root directory.  

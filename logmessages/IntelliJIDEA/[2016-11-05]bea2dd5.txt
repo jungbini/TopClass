@@ -1,0 +1,1 @@
+  fixed DirectoriesScope uniting bug  

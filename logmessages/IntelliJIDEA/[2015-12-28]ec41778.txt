@@ -1,0 +1,1 @@
+  vcs: do not set dialog title twice  fix error, introduced by refactoring in 1375b0e - setTitle() call order was changed  

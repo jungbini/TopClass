@@ -1,0 +1,1 @@
+  Adding alarm callback plugin class to injected set, fixing tests.  

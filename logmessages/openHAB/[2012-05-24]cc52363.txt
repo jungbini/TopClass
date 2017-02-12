@@ -1,0 +1,1 @@
+  fix which lets VDRMonitor start again since it will never contain any binding  

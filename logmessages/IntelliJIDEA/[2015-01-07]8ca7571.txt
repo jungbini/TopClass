@@ -1,0 +1,1 @@
+  check reference range also for cached references (XmlRenameTest.testRenameInsideCDATA fixed)  

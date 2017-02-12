@@ -1,0 +1,1 @@
+  rework receiver type, fix #2259  

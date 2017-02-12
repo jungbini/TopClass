@@ -1,0 +1,1 @@
+  FFI: fixing pointer bug in reader. thanks to Wayne Meissner. closes #59.  

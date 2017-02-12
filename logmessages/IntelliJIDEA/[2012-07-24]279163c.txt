@@ -1,0 +1,1 @@
+  external compiler: fixed building artifacts if there were changes under source roots only  

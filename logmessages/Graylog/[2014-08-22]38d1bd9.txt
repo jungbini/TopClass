@@ -1,0 +1,1 @@
+  when handling exceptions don't try to use the AMQP channel if it has been closed already  this can happen when message processing is paused, due to a harmless race between stopping the consumer and handling a message. the message will get redelivered in this case.  fixes #693  

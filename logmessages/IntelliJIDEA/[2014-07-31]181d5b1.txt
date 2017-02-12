@@ -1,0 +1,1 @@
+  IDEA-107072 Breakpoint dialog: usability problems and other bug  

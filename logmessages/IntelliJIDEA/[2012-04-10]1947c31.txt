@@ -1,0 +1,1 @@
+  fixed PY-6238 Missing create virtualenv link for py2.4: cut off Traceback  

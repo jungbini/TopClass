@@ -1,0 +1,1 @@
+  CM - fix threading issues + threading notes  - UI is now updated on EDT. Should work for now, but needs more love later, e.g. use SwingWorkers and update UI on EDT instead of synchronizing everywhere. - added TODOs about threading  Fixes #3882  

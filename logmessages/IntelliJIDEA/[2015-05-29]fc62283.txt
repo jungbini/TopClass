@@ -1,0 +1,1 @@
+  fixed caret movement through folded region  

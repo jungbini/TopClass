@@ -1,0 +1,1 @@
+  fix jgit library entry  use explicit jars instead of dir (now we have osxkeychain lib)  

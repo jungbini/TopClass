@@ -1,0 +1,1 @@
+nts more aggressively to avoid using the maximum amount of disk space (determined by min(max age, max size)) for the journal we can safely remove all segments that have already been processed completely  created a separate logger for the cleanup jobs, to be able to debug them with having to listen to the noise kafkajournal produces on debug  

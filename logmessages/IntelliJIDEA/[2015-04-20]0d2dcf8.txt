@@ -1,0 +1,1 @@
+  TypeScript and Flex spellchecking test fixed. No need to created tokenizer for elements with injecion  

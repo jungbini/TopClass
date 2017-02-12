@@ -1,0 +1,1 @@
+  Changed cluster configuration: - fixed points there cluster were called bypassing the factory - now more readable - create new record cluster factory - preparing for the new algorithm to allocate a window of RID in the cluster  

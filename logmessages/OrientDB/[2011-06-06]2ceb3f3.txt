@@ -1,0 +1,1 @@
+  Patch by Alfonso to fix the bug on remote import with index manager  

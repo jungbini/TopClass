@@ -1,0 +1,1 @@
+  Add support for secondary indexes on static columns  Patch by Taiyuan Zhang; reviewed by Sam Tunnicliffe for CASSANDRA-8103  Also includes fix for CASSANDRA-10958  

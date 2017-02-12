@@ -1,0 +1,1 @@
+ Merge pull request #594 from deeplearning4j/mw_subsample_fix  Fix for max test to set maxIndex.  commit 684040336ed4177b3e7c3ef2ab9fd1e6b58e3579  Merge pull request #589 from deeplearning4j/bugfix-588  588 - remove crfsuite  commit 245a5028c802d76f2d4ecadc70345f1755e7ee7f  epsilon fix  

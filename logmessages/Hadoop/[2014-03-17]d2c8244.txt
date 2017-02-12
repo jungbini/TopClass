@@ -1,0 +1,1 @@
+  YARN-1591. Fixed AsyncDispatcher to handle interrupts on shutdown in a sane manner and thus fix failure of TestResourceTrackerService. Contributed by Tsuyoshi Ozawa. svn merge --ignore-ancestry -c 1578628 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.4@1578630 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  fixed PY-13328 Create New Project: warning about installing template packages is not shown  

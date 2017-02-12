@@ -1,0 +1,1 @@
+  fix japanese(kuromoji) nlp test (#2365)  * fix japanese(kuromoji) nlp test  * change kuromoji folder to .dl4j-kuromoji  * change KuromojiBinFilesFetcher path  * change kuromoji folder  

@@ -1,0 +1,1 @@
+  Fixed bug: do not lose all candidates when updating status to success  

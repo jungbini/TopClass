@@ -1,0 +1,1 @@
+  Fall back to the default set of modern string prefixes for recent Pythons  The set of prefixes remains unchanged for several latest releases, so we use default prefixes here in order not to update the prefixes table with every release.  

@@ -1,0 +1,1 @@
+  cqlsh: Fix error when starting cqlsh with --debug  Patch by Adam Holmberg; reviewed by Philip Thompson for CASSANDRA-10282  

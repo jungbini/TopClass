@@ -1,0 +1,1 @@
+  fix npe in tests, add initial word2vec impl for spark  

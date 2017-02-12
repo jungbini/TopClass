@@ -1,0 +1,1 @@
+  test fixed (code does not work for Py26)  

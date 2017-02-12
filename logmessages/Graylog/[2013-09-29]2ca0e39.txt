@@ -1,0 +1,1 @@
+  show web-interface version. fixes #249  

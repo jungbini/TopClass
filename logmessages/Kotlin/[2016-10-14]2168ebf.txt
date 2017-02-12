@@ -1,0 +1,1 @@
+  Fix for KT-12677. J2K: Invalid SAM constructor redundancy detection  Now all J2kPostProcessing's executing in fixed order, dependent on it index in J2kPostProcessingRegistrar._processings  

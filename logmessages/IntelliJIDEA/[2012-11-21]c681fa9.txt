@@ -1,0 +1,1 @@
+  correct order of dependencies to enable creating remote interpreters in IDEA under debugger  

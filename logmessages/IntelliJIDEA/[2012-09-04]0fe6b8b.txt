@@ -1,0 +1,1 @@
+  fix crash during classloading on jdk 8 jvm  

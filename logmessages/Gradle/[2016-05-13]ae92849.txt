@@ -1,0 +1,1 @@
+  Introduce test fixture of tests using ProjectBuilder  Automatically uses and cleans up temporary project directory.  

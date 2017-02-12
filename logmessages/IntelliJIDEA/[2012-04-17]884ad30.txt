@@ -1,0 +1,1 @@
+  Add "Add to Special Annotations" quickfix to inspections that have "Special Annotations"  

@@ -1,0 +1,1 @@
+  svn: Refactored "SvnCommittedChangesProvider" - code simplified, warnings fixed  

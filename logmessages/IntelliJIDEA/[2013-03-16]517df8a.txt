@@ -1,0 +1,1 @@
+  IDEA-102238 Debug Tool Window: NPE at RunnerContentUi.closeAll() on closing detached view http://ea.jetbrains.com/browser/ea_problems/43412  

@@ -1,0 +1,1 @@
+  svnkit 1.7.9 build 9555 with fix to "IDEA-99021 Subversion: assertion from svnkit" assertion changed into BUSY exception -> situation when there's no valid working copy DB, but status is asked, happens, so it should not be asserted IDEA code can survive exception from there, and re-query status  

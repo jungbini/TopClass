@@ -1,0 +1,1 @@
+nd-maven-plugin conf & version to propagate skipTests to webApp  

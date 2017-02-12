@@ -1,0 +1,1 @@
+  Test update after "Refactoring: code duplication removed from accessor generators" and "Properly resolve descriptors from compiled kotlin" fixes  

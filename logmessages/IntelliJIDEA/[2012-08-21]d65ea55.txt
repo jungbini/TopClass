@@ -1,0 +1,1 @@
+  fixed  PY-7252 EAP - PyCharm running py.test shows green success icons on left side of run dialog even when py.test reports an error.  

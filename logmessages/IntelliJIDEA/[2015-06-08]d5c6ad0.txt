@@ -1,0 +1,1 @@
+  IDEA-140923 "Select file to debug Javascript in" is not closed from the first attempt  

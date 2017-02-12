@@ -1,0 +1,1 @@
+  Upgrade to jimfs-1.1-SNAPSHOT  Summary: I'm fixing a few i18n bugs in Buck, and I needed to add a feature to jimfs to support case-insensitive filesystems with custom case mapping rules.  I sent the fix upstream: https://github.com/google/jimfs/pull/29  This updates jimfs to include the fix.  Test Plan: CI  Reviewed By: ryu2  fb-gh-sync-id: 5e46c1e  

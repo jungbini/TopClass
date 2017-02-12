@@ -1,0 +1,1 @@
+ Merge pull request #1131 from druid-io/fix-tutorials  Go through and fix mistakes in tutorials and docs  commit 3fab045b2d4065f729b84f929a56779749eb805b  Go through and fix mistakes in tutorials and docs  

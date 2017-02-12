@@ -1,0 +1,1 @@
+  inspection settings: source profile is not deleted after rename - fixed IDEA-160657  

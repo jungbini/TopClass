@@ -1,0 +1,1 @@
+  fixing a memory leak when creating a new node and not adding it to the tree.  Thanks Julien Genestoux  

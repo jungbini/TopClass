@@ -1,0 +1,1 @@
+  Debug Console: Splash screen appears after typing only (PY-17615)  It should appear after the the first opening of the console. We should execute start statement like we do it in Python Console.  

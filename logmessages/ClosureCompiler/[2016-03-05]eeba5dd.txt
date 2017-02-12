@@ -1,0 +1,1 @@
+  Make the fix for https://github.com/google/closure-compiler/issues/1114 apply to functions on the RHS of an assign/var/let/const instead of just a function statement. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=116455016  

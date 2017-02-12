@@ -1,0 +1,1 @@
+  Handle multiply-defined attrs in AndroidResourceClassWriter  Currently, we do multiple put calls into the ImmutableMap.builder(), which asserts.  See bug for examples from projects.  Tweak the aapt comparison test method to actually merge before writing out the R.class (to match the aapt side, which also merges first).  -- MOS_MIGRATED_REVID=132607034  

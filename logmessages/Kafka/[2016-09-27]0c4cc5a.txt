@@ -1,0 +1,1 @@
+  MINOR: fixes a few error logging formats  Author: Guozhang Wang <wangguoz@gmail.com>  Reviewers: Eno Thereska <eno.thereska@gmail.com>  Closes #1919 from guozhangwang/minor-error-message-fixes  

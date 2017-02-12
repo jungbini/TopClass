@@ -1,0 +1,1 @@
+  Fixed redeclaration from incremental compilation. Added workaround for JPS bug.  

@@ -1,0 +1,1 @@
+  HBASE-2889 Tool to look at HLogs -- parse and tail -f; added part 1, some fixup of hlog main  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@995222 13f79535-47bb-0310-9956-ffa450edef68  

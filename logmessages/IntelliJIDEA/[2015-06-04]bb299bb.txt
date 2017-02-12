@@ -1,0 +1,1 @@
+  fix components in rd document host. impemented data constant for entered text in go to popup  

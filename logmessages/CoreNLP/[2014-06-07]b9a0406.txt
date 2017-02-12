@@ -1,0 +1,1 @@
+  Fix desegmentation bug associated with null marker in the vocalized section  

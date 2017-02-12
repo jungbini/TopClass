@@ -1,0 +1,1 @@
+  TACHYON-792: Group - Add User Group mapping service: fix checkstyle  

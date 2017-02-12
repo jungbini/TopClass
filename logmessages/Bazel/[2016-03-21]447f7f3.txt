@@ -1,0 +1,1 @@
+  Release 0.2.1 (2016-03-21)  Baseline: 19b5675  Incompatible changes:  - Skylark rules that are available from their own repository will now issue a warning when accessed through @bazel_tools. - Set --legacy_bazel_java_test to off by default. java_test will now have a slightly 

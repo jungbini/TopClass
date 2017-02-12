@@ -1,0 +1,1 @@
+  HDFS-3616. Fix a ConcurrentModificationException bug that BP actor threads may not be shutdown properly in DataNode.  Contributed by Jing Zhao   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1402608 13f79535-47bb-0310-9956-ffa450edef68  

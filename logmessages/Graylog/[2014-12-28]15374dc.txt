@@ -1,0 +1,1 @@
+  add option to make radio amqp messages persistent on the broker  fixes #808  

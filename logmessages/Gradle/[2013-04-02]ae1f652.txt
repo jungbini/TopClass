@@ -1,0 +1,1 @@
+  REVIEW-1965: use JaCoCo instead of jacoco; fix section of tasks introduced by jacoco plugin when java plugin is applied too  

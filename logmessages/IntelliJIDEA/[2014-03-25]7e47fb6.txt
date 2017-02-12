@@ -1,0 +1,1 @@
+  wip bootstrap  support packaged app remove NodeJSRunner  platform impl is enough remove MochaDebugProgramRunner, NodeunitDebugRunner, NodeJSDebugRunner  DebuggableProgramRunner is enough  

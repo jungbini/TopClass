@@ -1,0 +1,1 @@
+  refine debug output for individual class features  

@@ -1,0 +1,1 @@
+  add HashSet to mock rt.jar  it might fix tests  

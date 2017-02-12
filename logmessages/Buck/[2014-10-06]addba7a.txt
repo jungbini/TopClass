@@ -1,0 +1,1 @@
+  Pass class preprocessor dir as an absolute file  Summary: Running this in-process in integration tests was failing without this. I don't know if this is the cleanest fix.  Test Plan: Upcoming integration test uses it.  

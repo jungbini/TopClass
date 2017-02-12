@@ -1,0 +1,1 @@
+  merged r1372708 from branch-1: HDFS-3658. Fix bugs in TestDFSClientRetries and add more tests. Contributed by Tsz Wo Sze.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.1@1411087 13f79535-47bb-0310-9956-ffa450edef68  

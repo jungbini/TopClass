@@ -1,0 +1,1 @@
+  Always create /tmp directory in the sandbox (fixes #913). Fix one memory leak reported in #878. Fix possible heap corruption in create_dirs handling. Don't fail if "dev" and "proc" already exist in the sandbox directory.  -- MOS_MIGRATED_REVID=114753381  

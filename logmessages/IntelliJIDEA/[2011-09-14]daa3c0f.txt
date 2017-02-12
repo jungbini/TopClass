@@ -1,0 +1,1 @@
+  disable rename as wrong ref on invalid access refs; though enable quick fix there  

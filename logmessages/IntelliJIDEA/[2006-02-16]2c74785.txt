@@ -1,0 +1,1 @@
+  canContainJavaCode fixed to work properly with jsp  

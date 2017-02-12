@@ -1,0 +1,1 @@
+  Studio: fixed back-end command that executes changes  

@@ -1,0 +1,1 @@
+  fixing memory leak in xml text reader.  thanks sdor! closes #244  

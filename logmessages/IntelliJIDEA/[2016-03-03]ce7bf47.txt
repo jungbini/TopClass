@@ -1,0 +1,1 @@
+  fixed PY-15718 IPython Notebook: invalid project selected as serving directory in multi-project structure  

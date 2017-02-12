@@ -1,0 +1,1 @@
+  try to find name element for rnc descriptor fixes documentation for some tags (e.g. dialog)  

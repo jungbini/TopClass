@@ -1,0 +1,1 @@
+  disable 'run' action for ruby and python remote debug configurations [rev by A. Pegov]  

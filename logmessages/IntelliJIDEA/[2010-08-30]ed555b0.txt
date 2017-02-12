@@ -1,0 +1,1 @@
+  CodeInsightTestFixture.testAction() fixed to work well with injection-agnostic actions  

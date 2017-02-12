@@ -1,0 +1,1 @@
+  IDEA-128017 IDE got stuck on Breakpoint edit window during debug  

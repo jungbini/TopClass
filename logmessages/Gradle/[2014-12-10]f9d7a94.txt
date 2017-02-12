@@ -1,0 +1,1 @@
+  Adding play coffeescript assets to customPlayApp test fixture.  +review REVIEW-5272  

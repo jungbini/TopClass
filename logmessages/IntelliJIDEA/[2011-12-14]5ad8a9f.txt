@@ -1,0 +1,1 @@
+  EA-32126 - SOE: EditorImpl.moveCaretToScreenPos  Debug info is added  

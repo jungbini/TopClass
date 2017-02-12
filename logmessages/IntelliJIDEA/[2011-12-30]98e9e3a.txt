@@ -1,0 +1,1 @@
+  IDEA-79087: XSLT debug: Variables view: tree view is collapsed if the value is changed (blue)  

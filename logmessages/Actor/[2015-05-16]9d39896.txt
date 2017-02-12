@@ -1,0 +1,1 @@
+  fix(android): Disabled animations for headers/footers in RecyclerView  

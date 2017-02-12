@@ -1,0 +1,1 @@
+  pass "quick evaluate Uglified Coffee" spec completely  We are not going to fix uglify sourcemap generator issue (see https://dl.dropboxusercontent.com/u/43511007/s/Screen%20Shot%202015-01-21%20at%2020.33.44.png  var1 mapped to the whole "var c, notes, templates, ..." expression text + unrelated text "   ;"). Will be reported later.  

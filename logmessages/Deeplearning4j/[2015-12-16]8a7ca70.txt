@@ -1,0 +1,1 @@
+  Mnist fetcher improvements / bug fixes + test  

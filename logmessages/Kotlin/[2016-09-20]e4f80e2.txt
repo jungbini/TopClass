@@ -1,0 +1,1 @@
+  Better texts of change variable type quickfixes  

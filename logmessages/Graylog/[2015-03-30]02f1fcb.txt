@@ -1,0 +1,1 @@
+  Remove gridster hotfix, as it breaks positioning  The behaviour appears only sometimes, let's see if removing it helps.  

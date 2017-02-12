@@ -1,0 +1,1 @@
+  fixed PY-8247 Django: not able to run django tests for django 1.3  

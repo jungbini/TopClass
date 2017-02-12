@@ -1,0 +1,1 @@
+  Add the name of the output of the RemoteFile rather than the file itself to the RemoteFile RuleKey.  Summary: Without this fix, whenever a remote_file target is run, buck will throw an exception.  Test Plan: This was uncovered while implementing "buck fetch". A test for the complete functionality is included in that 

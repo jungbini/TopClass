@@ -1,0 +1,1 @@
+  since I wasn't able to trigger the code that calls getVariants() on a SchemaPrefixReference either in tests or in production,delete it  

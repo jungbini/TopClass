@@ -1,0 +1,1 @@
+  added accelerator key to the SetValue action in debugger FrameView  

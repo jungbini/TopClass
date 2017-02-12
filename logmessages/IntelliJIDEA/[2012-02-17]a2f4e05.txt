@@ -1,0 +1,1 @@
+  fix for IDEA-81304  "Show history for selection" for Subversion is not working! (exception reporting + correct revisions preload)  

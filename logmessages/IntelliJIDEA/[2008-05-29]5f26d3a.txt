@@ -1,0 +1,1 @@
+  Optimization for common wildcard case of *suffix.  

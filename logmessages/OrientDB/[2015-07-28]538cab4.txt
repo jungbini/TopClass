@@ -1,0 +1,1 @@
+  match - fixed matching on edges (eg. outE())  

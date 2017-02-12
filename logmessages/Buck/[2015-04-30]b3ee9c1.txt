@@ -1,0 +1,1 @@
+  Use soname as intermediate build product name  Summary: The debug symbol scanner relies on being able to find a shared library under its soname.  Test Plan: automated  

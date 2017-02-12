@@ -1,0 +1,1 @@
+  fix "Extract parameter as local variable" quickfix for expression lambda's  

@@ -1,0 +1,1 @@
+  EA-80750 - assert: AnAction.setShortcutSet  before this fix, it worked only for the first search field in IDE, because after the first time the shortcut is no longer empty (we registered it), and action was not registered on component any more.  

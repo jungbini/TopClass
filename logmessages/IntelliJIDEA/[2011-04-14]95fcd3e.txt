@@ -1,0 +1,1 @@
+  eval deialog in statement mode - editor height fix  

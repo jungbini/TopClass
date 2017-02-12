@@ -1,0 +1,1 @@
+  [highlighting] enable annotation about cap calls, fix #2268  

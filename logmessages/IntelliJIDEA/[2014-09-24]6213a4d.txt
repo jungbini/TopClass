@@ -1,0 +1,1 @@
+  don't run children calculation of 'this' if under remote debug  

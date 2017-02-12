@@ -1,0 +1,1 @@
+  IDEA-125189 new debugger: pause doesn't select thread in frames combo  

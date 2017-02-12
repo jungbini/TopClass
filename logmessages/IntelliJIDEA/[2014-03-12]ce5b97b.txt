@@ -1,0 +1,1 @@
+  fix UI artifacts after exiting from Presentation Mode  

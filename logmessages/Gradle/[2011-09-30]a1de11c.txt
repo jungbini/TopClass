@@ -1,0 +1,1 @@
+  fix the embarrassingly broken GradleHandles JUnit rule that prevented test methods from running, and fix the test that was broken but passed because it wasn't being run.  This isn't the first time I've done this.  

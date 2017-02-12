@@ -1,0 +1,1 @@
+  [hg]: compareWith fixed for newly created branch and compare with bookmark (EA-77367, EA-77294); handle not found reference by name  

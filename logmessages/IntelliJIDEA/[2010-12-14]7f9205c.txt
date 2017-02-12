@@ -1,0 +1,1 @@
+  fixed bugs, connected to lambda  - PY-2480 Intention: Convert lambda to function: create function on the module level - PY-2478 PyReturnStatementImpl at com.intellij.extapi.psi.PsiElementBase.getContainingFile - PY-2479 Intention: Convert lambda to function: function should be created on the next line when lambda is defined on the same line with the colon  

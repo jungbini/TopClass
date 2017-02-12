@@ -1,0 +1,1 @@
+  Restores fullscreen style on mac for the IDE frame after "IDE frame decorators refactored" fix(2e0b22d73d567d7a14e85cdb21599944c46235ae)  

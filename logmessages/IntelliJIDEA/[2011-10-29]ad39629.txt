@@ -1,0 +1,1 @@
+  Insets fixed. In IdeBorderFactory new BorderFactory for forms - without insets.  

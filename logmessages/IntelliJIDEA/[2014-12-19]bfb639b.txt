@@ -1,0 +1,1 @@
+  JBAutoscroller: fix autoscroll on selection change in JTables  

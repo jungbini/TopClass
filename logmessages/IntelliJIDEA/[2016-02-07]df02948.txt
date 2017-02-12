@@ -1,0 +1,1 @@
+  IDEA-151317 git: use "--" after `git show rev:hash` because of a Git bug  

@@ -1,0 +1,1 @@
+  IDEA-143572 Android: IAE at com.android.tools.idea.gradle.parser.GradleGroovyFile.checkInitialized: fix import Gradle module from project structure  

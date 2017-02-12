@@ -1,0 +1,1 @@
+  YARN-1553. Modified YARN and MR to stop using HttpConfig.isSecure() and instead rely on the http policy framework. And also fix some bugs related to https handling in YARN web-apps. Contributed by Haohui Mai.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1568501 13f79535-47bb-0310-9956-ffa450edef68  

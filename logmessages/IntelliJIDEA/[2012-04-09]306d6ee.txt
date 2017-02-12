@@ -1,0 +1,1 @@
+  Bug fix: IDEA does not save to XML 'output level' property of MavenGeneralSettings. This is actual for all enum properties of MavenGeneralSettings.  

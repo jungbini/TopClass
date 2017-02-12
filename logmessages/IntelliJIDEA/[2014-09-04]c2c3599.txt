@@ -1,0 +1,1 @@
+  set User-Agent to keep some CDN's happy #WEB-13155 fixed  

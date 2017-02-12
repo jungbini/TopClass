@@ -1,0 +1,1 @@
+  fix gutter icons for injected psi + drop html link tag index  

@@ -1,0 +1,1 @@
+  Fix variable definition with the same name in a case statement (fixes #399)  

@@ -1,0 +1,1 @@
+  fix after the change when ApplicationInfo became an application service, see  the change at: a8c2854  10/7/2014 4:21 PM app info as service  

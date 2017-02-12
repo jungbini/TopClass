@@ -1,0 +1,1 @@
+  Public members should have bigger priority in debugContext #KT-10634 Fixed  

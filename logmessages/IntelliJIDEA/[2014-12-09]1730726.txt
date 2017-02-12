@@ -1,0 +1,1 @@
+  clarify javadoc of AppLifecycleListener.appClosing() (IDEA-134107); fix a case when a call to AppLifecycleListener.appStarting() could be incorrectly skipped  

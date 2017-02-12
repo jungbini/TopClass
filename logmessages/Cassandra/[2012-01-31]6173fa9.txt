@@ -1,0 +1,1 @@
+  (Pig) fix CassandraStorage to use correct comparator in Super ColumnFamily case patch by Pavel Yaskevich; reviewed by Brandon Williams for CASSANDRA-3251  

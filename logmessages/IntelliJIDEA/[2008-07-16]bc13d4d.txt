@@ -1,0 +1,1 @@
+  ATB: disposal fix, ui designer and hierarchy views should be ok now  

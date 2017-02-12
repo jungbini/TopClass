@@ -1,0 +1,1 @@
+  add trace logging to track processed messages  to be able to debug single messages flowing through the system it is important to be able to trace every single message id at every single decision point. you have to manually increase the log level to TRACE in org.graylog2.outputs and org.graylog2.buffers.processors to see the new out (warning: _very_ verbose)  

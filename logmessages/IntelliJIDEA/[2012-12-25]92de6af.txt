@@ -1,0 +1,1 @@
+  XmlRpcServerImpl should use log.debug instead of log.info  

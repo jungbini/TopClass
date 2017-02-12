@@ -1,0 +1,1 @@
+  KT-2514 Type inference fails when using extension function literal (check for bounds when inference is not complete added) #KT-2514 fixed  

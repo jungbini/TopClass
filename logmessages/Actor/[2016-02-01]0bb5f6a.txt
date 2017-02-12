@@ -1,0 +1,1 @@
+  fix(server:auth): dont allow deleted users to log in  

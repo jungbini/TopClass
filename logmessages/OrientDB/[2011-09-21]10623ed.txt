@@ -1,0 +1,1 @@
+  Fixed bug on distance() function if any value can't be converted to double. Reported by Adolfo through the ML  

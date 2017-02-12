@@ -1,0 +1,1 @@
+  STORM-2074: fix storm-kafka-monitor NPE bug  

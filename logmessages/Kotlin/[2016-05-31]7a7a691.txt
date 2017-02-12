@@ -1,0 +1,1 @@
+  KT-2752: fix old tests, add test for clashing between class and its companion object  

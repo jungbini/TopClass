@@ -1,0 +1,1 @@
+  Platform: OS X scrollbars (table cell animator fixed)  

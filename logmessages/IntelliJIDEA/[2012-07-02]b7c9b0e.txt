@@ -1,0 +1,1 @@
+  IDEA-86455 "quick fix" suggestions should account for coding convention when creating a variable implemented  

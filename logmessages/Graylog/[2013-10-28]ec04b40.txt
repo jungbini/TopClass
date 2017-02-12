@@ -1,0 +1,1 @@
+  input metrics \o/ fixes #342  

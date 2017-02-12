@@ -1,0 +1,1 @@
+  - global ProblemsView for compiler, initial, - ErrorTreeView legacy code removed, minor fixes - filter VFS events that may trigger automake  

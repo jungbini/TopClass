@@ -1,0 +1,1 @@
+  Fixed bug on index when the memory is low: the runtime OLowMemoryException was thrown in places where it wasn't caught. Fixed.  

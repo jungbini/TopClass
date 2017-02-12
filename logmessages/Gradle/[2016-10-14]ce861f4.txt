@@ -1,0 +1,1 @@
+  - A fair lock is now used for the workQueue in CacheAccessWorker and it should fix the original problem. It's now possible to to revert the temporary change (8034a8cb).  

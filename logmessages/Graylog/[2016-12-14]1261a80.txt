@@ -1,0 +1,1 @@
+  Index set UI fixes (#3203)  * Sort index sets by title, not by date * Do not show the rotation/retention form for non-writable index sets  

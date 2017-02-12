@@ -1,0 +1,1 @@
+  deletable notifications. fixes #229  

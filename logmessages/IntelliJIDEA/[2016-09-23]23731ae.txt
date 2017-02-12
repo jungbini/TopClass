@@ -1,0 +1,1 @@
+  java convert to atomic intention: assignment conversion fix IDEA-161639  

@@ -1,0 +1,1 @@
+  Move ShowDashboardPage to proper location and fix AppRouter references.  

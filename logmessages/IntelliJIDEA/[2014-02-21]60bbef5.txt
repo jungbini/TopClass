@@ -1,0 +1,1 @@
+  fixed PY-12147 Can't rerun failed tests if using Django 1.6 and django_nose  

@@ -1,0 +1,1 @@
+  Proper fix for PHP formatter test: testReformatEA19269_1 (attribute values are never reformatted)  

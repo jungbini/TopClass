@@ -1,0 +1,1 @@
+  fix indent in specific case after PSI modifications (PY-1796)  

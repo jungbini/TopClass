@@ -1,0 +1,1 @@
+ Highlighting of keywords with parens, fixes #2099  

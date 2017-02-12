@@ -1,0 +1,1 @@
+  restore ability to open several *.ipr projects located in the same directory, assertion fixed (IDEA-160564)  

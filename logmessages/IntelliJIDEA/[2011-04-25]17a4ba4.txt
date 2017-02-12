@@ -1,0 +1,1 @@
+  tree bug with removeAllHighlighters() and more thread safe  

@@ -1,0 +1,1 @@
+  IDEA-165193 Provide a quick-fix to replace String concatenation in loop with StringBuilder  

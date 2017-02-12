@@ -1,0 +1,1 @@
+  Avoid columns moving on user filter  Fix size of user-type column to fix the problem.  

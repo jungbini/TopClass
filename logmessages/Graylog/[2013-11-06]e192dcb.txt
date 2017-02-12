@@ -1,0 +1,1 @@
+  first iteration of LDAP support  basic copying of users from LDAP to MongoDB on authentication works currently only plain-text passwords are support from LDAP if LDAP is turned off the current implementation still allows those users to authenticate, this will be fixed in the next iteration.  issue Graylog2/graylog2-web-interface#266  

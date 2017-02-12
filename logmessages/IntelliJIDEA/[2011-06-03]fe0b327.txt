@@ -1,0 +1,1 @@
+  fixed PY-3783 Docstring: caret position is out of the docstring when generating plain docstring with space  

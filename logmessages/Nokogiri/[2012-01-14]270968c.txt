@@ -1,0 +1,1 @@
+  Downgrade to hoe-debugging 1.0.1  1.0.2 causes `rake` to fail:  https://github.com/jbarnette/hoe-debugging/issues/1  

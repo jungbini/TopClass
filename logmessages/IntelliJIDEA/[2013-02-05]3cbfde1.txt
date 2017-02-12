@@ -1,0 +1,1 @@
+  proper fix for PY-8699 "Specify return type/docstring" option modifies python sources  

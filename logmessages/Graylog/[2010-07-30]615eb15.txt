@@ -1,0 +1,1 @@
+  fixed ugly folder name in tar'd release  

@@ -1,0 +1,1 @@
+  PsiBundle: fix typo in bundle name, cleanup  

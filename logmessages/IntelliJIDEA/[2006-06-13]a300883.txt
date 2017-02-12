@@ -1,0 +1,1 @@
+  quick fix; reduce size of Choose Locale button  

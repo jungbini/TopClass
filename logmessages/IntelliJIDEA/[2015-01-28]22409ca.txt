@@ -1,0 +1,1 @@
+  WEB-14888 Firefox debugger: variable is not added in the list "Local" if it was declared as a passed parameter  

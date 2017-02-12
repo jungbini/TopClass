@@ -1,0 +1,1 @@
+  yet another issue with smart psi pointer in injected language, in this time due to prefix  

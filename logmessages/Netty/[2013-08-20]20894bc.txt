@@ -1,0 +1,1 @@
+  Fix a bug in internalNioBuffer() implementations of derived buffers  - A user can create multiple duplicates of a buffer and access their internal NIO buffers. (e.g. write multiple duplicates to multiple channels assigned to 

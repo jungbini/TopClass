@@ -1,0 +1,1 @@
+  Port fix for #649. Also included minor fixes (sessionSupport config issue)  

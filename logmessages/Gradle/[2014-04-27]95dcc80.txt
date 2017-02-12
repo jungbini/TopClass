@@ -1,0 +1,1 @@
+  Change ResourcePattern implementations so they can produce properly encoded URIs for artifact locations. Still needs fixing for version lists and Maven snapshots.  - Changed ExternalResourceRepository to use URI instead of String to identify resources.  

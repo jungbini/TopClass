@@ -1,0 +1,1 @@
+  fixed sphinx-quickstart for multi-module project  fixed PY-10237 Sphinx quickstart action should take module from datacontext instead of using modules[0]  

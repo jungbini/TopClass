@@ -1,0 +1,1 @@
+  IDEA-60932 Support Groovy expressions in debugger expression evaluation - fix for non static context  

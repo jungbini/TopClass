@@ -1,0 +1,1 @@
+  KAFKA-3602; Rename RecordAccumulator dequeFor() and fix usage  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Grant Henke <granthenke@gmail.com>, Ashish Singh <asingh@cloudera.com>, Ismael Juma <ismael@juma.me.uk>  Closes #1254 from hachikuji/KAFKA-3602  

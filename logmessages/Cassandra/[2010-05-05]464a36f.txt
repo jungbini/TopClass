@@ -1,0 +1,1 @@
+  merging fixes from 0.6  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@941481 13f79535-47bb-0310-9956-ffa450edef68  

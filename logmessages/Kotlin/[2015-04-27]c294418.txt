@@ -1,0 +1,1 @@
+  fix JetPsiUtil.deleteClass() so that it no longer tries to delete the entire file when deleting a nested class or object #KT-7483 Fixed  

@@ -1,0 +1,1 @@
+  done v8 debugger scriptParsed event (omit startLine/Column if equals to 0)  

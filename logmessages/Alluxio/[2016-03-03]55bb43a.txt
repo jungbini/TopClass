@@ -1,0 +1,1 @@
+  Fix the bug where BlockInfo tab cannot be activated  

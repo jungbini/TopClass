@@ -1,0 +1,1 @@
+  fix for IDEADEV-3522 and some other changes from the InspectionGadgetsIridaI18N branch  

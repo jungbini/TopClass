@@ -1,0 +1,1 @@
+  PY-18928 fix multiline comments folding to handle custom folding regions correctly  

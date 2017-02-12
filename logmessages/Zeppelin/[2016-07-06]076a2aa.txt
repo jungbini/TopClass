@@ -1,0 +1,1 @@
+changeColWidth ddbb04a [Damien CORNEAU] Fix setting change width 7d471c0 [Damien CORNEAU] Add parameter to changeColWidth and check value  

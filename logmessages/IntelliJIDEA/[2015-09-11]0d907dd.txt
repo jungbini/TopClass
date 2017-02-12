@@ -1,0 +1,1 @@
+  assert in tests that just created PsiAnchors can always be restored back fix java/drools case with classes physical for no good reason (EA-72352 - assert: SymbolCollectingProcessor$ResultWithContext.getElement)  

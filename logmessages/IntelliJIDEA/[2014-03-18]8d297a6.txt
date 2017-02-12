@@ -1,0 +1,1 @@
+  AppCode: fixed some shortcuts in the Xcode keymap OC-7210 +review CR-OC @Anton.Makeev  

@@ -1,0 +1,1 @@
+  A test for nesting implicitly labeled calls  The actual error message should be "return not allowed", but due to a bug in label resolution it is "unresolved reference"  

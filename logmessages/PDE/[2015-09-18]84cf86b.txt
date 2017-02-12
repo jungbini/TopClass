@@ -1,0 +1,1 @@
+  fix more fake bold, version detection code that should not be there, other cleanups  

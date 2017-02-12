@@ -1,0 +1,1 @@
+  fixed PY-2593 Redundant parentheses inspection should have option to ignore tuple used in 'return' statement  

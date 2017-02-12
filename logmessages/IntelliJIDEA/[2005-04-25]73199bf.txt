@@ -1,0 +1,1 @@
+  fix: editor frame title is not updated when clicking on tabs with mouse  

@@ -1,0 +1,1 @@
+  fixed error in calculating string len for readMemory.  

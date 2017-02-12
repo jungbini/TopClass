@@ -1,0 +1,1 @@
+  verify some bug run at raspberry pi 3  

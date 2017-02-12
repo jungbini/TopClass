@@ -1,0 +1,1 @@
+  double emit bug fixed. minor work on memory management in EdgeListInputFormat.  

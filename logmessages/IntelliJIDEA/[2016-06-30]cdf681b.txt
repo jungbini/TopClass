@@ -1,0 +1,1 @@
+  ui: fix "Analyze Stacktrace" action does not activate toolwindow with new content  activate toolwindow even if focus cannot be transfered right now  

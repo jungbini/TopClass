@@ -1,0 +1,1 @@
+  revert "IDEA-89266 fix storing of default html doctype"  

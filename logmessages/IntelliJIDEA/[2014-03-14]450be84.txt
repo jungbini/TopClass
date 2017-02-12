@@ -1,0 +1,1 @@
+  IDEA-118548 Applied "locale settings for Mac" fix to CmdVersionClient  

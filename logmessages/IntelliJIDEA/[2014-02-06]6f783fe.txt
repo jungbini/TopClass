@@ -1,0 +1,1 @@
+  fixed PY-12052 Can't run django tests with nosetests because of `nose_utils` not found.  

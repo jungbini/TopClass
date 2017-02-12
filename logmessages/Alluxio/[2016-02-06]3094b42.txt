@@ -1,0 +1,1 @@
+  Smallfix of Chinese version of doc page 'Hadoop MapReduce'  

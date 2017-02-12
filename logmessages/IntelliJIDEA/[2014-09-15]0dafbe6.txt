@@ -1,0 +1,1 @@
+  parse entities within comments properly #WEB-13290 fixed  

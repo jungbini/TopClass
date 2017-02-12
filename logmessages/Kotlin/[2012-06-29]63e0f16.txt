@@ -1,0 +1,1 @@
+ re-enabled compiling to JS test cases now we've fixed the compilation of the latest comparator based standard library code  

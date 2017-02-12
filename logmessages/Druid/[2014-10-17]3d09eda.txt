@@ -1,0 +1,1 @@
+  fix rabbit serde and add tests; fixes #794  

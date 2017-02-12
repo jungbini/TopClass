@@ -1,0 +1,1 @@
+  EA-79420 - replace key/value delimiter fixed for new property parsing  

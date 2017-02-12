@@ -1,0 +1,1 @@
+  fixing range of erroneous elements and http://www.jetbrains.net/jira/browse/IDEADEV-7463  

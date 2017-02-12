@@ -1,0 +1,1 @@
+  IDEA-146276 Memory leak in AsyncResult.REJECTED : very safe fix (not cherry-picked, but special safe fix (master contains complete fix (we should not use it at alll)))  

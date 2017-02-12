@@ -1,0 +1,1 @@
+  fixed failed test in SimplifyBooleanCheck  

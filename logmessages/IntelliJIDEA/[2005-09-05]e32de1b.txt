@@ -1,0 +1,1 @@
+  searching for chenges of constants in make is now cancellable + i18n for debugger  

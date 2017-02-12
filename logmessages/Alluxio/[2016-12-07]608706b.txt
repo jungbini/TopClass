@@ -1,0 +1,1 @@
+ Merge pull request #4420 from madanadit/ufs-test-2  [SMALLFIX] Misc. fixes for integration test suite on Object Stores  commit 608706b3dfcf42e399f43c6160ae63d22e9bc377  Fix journal bug when the number of bytes read from InputStream < buffer length specified  

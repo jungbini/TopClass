@@ -1,0 +1,1 @@
+  trait field searching test fixed  

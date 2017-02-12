@@ -1,0 +1,1 @@
+  fixed PY-7883 Doctest: decrease severity for errors in doctest to warnings  

@@ -1,0 +1,1 @@
+  fix(server:core): fix counters; fix reads; dont allow kicked user to send messages in group  

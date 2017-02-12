@@ -1,0 +1,1 @@
+  Modify the RefasterJS CLI tool to be able to modify files directly from the suggested fixes from the refactoring. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=75037969  

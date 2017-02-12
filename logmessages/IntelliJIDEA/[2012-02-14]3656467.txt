@@ -1,0 +1,1 @@
+  possibility to put fixed property values in AttributesDefaults  

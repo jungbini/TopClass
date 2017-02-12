@@ -1,0 +1,1 @@
+  WI-1939: PHP debugger: Frames view: "Loading..." item on hitting a breakpoint  

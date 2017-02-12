@@ -1,0 +1,1 @@
+  fix reset multiple selection in trees on VK_DOWN  

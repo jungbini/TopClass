@@ -1,0 +1,1 @@
+  properly handles obj files w/out materials, fixes issue 1081  

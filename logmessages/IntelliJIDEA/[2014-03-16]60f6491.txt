@@ -1,0 +1,1 @@
+  prepare to fix WEB-7303  reduce dependency on ExtBackedChromeConnection, add node-webkit icons  

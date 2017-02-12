@@ -1,0 +1,1 @@
+  properly unescape %xx sequences (fix starting IDEA from folder containing non-latin chars)  

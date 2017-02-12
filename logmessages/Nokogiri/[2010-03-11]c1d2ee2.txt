@@ -1,0 +1,1 @@
+ using rbconfig rather than java.lang for windows detection. fixes #239  

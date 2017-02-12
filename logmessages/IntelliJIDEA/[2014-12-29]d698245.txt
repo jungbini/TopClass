@@ -1,0 +1,1 @@
+  editor: fix range folding by mouse in mirrored editor  

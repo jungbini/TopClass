@@ -1,0 +1,1 @@
+  update descriptions and added tooltips. fixed small bug regarding standard value  

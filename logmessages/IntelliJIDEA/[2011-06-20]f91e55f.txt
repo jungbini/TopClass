@@ -1,0 +1,1 @@
+  IDEA-70629 Quick-fixes list position is not in sync with bulb position  

@@ -1,0 +1,1 @@
+  Allow to configure recent_index  Not recommended and not in default config file. fixes #126  

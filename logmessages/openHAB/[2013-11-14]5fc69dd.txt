@@ -1,0 +1,1 @@
+  insteonhub binding: fixed "hold dim" overloads queue issue  

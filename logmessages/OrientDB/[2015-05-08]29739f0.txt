@@ -1,0 +1,1 @@
+  fixed issue #4109 - SQL parser update on embedded maps  

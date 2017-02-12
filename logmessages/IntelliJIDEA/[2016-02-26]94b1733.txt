@@ -1,0 +1,1 @@
+  Python real SDK test fix: double skeleton generation removed  

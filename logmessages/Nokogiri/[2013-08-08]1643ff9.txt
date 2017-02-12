@@ -1,0 +1,1 @@
+ Fix iconv prefix detection.  - Make preserving_globals *actually* preserve the original values.  - Prepend parameters rather than appending them.  

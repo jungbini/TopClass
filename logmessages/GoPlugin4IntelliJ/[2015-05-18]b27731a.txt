@@ -1,0 +1,1 @@
+  The autocomplete creates parentheses instead a brackets in slice's custom types, fix #1627  

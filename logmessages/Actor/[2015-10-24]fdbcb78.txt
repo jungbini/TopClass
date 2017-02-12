@@ -1,0 +1,1 @@
+  fix(android): change nick replace dialog with activity  

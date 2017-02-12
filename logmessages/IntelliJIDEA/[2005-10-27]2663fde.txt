@@ -1,0 +1,1 @@
+  " I'm unable to use multi-select in the Project tree" - fixed  

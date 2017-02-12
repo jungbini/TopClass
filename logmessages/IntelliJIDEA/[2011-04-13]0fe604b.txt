@@ -1,0 +1,1 @@
+  XDebugger: auto-focusing Console/Frames tabs when necessary (like in Java-debugger)  

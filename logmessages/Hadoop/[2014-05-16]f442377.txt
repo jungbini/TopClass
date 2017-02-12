@@ -1,0 +1,1 @@
+  Merge r1595116 from trunk. YARN-2053. Fixed a bug in AMS to not add null NMToken into NMTokens list from previous attempts for work-preserving AM restart. Contributed by Wangda Tan  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1595117 13f79535-47bb-0310-9956-ffa450edef68  

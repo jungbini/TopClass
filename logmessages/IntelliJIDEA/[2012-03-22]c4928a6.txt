@@ -1,0 +1,1 @@
+  fixed PY-5527 Move statement: unnecessary pass statement on moving one-line comment out of indented block  

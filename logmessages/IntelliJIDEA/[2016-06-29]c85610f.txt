@@ -1,0 +1,1 @@
+  prioritize compatible file types #WEB-7856 fixed  

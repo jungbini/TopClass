@@ -1,0 +1,1 @@
+ Merge pull request #545 from deeplearning4j/mw_fix_tests  Fix BaseLayer, TestOptimizers & BackTrackLineSearch nn apis in tests  commit c06621694751ae54dc62b8acfc8760dd0fcaa8b2  fix intiailization of layers (allow only 1 layer if neccessary  

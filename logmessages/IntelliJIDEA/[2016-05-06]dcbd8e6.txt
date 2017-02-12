@@ -1,0 +1,1 @@
+  git: better names for script files  * no hyphen is needed, since there is no number anymore. * add "intellij" prefix to clarify the origin of the script  

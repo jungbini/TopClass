@@ -1,0 +1,1 @@
+  Added @Nested to reports on codenarc task to fix broken incremental support.  Also added a test and removed some semicolons.  

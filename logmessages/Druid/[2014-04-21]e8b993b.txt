@@ -1,0 +1,1 @@
+ Merge pull request #494 from metamx/fix-bysegment-results  fix bySegmentResults  commit e8b993b765226864bab3df183c9cbd43b25503d8  fix by segment results  1) fix class cast in by segment results 2) exclude old netty version coming from curator  

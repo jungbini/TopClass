@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=50 ("NPE in BroadcastConfig")  Fix trival NPE  

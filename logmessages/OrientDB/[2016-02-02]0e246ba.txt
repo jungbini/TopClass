@@ -1,0 +1,1 @@
+  fixed issue on create index in case of no property declared and no type specified  

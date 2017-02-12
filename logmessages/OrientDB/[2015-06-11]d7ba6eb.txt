@@ -1,0 +1,1 @@
+  fixed issue #3675 - Error parsing dates of schemaless embedded documents  

@@ -1,0 +1,1 @@
+  Fixes and gradient checks for 'fixed gamma/beta' case for batch norm  

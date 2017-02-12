@@ -1,0 +1,1 @@
+  check if file is on local filesystem fixes #30 fixes #27  

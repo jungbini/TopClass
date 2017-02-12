@@ -1,0 +1,1 @@
+  Mentioned contributor who fixed the nested configuration resolution issue in the release notes.  

@@ -1,0 +1,1 @@
+  fixed (PY-2481) "Replace assigment with augmented assignment" break code  

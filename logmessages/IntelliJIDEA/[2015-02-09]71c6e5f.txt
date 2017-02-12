@@ -1,0 +1,1 @@
+  IDEA-126386 Update eclipse logo, re-fix EclipseIcons  

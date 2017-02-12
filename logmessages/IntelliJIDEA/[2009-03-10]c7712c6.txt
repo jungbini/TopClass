@@ -1,0 +1,1 @@
+  IDEADEV-35167 (Confusing "confusing floating-point literal" and wrong quick-fix)  

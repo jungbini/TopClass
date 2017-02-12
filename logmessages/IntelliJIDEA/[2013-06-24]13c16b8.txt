@@ -1,0 +1,1 @@
+  GitConfig: use ContainerUtil instead of Guava's Collections2  ContainerUtil's methods are enough here, while Guava's FilteredCollection doesn't override equals(), and is more 

@@ -1,0 +1,1 @@
+  IDEA-160000 separate "cherry picked" suffix by empty line  Not to mix it with the subject.  

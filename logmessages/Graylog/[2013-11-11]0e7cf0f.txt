@@ -1,0 +1,1 @@
+  search result field search box. fixes #373  

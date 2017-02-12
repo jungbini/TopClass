@@ -1,0 +1,1 @@
+  fix for trailing "/**" in ant patterns: base directory must be included (IDEADEV-17725)  

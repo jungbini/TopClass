@@ -1,0 +1,1 @@
+  ui: remove duplication  this also fixes mnemonics not being copied  

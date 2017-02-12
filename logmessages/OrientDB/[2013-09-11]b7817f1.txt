@@ -1,0 +1,1 @@
+  Fixed bug on Hazelcast members where the IP address can't be retrieved (using hostnames)  

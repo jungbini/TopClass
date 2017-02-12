@@ -1,0 +1,1 @@
+  compilation fix after community/ultimate tests refactorings  

@@ -1,0 +1,1 @@
+ Merge pull request #758 from kgoderis/sonos  Minor Sonos binding fixes cfr Pauli's feedback on pre-1.4 modifications  commit 8ceee1feb2dfb8e9faa7a27d7d8763bda9886592  Update debug messages on M & H messages to the prefered stryle Fixes connection errors for updates prior to completion of the configuration loading.  

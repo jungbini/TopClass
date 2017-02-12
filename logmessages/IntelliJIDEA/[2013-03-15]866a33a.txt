@@ -1,0 +1,1 @@
+  javafx packager: fix deploy args  

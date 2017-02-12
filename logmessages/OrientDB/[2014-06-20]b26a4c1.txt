@@ -1,0 +1,1 @@
+  fixed binary serilization of map with null value. issue #681  

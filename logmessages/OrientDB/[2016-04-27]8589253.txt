@@ -1,0 +1,1 @@
+  Issue #6038 OSBtreeBigValuesWAL was partially fixed.  

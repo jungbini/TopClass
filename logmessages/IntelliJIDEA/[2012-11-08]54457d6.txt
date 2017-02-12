@@ -1,0 +1,1 @@
+  fixed   PY-7965 Doctest: Missing closing quote: false positive for the last doctest with string assignment  

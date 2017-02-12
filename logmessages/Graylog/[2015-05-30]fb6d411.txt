@@ -1,0 +1,1 @@
+  styling for thread dump page. fixes #1379  

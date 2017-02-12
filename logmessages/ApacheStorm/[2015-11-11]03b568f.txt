@@ -1,0 +1,1 @@
+  Some more fixes to the test so they shutdown correctly.  

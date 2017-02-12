@@ -1,0 +1,1 @@
+  Make final quickfix for "Non-final field in enumeration" inspection (IDEA-99314)  

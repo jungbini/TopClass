@@ -1,0 +1,1 @@
+  HDFS-8116. Cleanup uncessary if LOG.isDebugEnabled() from RollingWindowManager. Contributed by Brahma Reddy Battula.  

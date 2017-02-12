@@ -1,0 +1,1 @@
+ Revert until tests are fixed: Add compile dependency to the :plugins project  +review REVIEW-5418  

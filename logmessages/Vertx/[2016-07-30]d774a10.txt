@@ -1,0 +1,1 @@
+  test for #1511 Proxying - Host header not formed properly  test that proxy connect requests have the Host header set to the target host, not the the proxy host  issue was fixed in netty, this is only the unit test for it.  Signed-off-by: alexlehm <alexlehm@gmail.com>  

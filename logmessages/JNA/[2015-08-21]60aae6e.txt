@@ -1,0 +1,1 @@
+ Merge pull request #493 from java-native-access/javadoc-warning-fixes  Reduce overall Javadoc noise  commit 60aae6edeb4c85d4063da304ac9e604cfb60f39a  fix/silence javadoc warnings  

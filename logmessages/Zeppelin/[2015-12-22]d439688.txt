@@ -1,0 +1,1 @@
+arch: docs - keeping alphabetical order of interpreters 43ffcf9 [Alexander Bezzubov] Elasticsearch: docs - fix GFM markdown syntax b7be462 [Alexander Bezzubov] Elasticsearch: docs - fix image size 243b0d1 [Alexander Bezzubov] Elasticsearch: docs - add interpreter to navigation menu  

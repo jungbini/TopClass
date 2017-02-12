@@ -1,0 +1,1 @@
+  fix ellipse problems with P3D and OPENGL (bug #1086)  

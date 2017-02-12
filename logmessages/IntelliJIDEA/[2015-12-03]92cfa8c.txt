@@ -1,0 +1,1 @@
+  java inspections:  inspection for identical branches for conditional expressions  extended to highlight and fix branches which 

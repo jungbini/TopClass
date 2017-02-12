@@ -1,0 +1,1 @@
+  Allow to edit alert conditions, fixes #493  

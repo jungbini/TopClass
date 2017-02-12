@@ -1,0 +1,1 @@
+  Some fixes for handling restricted characters in text content.  

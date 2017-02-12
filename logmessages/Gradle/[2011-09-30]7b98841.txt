@@ -1,0 +1,1 @@
+  First stab at custom conflict resolution strategies. Currently one can configure them in the dependencies section of the build. It's not yet documented properly because I don't know what's going to be the final shape of DSL (guys, give feedback!).  Remaining important items: - decide on DSL - fix the error handling so that the build fails gracefully  

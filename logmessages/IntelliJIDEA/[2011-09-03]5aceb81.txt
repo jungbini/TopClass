@@ -1,0 +1,1 @@
+  1. fixed [RUBY-9283] Support CoffeeScript in bundled color schemes 2. bundled schemes updated because converter was improved.  

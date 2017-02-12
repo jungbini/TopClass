@@ -1,0 +1,1 @@
+ bug fixed for abstract class method overrride. issue #744  

@@ -1,0 +1,1 @@
+  Corrected hadoop-yarn/CHANGES.txt. YARN-2019 is moved to bug fixes, and YARN-3727 is moved to improvements.  

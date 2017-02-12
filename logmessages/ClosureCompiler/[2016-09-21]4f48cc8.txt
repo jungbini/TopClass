@@ -1,0 +1,1 @@
+  Restore ArrayDeque supersource, as GWT 2.8.0-rc1 doesn't have the fix.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=133834975  

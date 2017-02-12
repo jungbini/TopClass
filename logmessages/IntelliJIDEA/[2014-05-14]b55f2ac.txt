@@ -1,0 +1,1 @@
+  WEB-6779 JS Debugger / Variables: Automatically show used variables: mutability  

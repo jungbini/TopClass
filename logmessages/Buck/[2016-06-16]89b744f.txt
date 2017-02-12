@@ -1,0 +1,1 @@
+  elf: fix `isElf` on empty/small files  Summary: Previously we'd just die with a `BufferUnderflowException` when the buffer size was smaller than the size of the Elf magic marker.  Test Plan: added test  Reviewed By: yiding  fbshipit-source-id: 766b929  

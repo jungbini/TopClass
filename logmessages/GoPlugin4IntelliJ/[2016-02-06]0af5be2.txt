@@ -1,0 +1,1 @@
+  [parser] better recover for statements, don't take case into account  prevent stub mismatch fix #2311  

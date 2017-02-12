@@ -1,0 +1,1 @@
+  misc fixes on tree selection + small fix for ptoject view update  

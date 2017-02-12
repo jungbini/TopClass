@@ -1,0 +1,1 @@
+  fix subtle concurrency bug between cancelling a timer and schedule-recurring  

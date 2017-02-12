@@ -1,0 +1,1 @@
+  HADOOP-11381. Fix findbugs warnings in hadoop-distcp, hadoop-aws, hadoop-azure, and hadoop-openstack. Contributed by Li Lu.  

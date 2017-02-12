@@ -1,0 +1,1 @@
+  fixed parsing el in inline javascript  

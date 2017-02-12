@@ -1,0 +1,1 @@
+  Tests on add global quickfix added  

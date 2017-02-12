@@ -1,0 +1,1 @@
+  Implementing a basic hack for basic auth.  P.S.: The injection of public(!) static(!) members in Global.java is terrible. Needs to be fixed.  

@@ -1,0 +1,1 @@
+  [hg]: fix date format parsing (EA-84368, EA-84214, EA-84212, EA-83819, EA-83808)  * SimpleDateFormat.parse is not thread-safe; use DateTimeFormatter or avoid parsing at all; * cleanUp lambda;  

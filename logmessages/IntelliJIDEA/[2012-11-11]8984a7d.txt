@@ -1,0 +1,1 @@
+e push dialog, and to show the number of pushed commits in the notification); and, actually, pushing.  That way, construct GitPushSpecs with an additional parameter per repository: should this repository be pushed or just displayed.  

@@ -1,0 +1,1 @@
+  fixed PY-3328 Argument equals to default parameter value: in non-keyword form qf can be envoked only on the last argument  

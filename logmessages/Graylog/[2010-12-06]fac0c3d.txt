@@ -1,0 +1,1 @@
+  more unit tests. machinist now available for activerecord. fixed bug in hostgroups controller that broke checks  

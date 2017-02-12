@@ -1,0 +1,1 @@
+  Re-enable use of ##BufferedOutputStream## in ##OverwritingZipOutputStream##  Summary: There appears to be a bug in ##CustomZipOutputStream## which only closes entries when a new entry is put.  This leaves the last entry un-closed which, when used with a ##BufferedOutputStream## meant that it was never flushed to the underlying file, and the entry was unwritten.  This 

@@ -1,0 +1,1 @@
+  Move -frandom-seed= into a feature.  One more thing that doesn't work on Windows is gone.  As a drive-by fix, also remove usePic from CppCompileAction since it's not needed anymore.  -- MOS_MIGRATED_REVID=123099120  

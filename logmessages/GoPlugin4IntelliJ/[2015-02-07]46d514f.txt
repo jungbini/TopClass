@@ -1,0 +1,1 @@
+  Fold whole import list + make it default folding  #1259 fixed  

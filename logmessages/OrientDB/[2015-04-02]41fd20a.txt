@@ -1,0 +1,1 @@
+  fix issue in case of drop of a cluster associated to a class, issue #3434  

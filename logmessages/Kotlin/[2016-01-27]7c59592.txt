@@ -1,0 +1,1 @@
+  Quickfix for "Expression cannot be invoked as a function" with no arguments to remove parentheses #KT-10825 Fixed  

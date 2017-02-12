@@ -1,0 +1,1 @@
+  Merge -c 1529538 from trunk to branch-2.1-beta to fix YARN-1090. Fixed CS UI to better reflect applications as non-schedulable and not as pending. Contributed by Jian He.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1529540 13f79535-47bb-0310-9956-ffa450edef68  

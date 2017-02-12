@@ -1,0 +1,1 @@
+  Fix incorrect apidoc for 'kotlin'  KDoc was confused because now there are two package fragments for package 'kotlin' (built-ins and stdlib). KDoc's KPackage now has a list of descriptors, not only one.  This fixes missing documentation for top-level members in package 'kotlin' in the apidoc  #KT-2521 Fixed  

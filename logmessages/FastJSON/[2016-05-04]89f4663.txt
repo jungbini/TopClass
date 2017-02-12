@@ -1,0 +1,1 @@
+  bug fixed for Enum custom ObjectSerializer, for issue 607. https://github.com/alibaba/fastjson/issues/607  

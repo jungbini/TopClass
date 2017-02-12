@@ -1,0 +1,1 @@
+  KT-2583 Support *Range.EMPTY  #KT-2583 fixed  

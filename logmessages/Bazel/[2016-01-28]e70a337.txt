@@ -1,0 +1,1 @@
+  Minor formatting fixes in code listings in Bazel CI blog post.  Removes extraneous '\' characters before shell script comments.  -- MOS_MIGRATED_REVID=113239711  

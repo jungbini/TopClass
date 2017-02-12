@@ -1,0 +1,1 @@
+  after common prefix insertion, frozen items may suddenly disappear from the lookup model (EA-27207)  

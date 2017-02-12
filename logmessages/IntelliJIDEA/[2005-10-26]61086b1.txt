@@ -1,0 +1,1 @@
+  fixed blinking of jsp directive names to cover html tags  

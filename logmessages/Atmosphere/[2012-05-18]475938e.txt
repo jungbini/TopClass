@@ -1,0 +1,1 @@
+  Fix: Pass request/response wrappers to startAsync (fixes #368)  + startAsync() will store unwrapped request/response objects, so we need to call startAsync(req, res) instead + fixes ClassCastExceptions in CometListener when timeout or error events are handled  

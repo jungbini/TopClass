@@ -1,0 +1,1 @@
+  Remove 'inner enum' hack & fix Java inner class resolve  Inner enum was placed into the class object of the outer class. Remove the hack from frontend, frontend.java & backend. Fix tests  #KT-1174 In Progress  

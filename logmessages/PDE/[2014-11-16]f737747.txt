@@ -1,0 +1,1 @@
+ Merge pull request #6 from codeanticode/master  preprocessor parses sketchWidth/Height/Renderer, fixed error handling  commit f737747c0420d4766ca5e84a48d2697313c88421  last min fix  

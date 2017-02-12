@@ -1,0 +1,1 @@
+  scopes order fix (IDEADEV-37056)  

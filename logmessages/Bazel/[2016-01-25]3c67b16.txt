@@ -1,0 +1,1 @@
+  Suggest using release tag when running generate_workspace  Apropos issue #776. This hint in the doc would have saved me from filing a bogus bug.  -- Reviewed-on: https://github.com/bazelbuild/bazel/pull/778 MOS_MIGRATED_REVID=112972220  

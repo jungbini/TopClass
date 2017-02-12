@@ -1,0 +1,1 @@
+  Fixed bug on binding date types from JSON  

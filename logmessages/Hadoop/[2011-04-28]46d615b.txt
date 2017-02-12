@@ -1,0 +1,1 @@
+  HBASE-1502 Aftermath; fix up of broke tests.  Fix TestMultiParallel.  HRegionLocation compare should do Location part only, not include HRI that its carrying  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1097327 13f79535-47bb-0310-9956-ffa450edef68  

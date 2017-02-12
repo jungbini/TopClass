@@ -1,0 +1,1 @@
+  fix(server:groups): send self as a member in fat update on group creation  

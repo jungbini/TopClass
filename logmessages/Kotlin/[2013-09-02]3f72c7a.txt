@@ -1,0 +1,1 @@
+  small fixes: case with function literal in a block  analyze function literals in 'independent' mode, todo comment added  

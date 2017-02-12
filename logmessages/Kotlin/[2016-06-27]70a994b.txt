@@ -1,0 +1,1 @@
+  Drop resolution of deprecated plus/minus/get/set conventions  Also remove the corresponding quick fix  

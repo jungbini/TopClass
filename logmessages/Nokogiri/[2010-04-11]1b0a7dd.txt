@@ -1,0 +1,1 @@
+  Refactor XmlNode#rbNew to call an overrideable init method to standardize initialization behavior.  Implement init methods to fix errors in test_subclass.rb.  

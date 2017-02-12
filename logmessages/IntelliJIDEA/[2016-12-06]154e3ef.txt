@@ -1,0 +1,1 @@
+  Test Hash comparisons using assertThat  which makes failure messages and assertion code more readable, and avoids http://errorprone.info/bugpattern/SelfEquals.  

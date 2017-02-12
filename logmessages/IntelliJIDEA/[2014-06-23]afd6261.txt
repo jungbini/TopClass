@@ -1,0 +1,1 @@
+  Platform: OS X scrollbars: completion sorter position fixed when there are scrollbars  

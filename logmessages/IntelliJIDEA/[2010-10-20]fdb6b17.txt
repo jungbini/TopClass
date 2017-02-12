@@ -1,0 +1,1 @@
+  GTK preferred JComboBox renderer inspection fixed  

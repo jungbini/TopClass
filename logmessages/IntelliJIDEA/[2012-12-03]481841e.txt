@@ -1,0 +1,1 @@
+  product name fixed [r=maxim.mossienko]  

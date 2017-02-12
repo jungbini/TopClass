@@ -1,0 +1,1 @@
+  InsteonHub Binding: Quick-fix for bug for OPEN/CLOSE types generating wrong state. Need a better solution in the future.  

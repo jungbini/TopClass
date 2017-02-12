@@ -1,0 +1,1 @@
+  fix jdk verison check for sh/dash patch by Jackson Chung; reviewed by thobbs and jbellis for CASSANDRA-2499  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8@1095488 13f79535-47bb-0310-9956-ffa450edef68  

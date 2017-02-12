@@ -1,0 +1,1 @@
+  fix border in breakpoints panel + incoming changes indicator NPE  

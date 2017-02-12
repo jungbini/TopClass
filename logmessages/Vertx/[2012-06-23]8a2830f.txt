@@ -1,0 +1,1 @@
+ Merge pull request #236 from Narigo/test-bugfix  Using user.name system property instead of hardcoded "tim"  commit 8a2830fbb3ca0865c62ed90849f5a17141f52118  Minor bug fixes for new version.  

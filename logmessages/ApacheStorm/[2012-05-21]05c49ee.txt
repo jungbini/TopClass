@@ -1,0 +1,1 @@
+  added intelligent auto-batching for local tasks, need to fix tests (executor threads aren't getting shut down)  

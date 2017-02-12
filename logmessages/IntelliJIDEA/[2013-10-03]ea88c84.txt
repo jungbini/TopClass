@@ -1,0 +1,1 @@
+  fixed PY-11002 "Variable in function should be lowercase" when overriding class  Conflicts:  python/community/src/META-INF/python-core.xml  

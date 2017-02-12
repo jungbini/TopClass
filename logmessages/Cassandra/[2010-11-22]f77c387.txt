@@ -1,0 +1,1 @@
+  fix live-column-count of slice ranges including tombstoned supercolumn with live subcolumn patch by jbellis and Tyler Hobbs; reviewed by tjake for CASSANDRA-1591  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.6@1037847 13f79535-47bb-0310-9956-ffa450edef68  

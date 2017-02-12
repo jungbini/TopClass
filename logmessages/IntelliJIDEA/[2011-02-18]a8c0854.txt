@@ -1,0 +1,1 @@
+  IDEA-65218 Correct background fetch  Background fetch started only after the dialog was closed. To fix this run the background fetch task in the ModalityState of GitPushActiveBranchesDialog.  

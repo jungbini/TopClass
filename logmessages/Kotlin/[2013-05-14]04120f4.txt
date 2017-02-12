@@ -1,0 +1,1 @@
+  Delegate properties break "Debug..." and "Run..." actions when type is specified #KT-3594 Fixed  

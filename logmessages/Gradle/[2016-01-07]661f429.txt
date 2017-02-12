@@ -1,0 +1,1 @@
+  Specify MaxPermSize setting for forked compiler in test  - attempt to fix sporadic failures  

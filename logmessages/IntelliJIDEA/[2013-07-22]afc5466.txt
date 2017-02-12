@@ -1,0 +1,1 @@
+  fixed PY-10307 Locate Duplicates: anonymize fields is not taken into account  

@@ -1,0 +1,1 @@
+  Fix a documentation bug: missing macro.  Test Plan: Ran `./docs/soyweb.sh` locally and visited http://localhost:9811/rule/ndk_library.html to make sure that the link was correct.  

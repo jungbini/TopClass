@@ -1,0 +1,1 @@
+  Fixed ant compile bug with jdk1.6 (Ubuntu) and openjdk  

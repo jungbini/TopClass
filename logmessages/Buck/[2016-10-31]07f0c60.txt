@@ -1,0 +1,1 @@
+cb5c3a98579bd5daa3f3066a0fcda9d8f2e4a10d  It seems this has broken Infer integration again; same cause.  Though Infer is now passing `cxx.pch_enabled=false` this is still corrupting infer-driven builds (as the prefix header which should be included with `-include` is prevented by this code).  Test Plan: revert-hammer  Reviewed By: Coneko  fbshipit-source-id: c0ae95f  

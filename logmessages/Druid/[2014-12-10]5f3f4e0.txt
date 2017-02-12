@@ -1,0 +1,1 @@
+ prevent /status from redirect, fixes #953  

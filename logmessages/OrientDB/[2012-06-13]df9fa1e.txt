@@ -1,0 +1,1 @@
+  Fail of tests on IBM JDK was fixed.  

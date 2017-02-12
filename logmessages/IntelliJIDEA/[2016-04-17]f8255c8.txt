@@ -1,0 +1,1 @@
+  inspection tool window: invoke quick fix action is not available while view under update  

@@ -1,0 +1,1 @@
+  fix bash path to /bin/sh  #5627 freeBsd support  

@@ -1,0 +1,1 @@
+  fixed adding roots to library after pressing apply  

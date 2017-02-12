@@ -1,0 +1,1 @@
+  lightweight popup in cell editor fix  

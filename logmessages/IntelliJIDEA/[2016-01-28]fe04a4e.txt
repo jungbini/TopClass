@@ -1,0 +1,1 @@
+  Community Dist: IDE_JVM_ARGS fixed.  

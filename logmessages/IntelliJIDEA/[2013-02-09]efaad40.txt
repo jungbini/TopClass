@@ -1,0 +1,1 @@
+  RUBY-12899: \h and \H added to completion list for ruby #RUBY-12899 fixed  

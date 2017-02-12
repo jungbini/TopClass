@@ -1,0 +1,1 @@
+  fixes when pasting a multiline text into groovy literals  

@@ -1,0 +1,1 @@
+  refactor loading drools rules  rules or rules files that fail to compile are ignored and don't cause startup failures anymore  fixes #587 issue #499  

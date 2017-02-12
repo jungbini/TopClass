@@ -1,0 +1,1 @@
+  compiling evaluator - fixed evaluation inside inner classes  

@@ -1,0 +1,1 @@
+  dispose CodeStyleManager with project fixes #20 fixes #22 fixes #26 fixes #29 fixes #32  

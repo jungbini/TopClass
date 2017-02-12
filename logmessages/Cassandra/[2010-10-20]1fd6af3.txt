@@ -1,0 +1,1 @@
+  remove supercolumn option from cli list command; clean up grammar and fix limit support. patch by jbellis and Jim Ancona for CASSANDRA-1619  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1025623 13f79535-47bb-0310-9956-ffa450edef68  

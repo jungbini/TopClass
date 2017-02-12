@@ -1,0 +1,1 @@
+  Gephi: small fix to include only the edges that matters  

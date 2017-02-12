@@ -1,0 +1,1 @@
+  fixed PY-3782 Docstring: not generated in case EOF is right after opening triple-quote  

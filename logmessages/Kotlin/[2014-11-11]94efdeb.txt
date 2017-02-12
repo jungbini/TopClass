@@ -1,0 +1,1 @@
+ Quick-fix Test: Fix file path which is passed to the FileComparisonException (so that we can update test data using text comparison UI)  

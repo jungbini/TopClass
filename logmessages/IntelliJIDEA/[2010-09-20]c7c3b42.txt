@@ -1,0 +1,1 @@
+  fixed breakpoint removing (PY-1288)  

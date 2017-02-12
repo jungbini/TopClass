@@ -1,0 +1,1 @@
+  Resource Bundles: delete provider fixed when selected resource bundle count > 1  

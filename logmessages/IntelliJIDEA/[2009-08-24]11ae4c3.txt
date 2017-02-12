@@ -1,0 +1,1 @@
+  IDEADEV-39868: [#15930] IAE: XDebuggerManager.getInstance  

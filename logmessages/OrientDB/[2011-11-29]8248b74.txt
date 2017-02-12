@@ -1,0 +1,1 @@
+  Fix by Federico Fissore on JS Api encoding and using a custom suffix  

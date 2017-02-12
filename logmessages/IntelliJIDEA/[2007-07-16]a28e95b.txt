@@ -1,0 +1,1 @@
+  fix target element detection for enum constants (IDEADEV-19027)  

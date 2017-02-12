@@ -1,0 +1,1 @@
+  fix leveled BF size calculation patch by jbellis; tested by brandonwilliams for CASSANDRA-3234  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-1.0.0@1174364 13f79535-47bb-0310-9956-ffa450edef68  

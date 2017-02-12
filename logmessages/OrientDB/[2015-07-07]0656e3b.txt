@@ -1,0 +1,1 @@
+  fixed issue #3933 - On master with strictSql enabled, SQL query fails because of escaped newline  

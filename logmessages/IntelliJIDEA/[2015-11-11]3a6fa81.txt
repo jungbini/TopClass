@@ -1,0 +1,1 @@
+  CacheValue psi leak fixed  You can not capture any psi value (the one stored in context) in CachedValueProvider. Parameter should be used.  

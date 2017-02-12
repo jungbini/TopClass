@@ -1,0 +1,1 @@
+ Merge branch '1082' of https://github.com/zhuoliu/storm into STORM-1082  STORM-1082: fix nits for properties in kafka tests  commit bf0f3c011c610f2e81a561ae8e90d20bed8c79ad  Fix one bug in absolute-storm-local-dir function  

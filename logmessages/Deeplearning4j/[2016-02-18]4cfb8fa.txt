@@ -1,0 +1,1 @@
+ Merge pull request #1158 from deeplearning4j/ab_outputsoftmaxfix  Minor fix for BaseOutputLayer score calculation with softmax  commit 4cfb8fa3ba55e32d581cd159b1c9db922405c950  Minor fix for BaseOutputLayer score calculation with softmax  

@@ -1,0 +1,1 @@
+  backport fix for IDEA-112779 ISE at com.intellij.ide.util.gotoByName.ChooseByNameBase.getNames  

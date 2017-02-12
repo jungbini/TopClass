@@ -1,0 +1,1 @@
+  HDFS-167. Fix a bug in DFSClient that caused infinite retries on write.  Contributed by Bill Zeller   git-svn-id: https://svn.apache.org/repos/asf/hadoop/hdfs/trunk@799769 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  better parsing for build in functions, fix #1862  

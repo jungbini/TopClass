@@ -1,0 +1,1 @@
+  correct access flags for package private (coming from java) #KT-2781 fixed  

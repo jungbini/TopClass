@@ -1,0 +1,1 @@
+  fixed PY-6927 Paste always pastes copied text to the second indent level regardless caret position when pasting to the end of the function  

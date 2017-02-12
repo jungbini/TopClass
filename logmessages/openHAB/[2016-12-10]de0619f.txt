@@ -1,0 +1,1 @@
+  [satel] OH2 compatibility fixes (#4882)  

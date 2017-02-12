@@ -1,0 +1,1 @@
+ [caldav] update logging, add new parameter for caldav loading with invalid timestamps, fix rescheduling events  

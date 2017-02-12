@@ -1,0 +1,1 @@
+  fix xml resolving  - replace VirtualFileListener based approach with direct PsiFile reading  

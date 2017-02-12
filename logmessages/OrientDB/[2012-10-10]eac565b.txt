@@ -1,0 +1,1 @@
+  Fixed record level security bug: restricted class's records can't be truncated  

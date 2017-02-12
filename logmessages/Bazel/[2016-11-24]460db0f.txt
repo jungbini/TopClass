@@ -1,0 +1,1 @@
+  Make SkylarkAttr.Descriptor thread-safe.  Also fixes thread-unsafety in AttributeBuilder.build.  -- MOS_MIGRATED_REVID=140118866  

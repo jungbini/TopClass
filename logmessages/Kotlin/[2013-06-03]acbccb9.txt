@@ -1,0 +1,1 @@
+ Get asm from fixed idea build (jar with debug info and patched for java 8)  

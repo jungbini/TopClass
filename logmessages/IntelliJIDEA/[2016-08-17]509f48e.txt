@@ -1,0 +1,1 @@
+  fix deleting method contract while leaving it pure (IDEA-CR-13059, IDEA-158948)  

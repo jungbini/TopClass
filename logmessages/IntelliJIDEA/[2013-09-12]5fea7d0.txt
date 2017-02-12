@@ -1,0 +1,1 @@
+  fixed PY-6511 Augmented assignment quickfix treats & and | operators as non-commutative  

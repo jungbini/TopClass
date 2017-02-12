@@ -1,0 +1,1 @@
+  fix scope for search for tests in run configuration  

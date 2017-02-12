@@ -1,0 +1,1 @@
+  Fix owner permissions bug in unzip code  This situation arises when a zip file does not contain entries for the directories themselves, but only the files themselves.  -- MOS_MIGRATED_REVID=129072925  

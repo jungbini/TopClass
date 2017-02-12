@@ -1,0 +1,1 @@
+  gwt: fixed id resolving when gwt module is included into more than one html file  

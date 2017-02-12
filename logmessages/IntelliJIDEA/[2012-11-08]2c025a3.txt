@@ -1,0 +1,1 @@
+  fixed PY-7969 Replace + with string formatting operator: disable intention for expression with undefined types  

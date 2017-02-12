@@ -1,0 +1,1 @@
+  fix(iOS): Fixing create photo text placeholder, fix OTP keyboard  

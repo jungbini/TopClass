@@ -1,0 +1,1 @@
+ fix race condition - ensure that scheduling code is not called concurrently (this was a regression)  

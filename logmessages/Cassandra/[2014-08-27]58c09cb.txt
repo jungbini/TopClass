@@ -1,0 +1,1 @@
+  cqlsh: fix case insensitivity  Patch by Tyler Hobbs; review by Aleksey Yeschenko for CASSANDRA-7834  

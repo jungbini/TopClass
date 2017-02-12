@@ -1,0 +1,1 @@
+  fix security setup to make applets at least attempt to do the wrong thing in case the applet is signed  

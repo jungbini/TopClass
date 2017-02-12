@@ -1,0 +1,1 @@
+  IDEA-135058 Clicking "Click to see details" balloon does nothing (fix moveTo)  

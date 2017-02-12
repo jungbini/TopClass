@@ -1,0 +1,1 @@
+  fix for force the partitioned pool to respect the max for the number of underline instances created  

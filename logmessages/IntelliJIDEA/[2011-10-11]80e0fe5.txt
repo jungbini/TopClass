@@ -1,0 +1,1 @@
+  fixed: [RUBY-8960] don't show a full green bar when there are pending steps  

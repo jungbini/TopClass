@@ -1,0 +1,1 @@
+  fixing 2481 -> 3481 in changes.txt  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1064312 13f79535-47bb-0310-9956-ffa450edef68  

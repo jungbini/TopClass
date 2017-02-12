@@ -1,0 +1,1 @@
+ Merge pull request #742 from metamx/fix-ingest-segment  fix #732  commit f006de8639371e844451db9024bcf4c8823b45b6  fix #732  fix metric list discovery  

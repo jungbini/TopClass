@@ -1,0 +1,1 @@
+ Onkyo binding: Fixed bug, which prevented to use multiple receivers.  

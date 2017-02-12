@@ -1,0 +1,1 @@
+  insert common prefix by default, but only for explicit completion (for now)  

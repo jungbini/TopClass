@@ -1,0 +1,1 @@
+  do not escape all quotes in triple quoted string  fixed  PY-8926 Python: Conversion of docsting into recommended triple double-quoted form keeps doublequote at last position  

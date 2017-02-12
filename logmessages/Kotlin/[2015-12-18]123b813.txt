@@ -1,0 +1,1 @@
+  'Replace with infix call' Intention: Disable on calls without explicit receiver #KT-6332 Fixed  

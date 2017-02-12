@@ -1,0 +1,1 @@
+  Add config option for check interval in AlertScannerThread, fixes #713  

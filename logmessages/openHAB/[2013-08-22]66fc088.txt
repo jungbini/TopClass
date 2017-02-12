@@ -1,0 +1,1 @@
+  fixed ConfigParseException due to a non commented line - thanks Udo for mentioning!  

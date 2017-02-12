@@ -1,0 +1,1 @@
+  Fix 259, and make a few aesthetic improvements to braces. Haven't fixed orphaned else yet.  

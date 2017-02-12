@@ -1,0 +1,1 @@
+  - fixed issue with leaving error elements reporting for jsp insertions in some cases  

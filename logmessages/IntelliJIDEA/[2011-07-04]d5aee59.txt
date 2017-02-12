@@ -1,0 +1,1 @@
+  tree collapsing/expanding fix for mac  

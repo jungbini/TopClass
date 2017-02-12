@@ -1,0 +1,1 @@
+  Correct light direction sign in shader, fixing auto-normal calculation  

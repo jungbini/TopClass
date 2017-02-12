@@ -1,0 +1,1 @@
+  bytecode analysis: lite persistent hashCode for Configuration  Also subtle bug with Configuration generalization was fixed - so, update in annotations.xml  

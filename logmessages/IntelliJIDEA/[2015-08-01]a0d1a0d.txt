@@ -1,0 +1,1 @@
+  LibrariesOnlyScope: isSearchOutsideRootModel should delegate to allScope (fixes JSFindUsagesTest)  

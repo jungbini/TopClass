@@ -1,0 +1,1 @@
+  KT-2841 Can't infer a type for function literal parameter if the return type is error #KT-2841 fixed  

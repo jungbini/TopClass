@@ -1,0 +1,1 @@
+  fix(core): fixing compilation error, remove compatibility serialization, support for hidden groups  

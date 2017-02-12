@@ -1,0 +1,1 @@
+  EditorGutterComponentImpl: fix calculation of the space needed for foldings  Seems to be a misprint in the old code: if the folding outline is not shown, no need to reserve place for it.  

@@ -1,0 +1,1 @@
+  node.js, record module into package.json quick fix, create package.json if not existed using standard way (possible with defined template)  

@@ -1,0 +1,1 @@
+  use same empty tag rules for html inheritors #WEB-21068 fixed  

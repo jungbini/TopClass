@@ -1,0 +1,1 @@
+ Fixed bug where Netty was providing zero bytes buffers which confused asyncfile when trying to save them  

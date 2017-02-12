@@ -1,0 +1,1 @@
+  HDFS-3062. Fix bug which prevented MR job submission from creating delegation tokens on an HA cluster. Contributed by Mingjie Lai.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1301285 13f79535-47bb-0310-9956-ffa450edef68  

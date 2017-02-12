@@ -1,0 +1,1 @@
+  IDEA-148458 IDEA quits with segfault after some time, workaround for http://bugs.java.com/view_bug.do?bug_id=4425695  

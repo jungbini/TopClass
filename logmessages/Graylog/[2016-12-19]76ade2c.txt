@@ -1,0 +1,1 @@
+  ClusterEventPeriodical must use MongoJackObjectMapper (#3217)  * use correct objectmapper for mongodb interaction  previous reading from the database used the wrong object mapper configuration  fixes #3216  * use mongojack objectmapper for both reading and writing the cluster config paylod  

@@ -1,0 +1,1 @@
+  Fix bug when "Show Instances" action enabled when no selected class  

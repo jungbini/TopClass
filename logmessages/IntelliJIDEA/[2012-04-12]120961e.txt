@@ -1,0 +1,1 @@
+  fix data context on first start. do not update structure if toolwindow is hidden  

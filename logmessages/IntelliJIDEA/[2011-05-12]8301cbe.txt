@@ -1,0 +1,1 @@
+  IDEA-68698 Elements with exactly same prefix (and same proximity) should be placed at the top of the list  

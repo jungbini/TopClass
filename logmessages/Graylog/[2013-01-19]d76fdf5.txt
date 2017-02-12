@@ -1,0 +1,1 @@
+  fix broken facet_filter's for quickfilters  fixes #WEBINTERFACE-417  

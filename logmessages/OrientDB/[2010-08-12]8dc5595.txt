@@ -1,0 +1,1 @@
+  Fixed nasty bug on iteration of multiple clusters with holes inside (deleted records)  

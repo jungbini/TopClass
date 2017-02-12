@@ -1,0 +1,1 @@
+  Don't pass null to addAll  As part of the fix of IDEA-77338  

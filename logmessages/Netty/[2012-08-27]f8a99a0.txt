@@ -1,0 +1,1 @@
+  Use nanos to detect the jdk epoll bug. Also use 80% of the select timeout to detect it to be more save. Thanks to @kimchy for spot this  

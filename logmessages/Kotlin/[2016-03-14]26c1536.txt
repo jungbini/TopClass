@@ -1,0 +1,1 @@
+  Skip visibility check when resolving class in debug mode #KT-11326 Fixed  

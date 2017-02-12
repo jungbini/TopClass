@@ -1,0 +1,1 @@
+  fix saving user preferences due to broken objectmapper handling  fixes Graylog2/graylog2-web-interface#1027  

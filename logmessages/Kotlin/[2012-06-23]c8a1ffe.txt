@@ -1,0 +1,1 @@
+  added JS support for toSet() and fixed issue with code generated array methods  

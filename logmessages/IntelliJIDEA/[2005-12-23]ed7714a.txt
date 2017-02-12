@@ -1,0 +1,1 @@
+  Additional fixes for Still problem with jsp includes (IDEADEV-3644) In JSP tag files not all errors are highlighted (IDEADEV-3645)  

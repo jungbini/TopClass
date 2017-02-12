@@ -1,0 +1,1 @@
+  Make intellij-setup.sh work again.  As a drive-by fix, add correct deps to //src/test/java:skylarkshell . Why don't we build that in our tests?  -- MOS_MIGRATED_REVID=97404777  

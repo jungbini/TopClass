@@ -1,0 +1,1 @@
+  Confusing and incorrect ProcessOutput API fixed.  

@@ -1,0 +1,1 @@
+  KT-2257 fix. private namespace visibility becomes protected in java land  

@@ -1,0 +1,1 @@
+  IG: fix removing multiple rows from table  

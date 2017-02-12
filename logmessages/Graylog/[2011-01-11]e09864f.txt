@@ -1,0 +1,1 @@
+  - some fixes related to path prefixes (still a lot to do with the static urls present in some javascript parts) - optimized the work flow in stream/rule creation - replaced static routes with route helpers  

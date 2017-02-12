@@ -1,0 +1,1 @@
+  HBASE-3671) Split report before we finish parent region open; workaround till 0.92; Race between split and OPENED processing -- fix suggested by Ted Yu  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1083357 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  - fixed up some formatting wierdness in userguide source - added <apilink> element to generate links to the javadocs - removed latex userguide source and tasks  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@1214 004c2c75-fc45-0410-b1a2-da8352e2331b  

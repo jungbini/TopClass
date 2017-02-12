@@ -1,0 +1,1 @@
+  fixed PY-9971 Django Tests: invalid default test run configuration is created for django 1.6 fixed PY-9244 Django Tests: invalid default test run configuration is created for test class and test method with django nose test runner  

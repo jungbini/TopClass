@@ -1,0 +1,1 @@
+  don't report harmless cache read problem as debug, don't rely on FileInputStream.available to always return > 0 patch by dbrosius reviewed by mkjellman for CASSANDRA-4916  

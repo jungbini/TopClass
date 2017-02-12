@@ -1,0 +1,1 @@
+ accommodate long path names, fixes #243  

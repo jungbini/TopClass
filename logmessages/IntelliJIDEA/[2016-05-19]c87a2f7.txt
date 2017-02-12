@@ -1,0 +1,1 @@
+  fix updating JRE on OS X - make sure symlinks are created correctly  

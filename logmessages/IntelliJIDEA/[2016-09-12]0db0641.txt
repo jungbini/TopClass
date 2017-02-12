@@ -1,0 +1,1 @@
+  gui-tests-framework: fixed MessageDialogFixture for a long wait  

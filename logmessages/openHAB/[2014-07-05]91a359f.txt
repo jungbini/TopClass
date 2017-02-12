@@ -1,0 +1,1 @@
+  TinkerforgeBinding:  bugfix: missing updates when symbolic name is used  

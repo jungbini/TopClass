@@ -1,0 +1,1 @@
+  IDEADEV-1047 fixed (for local variables)  

@@ -1,0 +1,1 @@
+  YARN-1109. Demote NodeManager "Sending out status for container" logs to debug (haosdent via Sandy Ryza)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.2@1536575 13f79535-47bb-0310-9956-ffa450edef68  

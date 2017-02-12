@@ -1,0 +1,1 @@
+  IDEA-CR-15578 final fix `rename A to B and B to A`  

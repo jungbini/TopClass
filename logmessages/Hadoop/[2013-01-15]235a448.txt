@@ -1,0 +1,1 @@
+  MAPREDUCE-4925. The pentomino option parser may be buggy. Contributed by Karthik Kambatla. (harsh)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1433417 13f79535-47bb-0310-9956-ffa450edef68  

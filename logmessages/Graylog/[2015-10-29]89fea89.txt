@@ -1,0 +1,1 @@
+  Do not log a warning if a cluster config entry does not exist  Switch log statement to debug. It's fine if a config entry does not exist when you query it.  @joschi agrees.  

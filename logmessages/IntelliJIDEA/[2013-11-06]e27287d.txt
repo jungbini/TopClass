@@ -1,0 +1,1 @@
+  ShowSettingUtil: selecting configurable by class is fixed  

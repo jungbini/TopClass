@@ -1,0 +1,1 @@
+  plugin autoupdate fixed: always provide plugin descriptor with new version number to plugin downloader  

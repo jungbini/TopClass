@@ -1,0 +1,1 @@
+  fixed connetion not close on connect negotiation failure.  

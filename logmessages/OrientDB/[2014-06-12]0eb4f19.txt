@@ -1,0 +1,1 @@
+  Released OrientDB v1.7.3 (hot fix)  

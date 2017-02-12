@@ -1,0 +1,1 @@
+  Fix bug in definition of equals (and other minor clean up).  

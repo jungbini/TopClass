@@ -1,0 +1,1 @@
+  51884 fixed (assertion in TODO view) DelayedFileStatusProvider after submit should be fixed IDEADEV-2186 fixed (code style help targets) IDEADEV-2188 fixed (cvs browse fixed) IDEADEV-2184 fixed (p4- select file and custom path)  

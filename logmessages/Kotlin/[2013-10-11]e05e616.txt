@@ -1,0 +1,1 @@
+  JS backend: fix StringBuilder append #KT-4064 Fixed  

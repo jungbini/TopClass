@@ -1,0 +1,1 @@
+  GRADLE-634 - Some fixes for shipping dependencies around through complex arrangements of files collections and file trees. - Replaced FlatFileTree with SingletonFileTree. - Fixed AbstractFileTree.addToAntBuilder() so that it does not lose the tree structure when adding itself to an Ant task.  

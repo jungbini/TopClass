@@ -1,0 +1,1 @@
+  STORM-2101: fixes npe in compute-executors in nimbus  

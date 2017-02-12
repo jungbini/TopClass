@@ -1,0 +1,1 @@
+  moved all configurations in Python Integrated Tools to module base  fixed PY-9018 Cannot create test run configuration from editor  

@@ -1,0 +1,1 @@
+  Merge -c 1516361 from trunk to branch-2.1-beta to fix MAPREDUCE-5475. Ensure MRClientService verifies ACLs for users. Contributed by Jason Lowe.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1516363 13f79535-47bb-0310-9956-ffa450edef68  

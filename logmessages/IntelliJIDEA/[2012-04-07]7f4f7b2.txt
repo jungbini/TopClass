@@ -1,0 +1,1 @@
+  optimization: more compact storing of type tags and enums; less calls to enumerators; fixed sourceFile comparison problem  

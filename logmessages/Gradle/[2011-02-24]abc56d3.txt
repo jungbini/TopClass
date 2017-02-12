@@ -1,0 +1,1 @@
+  fix in DSL doc for EclipseClasspath task (related to GRADLE-1390: Default output folder is always set to bin instead of sourceSets.main.classesDir)  

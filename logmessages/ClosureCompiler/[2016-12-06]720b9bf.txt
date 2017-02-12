@@ -1,0 +1,1 @@
+  Add contentHint to MediaStreamTrack annotations.  This is an experimental property to guide MediaStreamTrack consumers in how to treat/encode content.  Chromium feature development is tracked in https://crbug.com/653531.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=141228156  

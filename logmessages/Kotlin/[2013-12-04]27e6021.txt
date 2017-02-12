@@ -1,0 +1,1 @@
+  Small fixes after review: do not set is_pure=true for named constants refactoring  

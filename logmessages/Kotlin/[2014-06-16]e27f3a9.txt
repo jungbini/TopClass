@@ -1,0 +1,1 @@
+  Duplicate signature generation fixed for collection classes  wWe used to generate a throwing stub clear();V twice, when something extended both Collection and Map  

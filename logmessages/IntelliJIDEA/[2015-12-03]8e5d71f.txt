@@ -1,0 +1,1 @@
+  Added prefix change listener for tracking state after char typing  

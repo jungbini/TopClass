@@ -1,0 +1,1 @@
+  fix "Redundant call to 'String.format()'" inspection brokenness caused by introduction of PsiPolyadicExpression  

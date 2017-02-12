@@ -1,0 +1,1 @@
+  fixed GRADLE-1099: StackOverflowError in idea plugin in case of circular dpenendencies  

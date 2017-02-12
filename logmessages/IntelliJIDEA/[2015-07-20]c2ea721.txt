@@ -1,0 +1,1 @@
+  it is illegal to get component after component manager disposed. if for some reasons this code is still required, the actual reason of not disposed document listener must be found and issue fixed  

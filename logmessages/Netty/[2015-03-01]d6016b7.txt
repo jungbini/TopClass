@@ -1,0 +1,1 @@
+per fix.  Modifications:  Remove FileDescriptor.INVALID and add FileDescriptor.isOpen() as replacement. Once FileDescriptor.close() is called isOpen() will return false.  Result:  No more IllegalStateException caused by a close channel.  

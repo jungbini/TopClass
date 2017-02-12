@@ -1,0 +1,1 @@
+  fix test, sorry (filenames letters case) + always kill the second thread  

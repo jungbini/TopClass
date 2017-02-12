@@ -1,0 +1,1 @@
+  Revert "fix confusion between instance of AppleBundle and AbstractAppleNativeTargetBuildRule"  Summary: This reverts D1520795 as it is causing build errors.  Test Plan: CI  

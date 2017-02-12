@@ -1,0 +1,1 @@
+  fix many methods reported as unused: in the optimized search world the first of the two merged queries may be satisfied only when the second one is running. Unfortunately  

@@ -1,0 +1,1 @@
+  fixes for skech naming bugs (bug #543), also cleaning up the todo list a bit  

@@ -1,0 +1,1 @@
+  fixed PY-10442 Set the working dir to the project root if nothing is specified in the settings  

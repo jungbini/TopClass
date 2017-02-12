@@ -1,0 +1,1 @@
+  haskell: fix static/static-pic/shared flavor errors  Summary: There were a number of bugs in picking flavors in target and compilation mode based on the dep style.  Test Plan: CI  Reviewed By: Coneko  fbshipit-source-id: 7c2a9ad  

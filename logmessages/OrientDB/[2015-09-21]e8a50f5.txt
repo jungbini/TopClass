@@ -1,0 +1,1 @@
+  fix null pointer during traversal of missing record  when a linked record is deleted, trying to check a WHERE condition on that caused a NullPointerException  

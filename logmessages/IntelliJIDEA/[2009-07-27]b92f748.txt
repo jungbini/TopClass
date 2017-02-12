@@ -1,0 +1,1 @@
+  Starting duplicate externalization session fix? + IDEADEV-38878 Don't use path variables (macros) when writing workspace.xml / .iws files  

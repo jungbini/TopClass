@@ -1,0 +1,1 @@
+  full message sidebar view for hosts and streams. more awesome buttons, small layout fixes  

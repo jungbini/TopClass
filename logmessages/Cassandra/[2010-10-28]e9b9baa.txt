@@ -1,0 +1,1 @@
+  fix ByteBuffer bug in ExpiringColumn.updateDigest.  patch by Sylvain Lebresne and Jake Luciani for CASSANDRA-1679  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1028494 13f79535-47bb-0310-9956-ffa450edef68  

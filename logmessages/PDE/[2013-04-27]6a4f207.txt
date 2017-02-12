@@ -1,0 +1,1 @@
+  switch to socket attach connector, fix error msg for bitness of libs, fighting with Eclipse JDI  

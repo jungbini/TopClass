@@ -1,0 +1,1 @@
+  Display watchman warnings to the user  Summary: Per https://facebook.github.io/watchman/docs/socket-interface.html#reporting-errors-and-warnings, we should be displaying these.  These should also cause us to not trust it until it's fixed, so create overflow events.  Test Plan: added a test  

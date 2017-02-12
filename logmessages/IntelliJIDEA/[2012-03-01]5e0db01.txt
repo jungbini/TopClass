@@ -1,0 +1,1 @@
+  IDEA-81763 Groovy: NPE at GroovyRunnerUtil.getRunningClass() on creating a new Run/Debug Configuration  

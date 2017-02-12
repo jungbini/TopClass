@@ -1,0 +1,1 @@
+  Revert c98745d9098487c51685a732f1c5a21d8d07cdad.  Let the ruby bug be there, as long as we make sure nokogiri will always be linked with libxml2/libxslt/libexslt built from ports in the default configuration.  

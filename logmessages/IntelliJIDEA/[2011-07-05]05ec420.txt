@@ -1,0 +1,1 @@
+  fixed a case when formatter breaks code (PY-4034 comment)  

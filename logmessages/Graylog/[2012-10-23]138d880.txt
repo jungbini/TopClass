@@ -1,0 +1,1 @@
+  don't instantiate new filter objects every time  fixes #SERVER-175  

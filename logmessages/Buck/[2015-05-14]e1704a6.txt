@@ -1,0 +1,1 @@
+  Make ThrowableConsoleEvent's message contain the exception stacktrace  Summary: This should aid in debugging why the exception was thrown in the first place.  Test Plan: * `./bin/buck test //test/com/facebook/buck/event:event` * `./bin/buck test //test/com/facebook/buck/rules:rules`  

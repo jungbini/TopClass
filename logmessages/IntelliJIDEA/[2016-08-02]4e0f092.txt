@@ -1,0 +1,1 @@
+  Add missing magic methods to PyNames and fix __rpow__ completion test  

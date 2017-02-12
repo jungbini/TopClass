@@ -1,0 +1,1 @@
+  JB V8 debugger protocol  speedup scriptParsed event (part 1)  

@@ -1,0 +1,1 @@
+  Fixed bug with transformation of date in long. Now uses UTC milliseconds  

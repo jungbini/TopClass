@@ -1,0 +1,1 @@
+  Buck plugin fix Already disposed project error  Summary: We shouldn't display to the console if the project is disposed (closed).  Test Plan: Tested in IntelliJ by closing and opening the project fast.  Reviewed By: cotizo  fbshipit-source-id: c0101f6  

@@ -1,0 +1,1 @@
+  Only add the Xcode version to the key if the toolchain doesn't have one.  Summary: To support Xcode 8's toolchains not having the version we were adding the Xcode version to the key, but this means older Xcode version that share toolchains cannot share cache hits anymore. This fixes that.  Test Plan: CI  Reviewed By: beefon  fbshipit-source-id: 8362f3b  

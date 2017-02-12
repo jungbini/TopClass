@@ -1,0 +1,1 @@
+  don't specify initialCapacity for caches in CachingPatternSpecFactory - attempt to fix memory use regression in DaemonPerformanceTest  +review REVIEW-5627  

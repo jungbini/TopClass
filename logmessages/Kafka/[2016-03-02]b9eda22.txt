@@ -1,0 +1,1 @@
+  HOTFIX: Fix checkstyle failure in KStreams by providing fully qualified class names.  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #1000 from ewencp/hotfix-kstreams-checkstyle-javadocs  

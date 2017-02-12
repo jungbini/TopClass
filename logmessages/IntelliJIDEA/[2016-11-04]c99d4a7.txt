@@ -1,0 +1,1 @@
+  [java] fixes @deprecated doc tag detection (IDEA-163315)  

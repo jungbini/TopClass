@@ -1,0 +1,1 @@
+  fixed PY-4731 Create new test for class: respect user indentation settings on creation  

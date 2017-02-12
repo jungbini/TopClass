@@ -1,0 +1,1 @@
+  fix misnumbered constant that was causing a regression in coloring  

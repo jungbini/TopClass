@@ -1,0 +1,1 @@
+  Run/Debug dialog usability improvements: don't expand "Defaults" node automatically, make "add" icon in description interactive  

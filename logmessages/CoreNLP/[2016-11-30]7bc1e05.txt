@@ -1,0 +1,1 @@
+  fix null pointer for case where there is no semantic graph (e.g. german)  

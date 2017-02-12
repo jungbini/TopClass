@@ -1,0 +1,1 @@
+  fixes for command line modes  

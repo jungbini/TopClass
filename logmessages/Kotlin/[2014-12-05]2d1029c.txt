@@ -1,0 +1,1 @@
+  fix: choose correct library from plugin for new Kotlin/Javascript projects  

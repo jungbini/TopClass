@@ -1,0 +1,1 @@
+  MINOR: Avoid compiler warnings when registering metrics in KafkaServer  Author: Liquan Pei <liquanpei@gmail.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1280 from Ishiihara/minor-warning-fix  

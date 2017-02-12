@@ -1,0 +1,1 @@
+  Java inspection: In "Control flow statement without braces" inspection make sure the PSI data isn't held by the quick fix. (IDEA-157727)  

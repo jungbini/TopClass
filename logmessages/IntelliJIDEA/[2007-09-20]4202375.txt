@@ -1,0 +1,1 @@
+  unclear error message when using duplicate namespace prefix (IDEADEV-21303)  

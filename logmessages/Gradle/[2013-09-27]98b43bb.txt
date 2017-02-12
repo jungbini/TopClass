@@ -1,0 +1,1 @@
+  REVIEW-3238: fix typo in release notes  

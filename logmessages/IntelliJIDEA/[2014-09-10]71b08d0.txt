@@ -1,0 +1,1 @@
+  fixed locating 'android' plugin home in development mode  

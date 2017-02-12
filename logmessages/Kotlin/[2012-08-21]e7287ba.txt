@@ -1,0 +1,1 @@
+  KT-2242 formatting problems: function literal passed outside the parentheses - fix test data in affected tests #KT-2242 Fixed  

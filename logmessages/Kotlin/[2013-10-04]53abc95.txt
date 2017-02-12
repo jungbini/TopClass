@@ -1,0 +1,1 @@
+  JS backend: add simple test connected with frontend bug 'isStatement' for function body == 'hasBlockBody'  

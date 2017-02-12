@@ -1,0 +1,1 @@
+60b6 [Jeff Zhang] ZEPPELIN-1442. UDF can not be found due to 2 instances of SparkSession is created  (cherry picked from commit 89cf8262e6a740c267acad0c040d5d52675d6c00) Signed-off-by: Mina Lee <minalee@apache.org>  

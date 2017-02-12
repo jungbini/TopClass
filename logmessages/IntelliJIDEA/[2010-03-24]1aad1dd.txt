@@ -1,0 +1,1 @@
+  WI-46: Javascript Debugger dont work with files with php extension?  

@@ -1,0 +1,1 @@
+  Extract canBeAutoImported method and reuse it in quickfix and both completion providers  

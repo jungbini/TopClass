@@ -1,0 +1,1 @@
+  xdebugger: append hyperlink to the last line of multi-line error message  

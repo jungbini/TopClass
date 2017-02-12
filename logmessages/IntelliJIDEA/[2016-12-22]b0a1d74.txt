@@ -1,0 +1,1 @@
+  [gui-test] DialogFixture has been renamed to JDialogFixture to avoid conflicts with org.fest.swing.fixture.DialogFixture; wrap ProjectViewFixture.NodeFixture.getLocation() with runReadAction; update tests; add SmartWaitRobot; add AddActionToolbarTest.java  

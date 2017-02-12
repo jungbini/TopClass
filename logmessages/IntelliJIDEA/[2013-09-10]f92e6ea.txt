@@ -1,0 +1,1 @@
+  fixed PY-10714 Reformat of string creates error  do not use EnterBetweenBracesHandler in case of braces are inside string  

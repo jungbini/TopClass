@@ -1,0 +1,1 @@
+ to read actual values associated with expectations out of the backing store and to mutate data on the backing store when at least one lock is held.  This commit also removes the warning added in cb8660102019c44288ee5556a8851b4307a211da since it's now obsolete.  

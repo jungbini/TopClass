@@ -1,0 +1,1 @@
+  Fix bugs in the native protocol v2  patch by slebresne; reviewed by iamaleksey for CASSANDRA-5770  

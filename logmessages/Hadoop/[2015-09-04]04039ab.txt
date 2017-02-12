@@ -1,0 +1,1 @@
+  HADOOP-12312. Findbugs HTML report link shows 0 warnings despite errors (Kengo Seki via busbey)  

@@ -1,0 +1,1 @@
+  Issue #1761 , index durability issues were fixed.  

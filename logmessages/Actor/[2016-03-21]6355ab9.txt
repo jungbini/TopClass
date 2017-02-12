@@ -1,0 +1,1 @@
+ fix(server:rpc): add event type to stats  

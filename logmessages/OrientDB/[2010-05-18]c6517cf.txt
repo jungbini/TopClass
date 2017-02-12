@@ -1,0 +1,1 @@
+  Fixed a bug on multiple object in collection (it was missed the separator ",")  

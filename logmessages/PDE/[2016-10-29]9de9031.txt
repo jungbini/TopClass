@@ -1,0 +1,1 @@
+ go back to textMode(MODEL) is native font not available for textMode(SHAPE) fixes #4680  

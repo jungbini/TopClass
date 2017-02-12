@@ -1,0 +1,1 @@
+  reifiable type check fixed for local classes; instanceof check to use the same algorithm (IDEA-146352; IDEA-146351)  

@@ -1,0 +1,1 @@
+  stability fix to unix process killing logic. sometimes we can't find process by id and throw exception, now we kill it's children and return false.  

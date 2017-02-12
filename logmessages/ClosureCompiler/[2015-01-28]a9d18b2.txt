@@ -1,0 +1,1 @@
+  Make the JS Compiler check for missing goog.requires stricter. Add tests and fixes for new cases: - goog.scope - goog.defineClass - goog.module - aliased constructors ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=85030768  

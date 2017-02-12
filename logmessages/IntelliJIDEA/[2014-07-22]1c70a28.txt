@@ -1,0 +1,1 @@
+  IG inline fixes: use inline method processor; if simple getter is inlined in simple expr statement - it should be deleted (IDEA-127135)  

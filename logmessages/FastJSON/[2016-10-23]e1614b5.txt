@@ -1,0 +1,1 @@
+  bug fixed for byte/short type overflow. issue #868  

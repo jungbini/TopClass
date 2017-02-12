@@ -1,0 +1,1 @@
+  RFXCOM Add binding support for 10 sensor types  Add binding support for the following sensor types : - CurrentEnergy - DateTime (*) - Fan (*) - Lighting3 (*) - Power (*) - TemperatureHumidityBarometric - TemperatureRain - Thermostat2 (*) - Thermostat3 (*) - Weight (*)  (*) Untested sensor. Can be buggy !  

@@ -1,0 +1,1 @@
+  embed kuromoji 0.9.0(core & ipadic) for japanese tokenizer and  add korean tokenizer (#2249)  fix korean nlp pom and japanese nlp pom  

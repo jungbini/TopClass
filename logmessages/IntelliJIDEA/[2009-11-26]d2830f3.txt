@@ -1,0 +1,1 @@
+  IDEADEV-41627, proper fix for undo may mark file unchanged under SVN  

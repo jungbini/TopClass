@@ -1,0 +1,1 @@
+ New Intention Action: Replace a dot-qualified function call with an infix function call.  

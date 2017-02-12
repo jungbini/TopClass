@@ -1,0 +1,1 @@
+  fix for #301 - StringItems are new allowed with NH binding  

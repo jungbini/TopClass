@@ -1,0 +1,1 @@
+  fixed EA-73645 - UOE: IpnbFilePanel.addCellToPanel  added source to the ipython notebook raw cells  

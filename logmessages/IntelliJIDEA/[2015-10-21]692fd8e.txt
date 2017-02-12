@@ -1,0 +1,1 @@
+  'Debug Build Process' action removed from Internal group because the action is available in normal (non-internal) mode too; it'll be placed to 'Other' group  

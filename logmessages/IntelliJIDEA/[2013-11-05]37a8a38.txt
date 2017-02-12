@@ -1,0 +1,1 @@
+  IDEA-115904 Mercurial Log: avoid exception with old (<2.6) versions  *fullHistory method removed, common log command execute method used *--debug argument added to log command for getting parent hashes  

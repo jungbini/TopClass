@@ -1,0 +1,1 @@
+  add hash prefixed test for HazelcastKeyColumnValueStore  

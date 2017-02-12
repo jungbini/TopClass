@@ -1,0 +1,1 @@
+  deadlock fix: synchronize both cache and persistent map on a single lock  

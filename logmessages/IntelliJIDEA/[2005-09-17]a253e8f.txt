@@ -1,0 +1,1 @@
+  fixed issue with using stale version of dtd after refactoring (IDEADEV-2175)  

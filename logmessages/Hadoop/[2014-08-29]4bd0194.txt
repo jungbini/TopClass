@@ -1,0 +1,1 @@
+  YARN-2449. Fixed the bug that TimelineAuthenticationFilterInitializer is not automatically added when hadoop.http.filter.initializers is not configured. Contributed by Varun Vasudev.  

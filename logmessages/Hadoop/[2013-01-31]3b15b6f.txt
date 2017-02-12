@@ -1,0 +1,1 @@
+  merge -r 1199023:1199024 Merging from trunk to branch-0.23 to fix HDFS-2495  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1441249 13f79535-47bb-0310-9956-ffa450edef68  

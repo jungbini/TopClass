@@ -1,0 +1,1 @@
+  change timestamp format to something more ISO-ish.  fixes #269  

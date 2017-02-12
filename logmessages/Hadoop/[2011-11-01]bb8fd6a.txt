@@ -1,0 +1,1 @@
+  TestHDFSCLI is failing due to HADOOP-7360.  HDFS-2038 is going to fix it.  Disable it for the moment.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1195754 13f79535-47bb-0310-9956-ffa450edef68  

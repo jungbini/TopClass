@@ -1,0 +1,1 @@
+  fix assertion for references on empty string (e.g. open unresolvedRootTag.fxml)  

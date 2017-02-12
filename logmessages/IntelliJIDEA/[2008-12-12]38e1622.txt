@@ -1,0 +1,1 @@
+  IDEADEV-33246 When one lookup item string is a strict prefix of another one's, the former one should always be listed before the latter one  

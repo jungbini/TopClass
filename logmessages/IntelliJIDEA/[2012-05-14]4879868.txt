@@ -1,0 +1,1 @@
+  package scope when package is inside package prefix should contain classes with "subnames" (IDEA-82937)  

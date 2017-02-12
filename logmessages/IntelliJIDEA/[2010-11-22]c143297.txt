@@ -1,0 +1,1 @@
+  fixed facet autodetection for multi-threaded cache updaters [rev by D.Avdeev]  

@@ -1,0 +1,1 @@
+  Make extensible type fixtures work with managed types  Things that had to be cleared up:  - not all Base*Fixtures classes were creating nodes with managed projections - some tests were using a separate ManagedProxyFactory, and the same type got generated twice in the same classloader  +review REVIEW-5695  

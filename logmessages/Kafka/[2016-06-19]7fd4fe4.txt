@@ -1,0 +1,1 @@
+  MINOR: Fix javadoc typos in ConsumerRebalanceListener  Author: Vahid Hashemian <vahidhashemian@us.ibm.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1500 from vahidhashemian/typo07/fix_javadoc_typos_consumerrebalancelistener  

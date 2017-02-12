@@ -1,0 +1,1 @@
+  Added minor fixes to clarify minimize is the default objective function now. Also clarified needed fixes for new tests to function.  

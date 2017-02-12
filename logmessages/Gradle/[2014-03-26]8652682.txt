@@ -1,0 +1,1 @@
+  GRADLE-3052 - fix IllegalStateException when launching embedded build while holding the cache file lock.  This fix is likely not the correct fix, but is safe as the method call being removed is a no-op in the current implementation.  

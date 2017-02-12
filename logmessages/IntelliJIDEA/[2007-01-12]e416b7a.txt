@@ -1,0 +1,1 @@
+  NPE on ctrl-Q on ref to non-physical package (package prefixes)  

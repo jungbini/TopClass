@@ -1,0 +1,1 @@
+  fix a special case causing NaN in PVector.angleBetween() (issue #340)  

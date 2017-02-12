@@ -1,0 +1,1 @@
+  Minor, fix "visibility modifier" positioning strategy for objects  It's not reproducible at the moment, but will matter if more diagnostics use this positioning strategy  

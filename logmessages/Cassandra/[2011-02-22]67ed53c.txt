@@ -1,0 +1,1 @@
+  fix compaction echoing old-style data into new sstable version patch by slebresne; reviewed by jbellis for CASSANDRA-2216  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1073427 13f79535-47bb-0310-9956-ffa450edef68  

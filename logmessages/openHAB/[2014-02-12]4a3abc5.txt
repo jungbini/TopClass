@@ -1,0 +1,1 @@
+ Fix a lock() race condition halting the binding Add extensive debugging info/output (to be removed later) Enable stick.retries parameter in openhab.cfg to set max number of retries when sending message on the ZigBee network  

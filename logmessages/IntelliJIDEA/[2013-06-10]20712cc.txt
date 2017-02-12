@@ -1,0 +1,1 @@
+  when elements are removed or added in batch (e.g. addRange / removeRange) use more optimal O(1) calculation of old / new offsets and change insertion index. Currently more optimal calculation is checked with results of previous calculation (O(N^2)) upon flags, causing error to be added in logs. The change is meant to fix IDEA-100439 (Freeze and 100% CPU while editing JSON)  

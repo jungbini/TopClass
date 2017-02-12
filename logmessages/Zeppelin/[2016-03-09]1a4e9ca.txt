@@ -1,0 +1,1 @@
+8c [AhyoungRyu] Fix interpreter.sh to get Spark interpreter log  

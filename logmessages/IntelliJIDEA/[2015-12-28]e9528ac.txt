@@ -1,0 +1,1 @@
+  terminate dd/dt auto-closing at dl #WEB-19451 fixed  

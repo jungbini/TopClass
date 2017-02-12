@@ -1,0 +1,1 @@
+ Merge pull request #3727 from madanadit/1.2-swift-persist-fix  [ALLUXIO-2093] Quick fix for persist to Swift UFS  commit b88906c0a6f15eb26b0c974a8b71d15d024756b2  fix spell  

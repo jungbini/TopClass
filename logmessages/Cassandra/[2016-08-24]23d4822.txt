@@ -1,0 +1,1 @@
+  Ninja: move ProposeCallback.response() logging to trace  This is on the client request path, and can spam the debug log.  This was already moved to trace-level logging in trunk, I'm simply backporting it to 2.2.  +1'ed on IRC by Paulo Motta and Jeff Jirsa  

@@ -1,0 +1,1 @@
+  HDFS-7144. Fix findbugs warnings in RamDiskReplicaTracker. (Contributed by Tsz Wo Nicholas Sze)  Conflicts: hadoop-hdfs-project/hadoop-hdfs/CHANGES-HDFS-6581.txt  

@@ -1,0 +1,1 @@
+  Separator border in Goto popup has fixed  

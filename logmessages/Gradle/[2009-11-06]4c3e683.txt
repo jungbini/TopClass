@@ -1,0 +1,1 @@
+  GRADLE-679 - Some more fixes for FileCollection.getBuildDependencies() - Some fixes to AbstractCopyTask to correctly use the convention value for 'from' - Removed ZipFileSet and TarFileSet.  

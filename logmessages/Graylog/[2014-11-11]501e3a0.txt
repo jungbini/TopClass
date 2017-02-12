@@ -1,0 +1,1 @@
+  Adapt sources to json naming strategy, fixes #966  

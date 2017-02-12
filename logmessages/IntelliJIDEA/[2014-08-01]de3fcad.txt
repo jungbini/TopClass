@@ -1,0 +1,1 @@
+  [git] Add ellipsis symbol to some actions which produce a dialog  Specially support Cherry-Pick, since it shows dialog depending on the settings => move name to update() & check the settings.  Also fix "disabled & invisible" condition for cherry-pick. Also don't make description equal to the name to avoid trivial tooltips.  

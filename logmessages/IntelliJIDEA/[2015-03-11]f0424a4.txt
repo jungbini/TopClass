@@ -1,0 +1,1 @@
+  vcs: fix allChangesInOneList check  old check is incorrect if first change in list is not selected, but some of others selected  

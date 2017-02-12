@@ -1,0 +1,1 @@
+  editor: fix stripe markers painting in mirrored mode  

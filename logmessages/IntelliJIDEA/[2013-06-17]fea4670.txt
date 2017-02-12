@@ -1,0 +1,1 @@
+  dbl extension registration fix: if ProgressCanceledException is thrown in getExtension (e.g. DaemonProgressIndicator was canceled by modal dialog on start) then all registration should start from the very beginning  

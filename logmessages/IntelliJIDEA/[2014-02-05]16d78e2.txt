@@ -1,0 +1,1 @@
+  IDEA-116285 XDebugger API based java line breakpoints: implement class filters  added ui for filters  

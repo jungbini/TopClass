@@ -1,0 +1,1 @@
+  Introduce SourcePaths.filterInputsToCompareToOutput().  Summary: This fixes an issue where non-existent files could inadvertently be included in RuleKey computation, which could result in a non-idempotent RuleKey.  Test Plan: Sandcastle builds.  

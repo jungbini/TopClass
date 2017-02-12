@@ -1,0 +1,1 @@
+  made tearDown safe (possible fix for sometimes failing BookmarkManagerTest.testBookmarkManagerDoesNotHardReferenceDocuments)  

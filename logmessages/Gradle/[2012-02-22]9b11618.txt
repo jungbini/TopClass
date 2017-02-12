@@ -1,0 +1,1 @@
+  More fixes that ensure we avoid using 3-hour daemons for tests. Made sure that the distrubtion that is used in one of the tests is the one that supports shorter lived daemons.  

@@ -1,0 +1,1 @@
+ Merge pull request #709 from ldenman/master  Update Readme to fix typo.  commit 7272ba1846abe0a94413329ff1531c4b07896e8c  Turn on remote debugging if we're running the tests in jruby and DEBUG_JAVA was set.  

@@ -1,0 +1,1 @@
+  fix editor selection not propagating to evaluate expression  

@@ -1,0 +1,1 @@
+  Use system properties to enable debug output for various modules. Will save time recompiling to turn the output on or off. Hopefully the optimizer will make it efficient  

@@ -1,0 +1,1 @@
+  win32.S: Make calls to ffi_closure_SYSV_inner position-independent  Now that non-Windows platforms include win32.S, it needs to support building as position-independent code.  This fixes one source of build failures on target platforms that do not allow text relocations.  

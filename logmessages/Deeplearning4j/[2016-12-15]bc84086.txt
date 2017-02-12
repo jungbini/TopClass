@@ -1,0 +1,1 @@
+ Merge branch 'master' into mw_fix_termcondition  commit accc3d6e05b63a82fcccfd3ea691ad3155420359  Merge pull request #2521 from deeplearning4j/r119_fixes  Minor fixes  commit bc84086506c85d6b2f00c2cdb8a57df5b505374b  fix  

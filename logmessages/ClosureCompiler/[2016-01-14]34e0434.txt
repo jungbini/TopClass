@@ -1,0 +1,1 @@
+  Add a few tests to make sure we print CALL nodes as children of NEW nodes correctly.  I thought https://github.com/google/closure-compiler/issues/1384 was caused in part by a code printer bug. It turns out it wasn't, but this checks the relevant cases. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=112185172  

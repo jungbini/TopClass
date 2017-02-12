@@ -1,0 +1,1 @@
+  Waterkotte Ecotouch heatpump binding for OH2 (#4786)  * applied the ESH code-cleanup rules  * added new tags for Waterkotte Ecotouch  * added new tags for Waterkotte Ecotouch  renamed command "heatTempCurrent" to "tempSet0Deg"  * Add the ecotouch binding to the OH2 distro  * let the UI mask the password  * fix UI config  

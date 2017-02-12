@@ -1,0 +1,1 @@
+  EA-32620 - IAE: VisualPosition.<init>  Debug info is added  

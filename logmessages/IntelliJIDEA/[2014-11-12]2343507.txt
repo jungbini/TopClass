@@ -1,0 +1,1 @@
+  fixed PY-14342 IPython Notebook run cell shortcuts don't work when the cell is in edit mode  

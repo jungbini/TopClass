@@ -1,0 +1,1 @@
+  Conflicts:  src/main/java/org/graylog2/messagehandlers/syslog/SyslogEventHandler.java  

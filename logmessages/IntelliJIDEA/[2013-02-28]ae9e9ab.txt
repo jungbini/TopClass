@@ -1,0 +1,1 @@
+  register quick fixes on "expression expected" (IDEA-101705)  

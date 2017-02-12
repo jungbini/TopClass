@@ -1,0 +1,1 @@
+ Preclude ensure table exist check which needs create access. fix #619  Create/Admin access is generally available in production scenarios and table creation checks are better avoided.  Most production scenarios would be with a pre-created table with all cfs rightly configured.  

@@ -1,0 +1,1 @@
+  fixed problem with vanishing popup menu in Project Structure dialog  

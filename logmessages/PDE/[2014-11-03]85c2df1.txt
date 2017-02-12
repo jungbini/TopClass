@@ -1,0 +1,1 @@
+ Merge pull request #2921 from JakubValtar/bugfix-blendmodes  Multiple blending fixes & improvements  commit 85c2df19e6e361410a06fbd39f22cf1d55979cf7  Fixes offset bug in PJOGL  

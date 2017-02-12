@@ -1,0 +1,1 @@
+  MINOR: Fix compiler error in `KafkaLog4jAppender`  The branch wasn't rebased after the capitalisation fix for SSL classes.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Gwen Shapira  Closes #368 from ijuma/fix-kafka-log4j-appender-compiler-error  

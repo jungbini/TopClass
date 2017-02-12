@@ -1,0 +1,1 @@
+ated only when at least half of checked commits is loaded. Also MAX_ROWS_TO_CALC_OFFSET is removed since it prevents from calculating the correct width for file history which is usually quite small.  

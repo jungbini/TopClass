@@ -1,0 +1,1 @@
+  fixed classpath  Signed-off-by: Thomas Eichstdt-Engelen <thomas@openhab.org>  

@@ -1,0 +1,1 @@
+  integrate: fix classpath count calculation in snapshooter  

@@ -1,0 +1,1 @@
+  rewrite instance on application change; tests fix  

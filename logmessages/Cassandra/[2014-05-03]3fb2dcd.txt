@@ -1,0 +1,1 @@
+  fix npe if configURL is null (new URL(null) throws)  

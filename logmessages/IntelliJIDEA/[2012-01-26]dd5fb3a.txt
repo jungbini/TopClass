@@ -1,0 +1,1 @@
+  IDEA-80343 Run/Debug tool window: generic UI: dragging tab from tab row into another tab always makes Debug tab current  

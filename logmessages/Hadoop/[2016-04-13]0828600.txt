@@ -1,0 +1,1 @@
+  HDFS-10247: libhdfs++: Datanode protocol version mismatch fix.  Contributed by James Clampffer  

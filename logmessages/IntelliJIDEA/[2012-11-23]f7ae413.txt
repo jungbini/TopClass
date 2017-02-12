@@ -1,0 +1,1 @@
+  IDEA-95341 Switching tabs in Debug view changes location in console window [reviewed by Eugene Kudelevsky]  

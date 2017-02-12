@@ -1,0 +1,1 @@
+  Fixed the DSL problems with eclipse plugin. For now, the solution is non-generic. Hence the explicit method/field in the EclipseModel. It is a breaking change because referring to the eclipse task in the gradle build won't be possible without prefixing it with 'tasks.eclipse'  

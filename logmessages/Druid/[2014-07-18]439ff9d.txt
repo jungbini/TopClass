@@ -1,0 +1,1 @@
+ upgrade to jetty 9.2.1  Upgrade jetty version - supports Java8 - Async I/O Proxying - other jetty bug fixes  

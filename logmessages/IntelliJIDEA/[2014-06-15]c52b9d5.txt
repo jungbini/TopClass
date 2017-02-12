@@ -1,0 +1,1 @@
+  fix yellow code (NPE) and change literal to constant from CommonClassNames  

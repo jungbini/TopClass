@@ -1,0 +1,1 @@
+taken for the userinfo when: * the URI did not contain any path * the query string contained the "@"  Issue: SPR-11970 (cherry picked from commit a4484bb)  

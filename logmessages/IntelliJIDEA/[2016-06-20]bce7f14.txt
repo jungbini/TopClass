@@ -1,0 +1,1 @@
+  Performance fix: don't reformat code style sample twice upon first preview load (see IDEA-127086 Code Style preview: too much delay)  

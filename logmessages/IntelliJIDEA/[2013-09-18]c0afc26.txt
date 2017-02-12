@@ -1,0 +1,1 @@
+  fix stringWidth on non Retina devices  

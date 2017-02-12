@@ -1,0 +1,1 @@
+  unnecessary qualified names removed quick fix: ensure that during batch apply conflicting imports won't be inserted (IDEA-128765)  

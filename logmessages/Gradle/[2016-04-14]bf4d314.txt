@@ -1,0 +1,1 @@
+  Tests for bug; task is UP-TO-DATE after moving files between @InputFiles properties  Issue: https://issues.gradle.org/browse/GRADLE-3435  

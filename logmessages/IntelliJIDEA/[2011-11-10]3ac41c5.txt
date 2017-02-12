@@ -1,0 +1,1 @@
+  IDEA-75242 (workaround for unknown Ubuntu/GnomeVFS bug)  

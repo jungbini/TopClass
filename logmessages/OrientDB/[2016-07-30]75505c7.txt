@@ -1,0 +1,1 @@
+  HA: fixed problem when 2 nodes starts together  

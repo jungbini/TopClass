@@ -1,0 +1,1 @@
+  disable add import fix in qualified references on reference name (IDEA-135712)  

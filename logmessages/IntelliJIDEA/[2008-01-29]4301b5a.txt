@@ -1,0 +1,1 @@
+  debugger ui: horizontal toolbar option persistent  

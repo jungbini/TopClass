@@ -1,0 +1,1 @@
+  fix for exception with list of indexed ids merging  

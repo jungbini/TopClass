@@ -1,0 +1,1 @@
+  override commons-collection dependency with 3.2.2 fixes #5303  

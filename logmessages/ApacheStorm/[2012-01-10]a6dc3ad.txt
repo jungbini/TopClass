@@ -1,0 +1,1 @@
+  thorough test for component configurations, fix bug in generating list of all configs  

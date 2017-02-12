@@ -1,0 +1,1 @@
+  resource bundle base name detection fixed (IDEA-125856)  

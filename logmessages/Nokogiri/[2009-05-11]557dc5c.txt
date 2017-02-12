@@ -1,0 +1,1 @@
+  fixing FragmentHandler to not blow up if there are attributes without values. closes gh-35.  

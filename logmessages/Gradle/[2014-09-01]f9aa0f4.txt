@@ -1,0 +1,1 @@
+  Increase visibility of fixture to allow integ tests outside of scala project to apply it.  +review REVIEW-5175  

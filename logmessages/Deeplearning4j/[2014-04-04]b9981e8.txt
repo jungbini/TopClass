@@ -1,0 +1,1 @@
+  fixed convergence and finishing of training  

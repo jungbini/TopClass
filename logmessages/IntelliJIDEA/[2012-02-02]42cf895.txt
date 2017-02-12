@@ -1,0 +1,1 @@
+  IDEA-80706 Debug Tool Window: restore view under Debugger view hides previously restored view  

@@ -1,0 +1,1 @@
+ correct copy action for x debug frames list  

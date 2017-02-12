@@ -1,0 +1,1 @@
+  fix #1295: better parsing for ambiguous case between literal value and for, if, etc.  

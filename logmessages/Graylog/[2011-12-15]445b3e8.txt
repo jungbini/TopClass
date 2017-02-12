@@ -1,0 +1,1 @@
+  no need to fetch mongo exceptions anymore  fixes #WEBINTERFACE-173  

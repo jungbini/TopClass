@@ -1,0 +1,1 @@
+  Set up a filemanager in BazelJavaBuilder  This unifies some compilation set-up with the bazel JavaBuilder, and fixes a bug that only manifested with javac 9 that prevents filemanager options (e.g. '-d') from being handled correctly.  -- MOS_MIGRATED_REVID=93893036  

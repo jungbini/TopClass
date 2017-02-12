@@ -1,0 +1,1 @@
+  update travis to play 2.2.2-RC1  hopefully this already fixes the build errors :/  

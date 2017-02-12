@@ -1,0 +1,1 @@
+  enable idea.concurrent.scanning.files.to.index back, after fix and remote run  

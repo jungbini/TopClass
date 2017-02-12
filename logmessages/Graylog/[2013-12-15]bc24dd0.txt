@@ -1,0 +1,1 @@
+  fix startup order /cc @kroepke  the old behaviour was not waiting for everything to be up (especially the ES connection) and was reporting the node as ready to early. this could lead to NPEs in the web interface cluster node discovery when a node was waiting for its own ES state (which could take up to 5 seconds)  fixes #277, Graylog2/graylog2-web-interface#408  

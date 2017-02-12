@@ -1,0 +1,1 @@
+ fixed PY-6995 Extra indents when pasting code with non-rectangle selection between top-level statements  

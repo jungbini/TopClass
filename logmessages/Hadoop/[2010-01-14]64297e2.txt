@@ -1,0 +1,1 @@
+  HDFS-897. Fix a bug related to generation stamp comparison in ReplicasMap. Contributed by Suresh Srinivas.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/hdfs/trunk@899456 13f79535-47bb-0310-9956-ffa450edef68  

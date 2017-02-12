@@ -1,0 +1,1 @@
+  merge -c 1441668 from trunk to branch-2 to fix YARN-372. Move InlineDispatcher from hadoop-yarn-server-resourcemanager to hadoop-yarn-common. Contributed by Siddharth Seth.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1441669 13f79535-47bb-0310-9956-ffa450edef68  

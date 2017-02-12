@@ -1,0 +1,1 @@
+  fixes: reset tab for tests, detach old process  

@@ -1,0 +1,1 @@
+  fix handling of newlines in SaxJunitXmlResultWriter / SimpleXmlWriter..  

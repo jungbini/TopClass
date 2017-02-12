@@ -1,0 +1,1 @@
+  [groovy] convert DynamicManager from project component to service #2  fix DynamicManagerImpl registration  

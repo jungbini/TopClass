@@ -1,0 +1,1 @@
+  Update workaround for '--follow' log argument with largefiles extension.  *hg bug for largefiles was fixed in hg 2.7, so workaround not needed anymore for later versions; *history tests try to  fix - largefiles extension is switched on for windows by default  

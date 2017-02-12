@@ -1,0 +1,1 @@
+  fix #1235: Quick doc show all comments before function but only last needed  

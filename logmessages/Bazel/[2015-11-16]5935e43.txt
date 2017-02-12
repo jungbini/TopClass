@@ -1,0 +1,1 @@
+  Tutorial: fix WORKSPACE env var export  As mentioned in mailing list: https://groups.google.com/forum/#!msg/bazel-discuss/Lmmny9foXW0/_tf2ti8KCAAJ  -- Change-Id: I8ec654b3cb8a5df28113d1136c511334c1ea99e9 Reviewed-on: https://bazel-review.googlesource.com/#/c/2340/ MOS_MIGRATED_REVID=107923683  

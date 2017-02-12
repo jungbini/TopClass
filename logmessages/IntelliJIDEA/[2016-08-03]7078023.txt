@@ -1,0 +1,1 @@
+  IG: quickfix for "Method does not call super method" (IDEA-89117)  

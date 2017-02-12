@@ -1,0 +1,1 @@
+  submitTransactionLater shouldn't do invokeLater twice  fixes too many visual editor changes during inplace refactorings  

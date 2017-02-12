@@ -1,0 +1,1 @@
+  [shelve]: fix dialog to be compatible with new MigLayout library  * problem Introduced in a9e7965f88;  

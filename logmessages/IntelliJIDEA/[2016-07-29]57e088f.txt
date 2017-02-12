@@ -1,0 +1,1 @@
+  SingleCharSequence::subSequence implemented (fixes latency free typing with Markdown)  

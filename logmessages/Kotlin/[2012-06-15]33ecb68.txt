@@ -1,0 +1,1 @@
+  Stubs: - Activate stub behaviour for named functions - Move information about stubs implementation to the suffix of class names  

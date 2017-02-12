@@ -1,0 +1,1 @@
+  move compareFunctions to separate file to simplify JavaScriptDebugProcess class ensure that we don't show thread name for single process debug  

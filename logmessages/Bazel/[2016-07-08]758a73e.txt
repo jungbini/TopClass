@@ -1,0 +1,1 @@
+  Make swift_library explicitly specify the module maps it is using.  * This seems to fix an issue with Clang loading the same header twice when it's discovering module maps implicitly. Also makes the command line cleaner.  -- MOS_MIGRATED_REVID=126922449  

@@ -1,0 +1,1 @@
+  inspection view: make apply fix toolbar and popup actions consistent IDEA-158795  

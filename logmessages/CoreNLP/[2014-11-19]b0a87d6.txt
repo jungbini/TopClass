@@ -1,0 +1,1 @@
+  Override add/remove child, fix setchildren so that it maintains parent pointers when the TreeGraphNode nodes are manipulated  

@@ -1,0 +1,1 @@
+  bind smart element to proper root in template languages #WEB-11589 fixed  

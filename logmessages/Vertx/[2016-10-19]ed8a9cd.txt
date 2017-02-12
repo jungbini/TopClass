@@ -1,0 +1,1 @@
+ Merge pull request #1684 from eclipse/tls-test-fixes  Fix a few broken tls tests  commit ed8a9cda6817b61060d7382b6a6649e9b9e198ee  Minor Javadoc fix  Signed-off-by: Konstantinos Liakos <liakoskonstantin@gmail.com>  

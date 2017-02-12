@@ -1,0 +1,1 @@
+  Sonar plugin fixes  - tell Sonar about the project's name - put all compile dependencies on Sonar's library path, and do it right  

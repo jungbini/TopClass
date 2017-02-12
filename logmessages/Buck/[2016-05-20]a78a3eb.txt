@@ -1,0 +1,1 @@
+  Fixing tests  Summary: GenruleDepsIntegrationTest fixed, CachedTestRunReportingIntegrationTest and com.facebook.buck.jvm.java.ResourcesRootIntegrationTest are not failing (because of previous fixes)  Test Plan: locally, CI  Reviewed By: beefon  fbshipit-source-id: 7d694de  

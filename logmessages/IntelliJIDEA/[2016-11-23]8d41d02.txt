@@ -1,0 +1,1 @@
+  initialize UndoManagerImpl earlier (refix IDEA-163699, IDEA-CR-16066)  

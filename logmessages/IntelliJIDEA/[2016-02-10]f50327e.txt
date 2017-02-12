@@ -1,0 +1,1 @@
+  do not allow runnable code inside doc comment in debugger source checker  

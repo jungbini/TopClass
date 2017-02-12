@@ -1,0 +1,1 @@
+  clean up Table/CFS onstart to fix cache size calculation (need key count so it's not zero) patch by jbellis; reviewed by goffinet for CASSANDRA-678  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@898176 13f79535-47bb-0310-9956-ffa450edef68  

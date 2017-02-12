@@ -1,0 +1,1 @@
+  [vcs-log] fix grammar: than -> then  

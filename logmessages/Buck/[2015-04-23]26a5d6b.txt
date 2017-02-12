@@ -1,0 +1,1 @@
+  'type' metadata on rule definition should be namespaced with 'buck.' prefix.  Summary: This addresses a longstanding TODO in `AuditRulesCommand`.  Previous to this change, if someone introduced a new build rule with an argument named `type`, things would have failed in mysterious and exciting ways.  Test Plan: CI  

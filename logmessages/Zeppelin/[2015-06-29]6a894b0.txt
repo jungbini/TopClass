@@ -1,0 +1,1 @@
+ert for spark 1.4 bce3c1d [Lee moon soo] Print more stacktrace  

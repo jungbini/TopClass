@@ -1,0 +1,1 @@
+  several quickedit (sql in xml) exception fixes  

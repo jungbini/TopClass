@@ -1,0 +1,1 @@
+  fix for Aqua's UI lock with persistent popup & modal dialog  

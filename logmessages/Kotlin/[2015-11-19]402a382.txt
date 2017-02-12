@@ -1,0 +1,1 @@
+  creating shared build lib, copying basic lookup storage, tracker and incremental cache related files into it from jps plugin, updating package names, fixing internal references  

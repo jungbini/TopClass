@@ -1,0 +1,1 @@
+  fixed PY-6013 False positive for "Statement has no effect" in import statements in Mako templates  

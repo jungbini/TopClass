@@ -1,0 +1,1 @@
+oduced by BeanInfoFactory directly into CachedIntrospectionResults. The net effect is that ExtendedBeanInfo is out of the code path entirely except for bean classes that actually contain 'candidate' methods, i.e. non-void and/or static write methods.  This commit also includes the changes made in SPR-10115.  Issue: SPR-9723, SPR-10029, SPR-9677, SPR-8079  

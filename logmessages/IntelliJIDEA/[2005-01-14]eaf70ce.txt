@@ -1,0 +1,1 @@
+  fixed memory leak: actions of TabbedPaneWrapper no more hang on IdeaRootFrame.clientProperties  

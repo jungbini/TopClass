@@ -1,0 +1,1 @@
+  settings now got tabs  instead of an army of tabs. fixes #WEBINTERFACE-152  

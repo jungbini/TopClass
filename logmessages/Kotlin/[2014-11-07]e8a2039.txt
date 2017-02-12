@@ -1,0 +1,1 @@
+  Use JetTestUtils.assertEqualsToFile in usages tests to simplify fixing test data  

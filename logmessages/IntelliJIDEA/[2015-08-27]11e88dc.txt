@@ -1,0 +1,1 @@
+  Fix background Python sdk configuration.  There are 3 problems fixed: * race-condition accessing shared Sdk instance and ProjectJdkTable instance. * using 

@@ -1,0 +1,1 @@
+  fix ant completion in "forced" ant files (IDEADEV-25882)  

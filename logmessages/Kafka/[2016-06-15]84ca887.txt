@@ -1,0 +1,1 @@
+  KAFKA-3830; getTGT() debug logging exposes confidential information  Only log the client and server principals, which is what ZooKeeper does after ZOOKEEPER-2405.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Grant Henke <granthenke@gmail.com>, Sriharsha Chintalapani <harsha@hortonworks.com>  Closes #1498 from ijuma/kafka-3830-get-tgt-debug-confidential  

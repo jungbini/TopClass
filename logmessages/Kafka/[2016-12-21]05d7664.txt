@@ -1,0 +1,1 @@
+  MINOR: fixup typo in ops.html  pretty boring docfix, "no" -> "not"  Author: Scott Ferguson <smferguson@gmail.com>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #2269 from smferguson/fixup_typo_in_add_remove_topics  

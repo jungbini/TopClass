@@ -1,0 +1,1 @@
+  [vcs-log] fix log text filter for strings containing "[" or "]" characters  

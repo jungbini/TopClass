@@ -1,0 +1,1 @@
+  [compilation fixed] cherry-picked AnalysisScope.accept(Processor<VirtualFile>) was introduced which does not hold read action to fix IDEA-134087 Deadlock while running an inspection on the project  

@@ -1,0 +1,1 @@
+  Fixed bug preventing item types that have multiple accepted data types, but no command types  

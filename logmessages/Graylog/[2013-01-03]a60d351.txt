@@ -1,0 +1,1 @@
+  don't use user cache with custom query conditions  fixes #SERVER-251  

@@ -1,0 +1,1 @@
+  Add zoom support to the designer infrastructure [fix-29696]  

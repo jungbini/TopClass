@@ -1,0 +1,1 @@
+  fixed wrong retry in case of not found serialized exception in the client.  

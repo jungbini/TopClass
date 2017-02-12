@@ -1,0 +1,1 @@
+  don't encode/decode file references if 'search for references' is disabled (partial fix for WEB-11872)  

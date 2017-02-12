@@ -1,0 +1,1 @@
+  use embedded tokes for templates instead of injections #WEB-11115 fixed  

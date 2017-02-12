@@ -1,0 +1,1 @@
+  [resolve] incorrect name resolution in struct initializer, fix #2409  

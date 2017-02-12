@@ -1,0 +1,1 @@
+  [vcs-log] fix broken root-color stripe IDEA-151449  

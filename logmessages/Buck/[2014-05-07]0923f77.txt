@@ -1,0 +1,1 @@
+  Fix bug where build.log would only be produced on first buckd run  Test Plan: buckd buck build buck rm -rf buck-out/bin/buck.log buck build buck  verify buck.log is present  Unit tests  

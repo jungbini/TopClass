@@ -1,0 +1,1 @@
+  java-xdebugger: show extra array elements on demand  

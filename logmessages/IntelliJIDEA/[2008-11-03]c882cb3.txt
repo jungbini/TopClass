@@ -1,0 +1,1 @@
+  SVN: new svnkit, build 5066. fix for: when quick update, update deleted dirs in WC  

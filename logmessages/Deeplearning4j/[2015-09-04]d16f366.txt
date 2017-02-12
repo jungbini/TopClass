@@ -1,0 +1,1 @@
+ Merge pull request #674 from deeplearning4j/ab_pomfix  Update nd4j version in dl4j core pom  commit d16f366f7ae9c0077a573fa863c6f607aa7fb19c  Truncated BPTT fix (use backward length conf. option)  

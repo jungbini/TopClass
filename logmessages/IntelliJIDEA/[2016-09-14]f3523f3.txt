@@ -1,0 +1,1 @@
+ll `git reset --soft` instead of `--mixed`, to add all files from the commit to the index.  This fixes IDEA-160606  

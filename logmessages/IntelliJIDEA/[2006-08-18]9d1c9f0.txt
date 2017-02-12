@@ -1,0 +1,1 @@
+  assertion added about glueing together text from prefix and element body into one token  

@@ -1,0 +1,1 @@
+  fix: BuildConfig.java generation should work for circular dependencies  

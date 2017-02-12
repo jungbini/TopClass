@@ -1,0 +1,1 @@
+  Extracting the "slop xpath prefix"  and replacing the use of `implied_xpath_context` in preparation for a refactoring of search functionality.  

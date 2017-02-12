@@ -1,0 +1,1 @@
+  git4idea: IDEA-57077: fixed the case when configuration switch does not require checkout  

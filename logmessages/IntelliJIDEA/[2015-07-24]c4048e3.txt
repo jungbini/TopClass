@@ -1,0 +1,1 @@
+  extra fix for IDEA-139797  - focusable history button  

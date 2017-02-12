@@ -1,0 +1,1 @@
+  fix for lazy evaluation of log string  

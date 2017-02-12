@@ -1,0 +1,1 @@
+  Add integration test for continous build bug  - Integration test for Continuous build doesn't watch for changes when some task has a single input file in the parent directory of another task's input directory, https://issues.gradle.org/browse/GRADLE-3415  +review REVIEW-5881  

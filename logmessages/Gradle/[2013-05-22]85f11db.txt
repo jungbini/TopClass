@@ -1,0 +1,1 @@
+  Changed the test repository fixtures to generate content such that the length of each artifact changes each time publishWithChangedContent() is called. Also fixed sha1 and md5 checksum generation to include leading '0'.  

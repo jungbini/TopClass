@@ -1,0 +1,1 @@
+  Github: fix case-sensitiveness of git repository  

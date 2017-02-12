@@ -1,0 +1,1 @@
+  Close `OutputStream` in `ProjectFilesystem.writeBytesToPath()`.  Summary: I got a bunch of "Too many open files" IOExceptions while working on a 

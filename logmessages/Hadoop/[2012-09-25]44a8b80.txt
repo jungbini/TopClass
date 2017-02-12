@@ -1,0 +1,1 @@
+  Merge -c 1368350 from branch-1 to branch-1.1 to fix HDFS-3667.  Add retry support to WebHdfsFileSystem.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.1@1390036 13f79535-47bb-0310-9956-ffa450edef68  

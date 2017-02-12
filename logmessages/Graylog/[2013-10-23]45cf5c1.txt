@@ -1,0 +1,1 @@
+  show node connectivity status when disconnected  fixes #316  

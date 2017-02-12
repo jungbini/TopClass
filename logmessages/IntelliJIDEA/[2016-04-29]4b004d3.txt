@@ -1,0 +1,1 @@
+  fold entities to their char value #WEB-422 fixed  

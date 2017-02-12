@@ -1,0 +1,1 @@
+  DevKit: extract PluginDescriptorChooser, improve plugin.xml candidates list presentation, fix dumb mode error  

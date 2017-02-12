@@ -1,0 +1,1 @@
+  Add two fixes to release notes for 1.1.0-rc5.  Move three fixes in CHANGES.txt from 1.1.0 to 1.0.4 in anticipation of 1.0.4 release.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.1@1394289 13f79535-47bb-0310-9956-ffa450edef68  

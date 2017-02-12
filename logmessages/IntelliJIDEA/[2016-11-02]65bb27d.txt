@@ -1,0 +1,1 @@
+  JavaNullArgumentIndex: fix for NPE on literal value extraction (EA-90268)  

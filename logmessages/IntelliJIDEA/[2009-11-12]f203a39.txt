@@ -1,0 +1,1 @@
+  fixed [IDEADEV-41319] test runner: do not show green balloon and green progress bar if no tests were found  

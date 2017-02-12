@@ -1,0 +1,1 @@
+  fix 'library already disposed' error while update libraries from plugin  

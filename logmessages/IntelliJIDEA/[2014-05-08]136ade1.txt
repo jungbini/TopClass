@@ -1,0 +1,1 @@
+  fixed PY-4479 Add field to class: select created field for editing, not passed to constructor parameter  

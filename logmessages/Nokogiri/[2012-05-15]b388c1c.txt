@@ -1,0 +1,1 @@
+ Revert "* Nokogiri::XML::Text#to_ary returns an array with the node text. fixes #679"  This reverts commit 96baf08499f03b077df7e563f812e90d874b3fb5.  

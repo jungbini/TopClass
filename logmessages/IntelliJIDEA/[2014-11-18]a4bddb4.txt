@@ -1,0 +1,1 @@
+  IDEA-131435 Debugger: quick evaluate: array initializer is suggested, but reported invalid  

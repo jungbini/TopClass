@@ -1,0 +1,1 @@
+  JS: fix calling inline function of external class with varargs  

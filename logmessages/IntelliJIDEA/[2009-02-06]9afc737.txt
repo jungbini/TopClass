@@ -1,0 +1,1 @@
+  IDEADEV-34509 - Autocompletion and invoking quick javadoc: Esc closes autocompletion, not quick javadoc + fix for the same thing in Ctrl-N  

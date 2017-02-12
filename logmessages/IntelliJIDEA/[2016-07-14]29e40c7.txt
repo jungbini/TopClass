@@ -1,0 +1,1 @@
+  revert fix for IDEA-105408  caret row becomes almost invisible in some languages (PHP, Velocity, etc)  

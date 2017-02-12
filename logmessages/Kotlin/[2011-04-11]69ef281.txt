@@ -1,0 +1,1 @@
+  Fixed the parser bug when a no-else if was followed by a semicolon and no newline  

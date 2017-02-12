@@ -1,0 +1,1 @@
+  ninja fix cassandra-stress pre-2.1.1 compatibility  

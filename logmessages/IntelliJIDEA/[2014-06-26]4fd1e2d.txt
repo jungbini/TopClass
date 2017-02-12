@@ -1,0 +1,1 @@
+  bug EDIDE-45 fixed  

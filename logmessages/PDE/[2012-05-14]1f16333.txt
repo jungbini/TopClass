@@ -1,0 +1,1 @@
+  Added fix for issue 935 on android as well  

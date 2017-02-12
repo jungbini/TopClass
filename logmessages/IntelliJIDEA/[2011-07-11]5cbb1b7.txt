@@ -1,0 +1,1 @@
+  [hg] prompthooks.py fix import readauthforuri for 1.9  readautoforuri was moved to mercurial.httpconnection in 1.9  

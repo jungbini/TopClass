@@ -1,0 +1,1 @@
+  make method return fix: make available for constructor calls; java 8 specific tests; simplify inference  

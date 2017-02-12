@@ -1,0 +1,1 @@
+  - GroupItems support - PeristenceService support - some code refactoring  Signed-off-by: Tobias Brutigam <tbraeutigam@gmail.com>  minor bugfixes  changes due to Thomas code review  

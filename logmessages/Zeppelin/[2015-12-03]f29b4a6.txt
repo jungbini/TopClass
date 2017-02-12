@@ -1,0 +1,1 @@
+bator-zeppelin/pull/502 is closed, fixing it here.  Author: Prabhjyot Singh <prabhjyotsingh@gmail.com>  Closes #508 from prabhjyotsingh/ZEPPELIN-447-typos and squashes the following commits:  4aa85dd [Prabhjyot Singh] fixing typos  

@@ -1,0 +1,1 @@
+  HDFS-7807. libhdfs htable.c: fix htable resizing, add unit test (cmccabe)  

@@ -1,0 +1,1 @@
+  YARN-1884. Added nodeHttpAddress into ContainerReport and fixed the link to NM web page. Contributed by Xuan Gong.  

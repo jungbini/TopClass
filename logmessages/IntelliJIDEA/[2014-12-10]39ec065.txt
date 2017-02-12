@@ -1,0 +1,1 @@
+  IDEA-132151 Debugger: add ability to create custom LocalVariableDescriptor  

@@ -1,0 +1,1 @@
+  remove changes made for bug #882, caused to many other regressions  

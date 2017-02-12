@@ -1,0 +1,1 @@
+  fix cleanup of tmp dir in HdfsDataSegmentPusher (#3636)  

@@ -1,0 +1,1 @@
+  MINOR: fix typo  Author: kenji yoshida <6b656e6a69@gmail.com>  Reviewers: Ismael Juma  Closes #996 from xuwei-k/patch-1  

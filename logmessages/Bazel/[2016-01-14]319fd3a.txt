@@ -1,0 +1,1 @@
+  fix some header guard paths  They are not in third_party directory, so they should start with BAZEL.  -- Change-Id: I68b561ef8d06f50e8223af432a4f8aceb1a9c09d Reviewed-on: https://bazel-review.googlesource.com/#/c/2670/ MOS_MIGRATED_REVID=112173485  

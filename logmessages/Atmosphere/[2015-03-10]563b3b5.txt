@@ -1,0 +1,1 @@
+  :bug: #1888 AtmosphereResponse.getHeaderNames() may thrown Exception  

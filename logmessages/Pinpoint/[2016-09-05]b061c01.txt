@@ -1,0 +1,1 @@
+ bug fix. - do not display realtime thread chart when change period to realtime after click link.  

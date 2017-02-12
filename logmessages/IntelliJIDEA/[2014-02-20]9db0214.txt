@@ -1,0 +1,1 @@
+  IDEA-120994 Debugger: tooltip on multiline string value - no need to escape quote characters  

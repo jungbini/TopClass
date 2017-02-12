@@ -1,0 +1,1 @@
+  JavaScript debugger plugin classloader attr fixed, mozilla initialization, js array presentation in debugger  

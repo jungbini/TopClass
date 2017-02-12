@@ -1,0 +1,1 @@
+  Addded "iter" postfix template working like "for" one to be consistent with live templates  

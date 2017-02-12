@@ -1,0 +1,1 @@
+  Fixed bug on OStorage.getURL(): the protocol was returned twice  

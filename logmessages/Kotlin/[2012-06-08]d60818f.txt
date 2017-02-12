@@ -1,0 +1,1 @@
+  KT-2193 Nullability information lost for functions inherited from traits  #KT-2193 fixed  

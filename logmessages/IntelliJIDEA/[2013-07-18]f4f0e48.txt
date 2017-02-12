@@ -1,0 +1,1 @@
+  Bug fix: replace "Settings -> Maven" to "File | Settings | Maven" +review CR-IC-1564  

@@ -1,0 +1,1 @@
+  better check for side effects in debugger value hint; fix handling method call expressions on alt-click  

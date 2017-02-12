@@ -1,0 +1,1 @@
+  Build fix. The second version of DataFlowInfo.getPossibleTypes returning also the original type added and used.  

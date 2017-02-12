@@ -1,0 +1,1 @@
+  Allow resolving of modules with -mod suffix  

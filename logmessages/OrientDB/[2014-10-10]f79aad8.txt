@@ -1,0 +1,1 @@
+  fixed wrong query paramenter serialization. issue #2890  

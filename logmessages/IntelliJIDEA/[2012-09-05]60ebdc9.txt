@@ -1,0 +1,1 @@
+  fixed PY-7463 Intention "Replace + with string formatting operator" doesn't work for unicode strings  

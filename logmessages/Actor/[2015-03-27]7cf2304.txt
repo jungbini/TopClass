@@ -1,0 +1,1 @@
+  fix(js): Fixed missing js library, fixed package building, removed obsolete resources  

@@ -1,0 +1,1 @@
+  provide common html element attributes for angular directives #WEB-12010 fixed  

@@ -1,0 +1,1 @@
+  fixed build issue when a build agent contains space in some configuration parameters. Cleanup.  

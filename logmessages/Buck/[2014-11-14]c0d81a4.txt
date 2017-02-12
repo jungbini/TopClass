@@ -1,0 +1,1 @@
+  Rename NDK library DEP_*FLAGS to BUCK_DEP_*FLAGS  Summary: This 

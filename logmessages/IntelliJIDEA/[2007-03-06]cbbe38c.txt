@@ -1,0 +1,1 @@
+  rename in scopes view fixes: IDEADEV-14467  

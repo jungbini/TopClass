@@ -1,0 +1,1 @@
+  testng isConfiguredBy: fix typo/support for suite files (IDEA-140200)  

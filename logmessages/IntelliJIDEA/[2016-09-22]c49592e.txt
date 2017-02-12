@@ -1,0 +1,1 @@
+  IDEA-161599 ui: fix expand/collapse click area in UI Designer  

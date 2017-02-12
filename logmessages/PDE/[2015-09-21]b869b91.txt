@@ -1,0 +1,1 @@
+  don't insert a space when typing ctrl-space (fixes #3847)  

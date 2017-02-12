@@ -1,0 +1,1 @@
+  fixed EA-36720 - NPE: StatementMover.getStatementParts  

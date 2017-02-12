@@ -1,0 +1,1 @@
+  fixed bug in FaunusGraphs transform method. Started a FaunusGraphTest pattern. Added new images for documentation.  

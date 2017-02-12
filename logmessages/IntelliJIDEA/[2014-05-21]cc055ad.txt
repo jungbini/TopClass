@@ -1,0 +1,1 @@
+  fixed PY-12405 --noinput option does not work when running django unit tests  

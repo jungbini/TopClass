@@ -1,0 +1,1 @@
+  fixed incorrect gutter background in code fragments (folding preview) in destruction free mode  

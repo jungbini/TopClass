@@ -1,0 +1,1 @@
+  Fix issue #82  This is the patch which fixes the bug reported in #82 https://github.com/google/bazel/issues/82  Change-Id: Ia007b37a3c6156d4373bac24b1776e62d09daa57  -- MOS_MIGRATED_REVID=89992365  

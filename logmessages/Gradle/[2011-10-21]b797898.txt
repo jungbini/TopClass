@@ -1,0 +1,1 @@
+  provisional fix for NPE in DefaultFileLockManager.close() when Gradle runs on unsupported OS  

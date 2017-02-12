@@ -1,0 +1,1 @@
+  android-jps: replace suffixes "apk.*" by "*.apk"  

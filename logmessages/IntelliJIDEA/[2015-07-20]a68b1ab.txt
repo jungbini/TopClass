@@ -1,0 +1,1 @@
+  IDEA-137372 Live templates speed search matching can honor group name in addition to the template prefix  

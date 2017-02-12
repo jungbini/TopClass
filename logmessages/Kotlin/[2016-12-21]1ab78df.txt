@@ -1,0 +1,1 @@
+  JS: fix translation of `for` statement when either `next` or `hasNext` method translates to multiple statements. Fix KT-15367  

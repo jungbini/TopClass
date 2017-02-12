@@ -1,0 +1,1 @@
+  Add debugging output when no files are matched.  At present, all paths are prefaced with "./", which is unclear to the user of the CLI. He/she has no way of knowing this without trial and error or reading the code. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=67859831  

@@ -1,0 +1,1 @@
+  fix determine partitions partitioner to work in local mode  

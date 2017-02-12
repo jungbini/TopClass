@@ -1,0 +1,1 @@
+  Fix misuse of closure enums in extern files defining browsers api.  People misused closure enum to define a set of possible string values. In order to fix that without breaking apps we change enums to typedef {string}  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=142419882  

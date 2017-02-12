@@ -1,0 +1,1 @@
+  fixed PY-7975 isTestFrameworkInstalled throws exception for remote interpreter  

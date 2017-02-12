@@ -1,0 +1,1 @@
+  IPython debug console: distinguish between user variables and ipython ones (PY-5171)  Information about IPython hidden variables is taken from the special IPython dict. After that we move these variables to a separate group "IPython Variables".  

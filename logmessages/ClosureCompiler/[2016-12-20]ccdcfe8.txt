@@ -1,0 +1,1 @@
+  Rollback of 6b2d7b2, as it was causing incorrect optimizations.  Also add a test replicating the bug reported in https://github.com/google/closure-compiler/issues/2203  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=142589566  

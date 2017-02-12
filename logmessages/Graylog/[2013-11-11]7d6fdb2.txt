@@ -1,0 +1,1 @@
+  refactor messy LDAP code  unified connection/login checking disable authorization caching fixes #296  

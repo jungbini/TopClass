@@ -1,0 +1,1 @@
+  fix NPE on null language when file type is not language file type but highlighter returns language based tokens (e.g. form file type and xmlsyntaxhighlighter)  

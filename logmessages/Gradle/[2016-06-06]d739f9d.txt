@@ -1,0 +1,1 @@
+  GRADLE-3471 Fix NullPointerException in equals-Method of DefaultEarModule  This fixes the implementation of equals for DefaultEarModuleTest. The NullPointerException occurs in the Ear-Task when checking if the EarModule is already in the list of modules of the deployment descriptor and there is already an EarModule with the same Hashcode in the list.  

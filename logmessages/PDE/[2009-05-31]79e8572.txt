@@ -1,0 +1,1 @@
+  more fixes for osx version in build script  

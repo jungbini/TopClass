@@ -1,0 +1,1 @@
+  replace action is separeate from find. fixed some ui-issues. small fix in balloon by Kirill.  

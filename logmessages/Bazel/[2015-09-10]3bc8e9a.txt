@@ -1,0 +1,1 @@
+  Fix bug in the parser when a block was silently skipped.  Some cosmetic changes with EnumSets.  -- MOS_MIGRATED_REVID=102742596  

@@ -1,0 +1,1 @@
+  If the node doesn't have a document (e.g., Reader), then don't bother registering a gc mark function. Partly fixes #439.  

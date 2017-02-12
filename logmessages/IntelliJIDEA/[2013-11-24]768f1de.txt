@@ -1,0 +1,1 @@
+  IDEA-115275 (bundle compiler migrated from VFS to plain files)  - fixes stale timestamps problem - eliminates the case of loading module output into VFS  

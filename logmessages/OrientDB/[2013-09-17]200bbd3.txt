@@ -1,0 +1,1 @@
+  Case when 1-st level cache was not cleared after request on remote server was fixed.  

@@ -1,0 +1,1 @@
+zing icon; * fix font, border and margins; * make a workaround for JDK updating size problem.  

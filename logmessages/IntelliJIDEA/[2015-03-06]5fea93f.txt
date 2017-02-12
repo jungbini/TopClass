@@ -1,0 +1,1 @@
+  SSR: add escaping to old-style patterns to fix JS test  

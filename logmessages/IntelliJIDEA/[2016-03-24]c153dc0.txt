@@ -1,0 +1,1 @@
+  EDU-572 fix study and course creator move delegates so as not to block other move delegates  

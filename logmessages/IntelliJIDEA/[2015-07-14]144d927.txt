@@ -1,0 +1,1 @@
+  show used variables from outer methods in debugger  

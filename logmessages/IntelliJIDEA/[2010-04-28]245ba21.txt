@@ -1,0 +1,1 @@
+  Bugs fixed: 1. [RUBY-5965] Broken tip VCS quicklist 2. [RUBY-5964] Broken tip File Colors  

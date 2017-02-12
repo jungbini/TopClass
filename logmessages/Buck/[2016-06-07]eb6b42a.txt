@@ -1,0 +1,1 @@
+  fix KnownBuildRuleTypesTest  Summary: Using rundll32.exe as a fake javac  Test Plan: locally, CI  Reviewed By: Coneko  fbshipit-source-id: 07bf1a3  

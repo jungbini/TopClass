@@ -1,0 +1,1 @@
+  HBASE-1512 Addendum to fix failing tests on jenkins  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1096942 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  MINOR: Improve Kafka documentation  Improve the documentation by fixing typos, punctuations, and correcting the content.  Author: Vahid Hashemian <vahidhashemian@us.ibm.com>  Reviewers: Grant Henke <granthenke@gmail.com>, Ewen Cheslack-Postava <ewen@confluent.io>  Closes #778 from vahidhashemian/typo05/fix_documentation_typos  

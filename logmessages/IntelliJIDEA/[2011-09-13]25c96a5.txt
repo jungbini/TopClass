@@ -1,0 +1,1 @@
+  fixed PY-4534 PyCharm can't fimd nosetests runner.  

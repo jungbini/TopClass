@@ -1,0 +1,1 @@
+ Merge pull request #403 from lwahonen/upstream  Fix SUCCEEDED and FAILED instead of trying to fix the bug where it's vis...  commit fe79ff84115369d6cc0e1d6fa240d2c431094af7  Fix SUCCEEDED and FAILED instead of trying to fix the bug where it's visible. See MSDN for FAILED and SUCCEEDED definitions  Changes  

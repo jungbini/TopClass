@@ -1,0 +1,1 @@
+  YARN-2194. Addendum patch to fix failing unit test in TestPrivilegedOperationExecutor. Contributed by Sidharta Seethana.  

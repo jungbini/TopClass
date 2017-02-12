@@ -1,0 +1,1 @@
+  Fix a bug in `buck run` where output was not being printed to the console.  Test Plan: Updated `RunCommandIntegrationTest` to verify that new `buck run` behavior is working as intended. Sandcastle builds.  

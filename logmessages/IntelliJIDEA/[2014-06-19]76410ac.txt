@@ -1,0 +1,1 @@
+  platform: "create desktop entry" action script lookup fixed  

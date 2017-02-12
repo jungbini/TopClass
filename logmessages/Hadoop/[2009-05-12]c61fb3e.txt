@@ -1,0 +1,1 @@
+  Merge -r 773888:773889 from trunk to branch 0.20 to fix HADOOP-5641.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/branches/branch-0.20@773891 13f79535-47bb-0310-9956-ffa450edef68  

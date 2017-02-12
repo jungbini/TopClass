@@ -1,0 +1,1 @@
+  fixed PY-13271 PyCharm 3.4.1 (135.1049) freezes  added timeout for PyPI connection  

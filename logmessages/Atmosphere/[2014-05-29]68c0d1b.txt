@@ -1,0 +1,1 @@
+  New fix for issue #1612  [jsr356] Workaround https://java.net/jira/browse/WEBSOCKET_SPEC-228  

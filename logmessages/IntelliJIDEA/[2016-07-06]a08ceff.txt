@@ -1,0 +1,1 @@
+  inspection toolwindow: amnesty should not amnesty of applied fixes IDEA-156823  

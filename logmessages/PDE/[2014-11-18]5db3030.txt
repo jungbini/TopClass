@@ -1,0 +1,1 @@
+  getCaretLocation() issue for non-Roman scripts (fixes #2934)  

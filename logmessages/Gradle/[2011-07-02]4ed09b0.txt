@@ -1,0 +1,1 @@
+  GRADLE-1487 Fixed the issue around plusConfigurations & minusConfigurations in eclipse plugin. The fix appeared easy during the refactoring.  

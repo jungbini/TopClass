@@ -1,0 +1,1 @@
+  remove automatic redirect on 401 responses for periodical ajax calls  this change will now no longer redirect on timed out sessions, but also won't spuriously redirect on backend timeouts explicit session timeouts will need some api client changes for cleaner exception handling  fixes #695  

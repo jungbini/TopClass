@@ -1,0 +1,1 @@
+  New setting and test: space before lambda arrow  #KT-3932 fixed  

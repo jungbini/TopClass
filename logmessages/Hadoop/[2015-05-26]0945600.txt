@@ -1,0 +1,1 @@
+  HDFS-8479. Erasure coding: fix striping related logic in FSDirWriteFileOp to sync with HDFS-8421. Contributed by Zhe Zhang.  

@@ -1,0 +1,1 @@
+ Merge pull request #82 from Leemoonsoo/zan_job_manager_bug_fix  ZEPPELIN-140 Autorefresh ZAN menu  commit 8b2b07a67288b05c05110bd76b2592f276ebeb64  ZEPPELIN-140 fix scheduler bug  

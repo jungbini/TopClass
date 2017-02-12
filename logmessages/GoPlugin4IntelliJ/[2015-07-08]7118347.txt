@@ -1,0 +1,1 @@
+  partial fix for #1718: View Parameter Info for returned functions  

@@ -1,0 +1,1 @@
+  1) Adjust the StorageAdapters to lowercase names of metrics and dimensions before looking them up. 2) Add some docs to InputRow/Row to indicate that column names passed into the methods are *always* lowercase and that the rows need to act accordingly. (fixes #29, or at least clarifies the behavior...)  

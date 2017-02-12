@@ -1,0 +1,1 @@
+  modify transactionList window open bug  $window.htoScatter and $window.$routeParams is undefined at scatter-full-screen-mode.  

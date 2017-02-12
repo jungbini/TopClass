@@ -1,0 +1,1 @@
+  fix NPE if queueBufferLength is null in KafkaEightSimpleConsumerFirehoseFactory (#3345)  

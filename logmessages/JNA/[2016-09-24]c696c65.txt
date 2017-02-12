@@ -1,0 +1,1 @@
+  Update CHANGES.md to document fix for strerror_r behavior  

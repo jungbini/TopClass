@@ -1,0 +1,1 @@
+  Remove onlyLoadingPhase on objects.  The mechanism was easy to workaround (store the object in a 

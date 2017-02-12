@@ -1,0 +1,1 @@
+  fix possible NPE rev = E. Kudelevsky (cherry-picked from 6cbd9c5)  

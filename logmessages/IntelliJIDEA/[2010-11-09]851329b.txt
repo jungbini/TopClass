@@ -1,0 +1,1 @@
+  xdebugger api: support for multiline error messages and error messages with hyperlinks  

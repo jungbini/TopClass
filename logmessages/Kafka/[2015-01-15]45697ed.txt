@@ -1,0 +1,1 @@
+  KAFKA-1499; Trivial follow-up (fix comments and whitespace)  

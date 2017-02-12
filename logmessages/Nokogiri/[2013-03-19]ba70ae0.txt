@@ -1,0 +1,1 @@
+  sparklemotion/nokogiri#865 - Tests and fix for duplicated attributes  

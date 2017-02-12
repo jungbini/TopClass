@@ -1,0 +1,1 @@
+  coverage: fix test name for junit4 ( IDEADEV-27738)  

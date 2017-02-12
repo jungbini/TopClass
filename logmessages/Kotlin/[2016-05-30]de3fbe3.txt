@@ -1,0 +1,1 @@
+  KT-12152: quick fix "make final" for member / containing class  

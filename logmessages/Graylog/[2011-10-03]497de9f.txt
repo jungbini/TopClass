@@ -1,0 +1,1 @@
+  minor nil bug fixes in message model that occured with incomplete messages  

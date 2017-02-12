@@ -1,0 +1,1 @@
+  don't search for messages if count says there are none. kind of a mongodb performance bug workaround  

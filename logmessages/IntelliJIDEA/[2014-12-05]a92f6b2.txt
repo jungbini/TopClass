@@ -1,0 +1,1 @@
+  IDEA-80966 Debugger "Resume" button - right next to the "STOP" button - added a separator  

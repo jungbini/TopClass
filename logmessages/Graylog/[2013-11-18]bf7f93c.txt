@@ -1,0 +1,1 @@
+  revert back to jersey 2.0  2.4.1 did not find any resources any more and debugging takes too much time to leave it like this for now  

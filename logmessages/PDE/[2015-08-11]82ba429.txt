@@ -1,0 +1,1 @@
+  update our own libraries to use .properties files (fixes #3574)  

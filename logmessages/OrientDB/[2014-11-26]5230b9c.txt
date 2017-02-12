@@ -1,0 +1,1 @@
+  fixed regression on function execution, introduced with last optimization (script engine pooling): a function could not be executed twice, second time it threw an exception  

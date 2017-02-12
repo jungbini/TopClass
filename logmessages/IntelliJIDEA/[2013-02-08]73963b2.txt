@@ -1,0 +1,1 @@
+  WEB-6561 Emmet, bem filter: multiple element prefixes work incorrecly when class names contain '-'  

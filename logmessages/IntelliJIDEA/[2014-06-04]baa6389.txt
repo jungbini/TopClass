@@ -1,0 +1,1 @@
+  SurroundWithQuotesAnnotationParameter: intention replaced by quick fix to the corresponding error  

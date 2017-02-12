@@ -1,0 +1,1 @@
+  IDEA-101456 Throwable at com.intellij.openapi.application.impl.ApplicationImpl.assertWriteAccessAllowed. also remove temporary breakpoint after hit when debug process stops  

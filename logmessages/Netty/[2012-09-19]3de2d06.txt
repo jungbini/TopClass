@@ -1,0 +1,1 @@
+ Update src/main/java/org/jboss/netty/handler/queue/BufferedWriteHandler.java  fix bug, flush variable was never reset  

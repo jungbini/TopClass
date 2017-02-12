@@ -1,0 +1,1 @@
+tting and comments initial commit for a HAI OmniLink binding for oopenHAB  commit 667d885247661a55bead3bc7c2a779732e8dbde7  Merge pull request #861 from cdjackson/zwave-routing  Zwave routing and maaaany bugfixes  commit 5f0128c5583d1df06b872e3deace283731a71c06  adding first version of MongoDB persistence (fix parent pom)  

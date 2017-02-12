@@ -1,0 +1,1 @@
+  [reviewed by Dennis Ushakov] Groovy colors page bug fixed  

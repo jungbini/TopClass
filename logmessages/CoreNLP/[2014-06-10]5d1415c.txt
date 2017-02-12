@@ -1,0 +1,1 @@
+  Added new class-based featurizers; fix unique rule id handling across codebase  

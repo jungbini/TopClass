@@ -1,0 +1,1 @@
+ Merge pull request #1480 from gmandnepr/master  Multithreading pool resource fix  commit 1f6bbf671ba51e287b670d2f3fb2f028383a101a  Multithreading pool resource closing fix  

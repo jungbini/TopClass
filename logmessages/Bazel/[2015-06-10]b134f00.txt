@@ -1,0 +1,1 @@
+  Fix bug where J2ObjC was reading Java files using the platform encoding.  -- MOS_MIGRATED_REVID=95659263  

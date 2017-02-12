@@ -1,0 +1,1 @@
+  KT-2254 Incorrect indentation after = in val: #KT-2254 fixed  

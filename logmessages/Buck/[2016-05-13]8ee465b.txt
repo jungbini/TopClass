@@ -1,0 +1,1 @@
+  fix JvmLibraryArgInterpreterTest, fix DiagnosticPrettyPrinterTest, enable CopyResourcesStepIntegrationTest (it's not failing)  Summary: fix JvmLibraryArgInterpreterTest, fix DiagnosticPrettyPrinterTest, enable CopyResourcesStepIntegrationTest (it's not failing)  Test Plan: CI, locally  Reviewed By: sdwilsh  fbshipit-source-id: f765488  

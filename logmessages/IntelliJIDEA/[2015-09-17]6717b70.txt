@@ -1,0 +1,1 @@
+  Remove action script if we had problem reading from it (IDEA-128540) Previous fix lacks fact of ObjectInputStream constructor to do the read over passed input stream, and such read also can fail for file with zero length  

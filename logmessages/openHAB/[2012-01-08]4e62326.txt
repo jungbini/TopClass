@@ -1,0 +1,1 @@
+  fixed NPE in error logging - thanks Mihail  

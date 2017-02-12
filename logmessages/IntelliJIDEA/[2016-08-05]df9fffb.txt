@@ -1,0 +1,1 @@
+  handle freemarker tags closing in freemarker plugin #WEB-14119 fixed  

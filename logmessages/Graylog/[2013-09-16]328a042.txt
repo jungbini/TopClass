@@ -1,0 +1,1 @@
+  flush index on deflector cycle. fixes #230  

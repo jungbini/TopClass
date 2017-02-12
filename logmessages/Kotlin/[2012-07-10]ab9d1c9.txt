@@ -1,0 +1,1 @@
+  KT-2379 Compilation error after running "ant dist" from terminal on Debian system with openjdk #KT-2379 fixed  

@@ -1,0 +1,1 @@
+  new "Boxing of already boxed value" inspection, fixes IDEA-31147 (Auto-unboxing suggestion)  

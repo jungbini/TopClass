@@ -1,0 +1,1 @@
+  Include directories when using a S3Client to list objects in a prefix. #636 - Include Contributor in release notes - Minor changes to Code  GRADLE-3453  +review REVIEW-5988  

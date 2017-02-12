@@ -1,0 +1,1 @@
+  use contains instead of endsWith check so that debug logging doesn't break the test  

@@ -1,0 +1,1 @@
+  Some fixup around hadoop version text... added cdh3b2 or b3 will suffice  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1035185 13f79535-47bb-0310-9956-ffa450edef68  

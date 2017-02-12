@@ -1,0 +1,1 @@
+  don't use classifier groups in completion sorting, fix grails test  

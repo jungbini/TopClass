@@ -1,0 +1,1 @@
+  Update for the previous fix for class object's visibility.  

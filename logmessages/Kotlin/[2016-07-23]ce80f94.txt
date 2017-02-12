@@ -1,0 +1,1 @@
+  Quickfix "Make primary constructor parameter a val" makes the val private now Fixes #KT-13187  

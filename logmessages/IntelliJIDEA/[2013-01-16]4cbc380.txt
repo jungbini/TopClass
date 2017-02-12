@@ -1,0 +1,1 @@
+  lambda: incompatible lambda parameters type check fixed according to wildcards (IDEA-99073)  

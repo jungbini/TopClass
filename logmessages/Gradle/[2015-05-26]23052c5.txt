@@ -1,0 +1,1 @@
+  Fix equals and hashcode (fixes NPE in deserialization)  +review REVIEW-5505  

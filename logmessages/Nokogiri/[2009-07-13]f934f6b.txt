@@ -1,0 +1,1 @@
+  fixing FFI use of encoding without checking for nullity. exposed by aaron's improved encoding support.  

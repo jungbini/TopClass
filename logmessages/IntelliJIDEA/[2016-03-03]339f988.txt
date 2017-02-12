@@ -1,0 +1,1 @@
+  inline superclass: fix layout (IDEA-152474)  

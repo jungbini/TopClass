@@ -1,0 +1,1 @@
+  Fix ExternalJavacIntegrationTest.  Summary: Earlier, we were replacing the entire environment with just one variable. The CI setup changed recently in such a way that the standard environment doesn't have python/java/etc in the $PATH. This fixes that by appending the new value to the existing environment.  Test Plan: sandcastle - ExternalJavacIntegrationTest passes  

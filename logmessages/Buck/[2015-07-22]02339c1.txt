@@ -1,0 +1,1 @@
+  C/C++: merge `ld` and `cxxld` concepts  Summary: We started off distinguishing between the linker (`ld`) and the linker driver (`cxxld`).  However, this never became useful in any way, and makes the code particularly confusing/complex.  This 

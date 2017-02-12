@@ -1,0 +1,1 @@
+  Adds a kind of auto-import for names defined in already imported files. Hopefully fixes PY-119. Also refactors resolve processors and adds a bunch of small code improvements.  

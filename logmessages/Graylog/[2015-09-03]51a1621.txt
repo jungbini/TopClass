@@ -1,0 +1,1 @@
+  Fix back button behaviour  When performing searches, keep only a single item in the browser history per page load. That is achieved by using `window.location.replace` instead of `window.location.hash`.  Also fix problems with back button on the sources tab.  Fixes #1404  

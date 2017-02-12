@@ -1,0 +1,1 @@
+  Force Persistit not to reuse test JVMs  Tried this while debugging an InvocationTargetException in the Persistit serial speed test implementation to no avail.  Shouldn't hurt to keep this conservative setting around while debugging, though.  

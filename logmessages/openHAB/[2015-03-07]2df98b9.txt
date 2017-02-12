@@ -1,0 +1,1 @@
+  Null dereference checks. Indentation fixes. Protect against a null dereference when looking up associations for devices that don't support it.  

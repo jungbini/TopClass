@@ -1,0 +1,1 @@
+  fixed create/update callback with dirty manager, fixed wrong array managment on field set. issue 2620  

@@ -1,0 +1,1 @@
+ Quickfix for renaming a reference that shadows a built-in name (PY-8788)  

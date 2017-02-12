@@ -1,0 +1,1 @@
+  - fixed bug where plucky queries are not successfully generated for streamrules with level or facility condition  

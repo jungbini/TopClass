@@ -1,0 +1,1 @@
+  IDEADEV-26276 no basic completion for "case" keyword in case fallthrough IDEADEV-10971 Too many completion suggestions in switch statement and also fix lesya  

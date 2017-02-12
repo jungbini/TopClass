@@ -1,0 +1,1 @@
+  [log] Ignore "All data is illegal" during refresh  This shouldn't actually happen, but it happens so rarely and is so hard to debug, so let's just log the fact and reload the whole log.  

@@ -1,0 +1,1 @@
+  fix Keymap page on Mac/Darcula. see same in LafManager for more info.  

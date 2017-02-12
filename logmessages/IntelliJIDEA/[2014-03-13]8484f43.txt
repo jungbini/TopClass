@@ -1,0 +1,1 @@
+  IDEA-122034 status command error temporary fixed  *log.error changed to special silent notification when status command failed , because of VscUtil.getVcsRoot method specific (when there are no project directory  information vcs root for .idea internal files will be .idea dir); *several using of VcsUtil methods changed to HgUtil appropriate methods  

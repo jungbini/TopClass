@@ -1,0 +1,1 @@
+ Implementation of Eclipse bug #469623  Signed-off-by: Ingo Weiss <ingo@redhat.com>  

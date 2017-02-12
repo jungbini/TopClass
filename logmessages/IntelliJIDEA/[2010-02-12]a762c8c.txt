@@ -1,0 +1,1 @@
+  fixed NPE when attempting to access to a disposed ContentManager in invokeLater  

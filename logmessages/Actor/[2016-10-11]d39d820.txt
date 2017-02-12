@@ -1,0 +1,1 @@
+  chore(core): trying to workaround j2objc flatmap bug  

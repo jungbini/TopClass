@@ -1,0 +1,1 @@
+  Fixed issue reported by Steven about TX congruency with nested records. The bug was reported in rollback.  

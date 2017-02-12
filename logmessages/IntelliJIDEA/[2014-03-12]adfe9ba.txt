@@ -1,0 +1,1 @@
+  Fixed bug where Gradle settings were not updated on each project sync.  Change-Id: I0dd7e1355d695fbdc62c8e8c001725fbadb1a7a3  

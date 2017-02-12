@@ -1,0 +1,1 @@
+  sandbox: Better parsing of runfiles manifest files, fixes #413.  -- MOS_MIGRATED_REVID=102145100  

@@ -1,0 +1,1 @@
+  fix couple of issues with https://github.com/JetBrains/intellij-community/pull/94  

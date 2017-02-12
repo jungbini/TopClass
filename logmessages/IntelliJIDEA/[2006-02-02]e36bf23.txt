@@ -1,0 +1,1 @@
+  more goodies while commenting by line (IDEADEV-2508 fixed)  

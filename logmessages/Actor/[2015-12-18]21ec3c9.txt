@@ -1,0 +1,1 @@
+  fix(android): Sticker content description  

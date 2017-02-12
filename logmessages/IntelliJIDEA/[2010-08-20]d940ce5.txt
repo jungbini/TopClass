@@ -1,0 +1,1 @@
+  Hyphens in inspection id allowed; line comment "noinspection" regexp fixed  

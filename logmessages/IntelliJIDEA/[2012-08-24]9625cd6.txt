@@ -1,0 +1,1 @@
+  RUBY-11716: ConsoleHistoryController should not use java default file encoding for log file, but get one in ctor. IrbRubyLanguageConsoleView uses project's default charset for console log. #RUBY-11716 fixed  

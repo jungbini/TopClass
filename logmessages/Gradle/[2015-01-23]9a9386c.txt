@@ -1,0 +1,1 @@
+  Added some unit test coverage for DefaultPluginManager and fixed an issue finding plugins from an empty plugin container.  

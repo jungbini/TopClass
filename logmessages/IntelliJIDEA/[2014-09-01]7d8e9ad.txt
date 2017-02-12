@@ -1,0 +1,1 @@
+  fix tests  we must add stream provider only on set test repository mananger  

@@ -1,0 +1,1 @@
+  ported last changes to android, fixed indexing bug  

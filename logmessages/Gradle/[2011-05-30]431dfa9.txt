@@ -1,0 +1,1 @@
+  Added backwards-compatibility methods/constructors for WTP component and facet, fixed behavior of EclipsePlugin, added additional docs for EclipsePlugin.  

@@ -1,0 +1,1 @@
+  ClsGenericsHighlightingTest: fix tearDown  

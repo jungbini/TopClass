@@ -1,0 +1,1 @@
+  Fix tests: we should always check if suspend policy "All" is supported for the breakpoint type. Otherwise we break Django template debugging  

@@ -1,0 +1,1 @@
+  fixed PY-10296 Access to protected member should have 

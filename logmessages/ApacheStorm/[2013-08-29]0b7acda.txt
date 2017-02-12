@@ -1,0 +1,1 @@
+  RankableObjectWithFields implements Serializable to fix NotSerializableException errors  

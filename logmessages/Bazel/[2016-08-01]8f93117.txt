@@ -1,0 +1,1 @@
+  Fixes bug where --noenforce_constraints wasn't propagating to host configurations.  Even though standard constraint checking skips target -> host deps anyway, it *doesn't* skip host -> host deps.  -- MOS_MIGRATED_REVID=128995987  

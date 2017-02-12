@@ -1,0 +1,1 @@
+  fix(android): Panda resource name fix  

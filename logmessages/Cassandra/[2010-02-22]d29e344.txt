@@ -1,0 +1,1 @@
+  Fix bug where ivy downloaded jar files were not included. Patch by johan, review by jbellis. CASSANDRA-816  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@914983 13f79535-47bb-0310-9956-ffa450edef68  

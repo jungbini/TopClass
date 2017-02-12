@@ -1,0 +1,1 @@
+  More batch norm tests and cnn fixes; should be passing now  

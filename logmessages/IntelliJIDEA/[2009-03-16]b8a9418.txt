@@ -1,0 +1,1 @@
+  fix NPE on showing Introduce Parameter Object dialog: don't call setErrorText() before init() was called  

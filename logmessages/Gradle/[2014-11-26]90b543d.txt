@@ -1,0 +1,1 @@
+  fixed test because dependent projects occure now in wtp component correctly  

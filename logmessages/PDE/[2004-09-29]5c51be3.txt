@@ -1,0 +1,1 @@
+  fixes for font sizing that wasn't matching the operating system  

@@ -1,0 +1,1 @@
+  fixed jest tests, but kept them removed from the build because we do not see much value in them  

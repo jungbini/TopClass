@@ -1,0 +1,1 @@
+  Artificial project: fix extension splitting  Test Plan: Run the script and confirm it works with `buck targets --show-rulekey`.  Reviewed By: Coneko  fbshipit-source-id: 827044f  

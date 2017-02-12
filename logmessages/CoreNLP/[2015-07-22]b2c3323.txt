@@ -1,0 +1,1 @@
+  Populate pattern string (for better debugging). Move logging out of TokenSequenceParser.jj.  

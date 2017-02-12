@@ -1,0 +1,1 @@
+  fixing some runtime warnings in hpricot test  

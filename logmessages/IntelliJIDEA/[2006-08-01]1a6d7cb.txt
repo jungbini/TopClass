@@ -1,0 +1,1 @@
+  fix hang on reading CVS binary content (IDEADEV-7895)  

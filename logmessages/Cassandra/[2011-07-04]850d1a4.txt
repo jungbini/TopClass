@@ -1,0 +1,1 @@
+  fix index-building status display patch by Matt Kennedy; reviewed by jbellis for CASSANDRA-2853  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8@1142530 13f79535-47bb-0310-9956-ffa450edef68  

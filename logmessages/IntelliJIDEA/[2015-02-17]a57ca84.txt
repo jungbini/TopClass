@@ -1,0 +1,1 @@
+  a better way of handling "this" and "$this" nodes in inline debugger  

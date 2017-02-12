@@ -1,0 +1,1 @@
+ javafx: Added more tests for "Unresolved fx:id reference" inspection quickfix (IDEA-141033)  

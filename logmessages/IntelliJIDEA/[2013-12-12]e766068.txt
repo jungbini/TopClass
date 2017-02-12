@@ -1,0 +1,1 @@
+  better combobox rendering on aqua: no focus ring around combo button, fixed 1px size 

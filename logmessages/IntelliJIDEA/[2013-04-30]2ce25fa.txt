@@ -1,0 +1,1 @@
+  navigation to class fixed if file not opened (IDEADEV-41617 re-fixed)  

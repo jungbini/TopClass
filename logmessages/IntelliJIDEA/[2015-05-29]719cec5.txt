@@ -1,0 +1,1 @@
+  Formatter core fix for models which cover an arbitrary PSI element, not only PsiFile (WEB-15472 Invalid range exception is thrown: on intention application inside a JS fragment)  

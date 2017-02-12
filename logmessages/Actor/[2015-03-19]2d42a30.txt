@@ -1,0 +1,1 @@
+  chore(*): -Xfatal-warnings -Xlint and fixes for their warnings  

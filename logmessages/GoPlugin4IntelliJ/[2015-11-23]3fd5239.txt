@@ -1,0 +1,1 @@
+ Added const folding option (fixes #2015)  

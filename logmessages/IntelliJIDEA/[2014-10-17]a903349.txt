@@ -1,0 +1,1 @@
+  java-decompiler: build script fixed to not fail too early  

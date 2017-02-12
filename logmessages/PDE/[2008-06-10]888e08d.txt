@@ -1,0 +1,1 @@
+  fix hanging problem when using PipedInputStream and friends  

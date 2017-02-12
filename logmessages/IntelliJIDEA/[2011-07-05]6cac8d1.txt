@@ -1,0 +1,1 @@
+  IDEA-69895 Preference pane search bug  

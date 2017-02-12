@@ -1,0 +1,1 @@
+  kafka-1542 (trivail followup patch to fix NullPointerException); normal IOException in the new producer is logged as ERROR; patched by Jun Rao  

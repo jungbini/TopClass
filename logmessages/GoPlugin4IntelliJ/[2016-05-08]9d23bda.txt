@@ -1,0 +1,1 @@
+  Added inspection for mixed named and unnamed parameters (fixes #2494)  

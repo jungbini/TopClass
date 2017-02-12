@@ -1,0 +1,1 @@
+  fixed CCE on dragging from Changes view to Project view (IDEADEV-17417)  

@@ -1,0 +1,1 @@
+  testng should show log console in debug if configured (IDEA-58165)  

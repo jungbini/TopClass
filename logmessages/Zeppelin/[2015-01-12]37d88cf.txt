@@ -1,0 +1,1 @@
+ fix auto completion bug by updating ace-build  

@@ -1,0 +1,1 @@
+  add null check for session_timeout_ms  fixes #504  

@@ -1,0 +1,1 @@
+ Finally fixed BinRpc bug with negative values  

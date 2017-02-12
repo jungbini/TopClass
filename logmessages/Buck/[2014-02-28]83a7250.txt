@@ -1,0 +1,1 @@
+  Close ZipFile in ZipFileTraversal  Summary: This is not just hygiene.  Leaving the dangling ZipFile object around keeps a cache entry alive in ZipFile's internals, which can cause us to see stale data if we [create, open, delete, create, open] very quickly. This was causing test flakiness in a later 

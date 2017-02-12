@@ -1,0 +1,1 @@
+nd converts it to a DateTime in the JSON creator method. With this, reading back both old and new entities should be possible.  Fixes #1214  

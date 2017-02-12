@@ -1,0 +1,1 @@
+ Merge pull request #115 from frida/fix/darwin-aarch64-alignment  Fix alignment of AArch64 assembler functions  commit 30b77c56f95c63ecd83399aafdbad7b07330f2fd  Merge pull request #117 from frida/fix/windows-regression  Fix Windows regression  commit d7bb1e189fee9ff0744b6fbee5fd9e262ffa754a  fixed direct-mapping type-mapped pointer result types  

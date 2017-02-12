@@ -1,0 +1,1 @@
+  JS: fix translation of `invoke` convention call when it is declared as extension member inside class. See KT-15073  

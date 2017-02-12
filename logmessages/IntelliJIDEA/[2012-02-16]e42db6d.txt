@@ -1,0 +1,1 @@
+  IDEA-68201 Switcher does not allow switching to a file in another editor group (fix when max tabs == 1)  

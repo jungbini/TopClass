@@ -1,0 +1,1 @@
+  fixed filtering by class in case of index vertices lookup using a superclass index, issue #6859  

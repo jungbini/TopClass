@@ -1,0 +1,1 @@
+  HA: fixed issue with auto repair and locking of resources  

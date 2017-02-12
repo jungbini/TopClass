@@ -1,0 +1,1 @@
+  fix possible SOE: light getRepositoryForFile method without updating map implemented for Repository managers  

@@ -1,0 +1,1 @@
+  fix(bser)+feat(core): fix bser serialization and implemented device hash  

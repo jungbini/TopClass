@@ -1,0 +1,1 @@
+  move foundation libraries to core instead of contrib (fixes #3524)  

@@ -1,0 +1,1 @@
+  [thrift] adding missing files/deps to buck  Summary: compile-time reflection wasn't properly exporting its headers and generated files to buck. This 

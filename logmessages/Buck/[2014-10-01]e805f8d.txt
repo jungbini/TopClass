@@ -1,0 +1,1 @@
+  C/C++: allow libraries to override their header namespace  Summary: This is similar to the base module override in python, and allows users to use a header inclusion prefix other than the target base path.  Test Plan: added integration test  

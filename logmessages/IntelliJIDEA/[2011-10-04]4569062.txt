@@ -1,0 +1,1 @@
+  EA-30102 - CME: TextChangesStorage.getChanges  1. Debug info collecting for the bulk document modification is turned off; 2. Deferred storage modification is guarded by the corresponding lock now in order to avoid race condition on 'document.getText()'-like operations;  

@@ -1,0 +1,1 @@
+ fix focus after navigation from popup (cherry picked from commit b99d281)  

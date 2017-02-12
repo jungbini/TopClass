@@ -1,0 +1,1 @@
+  move JavaScriptDebugAware to community (required for kotlin&nashorn)  According to review, we use exiting, purely unrelated module  but we avoid creating yet another just for such class  

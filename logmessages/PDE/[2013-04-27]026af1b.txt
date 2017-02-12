@@ -1,0 +1,1 @@
+  add workaround for apparent Eclipse JDI bug, get errors working again  

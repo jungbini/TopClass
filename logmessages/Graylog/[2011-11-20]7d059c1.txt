@@ -1,0 +1,1 @@
+  Small changes on SyslogEventHandler * Use log level "debug" for debugging messages * Use Tools#getUTCTimestampWithMilliseconds(long) instead of reimplementing its behaviour  

@@ -1,0 +1,1 @@
+  fixed firing rootsChange event on changes in libraries and SDK (IDEA-121272)  

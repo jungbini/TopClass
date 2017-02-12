@@ -1,0 +1,1 @@
+  Darcula: fix foreground for disabled menu items  

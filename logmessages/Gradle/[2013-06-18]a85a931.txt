@@ -1,0 +1,1 @@
+  Fix bug in HTML dependency report generation - insight dependencies were matched with a "contains" spec instead of an "equals" spec  

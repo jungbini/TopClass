@@ -1,0 +1,1 @@
+from PR #3362 but should contain the desired fix as well.  Signed-off-by: Thomas Eichstdt-Engelen <thomas@openhab.org>  

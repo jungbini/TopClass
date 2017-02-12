@@ -1,0 +1,1 @@
+  QuickDoc: re-fix IDEA-100941 and simplify component management  

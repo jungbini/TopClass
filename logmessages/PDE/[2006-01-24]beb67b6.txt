@@ -1,0 +1,1 @@
+  fixing the ampersands broke escaping the other characters ... this should help  

@@ -1,0 +1,1 @@
+  KAFKA-3373; add 'log' prefix to configurations in KIP-31/32  Author: Jiangjie Qin <becket.qin@gmail.com>  Reviewers: Gwen Shapira  Closes #1049 from becketqin/KAFKA-3373  

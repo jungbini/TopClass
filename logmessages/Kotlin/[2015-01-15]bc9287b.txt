@@ -1,0 +1,1 @@
+  Change description of 'iter' template to make it searchable by 'for' prefix  #KT-6603 Fixed  

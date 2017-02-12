@@ -1,0 +1,1 @@
+  Git log: fix: always indicate when refreshing is over  

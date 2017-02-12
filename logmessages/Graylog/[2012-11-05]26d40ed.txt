@@ -1,0 +1,1 @@
+  Metrics for AMQP  fixes #SERVER-194  

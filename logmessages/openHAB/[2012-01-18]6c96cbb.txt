@@ -1,0 +1,1 @@
+  fixed "dangling reference" bug that appeared in the rule editor in the openHAB designer  

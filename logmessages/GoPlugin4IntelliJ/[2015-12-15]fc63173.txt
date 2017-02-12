@@ -1,0 +1,1 @@
+  [resolve] tweak cgo processing again, fix #2078  

@@ -1,0 +1,1 @@
+  [hg] Rename root sync control setting to fix ISE after class change  

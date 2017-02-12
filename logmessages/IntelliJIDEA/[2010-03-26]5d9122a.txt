@@ -1,0 +1,1 @@
+  Initialize platform prefix from code insight test cases  

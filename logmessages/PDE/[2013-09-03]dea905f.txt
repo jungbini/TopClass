@@ -1,0 +1,1 @@
+  fixed handling of rect parametrers in PShape  

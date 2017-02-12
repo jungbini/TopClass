@@ -1,0 +1,1 @@
+  HDFS-8798. Erasure Coding: fix DFSStripedInputStream/DFSStripedOutputStream re-fetch token when expired. Contributed by Walter Su.  

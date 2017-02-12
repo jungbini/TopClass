@@ -1,0 +1,1 @@
+  problem with startup (fixes #3439)  

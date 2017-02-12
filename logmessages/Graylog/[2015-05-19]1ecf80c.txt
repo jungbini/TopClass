@@ -1,0 +1,1 @@
+  auto-reload quickvalues and show spinner when load is pending  - the placement of the spinner needs some improvement, it's not consistent across components  fixes #1298  

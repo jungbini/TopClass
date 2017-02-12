@@ -1,0 +1,1 @@
+  GRADLE-680 - Some fixes for task annotations - Treat task as out-of-date when the value of a @Nested property changes type - Handle @Input annotation on a property of type FileCollection  

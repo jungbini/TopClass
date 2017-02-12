@@ -1,0 +1,1 @@
+  StatisticsHttpClientSender: fix duplicate response.returnResponse() invocation  

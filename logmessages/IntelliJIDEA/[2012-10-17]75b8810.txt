@@ -1,0 +1,1 @@
+  fixed PY-7750 Test Runner: unable to rerun tests under py2.4: AttributeError: 'TestLoader' object has no attribute 'makeTest'  

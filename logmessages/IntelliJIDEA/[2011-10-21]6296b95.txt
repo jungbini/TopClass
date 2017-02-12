@@ -1,0 +1,1 @@
+  android: fix launching avd manager from sdk 4; separate actions for sdk manager and avd manager  

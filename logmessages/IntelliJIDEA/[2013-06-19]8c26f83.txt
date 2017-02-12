@@ -1,0 +1,1 @@
+  fixed PY-10025 Run/Debug when cursor is at the end of line of test function runs whole test class  

@@ -1,0 +1,1 @@
+  link to graylog2-stream-dashboard. fixes #627  

@@ -1,0 +1,1 @@
+  (GRADLE-1407) Added missing test and fixed tiny issue related to sorting input projects for deduping  

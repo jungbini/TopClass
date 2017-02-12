@@ -1,0 +1,1 @@
+  scala binary suffix wasn't added to some of the scala-related artifacts, making maven pull in whatever it found -- which could be the wrong version! (#1583)  

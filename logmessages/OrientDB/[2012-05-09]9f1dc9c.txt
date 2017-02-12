@@ -1,0 +1,1 @@
+  Working into the issue 818: fixed deadlock that caused OLockTimeoutException  

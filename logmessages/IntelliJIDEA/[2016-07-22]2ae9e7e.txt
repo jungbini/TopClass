@@ -1,0 +1,1 @@
+  xdebugger: asynchronously compute list of local processes to which debuggers can attach; allow to compute some data for all debuggable processes at once and reuse it to present these processes (RIDER-IC-CR-2)  

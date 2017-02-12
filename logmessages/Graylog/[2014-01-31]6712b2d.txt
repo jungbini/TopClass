@@ -1,0 +1,1 @@
+  read valuetype from series. fixes #587  

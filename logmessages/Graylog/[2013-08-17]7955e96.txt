@@ -1,0 +1,1 @@
+  build and return a LocalAdminUser when authenticating, fixes issue #181  

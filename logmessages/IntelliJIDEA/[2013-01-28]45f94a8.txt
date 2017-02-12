@@ -1,0 +1,1 @@
+  external build: fixed caches for files extracted from archives (IDEA-95035) [rev by Jeka]  

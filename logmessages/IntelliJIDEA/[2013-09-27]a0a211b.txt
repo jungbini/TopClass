@@ -1,0 +1,1 @@
+  new "Missing 'package-info.java'" inspection (first part of fix for IDEA-114069)  

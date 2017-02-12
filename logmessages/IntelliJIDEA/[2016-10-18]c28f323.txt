@@ -1,0 +1,1 @@
+  fixed: for xsd:include'd schemas some valid tags may be randomly shown as red  - Direct usage of `visited` guard in CachedValueProvider leads to random results when the visited's state at compute time is 

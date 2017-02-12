@@ -1,0 +1,1 @@
+  Make the launcher scripts manage the build "success" file.  Summary: Earlier, if ant clean or ant default failed after checking out a 

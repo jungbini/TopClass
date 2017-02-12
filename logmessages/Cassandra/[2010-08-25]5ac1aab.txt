@@ -1,0 +1,1 @@
+  fix EH.max.  patch by jbellis and brandonwilliams for CASSANDRA-1413  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@989352 13f79535-47bb-0310-9956-ffa450edef68  

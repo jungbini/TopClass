@@ -1,0 +1,1 @@
+ Fix result count for 'make', 'new' functions (fixes #1760)  

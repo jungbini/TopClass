@@ -1,0 +1,1 @@
+  Switch debugger reader's sleeping policy to BLOCKING (PY-15122)  Because of changes in BaseOutputReader we can't call readAvailableBlocking if sleeping policy is not BLOCKING.  

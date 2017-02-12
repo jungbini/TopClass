@@ -1,0 +1,1 @@
+  updating sdk version to fix indexer in aws  

@@ -1,0 +1,1 @@
+  Conflicts: idea/testData/codeInsight/generate/testFrameworkSupport/jUnit4/testMethod.kt.after idea/testData/codeInsight/generate/testFrameworkSupport/testNG/dataMethod.kt.after  

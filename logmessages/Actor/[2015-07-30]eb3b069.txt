@@ -1,0 +1,1 @@
+  feat(web): set fixed height for emoji and line-height for message content;  

@@ -1,0 +1,1 @@
+ Ensure exception message includes all faulty field information (fixes broken test)  

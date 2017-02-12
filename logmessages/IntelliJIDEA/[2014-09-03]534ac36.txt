@@ -1,0 +1,1 @@
+  [git] fix & simplify parsing of ref names for git log --decorate  tags start with "tag:" prefix => it should be removed.  

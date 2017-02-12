@@ -1,0 +1,1 @@
+  fix(web): disable appcache because it causes some charset issues with russian locale  

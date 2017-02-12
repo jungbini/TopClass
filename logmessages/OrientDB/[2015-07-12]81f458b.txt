@@ -1,0 +1,1 @@
+  fix for #3427. Added test case.  

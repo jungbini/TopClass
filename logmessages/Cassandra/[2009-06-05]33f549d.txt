@@ -1,0 +1,1 @@
+  Change select timeout from 100ms to 1.   This mitigates a bug on some systems where the select doesn't process new data until the next call.  (Spinning faster doesn't increase load on an idle system.)  patch by jbellis; tested by goffinet  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.3@782095 13f79535-47bb-0310-9956-ffa450edef68  

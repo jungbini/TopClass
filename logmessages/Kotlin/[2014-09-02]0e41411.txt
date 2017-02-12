@@ -1,0 +1,1 @@
+  JS backend: fix TranslationUtils.isCacheNeeded  

@@ -1,0 +1,1 @@
+  PY-20775 Report missing closing brace for expression parts inside f-strings  Also fixed detection of closing brace after conversion characters and format specifiers inside expression parts.  

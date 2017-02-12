@@ -1,0 +1,1 @@
+  Null exception fix  Provided argument may be null, so we can't guarantee @NotNull if we return it. And parent contract allows us to return null.  

@@ -1,0 +1,1 @@
+  fixed strip_prefix related with issue#1604  -- Change-Id: I49d4bcdb60052a5cf94049f962732ee2167828f1 Reviewed-on: https://bazel-review.googlesource.com/#/c/4300 MOS_MIGRATED_REVID=129615052  

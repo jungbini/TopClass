@@ -1,0 +1,1 @@
+al change.  Actually supply commit time instead of author time for GitLogProvider.  This fixes two issues: 1. Slight confusion if user sees an "older" commit above a "younger" one (because the older one was re-committed recently by cherry-pick or rebase). 2. Major issue in a multi-root project: when commits from 

@@ -1,0 +1,1 @@
+  IDEA-68640 On Mac OS X if I scroll zoom in and then back out it stops at some fixed font size, not the font size I have in my settings  1. It's not possible to increase editor font size via mouse wheel up to the greatest font size value (hard-coded 20 used to be used before); 2. Hard-coded literals were made constants;  

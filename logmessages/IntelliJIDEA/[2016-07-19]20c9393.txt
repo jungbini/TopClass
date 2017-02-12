@@ -1,0 +1,1 @@
+  IDEA-153908 The setting "reformat according to style" is not saved. (re-fixed)  

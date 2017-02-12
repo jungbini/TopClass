@@ -1,0 +1,1 @@
+  fix testdata to collapse diamonds  

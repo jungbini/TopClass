@@ -1,0 +1,1 @@
+  Frontend: fixed explicit receiver kind for dynamic call with implicit dispatch receiver.  Additionally added tests for other cases.  

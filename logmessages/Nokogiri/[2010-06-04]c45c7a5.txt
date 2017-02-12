@@ -1,0 +1,1 @@
+  Add validate_file method in XmlSchema class. This fixed an error raised from xml/test_schema.rb.  

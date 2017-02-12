@@ -1,0 +1,1 @@
+  HBASE-4606  Remove spam in HCM and fix a list.size == 0   git-svn-id: https://svn.apache.org/repos/asf/hbase/branches/0.92@1185327 13f79535-47bb-0310-9956-ffa450edef68  

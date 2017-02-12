@@ -1,0 +1,1 @@
+  fixed PY-7410 Remove redundant parenthesis: false positive for yield from in return statement  

@@ -1,0 +1,1 @@
+  IDEA-79276 Valid xml element substitution highlighted: NPE fixed  

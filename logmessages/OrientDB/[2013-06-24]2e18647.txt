@@ -1,0 +1,1 @@
+ Updated pom.xml to fix groovy dependency  fixed dependency for groovy (removed system scope and updated groupId), which should allow transitive dependencies for projects that include this pom.  

@@ -1,0 +1,1 @@
+  line number tweaks, button tweaks, debugger startup, fixes #3096  

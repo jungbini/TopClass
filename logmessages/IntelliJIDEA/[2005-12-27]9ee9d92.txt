@@ -1,0 +1,1 @@
+  Additional fixes and tests for: Surround with tag is not working with JSPX (IDEADEV-3932) Surround with tag breaks indenting in html/jsp (IDEADEV-3931)  

@@ -1,0 +1,1 @@
+  Merge -c 1453365 from trunk to branch-2 to fix MAPREDUCE-3685. Fix bugs in MergeManager to ensure compression codec is appropriately used and that on-disk segments are correctly sorted on file-size. Contributed by Anty Rao and Ravi Prakash.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1453367 13f79535-47bb-0310-9956-ffa450edef68  

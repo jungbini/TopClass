@@ -1,0 +1,1 @@
+  IDEA-73139 Case sensitive rename fixed  In case insensitive systems if only case changed during rename, don't do anything in Git.  

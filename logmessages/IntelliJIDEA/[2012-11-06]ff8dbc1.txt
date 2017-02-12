@@ -1,0 +1,1 @@
+  IDEA-85457 start android app in the same debug session  

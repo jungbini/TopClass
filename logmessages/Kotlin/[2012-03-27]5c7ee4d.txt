@@ -1,0 +1,1 @@
+  added lazy message versions of require/assert/check methods, #KT-693 fixed  

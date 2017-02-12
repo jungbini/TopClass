@@ -1,0 +1,1 @@
+  fixed PY-8970 Missing docstring inspection should ignore test classes  

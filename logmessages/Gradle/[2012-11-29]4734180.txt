@@ -1,0 +1,1 @@
+  REVIEW-515 some fixes on tooling-api fat jar - replace fatJarConfguration by configurations.runtime - configurations.publishCompile - use plain project dependencies for messaging, wrapper & baseServices; - todo: plain project dependency on core brings multiple 3party libs into the tooling api fat jar (ant, ivy, groovy)  

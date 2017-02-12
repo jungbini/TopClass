@@ -1,0 +1,1 @@
+  New Go File is not valid; fix #1320  

@@ -1,0 +1,1 @@
+ STORM-2142 ReportErrorAndDie runs suicide function only when InterruptedException or InterruptedIOException is thrown  * There seems to be a small bug while porting  

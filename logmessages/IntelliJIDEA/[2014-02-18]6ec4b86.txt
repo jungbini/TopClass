@@ -1,0 +1,1 @@
+  fixed PY-12184 Project Interpreter: Throwable at com.intellij.openapi.vfs.newvfs.RefreshQueueImpl.execute  

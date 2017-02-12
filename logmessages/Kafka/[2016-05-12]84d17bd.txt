@@ -1,0 +1,1 @@
+  MINOR: Fix order of compression algorithms in upgrade note  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Guozhang Wang <wangguoz@gmail.com>, Jun Rao <junrao@gmail.com>  Closes #1373 from ijuma/fix-producer-buffer-size-upgrade-note  

@@ -1,0 +1,1 @@
+ped over this while debugging #701.  Now it will look in directories.  It will still ignore classpath entries that either don't exist on the filesystem or which aren't readable.  

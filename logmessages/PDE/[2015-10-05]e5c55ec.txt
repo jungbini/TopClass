@@ -1,0 +1,1 @@
+  repair curveVertex() init logic in FX2D (fixes #3960)  

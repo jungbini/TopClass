@@ -1,0 +1,1 @@
+  Upgrade JAnsi to get some (Windows specific) bug fixes (#683)  This is also in preparation for supporting colored output in Cygwin's / MSYS2's mintty terminal on Windows.  

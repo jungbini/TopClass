@@ -1,0 +1,1 @@
+  Minor. More correct constants processing. If class without constants is added, it doesn't mean directly that others should be recompiled. Anyway, this mistake didn't lead to any bug: proto change would be detected anyway.  

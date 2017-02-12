@@ -1,0 +1,1 @@
+  Don't rely on keychain-access-groups to match provisioning profiles.  Summary: If a app doesn't need the keychain, there's no reason to have it in its entitlements.  Right now, we rely on it to match application prefixes, which isn't really what its intended purpose is.  Test Plan: CI  Reviewed By: oclbdk  fbshipit-source-id: 510c5a3  

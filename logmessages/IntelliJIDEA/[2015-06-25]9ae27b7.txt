@@ -1,0 +1,1 @@
+  Fix Debugger crashes with "Process finished with exit code 137" (PY-14969)  Do not finish debugging session by force in CheckOutputThread if there are alive daemon threads.  

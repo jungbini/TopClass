@@ -1,0 +1,1 @@
+  [quickfix] do not suggest create constant for unresolved reference based on read-write access + suggest to replace assignment with declaration  

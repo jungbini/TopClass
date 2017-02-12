@@ -1,0 +1,1 @@
+  style(android): fix msgs holders load value text color  

@@ -1,0 +1,1 @@
+  Java: Moved reusable bits of code from the inspection quick fix to the API (IDEA-163139)  

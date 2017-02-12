@@ -1,0 +1,1 @@
+  added skewX/Y (bug #1448) and fixed bugs in its implementation  

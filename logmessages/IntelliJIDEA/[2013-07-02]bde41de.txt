@@ -1,0 +1,1 @@
+  fixed PY-10174 Specifying types of local variables requires # noinspection PyStatementEffect  

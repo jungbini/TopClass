@@ -1,0 +1,1 @@
+  finally fix groovy script running problems: don't pack groovy-starter.conf into jar  

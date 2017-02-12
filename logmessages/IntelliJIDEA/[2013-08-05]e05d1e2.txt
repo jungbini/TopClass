@@ -1,0 +1,1 @@
+  fixed EA-46419 - SIOOBE: PyDocumentationBuilder.removeCommonIndentation  

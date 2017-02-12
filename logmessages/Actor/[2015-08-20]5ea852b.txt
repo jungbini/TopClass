@@ -1,0 +1,1 @@
+  fix(server:core): update dialog read date after user left group or kicked from group  

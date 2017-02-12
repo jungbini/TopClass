@@ -1,0 +1,1 @@
+  insert single quotes when in double quoted context #WEB-11048 fixed  

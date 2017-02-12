@@ -1,0 +1,1 @@
+  implement streaming support in API client  currently only used for streaming content verbatim to the browser, such as CSV export data  - the method executeStreaming() gives you a InputStream over the requested bytes  fixes Graylog2/graylog-web-interface#765  

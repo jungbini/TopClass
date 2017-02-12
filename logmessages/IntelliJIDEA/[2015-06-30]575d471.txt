@@ -1,0 +1,1 @@
+  fork tests: extract delegate for debugger settings  

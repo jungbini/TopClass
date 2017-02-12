@@ -1,0 +1,1 @@
+  Protection against "<caret>" missing in test data Many incorrect tests fixed  # Conflicts: #	idea/testData/intentions/iterationOverMap/DataClassDependentLocal.kt #	idea/testData/intentions/removeUnnecessaryLateinit/normalLateinit.kt #	idea/testData/quickfix/implement/noDefaultConstructor.kt #	idea/testData/quickfix/implement/privateConstructor.kt  

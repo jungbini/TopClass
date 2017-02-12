@@ -1,0 +1,1 @@
+  StructureView: selectIn fixed after tree had beed made asynchronous  

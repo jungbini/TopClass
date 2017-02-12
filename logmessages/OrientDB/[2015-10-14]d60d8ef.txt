@@ -1,0 +1,1 @@
+  fixed binary network send error in case of token validation fail  

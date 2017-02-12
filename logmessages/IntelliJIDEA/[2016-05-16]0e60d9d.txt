@@ -1,0 +1,1 @@
+  Fix problems with checking local courses after fixes with flush adaptive courses  

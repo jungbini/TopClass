@@ -1,0 +1,1 @@
+  `CopyStep`: Allow clients to specify directory copy behavior.  Summary: Currently, `CopyStep` only copies the contents of directories; it doesn't allow copying the directory itself to the destination.  This 

@@ -1,0 +1,1 @@
+  setText() now uses a compound edit, a fix for bug #139  

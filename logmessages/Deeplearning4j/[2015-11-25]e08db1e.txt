@@ -1,0 +1,1 @@
+  AdaDelta updater minor fix  

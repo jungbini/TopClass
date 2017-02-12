@@ -1,0 +1,1 @@
+  give proper error messages for problems with conf file  use the application path as a root when trying to find the file check for common problems, such as empty file, missing file, unreadable file  fixes #291  

@@ -1,0 +1,1 @@
+  Do not include DescriptorDeclaration#toString() in debug message  DescriptorDeclaration#toString() can be a costly operation (default implementation completely renders descriptor)  

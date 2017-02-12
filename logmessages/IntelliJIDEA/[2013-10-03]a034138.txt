@@ -1,0 +1,1 @@
+  Platform: patch updater fixed on Mac - UI hung due to out-ot-AWT LaF installation (IDEA-111053)  

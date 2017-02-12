@@ -1,0 +1,1 @@
+ Fix reconnect bug: pass a copy of the configuration to the device instead of reference  

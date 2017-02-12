@@ -1,0 +1,1 @@
+  Fix handling of negative zero by avoiding buggy GWT implementation of Math.copySign. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=122288818  

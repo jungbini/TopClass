@@ -1,0 +1,1 @@
+  update android synthetic properties completion test  - add missing android classes as text into fixture  

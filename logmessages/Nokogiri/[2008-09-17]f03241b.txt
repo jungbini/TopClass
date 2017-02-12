@@ -1,0 +1,1 @@
+  fixing hpricot tests, setting document on sub subsets  

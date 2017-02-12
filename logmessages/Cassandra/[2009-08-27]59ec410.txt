@@ -1,0 +1,1 @@
+  bump thrift version to 808609 to fix regression from THRIFT-562.  patch by jbellis for CASSANDRA-387  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@808620 13f79535-47bb-0310-9956-ffa450edef68  

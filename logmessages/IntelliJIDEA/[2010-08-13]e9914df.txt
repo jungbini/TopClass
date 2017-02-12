@@ -1,0 +1,1 @@
+  git4idea: a possible fix for loosing stashes in the configurations  

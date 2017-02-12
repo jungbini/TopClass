@@ -1,0 +1,1 @@
+  Fixed bug with executing the javadoc task did not build project dependencies of the compile task.  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@1387 004c2c75-fc45-0410-b1a2-da8352e2331b  

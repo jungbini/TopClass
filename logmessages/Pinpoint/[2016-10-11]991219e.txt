@@ -1,0 +1,1 @@
+  bug fix. - disable realtime function in server-list. - resize height of application list. - rename active trace to active thread. - add "Total" label to TPS chart.  

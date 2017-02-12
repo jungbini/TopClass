@@ -1,0 +1,1 @@
+  Debugger: add an option for computing delegated properties values in Variables View  

@@ -1,0 +1,1 @@
+  xdebugger api: added method to quote/escape value presentation only so 'copy value' action copies raw value  

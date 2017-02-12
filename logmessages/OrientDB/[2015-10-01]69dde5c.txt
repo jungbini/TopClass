@@ -1,0 +1,1 @@
+  fixed dirty manager reference cleaning after save  

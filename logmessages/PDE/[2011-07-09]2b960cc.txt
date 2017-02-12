@@ -1,0 +1,1 @@
+  Removed advanced classes from video library, fixed resolution query in Capture  

@@ -1,0 +1,1 @@
+ Bugfix: config was not read properly (connector threads were created too early). Add config option that the cache is purged regularly (can be disabled).  

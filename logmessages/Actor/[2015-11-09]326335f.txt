@@ -1,0 +1,1 @@
+  fix(web): fix emojis dorpdown close  

@@ -1,0 +1,1 @@
+ Merge pull request #1706 from Graylog2/fix-api-browser-with-plugins  Show JAX-RS resources from plugins in API Browser (Swagger)  commit c04ead5c51adf3085d73813133399468e6d87bb3  Extract plugin prefix string into a constant  

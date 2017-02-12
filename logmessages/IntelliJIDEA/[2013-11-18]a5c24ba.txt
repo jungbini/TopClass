@@ -1,0 +1,1 @@
+  Dump all lookup elements in tests, not only pure postfix  

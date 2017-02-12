@@ -1,0 +1,1 @@
+  ResolveMethod*Test fixed: 1. do not take into account static 'overriding' 2. do not skip Object methods here as they could be preferred to interface methods later  

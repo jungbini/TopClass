@@ -1,0 +1,1 @@
+  svn merge -c 1604011 merging from trunk to branch-2 to fix:HDFS-3848. A Bug in recoverLeaseInternal method of FSNameSystem class. Contributed by Hooman Peiro Sajjad and Chen He.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1604012 13f79535-47bb-0310-9956-ffa450edef68  

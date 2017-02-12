@@ -1,0 +1,1 @@
+  Add a separate production debug log for troubleshooting  patch by Paulo Motta; reviewed by Ariel Weisberg  for CASSANDRA-10241  

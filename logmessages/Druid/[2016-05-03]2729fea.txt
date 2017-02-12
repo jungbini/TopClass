@@ -1,0 +1,1 @@
+  Fix parsing fail of segment id with datasource containing underscore (#2797)  * Fix parsing fail of segment id with underscored datasource (Fix for #2786)  * addressed comment  * renamed and moved code into api. added log4 dependency for tests  * addressed comments  * fixed test fails  

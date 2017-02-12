@@ -1,0 +1,1 @@
+  Cosmetic changes to the remote execution proto, and fixing a minor bug in ContentDigests function.  -- MOS_MIGRATED_REVID=133256094  

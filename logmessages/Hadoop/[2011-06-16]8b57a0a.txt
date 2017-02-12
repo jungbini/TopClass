@@ -1,0 +1,1 @@
+  Bug fix to set correct state on containers so as to avoid duplicate containers from RM to AM. Contributed by Vinod Kumar Vavilapalli.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/MR-279@1136310 13f79535-47bb-0310-9956-ffa450edef68  

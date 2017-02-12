@@ -1,0 +1,1 @@
+  fixed  PY-9466 Wrong current parameter highlighting for the very first parameter in finction  regression, added test  

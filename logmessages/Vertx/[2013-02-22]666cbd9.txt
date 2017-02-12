@@ -1,0 +1,1 @@
+  fixed getting long config values from bus mod - issue #494  

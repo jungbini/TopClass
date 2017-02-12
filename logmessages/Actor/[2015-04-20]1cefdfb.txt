@@ -1,0 +1,1 @@
+  fix(sequence): fixed ResponseGetDifference seq and state  

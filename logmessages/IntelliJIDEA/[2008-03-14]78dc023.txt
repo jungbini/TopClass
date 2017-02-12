@@ -1,0 +1,1 @@
+  seam property editors, xml components rename, injection in XmlText for seam configs and bug fixes : )  

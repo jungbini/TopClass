@@ -1,0 +1,1 @@
+  fix: StubUpdatingIndex was out-of-sync after certain refactorings (IDEADEV-30724)  

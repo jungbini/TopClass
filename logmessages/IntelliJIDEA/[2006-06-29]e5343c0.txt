@@ -1,0 +1,1 @@
+  Conversion buffer allocation optimizations plus severe bug in CharArrayUtil.fromSequence().  

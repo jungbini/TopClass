@@ -1,0 +1,1 @@
+  add informational text if ldap groups could not be loaded  fixes #1570  

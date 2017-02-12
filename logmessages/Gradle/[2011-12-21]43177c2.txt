@@ -1,0 +1,1 @@
+  fixed test, acknowledging the fact that we can't currently control order between Javadoc tags and taglets  

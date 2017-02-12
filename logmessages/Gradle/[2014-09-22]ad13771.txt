@@ -1,0 +1,1 @@
+  Hack to fix test  Real fix: component report output should be sorted  

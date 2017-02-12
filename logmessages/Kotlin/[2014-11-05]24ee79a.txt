@@ -1,0 +1,1 @@
+ Merge branch 'master' into idea13  Conflicts: idea/testData/debugger/tinyApp/outs/skipClassloader.out update_dependencies.xml  commit 24ee79aa2d3d914e4136ab553f8b7e61af455c53  Replace `ArrayList<Any>()`  with `stdlib_emptyListClass()`  and fix test. #KT-6013 Fixed  

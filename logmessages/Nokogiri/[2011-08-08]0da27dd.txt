@@ -1,0 +1,1 @@
+  Disable the node cache when we are using an XML Reader  This fixes a segfault with XML Readers when GC happens at the wrong time.  

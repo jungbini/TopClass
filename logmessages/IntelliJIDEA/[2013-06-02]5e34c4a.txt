@@ -1,0 +1,1 @@
+  AppCode: responsiveness on symbols building and better progress indication + deadlock on quiting fixed (partly) +review CR-OC @micha  

@@ -1,0 +1,1 @@
+  EA-58335 - JDK-8033369 - prevent debugger commands from running in another processes's Manager Thread  

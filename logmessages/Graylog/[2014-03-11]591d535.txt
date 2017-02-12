@@ -1,0 +1,1 @@
+  cycling the deflector index could fail to update the index range for newly created index  if the deflector target index was empty it would get no corresponding index range assigned. now for the deflector target graylog2 will always properly create an index range entry  fixes Graylog2/graylog2-web-interface#656  

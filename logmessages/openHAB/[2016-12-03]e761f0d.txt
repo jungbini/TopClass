@@ -1,0 +1,1 @@
+  Check for null fixes #4856 (#4857)  

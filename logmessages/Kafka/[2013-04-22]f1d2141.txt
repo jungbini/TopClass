@@ -1,0 +1,1 @@
+  kafka-866; Recover segment does shallow iteration to fix index causing inconsistencies; patched by Sriram Subramanian; reviewed by Jun Rao  

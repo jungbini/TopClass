@@ -1,0 +1,1 @@
+  HttpArtifactCache: restore console error reporting  Summary: This restores console error reporting regarding cache failures, which will help users debug client side issues.  Test Plan: Set `http_url` to various bad entries and saw errors being printed.  

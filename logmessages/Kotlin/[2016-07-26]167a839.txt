@@ -1,0 +1,1 @@
+  Add test for code using internal compiled incrementally  The issue was fixed during refactoring  #KT-12923 fixed  

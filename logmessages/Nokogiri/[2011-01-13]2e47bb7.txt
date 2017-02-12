@@ -1,0 +1,1 @@
+ fixing sax test for libxml < 2.7.7 and jruby  

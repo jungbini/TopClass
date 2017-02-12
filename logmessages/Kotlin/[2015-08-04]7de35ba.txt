@@ -1,0 +1,1 @@
+ Idea start configuration with fixed fonts on Windows  Run with Java 1.7 and add tools.jar to Idea classpath explicitly.  

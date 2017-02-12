@@ -1,0 +1,1 @@
+  Reader base permissions must now include clusterconfigentry:read to be able to retrieve the settings for the relative time dropdown.  fix #1887  

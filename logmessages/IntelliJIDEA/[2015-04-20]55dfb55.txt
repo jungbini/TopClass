@@ -1,0 +1,1 @@
+  IDEA-138792 Better way to avoid formatting when replacing JSON strings in quickfix  I use CodeStyleManager#performActionWithFormatterDisabled for this purpose instead of performing modifications on AST nodes.  

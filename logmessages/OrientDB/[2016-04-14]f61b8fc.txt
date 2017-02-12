@@ -1,0 +1,1 @@
+  Distributed: fixed remaining issues  * fixed problem with transaction rollback in case quorum is not reached * fixed problem with coordinator election * fixed create/drop db in cluster * improved logging  

@@ -1,0 +1,1 @@
+  fixed PY-12228 Project Interpreter: not possible to remove default-located interpreter from the list  

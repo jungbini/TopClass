@@ -1,0 +1,1 @@
+  When now tries to smart cast subject to not-null if contains no null case #KT-7857 Fixed  Some new tests + some fixed tests  

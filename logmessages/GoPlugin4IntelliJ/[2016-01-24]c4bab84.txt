@@ -1,0 +1,1 @@
+ Introduce support for builtin function highlighting (fixes #1841)  

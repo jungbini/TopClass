@@ -1,0 +1,1 @@
+  Quick fix for not Unity window managers. Should be moved into linux-specific code.  

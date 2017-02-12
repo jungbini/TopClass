@@ -1,0 +1,1 @@
+ fix local cache byte counting on object removal  

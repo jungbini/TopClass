@@ -1,0 +1,1 @@
+  run GroovyDebuggerTest without script compiling when possible  

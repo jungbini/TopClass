@@ -1,0 +1,1 @@
+ Bug with permanent hole conversion was fixed.  

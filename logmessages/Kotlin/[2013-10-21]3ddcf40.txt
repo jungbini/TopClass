@@ -1,0 +1,1 @@
+  Run "Add function parameter" fix silently if current usage is the only usage of the function  

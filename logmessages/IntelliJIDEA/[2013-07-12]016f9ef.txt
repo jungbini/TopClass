@@ -1,0 +1,1 @@
+  Occasional 'Unexpected caret move reques' assertion fix  

@@ -1,0 +1,1 @@
+  Fix the set of tests generated into Xcode schemes.  Summary: Before, tests would fail to generate the right project if a test's apple_library was not also being built. This fixes that by using the same recursive Xcode target finding function to find the set of targets to be built for tests.  Test Plan: Generate Paper 2 workspace. Pass unit tests.  

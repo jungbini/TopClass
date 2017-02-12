@@ -1,0 +1,1 @@
+  KAFKA-1910; Fix two bugs on MemoryRecords and KafkaConsumer; reviewed by Onur Karaman  

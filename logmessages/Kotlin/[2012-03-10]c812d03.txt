@@ -1,0 +1,1 @@
+  Add primitive api for using html5 local storage. Lib fixes.  

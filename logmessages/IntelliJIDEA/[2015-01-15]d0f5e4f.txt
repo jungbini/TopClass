@@ -1,0 +1,1 @@
+  [vcs-log] awesome fix of log disappearance after removing all mappings and adding them back again (was introduced in 5509775d0d4f622a271edfa66f1898428c02f8cc)  

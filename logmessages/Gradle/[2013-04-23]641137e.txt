@@ -1,0 +1,1 @@
+  Fix how incubating annotation is handled so that it doesn't break the more buttons on the website.  On the live website, a large leading offset margin is used to positively display the heading to the linking to it as an anchor accomodates for the fixed header.  

@@ -1,0 +1,1 @@
+ Merge pull request #881 from jeromedoucet/bug_435450  Bug 435450  commit 46c9c3eae7db2f88c6d7d79af0513c826121d87b  fixed connection hanging bug for unidentified request methods  Signed-off-by: Burak Emre Kabakc <emrekabakci@gmail.com>  

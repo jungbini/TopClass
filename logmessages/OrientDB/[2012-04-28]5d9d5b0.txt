@@ -1,0 +1,1 @@
+  Further work or traverse: - fixed bug on limit - context sharing - improved path - removed check of class in predicate  

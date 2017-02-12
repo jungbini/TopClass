@@ -1,0 +1,1 @@
+  no quickfixes for dom resolve problems in batch mode (IDEA-91182)  

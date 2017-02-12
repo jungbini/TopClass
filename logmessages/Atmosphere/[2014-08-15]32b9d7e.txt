@@ -1,0 +1,1 @@
+  made AtmosphereFramework compile in eclipse, added enhancement: Create a switch to disable AtmosphereInitializer framework creation #1695, fixes: Build fails using JDK 8 #1652  

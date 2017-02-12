@@ -1,0 +1,1 @@
+  KNPE fixed in data class checker together with some ID warnings #KT-9296 Fixed #EA-73584 Fixed  

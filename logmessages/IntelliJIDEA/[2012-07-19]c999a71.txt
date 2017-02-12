@@ -1,0 +1,1 @@
+  IDEA-89046 Completion proposes a name that is not related to the prefix entered  

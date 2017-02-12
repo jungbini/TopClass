@@ -1,0 +1,1 @@
+  member variables are not visible when debugging (IDEADEV-39082)  

@@ -1,0 +1,1 @@
+  Clean up Buildable instances to rely on BuildRuleParams a little less.  Summary: When we transitioned from BuildRules to Buildables we simply changed the inheritance hierarchy and then fixed the compilation errors. This isn't ideal, since we left references to BuildRuleParams in many constructors. This 

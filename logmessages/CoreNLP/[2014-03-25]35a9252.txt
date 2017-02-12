@@ -1,0 +1,1 @@
+  Fix weird bug with span distance  

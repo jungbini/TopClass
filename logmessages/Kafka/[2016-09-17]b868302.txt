@@ -1,0 +1,1 @@
+  HOTFIX: changed quickstart donwload from 0.10.0.0 to 0.10.0.1  Author: Matthias J. Sax <matthias@confluent.io>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1869 from mjsax/hotfix-doc  

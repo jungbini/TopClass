@@ -1,0 +1,1 @@
+  recursively copy library subfolders on export (bug #1295) and some other type tweaks  

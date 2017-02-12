@@ -1,0 +1,1 @@
+  remove s3n from prefixes instead of limiting to hdfs  

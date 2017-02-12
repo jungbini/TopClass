@@ -1,0 +1,1 @@
+  1. Parent frame searcher was fixed when parent window is a dialog 2. Dialog initial position fixed. At least dialog will be shown on the same monitor as its parent window  

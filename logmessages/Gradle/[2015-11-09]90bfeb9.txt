@@ -1,0 +1,1 @@
+  Changed some tests to use the ExecutionFailure fixture rather than scraping the build's stderr for strings of a particular format.  

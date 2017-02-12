@@ -1,0 +1,1 @@
+  fix dom stub tests: visit attribute children before subtags  

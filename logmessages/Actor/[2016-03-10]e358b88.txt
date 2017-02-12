@@ -1,0 +1,1 @@
+  fix(iOS): Fixing stickers button on ipad and attaches menu  

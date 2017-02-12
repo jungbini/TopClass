@@ -1,0 +1,1 @@
+  [vcs-log] fix assertion in actions test + fix typo  

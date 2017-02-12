@@ -1,0 +1,1 @@
+  fix exception on moving two classes in one file to another package (IDEADEV-3089)  

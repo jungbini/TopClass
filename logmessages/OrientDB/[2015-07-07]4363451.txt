@@ -1,0 +1,1 @@
+  fixed issue #3972 - Problems creating properties for class 'is'  

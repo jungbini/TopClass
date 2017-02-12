@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=68 ("Add a Wicket sample")  Also removed the Jersey sample as it was originally there only for testing purpose.  

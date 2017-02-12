@@ -1,0 +1,1 @@
+  Make Java tests use LD_LIBRARY_PATH instead of java.library.path  Summary: Previously, we were using -Djava.library.path to tell the JVM for Java tests where to find the native libraries.  That did not allow it to find the deps of individual libraries, though, so they all needed to be loaded manually.  Using LD_LIBRARY_PATH (or the appropriate variable for a 

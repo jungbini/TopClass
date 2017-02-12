@@ -1,0 +1,1 @@
+  fix stupid function getGraphPrintCell in UI_Controller  

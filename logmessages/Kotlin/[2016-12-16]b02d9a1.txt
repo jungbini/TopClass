@@ -1,0 +1,1 @@
+  Multi-platform fix: no more errors for top-level impl fun / val / var in IDE  

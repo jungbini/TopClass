@@ -1,0 +1,1 @@
+  copy reference: fix isReferenceTo check (IDEA-152601)  

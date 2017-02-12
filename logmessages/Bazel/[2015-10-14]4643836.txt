@@ -1,0 +1,1 @@
+  Make a copy of the list when passing the value from Skylark to BUILD.  This change affects only lists, because it is the only mutable type. The change is also temporary. We will later make the list immutable (when it comes from a 

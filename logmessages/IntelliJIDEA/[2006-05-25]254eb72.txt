@@ -1,0 +1,1 @@
+  Incorrect synchronized on this fixed. Hopefully this will fix disappearing line status tracker issue.  

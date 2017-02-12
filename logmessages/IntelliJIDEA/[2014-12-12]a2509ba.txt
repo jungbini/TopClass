@@ -1,0 +1,1 @@
+  fix incorrect loading of jacoco coverage data (end line number for a method is inclusive)  

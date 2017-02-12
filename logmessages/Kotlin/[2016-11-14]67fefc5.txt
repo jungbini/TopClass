@@ -1,0 +1,1 @@
+  Android codegen tests: fix android SDK path in local.properties not to contain backslashes on Windows.  

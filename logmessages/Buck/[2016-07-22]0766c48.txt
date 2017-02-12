@@ -1,0 +1,1 @@
+  Define 'compiler_invocation_flags' for halide_library()  Summary: There's currently no easy way to pass compiler flags to the Halide compiler.  This patch fixes that.  The flags can be expanded with macros.  Test Plan: Successfully link a Halide-dependent test application on Linux.  Reviewed By: Coneko  fbshipit-source-id: eec03a5  

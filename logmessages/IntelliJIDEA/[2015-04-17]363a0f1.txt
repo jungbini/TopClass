@@ -1,0 +1,1 @@
+  print logs when GroovyDebuggerTest fails  

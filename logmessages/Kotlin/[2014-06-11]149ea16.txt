@@ -1,0 +1,1 @@
+  Java to Kotlin converter: supported try-with-resource construct, fixed anonymous class generation + fixed a bug with method return type  #KT-4488 Fixed  

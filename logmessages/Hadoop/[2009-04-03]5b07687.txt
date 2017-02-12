@@ -1,0 +1,1 @@
+  HADOOP-5305. Increase number of files and print debug messages in TestCopyFiles.  (szetszwo)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/branches/branch-0.20@761832 13f79535-47bb-0310-9956-ffa450edef68  

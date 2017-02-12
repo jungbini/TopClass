@@ -1,0 +1,1 @@
+  IDEA-116636 Android-Gradle facet is created when Gradle synchronization related bug IDEA-116887 Gradle web artifacts do not contain compiled classes and JSP files  

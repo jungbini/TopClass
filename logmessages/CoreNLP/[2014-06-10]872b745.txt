@@ -1,0 +1,1 @@
+  No need to limit VP or TO to be the first node, since there are often 'not' nodes in the way. This change fixes some overlap between rcmod and vmod  

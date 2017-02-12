@@ -1,0 +1,1 @@
+  Constant flattening in math expression (#3090)  * Constant flatteing in math expression  * Addressed comments and fixed some bugs  * Addressed comments  

@@ -1,0 +1,1 @@
+  fixed artifact set of Community Dist builds.  

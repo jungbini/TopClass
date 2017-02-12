@@ -1,0 +1,1 @@
+  popups: ad text component fixes  

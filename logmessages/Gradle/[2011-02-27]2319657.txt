@@ -1,0 +1,1 @@
+  some ie7 fixes for test report  

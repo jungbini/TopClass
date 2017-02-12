@@ -1,0 +1,1 @@
+  Debugger: do not use DelegatedPropertyRenderer for fields with name = delegate  

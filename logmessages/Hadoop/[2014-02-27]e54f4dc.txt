@@ -1,0 +1,1 @@
+  svn merge -c 1572488 from trunk for HDFS-6025. Update findbugsExcludeFile.xml.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1572489 13f79535-47bb-0310-9956-ffa450edef68  

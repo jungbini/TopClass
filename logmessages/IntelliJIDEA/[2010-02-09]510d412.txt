@@ -1,0 +1,1 @@
+  IdeFocusManager -- fix for appliction == null  

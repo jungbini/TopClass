@@ -1,0 +1,1 @@
+ Fixed NPE in JetRunConfigurationEditor.resetEditorFrom  #EA-34897 fixed  

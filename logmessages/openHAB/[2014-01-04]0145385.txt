@@ -1,0 +1,1 @@
+  Nibe heatpump binding: fixed nibegw compiling problem.  

@@ -1,0 +1,1 @@
+  Issue #1843 tests for "order by" for memory storage were passed. Issue was fixed.  

@@ -1,0 +1,1 @@
+  fix ClassCastException in FiniteAppenderatorDriver (#2896)  

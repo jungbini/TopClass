@@ -1,0 +1,1 @@
+PR-8307 that explicitly caught ConflictingBeanDefinitionExceptions when processing recursive @ComponentScan definitions, and rethrew as a "CircularComponentScanException.  With the changes in this commit, such CBDEs will no longer occur, obviating the need for this check and for this custom exception type altogether.  Issue: SPR-8808, SPR-8307  

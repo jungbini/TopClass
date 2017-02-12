@@ -1,0 +1,1 @@
+  find in path: local scope filtering fixed (IDEA-26851)  

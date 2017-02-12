@@ -1,0 +1,1 @@
+  Don't mark parameters of get/set/propertyDelegated functions as unused.  #KT-5974 fixed  

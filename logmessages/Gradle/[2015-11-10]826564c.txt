@@ -1,0 +1,1 @@
+  Don't update file in MapFileTree if the content hasn't changed  - without this fix file modification time changes for MANIFEST.MF file which is an input for the Jar task - this is a better fix for GRADLE-3340  +review REVIEW-5709  

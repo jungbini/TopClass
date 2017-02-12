@@ -1,0 +1,1 @@
+  fix namespace problems with getChild()/getChildren() and new NanoXML  

@@ -1,0 +1,1 @@
+  Moved notation of HADOOP 7610 from 0.20.204 to 205.  It was fixed in 205 but incorrectly noted in the 204 section of the CHANGES.txt file.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-205@1178075 13f79535-47bb-0310-9956-ffa450edef68  

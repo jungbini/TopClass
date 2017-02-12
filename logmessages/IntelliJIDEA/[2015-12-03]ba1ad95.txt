@@ -1,0 +1,1 @@
+  TextAreasTest.test1: don't force LookAndFeel installation  The test expects default Swing Metal LaF but gets Windows LaF. The fix is to not force system LaF installation from JBUI static initialization (as it behaved prior to the fix for IDEA-143450).  

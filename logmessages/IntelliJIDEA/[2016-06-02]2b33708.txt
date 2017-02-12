@@ -1,0 +1,1 @@
+  PY-19353 PY-19020 Update pep8.py to version 2.0.0  This version contains long-awaited fixes for the issues #496 and #507. The script itself is called pycodestyle.py now.  

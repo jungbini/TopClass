@@ -1,0 +1,1 @@
+  convert encoding names to upper case in SAX::Parser.parse_io. fix #828.  

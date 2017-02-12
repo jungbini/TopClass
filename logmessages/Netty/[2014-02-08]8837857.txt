@@ -1,0 +1,1 @@
+  Same fix for Netty 3.9 than from Allow an HTML5 encoder mode for HttpPostRequestEncoder #2081  

@@ -1,0 +1,1 @@
+  JspxSimpleCompletionTest: move to the right package and fix  

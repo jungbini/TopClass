@@ -1,0 +1,1 @@
+  SVN: fix: integrate option dialog missed additional panel  

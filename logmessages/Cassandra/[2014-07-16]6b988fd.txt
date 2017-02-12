@@ -1,0 +1,1 @@
+  Ninja: fix grammar for tuple type in CQL docs  Follow up for CASSANDRA-7527  

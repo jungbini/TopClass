@@ -1,0 +1,1 @@
+ bug fix. - "Inspect Agent" open error of context menu in servermap.  

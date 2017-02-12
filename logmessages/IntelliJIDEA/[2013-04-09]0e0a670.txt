@@ -1,0 +1,1 @@
+  fixed PY-4449 Wrap parameter info  replaced 3 JLabels in parameter info popup with html  

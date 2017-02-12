@@ -1,0 +1,1 @@
+  re-enable highlighting for packages and built-ins, fix #1547  

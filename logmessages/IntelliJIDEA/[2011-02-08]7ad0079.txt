@@ -1,0 +1,1 @@
+  [r=alexey.pegov] RUBY-7714 disable run/debug button for template configurations  

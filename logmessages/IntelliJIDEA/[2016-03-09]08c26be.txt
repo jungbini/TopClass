@@ -1,0 +1,1 @@
+  Version.parseVersion now understands various suffixes (1.0-beta, 1.0beta, 1.beta): UpdateInfoDialog decoupled from Version parsing logic  

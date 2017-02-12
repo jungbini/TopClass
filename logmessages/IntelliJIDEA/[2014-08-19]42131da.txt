@@ -1,0 +1,1 @@
+  focus problem when start editing fixed  

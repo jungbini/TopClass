@@ -1,0 +1,1 @@
+  fix for problem with matrix stack being null  

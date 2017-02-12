@@ -1,0 +1,1 @@
+  IDEA-136606 Debug: View values in editor - slow for huge arrays  

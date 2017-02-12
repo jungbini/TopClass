@@ -1,0 +1,1 @@
+  locator for IdeFocusManager fixed, for semi-initialized application (idea server dialog showing)  

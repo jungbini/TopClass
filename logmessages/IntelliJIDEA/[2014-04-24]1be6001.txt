@@ -1,0 +1,1 @@
+  fixed PY-12451 Interpreter added from project creation dialog is not set as project interpreter  

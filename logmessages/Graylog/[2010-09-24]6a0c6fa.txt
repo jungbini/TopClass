@@ -1,0 +1,1 @@
+  First working version of chunked GELF! Hooraygit status Still full of debug messages and with some crappy parts, but working! #durchstichparty  

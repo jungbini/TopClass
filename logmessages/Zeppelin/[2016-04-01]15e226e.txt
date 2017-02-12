@@ -1,0 +1,1 @@
+solete notifications hook d56ed0d [Alexander Bezzubov] ZEPPELIN-776: force CI to always use container-based infra  

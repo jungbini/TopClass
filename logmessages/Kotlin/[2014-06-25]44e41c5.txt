@@ -1,0 +1,1 @@
+  Smart enter for do-while fixed  - Do not brake code if some expression parsed as body for bare "do" - Fix isStatement() check  

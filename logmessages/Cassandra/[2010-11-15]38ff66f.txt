@@ -1,0 +1,1 @@
+  fix tombstoning of supercolumns in range queries patch by jbellis; reviewed by tjake for CASSANDRA-1734  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1035286 13f79535-47bb-0310-9956-ffa450edef68  

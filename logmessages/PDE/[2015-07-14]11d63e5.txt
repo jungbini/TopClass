@@ -1,0 +1,1 @@
+  support additional image types from ImageIO.read(), check alpha on unknown images (fixes #3442), other notes  

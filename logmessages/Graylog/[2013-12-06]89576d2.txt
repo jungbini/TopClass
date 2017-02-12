@@ -1,0 +1,1 @@
+  message permalinks, message partial style changes. fixes #282  

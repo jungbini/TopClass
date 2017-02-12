@@ -1,0 +1,1 @@
+ fixed PY-14273 Exception while opening ipython notebook  (cherry picked from commit 28d265f41679eefb00c9aa7a0b36ac8865589b17)  

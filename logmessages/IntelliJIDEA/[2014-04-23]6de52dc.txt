@@ -1,0 +1,1 @@
+  Gradle: update Tooling API version up to 1.12-rc-1, fix classpath for out-of-process mode  

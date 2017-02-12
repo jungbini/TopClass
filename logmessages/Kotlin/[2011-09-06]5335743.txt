@@ -1,0 +1,1 @@
+  Weird Javac compilation problem fixed  

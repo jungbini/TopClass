@@ -1,0 +1,1 @@
+ fixed image blur do to auto-scaling in stylesheet.  

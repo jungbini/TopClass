@@ -1,0 +1,1 @@
+  Js backend: minor fix in test `closureInNestedFunctions`  

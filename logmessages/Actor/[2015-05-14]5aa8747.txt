@@ -1,0 +1,1 @@
+  feat(common): Added signup method to js library, fixed receiver message ignore  

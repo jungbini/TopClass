@@ -1,0 +1,1 @@
+  Don't copy Test Host app into test bundle  Summary:We've been copying the host app bundle into test bundles (e.g. xctest) but Xcode does not do that. Xcode 7.3 even fails to build tests because of this (looks like Xcode bug though).  Test Plan: CI  Reviewed By: bhamiltoncx  fb-gh-sync-id: bf1a655 fbshipit-source-id: bf1a655  

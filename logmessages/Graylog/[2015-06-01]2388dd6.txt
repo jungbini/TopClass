@@ -1,0 +1,1 @@
+  Use JSR-330 @Qualifier annotation instead of Guice's @BindingAnnotation  This fixes the usage of ClusterEventBus in Jersey resources because HK2 naturally doesn't know how to handle Guice-specific annotations.  Refs 479b0a92d50264102623f1471c1fd325df629798 and http://i.imgur.com/eRs9l7a.gifv  

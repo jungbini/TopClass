@@ -1,0 +1,1 @@
+  r/m unused code from FailureDetector and fix unixism in dumpInterArrivalTimes.  patch by jbellis as suggested by Aaron Morton.  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1025822 13f79535-47bb-0310-9956-ffa450edef68  

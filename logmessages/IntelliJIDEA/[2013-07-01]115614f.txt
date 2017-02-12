@@ -1,0 +1,1 @@
+  WEB-938 Run/Debug Configuration is not updated after move refactor (configuration name is not yet refactored)  

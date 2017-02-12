@@ -1,0 +1,1 @@
+  fixed PY-3511 False positive "Unresolved reference" on :param RST tag with underscores in  

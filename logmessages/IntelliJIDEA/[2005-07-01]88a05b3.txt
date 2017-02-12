@@ -1,0 +1,1 @@
+  long standing bug (#6119) in jsp resolve fixed  

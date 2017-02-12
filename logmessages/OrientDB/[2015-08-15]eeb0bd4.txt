@@ -1,0 +1,1 @@
+  Initial fix for issue #4784.  Allows nested dot-notation fields in UPDATE Increment.  

@@ -1,0 +1,1 @@
+  fixed PY-10289 False positive in compatibility inspection for 'readline'  

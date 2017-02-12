@@ -1,0 +1,1 @@
+  svn merge -r960:961 https://svn.codehaus.org/gradle/gradle-core/branches/RB-0.4 Merged fix for eclipse classpath generation  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@978 004c2c75-fc45-0410-b1a2-da8352e2331b  

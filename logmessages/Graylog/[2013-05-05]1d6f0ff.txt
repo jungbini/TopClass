@@ -1,0 +1,1 @@
+  changes to host and stream names in metrics  fixes #123  

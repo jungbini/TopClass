@@ -1,0 +1,1 @@
+  Look for resources under Maven's standard directory layout  Doesn't completely fix but improves #97 for a lot of people.  -- MOS_MIGRATED_REVID=91909946  

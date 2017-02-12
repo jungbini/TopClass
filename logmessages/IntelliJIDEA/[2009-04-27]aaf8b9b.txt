@@ -1,0 +1,1 @@
+  fix updating highlighters outside of visible area  

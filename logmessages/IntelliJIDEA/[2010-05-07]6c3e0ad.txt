@@ -1,0 +1,1 @@
+  fixed django find usages and rename refactoring  

@@ -1,0 +1,1 @@
+  fix(core+ios): Fixing media bubble to show only photos, fixing incorrect upload status handling  

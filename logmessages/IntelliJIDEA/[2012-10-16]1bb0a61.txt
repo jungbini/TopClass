@@ -1,0 +1,1 @@
+  avoid ModuleBuilder duplication (seemingly fixes Maven and Android problem)  

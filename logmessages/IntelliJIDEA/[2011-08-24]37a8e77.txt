@@ -1,0 +1,1 @@
+  clean debugger even queue on close  

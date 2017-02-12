@@ -1,0 +1,1 @@
+  fix toolbar customizations inside unnamed groups (IDEA-105639)  

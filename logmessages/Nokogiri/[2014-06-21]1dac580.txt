@@ -1,0 +1,1 @@
+  Processing instructions can now be added via Node#add_next_sibling.  This completes the fix begun in 0ea3e76f8cc8857a1a146810826d936fdd18f601.  

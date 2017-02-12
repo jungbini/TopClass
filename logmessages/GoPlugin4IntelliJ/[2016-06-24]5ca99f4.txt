@@ -1,0 +1,1 @@
+  better handling for runes and strings, fix #2274  

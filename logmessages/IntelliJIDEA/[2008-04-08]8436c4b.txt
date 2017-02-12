@@ -1,0 +1,1 @@
+  import settings fixed (IDEADEV-25825)  

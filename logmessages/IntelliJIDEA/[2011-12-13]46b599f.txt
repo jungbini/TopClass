@@ -1,0 +1,1 @@
+  fixed: balloon + an editor inside it + a hint inside editor + hide balloon == idea stops working (nested remove() calls on a hierarchy, indices crash)  

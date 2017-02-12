@@ -1,0 +1,1 @@
+  fix: forced ant attribute worked incorrectly support AntTarget references for "ant" task (IDEA-35951)  

@@ -1,0 +1,1 @@
+  Debugger: allow to evaluate 'this' and fields in java files  

@@ -1,0 +1,1 @@
+  fix(web): fix changing tab when killing session  

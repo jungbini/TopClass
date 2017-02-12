@@ -1,0 +1,1 @@
+  Support -Dorg.gradle.integtest.debug when using the Daemon.  

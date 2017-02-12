@@ -1,0 +1,1 @@
+  Implement graceful connection failure behavior on daemon connect and cancellation check  Should fix (or actually - behave gracefully on) #EA-74003, #EA-74493, #EA-76032, #EA-76529, #EA-81295 Tests added  

@@ -1,0 +1,1 @@
+  First part of an AMQP impl. that does not suck  fixes #SERVER-180, #SERVER-183 and #SERVER-184 still open  

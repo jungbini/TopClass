@@ -1,0 +1,1 @@
+  Stream API Migration: fix cases when boxed collection is iterated with primitive parameter (inspired by PR https://github.com/JetBrains/intellij-community/pull/455 by FHannes)  

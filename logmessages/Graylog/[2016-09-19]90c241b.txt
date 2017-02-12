@@ -1,0 +1,1 @@
+  Add ClusterConfigService#get(String, Class<T>) method (#2822)  The new ClusterConfigService#get(String, Class<T>) method takes the key of the cluster config object in the database as an argument.  This makes it possible to fix some problems with @JsonSubtype usage.  

@@ -1,0 +1,1 @@
+  Maven: ear packaging fix (IDEA-24226) + cleanups  

@@ -1,0 +1,1 @@
+  fixed forked tests debugging did not stop in the first sub-session  

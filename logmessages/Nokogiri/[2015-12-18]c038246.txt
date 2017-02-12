@@ -1,0 +1,1 @@
+ Fix test failure when Encoding.default_external is not UTF-8.  This fixes a test failure on Windows, that was caused by loading a HTML document per File.read(). This function returns a string in some cpXXX encoding on Windows, which was used as the document encoding later on, so that the test failed.  

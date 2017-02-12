@@ -1,0 +1,1 @@
+  IDEA-71356 XSLT debug: breakpoint on closing XML tag causes AE at BreakpointManagerImpl.setBreakpoint()  

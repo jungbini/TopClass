@@ -1,0 +1,1 @@
+  fix(android): add activities package filter  

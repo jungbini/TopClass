@@ -1,0 +1,1 @@
+  fixed PY-9406 Make function from method: when removing last method from class add pass statement  

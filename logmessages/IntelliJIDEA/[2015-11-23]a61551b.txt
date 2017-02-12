@@ -1,0 +1,1 @@
+  More parser fixes:  Let's make arrays = seqs, hashes = mappings, remove compound value as normal node  KeyValues should not eat whitespace if there is no value  Do not include EOLs in parsed block nodes  +parser tests  

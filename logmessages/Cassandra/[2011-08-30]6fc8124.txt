@@ -1,0 +1,1 @@
+  fix comment that implied you could have compaction_thread_priority > 5  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1163279 13f79535-47bb-0310-9956-ffa450edef68  

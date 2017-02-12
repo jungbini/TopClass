@@ -1,0 +1,1 @@
+  properties: InvalidPropertyKey visitor is fixed to don't interrupt while PsiReferenceExpression visit IDEA-153480  

@@ -1,0 +1,1 @@
+  Add workaround for epoll bug that cause 100% cpu usage also in the NioClientSocketPipelineSink  

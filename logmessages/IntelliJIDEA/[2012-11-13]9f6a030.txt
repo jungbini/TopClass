@@ -1,0 +1,1 @@
+  fixed broken resolve for import with class attribute reassignment  

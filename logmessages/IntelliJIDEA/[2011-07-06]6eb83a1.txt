@@ -1,0 +1,1 @@
+  select the exact prefix match, even if case-insensitive  

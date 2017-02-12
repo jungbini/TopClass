@@ -1,0 +1,1 @@
+  fixed mvn build (so that the mvn plugin can compile test cases)  

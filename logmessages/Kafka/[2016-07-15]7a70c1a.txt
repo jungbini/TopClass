@@ -1,0 +1,1 @@
+  KAFKA-3952: Consumer rebalance verifier never succeed due to type mismatch  Author: Wan Wenli <wwl.990@hotmail.com>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #1612 from swwl1992/ticket-KAFKA-3952-fix-consumer-rebalance-verifier  

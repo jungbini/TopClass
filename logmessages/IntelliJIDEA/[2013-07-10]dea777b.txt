@@ -1,0 +1,1 @@
+  IDEA-108682 fix launching activity aliases [rev=alexander.lobas]  

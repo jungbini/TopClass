@@ -1,0 +1,1 @@
+  fix #941, change tachyon.master.MasterClient to tachyon.client.BlockMasterClient  

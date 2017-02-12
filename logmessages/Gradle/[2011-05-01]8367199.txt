@@ -1,0 +1,1 @@
+  Building up documentation for the eclipse/idea plugin. Minor fixes after code review.  

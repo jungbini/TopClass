@@ -1,0 +1,1 @@
+  Allow unconditional TestLockerManager breakpoint  Moving exception throw directive to a separate line from the conditional enclosing it to make debugging that line less annoying  

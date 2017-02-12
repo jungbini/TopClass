@@ -1,0 +1,1 @@
+  fix to the runtime exception bug that was hanging the environment  

@@ -1,0 +1,1 @@
+  Modify ExportTestFunctions to recognize test function names that contain "$"  This is necessary because ProcessEs6Modules appends a suffix that contains "$" to all global declarations including test functions. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=72474724  

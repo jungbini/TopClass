@@ -1,0 +1,1 @@
+  fixed PY-1413 Show first line of docstring in Ctrl-hover popup  

@@ -1,0 +1,1 @@
+  StartBrowserPanel UI fixed after kb review  "Start  Browser" checkbox renamed to "After launch", don't disable all panel controls on unselect this checkbox remove label for URL field fix combobox text baseline (only Mac&Acua LAF, other LAFs are not checked)  

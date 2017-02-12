@@ -1,0 +1,1 @@
+  JS backend: fixed smartcast when a call have implicit this or receiver.  

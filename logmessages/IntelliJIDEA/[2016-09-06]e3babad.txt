@@ -1,0 +1,1 @@
+  IDEA-97406 switch on scalable effects by default It also fixes an issue with Retina on Mac (see JBHiDPIScaledImage)  

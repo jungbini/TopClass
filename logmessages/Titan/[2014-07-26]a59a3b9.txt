@@ -1,0 +1,1 @@
+  Added convertId to BlueprintsTestCase so that vertex labels don't get inadvertently created. Had to exclude a number of test cases due to bugs in the tests.  

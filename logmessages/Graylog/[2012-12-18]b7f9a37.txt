@@ -1,0 +1,1 @@
+  make UDP recv buffer sizes configurable  also removed invalid (duplicated and not working) receive buffer size setting. fixes #SERVER-246  

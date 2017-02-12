@@ -1,0 +1,1 @@
+  CachingBuildEngineTest: enable disabled test  Summary: It appears this test was accidentely left disabled due to a missing `Test` annotation.  Add this annotation and fix a minor case of bit rot.  Test Plan: ran it  Reviewed By: michath  fbshipit-source-id: 49e0d6d  

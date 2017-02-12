@@ -1,0 +1,1 @@
+  fixed a random bug in FaunusVertex.removeEdges(). Added test cases to validate behvior in both EdgeLabelFilterTest and FaunusVertexTest.  

@@ -1,0 +1,1 @@
+  Partially fix the problems with French tokenizer interacting with parser that Mick O'Donnell noted. But there is more to do.  

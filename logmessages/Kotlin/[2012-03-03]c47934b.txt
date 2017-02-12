@@ -1,0 +1,1 @@
+  do not rely on presence of function body to compute function modifiers  this fixes generation of stubs  

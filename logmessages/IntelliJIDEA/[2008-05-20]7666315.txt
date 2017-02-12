@@ -1,0 +1,1 @@
+  class file parsing for non-static inner class constructor fixed.  

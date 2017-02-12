@@ -1,0 +1,1 @@
+ Don't ignore unused attributes of empty constructors (PY-7527)  This allows to invoke the add field quick-fix on them.  

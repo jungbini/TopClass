@@ -1,0 +1,1 @@
+  IDEA-82976 fix compilation in maven resource processing mode  

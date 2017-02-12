@@ -1,0 +1,1 @@
+  Debugger: add breakpoint variant for line with lambda in init block #KT-KT-1061 Fixed  

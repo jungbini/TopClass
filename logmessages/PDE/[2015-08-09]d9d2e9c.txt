@@ -1,0 +1,1 @@
+  Show contributed examples in the Examples window (fixes #3420)  

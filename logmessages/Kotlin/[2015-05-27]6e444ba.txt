@@ -1,0 +1,1 @@
+  Indexer advance() should check previousTokens size before look inside fixes IndexOutOfBounds during indexing  

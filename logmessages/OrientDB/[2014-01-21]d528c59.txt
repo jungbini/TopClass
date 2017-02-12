@@ -1,0 +1,1 @@
+  Issue with tx managementt in graph sql queries was fixed.  

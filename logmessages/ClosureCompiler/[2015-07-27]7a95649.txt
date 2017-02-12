@@ -1,0 +1,1 @@
+  Simplify NodeTraveral's cfgRoots and cfgs logic.  Make cfgs and cfgsRoots always be the same length, where cfgRoots always contains non-null nodes and cfgs contains lazily instantiated (nullable) CFGs  Also fix a usage in AnalyzePrototypeProperties to handle the fact that t.getScope() on a function node 

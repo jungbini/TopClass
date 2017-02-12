@@ -1,0 +1,1 @@
+  [git tests] Don't call tearDown if fixture is not initialized yet  Prefer super.tearDown in this case, otherwise fixture.tearDown will complain that it wasn't setUp yet.  

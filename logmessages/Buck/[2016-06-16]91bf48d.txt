@@ -1,0 +1,1 @@
+  A Small fix in DeterministicJarManifestWriter  Summary: We were subtracting incorrect amount, which might cause last line to be longer than it should.  Test Plan: added unit test that covers the case. Unit test would fail before and passes now  Reviewed By: marcinkosiba, jkeljo  fbshipit-source-id: 952a856  

@@ -1,0 +1,1 @@
+ fixed PY-4376 Split lines: do not add another backslash if there is one already  

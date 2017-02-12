@@ -1,0 +1,1 @@
+  Add missing enum entry added/removed tests  #KT-6200 fixed  

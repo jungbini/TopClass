@@ -1,0 +1,1 @@
+  fixed incorrect warnings if collection contained wildcard type or generic type  

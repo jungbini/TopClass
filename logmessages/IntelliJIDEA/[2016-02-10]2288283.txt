@@ -1,0 +1,1 @@
+  es6 template string content won't be commented by line comment #WEB-20041 fixed  

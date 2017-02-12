@@ -1,0 +1,1 @@
+  IDEA-121445 - editor doesn't support LINES_IN_RANGE  so, we revert fix "Breakpoint on an empty line"  

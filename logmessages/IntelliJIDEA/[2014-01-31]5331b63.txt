@@ -1,0 +1,1 @@
+  Yep! Implement yet another stupid workaround https://code.google.com/p/v8/issues/detail?id=2825 It seems it is really works :) WEB-8174 Node.js debugging problem  

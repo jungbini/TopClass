@@ -1,0 +1,1 @@
+  HA: fixed split-brain network issue by forcing a synch of databases  

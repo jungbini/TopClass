@@ -1,0 +1,1 @@
+  fix(messaging): fixes problems with duplicate key when creating dialog  

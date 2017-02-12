@@ -1,0 +1,1 @@
+  Commented testUpgradeToClearText for now, will fix it asap  

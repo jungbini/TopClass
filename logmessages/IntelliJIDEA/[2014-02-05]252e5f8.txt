@@ -1,0 +1,1 @@
+  Gradle: log level for gradle execution error trace changed to debug  

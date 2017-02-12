@@ -1,0 +1,1 @@
+  Improved security: - new resource SCHEMA to assign the change of the schema to roles. By default only ADMIN can delete classes, while WRITER can read, create and update the schema and READER can only READ it. - Propagated correctly security exception in OrientDB Server - Fixed bug on usage of database+user in OrientDB Server  

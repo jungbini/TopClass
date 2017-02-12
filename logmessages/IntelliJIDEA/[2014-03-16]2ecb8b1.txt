@@ -1,0 +1,1 @@
+  init WEB-7303 WebStorm: Add support for debugging with node-webkit.  

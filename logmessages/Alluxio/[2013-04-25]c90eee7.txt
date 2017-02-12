@@ -1,0 +1,1 @@
+  fixed log file name to not rely on '.', moved getCommandOutput to TFsShellTest  

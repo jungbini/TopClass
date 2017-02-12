@@ -1,0 +1,1 @@
+  Fix go_prefix to resolve to the right repository  This should reference the //:go_prefix rule in the repository the BUILD file using go_* is in, not the repository where def.bzl lives (probably @bazel_tools).  -- MOS_MIGRATED_REVID=117733799  

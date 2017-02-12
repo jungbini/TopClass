@@ -1,0 +1,1 @@
+  fixed timing problem in initial project setup  

@@ -1,0 +1,1 @@
+  WEB-18838 Debugger: UTFDataFormatException on string literals with Unicode glyphs (like U+1F51D)  

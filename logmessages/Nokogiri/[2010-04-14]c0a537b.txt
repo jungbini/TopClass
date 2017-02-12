@@ -1,0 +1,1 @@
+  Fix namespace when a given fragment has valid one decleared in a base document. This solved an error raised from test_fragment_namespace_resolves_against_document_root in xml/test_document_fragment.rb.  However, I changed the test case because this is fixed by text processing before parsing and unable to get the same Namespace instance.  

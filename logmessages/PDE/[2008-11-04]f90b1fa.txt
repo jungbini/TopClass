@@ -1,0 +1,1 @@
+  timescale change in MovieMaker to enable 30fps output (bug #988)  

@@ -1,0 +1,1 @@
+  fix ReplaceInaccessibleFieldWithGetterSetterFixTest by not searching for incomplete usages in cls file  

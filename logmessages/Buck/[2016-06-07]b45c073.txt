@@ -1,0 +1,1 @@
+  fix PropertyFinderTest  Summary: fix PropertyFinderTest  Test Plan: ci, locally  Reviewed By: Coneko  fbshipit-source-id: 7261834  

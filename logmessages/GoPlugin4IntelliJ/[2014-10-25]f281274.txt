@@ -1,0 +1,1 @@
+ Merge pull request #902 from bronze1man/pr-redeclare-init  fix init bug in RedeclareInspection  commit f281274fa05611bc1ac5ba8f4b5bc3cca44cc465  fix init bug in RedeclareInspection  

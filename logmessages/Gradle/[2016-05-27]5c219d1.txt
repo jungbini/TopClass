@@ -1,0 +1,1 @@
+  Revert to old version of JMock  Seems to break Spock tests:  java.lang.NoClassDefFoundError: Could not initialize class org.gradle.integtests.fixtures.executer.GradleContextualExecuter at org.gradle.integtests.fixtures.AbstractIntegrationSpec.$spock_initializeFields(AbstractIntegrationSpec.groovy:45)  

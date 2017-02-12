@@ -1,0 +1,1 @@
+  Properly removing termianted Inputs from running list.  Also fixing a Bug where a restarted input fails because its metrics already exist.  Fixes #626  

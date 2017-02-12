@@ -1,0 +1,1 @@
+  xdebugger java breakpoints: obtain project directly instead of fetching it via DataContext  

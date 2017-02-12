@@ -1,0 +1,1 @@
+  fixed regression caused by PY-6366 fix (unable to install distribute/pip)  

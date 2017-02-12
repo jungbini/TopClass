@@ -1,0 +1,1 @@
+  REVIEW-1962: Use JUnit 4.5 in AssumptionIntegrationTest; fix HtmlTestExecutionResult  

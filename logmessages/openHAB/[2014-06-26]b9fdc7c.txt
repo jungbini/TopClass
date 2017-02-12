@@ -1,0 +1,1 @@
+e4be3dee  Merge pull request #1184 from tisoft/cul  Cul/FHT/EM fixes  commit b9fdc7c3732f6caee474515fbf1235b5d3e03873  fixes to transaction management in jpa persistence service. a new entitymanager is created and closed for each transaction.  

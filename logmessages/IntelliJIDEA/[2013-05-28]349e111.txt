@@ -1,0 +1,1 @@
+  IDEA-107943 Dependencies with a non-default type not added as external libraries in maven module fixed: allow "maven-plugin" in dependency type. +review CR-IC @Anton.Makeev  

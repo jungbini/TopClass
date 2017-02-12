@@ -1,0 +1,1 @@
+ fixed PY-12270 Project Interpreters: interpreter gets duplicated when hitting apply in multi-project settings window  

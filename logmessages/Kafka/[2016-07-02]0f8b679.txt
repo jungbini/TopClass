@@ -1,0 +1,1 @@
+  MINOR: Typo fix in docs ops  Author: Thanasis Katsadas <thanasis00@gmail.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1552 from thanasis00/trunk  

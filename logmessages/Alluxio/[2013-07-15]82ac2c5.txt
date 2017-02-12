@@ -1,0 +1,1 @@
+  Fix bug in UI where exception would be thrown if an inode with file size -1 was viewed  

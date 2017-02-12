@@ -1,0 +1,1 @@
+  inplace introduce: do not touch next field type; fix introduce over local variable with initializer; tests  

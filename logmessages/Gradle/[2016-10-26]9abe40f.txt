@@ -1,0 +1,1 @@
+  Deprecate changing copy specs during task execution  Before we started tracking child specs correctly, it was possible to modify copy specs during execution time of the copy task. We should still allow this and not fail when it happens. This fixes a regression introduced in 3.2 RC1.  +review REVIEW-6348  

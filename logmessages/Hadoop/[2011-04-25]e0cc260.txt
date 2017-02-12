@@ -1,0 +1,1 @@
+  HADOOP-7241. fix typo of command 'hadoop fs -help tail'. Contributed by Wei Yongjun   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1096522 13f79535-47bb-0310-9956-ffa450edef68  

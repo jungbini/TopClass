@@ -1,0 +1,1 @@
+  added quickfix to add parentheses if the statement is a function reference to Statement has no effect inspection, added tests for that quickfix  

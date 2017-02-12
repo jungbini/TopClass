@@ -1,0 +1,1 @@
+  fixed PY-7794 Docstring after comment - syntax highlight  

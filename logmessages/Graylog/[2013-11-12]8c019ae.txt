@@ -1,0 +1,1 @@
+  display generated ES query in interface  fixes #376  

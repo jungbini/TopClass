@@ -1,0 +1,1 @@
+  VCS: order checkout providers' actions in some fixed order inside group  

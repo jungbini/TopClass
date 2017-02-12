@@ -1,0 +1,1 @@
+  fix handling of harmless InterruptedException during shutdown  this could happen if we blocked on a read from the journal, and the server shut down. other exceptions will be rethrown  the exception handling code is slightly awkward because the kafka scala code doesn't declare the IOException so the java compiler thinks it won't ever be thrown (fun eh)  

@@ -1,0 +1,1 @@
+  SCSS, LESS and HAML identation fixed. RUBY-10527 SCSS Editor is already broken  

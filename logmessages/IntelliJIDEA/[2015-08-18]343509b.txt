@@ -1,0 +1,1 @@
+  fix ResolveMethodTest, Object's methods should be preferred over interface methods  

@@ -1,0 +1,1 @@
+ Add SparkDl4jMultiLayer distributed scoreExamples tests; fix for evaluation  

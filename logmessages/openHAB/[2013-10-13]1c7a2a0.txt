@@ -1,0 +1,1 @@
+  Change Plugwise Binding from AbstractBinding to AbstractActiveBinding, and fix issue #456 (see latest comment of issue, should be tested by affected users)  

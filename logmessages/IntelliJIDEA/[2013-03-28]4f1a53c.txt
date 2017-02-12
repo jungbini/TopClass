@@ -1,0 +1,1 @@
+  Fixed loosing tracing on creating new process in multiprocess debugging.  

@@ -1,0 +1,1 @@
+  WEB-24297 fix "Smart step into" in JS  

@@ -1,0 +1,1 @@
+  add time based index rotation, fixes #137  this code always rotates on startup, this will be fixed in a followup task  you can specify a time period that dictates when to rotate an index, the default is 1 per day permitted interval units are days, hours, minutes and seconds.  fixed some merge errors in graylog2.conf  

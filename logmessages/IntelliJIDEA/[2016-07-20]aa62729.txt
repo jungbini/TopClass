@@ -1,0 +1,1 @@
+  [java] fixes receiver highlighting in local classes (IDEA-158752)  

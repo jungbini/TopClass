@@ -1,0 +1,1 @@
+  clean up internal sketch loading, breaks api but fixes #3586 and avoids other complications  

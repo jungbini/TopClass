@@ -1,0 +1,1 @@
+  Fix new findbugs warnings in rest of the hadoop-yarn components. (Contributed by Li Lu)  

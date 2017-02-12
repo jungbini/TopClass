@@ -1,0 +1,1 @@
+  JDK 5.0 introduces slightly changed API for VM connection and debugging transports. API adapters created to neglate the 

@@ -1,0 +1,1 @@
+  Maven: ui fixes (IDEA-53911, IDEA-53672)  

@@ -1,0 +1,1 @@
+  fix shutdown sequence when ES is unavailable  properly let services stop themselves after the Indexer has failed to start. especially turn off waiting for purging the caches and buffers, because that will not succeed and just adds 30 secs to shutdown time make logging and error message less noisy by removing useless print and stacktraces  fixes #517  

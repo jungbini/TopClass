@@ -1,0 +1,1 @@
+  [SMALLFIX] Small fixes in several classes  - Removed not needed import in AbstractClientTest - Added documentation of exception in AbstractLocalAlluxioCluster - Simplified if statements in AllocatorTestBase - Removed not needed cast in AlluxioMasterRestApiTest - Removed not needed casts in AlluxioWorkerRestApiTest  

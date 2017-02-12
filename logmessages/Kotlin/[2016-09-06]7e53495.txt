@@ -1,0 +1,1 @@
+  JS: fix remaining tests. Suppress extensionFromTopLevelUnitOneStringArg.kt, use another approach to check whether object's property accessed via this  

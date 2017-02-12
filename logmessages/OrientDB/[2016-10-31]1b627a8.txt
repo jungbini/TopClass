@@ -1,0 +1,1 @@
+  HA: fixed issues with distributed scheduler events  

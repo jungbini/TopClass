@@ -1,0 +1,1 @@
+  Error 'Inappropriate ioctl for device' in debugger with Django (PY-21096)  Do not override original sys.stdin.isatty(), because it can't be set to any constant value. It should be False for local interpreters and True for remote interpreters.  

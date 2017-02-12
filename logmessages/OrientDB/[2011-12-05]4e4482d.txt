@@ -1,0 +1,1 @@
+  - fixed bug on date format in SQL format function - new date() SQL function  

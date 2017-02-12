@@ -1,0 +1,1 @@
+  #2001 jboss temporary fix - avoid transform class collision (Tomcat plugin) - add temporary option : profile.jboss.enable=false  

@@ -1,0 +1,1 @@
+  [#2847] Correctly encode HTTP to SPDY if X-SPDY-Associated-To-Stream-ID is not present  Motivation:  Because of a bug a NPE was thrown when tried to encode HTTP to SPDY and no X-SPDY-Associated-To-Stream-ID was present.  Modifications:  Use 0 as default value when X-SPDY-Associated-To-Stream-ID not present.  Result:  No NPE anymore.  

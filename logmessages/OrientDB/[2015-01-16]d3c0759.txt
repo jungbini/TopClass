@@ -1,0 +1,1 @@
+  Bug with safe publication of Orient instance was fixed.  

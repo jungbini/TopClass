@@ -1,0 +1,1 @@
+  fix type bug in case of not set server_value ping  

@@ -1,0 +1,1 @@
+  MINOR: some trace logging for streams debugging  Author: Ubuntu <norwood@confluent.io>  Reviewers: Eno Thereska <eno.thereska@gmail.com>, Guozhang Wang <wangguoz@gmail.com>, Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1882 from norwood/streams-logging  

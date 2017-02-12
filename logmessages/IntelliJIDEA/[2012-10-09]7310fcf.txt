@@ -1,0 +1,1 @@
+  IDEA-92621 Groovy: 'Move to package' fix doesn't work  

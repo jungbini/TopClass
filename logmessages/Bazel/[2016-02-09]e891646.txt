@@ -1,0 +1,1 @@
+  Split the execution of the WORKSPACE file after each load statement  This is the main step toward supporting load statement of remote repository in the WORKSPACE file (bug #824). Load statement that refers to a remote repository will depend on the previous fragment of the workspace file.  Issue #824 Step 3.  -- MOS_MIGRATED_REVID=114237027  

@@ -1,0 +1,1 @@
+  check for access to internal elements from another module in jps-plugin  hack for access from tests to internal declarations in production code  fix AbstractCompileKotlinAgainstKotinTest: add information about output directory in order to correct check for internal visibility.  

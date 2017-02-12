@@ -1,0 +1,1 @@
+  Improve inspection for non-local type definitions (fixes #2269)  

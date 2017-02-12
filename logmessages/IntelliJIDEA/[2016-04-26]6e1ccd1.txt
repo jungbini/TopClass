@@ -1,0 +1,1 @@
+  inspection tool window: do not need update node with applied fix  

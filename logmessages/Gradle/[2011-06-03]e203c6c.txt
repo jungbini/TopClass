@@ -1,0 +1,1 @@
+  Moved ear plugin examples out of the webapplication to a top level sample. Updated the reference. Commented out the 'withXml' part from the sample until it is fixed.  

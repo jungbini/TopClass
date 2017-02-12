@@ -1,0 +1,1 @@
+  Test fixed accordingly with KT-3175  

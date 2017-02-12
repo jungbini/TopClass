@@ -1,0 +1,1 @@
+  merge: destroy changes before applying request  applyRequest() can modify content, but there are no need to update changed ranges anymore. This should fix warning about too many ranges on interval in RangeMarkerTree on merge cancel.  

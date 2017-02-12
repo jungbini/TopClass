@@ -1,0 +1,1 @@
+ Issue #1841 was fixed. OS JNA libraries are ignored by default.  

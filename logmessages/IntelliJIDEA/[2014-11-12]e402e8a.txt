@@ -1,0 +1,1 @@
+  Use HttpRequests to fix IDEA-131621  checkPluginsHost  don't load twice versions info (we still parse it twice) ensure that we download plugin under determinate progress  

@@ -1,0 +1,1 @@
+  fixed lesson association with task on unpacking course archive  

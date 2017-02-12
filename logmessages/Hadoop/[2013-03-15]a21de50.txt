@@ -1,0 +1,1 @@
+  merge -c 1457038 from trunk to branch-2 to fix YARN-196. Nodemanager should be more robust in handling connection failure to ResourceManager when a cluster is started. Contributed by Xuan Gong.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1457041 13f79535-47bb-0310-9956-ffa450edef68  

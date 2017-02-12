@@ -1,0 +1,1 @@
+  [NTI] Bugfix when analyzing the rhs of (prop in SomeObj). ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=104881631  

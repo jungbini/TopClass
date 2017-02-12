@@ -1,0 +1,1 @@
+  Filtering out non-existent directories from generated classpath. The check is so simple, because there may be, e.g. non-existent production output directory for just created module.  #KT-6703 fixed  

@@ -1,0 +1,1 @@
+  Maven: duplicate Maven project names handling fix (IDEADEV-39875)  

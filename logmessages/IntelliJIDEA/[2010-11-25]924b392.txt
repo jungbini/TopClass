@@ -1,0 +1,1 @@
+  git log - fix filter according to git bug; draw borders around table/details  

@@ -1,0 +1,1 @@
+ Merge pull request #119 from NFLabs/unpersist-when-delete-notebook  fix not deleting notebook files when deleting notebook  commit bdd8b76f633e0c1a4f14f5d6d67425aa9e7c8de4  fix not deleting notebook files when deleting notebook  

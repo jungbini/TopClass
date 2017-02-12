@@ -1,0 +1,1 @@
+  Merged resolve & code windows into one, adding icon to them.  #KT-1353 fixed  

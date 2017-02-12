@@ -1,0 +1,1 @@
+  Maven: update folders fix, some settings refinement, convenient gui actions, navigator fixes, refactorings  

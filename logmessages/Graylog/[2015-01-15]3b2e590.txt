@@ -1,0 +1,1 @@
+  hide create link if the user doesn't have the permission to actually go through with it  using that link would simply result in an error, which is confusing  fixes #1032  

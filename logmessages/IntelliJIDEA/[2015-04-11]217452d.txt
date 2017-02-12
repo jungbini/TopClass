@@ -1,0 +1,1 @@
+  StaticPseudoFunctionalStyleMethodInspection: Inspection to replace old pseudo functional code with stream api. added options to create custom templates. Tests fixed. Description improved. Moved to java-impl module  

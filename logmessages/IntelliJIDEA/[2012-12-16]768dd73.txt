@@ -1,0 +1,1 @@
+  external build: fix loading processor data from xml; specify options to javac in correct format (IDEA-97426 Incorrect annotation processors executed)  

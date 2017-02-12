@@ -1,0 +1,1 @@
+  Backported fix for lower-case media type lookups  Issue: SPR-13747  

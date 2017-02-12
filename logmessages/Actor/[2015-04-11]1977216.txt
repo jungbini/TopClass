@@ -1,0 +1,1 @@
+  fix(ios): fixed text bubble  

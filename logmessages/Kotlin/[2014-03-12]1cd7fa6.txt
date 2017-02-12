@@ -1,0 +1,1 @@
+  JS backend: fixed compiler crash when use in elvis operator something which is expression in Kotlin and not in Javascript, e.g. `return`. #KT-4159 fixed  

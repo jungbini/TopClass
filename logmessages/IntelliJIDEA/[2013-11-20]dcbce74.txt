@@ -1,0 +1,1 @@
+  RUBY-14570: fixing strings according to proofreading results.  

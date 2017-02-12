@@ -1,0 +1,1 @@
+  Patch by Luca Molino that fixes a problem with Console history under Unix and MacOSX systems.  

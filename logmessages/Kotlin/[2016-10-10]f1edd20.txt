@@ -1,0 +1,1 @@
+  Annotations on type aliases: add tests for @Deprecated on type aliases.  TODO fix KT-14274  

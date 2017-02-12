@@ -1,0 +1,1 @@
+  new fix for IDEA-152628  for opening external documentation, first try to fetch documentation internally, if document provider supports that, using first working URL to open in browser  

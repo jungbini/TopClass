@@ -1,0 +1,1 @@
+  Check for script file validity on cache changes, fixes #EA-90318, #EA-87672  

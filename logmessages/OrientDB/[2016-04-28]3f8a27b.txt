@@ -1,0 +1,1 @@
+  fixes sequence generation for cached with increment  https://github.com/orientechnologies/orientdb/issues/6064  

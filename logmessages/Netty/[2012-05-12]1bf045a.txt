@@ -1,0 +1,1 @@
+ Merge pull request #320 from veebs/3WsSubprotocol  Fixed websocket bug where subprotocol not sent by client (3 branch)  commit 1bf045a7bad264ef809f5928987e000d55aa5840  Fixed bug where subprotocol not sent by client  

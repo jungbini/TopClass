@@ -1,0 +1,1 @@
+  fixed PY-3848 Support for type detection with sphinx combined parameter type and description  

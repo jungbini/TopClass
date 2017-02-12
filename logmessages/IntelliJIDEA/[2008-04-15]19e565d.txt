@@ -1,0 +1,1 @@
+  Maven: project view filling bug fix (IDEADEV-25635)  

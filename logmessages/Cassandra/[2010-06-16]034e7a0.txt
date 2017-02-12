@@ -1,0 +1,1 @@
+  r/m 'object count' abomination.  fix BF serialization to only use top-level columns (since those are the only ones it's ever checked for) patch by jbellis; reviewed by Stu Hood for CASSANDRA-16   git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@955265 13f79535-47bb-0310-9956-ffa450edef68  

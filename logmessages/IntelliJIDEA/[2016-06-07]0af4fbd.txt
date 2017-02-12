@@ -1,0 +1,1 @@
+  inspection toolwindow: InspectionTree#getSelectedDescriptors() fix non-terminated stream bug  

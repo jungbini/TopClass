@@ -1,0 +1,1 @@
+  Make configure on demand work with idea plugin  Calling `project.getTasks().getByPath(taskName)` forces the project to evaluate. By putting the whole iml artifact attach business into an afterEvaluate block this should be fixed. The Eclipse plugin probably exposes the same problem.  

@@ -1,0 +1,1 @@
+  [SMALLFIX] Small fixes in several classes  - Fixed documentation in OpenFileEntry - Removed not needed cast in ResourcePoolTest - Collapsed multiple catch statements into one in TieredBlockStore - Used foreach instead of for in TieredBlockStoreTestUtils - Fixed documentation in TtlIntervalRule  

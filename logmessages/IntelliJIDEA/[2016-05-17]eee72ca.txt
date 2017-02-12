@@ -1,0 +1,1 @@
+  [vcs-log] fix cursor issues with log table when progress indicator is on screen  

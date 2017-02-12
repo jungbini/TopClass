@@ -1,0 +1,1 @@
+  fix database helper and server admin session close  

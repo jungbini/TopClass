@@ -1,0 +1,1 @@
+  Improved the assertions so that it is now possible to figure out what's wrong without a lengthy debugging session. Needed to add an extra dependency to test's compilation.  

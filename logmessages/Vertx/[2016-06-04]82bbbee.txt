@@ -1,0 +1,1 @@
+  fixes vert-x3/issues#129  change netty-handler-proxy to a direct dependency, remove the documentation lines about it being optional  Signed-off-by: alexlehm <alexlehm@gmail.com>  

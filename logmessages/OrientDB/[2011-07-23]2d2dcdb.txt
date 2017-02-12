@@ -1,0 +1,1 @@
+  Fixed bug found by Raf in ML about parametrized queries with spaces.  OCommandSQL insertcommand = new OCommandSQL("insert into Person (name, city, gender) values (?, ?, ?)");  

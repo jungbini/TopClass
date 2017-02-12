@@ -1,0 +1,1 @@
+  Some fixes to tooling API tests after removal of org.gradle.util.Jvm.  

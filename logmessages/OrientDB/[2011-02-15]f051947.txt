@@ -1,0 +1,1 @@
+  Fixed bug in authentication reported by Sylvain Spinelli through the ML  

@@ -1,0 +1,1 @@
+  Fix transitive building of dependent artifacts in composite build  When building a dependent artifact, supply the composite context to permit transitive building of artifacts. This fix does not address the fact that tasks for transitive artifacts are executed twice, nor does it fail gracefully for dependency cycles.  

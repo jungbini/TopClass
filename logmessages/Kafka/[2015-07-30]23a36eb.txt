@@ -1,0 +1,1 @@
+  KAFKA-2026: fix logging of unsued options always showing null; reviewed by Ewen Cheslack-Postava and Jiangjie Qin  

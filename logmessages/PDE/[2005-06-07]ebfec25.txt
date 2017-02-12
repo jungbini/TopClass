@@ -1,0 +1,1 @@
+  tweak for create font tool, fix the java < 1.3 error message, better Capture error message  

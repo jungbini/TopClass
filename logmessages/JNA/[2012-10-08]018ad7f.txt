@@ -1,0 +1,1 @@
+ Add fix for issue #135 in Advapi32Util (reading empty values)  With this fix it is possible to read values from registry of the following types even when the size of the value is 0:  REG_SZ REG_EXPAND_SZ REG_MULTI_SZ REG_NONE REG_BINARY (fixed by earlier committer)  Advapi32UtilTest updated with unit test triggering the bug.  

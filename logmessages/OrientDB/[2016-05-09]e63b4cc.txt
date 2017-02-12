@@ -1,0 +1,1 @@
+  Introduced new SQL command "HA remove server" and renamed 2 sync commands with HA as prefix  Issue #4772  

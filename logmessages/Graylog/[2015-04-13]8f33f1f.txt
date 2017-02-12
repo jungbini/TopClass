@@ -1,0 +1,1 @@
+ Enable add to dashboard button on quick values  It looks really bad, but at least we have the functionality until we fix the quick values popup  

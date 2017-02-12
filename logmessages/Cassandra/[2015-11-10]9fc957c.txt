@@ -1,0 +1,1 @@
+  (Hadoop) fix splits calculation  patch by Aleksey Yeschenko; reviewed by Alex Liu for CASSANDRA-10640  

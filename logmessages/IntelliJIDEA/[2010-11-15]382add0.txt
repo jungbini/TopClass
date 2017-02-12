@@ -1,0 +1,1 @@
+  RUBY-7161 support for launching .app on Mac, whitespaces problem fixed  

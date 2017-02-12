@@ -1,0 +1,1 @@
+  Javascript completion provided inside JSP EL prefix/suffix (IDEADEV-19816)  

@@ -1,0 +1,1 @@
+  catches attempts to draw outside animation thread, fixes #4196  

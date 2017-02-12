@@ -1,0 +1,1 @@
+  Fixed bug in WHERE condition on UPDATE when REMOVE is used. Example: UPDATE MyClass REMOVE prop1 WHERE prop2 = "val"  

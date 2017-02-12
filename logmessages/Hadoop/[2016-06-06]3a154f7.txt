@@ -1,0 +1,1 @@
+  YARN-4525. Fix bug in RLESparseResourceAllocation.getRangeOverlapping(). (Ishai Menache and Carlo Curino via asuresh)  

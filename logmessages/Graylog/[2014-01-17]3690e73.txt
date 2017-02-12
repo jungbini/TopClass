@@ -1,0 +1,1 @@
+  support placeholder attribute on older browsers  fixes #527  

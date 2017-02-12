@@ -1,0 +1,1 @@
+  fix macosx build scripts for new setup  

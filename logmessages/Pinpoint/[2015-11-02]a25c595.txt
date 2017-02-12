@@ -1,0 +1,1 @@
+ bug fix. wrong inspect agent link of node context menu in servermap.  

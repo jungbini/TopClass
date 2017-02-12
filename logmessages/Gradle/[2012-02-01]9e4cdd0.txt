@@ -1,0 +1,1 @@
+  Minor fix to the Jvm so that it's more consistent with previous behavior. We look for tools jar and runtime jar based on the supplied java location VS using the discovered java location.  

@@ -1,0 +1,1 @@
+  fixed result type for elvis operator  return type for special call for elvis operator might be nullable but result is not nullable if the right type is not nullable  

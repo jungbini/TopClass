@@ -1,0 +1,1 @@
+  [java] fixes soft keyword highlighting in source files (IDEA-164939)  

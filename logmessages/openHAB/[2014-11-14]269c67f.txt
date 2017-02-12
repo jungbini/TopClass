@@ -1,0 +1,1 @@
+  DuplicateBroadcastProtectionFilter removed from binding, as it is not necessary in the CometVisu binding and hopefully fixes the memory issue mentioned in #765  

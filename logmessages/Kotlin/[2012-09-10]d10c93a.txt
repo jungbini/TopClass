@@ -1,0 +1,1 @@
+  fix object captured variables collections merge objectAsConstructorParameter and localParameterInLocalNamedFunction  (cherry-picked from 668946a)  

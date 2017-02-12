@@ -1,0 +1,1 @@
+  do not allow multi-device execution in debug mode  

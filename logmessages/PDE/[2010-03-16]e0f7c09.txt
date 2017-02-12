@@ -1,0 +1,1 @@
+  Fix http://dev.processing.org/bugs/show_bug.cgi?id=1188 .  Of course, in order to enable assertions, you have to run the JVM with the -ea switch. Should we detect the use of assertions (easily done) and set a flag (as we do with "hasMain", etc.)?  

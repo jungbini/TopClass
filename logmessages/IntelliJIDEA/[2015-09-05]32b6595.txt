@@ -1,0 +1,1 @@
+  fixed EDU-399 Add "New Scratch File" action to "New File" menu  

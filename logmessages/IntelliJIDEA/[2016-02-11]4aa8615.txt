@@ -1,0 +1,1 @@
+ dialogs to fix nasty surprises when performWhenCommitted() stopped working as soon as modal dialog opens  

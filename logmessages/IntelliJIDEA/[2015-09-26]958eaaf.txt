@@ -1,0 +1,1 @@
+  Mac laf: fix a small glitch in text fields on Retina  

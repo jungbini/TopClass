@@ -1,0 +1,1 @@
+  fixed PY-5986 Provide an option to disable automatic docstring generation on """[space]  

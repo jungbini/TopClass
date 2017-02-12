@@ -1,0 +1,1 @@
+  use StringBuilder in ES message batch generation  old behaviour with + as string appender was really, really slow for large message batches. fixes #SERVER-72  

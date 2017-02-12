@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=55 ("Add support for Callable<?> to Broadcaster.schedule")  Add support for Callable to be periodically scheduled.  

@@ -1,0 +1,1 @@
+ Merge pull request #1068 from druid-io/backport-dynamic-config-fix  Backport Dynamic configuration fixes for worker select strategy  commit 2661a55e7e67a9054b7ef4a491df0eb68eefb741  fix serde for realtime tuning config  

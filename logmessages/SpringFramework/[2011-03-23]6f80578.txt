@@ -1,0 +1,1 @@
+  Ignore fragile test dependent on debug symbols  Issue: SPR-8078  

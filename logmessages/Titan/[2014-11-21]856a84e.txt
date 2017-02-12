@@ -1,0 +1,1 @@
+er Faunus NPE issue fixing, but I haven't bisected and don't know exactly which change did it.  This commit adds a test which would catch a regression on #807.  

@@ -1,0 +1,1 @@
+  fixed a locking bug in FaunusPipeline and made Graph instance static to JVM.  

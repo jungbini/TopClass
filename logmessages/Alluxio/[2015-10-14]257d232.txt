@@ -1,0 +1,1 @@
+  - renamed json entries file - added after method for closing streams - minor stylistic fixes  

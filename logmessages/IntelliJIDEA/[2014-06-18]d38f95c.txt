@@ -1,0 +1,1 @@
+  Gradle: fix build classpath resolve when 'classpath' configuration is in not unresolved state already  

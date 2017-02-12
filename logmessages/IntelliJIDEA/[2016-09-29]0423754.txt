@@ -1,0 +1,1 @@
+  fix DomVirtualFileEventsTest blinking: don't let current dom be gc-ed  

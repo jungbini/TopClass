@@ -1,0 +1,1 @@
+ Bug fix. - can not display right error message in realtime chart.  

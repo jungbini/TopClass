@@ -1,0 +1,1 @@
+  DeprecatedSymbolUsageFix: fixed nested calls with implicit receivers in the pattern  

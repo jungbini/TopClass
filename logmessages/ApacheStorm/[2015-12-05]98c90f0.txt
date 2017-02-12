@@ -1,0 +1,1 @@
+  STORM-1374 fix random failure on WindowManagerTest  * Problem: Trigger could be called two times while sleeping * which first one has the events which are actually we want * and second one resets it, which makes test failed * Solution: Trigger manually * and remove sleep if not necessary  

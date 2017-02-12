@@ -1,0 +1,1 @@
+  Include debug entitlements by default when building non-release builds.  The new behavior can be disabled by building with -c opt or --nodevice_debug_entitlements.  RELNOTES: iOS apps are signed with get-task-allow=1 unless building with -c opt.  -- MOS_MIGRATED_REVID=120827024  

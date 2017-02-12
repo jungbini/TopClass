@@ -1,0 +1,1 @@
+  Forget to filter metaclass attributes by name while resolving class type member. This bug was introduced in PY-19702-related changes.  

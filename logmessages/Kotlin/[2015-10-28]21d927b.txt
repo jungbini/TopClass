@@ -1,0 +1,1 @@
+  Test for KT-9712 (fixed along with KT-9717) #KT-9712 Fixed  

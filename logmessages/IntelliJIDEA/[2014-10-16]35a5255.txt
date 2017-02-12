@@ -1,0 +1,1 @@
+  -eval chunks in sequence and wait when debugger finish previous task -fix bug in RowHeaderTable scrolling -add loading icon animation -add hint manager -fix 'apply format' -restrict manual selections in row's header and column reordering  

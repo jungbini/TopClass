@@ -1,0 +1,1 @@
+  registry property to disable injections highlighting WEB-1475 and WEB-11251 partially fixed  

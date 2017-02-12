@@ -1,0 +1,1 @@
+ allow dots in LDAP group names  This changes the storage format for ldap group mappings to allow storing group names with '.' in them. Migration will be performed on read as well as during startup (once per cluster) to allow backwards compatibility in case of a downgrade.  fix #1458  

@@ -1,0 +1,1 @@
+  ask before executing non-GET in api browser  fixes #Graylog2/graylog2-web-interface#213  

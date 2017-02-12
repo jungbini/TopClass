@@ -1,0 +1,1 @@
+  fix cobetura report.  patch by johano; reviewed by jbellis for CASSANDRA-167  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@774525 13f79535-47bb-0310-9956-ffa450edef68  

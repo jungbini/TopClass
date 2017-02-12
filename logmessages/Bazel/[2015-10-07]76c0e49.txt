@@ -1,0 +1,1 @@
+  sandbox: Push creation of needed empty directories (like /tmp, TEST_TMPDIR) into the namespace-sandbox, instead of doing it in Java. This fixes an issue where the namespace-sandbox would check-fail on an mkdir() of a directory that was already created in the LinuxSandboxedStrategy.  -- MOS_MIGRATED_REVID=104851563  

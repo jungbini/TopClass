@@ -1,0 +1,1 @@
+  REVIEW-1297 some fixes on distribution plugin - move evaluation of valid distribution name to consumer - fix typo in error message - rename DistributionsContainer -> DistributionContainer - clean up DistributionContainer (remove add methods) - remove unused DistributionExtension  

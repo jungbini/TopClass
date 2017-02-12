@@ -1,0 +1,1 @@
+  fixed PY-14130 IPython Notebook: slash at the end of the URL prevents cells from running  

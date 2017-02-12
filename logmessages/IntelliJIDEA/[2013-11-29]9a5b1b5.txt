@@ -1,0 +1,1 @@
+  fix three state check box under intellij and darcula lafs  

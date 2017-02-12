@@ -1,0 +1,1 @@
+  fix a PY-8654 "Add super class call" quickfix should delete "pass" statement if it was the only body of __init__ before quickfix was invoked  

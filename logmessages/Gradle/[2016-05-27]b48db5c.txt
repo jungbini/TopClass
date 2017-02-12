@@ -1,0 +1,1 @@
+  Use newer agentlib:jdwp JVMTI interface in debugger options  - replace usage of deprecated pre-JDK 5 JVMDI interface arguments - see http://docs.oracle.com/javase/6/docs/technotes/guides/jpda/conninv.html#Invocation - GRADLE-3459  +review REVIEW-6017  

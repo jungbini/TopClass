@@ -1,0 +1,1 @@
+  fixed PY-2676 Django Tests: Postgres: invalid ImproperlyConfigured exeption within PyCharm (Added support for django >= 1.2 tests)  

@@ -1,0 +1,1 @@
+  GRADLE-3170 Idea gradle plugin generates wrong sources jar for multi artifact dependencies  Add tests and a fix for issue where Ivy dependencies do not have sources attached correctly.  See http://forums.gradle.org/gradle/topics/idea_gradle_plugin_generates_wrong_sources_jar_for_multi_artifact_dependencies  

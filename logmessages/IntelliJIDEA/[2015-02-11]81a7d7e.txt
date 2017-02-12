@@ -1,0 +1,1 @@
+  HiDPI fix default size of FileChooser  

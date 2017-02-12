@@ -1,0 +1,1 @@
+  add a test case of a bug that two go test files can not resolve each other.  

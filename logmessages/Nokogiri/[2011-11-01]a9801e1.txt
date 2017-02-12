@@ -1,0 +1,1 @@
+  XML::Attr nodes are not allowed to be added as node children, so an exception is raised. fixes #558  

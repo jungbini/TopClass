@@ -1,0 +1,1 @@
+  Fixed bug on copy of _ordered field reported by Sylvain Spinelli via ML  

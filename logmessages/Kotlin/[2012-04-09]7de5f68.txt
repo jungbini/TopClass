@@ -1,0 +1,1 @@
+ KT-1238 Completion of 'break' keyword: why does it add space char at the end? KT-1237 Auto-completion of "return" keyword should not insert space after it when in a method returning Unit  #KT-1237 fixed #KT-1238 fixed  

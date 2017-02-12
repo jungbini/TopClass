@@ -1,0 +1,1 @@
+  move members: escalate visibility fix in case of overloaded methods (IDEA-81323)  

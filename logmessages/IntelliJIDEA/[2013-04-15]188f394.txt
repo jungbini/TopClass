@@ -1,0 +1,1 @@
+  fixed  PY-9416 hybrid_property of sqlalchemy is only recognized as write-only property  

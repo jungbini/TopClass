@@ -1,0 +1,1 @@
+  fix IntegerType.getString.  patch by Jim Ancona and jbellis for CASSANDRA-1681  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1028587 13f79535-47bb-0310-9956-ffa450edef68  

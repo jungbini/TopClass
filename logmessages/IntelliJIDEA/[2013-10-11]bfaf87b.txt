@@ -1,0 +1,1 @@
+  fixed PY-11071 File contains non-ASCII character: layout for inspection settings has invalid grid  

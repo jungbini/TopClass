@@ -1,0 +1,1 @@
+  Gradle-432 Classifier was not added to pom. Fixed bugs in pom genertation due to the new dependency handling.  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@1344 004c2c75-fc45-0410-b1a2-da8352e2331b  

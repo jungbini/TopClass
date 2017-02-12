@@ -1,0 +1,1 @@
+  fixed PY-12543 Project Interpreters: too big or too small details popup  

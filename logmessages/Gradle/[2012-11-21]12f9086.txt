@@ -1,0 +1,1 @@
+  Move the maven test fixtures into their own package.  

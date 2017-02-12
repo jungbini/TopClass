@@ -1,0 +1,1 @@
+  HDFS-7553. fix the TestDFSUpgradeWithHA due to BindException. Contributed by Xiao Chen.  

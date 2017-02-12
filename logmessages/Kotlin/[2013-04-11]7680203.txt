@@ -1,0 +1,1 @@
+  Fixed wrong linearization for open classes and traits. openList changed during neighbors calculation because the same TLinkable object cannot be put into more than one TLinkedList at the same time.  #KT-3499 fixed  

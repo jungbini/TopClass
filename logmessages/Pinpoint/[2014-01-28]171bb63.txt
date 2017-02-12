@@ -1,0 +1,1 @@
+  [] [PINPOINT-266] response hbase   fixed(4) String    api.  git-svn-id: http://svn.bds.nhncorp.com/pe/hippo-commons/trunk@3225 84d0f5b1-2673-498c-a247-62c4ff18d310  

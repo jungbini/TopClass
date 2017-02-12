@@ -1,0 +1,1 @@
+ Fix glob on Windows and fix regression  Also fix regression on patterns like '!**\./node_modules**.js' introduced by #1409 (dfd1853feeb252fd57cf245816cef4305d3e1fe8).  Fixes #1407. Fixes #1477.  

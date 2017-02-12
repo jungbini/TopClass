@@ -1,0 +1,1 @@
+  fixed connection error in ipython v 4  

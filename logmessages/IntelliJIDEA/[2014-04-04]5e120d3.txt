@@ -1,0 +1,1 @@
+  WEB-2100 Node.js debug: value is truncated, but IDE does not suggest to see full value WEB-11392 Node.js debugging: Copy Value doesn't copy the entire string  

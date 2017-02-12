@@ -1,0 +1,1 @@
+  Add @Nullable to alert condition ids, fixes #762  When an alert condition is created the given id is null, as mongodb will generate one for it.  

@@ -1,0 +1,1 @@
+  casting bug seems to be an ES bug. okay for now  filed at elasticsearch/elasticsearch#3801  fixes #196  

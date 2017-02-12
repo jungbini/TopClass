@@ -1,0 +1,1 @@
+  changes to fix DocumentITest, fixes for default coreference, add scoref resources to models jar  

@@ -1,0 +1,1 @@
+  revert incorrect code for setting platform prefix  

@@ -1,0 +1,1 @@
+  fixed SearchAgainAction/SearchBackAction availability: if EditorSearchSession isn't opened, these actions won't be available  

@@ -1,0 +1,1 @@
+  fixed some excessive starters of DefaultVertx which than are not properly closed, thus retaining all resources  

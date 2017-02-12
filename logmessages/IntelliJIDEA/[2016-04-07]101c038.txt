@@ -1,0 +1,1 @@
+  PY-18877 PEP 484 update: function type comments can be on the same line as function header  I actually reverted the old fix by @traff where he removed this test from PyMissingTypeHintsInspectionTest (but not its test data surprisingly).  

@@ -1,0 +1,1 @@
+  vcs: fix "Annotate [Previous|Current] Revision" from annotations for locally modified files  convert line number using LineStatusTracker  

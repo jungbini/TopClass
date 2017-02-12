@@ -1,0 +1,1 @@
+  - KT-1756 Filter invisible members from the first completion list - Analyze is reference variant is suitable for completion before creating LookupElement - Show visibility icon in completion list for kotlin declarations  #KT-1756 fixed  

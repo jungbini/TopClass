@@ -1,0 +1,1 @@
+  fixed django template commenter again (PY-1949)  

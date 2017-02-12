@@ -1,0 +1,1 @@
+  jQuery externs - fixed a typo  jsonCallback should be jsonpCallback.  

@@ -1,0 +1,1 @@
+  debug message showing up when dragging and dropping files  

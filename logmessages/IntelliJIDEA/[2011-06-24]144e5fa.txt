@@ -1,0 +1,1 @@
+  IDEA-71354 XSLT debug: error in xslt.transformer.type value: RE at XsltDebuggerRunner$1.start() and no user-friendly message  

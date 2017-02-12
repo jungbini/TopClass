@@ -1,0 +1,1 @@
+ First fix to review comments:  - Change from bundle org.openhab.io.transport.serial to package gnu.io - Remove package export org.openhab.binding.ebus - Add missing new lines at end of java files - Format XML ebusbinding.xml  

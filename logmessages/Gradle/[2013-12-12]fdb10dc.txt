@@ -1,0 +1,1 @@
+  Moved class to test fixtures.  

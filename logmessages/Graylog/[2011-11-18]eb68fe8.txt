@@ -1,0 +1,1 @@
+  now showing queue info in top menu  fixes #WEBINTERFACE-146  

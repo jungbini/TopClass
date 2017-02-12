@@ -1,0 +1,1 @@
+  IDEA-58049 Provide add type parameter quick-fix intention implemented  

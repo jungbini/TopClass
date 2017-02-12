@@ -1,0 +1,1 @@
+  remove breakpoint with keyboard shortcut even with enabled debugger.click.disable.breakpoints  

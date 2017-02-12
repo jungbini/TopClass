@@ -1,0 +1,1 @@
+  svn merge -c 1585992 merging from trunk to branch-2 to fix:YARN-1907. TestRMApplicationHistoryWriter#testRMWritingMassiveHistory intermittently fails. Contributed by Mit Desai.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1585993 13f79535-47bb-0310-9956-ffa450edef68  

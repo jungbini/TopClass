@@ -1,0 +1,1 @@
+ Merge pull request #862 from bronze1man/pr-861  fix #861NullPointerException in visitMethodDeclaration  commit 526b6f77f76e4d67582e15e4ac872564520b9e59  fix #861  

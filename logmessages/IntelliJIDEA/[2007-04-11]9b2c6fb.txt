@@ -1,0 +1,1 @@
+  offline view fixes: class -> default constructor mishmash; syntheticJSP  

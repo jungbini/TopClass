@@ -1,0 +1,1 @@
+  DescriptionCheckerUtil: getDirectories argument fixed; javadoc  

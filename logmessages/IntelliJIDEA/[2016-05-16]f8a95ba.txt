@@ -1,0 +1,1 @@
+  performance: ignore whitespace during spell checking, fix test to perform actual inspections instead of skipping them altogether  

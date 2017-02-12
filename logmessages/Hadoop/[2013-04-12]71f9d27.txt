@@ -1,0 +1,1 @@
+  Merge -c 1467244 from trunk to branch-2.0.4-alpha to fix YARN-412. Fixed FifoScheduler to check hostname of a NodeManager rather than its host:port during scheduling which caused incorrect locality for containers. Contributed by Roger Hoover.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.0.4-alpha@1467246 13f79535-47bb-0310-9956-ffa450edef68  

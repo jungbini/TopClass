@@ -1,0 +1,1 @@
+  call PApplet.exit() in windowDestroyNotify(), fixes #4156  

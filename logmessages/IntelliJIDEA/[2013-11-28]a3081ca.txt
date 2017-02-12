@@ -1,0 +1,1 @@
+  [git] Quick-fix for IDEA-115581: don't fail, just skip such hashes  Don't fail repository initialization because of non-standard content of ref files.  Correct support for symbolic references inside ref files will be added later.  

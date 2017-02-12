@@ -1,0 +1,1 @@
+  Intention action for hiddnen declarations fixed  

@@ -1,0 +1,1 @@
+  make IDEA-94683 fix controllable via registry (Completion popup loses focus when viewing documentation (sometimes, almost always))  

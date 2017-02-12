@@ -1,0 +1,1 @@
+  fixed NPE (create run configuration and then set script name)  

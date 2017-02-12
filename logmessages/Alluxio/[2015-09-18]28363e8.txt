@@ -1,0 +1,1 @@
+  Change signature of BlockMasterService#workerRegister  fix  

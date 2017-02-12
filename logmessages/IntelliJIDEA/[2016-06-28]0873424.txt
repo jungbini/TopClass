@@ -1,0 +1,1 @@
+  IDEA-144702 Unable to use Windows as a modifier key in keymap ROLLBACK (registry key now is false by default) because of tons of native and semi-native bugs  

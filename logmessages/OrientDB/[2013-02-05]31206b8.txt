@@ -1,0 +1,1 @@
+  HTTP upload: fixed bug on management of byte 0  

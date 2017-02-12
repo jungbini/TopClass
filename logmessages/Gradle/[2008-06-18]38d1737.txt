@@ -1,0 +1,1 @@
+  Fixed build bug with not adding docs to the dists Fixed build bug with creating additional empty tutorial dir  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@575 004c2c75-fc45-0410-b1a2-da8352e2331b  

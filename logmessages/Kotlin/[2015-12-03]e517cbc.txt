@@ -1,0 +1,1 @@
+  Quick Fixes: Implement "Rename unresolved reference" fix #KT-8795 Fixed  

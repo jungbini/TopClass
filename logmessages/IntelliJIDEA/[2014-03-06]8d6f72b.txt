@@ -1,0 +1,1 @@
+  IDEA-121756 Don't provide postfix completion options in java string literals  

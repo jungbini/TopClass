@@ -1,0 +1,1 @@
+  appveyor fix  Summary: Closes https://github.com/facebook/buck/pull/787  Reviewed By: Coneko  fbshipit-source-id: c825b6a  

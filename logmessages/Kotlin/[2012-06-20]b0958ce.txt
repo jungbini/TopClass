@@ -1,0 +1,1 @@
+  Quickfix for replacing unnecessary non-null asserted (!!.) call with dot call is moved to ReplaceCallFix.  

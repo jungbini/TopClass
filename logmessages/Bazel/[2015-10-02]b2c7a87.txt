@@ -1,0 +1,1 @@
+  Fix strip_prefix  Fixes #221.  -- MOS_MIGRATED_REVID=104499510  

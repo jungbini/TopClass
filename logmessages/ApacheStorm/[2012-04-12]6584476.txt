@@ -1,0 +1,1 @@
+  fix the issue: "Timeouts in CoordinatedBolt can cause NPE later on"  

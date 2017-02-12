@@ -1,0 +1,1 @@
+  - Ensure that artifacts are always returned in a fixed, but arbitrary, order. - Remove duplicate artifacts from ResolvedConfiguration.resolvedArtifacts. - Added ResolvedArtifact.classifier. - Added some int test coverage for artifact ordering.  

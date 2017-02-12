@@ -1,0 +1,1 @@
+  IDEA-105676 fix NPE [rev=alexander.lobas]  

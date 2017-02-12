@@ -1,0 +1,1 @@
+ Add Layer methods: getL1ByParam, getL2ByParam, getLearningRateByParam to fix batch norm l1/l2 and make layer init more robust  

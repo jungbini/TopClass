@@ -1,0 +1,1 @@
+  fix(web): add opacity to recent dialogs elements;  

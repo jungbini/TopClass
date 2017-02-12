@@ -1,0 +1,1 @@
+  Checked that "KT-7441 Smart completion does not work for argument of "this(..)" or "super(..)" call in non-primary constructor declaration" has been fixed too  #KT-7441 Fixed  

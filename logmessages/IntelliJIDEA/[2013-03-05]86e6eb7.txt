@@ -1,0 +1,1 @@
+  fixed PY-9063 Package manager doesn't seem to use proxy to access https://pypi.python.org/pypi  

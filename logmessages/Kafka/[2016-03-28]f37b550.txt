@@ -1,0 +1,1 @@
+ Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Jun Rao <junrao@gmail.com>  Closes #1152 from ijuma/fix-typos-in-record-accumulator  (cherry picked from commit 4c0660bf3da9879cb405a0f85cf1524511e091e8) Signed-off-by: Jun Rao <junrao@gmail.com>  

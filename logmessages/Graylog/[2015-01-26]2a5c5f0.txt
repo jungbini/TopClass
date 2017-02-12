@@ -1,0 +1,1 @@
+  change layout of disk journal info on node details page. fixes #1085  

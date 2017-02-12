@@ -1,0 +1,1 @@
+  Rollback of "Fix bug in DisambiguateProperties involving generic interfac..."  There are some remaining issues that need to be fixed before this can be rolled forward.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=128065971  

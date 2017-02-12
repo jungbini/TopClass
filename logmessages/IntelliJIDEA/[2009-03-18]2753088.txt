@@ -1,0 +1,1 @@
+  VCS: correctly ask for file type association when Diffing a list of changes, allow to move further (+ fix for dirs changes)  

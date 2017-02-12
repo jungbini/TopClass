@@ -1,0 +1,1 @@
+  HBASE-3669 Region in PENDING_OPEN keeps being bounced between RS and master -- added some debugging  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1085066 13f79535-47bb-0310-9956-ffa450edef68  

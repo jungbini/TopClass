@@ -1,0 +1,1 @@
+  Change parsing of annotations on block level expressions  Attach annotations to the closest prefix expression instead of whole statement if no new line found after annotations  The motivation is for a simple annotated expression like '@ann x + y' its syntax form must not change after prepending 'val z = ' just before it  

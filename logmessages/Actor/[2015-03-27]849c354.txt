@@ -1,0 +1,1 @@
+  feat(js+common+bc): Implemented chat lists, user info bindings, fixed SHA256 in JS  

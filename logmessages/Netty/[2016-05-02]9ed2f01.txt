@@ -1,0 +1,1 @@
+ This commit introduces a bug and the encoder no longer encodes FullMemcacheMessage objects correctly.  Modifications: - Revert commit  Result: Fixes https://github.com/netty/netty/issues/5197  

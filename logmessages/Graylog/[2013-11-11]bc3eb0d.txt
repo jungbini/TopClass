@@ -1,0 +1,1 @@
+  mark optional plugin fields are optional, placeholder UI fix. fixes #344, fixes #371  

@@ -1,0 +1,1 @@
+  IDEA-84476: Remote JS debug run configuration: open mappings tree for the first mapping  

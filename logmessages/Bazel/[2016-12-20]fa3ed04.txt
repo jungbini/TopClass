@@ -1,0 +1,1 @@
+  Enable threaded Whole Module Optimization  * This seems to fix an issue with dsymutil and lldb not getting correct debug maps out of binaries built with WMO enabled.  -- PiperOrigin-RevId: 142578572 MOS_MIGRATED_REVID=142578572  

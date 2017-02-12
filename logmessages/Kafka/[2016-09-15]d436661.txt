@@ -1,0 +1,1 @@
+  KAFKA-4131; Multiple Regex KStream-Consumers cause Null pointer exception  Fix for bug outlined in KAFKA-4131  Author: bbejeck <bbejeck@gmail.com>  Reviewers: Damian Guy, Guozhang Wang  Closes #1843 from bbejeck/KAFKA-4131_mulitple_regex_consumers_cause_npe  

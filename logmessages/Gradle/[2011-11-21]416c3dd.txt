@@ -1,0 +1,1 @@
+  Workaround to fix the build temporarily on java 1.5  

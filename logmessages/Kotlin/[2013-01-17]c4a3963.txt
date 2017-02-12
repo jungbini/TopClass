@@ -1,0 +1,1 @@
+  Fix nested classes codegen bug  When constructing a closure, codegen in some cases incorrectly determined if it needed to store a reference from a nested class to the outer  

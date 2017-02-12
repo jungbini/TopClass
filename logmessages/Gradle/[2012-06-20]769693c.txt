@@ -1,0 +1,1 @@
+  fixed codenarc static final field rule to allow "serialVersionUID"  

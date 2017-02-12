@@ -1,0 +1,1 @@
+  [SMALL-FIX] fix a few potential null pointers in shell  

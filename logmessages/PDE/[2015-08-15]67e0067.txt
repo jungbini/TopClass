@@ -1,0 +1,1 @@
+ hitting Run should restart the sketch, even when debugging (fixes #3623)  

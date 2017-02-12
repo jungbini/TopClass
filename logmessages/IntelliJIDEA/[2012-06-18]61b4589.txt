@@ -1,0 +1,1 @@
+  fixed  PY-6770 Back slash is not inserted when pressing Enter in "if" condition  

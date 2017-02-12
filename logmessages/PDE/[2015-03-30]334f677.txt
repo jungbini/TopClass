@@ -1,0 +1,1 @@
+  fix #3129 via parts of #3162, plus lerpColor() done correctly  

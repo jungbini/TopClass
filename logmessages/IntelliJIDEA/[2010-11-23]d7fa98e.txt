@@ -1,0 +1,1 @@
+  fixed problems with multiple debug sessions (IDEA-26446, WI-1766, IDEA-50339)  

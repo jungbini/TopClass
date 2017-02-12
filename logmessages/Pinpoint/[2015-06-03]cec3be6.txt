@@ -1,0 +1,1 @@
+ #195 changed logging to use binded logger and added debug logs  

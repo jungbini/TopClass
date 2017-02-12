@@ -1,0 +1,1 @@
+  fix for "java.io.IOException: No FileSystem for scheme: hdfs" error aka workaround for https://issues.apache.org/jira/browse/HDFS-8750  

@@ -1,0 +1,1 @@
+  refactored the query parameter fix, removed the exception, issue #2890  

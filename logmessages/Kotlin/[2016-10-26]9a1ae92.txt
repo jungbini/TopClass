@@ -1,0 +1,1 @@
+  Workaround KT-14531, Partial fix for KT-13600, KT-11620 J2K: Invalid conversion context on plain text pasting  For detailed info see KT-14531  

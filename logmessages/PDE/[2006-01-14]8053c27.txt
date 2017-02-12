@@ -1,0 +1,1 @@
+ dispose() fix from 0100 to make size() work again  

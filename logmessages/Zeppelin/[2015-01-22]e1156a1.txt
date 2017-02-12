@@ -1,0 +1,1 @@
+ Merge pull request #290 from NFLabs/fix/moving-ace-to-bower  Moving ACE dependency to bower  commit d0310f846dc06c01bedc5296c8db1e7624696b24  Merge Master and fix conflicts  commit c0f14c4418f77226a8401b5fc0b74e3103f952ee  Merge pull request #296 from NFLabs/fix/webClientBuild  Fix Zeppelin web build  commit e1156a16c12737fc99d9cf73c9646ac5a813b5df  fix pom  

@@ -1,0 +1,1 @@
+  fixed long-press problem on touch devices  

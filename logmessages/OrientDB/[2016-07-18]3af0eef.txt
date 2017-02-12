@@ -1,0 +1,1 @@
+  Distributed: fixed issue with command execution and other synchronisation problems when multiple nodes starts at the same time  

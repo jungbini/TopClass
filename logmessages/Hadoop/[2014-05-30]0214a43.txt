@@ -1,0 +1,1 @@
+  HDFS-6472. Merged from r1598746. fix typo in webapps/hdfs/explorer.js. Contributed by Juan Yu.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1598747 13f79535-47bb-0310-9956-ffa450edef68  

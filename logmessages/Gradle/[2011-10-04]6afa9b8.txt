@@ -1,0 +1,1 @@
+  renamed debugLock to lifecycleLock  Looks like this was the result of a bad search and replace.  

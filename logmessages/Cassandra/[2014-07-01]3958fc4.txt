@@ -1,0 +1,1 @@
+  ninja fix: raise default concurrent compactors to 4 to avoid LCS test timeout  

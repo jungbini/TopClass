@@ -1,0 +1,1 @@
+  IDEA-21113 Formatting for auto-generated CDATA section in mx:Script blocks: UI settings and test fixes  

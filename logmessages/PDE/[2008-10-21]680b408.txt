@@ -1,0 +1,1 @@
+ add more error message text to help with debugging  

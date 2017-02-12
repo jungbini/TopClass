@@ -1,0 +1,1 @@
+  bug in addInternal in case of valid element which was _not_ added to tree  

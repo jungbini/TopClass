@@ -1,0 +1,1 @@
+  CPP-5515 Support attach with LLDB on Linux: suggest only default selected debugger  

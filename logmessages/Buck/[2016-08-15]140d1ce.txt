@@ -1,0 +1,1 @@
+  Fix buck-out compat symlink handling  Summary: This fixes a bug where using the compat symlink *always* deleted the output dirs before each build.  Test Plan: added unittest  Reviewed By: Coneko  fbshipit-source-id: 61af786  

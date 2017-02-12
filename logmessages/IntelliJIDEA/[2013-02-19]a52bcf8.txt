@@ -1,0 +1,1 @@
+  used proper type check fix a PY-6756 PyCharm erroneously reports "too many arguments" for certain string formatting lines.  

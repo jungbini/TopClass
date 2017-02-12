@@ -1,0 +1,1 @@
+  Fixed bug reported in ML by Steven about the version number on new records. In case of graphs they can have version > 0- Now are moved on client side along with updated records.  

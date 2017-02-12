@@ -1,0 +1,1 @@
+  add tasks and github to CE project; fix github dependency; increase compilation Xmx  

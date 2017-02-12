@@ -1,0 +1,1 @@
+  Remove itemCache from WeatherPublisher, fixes #3092  

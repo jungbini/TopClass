@@ -1,0 +1,1 @@
+  Change sources of kotlin-runtime project library  Use sources from the project instead of ones in kotlin-runtime-sources.jar.  This is not very accurate, but fixes the problem with debugging anything from 'core' in the project (sources from the project were clashing with the sources from the library)  

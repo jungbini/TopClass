@@ -1,0 +1,1 @@
+  fix navigation to the class non-code usages (don't go to the start of the file)  

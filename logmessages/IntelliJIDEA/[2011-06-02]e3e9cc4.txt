@@ -1,0 +1,1 @@
+  move test \n stripping to clients, fix some test data  

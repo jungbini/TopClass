@@ -1,0 +1,1 @@
+  Issue #1604 Embedded rid bag serialization issue was fixed.  

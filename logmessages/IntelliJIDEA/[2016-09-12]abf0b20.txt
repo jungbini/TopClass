@@ -1,0 +1,1 @@
+  [macOS] Mind dock icon size when drawing "Ok" icon on it  The "Ok" icon assumes 128x128 dock icon size. For the debug IDEA the dock icon is 512x512. So, the "ok" icon should be scaled appropriately before drawing.  

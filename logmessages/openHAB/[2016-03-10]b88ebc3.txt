@@ -1,0 +1,1 @@
+  fritzboxtr064 binding: fix compilation error  Use org.w3c.dom.ls.LSSerializer instead of org.apache.xml.serialize.XMLSerializer, which is deprecated.  

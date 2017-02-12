@@ -1,0 +1,1 @@
+  java-xdebugger: do not calculate top stack frames for all threads  

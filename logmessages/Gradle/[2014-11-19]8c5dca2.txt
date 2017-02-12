@@ -1,0 +1,1 @@
+  Porting "Play New" sample app into PlayApp fixture  todo: - restructure play integtests to use PlayPapp fixtures - remove play new resources  +review REVIEW-5258  

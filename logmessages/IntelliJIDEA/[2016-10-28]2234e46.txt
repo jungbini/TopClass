@@ -1,0 +1,1 @@
+  IDEA-155007 IDEA does not kill the debug process immediately  

@@ -1,0 +1,1 @@
+  WEB-11240 Live Console: implement multiple line input  fast fix, issue exists  our action is updated sometimes too late (hit Enter immediately after typing)  

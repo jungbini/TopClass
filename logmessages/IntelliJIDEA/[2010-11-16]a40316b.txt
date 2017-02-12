@@ -1,0 +1,1 @@
+  Java stub/AST mismatch fix (unneeded tree modification around collapsed nodes eliminated)  

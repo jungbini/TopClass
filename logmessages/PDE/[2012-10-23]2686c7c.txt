@@ -1,0 +1,1 @@
+  change search location for lib folder, fix ClassNotFoundException for processing-java (issue #1334)  

@@ -1,0 +1,1 @@
+  fixed PY-11198 Move Statement Up/Down near dictionary expression unexpectedly merges statements  

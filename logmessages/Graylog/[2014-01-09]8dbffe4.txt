@@ -1,0 +1,1 @@
+  updating stream settings. fixes #418  

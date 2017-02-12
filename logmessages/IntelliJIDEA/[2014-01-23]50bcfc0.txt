@@ -1,0 +1,1 @@
+  fixed PY-11884 Missing completion for finally keyword after else statement  

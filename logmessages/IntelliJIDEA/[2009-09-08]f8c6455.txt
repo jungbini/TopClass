@@ -1,0 +1,1 @@
+  gant debugger correctly positions on scripts outside source roots  

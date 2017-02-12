@@ -1,0 +1,1 @@
+  Fixed critical bug on indexes: after db close/shutdown index entries could be lost. This is a patch but we go in deep toget the unload() working to save memory on db closing.  

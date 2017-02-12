@@ -1,0 +1,1 @@
+  Fixed nasty bug on loading from dictionary in remote configuration (caused the lock of the client).  

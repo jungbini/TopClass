@@ -1,0 +1,1 @@
+  Quick-fix to add type to LHS of incorrect callable references  

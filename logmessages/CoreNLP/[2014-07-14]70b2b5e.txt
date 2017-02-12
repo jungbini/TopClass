@@ -1,0 +1,1 @@
+  Fix a bug where you could get deps in already-connected dependency graphs  

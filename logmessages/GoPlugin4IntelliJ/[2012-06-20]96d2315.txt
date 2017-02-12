@@ -1,0 +1,1 @@
+  Don't check caret position for those fixes we don't care about caret at all. Add test case for "AddReturnStmtFix"  

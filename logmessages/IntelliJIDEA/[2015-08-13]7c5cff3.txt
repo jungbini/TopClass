@@ -1,0 +1,1 @@
+  [java] fix psi reference list role for myImplementsList in LightPsiClassBuilder  

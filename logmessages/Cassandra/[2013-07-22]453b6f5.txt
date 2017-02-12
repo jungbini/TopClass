@@ -1,0 +1,1 @@
+  fix potential spurious wakeup in AsyncOneResponse patch by Mikhail Mazursky; reviewed by jbellis for CASSANDRA-5690  

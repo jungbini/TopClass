@@ -1,0 +1,1 @@
+  Fix bug preventing the use of efficient cross-DC writes patch by slebresne; reviewed by jbellis for CASSANDRA-3472   git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8@1199284 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  assertion fix for   a>1?"":"" case (unable to open EjbHighlightingUtil)  

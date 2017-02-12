@@ -1,0 +1,1 @@
+  added inspection and quick fix for redundant parentheses in if and while statements  (PY-1470)  

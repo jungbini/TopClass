@@ -1,0 +1,1 @@
+  IDEA-100152 IntelliJ 12 freezes for 5-20 seconds while editing Javascript function names memoize failed matching subresults to prevent exponentiality remove the hack introduced for fixing a special case of it (IDEA-98040)  

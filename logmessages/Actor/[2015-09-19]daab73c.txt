@@ -1,0 +1,1 @@
+  fix+feat(web): scale big images for cropping, load messages only when peer selected in dialog component;  

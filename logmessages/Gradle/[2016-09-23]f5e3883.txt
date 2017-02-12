@@ -1,0 +1,1 @@
+  Add a test for a bug in the task cache  It looks like on the second invocation of a build with a clean state where all the outputs already have been cached a task is marked as up to date and its state is not loaded from the cache.  

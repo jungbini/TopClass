@@ -1,0 +1,1 @@
+  operand of prefix expression is nullable (PY-1467)  

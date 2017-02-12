@@ -1,0 +1,1 @@
+  GitHttpGuiAuthenticator: fix a misprint: place login after scheme  

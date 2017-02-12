@@ -1,0 +1,1 @@
+  AIOOBE fix. don't use model for row height calculation  

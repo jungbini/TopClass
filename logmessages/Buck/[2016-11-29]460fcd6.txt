@@ -1,0 +1,1 @@
+  parsing events to machine logs  Summary: This adds the following events to the machine-readable file: - Watchman file creation, deletion, overflow - Symlink invalidation & environment change  The goal here is to use this to debug possible issues.  Test Plan: - New unit tests that check the format is correct.  Reviewed By: k21  fbshipit-source-id: 91c100f  

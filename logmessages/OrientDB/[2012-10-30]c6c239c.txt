@@ -1,0 +1,1 @@
+  Fixed bug on http session: the sessionid wasn't managed correctly.  

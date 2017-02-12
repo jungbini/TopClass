@@ -1,0 +1,1 @@
+  Do not include "operator" and "infix" into completion item text for override  

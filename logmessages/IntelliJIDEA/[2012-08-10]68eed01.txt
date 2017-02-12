@@ -1,0 +1,1 @@
+  AppCode:Project Settings: saving layout, columns. 'Close' button, resetting to default value, string list editor, speed search Platform: AddEditRemovePanel borders fixed (cherry-picked from b6f974b)  

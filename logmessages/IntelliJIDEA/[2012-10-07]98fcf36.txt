@@ -1,0 +1,1 @@
+  fix "Unnecessary 'return' statement" inspection  

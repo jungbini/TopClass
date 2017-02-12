@@ -1,0 +1,1 @@
+  WEB-10733 Mac OSX: disabling JSHint results in buggy presentation of version combo  

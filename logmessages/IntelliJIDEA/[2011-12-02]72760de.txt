@@ -1,0 +1,1 @@
+  fixed PY-5199 Move statement: do not perform action with cursor on empty line  

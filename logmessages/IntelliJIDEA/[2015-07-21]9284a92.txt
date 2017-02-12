@@ -1,0 +1,1 @@
+  faster duplicates index, fix for IDEA-124624  

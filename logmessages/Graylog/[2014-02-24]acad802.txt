@@ -1,0 +1,1 @@
+  missed a mock  fixes Graylog2/graylog2-web-interface#642  

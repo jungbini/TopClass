@@ -1,0 +1,1 @@
+  fixed EA-32963 - SIOOBE: PyConvertTripleQuotedStringIntention.invoke  

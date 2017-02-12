@@ -1,0 +1,1 @@
+  Enable msvc toolchain to support params file  Also fixed a small bug  -- Change-Id: I22fa16272587471b9652f3b7f7d9cb1341fc6524 Reviewed-on: https://bazel-review.googlesource.com/#/c/3464 MOS_MIGRATED_REVID=120703703  

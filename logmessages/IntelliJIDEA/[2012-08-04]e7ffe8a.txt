@@ -1,0 +1,1 @@
+  IDEA-89485 (Empty string used in concatenation quick fix breaks compilation)  

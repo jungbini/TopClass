@@ -1,0 +1,1 @@
+  svn: Refactored SvnDiffProvider - log errors while resolving current revision for file as info (not as debug)  

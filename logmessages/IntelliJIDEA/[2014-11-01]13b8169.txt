@@ -1,0 +1,1 @@
+  BaseParseTestCase: fix compilation #1  

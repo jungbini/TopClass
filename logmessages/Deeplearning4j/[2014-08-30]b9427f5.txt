@@ -1,0 +1,1 @@
+  fixed configuration change happening mid training with RBMs  

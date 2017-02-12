@@ -1,0 +1,1 @@
+  STORM-1886 Address last comments  * make tombstone static * hide the use of Optional from the users * fix race condition * make encode and decode methods static  

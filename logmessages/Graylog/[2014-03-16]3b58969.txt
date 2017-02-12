@@ -1,0 +1,1 @@
+  wait for graylog2-server to fully halt in graylog2ctl. fixes #477  

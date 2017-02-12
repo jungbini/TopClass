@@ -1,0 +1,1 @@
+  Refactoring of Apple Platform detection and usage, to pave the way for non-IOS Platforms.  There are still various places which infer IOS platform type which need to be fixed, but this ensures switching to other platform types is as easy as changing an argument.  -- MOS_MIGRATED_REVID=123444548  

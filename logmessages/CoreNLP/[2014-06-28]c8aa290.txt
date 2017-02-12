@@ -1,0 +1,1 @@
+  Also fixed this case of internal QP structure  

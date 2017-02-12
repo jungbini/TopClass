@@ -1,0 +1,1 @@
+  IDEA-76353 Throwable at CaretModelImpl.moveToOffset() on Move Line with tab character Up in Scala Console  Explicitly taking editor's prefix into consideration instead of generic visual position matching that causes SOE  

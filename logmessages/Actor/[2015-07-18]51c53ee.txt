@@ -1,0 +1,1 @@
+  fix(server: peer managers): send ReadByMe update on every MessageRead  

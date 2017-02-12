@@ -1,0 +1,1 @@
+  Python formatter builds root block from any given PsiElement, since formatter core supports that now  Previously root block of the model must have been built only from PsiFile. Effectively I reverted my old fix (d96766df2d207f25ca83c8302f8933b8eed41106), because all methods of CodeStyleManager work properly with such models from now on.  

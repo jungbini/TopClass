@@ -1,0 +1,1 @@
+  IDEA-150600 (Caught exception is immediately rethrown: quick fix removes comments/formatting)  

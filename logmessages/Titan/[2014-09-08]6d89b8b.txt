@@ -1,0 +1,1 @@
+  Only call chmod on the aurelius-release profile  titan-dist's pom unnecessarily called chmod to fix some shell script permissions on a script that's only used during releases anyway.  This chmod can be safely moved to the aurelius-release profile.  Builds without the -Paurelius-release CLI option should work even when chmod is not available on the host.  

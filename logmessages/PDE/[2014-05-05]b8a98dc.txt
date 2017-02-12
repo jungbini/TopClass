@@ -1,0 +1,1 @@
+  fixes loadPixels() regression in opengl renderer  

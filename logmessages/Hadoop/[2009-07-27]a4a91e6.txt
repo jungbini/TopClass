@@ -1,0 +1,1 @@
+  MAPREDUCE-383. Fix a bug in Pipes combiner due to bytes count not  getting reset after the spill. Contributed by Christian Kunz.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20@798080 13f79535-47bb-0310-9956-ffa450edef68  

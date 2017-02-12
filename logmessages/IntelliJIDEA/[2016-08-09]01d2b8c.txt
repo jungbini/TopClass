@@ -1,0 +1,1 @@
+  Fix ArrayOufOfRangeException after debugger step. Hide content of table when it is updating  

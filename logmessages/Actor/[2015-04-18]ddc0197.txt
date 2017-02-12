@@ -1,0 +1,1 @@
+  fix(session): unpack containers in publisher instead of discriminator because FlexiRoute doesn't support multuple emits  

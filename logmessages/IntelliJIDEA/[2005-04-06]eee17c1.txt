@@ -1,0 +1,1 @@
+  fixed issue with type over of ) when space is next to existing brace  

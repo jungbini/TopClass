@@ -1,0 +1,1 @@
+  don't show useless quick fixes, fix #1561  

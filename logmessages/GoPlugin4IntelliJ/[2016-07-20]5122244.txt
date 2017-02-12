@@ -1,0 +1,1 @@
+  add bool expressions inspection (fixed #2165)  

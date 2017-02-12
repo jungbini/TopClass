@@ -1,0 +1,1 @@
+  fix wide row iteration when last row read was deleted patch by jbellis; reviewed by brandonwilliams for CASSANDRA-4154  

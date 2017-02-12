@@ -1,0 +1,1 @@
+  Changed revision from 1.0.2-SNAPSHOT to 1.1.0-SNAPSHOT because the many improvements, not only bug fixing  

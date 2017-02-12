@@ -1,0 +1,1 @@
+  fix off-by-one error in MerkleTree.  patch by Stu Hood; reviewed by gdusbabek for CASSANDRA-639  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.5@892271 13f79535-47bb-0310-9956-ffa450edef68  

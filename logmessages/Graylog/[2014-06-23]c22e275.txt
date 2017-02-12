@@ -1,0 +1,1 @@
+  don't fail with NPE if input config from mongodb contains a field we don't know about  fixes #595  

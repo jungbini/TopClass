@@ -1,0 +1,1 @@
+  J2K: reverted temporary fix after update to IDEA 132.325 EAP -- removed JavaToKotlinTranslator#NEVER_CHANGE.  

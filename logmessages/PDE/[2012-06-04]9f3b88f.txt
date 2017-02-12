@@ -1,0 +1,1 @@
+  Capture throws runtime error when no camera is available, fix in checkResolutions() method to correctly use fps  

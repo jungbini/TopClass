@@ -1,0 +1,1 @@
+  Add inspection for reserved words used as names (fixes #1450)  

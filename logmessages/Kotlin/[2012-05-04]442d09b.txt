@@ -1,0 +1,1 @@
+  Incorrect automatic implementing of extension property has been fixed.  

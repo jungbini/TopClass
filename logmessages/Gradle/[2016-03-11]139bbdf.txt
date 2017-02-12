@@ -1,0 +1,1 @@
+  Update composite build integration test fixtures for client-side composites  - Remove setting of daemon properties in tooling api fixture - Use the correct distribution for participants - Test multiple participant versions  

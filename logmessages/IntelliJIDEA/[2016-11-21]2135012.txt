@@ -1,0 +1,1 @@
+  [ui]: fix Label with round corners for Retina and Presentation mode  

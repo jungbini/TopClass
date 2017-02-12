@@ -1,0 +1,1 @@
+  fix 2ary index support for deletions patch by jbellis; reviewed by Stu Hood for CASSANDRA-1546  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1005174 13f79535-47bb-0310-9956-ffa450edef68  

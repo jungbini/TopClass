@@ -1,0 +1,1 @@
+  allow shorthand boolean attributes, insert shorthand version when possible #WEB-16175 fixed  

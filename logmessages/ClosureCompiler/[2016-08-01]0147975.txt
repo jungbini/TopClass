@@ -1,0 +1,1 @@
+  [externs]: Remove nullability operators from templates to fix errors in externs.  ERROR - Cannot use ! to restrict type variable type. Prefer to make type argument non-nullable and add null explicitly where needed (e.g. through ?T or T|null) * @return {!Array.<!VALUE>} ^  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=128995410  

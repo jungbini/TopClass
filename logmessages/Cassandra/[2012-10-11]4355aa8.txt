@@ -1,0 +1,1 @@
+  Pig: fix widerow input with single column rows Patch by Will Oberman, reviewed by brandonwilliams for CASSANDRA-4789  

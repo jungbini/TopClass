@@ -1,0 +1,1 @@
+  fix(server): don't init telesign when internal activation is not configured  

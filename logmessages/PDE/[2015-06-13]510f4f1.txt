@@ -1,0 +1,1 @@
+  re-apply the current font when using retina (fixes #2617)  

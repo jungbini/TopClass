@@ -1,0 +1,1 @@
+  Fix bug, when instances tracked in background were lost  

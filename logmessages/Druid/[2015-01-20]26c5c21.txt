@@ -1,0 +1,1 @@
+ Merge pull request #1060 from metamx/fix-test-timeout  fix BatchServerInventoryViewTest test timeout  commit 26c5c2193f94069cac5e23cb4eee256edf445941  fix BatchServerInventoryViewTest test timeout  

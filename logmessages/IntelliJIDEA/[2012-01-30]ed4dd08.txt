@@ -1,0 +1,1 @@
+ debugger event queue: more robust command cancellation when queue is closed  

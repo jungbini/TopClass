@@ -1,0 +1,1 @@
+ Fixed bug in import insertion: it did not work with descriptors taken before modifications  

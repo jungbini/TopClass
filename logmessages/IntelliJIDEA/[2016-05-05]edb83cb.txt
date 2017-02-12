@@ -1,0 +1,1 @@
+  [groovy] prefer aliased imports over classes in same package/file, fix inheritors search for fqn-s  

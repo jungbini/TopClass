@@ -1,0 +1,1 @@
+  add (:require [backtype.storm LocalCluster]) to testing4j.clj (fixes compiles issues in some cases)  

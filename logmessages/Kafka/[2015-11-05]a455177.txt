@@ -1,0 +1,1 @@
+SinkTask flush fails.  Also fix the incorrect consumer group ID setting which was giving each task its own group instead of one for the entire sink connector.  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Guozhang  Closes #431 from ewencp/kafka-2748-sink-task-rebalance-commit  

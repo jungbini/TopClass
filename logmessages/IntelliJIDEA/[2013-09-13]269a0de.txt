@@ -1,0 +1,1 @@
+  WEB-9250 Add "Start browser"/"with JavaScript debugger" options to Node.js run/debug configuration  

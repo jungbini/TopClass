@@ -1,0 +1,1 @@
+  IDEA-114457 Undocked 'project' tool window doesn't always automatically hide when I double-click to open a file Animation fix (don't freeze EDT, use Animator), request focus fix.  

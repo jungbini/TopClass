@@ -1,0 +1,1 @@
+  [groovy] fix delegate type within closure (IDEA-148030)  

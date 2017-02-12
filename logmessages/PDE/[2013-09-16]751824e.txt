@@ -1,0 +1,1 @@
+  completion screen location update bug fix  

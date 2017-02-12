@@ -1,0 +1,1 @@
+  Merge -r 765958:765959 from trunk to 0.20 to fix HADOOP-5691.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/branches/branch-0.20@765960 13f79535-47bb-0310-9956-ffa450edef68  

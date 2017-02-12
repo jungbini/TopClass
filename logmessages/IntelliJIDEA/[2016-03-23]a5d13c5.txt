@@ -1,0 +1,1 @@
+  inspections settings: fixed severity icon and checkbox overlapping on hidpi monitors (see discussion in IDEA-127955)  

@@ -1,0 +1,1 @@
+ bug fix. - increment sum chart when change node with pin off in realtime chart.  

@@ -1,0 +1,1 @@
+  Checked that KT-9006 has been fixed  #KT-9006 Obsolete  

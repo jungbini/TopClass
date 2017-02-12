@@ -1,0 +1,1 @@
+  revert r996974. fix by adding a switch to files() to allow it to be used to get valid files and generate a count. patch by gdusbabek, reviewed by jbellis. CASSANDRA-1477   git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@997489 13f79535-47bb-0310-9956-ffa450edef68  

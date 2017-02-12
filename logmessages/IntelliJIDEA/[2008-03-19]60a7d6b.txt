@@ -1,0 +1,1 @@
+  fix typo in method name; a number of IDEA UI components can now be correctly instantiated in design time  

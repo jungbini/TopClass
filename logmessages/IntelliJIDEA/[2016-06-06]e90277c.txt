@@ -1,0 +1,1 @@
+  inheritance with checkDeep=false & anonymous fixed (IDEA-151341)  

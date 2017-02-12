@@ -1,0 +1,1 @@
+  trying to fix regression introduced in camera setup in P2D (issue #2259)  

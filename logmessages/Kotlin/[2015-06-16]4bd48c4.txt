@@ -1,0 +1,1 @@
+  Regular modifier checker implemented (initial version). A set of tests fixed accordingly.  Most of modifier diagnostic is expressed by REDUNDANT_MODIFIER, INCOMPATIBLE_MODIFIERS, REPEATED_MODIFIER, WRONG_MODIFIER_TARGET, WRONG_MODIFIER_PARENT. A set of modifier diagnostics is not in use now (but not deleted yet).  

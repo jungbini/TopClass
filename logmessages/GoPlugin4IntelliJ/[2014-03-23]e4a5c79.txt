@@ -1,0 +1,1 @@
+ Merge pull request #653 from twoolie/mi-parser2  Fixes #639: Debugger Failure when encountering "=" prefixed output  commit 7b3637180f892de5e51386008f7821a810b28a38  Merge pull request #645 from m0sth8/builtin_types  Add inspections for builtin functions with Type arguments (fixes #480)  commit e4a5c793ba040344430b13a59506af1cab13714e  parser fix  

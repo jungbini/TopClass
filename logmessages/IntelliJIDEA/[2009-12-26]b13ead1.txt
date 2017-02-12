@@ -1,0 +1,1 @@
+  IDEADEV-41934: Groovy: statically imported class without package prefix is not resolved if all static members of the class are imported  

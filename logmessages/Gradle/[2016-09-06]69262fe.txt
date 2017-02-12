@@ -1,0 +1,1 @@
+  Fix doc bug with turning off daemon in a .bat file (#694)  User Guide: Windows cmd for daemon disabling breaks existing gradle.properties if not ending with a newline  +review REVIEW-6224  

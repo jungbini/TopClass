@@ -1,0 +1,1 @@
+  inspection toolwindow: use getFamilyName of suppress fixes to show in popup IDEA-156180  

@@ -1,0 +1,1 @@
+  HBASE-1264 Wrong return values of comparators for ColumnValueFilter -- reopened and then fixed by Clint Morgan  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@774432 13f79535-47bb-0310-9956-ffa450edef68  

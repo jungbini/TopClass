@@ -1,0 +1,1 @@
+  fixed PY-4540 Completion: else keyword should be available in try block only after except  

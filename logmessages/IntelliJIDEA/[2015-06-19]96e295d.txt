@@ -1,0 +1,1 @@
+  Clouds. RUBY-16248 "Use the custom application name" is not available when creating new deployment run configuration. After review fix  

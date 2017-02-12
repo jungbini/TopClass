@@ -1,0 +1,1 @@
+  external make: fix parsing of inner, local and anonymous classes - introduced "isAnonymous" flag - performance optimizations for "generic bounds" rule: do not analyse changes in anonymous classes  

@@ -1,0 +1,1 @@
+  reuse debug content on 'Restart' action even if tab is pinned  

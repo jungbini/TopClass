@@ -1,0 +1,1 @@
+  fix class name completion after 'new' in Groovy (IDEA-60672)  

@@ -1,0 +1,1 @@
+  fix compilation after: remove unused dependency on Mocks lib fix installer (some production code depends on testframework)  

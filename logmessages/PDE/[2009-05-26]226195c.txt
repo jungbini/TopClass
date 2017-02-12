@@ -1,0 +1,1 @@
+  remove space from script (bug #1250)  

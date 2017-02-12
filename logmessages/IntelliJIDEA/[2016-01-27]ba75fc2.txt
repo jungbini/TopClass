@@ -1,0 +1,1 @@
+  IDEA-149395 use opaque scroll bars for all tables This fix also reverts hacks added to some tables  

@@ -1,0 +1,1 @@
+  Handle composite prefixes with final EOC=0 as in 2.x and refactor LegacyLayout.decodeBound  patch by Stefania Alborghetti and Sylvain Lebresne; reviewed by Tyler Hobbs and Sylvain Lebresne for CASSANDRA-12423  

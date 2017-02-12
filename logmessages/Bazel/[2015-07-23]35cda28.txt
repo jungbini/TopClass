@@ -1,0 +1,1 @@
+  For objc_proto_library, use root relative path of input protos to determine output location instead of exec path. Prior to this fix, protos that were generated (and thus within genfiles as opposed to bin) would have their objc proto library output to the wrong location  -- MOS_MIGRATED_REVID=98940823  

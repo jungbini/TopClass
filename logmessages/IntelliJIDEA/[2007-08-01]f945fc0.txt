@@ -1,0 +1,1 @@
+  IDEADEV-18435: Jar library reload, class file external change fixed.  

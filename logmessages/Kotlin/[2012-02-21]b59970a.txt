@@ -1,0 +1,1 @@
+  JDR: work with names, not with PsiSomething  This should fix (or hide) problems like http://ea.jetbrains.com/browser/ea_problems/33857  

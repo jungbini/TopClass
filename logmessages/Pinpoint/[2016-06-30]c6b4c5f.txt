@@ -1,0 +1,1 @@
+  #1881 Fix quickstart agent distribution setting for packaging optional modules (#1882)  simple packaging fix.  

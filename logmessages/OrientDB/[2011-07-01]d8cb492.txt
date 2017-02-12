@@ -1,0 +1,1 @@
+  Index: fixed bug on index updating  

@@ -1,0 +1,1 @@
+  Try to avoid compiler bug that happens on Windows agent  

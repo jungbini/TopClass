@@ -1,0 +1,1 @@
+  ensure correct debugger line mapping on decompiled code first open  

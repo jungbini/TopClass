@@ -1,0 +1,1 @@
+  fix non default toolVersion usage - move dependency declaration into conventionmapping - todo: fix handling of non available options (jmx property not available in 0.6.0)  

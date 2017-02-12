@@ -1,0 +1,1 @@
+  fixed loading of linked module and lib directory into classpath  Signed-off-by: Bartek Zdanowski <bartek.zdanowski@gmail.com>  

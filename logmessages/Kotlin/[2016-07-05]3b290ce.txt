@@ -1,0 +1,1 @@
+  Add quickfix for "Illegal usage of inline parameter" that adds `noinline` (#888)  Fixes #KT-12838  

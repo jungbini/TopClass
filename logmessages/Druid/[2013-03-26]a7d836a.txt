@@ -1,0 +1,1 @@
+  fix NPE for master balancing; introduce max number of workers for indexing service  

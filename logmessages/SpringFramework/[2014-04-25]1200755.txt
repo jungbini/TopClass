@@ -1,0 +1,1 @@
+ was insufficient when using an external broker since the original destination header has to be in the "native headers" map (i.e. with STOMP headers) in order to be included in messages broadcast by the broker.  

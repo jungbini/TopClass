@@ -1,0 +1,1 @@
+  IDEADEV-14950 fixed (Subversion: BrowseSVNRepository: preserve the tree state (expanded/collapsed nodes) on rename/move operations)  

@@ -1,0 +1,1 @@
+  fixed magic quotes error in happenings submissions  

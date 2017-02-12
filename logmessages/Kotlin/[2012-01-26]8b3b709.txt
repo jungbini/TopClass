@@ -1,0 +1,1 @@
+  Ant task - comparator fix (equals added) in Life/Maze tests; failonerror = true  

@@ -1,0 +1,1 @@
+ Merge pull request #950 from metamx/fix-bysegment-serde  Fix bySegment metrics de-serialization  commit 980c8dafd89b0fcba762926c7f62e056ff817674  Merge pull request #955 from metamx/backport-953  prevent /status from redirect, fixes #953  commit fa60587930ecd41a78f4df31dae3207426b9cf5f  prevent /status from redirect, fixes #953  

@@ -1,0 +1,1 @@
+  fixes for ant-based scala compiler integration test  - fixed setting of useAnt - reduced scope to avoid permgen issues - unignored  

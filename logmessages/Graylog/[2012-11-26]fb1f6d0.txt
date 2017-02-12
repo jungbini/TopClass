@@ -1,0 +1,1 @@
+  Point support link to new support system  fixes #WEBINTERFACE-371  

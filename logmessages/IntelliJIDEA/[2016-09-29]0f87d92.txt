@@ -1,0 +1,1 @@
+  [platform] fixes incorrect binding in mock update server  

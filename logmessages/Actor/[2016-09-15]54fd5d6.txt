@@ -1,0 +1,1 @@
+  fix(android): fix loosing input bar on emoji tabs slide + workaround for "keyboard hide ofter orientation change" bug  

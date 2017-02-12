@@ -1,0 +1,1 @@
+  Grouped type declaration does not do autoindent, fix #1628  

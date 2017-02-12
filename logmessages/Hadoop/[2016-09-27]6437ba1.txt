@@ -1,0 +1,1 @@
+  HDFS-10915. Fix time measurement bug in TestDatanodeRestart. Contributed by Xiaobing Zhou  

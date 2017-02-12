@@ -1,0 +1,1 @@
+  Proper fix for #1981 => Fixes also Primefaces/primefaces#499 and Primefaces/primefaces#427  

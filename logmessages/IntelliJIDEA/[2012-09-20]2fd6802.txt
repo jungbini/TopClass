@@ -1,0 +1,1 @@
+  IDEA-89194 please return control panel in run/debug configurations to top  

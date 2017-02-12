@@ -1,0 +1,1 @@
+  fix infinite loop when printing (IDEADEV-11874)  

@@ -1,0 +1,1 @@
+  fix text(char, x, y) with textAlignY  

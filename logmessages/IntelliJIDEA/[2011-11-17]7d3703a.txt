@@ -1,0 +1,1 @@
+  Bug fix: Grails/Griffon view is not show when created Grails project with new Grails library.  

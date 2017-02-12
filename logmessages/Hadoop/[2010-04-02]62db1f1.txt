@@ -1,0 +1,1 @@
+  HBASE-2392 upgrade to ZooKeeper 3.3.0; fix up HQuorumPeer test  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@930195 13f79535-47bb-0310-9956-ffa450edef68  

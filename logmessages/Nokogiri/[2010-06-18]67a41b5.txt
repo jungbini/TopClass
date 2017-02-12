@@ -1,0 +1,1 @@
+ DocumentFragment#inner_html= works with contextual parsing.  fixes #298, #281  

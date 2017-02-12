@@ -1,0 +1,1 @@
+  fix order of replicate_on_write and make sure it's not null. patch by gdusbabek, reviewed by eevans. CASSANDRA-2001   git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1060497 13f79535-47bb-0310-9956-ffa450edef68  

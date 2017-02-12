@@ -1,0 +1,1 @@
+  fixed sonar property names in sonar-runner samples  

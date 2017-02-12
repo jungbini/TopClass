@@ -1,0 +1,1 @@
+  cache repeated requests for class inheritors and method overriders to speedup highlighting of heavily subclassed library classes to fix IDEA-152346 Syntax highlighting takes 45 seconds  

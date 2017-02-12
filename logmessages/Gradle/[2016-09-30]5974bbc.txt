@@ -1,0 +1,1 @@
+  Update hash table's fixed size limit  - this change was missing from d477a0bc  

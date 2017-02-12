@@ -1,0 +1,1 @@
+  ServiceEndpoint prefix/suffix style settings  

@@ -1,0 +1,1 @@
+ Moved composite build test fixtures into common subproject  

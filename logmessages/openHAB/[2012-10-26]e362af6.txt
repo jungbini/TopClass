@@ -1,0 +1,1 @@
+  fixed #140 - changed jre reference to jre6  

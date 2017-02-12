@@ -1,0 +1,1 @@
+  fix: editor state is not restored on IDE restart  was broken in 35aeb7c  

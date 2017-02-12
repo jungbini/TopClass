@@ -1,0 +1,1 @@
+  GRADLE-2455: fix CachePolicy related test.  

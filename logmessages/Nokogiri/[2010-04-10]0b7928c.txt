@@ -1,0 +1,1 @@
+  Improve impl when noblanks option is set. Previous fix didn't work when data was given as a file. Plus, stop weird text processing by changing test data to fit to xerces.  

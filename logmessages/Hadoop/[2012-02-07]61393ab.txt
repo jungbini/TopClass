@@ -1,0 +1,1 @@
+  Merge -c 1241685 from trunk to branch-0.23 to fix MAPREDUCE-3823. Fixed a bug in RM web-ui which broke sorting.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1241686 13f79535-47bb-0310-9956-ffa450edef68  

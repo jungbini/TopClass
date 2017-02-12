@@ -1,0 +1,1 @@
+ MySQL persistence: use correct prefix in openhab_default.cfg  

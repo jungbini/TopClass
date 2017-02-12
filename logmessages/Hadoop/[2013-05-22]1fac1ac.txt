@@ -1,0 +1,1 @@
+  YARN-708. Moved RecordFactory classes to hadoop-yarn-api, and put some miscellaneous fixes to the interfaces. Contributed by Siddharth Seth.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1485478 13f79535-47bb-0310-9956-ffa450edef68  

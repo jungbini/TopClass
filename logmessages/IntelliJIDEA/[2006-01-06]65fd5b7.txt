@@ -1,0 +1,1 @@
+  fix for IDEADEV-3975 and 	IDEADEV-3473 more documentation changes layout changes  

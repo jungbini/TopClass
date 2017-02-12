@@ -1,0 +1,1 @@
+  ninja fix for missing buffer offsets in CASSANDRA-5884  

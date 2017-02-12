@@ -1,0 +1,1 @@
+  Make internal logs accessible via REST API call  * Log4J appender writing logs to a fixed size in memory destination * REST API call to access the logs  This allows Apollo to collect the most recent logs and also the graylog-web-interface to display server logs. This will make maintenance easier and our support faster.  

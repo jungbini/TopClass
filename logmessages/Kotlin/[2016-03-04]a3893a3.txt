@@ -1,0 +1,1 @@
+  Test IC for adding private inline function  #KT-9681 fixed  

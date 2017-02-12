@@ -1,0 +1,1 @@
+  adds esh addons to the verification fixes https://github.com/openhab/openhab-distro/issues/163  Signed-off-by: Kai Kreuzer <kai@openhab.org>  

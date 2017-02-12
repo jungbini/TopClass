@@ -1,0 +1,1 @@
+  [javafx-groovy-classpath-fix] Added integration tests for correct compilation of Groovy/JavaFX projects  

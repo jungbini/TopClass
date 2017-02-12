@@ -1,0 +1,1 @@
+  fixed a bunch of exceptions linked with (de)serialization of build files (seen in ant explorer) properties data  

@@ -1,0 +1,1 @@
+  Fix `CopyResourcesStepIntegrationTest` to pass on Windows  Summary: The `BUCK` file was only specifying a `bash` command.  I fixed it to use `cmd` that will work on both platforms.  Test Plan: `ant test -D"test.class"="CpyResourcesStepIntegrationTest"`  

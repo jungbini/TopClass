@@ -1,0 +1,1 @@
+  PsiSmartPointers assertion fix  

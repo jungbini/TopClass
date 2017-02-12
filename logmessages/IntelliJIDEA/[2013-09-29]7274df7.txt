@@ -1,0 +1,1 @@
+ IdeaTestAssistant: fix test data path calculation  

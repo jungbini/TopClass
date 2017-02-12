@@ -1,0 +1,1 @@
+  xml structural search profile can process jspx and xhtml, fixes IDEA-61671 & IDEA-65610  

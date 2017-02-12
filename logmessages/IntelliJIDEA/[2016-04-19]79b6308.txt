@@ -1,0 +1,1 @@
+  Refix bugs with quoting new process args on windows (PY-9033, PY-19086)  Always remove quoting arguments before patching and add quoting just once  

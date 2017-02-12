@@ -1,0 +1,1 @@
+  fixed generation of temporary sequetial rid for case of batch script  

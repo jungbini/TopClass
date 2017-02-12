@@ -1,0 +1,1 @@
+  fix resolution of absolute file references in ant files  

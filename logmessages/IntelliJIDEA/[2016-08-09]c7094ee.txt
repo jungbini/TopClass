@@ -1,0 +1,1 @@
+  build scripts: fixed using compiled classes from archive, don't delete directory with classes in such cases  

@@ -1,0 +1,1 @@
+  (EA-55107) case with empty parents in history fixed  

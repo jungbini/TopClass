@@ -1,0 +1,1 @@
+  java-xdebugger: get nashorn frames this way until we integrate fully  

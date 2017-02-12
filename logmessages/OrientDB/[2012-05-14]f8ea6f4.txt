@@ -1,0 +1,1 @@
+  Fixed bugs on the management of index in transaction  

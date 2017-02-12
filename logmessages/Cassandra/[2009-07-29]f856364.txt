@@ -1,0 +1,1 @@
+  add more if-isDebugEnabled lines to reduce overhead when logging at INFO or higher.  patch by Michael Greene; reviewed by jbellis for CASSANDRA-174  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@798979 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  show the number of available updates in the footer (fixes #3518)  

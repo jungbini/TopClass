@@ -1,0 +1,1 @@
+  svn merge -c 1181316 from trunk to fix HDFS-2422   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1182219 13f79535-47bb-0310-9956-ffa450edef68  

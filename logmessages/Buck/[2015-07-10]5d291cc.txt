@@ -1,0 +1,1 @@
+  C/C++: support expanding macros in flags and search paths  Summary: This is part 1 in fixing an issue with apple libraries, where we eagerly expand apple platform-specific paths before we actually know which platform to target.  In this 

@@ -1,0 +1,1 @@
+  Fixed super signature generation when JetObject is explicit.  #KT-4485 fixed  

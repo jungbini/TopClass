@@ -1,0 +1,1 @@
+  only show closed indices when there are some. fixes 422  

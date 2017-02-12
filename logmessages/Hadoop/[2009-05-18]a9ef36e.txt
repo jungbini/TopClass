@@ -1,0 +1,1 @@
+  HADOOP-5858. Eliminate UTF8 and fix warnings in test/hdfs-with-mr package. Contributed by Konstantin Shvachko.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk@776032 13f79535-47bb-0310-9956-ffa450edef68  

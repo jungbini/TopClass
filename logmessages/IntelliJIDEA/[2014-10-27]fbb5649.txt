@@ -1,0 +1,1 @@
+  rollback fg color for inline debugger under Darcula  

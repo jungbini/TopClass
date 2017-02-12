@@ -1,0 +1,1 @@
+  when searching for some method in hierarchy, should also search in interfaces (correctly fix IDEA-101410)  

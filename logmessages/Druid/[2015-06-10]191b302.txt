@@ -1,0 +1,1 @@
+  fix passing of config from IndexTuningConfig to RealtimeTuningConfig  - pass rowFlushboundary correctly instead of using default. - fixes indexTask failing with io.druid.segment.incremental.IndexSizeExceededException when rowFlushboundary is set higher than RealtimeTuningConfig.defaultMaxRowsInMemory  rename test method  

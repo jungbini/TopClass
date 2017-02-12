@@ -1,0 +1,1 @@
+  prevent empty fields from collapsing the message view  fixes #271  

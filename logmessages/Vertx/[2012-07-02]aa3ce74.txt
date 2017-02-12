@@ -1,0 +1,1 @@
+  reverted debug stuff in vertx script  

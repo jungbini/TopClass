@@ -1,0 +1,1 @@
+  fix unsynchronized access to resulting data container  

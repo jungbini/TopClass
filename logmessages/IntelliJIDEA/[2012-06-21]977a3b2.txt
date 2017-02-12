@@ -1,0 +1,1 @@
+  DevKit: "register inspection" fix - show name of containing module for plugin.xml in selection popup  

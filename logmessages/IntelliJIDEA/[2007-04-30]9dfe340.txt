@@ -1,0 +1,1 @@
+  fix NPE caused by unsynchronized access to thread descriptors  

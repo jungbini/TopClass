@@ -1,0 +1,1 @@
+  simplified build process debugging: added a toggle action to enable/disable debugging, 'compiler.process.debug.port' registry value is taken into account only if debugging is enabled, preloaded processes are cancelled when debugging is enabled  

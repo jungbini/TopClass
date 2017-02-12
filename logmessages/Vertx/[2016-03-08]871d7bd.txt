@@ -1,0 +1,1 @@
+  Peer certificate chain cannot be retrieved after NetSocket TLS upgrade - fixes #1329  

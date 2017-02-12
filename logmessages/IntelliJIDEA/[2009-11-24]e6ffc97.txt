@@ -1,0 +1,1 @@
+  highlighting of libraries in project structure fixed  

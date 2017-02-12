@@ -1,0 +1,1 @@
+  "move assignment to initializer" quickfix for assigning to properties in constructors/init blocks  

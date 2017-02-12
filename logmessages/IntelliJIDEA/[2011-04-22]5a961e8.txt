@@ -1,0 +1,1 @@
+  fixed navigation to form file from anonymous and inner classes  

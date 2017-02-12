@@ -1,0 +1,1 @@
+  fixed PY-7068 Test run config doesn't include project sources in PYTHON PATH  

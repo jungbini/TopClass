@@ -1,0 +1,1 @@
+Author: Arun C Murthy <acmurthy@apache.org> Date:   Mon Jul 19 10:51:07 2010 -0700  MAPREDUCE-323. Fixed underscores in user and job names, also fixed some debug code. Contributed by Dick King.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077555 13f79535-47bb-0310-9956-ffa450edef68  

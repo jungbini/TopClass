@@ -1,0 +1,1 @@
+  fix to avoid static init loops, issue #3501  

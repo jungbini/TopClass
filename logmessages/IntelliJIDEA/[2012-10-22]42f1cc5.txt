@@ -1,0 +1,1 @@
+  IDEA-66804 hg: add "show all affected paths" to the file history actions ; And Bug with changeset in baserevision fixed.  

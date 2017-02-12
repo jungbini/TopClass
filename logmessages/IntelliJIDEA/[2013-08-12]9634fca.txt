@@ -1,0 +1,1 @@
+  moved all python run configurations to new API  fixed PY-10531 Missing template python run confuiguration in context menu for file with at least one doctest  

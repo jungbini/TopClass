@@ -1,0 +1,1 @@
+  escape slashes in query syntax. fixes #345  

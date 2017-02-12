@@ -1,0 +1,1 @@
+  Incremental fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=47 ("(Grizzly 1.9.19 regression) Grizzly's Websocket support broken after integration of 1.9.19")  Add an init-param grizzly.application.path used to tell Grizzly to upgrade. See jquery-pubsub and websocket-chat for an example.  

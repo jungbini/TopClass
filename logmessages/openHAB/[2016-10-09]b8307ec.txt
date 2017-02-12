@@ -1,0 +1,1 @@
+  Added X2 command to send status messages with variable values (#4689) (#4690)  Added X2 command to send status messages with variable values (#4689) fix trailing whitespaces fixup trailing whitespaces fix trailing whitespaces  

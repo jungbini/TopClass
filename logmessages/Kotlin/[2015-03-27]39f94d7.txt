@@ -1,0 +1,1 @@
+  KT-6044 J2K: Convert numeric float literals to 0.2f instead of 0.2.toFloat() + more fixes related to literals and type transformations  #KT-6044 Fixed  

@@ -1,0 +1,1 @@
+  Switched to @NotNull call site in Callable.getCallType() and PyCallableType.getCallType()  Changed some usages of getCallType() to getReturnType() and fixed handling of functions with custom decorators.  

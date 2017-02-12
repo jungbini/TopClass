@@ -1,0 +1,1 @@
+  no need to checkCanceled during completion prefix calculation  

@@ -1,0 +1,1 @@
+  IDEA-87162 Internationalization refactoring problem with escapes fixed  

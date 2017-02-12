@@ -1,0 +1,1 @@
+  svn: Refactored SvnCheckinEnvironment - not null, code simplifications, methods extracted, warnings fixes  

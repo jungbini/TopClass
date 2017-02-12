@@ -1,0 +1,1 @@
+  fix Common.testInSecondaryConstructorDelegationCall completion test: don't insert $ which breaks parsing of argument list and causes the block to be detached from the constructor itself  

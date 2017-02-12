@@ -1,0 +1,1 @@
+  Fix support for element_children in document fragments.  libxml2 doesn't support finding children in document fragments, but I don't think there's a good reason for this. Bug and proposed patch for libxml2 here:  https://bugzilla.gnome.org/show_bug.cgi?id=733900  

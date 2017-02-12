@@ -1,0 +1,1 @@
+  Hide SuperConsole output on Travis.  Summary: Travis's portrayal of the SuperConsole generates over 10000 lines of output, so any failure that occurs after that is not displayed in the output, making it impossible to debug.  Test Plan: testinprod  

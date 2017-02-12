@@ -1,0 +1,1 @@
+  UI Designer code cleanup; API for injecting annotators; move UI Designer-specific highlighting and quickfixes from codeinsight-impl to UIDesigner  

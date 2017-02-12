@@ -1,0 +1,1 @@
+  Unescape quotes and apostrophes from strings packed as assets.  Summary: Since we read strings from xml files, we need to `unescapeXml()`. It just seems cleaner to fix this in buck rather than in the android application.  Test Plan: Run unit test.  Built fb4a with strings as assets and verified that strings do not have backslashes anymore.  

@@ -1,0 +1,1 @@
+  Bug fix: reference contributors must check type of GrLiteralImpl, they have to add reference to string literals only.  

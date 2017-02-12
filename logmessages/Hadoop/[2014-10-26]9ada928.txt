@@ -1,0 +1,1 @@
+  HADOOP-11170. Pulling into branch-2.6 also, fixing CHANGES.txt.  

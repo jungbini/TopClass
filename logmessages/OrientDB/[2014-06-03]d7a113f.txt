@@ -1,0 +1,1 @@
+  Issue #2142 was partially fixed. MT issues with handling of OPEN/CLOSE state and storage registry were fixed.  

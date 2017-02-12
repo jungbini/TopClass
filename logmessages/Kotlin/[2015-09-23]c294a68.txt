@@ -1,0 +1,1 @@
+  Utils for checking presense of certain lines in a sequence, using this tool for checking log after daemon builds in tests, fixing explicit daemon shutdown used in the test, some minor fixes  

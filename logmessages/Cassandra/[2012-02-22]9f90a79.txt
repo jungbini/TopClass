@@ -1,0 +1,1 @@
+  Fix bug with counter in super columns  patch by slebresne; reviewed by yukim for CASSANDRA-3821  

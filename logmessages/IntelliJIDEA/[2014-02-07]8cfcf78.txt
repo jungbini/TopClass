@@ -1,0 +1,1 @@
+  'show serialized xml' action: fixed instantiation of bean class  

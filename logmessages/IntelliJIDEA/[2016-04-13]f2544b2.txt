@@ -1,0 +1,1 @@
+  Use originalEditor to hard-wrap current line.  This change fix hard-wrapping elements which are injected.  

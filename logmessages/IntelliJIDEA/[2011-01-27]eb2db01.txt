@@ -1,0 +1,1 @@
+  fixed PY-2793 Py2.4 compatibility: relative imports: false negative on relative imports from modules  

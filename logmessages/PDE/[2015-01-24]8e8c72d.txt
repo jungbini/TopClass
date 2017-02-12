@@ -1,0 +1,1 @@
+  finish merge of DebugEditor, move vars around, clean up accessors and menus  

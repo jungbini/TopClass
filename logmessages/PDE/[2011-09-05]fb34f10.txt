@@ -1,0 +1,1 @@
+  Issue 829 fixed on Android as well.  

@@ -1,0 +1,1 @@
+  another attempt to fix parallel compilation - enabling keepalive in compiler use sites, but in jps taking parallel compilation option into account, so it should be now not set in tests  

@@ -1,0 +1,1 @@
+  better template names for new HTML file action #WEB-12578 fixed  

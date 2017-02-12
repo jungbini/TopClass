@@ -1,0 +1,1 @@
+  frontend bugs fixed: fun f(): Int = "s" //was ok fun g(): Int { if (1 < 2) {} else {} }//was ok fun h(): Int { val a = 1 } //was ok  

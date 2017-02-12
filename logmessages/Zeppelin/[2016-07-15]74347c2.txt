@@ -1,0 +1,1 @@
+astroshim] fix path c937b90 [astroshim] fix location.path 8db7017 [astroshim] redirect home when wrong path  

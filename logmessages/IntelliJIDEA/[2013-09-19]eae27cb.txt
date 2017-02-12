@@ -1,0 +1,1 @@
+  xdebugger: supported rebuilding of standalone variables view  

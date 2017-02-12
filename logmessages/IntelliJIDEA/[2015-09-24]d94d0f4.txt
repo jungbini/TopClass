@@ -1,0 +1,1 @@
+  PsiFileImpl: fix race condition between AST and stub loading, which resulted in stub elements being not bound to AST  

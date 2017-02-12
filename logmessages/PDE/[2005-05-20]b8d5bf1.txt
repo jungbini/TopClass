@@ -1,0 +1,1 @@
+  problems with ascii in folder names is half fixed, still need to figure jikes out  

@@ -1,0 +1,1 @@
+  fix broken compareTo() implementation otherwise calling sort will throw exceptions when running on jdk7  

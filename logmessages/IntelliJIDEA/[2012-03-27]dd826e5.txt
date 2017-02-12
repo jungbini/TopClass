@@ -1,0 +1,1 @@
+  scopes, configured for inspections: add scope, set level fixes (IDEA-83491;IDEA-83492;IDEA-83495)  

@@ -1,0 +1,1 @@
+  HA: fixed wrong message about cluster reassignment  https://github.com/orientechnologies/orientdb/issues/6817  

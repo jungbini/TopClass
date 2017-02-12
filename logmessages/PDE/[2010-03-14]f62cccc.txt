@@ -1,0 +1,1 @@
+  add implicit path commands to svg (bug #1503)  

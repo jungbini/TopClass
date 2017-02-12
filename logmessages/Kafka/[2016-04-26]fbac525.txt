@@ -1,0 +1,1 @@
+  MINOR: Fix zk path in KafkaHealthCheck comment  Author: Stig <stig@linux-pr4q.suse>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1182 from srdo/comment-fix  

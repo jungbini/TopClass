@@ -1,0 +1,1 @@
+  Remove unused attribute from apple_test  Summary: * Remove `resource_prefix_dir` from `apple_test` since it was never used and was likely added by accident.  Test Plan: * It still builds.  

@@ -1,0 +1,1 @@
+  make constructor accessible for plugins #WEB-17148 fixed  

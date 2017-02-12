@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE] Fix unification bug for union type that includes a type variable. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=79447509  

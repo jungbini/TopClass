@@ -1,0 +1,1 @@
+  Committed fix by Raf on new constructor ODocument(Map)  

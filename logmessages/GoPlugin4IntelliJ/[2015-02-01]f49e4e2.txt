@@ -1,0 +1,1 @@
+  fix #1207: Error in syntax when declares function with arguments in various line  

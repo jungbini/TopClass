@@ -1,0 +1,1 @@
+  fix NPE in indexer usage  this lead to not re-running the index retention thread due to an uncaught exception in the scheduled executor  fixes #654  

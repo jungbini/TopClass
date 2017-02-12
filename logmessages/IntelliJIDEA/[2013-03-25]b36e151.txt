@@ -1,0 +1,1 @@
+  IDEA-103227 (type annotations handling in "Split multi-catch" fixed)  

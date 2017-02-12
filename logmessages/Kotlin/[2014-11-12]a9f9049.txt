@@ -1,0 +1,1 @@
+  Evaluate expression: fix exception for breakpoints on object header (for accessor methods)  

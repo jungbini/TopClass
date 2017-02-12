@@ -1,0 +1,1 @@
+  support atomic writes for local deep storage (#3521)  * Use atomic writes for local deep storage  * fix pr issues  * use defaultObjMapper for test  * move tmp pushes to a intermediate dir  * minor refactor  

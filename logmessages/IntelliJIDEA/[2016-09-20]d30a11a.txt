@@ -1,0 +1,1 @@
+  [vcs-log] fix hash code calculation for VcsRefType in both git and hg  This makes VcsRef hash code stable between restarts and fixes references storage.  

@@ -1,0 +1,1 @@
+  fixed wrong document formatter used on distributed configuration push. iusse #3264  

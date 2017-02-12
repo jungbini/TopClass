@@ -1,0 +1,1 @@
+  fix leftcurly and rightcurly checkstyle issues when using latest checkstyle version  

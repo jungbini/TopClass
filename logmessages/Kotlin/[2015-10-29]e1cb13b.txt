@@ -1,0 +1,1 @@
+  Qualifier no longer defers "(nested) class vs package" resolution. Consider FQN 'a.b.c'. If 'a' is a classifier in the current scope, resolve rest in the corresponding class scope. Otherwise (if 'a' is a package), find the maximum possible prefix 'a.b' resolving to a package, resolve rest in the corresponding package scope.  

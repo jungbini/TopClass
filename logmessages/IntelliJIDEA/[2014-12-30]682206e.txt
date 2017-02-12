@@ -1,0 +1,1 @@
+at com.intellij.psi.impl.DebugUtil.currentStackTrace  (cherry picked from commit 8489db4d9faf7ad345671b2ff33ca82359bddd38)  

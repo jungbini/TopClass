@@ -1,0 +1,1 @@
+  Guard -pass-exit-codes to support clang  Currently using CC=clang will fail because -pass-exit-codes is an unsupported option (Github issue #2121).  This is a minimal fix to add a guard for this option.  -- Change-Id: I86c3415ea7280a3af1d5579c1374bfa74ce31b5d Reviewed-on: https://cr.bazel.build/8070 PiperOrigin-RevId: 142829737 MOS_MIGRATED_REVID=142829737  

@@ -1,0 +1,1 @@
+  fix(IOS): smoothier mic animation  

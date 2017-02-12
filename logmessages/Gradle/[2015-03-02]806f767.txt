@@ -1,0 +1,1 @@
+  Use a project dependency on oneself instead of depending on output directories to avoid adding duplicates of classes to the test classpath (via both jar and output dir) when using test fixtures from other subprojects.  +review REVIEW-5417  

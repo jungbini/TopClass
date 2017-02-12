@@ -1,0 +1,1 @@
+  HBASE-1502 Aftermath; fix up of broke tests.  Fix TestReplicationSourceManager.  The mock server needed to return a server name, any server name but null  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1097332 13f79535-47bb-0310-9956-ffa450edef68  

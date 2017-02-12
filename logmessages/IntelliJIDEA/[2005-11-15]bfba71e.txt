@@ -1,0 +1,1 @@
+  does not allow < in el embedment inside jspx, this fixes some reparse problems  

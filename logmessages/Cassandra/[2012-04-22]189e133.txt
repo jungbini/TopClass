@@ -1,0 +1,1 @@
+  fix for situation when assumtions are read for CF that does not exist (CASSANDRA-4052)  

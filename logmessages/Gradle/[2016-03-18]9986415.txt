@@ -1,0 +1,1 @@
+  fixes and clarifications after @rjernst review  

@@ -1,0 +1,1 @@
+  default absolute path for node id files. fixes #324  

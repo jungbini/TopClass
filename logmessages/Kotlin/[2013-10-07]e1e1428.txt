@@ -1,0 +1,1 @@
+  Exception handling fixed for the case of inner classes  

@@ -1,0 +1,1 @@
+  do not load all index detail information on the overview page  instead load the partial via ajax so the initial page load is quick and does not time out for users with lots of indices  fixes #1035  

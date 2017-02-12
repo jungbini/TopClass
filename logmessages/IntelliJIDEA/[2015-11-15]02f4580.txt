@@ -1,0 +1,1 @@
+  IG: Add "Suppress for 'Tests' Scope" quickfix to "Non-boolean method name must not start with question word" inspection IDEA-143695  

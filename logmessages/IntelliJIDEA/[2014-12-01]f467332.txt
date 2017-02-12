@@ -1,0 +1,1 @@
+  [vcs-log] fix filtering by other than root files and generally make more clear what is going on inside vcs log file filter  

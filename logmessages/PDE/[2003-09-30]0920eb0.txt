@@ -1,0 +1,1 @@
+  font smoothing fix, beautify fix, version number in about box, rev 0065  

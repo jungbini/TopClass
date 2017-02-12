@@ -1,0 +1,1 @@
+  small fix to avoid to invalidate and remove session not yet fully opened  

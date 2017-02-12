@@ -1,0 +1,1 @@
+  IDEA-60135 fix quickfix of "Scope of variable is too broad" inspection  

@@ -1,0 +1,1 @@
+  fix NPE on deleting component; prevent "buttonButton" field name generation  

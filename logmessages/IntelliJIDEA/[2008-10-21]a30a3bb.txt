@@ -1,0 +1,1 @@
+  already modified when open "scopes configurable" fixed (small improvement)  

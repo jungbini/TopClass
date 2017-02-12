@@ -1,0 +1,1 @@
+  fix NPE caused by getToken on endpoint that isn't member of ring yet.  add assert to prevent in the future. patch by jbellis for CASSANDRA-522  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@832268 13f79535-47bb-0310-9956-ffa450edef68  

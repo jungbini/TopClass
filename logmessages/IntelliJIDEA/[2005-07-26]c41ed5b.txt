@@ -1,0 +1,1 @@
+  better criterion for synchetic variables in debugger editors  

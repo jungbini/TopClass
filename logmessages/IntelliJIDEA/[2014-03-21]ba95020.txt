@@ -1,0 +1,1 @@
+  Balloons: fix for inverted "contains" condition (causes NPE and wrong behavior)  

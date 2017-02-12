@@ -1,0 +1,1 @@
+  fix stripe for indexing stamp for light test file  

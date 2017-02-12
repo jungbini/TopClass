@@ -1,0 +1,1 @@
+  Don't remove canvas from parent PApplet, fix #1648  

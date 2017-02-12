@@ -1,0 +1,1 @@
+  Fix command substitution bug in checksocket.sh  

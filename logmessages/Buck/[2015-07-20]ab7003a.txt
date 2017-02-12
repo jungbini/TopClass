@@ -1,0 +1,1 @@
+  IosReactNativeIntegrationTest: fix mock packager to always write the source map.  Summary: Because the bundle rule caches this file.  Test Plan: Ran the test.  

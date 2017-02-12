@@ -1,0 +1,1 @@
+  WEB-9926 remove 0xhh postfix (property name)  

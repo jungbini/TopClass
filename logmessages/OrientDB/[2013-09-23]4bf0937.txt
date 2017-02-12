@@ -1,0 +1,1 @@
+  Fixe dbug on auto-deploy of plocal storages  

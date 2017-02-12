@@ -1,0 +1,1 @@
+  fixed issue on schema reloading during concurrent operations (two db connections open on 

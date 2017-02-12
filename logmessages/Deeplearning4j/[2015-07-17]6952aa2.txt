@@ -1,0 +1,1 @@
+ Merge pull request #471 from Lewuathe/fix-dead-links  Fix dead links in index page  commit 6952aa235d5b0169c54a5b62a1d38aa978c50d49  CG fix if searchState doesn't contain searchDir  

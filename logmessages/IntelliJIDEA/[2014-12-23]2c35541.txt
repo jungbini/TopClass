@@ -1,0 +1,1 @@
+  fixed test_helper.py template for creating course  

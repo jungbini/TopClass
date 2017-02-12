@@ -1,0 +1,1 @@
+  code coverage for j2ee applications (IDEA-61853); fix emma coverage report;  

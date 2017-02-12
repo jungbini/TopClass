@@ -1,0 +1,1 @@
+  fix OOM: don't put all PsiClass'es into one giant set to remove duplicates, there just won't be any  

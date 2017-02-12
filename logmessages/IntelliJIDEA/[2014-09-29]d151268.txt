@@ -1,0 +1,1 @@
+  IDEA-130294 Draw line highlighters with no gap to the gutter splitter - fixed extra line highlighted at the end of file  

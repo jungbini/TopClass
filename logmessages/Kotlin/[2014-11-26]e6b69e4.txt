@@ -1,0 +1,1 @@
+  Minor: fix JetCoreEnvironment#(createForProduction, createForTests) call sites for JVM.  

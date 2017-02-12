@@ -1,0 +1,1 @@
+  fixed PY-12113 Questionable "access to a protected member of a class" inspection in tests  

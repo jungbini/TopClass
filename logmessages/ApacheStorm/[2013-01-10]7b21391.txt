@@ -1,0 +1,1 @@
+  fixes SchemeAsMultiScheme bug, when deserialize returns null  

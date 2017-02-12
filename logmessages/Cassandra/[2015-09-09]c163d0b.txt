@@ -1,0 +1,1 @@
+  Refactor TransactionLog code and fix order of cleanup bug on Windows  patch by stefania; reviewed by benedict for CASSANDRA-10286  

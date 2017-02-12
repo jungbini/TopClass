@@ -1,0 +1,1 @@
+  possible NPEs in "SVN Properties" toolwindow fixed.  

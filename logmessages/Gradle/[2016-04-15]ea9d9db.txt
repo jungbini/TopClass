@@ -1,0 +1,1 @@
+  Switch back to using DeprecationLogger in GradleConnectionBuilder  ... now that Adam fixed it.  

@@ -1,0 +1,1 @@
+  local history changes collecting bugfix (IDEADEV-18218, IDEADEV-22786)  

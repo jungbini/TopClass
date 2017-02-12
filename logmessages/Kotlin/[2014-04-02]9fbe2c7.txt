@@ -1,0 +1,1 @@
+  Minor, remove read check in WriteThroughScope  Without this, it's 

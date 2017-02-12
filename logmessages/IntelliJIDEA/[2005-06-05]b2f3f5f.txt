@@ -1,0 +1,1 @@
+  fixed issue with inserting end of string literal after escape sequence  

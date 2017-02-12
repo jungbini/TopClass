@@ -1,0 +1,1 @@
+ Remove ESTimestampFixup command  The ESTimestampFixup was only used to fix a mapping problem when upgrading from Graylog 0.20.x or 0.90.x to Graylog 1.x.  Refs #728, refs #737.  

@@ -1,0 +1,1 @@
+  Rollforward of jQuery Event cleanup  *** Original change description ***  Merge pull request #990 from ChadKillingsworth/jquery-event-fixes  Cleanup types related to the jQuery Event objects.  ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=95744556  

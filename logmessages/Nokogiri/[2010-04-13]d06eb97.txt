@@ -1,0 +1,1 @@
+  working around libxml2 xmlReplaceNode issue (https://bugzilla.gnome.org/show_bug.cgi?id=615612)  

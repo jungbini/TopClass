@@ -1,0 +1,1 @@
+  PY-18594: Slow commands may freeze manage.py, fixing it  * Give each command 2 seconds to complete * Kill it and report if it fails * Give user ability to skip such commands  

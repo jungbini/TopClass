@@ -1,0 +1,1 @@
+  Fixed a quick fix for enum entry delimiters: situation with following comments. Three new tests. isAvailable().  

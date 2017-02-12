@@ -1,0 +1,1 @@
+  hopefully fixed NoClassDefFound of eclipse classes  

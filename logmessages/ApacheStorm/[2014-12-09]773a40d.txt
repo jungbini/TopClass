@@ -1,0 +1,1 @@
+  STORM-585 is fixed: Performance improvement in none grouping  

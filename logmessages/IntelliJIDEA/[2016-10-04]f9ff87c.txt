@@ -1,0 +1,1 @@
+  added dummy inlay model implementation for injected editors, to avoid potential bugs  errors will still be logged on usage of inlay model for an injected editor  

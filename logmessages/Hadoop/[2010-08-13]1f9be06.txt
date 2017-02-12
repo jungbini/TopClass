@@ -1,0 +1,1 @@
+  HDFS-1340. When security is turned off, there is a potential XSS attack. This patch fixes it by removing delegationtoken string from the URL, before returning a response to the client. Contributed by Jitendra Pandey.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hdfs/trunk@985393 13f79535-47bb-0310-9956-ffa450edef68  

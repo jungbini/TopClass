@@ -1,0 +1,1 @@
+  Workarond Request recycling bugs with Jetty 8.0.4  

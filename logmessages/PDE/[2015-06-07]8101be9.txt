@@ -1,0 +1,1 @@
+  add extra fullScreen(display) method, fix error handling  

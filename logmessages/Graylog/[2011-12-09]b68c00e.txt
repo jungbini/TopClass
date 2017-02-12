@@ -1,0 +1,1 @@
+  analytics graph update GUI now easier to use  optimized for long range selections. fixes #WEBINTERFACE-126  

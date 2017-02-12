@@ -1,0 +1,1 @@
+  GRADLE-293   	 Add functionality to redirect System.out statements to the logging. Fixed bugs in logback configuration.  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@981 004c2c75-fc45-0410-b1a2-da8352e2331b  

@@ -1,0 +1,1 @@
+  fix: when device is off -> update device consumption and energy meter value to 0  

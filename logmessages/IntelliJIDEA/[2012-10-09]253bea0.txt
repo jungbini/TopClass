@@ -1,0 +1,1 @@
+  no common prefix filling on first completion (IDEA-92664)  

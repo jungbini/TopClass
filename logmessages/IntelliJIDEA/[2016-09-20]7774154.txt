@@ -1,0 +1,1 @@
+sed to display <A> tags as is, without ability to click on them. Now the dialogs are fixed => no need in a separate brach for Macs.  

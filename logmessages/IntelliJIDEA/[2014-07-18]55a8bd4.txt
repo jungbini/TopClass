@@ -1,0 +1,1 @@
+  DebuggerSettings  use PersistentStateComponent instead of deprecated JDOMExternalizable  

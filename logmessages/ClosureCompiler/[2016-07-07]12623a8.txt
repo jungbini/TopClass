@@ -1,0 +1,1 @@
+  Update MinimalLinker to shadow some variables emitted by ModuleUtils. Add explanation of the prefix/suffix changes. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=126865390  

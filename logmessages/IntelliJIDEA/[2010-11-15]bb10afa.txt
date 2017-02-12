@@ -1,0 +1,1 @@
+  fix typo in plugin description, add exception reporter  

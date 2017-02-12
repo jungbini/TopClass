@@ -1,0 +1,1 @@
+ Merge pull request #4077 from querdenker2k/caldav-fixes-02-20  [caldav] - add charset option, presence-simulation, filter option  commit 615407939d71b2236c389ebfdf2b947ee87da931  Samsung AC fix for issue #2863 allowing the user to specify a certificate - cherry-picked from #4067  

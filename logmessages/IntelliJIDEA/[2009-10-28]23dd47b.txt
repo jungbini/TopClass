@@ -1,0 +1,1 @@
+  Spellchecker: fix typos (IDEADEV-41032)  

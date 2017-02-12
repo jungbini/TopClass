@@ -1,0 +1,1 @@
+  fixing bug #1781 (installing modes/tools on Win) changes a rename/move to a copy and delete pulls the delete step out one level so that we can unload the temp 'newContrib' first, since having it loaded was locking the files from being renamed/removed on Windows (somewhat erratically).  A bit slower than before but should work a heck of a lot more often for Windows users.  

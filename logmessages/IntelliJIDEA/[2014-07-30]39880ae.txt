@@ -1,0 +1,1 @@
+  first part of fix "IDEA-127645 Open in browser not working"  /usr/bin/firefox as default alternative browser path (unix)  

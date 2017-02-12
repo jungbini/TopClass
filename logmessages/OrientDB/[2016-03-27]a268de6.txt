@@ -1,0 +1,1 @@
+  fixed some missing session close on database helper.  

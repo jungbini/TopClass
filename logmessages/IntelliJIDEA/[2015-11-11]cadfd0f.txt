@@ -1,0 +1,1 @@
+  fix typo in IdePerformanceListener javadoc (IDEA-CR-6663)  

@@ -1,0 +1,1 @@
+  Rework new java plugin template for old vs new performance test * this does NOT fix the failing OldVsNewJavaPluginPerformanceTest (failure is due to model reuse) * creates test and main components using the cleanest option today * creates the corresponding checkstyle tasks. The previous version did not do it properly.  

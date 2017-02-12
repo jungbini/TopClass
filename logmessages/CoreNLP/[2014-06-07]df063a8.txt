@@ -1,0 +1,1 @@
+  Update Arabic segmenter README, fix a comment  

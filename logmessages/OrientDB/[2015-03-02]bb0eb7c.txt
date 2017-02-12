@@ -1,0 +1,1 @@
+ Merge remote-tracking branch 'origin/develop' into fix/partialDeleteMultiValueIndex  commit bb0eb7cf8bd1da89550fd981fc64725c104b3093  -fix: DELETE FROM index:<indexName> WHERE key = <key>, were failing on composite key, when rid wasn't specified.  expected behavior, to remove all values under specified (partial/full) key -remarks: all test passed after fix  

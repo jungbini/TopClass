@@ -1,0 +1,1 @@
+  Better message for custom repositories which failed to load list of plugins  #IDEA-142958 fixed  

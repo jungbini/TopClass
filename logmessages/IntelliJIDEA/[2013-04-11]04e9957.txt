@@ -1,0 +1,1 @@
+  fixed  PY-9470 Parameter Info: provide reasonable view for functions without paramters  

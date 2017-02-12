@@ -1,0 +1,1 @@
+  chore+fix(web): fix web build, update some scripts  

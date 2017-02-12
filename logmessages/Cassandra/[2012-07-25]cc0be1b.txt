@@ -1,0 +1,1 @@
+  fix nodetool's setcompactionthreshold command patch by Aleksey Yeschenko; reviewed by Pavel Yaskevich for CASSANDRA-4455  

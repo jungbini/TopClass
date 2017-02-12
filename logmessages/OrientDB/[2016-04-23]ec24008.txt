@@ -1,0 +1,1 @@
+  Distributed: minor fix to base test class avoiding nasty stack traces  

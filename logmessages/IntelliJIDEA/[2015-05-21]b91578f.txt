@@ -1,0 +1,1 @@
+  hang-up in BinaryRequestHandlerTest fixed (happened on Mac when running under JDK 1.8)  

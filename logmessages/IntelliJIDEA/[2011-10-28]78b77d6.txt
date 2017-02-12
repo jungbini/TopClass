@@ -1,0 +1,1 @@
+  api to provide cumulative quick fixes which can show one dialog for all selected problems in batch mode  

@@ -1,0 +1,1 @@
+  Interval bug fix for search query (#2903)  * support query granularity and interval for search query  * skip unncessary bitmap calculation when query interval contains whole the data interval of the given segments.  * use binary search to find start and end index for the given interval  * fix based on comment  * bug fix based on the review comments and add unit tests  

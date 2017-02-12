@@ -1,0 +1,1 @@
+mmit details. * vcs-log-api "root" module (without dependencies) to hold Hash, Ref and other stuff everybody needs. * Work only on the first VCS root (multiple roots will be added later). * Remove GitLogComponent & friends - hackathon heritage. * Remove FullLogCommitParentsReader, since we'll never load everything.  

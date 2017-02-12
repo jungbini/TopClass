@@ -1,0 +1,1 @@
+  fix for serial library exports on Windows  

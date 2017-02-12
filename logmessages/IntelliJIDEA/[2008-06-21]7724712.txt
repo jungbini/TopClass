@@ -1,0 +1,1 @@
+  NavBar -- hide on focus lost fix  

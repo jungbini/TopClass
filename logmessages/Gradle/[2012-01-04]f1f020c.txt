@@ -1,0 +1,1 @@
+  Moved some classes out of 'internalTesting', to live as test fixtures in other projects, to get rid of the (core, native, internalTesting) cycle.  

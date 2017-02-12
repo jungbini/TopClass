@@ -1,0 +1,1 @@
+  Refactoring: TypeInfoFactory.createTypeInfo() without type -> noTypeInfo(), getNotNullType -> getTypeNotNull, nullability refined, style fixes  

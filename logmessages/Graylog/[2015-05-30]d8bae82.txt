@@ -1,0 +1,1 @@
+  styled user edit page. fixes #1369  

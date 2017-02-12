@@ -1,0 +1,1 @@
+  fixed debug logging to be compatible with py3k  

@@ -1,0 +1,1 @@
+  IDEA-80493 Debug tool window: generic UI: Restore Layout set "Debugger" name to logs view  

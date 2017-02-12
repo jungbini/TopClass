@@ -1,0 +1,1 @@
+  correct fix to allow running tests without classpath of 'main' module  

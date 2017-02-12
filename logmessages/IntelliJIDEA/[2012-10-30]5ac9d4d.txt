@@ -1,0 +1,1 @@
+  external compiler: several fixes in artifact builder (IDEA-93026, IDEA-81955, IDEA-88716)  

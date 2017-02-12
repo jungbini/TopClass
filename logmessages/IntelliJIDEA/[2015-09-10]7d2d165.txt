@@ -1,0 +1,1 @@
+  DBE-1546: Change "Text" tab name to "DDL" for database item editors (less hacky fix)  

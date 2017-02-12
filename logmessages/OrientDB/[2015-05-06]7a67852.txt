@@ -1,0 +1,1 @@
+  fixed case of removed vertex in the same transaction where is created, issue #4045  

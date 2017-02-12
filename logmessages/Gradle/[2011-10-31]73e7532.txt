@@ -1,0 +1,1 @@
+  - Some fixes and test coverage for handling the configuration.transitive flag. - Removed some complexity which is no longer required, in how we build the module descriptor.  

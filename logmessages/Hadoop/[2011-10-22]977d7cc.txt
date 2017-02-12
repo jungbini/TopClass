@@ -1,0 +1,1 @@
+  MAPREDUCE-3233. Fixed a bug in MR Job so as to be able to restart the application on AM crash. Contributed by Mahadev Konar.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1187669 13f79535-47bb-0310-9956-ffa450edef68  

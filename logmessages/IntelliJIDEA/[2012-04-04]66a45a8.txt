@@ -1,0 +1,1 @@
+  do not add minimize listener if problem is already fixed in JDK  

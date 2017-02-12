@@ -1,0 +1,1 @@
+  deadlock fix class literal getter supporting multiple expected types and not suggesting invalid ones  

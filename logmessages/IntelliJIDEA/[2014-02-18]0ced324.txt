@@ -1,0 +1,1 @@
+  IDEA-120904 Debugger UI: watch variable text field is shown when debug tool window is hidden  

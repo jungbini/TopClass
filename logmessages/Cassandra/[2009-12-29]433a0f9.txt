@@ -1,0 +1,1 @@
+  fix allowing unregisterMBean to be called more than once.  patch by jbellis  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@894489 13f79535-47bb-0310-9956-ffa450edef68  

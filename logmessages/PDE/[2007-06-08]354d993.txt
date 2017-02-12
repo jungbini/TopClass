@@ -1,0 +1,1 @@
+  Fix bug 558, PImage.save() method not working with get()  

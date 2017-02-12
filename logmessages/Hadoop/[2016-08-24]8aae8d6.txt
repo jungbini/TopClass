@@ -1,0 +1,1 @@
+  HADOOP-13497. fix wrong command in CredentialProviderAPI.md. Contributed by Yuanbo Liu.  

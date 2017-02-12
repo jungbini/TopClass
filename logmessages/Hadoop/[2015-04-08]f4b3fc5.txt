@@ -1,0 +1,1 @@
+  HADOOP-11781. fix race conditions and add URL support to smart-apply-patch.sh (Raymie Stata via aw)  

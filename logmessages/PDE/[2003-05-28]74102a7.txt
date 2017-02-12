@@ -1,0 +1,1 @@
+  fixes to make this work on jdk 1.3 and jdk 1.1  

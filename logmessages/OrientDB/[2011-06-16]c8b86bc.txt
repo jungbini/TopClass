@@ -1,0 +1,1 @@
+  Fixed a lot of bugs to get working OrientDb in concurrent contexts  

@@ -1,0 +1,1 @@
+  fixed documentation error as "+=" adds Files instead of Configuration  

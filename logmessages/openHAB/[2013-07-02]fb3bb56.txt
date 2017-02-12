@@ -1,0 +1,1 @@
+  Sonos binding: Fixed bug which prevented discovery if Sonos devices are not defined on the config.  

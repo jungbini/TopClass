@@ -1,0 +1,1 @@
+  Replace "new Long" by "Long.valueOf" based on findbugs suggestiono.  

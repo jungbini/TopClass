@@ -1,0 +1,1 @@
+  links to date parser docs in converters. fixes #715, fixes #711  

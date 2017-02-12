@@ -1,0 +1,1 @@
+  Fix bug in hasAnyTemplatedTypes.  In general, we want a type to be considered templated only if it contains a direct reference to a TemplateType, not if only it's parent does. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=104815171  

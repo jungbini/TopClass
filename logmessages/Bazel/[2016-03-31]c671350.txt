@@ -1,0 +1,1 @@
+  Enable the configuration sanity check for a subset of tests.  Also remove a try-catch block, which was converting all configuration creation errors to IllegalStateException.  This uncovered a bug in CppOptions, which wasn't adding host_grte_top to the set of explicit labels.  -- MOS_MIGRATED_REVID=118654358  

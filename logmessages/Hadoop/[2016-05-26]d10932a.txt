@@ -1,0 +1,1 @@
+  YARN-5138. fix "no findbugs output file" error for hadoop-yarn-server-timelineservice-hbase-tests. (Vrushali C via gtcarrera9)  

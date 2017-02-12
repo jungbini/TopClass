@@ -1,0 +1,1 @@
+  Cqlsh: fix 'describe columnfamily' from CASSADRA-4164 Patch by paul cannon, reviewed by brandonwilliams  

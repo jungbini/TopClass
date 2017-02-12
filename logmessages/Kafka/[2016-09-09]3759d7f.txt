@@ -1,0 +1,1 @@
+  HOTFIX: Temporarily ignoring this test until fixed  Author: Eno Thereska <eno.thereska@gmail.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1838 from enothereska/hotfix-ignore-smoke-test  

@@ -1,0 +1,1 @@
+  fixed PY-9263 Move attribute to init method: add super class call when moving to not yet existing init  

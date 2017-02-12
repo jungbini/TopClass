@@ -1,0 +1,1 @@
+  Distributed: Delta sync settings now are non static anymore  This fixes the bug with the incremental backup that couldnt be active because OSystem database had the default setting and the distributed once set the recording of RID metadata, was too late, because the static variable was already initialized = false.  

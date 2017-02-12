@@ -1,0 +1,1 @@
+  fix(server): process invite every time  

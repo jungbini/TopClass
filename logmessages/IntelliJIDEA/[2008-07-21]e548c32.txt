@@ -1,0 +1,1 @@
+  more refined lookup closing policy don't autocomplete static members fix issue with package-named local variables once more  

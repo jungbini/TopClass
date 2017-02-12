@@ -1,0 +1,1 @@
+  fix: using cmd_exe/xcopy for copying files in AndroidResourceIntegrationTest  Summary: AndroidResourceIntegrationTest fails in default windows environment where `cp` command is absent.  Test Plan: Check locally, check buck-verification-windows  Reviewed By: Coneko  fbshipit-source-id: 9dae41a  

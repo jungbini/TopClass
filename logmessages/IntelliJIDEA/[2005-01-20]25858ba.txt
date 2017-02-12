@@ -1,0 +1,1 @@
+  DebuggerContext command is started only when corresponding thread is really suspended, removed some redundant checks, inserted some if (LOF.isDebugEnabled())  

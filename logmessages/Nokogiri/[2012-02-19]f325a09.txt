@@ -1,0 +1,1 @@
+  Fixes issue#620. Adds input data length info only when input is a string. This fix doesn't cover similar case when input is not a string. But, it might be better to apply this fix.  

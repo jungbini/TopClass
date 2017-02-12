@@ -1,0 +1,1 @@
+  Made inferentialSF a subclass of SimpleSlotFiller, and minor fixes  

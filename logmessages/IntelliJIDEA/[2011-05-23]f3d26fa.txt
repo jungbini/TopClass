@@ -1,0 +1,1 @@
+  fixed convert set literal could not be invoked in py3  

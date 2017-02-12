@@ -1,0 +1,1 @@
+  fix IndexTaskTest tmp dir  - Create local firehose files in a clean temp directory to avoid firehose reading other random temp files that start with 'druid'  Conflicts: indexing-service/src/test/java/io/druid/indexing/common/task/IndexTaskTest.java  

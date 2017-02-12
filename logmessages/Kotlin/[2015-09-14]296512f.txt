@@ -1,0 +1,1 @@
+  Minor, remove useless code and fix warnings  

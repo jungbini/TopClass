@@ -1,0 +1,1 @@
+  Created 2 new test cases: - one for the bug of not-trimmed sql string (Thanks lmolino!) - the other one for the traversing with infinite level -1 (Thanks Antony Stubbs)  

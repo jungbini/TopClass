@@ -1,0 +1,1 @@
+  fix NPE in android layout preview: avoid colliding project resources' ids with the framework ids  

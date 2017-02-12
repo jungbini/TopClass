@@ -1,0 +1,1 @@
+  preserve tree state in case of unfinished rebuild - fix for quick step  

@@ -1,0 +1,1 @@
+  fixed PY-8200 Introduce parameter: do not allow refactoring when there is local variable in the selection  

@@ -1,0 +1,1 @@
+  OSQLFunction : fix plain parameter value not passed as runtime parameter at execution  

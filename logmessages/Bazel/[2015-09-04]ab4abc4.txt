@@ -1,0 +1,1 @@
+  *** Reason for rollback ***  Totally broke Bazel tests (100% failures!). Found by git bisect after running the update script.  *** Original change description ***  sandbox: We have to move all generated outputs, not just regular files.  Fix for a part of bug #397.  -- MOS_MIGRATED_REVID=102354724  

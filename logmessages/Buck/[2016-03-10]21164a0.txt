@@ -1,0 +1,1 @@
+  fix nondeterministic failure in PrebuiltJarSymbolsFinderTest  Summary:Zip records the current time, so if this test generates the two zip files that crosses a second boundary, the test fails.  Test Plan: add a Thread.sleep(2000), see that test doesn't fail  Reviewed By: bolinfest, bhamiltoncx  fb-gh-sync-id: d427525 shipit-source-id: d427525  

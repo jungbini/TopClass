@@ -1,0 +1,1 @@
+  js debuggers: added toolbar button to toggle 'all exceptions' breakpoint [rev by Maxim]  

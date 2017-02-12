@@ -1,0 +1,1 @@
+  use correct ObjectMapper in Index[IO/Merger] in AggregationTestHelper and minor fix in theta sketch SketchMergeAggregatorFactory.getMergingFactory(..) (#2943)  

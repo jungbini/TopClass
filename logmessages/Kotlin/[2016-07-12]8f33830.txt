@@ -1,0 +1,1 @@
+  Suppress UNCHECKED_CAST instead of CAST_NEVER_SUCCEEDS in several places  This is related to KT-6611 being fixed recently. Note that not all cases of incorrect "cast never succeeds" were fixed  

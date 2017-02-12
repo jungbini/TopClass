@@ -1,0 +1,1 @@
+  GRADLE-800 - Provide correct resultType for test suite result - Collect failures in the test suite itself to provide in the result. - Send less stuff across the wire for test results - Added JUnitTestResult fixture to use in int tests  

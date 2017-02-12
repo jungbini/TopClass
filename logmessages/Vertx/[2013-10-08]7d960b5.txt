@@ -1,0 +1,1 @@
+  fixed test so it works with dns providers that return a redirect for not found  

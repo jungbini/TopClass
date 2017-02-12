@@ -1,0 +1,1 @@
+  Added test for creating debug and release variants  - Still need a way to effectively detect GCC debug info on Linux/OSX  

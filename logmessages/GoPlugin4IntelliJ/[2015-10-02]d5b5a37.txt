@@ -1,0 +1,1 @@
+  get rid of method expression, fix #1879  

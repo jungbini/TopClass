@@ -1,0 +1,1 @@
+ allow turning off websocket support in the metrics api controller  in case your reverse proxy does not support websockets and sockjs is not able to detect that it isn't, there's the option to turn it off via a system property:  -Dwebsockets.enabled=false  issues #673 fixes #1322 Graylog2/documentation#18  

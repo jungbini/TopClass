@@ -1,0 +1,1 @@
+  don't allow windows to be drawn off the top of the screen (bug #1508)  

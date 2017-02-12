@@ -1,0 +1,1 @@
+  KT-2752: add hash-based suffix to private members of open/abstract public classes  

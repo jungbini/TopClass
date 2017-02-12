@@ -1,0 +1,1 @@
+  repaint file tab icon after dumb mode fixed, evaluate icons in app pool instead of dedicated thread  

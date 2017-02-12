@@ -1,0 +1,1 @@
+  Bazel docs: fix a lot of issues, formatting and contentwise.  -- MOS_MIGRATED_REVID=89490160  

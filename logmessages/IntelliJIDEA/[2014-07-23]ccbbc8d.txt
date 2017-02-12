@@ -1,0 +1,1 @@
+  Inspections settings ui: NPE fixed (on pressing "OK" with unsaved changes)  

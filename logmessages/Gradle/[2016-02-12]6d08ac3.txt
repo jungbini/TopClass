@@ -1,0 +1,1 @@
+  Better fix for ComponentRenderer(Test)  Revert changes in ComponentRenderer.  If the component is no SourceComponentSpec, no source-sets section is rendered. If the component is a SourceComponentSpec with no sources, a source-sets section is rendered advertising "No source sets".  The same for VariantComponentSpec and binaries.  

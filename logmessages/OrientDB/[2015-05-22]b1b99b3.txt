@@ -1,0 +1,1 @@
+  fixed parsing issue on #2372 (regression with new parser)  

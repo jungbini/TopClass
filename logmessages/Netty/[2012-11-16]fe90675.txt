@@ -1,0 +1,1 @@
+  [#734] Make sure that ChannelFuture is also notified when write an unsupported message to the channel and also prevent a NPE which could be raised because of the bug before  

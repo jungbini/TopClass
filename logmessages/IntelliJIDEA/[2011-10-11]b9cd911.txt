@@ -1,0 +1,1 @@
+  Better fix for IDEA-75350 Git untracked files: fix copy case  VirtualFile is updated in case of move event. For copy we need only the new file (if old one was unversioned, it is already in GitUntrackedFilesHolder).  

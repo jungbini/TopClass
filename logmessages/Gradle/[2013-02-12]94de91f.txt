@@ -1,0 +1,1 @@
+  More reserved filesystem characters that cannot yet be used in publication identifiers (attempt to fix windows CI)  

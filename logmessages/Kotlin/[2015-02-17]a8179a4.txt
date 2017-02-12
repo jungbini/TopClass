@@ -1,0 +1,1 @@
+  KT-5146 "Remove explicit type arguments" should highlight type arguments as unused (not as warning)  #KT-5146 fixed  

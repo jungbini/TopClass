@@ -1,0 +1,1 @@
+  YARN-5213. Fix a bug in LogCLIHelpers which cause TestLogsCLI#testFetchApplictionLogs fails intermittently. Contributed by Xuan Gong.  

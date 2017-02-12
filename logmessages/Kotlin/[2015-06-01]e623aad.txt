@@ -1,0 +1,1 @@
+  Exception fix: more accurate parsing of class base type #EA-65509 Fixed  

@@ -1,0 +1,1 @@
+  React Native (android): fix first order dep of graph enhanced resource rule.  Summary: The resource rule gets the additional ABI hash from `reactNativeDeps`, so it needs to be listed as a first order dep.  Test Plan: CI  

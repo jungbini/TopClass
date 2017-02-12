@@ -1,0 +1,1 @@
+  plucky bug workaround. blacklists now working in streams and quickfilters again.  

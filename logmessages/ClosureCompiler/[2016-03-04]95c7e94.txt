@@ -1,0 +1,1 @@
+  Tweak the fix to infinitely recursing templated types once more: detect when template types resolve to the identical type to avoid interpreting valid cases as infinite recursion. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=116402079  

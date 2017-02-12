@@ -1,0 +1,1 @@
+  plugin manager: fix dialog dependencies (IDEA-75988)  

@@ -1,0 +1,1 @@
+  HADOOP-9135. JniBasedUnixGroupsMappingWithFallback should log at debug rather than info during fallback. Contributed by Colin Patrick McCabe.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1421013 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  fix for bug #737 (doubled geometry in 3D), and an indent/outdent comment/uncomment bug  

@@ -1,0 +1,1 @@
+  - quick fix: using route helper in table for gelf details  

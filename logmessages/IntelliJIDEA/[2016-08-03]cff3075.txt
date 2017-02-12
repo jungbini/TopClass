@@ -1,0 +1,1 @@
+  IG: improved quickfix for "Method does not call super method" when method returns value (IDEA-80319)  

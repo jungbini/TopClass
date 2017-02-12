@@ -1,0 +1,1 @@
+  - remove dependency codeInsight-test -> gwt - maven-gwt goes to gwt - fix community installer  

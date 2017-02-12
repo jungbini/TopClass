@@ -1,0 +1,1 @@
+  Drop package facades: fix incremental compilation tests & proto comparison tests (package facades are no longer generated)  

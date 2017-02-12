@@ -1,0 +1,1 @@
+  Inspections UI: removing nonexistence scope throws exception fixed  

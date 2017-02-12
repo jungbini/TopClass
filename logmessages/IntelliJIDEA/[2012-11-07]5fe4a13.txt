@@ -1,0 +1,1 @@
+  PerformanceWatcher: fix NPE in tests, don't dump if not watching.  

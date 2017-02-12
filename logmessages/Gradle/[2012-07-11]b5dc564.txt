@@ -1,0 +1,1 @@
+  fixed GRADLE-2372: No way to pass source files with extensions other than .groovy and .java to Groovy compiler  - thanks to a pull request from Vitalii Fedorenko  

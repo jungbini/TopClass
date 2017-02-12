@@ -1,0 +1,1 @@
+  fixed wrong condition in DocTestUtil. DocParser moved to Util as a function.  

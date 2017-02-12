@@ -1,0 +1,1 @@
+  Mercurial via 'bash -c': fixed custom escaping in ShellCommand.  

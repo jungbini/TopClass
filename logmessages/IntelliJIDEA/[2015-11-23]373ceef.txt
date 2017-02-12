@@ -1,0 +1,1 @@
+  WEB-19193 JSCS: Import Code Styles: new scheme is not created and not added to the schemes list correct refresh after schema creation (the bug was there) also fix the case when nothing was selected in a table in manage schemas dialog  

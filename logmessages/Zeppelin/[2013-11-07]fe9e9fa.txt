@@ -1,0 +1,1 @@
+  ZEPPELIN-37 Dependency convergence error fix for derby (hive 0.9 brings an old one)  

@@ -1,0 +1,1 @@
+  java: improved resolve of inner classes by JVM internal name  Fixes navigation to inner classes with a dollar sign in a name from test console and debugger.  

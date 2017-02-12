@@ -1,0 +1,1 @@
+  Validate PApplet AWT Container after add of OpenGL canvas.  This fix a long startup delay before OpenGL init that may happen if the OpenGL canvas stay non-visible.  Signed-off-by: Xerxes Rnby <xerxes@zafena.se>  

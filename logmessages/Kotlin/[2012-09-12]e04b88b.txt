@@ -1,0 +1,1 @@
+  fix endsWith, add isEmpty  (cherry-picked from 6cf1761)  

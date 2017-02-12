@@ -1,0 +1,1 @@
++ manual rollback of []  *** Reason for rollback ***  Depot has been fixed / is in the process of being fixed. See the work tracked on []  *** Original change description ***  Automated [] rollback of commit bb5d5efb4b50710241b5b374eb67084f4bf08278.  -- MOS_MIGRATED_REVID=131095905  

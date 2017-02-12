@@ -1,0 +1,1 @@
+  apply fix for CASSANDRA-4834 to the 1.2 branch.  See also CASSANDRA-5504  

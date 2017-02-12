@@ -1,0 +1,1 @@
+  More fix for #338 https://github.com/Atmosphere/atmosphere/issues/338  

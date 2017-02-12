@@ -1,0 +1,1 @@
+  Removed toggle that suppresses the 'starting daemon' message. Instead, changed the test fixtures to treat this as a build environment message.  

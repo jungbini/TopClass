@@ -1,0 +1,1 @@
+ bug fix. convert code from datejs to moment.js  

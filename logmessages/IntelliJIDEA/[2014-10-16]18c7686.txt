@@ -1,0 +1,1 @@
+  WI-24747 Performance fix: update injected foldings in a single batch operation [CR-IC-6579]  

@@ -1,0 +1,1 @@
+  fixing code I broke during my previous rdoc work. sigh.  

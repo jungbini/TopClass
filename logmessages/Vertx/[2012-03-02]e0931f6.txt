@@ -1,0 +1,1 @@
+  fixed https://github.com/purplefox/vert.x/issues/38  

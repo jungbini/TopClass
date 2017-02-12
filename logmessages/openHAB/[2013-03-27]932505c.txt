@@ -1,0 +1,1 @@
+  fix for SchedulerException 'Jobs added with no trigger must be durable'  

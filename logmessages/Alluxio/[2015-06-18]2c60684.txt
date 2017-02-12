@@ -1,0 +1,1 @@
+  Fix a bug that increasing temp block size by RequestSpace doesn't trigger availableBytes change  

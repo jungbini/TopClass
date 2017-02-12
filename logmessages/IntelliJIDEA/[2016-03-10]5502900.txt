@@ -1,0 +1,1 @@
+  XDebugger: Merge 'Watches' and 'Variables' views  

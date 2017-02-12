@@ -1,0 +1,1 @@
+  fixed schema snapshot creation in not save operation.  

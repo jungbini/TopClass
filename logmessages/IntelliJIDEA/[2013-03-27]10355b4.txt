@@ -1,0 +1,1 @@
+  Fixed hanging of the debugger (PY-9291).  

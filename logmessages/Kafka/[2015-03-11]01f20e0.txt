@@ -1,0 +1,1 @@
+  KAFKA-1910 Follow-up again; fix ListOffsetResponse handling for the expected error codes  

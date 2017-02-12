@@ -1,0 +1,1 @@
+  Implemented a lazy factor and fixes to table factor  

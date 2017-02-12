@@ -1,0 +1,1 @@
+  [BUG] Add further test coverage to setting attributes with a namespace prefix  

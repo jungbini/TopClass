@@ -1,0 +1,1 @@
+  bring back static versions of openStream/loadStrings/etc, fix noLoop() bugs and some other frame & threading stuff  

@@ -1,0 +1,1 @@
+  KAFKA-145 Kafka server mirror shutdown bug; patched by nehanarkhede; reviewed by junrao  git-svn-id: https://svn.apache.org/repos/asf/incubator/kafka/trunk@1179466 13f79535-47bb-0310-9956-ffa450edef68  

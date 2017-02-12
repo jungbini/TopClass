@@ -1,0 +1,1 @@
+  IDEA-87943 Wrong default selection in code completion popup when variable name has an underscore prefix  

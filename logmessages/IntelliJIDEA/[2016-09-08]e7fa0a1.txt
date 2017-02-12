@@ -1,0 +1,1 @@
+  lst: fix colors preview in distraction free mode  

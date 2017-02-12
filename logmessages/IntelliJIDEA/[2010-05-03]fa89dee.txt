@@ -1,0 +1,1 @@
+  fixed reporting usages of a hierarchical java method as 'non-code'  

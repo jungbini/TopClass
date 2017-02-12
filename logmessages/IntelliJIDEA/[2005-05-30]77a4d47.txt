@@ -1,0 +1,1 @@
+  fixed bug with CF subrange of large (invalid) CF  

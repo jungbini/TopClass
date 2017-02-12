@@ -1,0 +1,1 @@
+  Implemented coref based pronoun gender correction (fr). Also fixed encoding buf in Lefff lexicon.  

@@ -1,0 +1,1 @@
+  Tolerate resources with spaces in their names.  Summary: Apparently Node has some of these.  Test Plan: Update ShBinaryRuleIntegrationTest so it has a resource with spaces in its name. Verify that the test fails without this 

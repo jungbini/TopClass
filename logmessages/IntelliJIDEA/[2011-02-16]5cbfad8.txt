@@ -1,0 +1,1 @@
+  fix 'unhashable instance' exception in generator  

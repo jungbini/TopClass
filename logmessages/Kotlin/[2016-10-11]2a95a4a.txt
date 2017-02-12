@@ -1,0 +1,1 @@
+  Test for KT-7332, already fixed  

@@ -1,0 +1,1 @@
+  Platform: Local History can survive for more than 30 days now (int overflow fixed)  

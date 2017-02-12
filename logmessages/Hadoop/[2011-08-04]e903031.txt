@@ -1,0 +1,1 @@
+  MAPREDUCE-2776. Fix some of the yarn findbug warnings. (siddharth seth via mahadev)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/MR-279@1153756 13f79535-47bb-0310-9956-ffa450edef68  

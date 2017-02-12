@@ -1,0 +1,1 @@
+  fix AIOOB while editing colors  

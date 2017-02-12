@@ -1,0 +1,1 @@
+  fix(server:cqrs): don't snapshot if another snapshotting in progress  

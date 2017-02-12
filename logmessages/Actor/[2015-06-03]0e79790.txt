@@ -1,0 +1,1 @@
+  android(fix) TextHolder URLSpan for ".email"  

@@ -1,0 +1,1 @@
+  fix warning text when no fix was found in batch mode (IDEA-153451)  

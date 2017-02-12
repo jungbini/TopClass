@@ -1,0 +1,1 @@
+  fix NPE  SomeRef.type is nullable java to kotlin  

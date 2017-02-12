@@ -1,0 +1,1 @@
+  Minor spelling/grammar fixes for S bindings - cherry-picked from #4200  Signed-off-by: Thomas Eichstdt-Engelen <thomas@openhab.org>  

@@ -1,0 +1,1 @@
+  fixed PY-10420 False positive in redundant parentheses inspection with yield  

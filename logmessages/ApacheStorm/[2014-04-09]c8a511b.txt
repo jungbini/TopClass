@@ -1,0 +1,1 @@
+ Merge branch 'fix-storm-shlex' of https://github.com/yerenkow/incubator-storm STORM-196: When JVM_OPTS are set, storm jar fails to detect storm.jar from environment  commit c8a511bd0d753bbb48a80a815998e8f7000c77a4  fix issue with DelimitedRecordFormat  

@@ -1,0 +1,1 @@
+  fix package name.  patch by Per Mellqvist for #42  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@761100 13f79535-47bb-0310-9956-ffa450edef68  

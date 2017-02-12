@@ -1,0 +1,1 @@
+  GitRebaseDialog: fix tracked branch selection  If the tracked branch was written in the short format, null was returned. Just use this value, otherwise strip refs/heads prefix.  

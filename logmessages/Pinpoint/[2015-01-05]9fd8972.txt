@@ -1,0 +1,1 @@
+ #69 bug fix. Inefficient exception is created when DelegateEnumeration.hasMoreElements() is called  

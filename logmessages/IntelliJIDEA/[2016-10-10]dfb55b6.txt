@@ -1,0 +1,1 @@
+  [git] fix external git log window size  Specify dimension service key IDEA-159852.  

@@ -1,0 +1,1 @@
+  remove double thread crap (make mac happy), fix full screen for mrj, auto-updater code  

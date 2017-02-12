@@ -1,0 +1,1 @@
+ni and spaces 8eeb1bf [astroshim] update version of shiro config module. 5a2b268 [astroshim] add shiro ini to SecurityManager. 13a6139 [astroshim] add shiro-config-core 6c99111 [root] add initSecurityManager method.  

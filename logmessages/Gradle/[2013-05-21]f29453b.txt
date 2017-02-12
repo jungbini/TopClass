@@ -1,0 +1,1 @@
+  Use the TestExecutionFailure fixture to look for certain build error messages, rather than scraping the output.  

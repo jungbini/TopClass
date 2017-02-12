@@ -1,0 +1,1 @@
+  small fix of the preferred wal segment size calculation inefficiency  

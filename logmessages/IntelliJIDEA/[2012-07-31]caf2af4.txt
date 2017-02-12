@@ -1,0 +1,1 @@
+  fixed PY-6997 Not able to paste some multi-line text into string  

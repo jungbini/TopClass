@@ -1,0 +1,1 @@
+  Moved some stuff up from BasicResolver to ExternalResourceResolver and added some int test coverage (and a fix).  

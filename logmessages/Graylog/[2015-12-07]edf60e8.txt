@@ -1,0 +1,1 @@
+  fix Grok pattern integration tests (missing content_pack attribute)  

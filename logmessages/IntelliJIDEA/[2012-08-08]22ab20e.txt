@@ -1,0 +1,1 @@
+ Make inspection work for Slf4j and fix IDEA-89836 (Inspection "Logging condition does not match log statement" is confused by "if else")  

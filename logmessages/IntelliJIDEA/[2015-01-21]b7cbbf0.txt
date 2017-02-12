@@ -1,0 +1,1 @@
+  Fix memory leak on debugger session ended without being paused  

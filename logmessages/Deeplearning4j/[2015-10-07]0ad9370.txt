@@ -1,0 +1,1 @@
+  Fixed eval to take in a label list and use it to provide more clarity on classificaiton results. Also fixed loop to generate confusion matrix classes if the number is not explcitly passed in. Added tests  

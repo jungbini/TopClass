@@ -1,0 +1,1 @@
+  GRADLE-2504 - switched on integ test, as this was fixed as part of the ExternalResourceResolver clean-ups.  

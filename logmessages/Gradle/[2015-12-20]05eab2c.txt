@@ -1,0 +1,1 @@
+  Collect problems with constructors of `@Managed` type, rather than failing on first problem.  Also fixed traversal of type hierarchy of a `@Managed` type so that super-types are visited once rather than potentially many times.  +review REVIEW-5756  

@@ -1,0 +1,1 @@
+  Consolidate wording in context menu for server and radio nodes, fixes #886  

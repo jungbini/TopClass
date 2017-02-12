@@ -1,0 +1,1 @@
+  variables with same name as struct fields are masked by struct fields, fix #1531  

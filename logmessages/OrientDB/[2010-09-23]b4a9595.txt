@@ -1,0 +1,1 @@
+  Issue 122 about javac bug that caused a compilation problems http://code.google.com/p/orient/issues/detail?id=122  

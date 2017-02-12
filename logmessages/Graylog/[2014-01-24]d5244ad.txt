@@ -1,0 +1,1 @@
+  prevent absolute timerange search when 'to' is earlier than 'from'  fixes #557  

@@ -1,0 +1,1 @@
+  EA-32969 - assert: EditorUtil.getLastVisualLineColumnNumber  Debug info is added. Suspecting incorrect Editor implementation  

@@ -1,0 +1,1 @@
+  Bazel docs: document cc_library.hdrs_check and fix a broken BE link.  -- MOS_MIGRATED_REVID=89433520  

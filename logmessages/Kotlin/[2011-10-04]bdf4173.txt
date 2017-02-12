@@ -1,0 +1,1 @@
+  Added error 'public member should specify type' and quick fix  

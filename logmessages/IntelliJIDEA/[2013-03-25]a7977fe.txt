@@ -1,0 +1,1 @@
+  fix "Replace Operator Assignment with Assignment" in the presence of polyadic expressions  

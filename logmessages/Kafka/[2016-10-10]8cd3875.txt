@@ -1,0 +1,1 @@
+  MINOR: Fixed incomplete sentence in introduction docs  Author: Jakub Dziworski <jakub.dziworski@gmail.com>  Reviewers: Guozhang Wang <wangguoz@gmail.com>, Jason Gustafson <jason@confluent.io>  Closes #1994 from JakubDziworski/doc_fix  

@@ -1,0 +1,1 @@
+  fixed EDU-200 Course creation dialog - text goes beyond the window  

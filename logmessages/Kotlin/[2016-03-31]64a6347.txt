@@ -1,0 +1,1 @@
+  KT-11701 Add Maven Dependency quick fix could be supported in Kotlin sources ~ initial draft  

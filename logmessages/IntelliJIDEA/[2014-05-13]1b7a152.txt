@@ -1,0 +1,1 @@
+  java-xdebugger: correct context for watches evaluation  

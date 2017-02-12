@@ -1,0 +1,1 @@
+  fix method hierarchy with default methods: mark method to implement if it abstract and overrides default method (IDEA-101167)  

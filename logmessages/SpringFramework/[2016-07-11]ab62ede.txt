@@ -1,0 +1,1 @@
+ actually always invoke it rather than returning null.  Issue: SPR-14445  

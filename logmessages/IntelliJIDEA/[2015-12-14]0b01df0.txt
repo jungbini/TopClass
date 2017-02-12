@@ -1,0 +1,1 @@
+  A test for verifying that we can find jdk 6 on Mac if it is installed. A fix for linux is partly reverted.  

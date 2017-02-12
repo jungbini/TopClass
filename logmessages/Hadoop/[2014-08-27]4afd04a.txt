@@ -1,0 +1,1 @@
+  fix extra line added to CHANGES.txt in HDFS-6902 cherry-pick  

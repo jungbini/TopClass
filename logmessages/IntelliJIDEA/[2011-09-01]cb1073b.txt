@@ -1,0 +1,1 @@
+  Bug fix: Domain Class: Method 'D.findAll(D example)' should has parameter D instead of Object.  

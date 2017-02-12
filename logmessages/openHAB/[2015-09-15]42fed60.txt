@@ -1,0 +1,1 @@
+ Merge pull request #3169 from kaikreuzer/rrd4j-fix  fixes #3168  commit 42fed602b981766d28a99c83e6c95503c0e1cf08  fixes #3168  Signed-off-by: Kai Kreuzer <kai@openhab.org>  

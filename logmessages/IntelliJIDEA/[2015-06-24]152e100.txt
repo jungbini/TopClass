@@ -1,0 +1,1 @@
+  IDEA-141772 Debugger: Smart Step Into inside lambda suggests method calls outside of this lambda  

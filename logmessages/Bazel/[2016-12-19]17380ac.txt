@@ -1,0 +1,1 @@
+  Fix bug introduced when pulling out test sources into their own library for linking.  This can lead to conflicts if done for non-test binary targets.  -- PiperOrigin-RevId: 142441056 MOS_MIGRATED_REVID=142441056  

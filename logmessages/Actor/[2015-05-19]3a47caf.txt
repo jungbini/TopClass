@@ -1,0 +1,1 @@
+  fix(web): include actor-model after all scripts to let jsAppLoaded hook to be created  

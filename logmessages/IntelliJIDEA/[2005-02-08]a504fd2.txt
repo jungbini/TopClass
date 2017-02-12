@@ -1,0 +1,1 @@
+  Duplicated module groups in commander panel fixed  

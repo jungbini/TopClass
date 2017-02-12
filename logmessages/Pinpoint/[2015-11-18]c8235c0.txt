@@ -1,0 +1,1 @@
+  fix find bug - remove unused local variable - synchronization warning JLM_JSR166_UTILCONCURRENT_MONITORENTER - fix NPE  

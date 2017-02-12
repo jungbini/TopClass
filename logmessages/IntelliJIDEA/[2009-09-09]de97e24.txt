@@ -1,0 +1,1 @@
+  revert LibraryTableBase changes to fix tests, will investigate l8r  

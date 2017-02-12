@@ -1,0 +1,1 @@
+ fix cassandra.thrift.frame_size_mb option to accept numberic values from configuration  

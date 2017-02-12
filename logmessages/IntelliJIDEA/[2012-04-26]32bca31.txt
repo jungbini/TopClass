@@ -1,0 +1,1 @@
+  fix SOE in new-style resolve (PY-6305) (oh god the contract of findExportedName() is so confusing)  

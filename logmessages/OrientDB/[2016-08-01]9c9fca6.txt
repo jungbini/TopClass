@@ -1,0 +1,1 @@
+  fixed bug on token authentication in case of disabled token, issue #6478  

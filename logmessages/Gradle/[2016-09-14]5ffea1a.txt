@@ -1,0 +1,1 @@
+  Fixes for unixStartScript: escape app name (may contain spaces), fixed env var name $JAVA_OPTS, updated test to provide 'sh' instead of 'bash'  +review REVIEW-6235  

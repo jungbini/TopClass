@@ -1,0 +1,1 @@
+  Virtual pointers rewritten, numerous memory leaks fixed  

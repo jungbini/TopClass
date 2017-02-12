@@ -1,0 +1,1 @@
+  inspection toolwindow: sort quick fixes & show quick fixes in combo if count > 3  

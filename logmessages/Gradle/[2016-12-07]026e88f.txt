@@ -1,0 +1,1 @@
+  Fix bug in `DefaultDomainObjectSet`  Set semantics were not always preserved, because of a missing `iterator` overload.  

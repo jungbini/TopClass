@@ -1,0 +1,1 @@
+  Debugger: do not stop on exceptions thrown inside pydev-debugger with on raise setting set (PY-15502)  Ignore some inner exceptions while importing in Python 3 and with import hooks.  

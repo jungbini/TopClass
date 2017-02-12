@@ -1,0 +1,1 @@
+  WEB-11678 JavaScript debug: step into and step over do not change the line  

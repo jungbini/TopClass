@@ -1,0 +1,1 @@
+  MismatchedCollectionQueryUpdateInspection -- added "compute" prefix (from j.u.Map in JDK8)  

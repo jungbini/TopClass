@@ -1,0 +1,1 @@
+  fixed bug in constraint system  For parameter type T constraint T? <: Int? should NOT transform to T <: Int, it should be T <: Int? equality constraint T? = Int? should transform to T <: Int? && T >: Int  

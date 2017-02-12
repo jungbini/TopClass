@@ -1,0 +1,1 @@
+  Remove old Maven pom variables from rexster cfg  When I copied titan-rexster's XML config file from titan-dist, I should have fixed or deleted these Maven variable references.  Deleted for now.  

@@ -1,0 +1,1 @@
+  KT-949 AssertionFailure in quick fix  

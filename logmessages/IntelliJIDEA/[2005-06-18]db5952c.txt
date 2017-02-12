@@ -1,0 +1,1 @@
+  fixed issue with enumerated values calculation in schema when simpleType was in attribute declaration  

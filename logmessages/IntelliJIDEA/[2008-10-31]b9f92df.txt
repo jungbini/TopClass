@@ -1,0 +1,1 @@
+  extract method object: parameter's references in initializer fixed  

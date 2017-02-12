@@ -1,0 +1,1 @@
+  ProjectRootUtil.findSymlinkedFileInContent handles situation when s link to a file outside of the project root it passed.  context: CPP-7052 General support for project opened from symlinked directories, including remote debug and path mappings  

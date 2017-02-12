@@ -1,0 +1,1 @@
+om>  Reviewers: Ismael Juma <ismael@juma.me.uk>, Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1107 from gwenshap/fix-doc-version  (cherry picked from commit 69df734470f1db9ba1732cb4bedaa1541d721103) Signed-off-by: Ewen Cheslack-Postava <me@ewencp.org>  

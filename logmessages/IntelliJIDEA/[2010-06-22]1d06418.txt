@@ -1,0 +1,1 @@
+  git4idea: IDEA-55741: fixed master password provider for OSX and Linux  

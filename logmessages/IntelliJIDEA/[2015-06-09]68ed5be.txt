@@ -1,0 +1,1 @@
+  tests ui: ensure progress with fixed size  

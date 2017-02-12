@@ -1,0 +1,1 @@
+  fixed processing inspection results for injected code in tests  

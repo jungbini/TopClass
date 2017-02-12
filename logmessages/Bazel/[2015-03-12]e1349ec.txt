@@ -1,0 +1,1 @@
+ cpu detection was too late and and some corner case was not really working with configurable attributes. It is now done as the default value for the --host_cpu flag.  -- MOS_MIGRATED_REVID=88427551  

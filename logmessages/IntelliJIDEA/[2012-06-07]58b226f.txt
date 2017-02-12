@@ -1,0 +1,1 @@
+  fix macro table when directory path has slash at the end  

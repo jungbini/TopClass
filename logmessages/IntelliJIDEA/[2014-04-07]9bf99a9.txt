@@ -1,0 +1,1 @@
+  fixed PY-12448 Create Virtualenv: NASE at com.jetbrains.python.sdk.CreateVirtualEnvDialog$4.actionPerformed  

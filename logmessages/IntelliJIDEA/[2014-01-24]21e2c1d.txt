@@ -1,0 +1,1 @@
+  fixed PY-11484 Implement abstract method: pushes docstring out of the way  

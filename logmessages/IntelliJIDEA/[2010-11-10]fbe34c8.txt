@@ -1,0 +1,1 @@
+  EA-19172 - AE: StringUtil.repeatSymbol fix  

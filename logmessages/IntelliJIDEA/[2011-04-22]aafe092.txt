@@ -1,0 +1,1 @@
+  1. subdirectory to inspect may be passed using relative path 2. fixed use case when "." dir is used as default project directory 3. code refactored  

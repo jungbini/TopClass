@@ -1,0 +1,1 @@
+  injected editor doesn't like backward selection #RUBY-13971 fixed  

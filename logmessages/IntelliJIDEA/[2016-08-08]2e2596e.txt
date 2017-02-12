@@ -1,0 +1,1 @@
+  Changes tooltip for disabled button for solved tasks and fix condition to show it  

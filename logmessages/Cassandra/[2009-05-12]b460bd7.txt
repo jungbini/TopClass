@@ -1,0 +1,1 @@
+  test to more reliably reproduce CME during range.  fix by locking out compact during range query. patch by jbellis; reviewed by Eric Evans for CASSANDRA-161  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@774024 13f79535-47bb-0310-9956-ffa450edef68  

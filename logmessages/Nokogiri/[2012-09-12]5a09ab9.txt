@@ -1,0 +1,1 @@
+  Fix a segfault when replacing an unparented node.  The libxml2 function xmlReplaceNode will return NULL when the node to be replaced has no parent.  Nokogiri now anticipates this and returns an exception instead of segfaulting.  This fixes issue #759, which includes a good script to reproduce and which was reported by etm.  

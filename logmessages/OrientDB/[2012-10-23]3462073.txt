@@ -1,0 +1,1 @@
+  Minor: fixed a NPE on hook in case of deletion of not existent record  

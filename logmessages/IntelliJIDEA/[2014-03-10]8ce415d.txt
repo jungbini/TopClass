@@ -1,0 +1,1 @@
+  [log] Fix tests. (fix wrong line separators)  

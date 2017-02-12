@@ -1,0 +1,1 @@
+  fix(server:notify): log notify config on singleton start  

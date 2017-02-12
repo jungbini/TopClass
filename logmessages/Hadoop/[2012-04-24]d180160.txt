@@ -1,0 +1,1 @@
+  HDFS-119. Fix a bug in logSync(), which causes NameNode block forever. Konstantin Shvachko, via suresh.  Merge to 1.0.3.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.0@1330029 13f79535-47bb-0310-9956-ffa450edef68  

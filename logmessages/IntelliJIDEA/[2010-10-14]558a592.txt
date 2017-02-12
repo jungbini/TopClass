@@ -1,0 +1,1 @@
+  fixed resolve of django paramters in case of locals()  

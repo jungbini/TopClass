@@ -1,0 +1,1 @@
+  NavBar -- border fix and repaint speedup  

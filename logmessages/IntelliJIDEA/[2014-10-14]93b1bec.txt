@@ -1,0 +1,1 @@
+  IDEA-104568 Text editing/navigation: Handle escaped characters in word boundary detection  fixed a bug, added more tests  

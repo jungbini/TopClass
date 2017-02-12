@@ -1,0 +1,1 @@
+  Properly test for empty static row  UnfilteredRowIterators.noRowsIterator() was testing the staticRow against null to avoid allocating an empty Columns object, but we never use null for empty static rows, we use Rows.EMPTY_STATIC_ROW so the branch was never taken. This is a trivial fix to avoid that allocation.  

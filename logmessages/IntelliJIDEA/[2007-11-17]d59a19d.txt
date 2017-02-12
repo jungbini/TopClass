@@ -1,0 +1,1 @@
+  FileTemplateTest fix (or rather default project fix).  

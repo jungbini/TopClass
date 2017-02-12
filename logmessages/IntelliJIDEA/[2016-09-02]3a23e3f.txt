@@ -1,0 +1,1 @@
+  [updater] fixes FS case-sensitivity detection  

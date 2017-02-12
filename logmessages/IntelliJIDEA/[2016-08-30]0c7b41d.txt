@@ -1,0 +1,1 @@
+  IDEA-160387 LanguageResolvingUtil#collectProjectLanguages is slow - cache LanguageDefinition on language's PsiClass - fix misuse of GSS in CV calc  

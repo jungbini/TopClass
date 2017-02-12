@@ -1,0 +1,1 @@
+  inspection tool window: align bottom indent when has no fixes  

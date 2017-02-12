@@ -1,0 +1,1 @@
+  temporary reverting fix for  IDEA-136763 Need to provide at least one implementation for the ext point to avoid IAE  

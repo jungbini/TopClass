@@ -1,0 +1,1 @@
+  [SMALLFIX] Small fixes in several classes  - Fixed link in documentation in FileSystemWorker - Collapsed multiple catch statements into one in FileWorkerMasterSyncExecutor - Simplified assert statements in IdUtilsTest - Removed not needed variable in IndexedSetTest - Used <> generic in InodeDirectory  

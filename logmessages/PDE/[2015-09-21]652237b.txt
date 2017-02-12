@@ -1,0 +1,1 @@
+  fix the bold in the welcome window to not use fake bold  

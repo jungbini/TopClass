@@ -1,0 +1,1 @@
+ Merge branch 'master' into fix-query-docs  commit adb4fec264e5fd0d4b0dbfef5d2d83a613ec9a98  properly serialize task timestamps, fixes #819  

@@ -1,0 +1,1 @@
+  HADOOP-6196. Fix a bug in SequenceFile.Reader where syncing within the header would cause the reader to read the sync marker as a record. Contributed by Jay Booth   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@813698 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  java postfix templates: add braces for while loop IDEA-153730  

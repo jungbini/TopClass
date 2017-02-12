@@ -1,0 +1,1 @@
+ add MarkupModelListener.Adapter  js repl: fix assertion on "Clear All"  

@@ -1,0 +1,1 @@
+  Refactored some test cases and fixed the BerkeleyJE removal issue due to missing shutDown call.  

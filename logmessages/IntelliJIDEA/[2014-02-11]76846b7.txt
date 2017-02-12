@@ -1,0 +1,1 @@
+  debug logging for IDEA-120339 Type Hierarchy works only when the cursor is over a class name  

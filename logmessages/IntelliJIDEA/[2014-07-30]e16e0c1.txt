@@ -1,0 +1,1 @@
+  3 part of fix "IDEA-127645 Open in browser not working"  correct update alternative browser path if "first selected"  ignore inactive or invalid (empty path) browsers  

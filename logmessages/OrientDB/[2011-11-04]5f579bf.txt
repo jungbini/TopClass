@@ -1,0 +1,1 @@
+  Cluster: fixed issue with the broadcasting of distributed configuration  

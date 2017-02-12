@@ -1,0 +1,1 @@
+  "Create taglib declaration" quickfix popup shown for EL function does not get focus (IDEADEV-23656)  

@@ -1,0 +1,1 @@
+ Merge pull request #98 from Justbe/master  fix for dist build error  commit a90122f4b9aa1907d81e8f4751052f6086168c64  fix for dist build  

@@ -1,0 +1,1 @@
+  fix new project dialog module description text overlapping on Mac [reviewed by peter]  

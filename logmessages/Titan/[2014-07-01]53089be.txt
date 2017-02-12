@@ -1,0 +1,1 @@
+  Add failing tests for two ES mutate bugs  These tests exercise the two buggy logic branches identified in Elastisearch's mutate implementation by #670 and #671  

@@ -1,0 +1,1 @@
+  Java8CollectionsApiInspection & Java8ReplaceMapGetInspection merged into Java8MapApiInspection; support method references in computeIfAbsent fix for IDEA-163932 Map.get suggested replacement with Map.getOrDefault is misleading  

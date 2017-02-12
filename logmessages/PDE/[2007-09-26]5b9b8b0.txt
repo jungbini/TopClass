@@ -1,0 +1,1 @@
+  more space for prefs dialog on linux, also fix ctrl-, problem  

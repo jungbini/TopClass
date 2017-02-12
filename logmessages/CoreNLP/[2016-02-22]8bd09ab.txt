@@ -1,0 +1,1 @@
+  Fix misc bugs with EL in demo  

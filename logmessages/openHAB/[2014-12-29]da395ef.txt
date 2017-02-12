@@ -1,0 +1,1 @@
+ MAX! Binding improved discovery of the Cube  fix for error on first message when no config is provided.  Signed-off-by: Marcel Verpaalen <marcel@verpaalen.com>  

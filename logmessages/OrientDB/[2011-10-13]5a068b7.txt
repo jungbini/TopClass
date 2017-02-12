@@ -1,0 +1,1 @@
+  Gremlin: fixed bug on parameters replacement from command and function  

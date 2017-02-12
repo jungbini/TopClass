@@ -1,0 +1,1 @@
+  minor fix on blob query tests  

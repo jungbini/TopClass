@@ -1,0 +1,1 @@
+ w2v iterator/tokenizer init on restored model fix  

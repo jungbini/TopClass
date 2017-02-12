@@ -1,0 +1,1 @@
+  [resolve] simplify processing for indexing expressions, fix #2423  unwrap pointers only for type aliases, process types with underlying type as well https://golang.org/ref/spec#Index_expressions  

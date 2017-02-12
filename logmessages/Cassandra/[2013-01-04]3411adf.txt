@@ -1,0 +1,1 @@
+  cqlsh: fix DESCRIBE for 1.1 cfs in CQL3  patch by Aleksey Yeschenko; reviewed by Brandon Williams for CASSANDRA-5101  

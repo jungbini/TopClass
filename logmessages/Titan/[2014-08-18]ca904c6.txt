@@ -1,0 +1,1 @@
+ filesystem.xml assembly activated by default, so no (reporoot)/bin, lib, conf, ... directories would be created by default.  We've been building these directories by default for a while, so that behavior has been restored.  

@@ -1,0 +1,1 @@
+  java functional expressions: fix for rendering in case of {ellipsis, primitive, array} type  

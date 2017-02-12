@@ -1,0 +1,1 @@
+  fix(server:shardakka): don't persist event if value is already deleted  

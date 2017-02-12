@@ -1,0 +1,1 @@
+  QuickstartCommand: Fix a minor typo in docs  Closes https://github.com/facebook/buck/pull/323  Test Plan: Generate javadoc and check that the typo is fixed.  

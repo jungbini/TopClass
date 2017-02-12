@@ -1,0 +1,1 @@
+  fix old regression in pull up / extract superclass (IDEADEV-19704); add tests for extract superclass  

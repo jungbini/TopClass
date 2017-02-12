@@ -1,0 +1,1 @@
+  fixed PY-14311 IPython Notebook: Statement expected false positive for magic functions entered in just created cells  

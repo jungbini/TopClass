@@ -1,0 +1,1 @@
+  Make ObjectType implement StaticScope. This is part of a long-term plan to write a general symbol table with a unified API across many 

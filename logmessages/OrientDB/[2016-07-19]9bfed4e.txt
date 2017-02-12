@@ -1,0 +1,1 @@
+  fixup document database loading when classname isn't declared on loader  refs https://github.com/orientechnologies/orientdb/issues/6419  

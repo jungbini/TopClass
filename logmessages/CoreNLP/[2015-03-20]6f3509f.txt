@@ -1,0 +1,1 @@
+  fix exception in SemanticGraph#makeSoftCopy if there is no root.  

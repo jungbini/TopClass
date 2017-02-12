@@ -1,0 +1,1 @@
+  IDEA-160474 File Templates: 'Enable Live Templates' checkbox is cleared on restart: fix test  

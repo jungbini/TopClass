@@ -1,0 +1,1 @@
+  Moving REST client classes to separate module  Removing classes, replacing with SBT dependency Changing package prefix of REST client classes  

@@ -1,0 +1,1 @@
+  In case of several metaclasses find the most derived one according to the language spec (PY-17841)  This bug leaded to a regression in `typing.List[]` since we had not resolved qualified references in stub modules and had not known about the first metaclass of `List` that was `ABCMeta`, not the most derived `GenericMeta`.  

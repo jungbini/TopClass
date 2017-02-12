@@ -1,0 +1,1 @@
+  bug in clone() fixed test fix  

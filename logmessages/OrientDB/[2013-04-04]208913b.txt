@@ -1,0 +1,1 @@
+  Fixed bug reported by Pawel in ML in CONTENT that must be in append mode  CREATE EDGE Romance Romance FROM #10:2 TO #10:3 CONTENT { "FirstMentioned":-62135596800000 }  

@@ -1,0 +1,1 @@
+  Correct comments of BlockInStream and EmptyBlockInStream: fix typo and wrong grammar  

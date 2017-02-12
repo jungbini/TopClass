@@ -1,0 +1,1 @@
+  IDEA-67621 rollback to old ddmlib; fix incorrect encoding provided by it  

@@ -1,0 +1,1 @@
+  Add check for inspection quick fixes. Add test cases for function invocation with multiple results.  

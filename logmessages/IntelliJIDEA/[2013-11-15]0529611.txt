@@ -1,0 +1,1 @@
+  Gradle: fix issue with Gradle Tooling API classpath inferer  

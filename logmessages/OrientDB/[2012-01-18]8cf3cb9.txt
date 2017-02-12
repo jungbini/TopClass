@@ -1,0 +1,1 @@
+  Fixed bug in storage configuration reported by Anton on create+drop cluster  

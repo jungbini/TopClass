@@ -1,0 +1,1 @@
+  Tests and fixes for the introduction of the RepositoryFactory.  Spockified the tests in the process.  

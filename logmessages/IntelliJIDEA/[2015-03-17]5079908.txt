@@ -1,0 +1,1 @@
+  use one pixel separators for debugger tabs  

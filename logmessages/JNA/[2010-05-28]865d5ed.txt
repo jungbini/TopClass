@@ -1,0 +1,1 @@
+  Updated copyright notices so that Tim doesn't go to jail for my bugs (also makes my company legal happy).  git-svn-id: https://svn.java.net/svn/jna~svn/trunk@1092 2f8a963e-d2e4-e7d0-97bf-ccb7fcea9d80  

@@ -1,0 +1,1 @@
+  Proper fix for #273 [atmosphere.js] Firefox Bug: getAllResponseHeaders() returns empty String  

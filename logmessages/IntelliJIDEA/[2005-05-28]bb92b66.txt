@@ -1,0 +1,1 @@
+  fixed issue with greater action when the xml tag has attribute with value  

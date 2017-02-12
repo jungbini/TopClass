@@ -1,0 +1,1 @@
+  [git] Better fix for IDEA-97728: let getBranches return null  getBranches returns null when the information is not available => the meaning is 

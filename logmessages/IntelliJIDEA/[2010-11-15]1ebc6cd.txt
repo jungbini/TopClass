@@ -1,0 +1,1 @@
+  facet types registered via extensions & IDEA-61232 fixed  

@@ -1,0 +1,1 @@
+  IDEA-127730 fix repaint of stripe marker  

@@ -1,0 +1,1 @@
+  Fixed bug on creation of proxied class as persistent  

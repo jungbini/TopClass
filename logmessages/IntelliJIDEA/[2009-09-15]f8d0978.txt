@@ -1,0 +1,1 @@
+  Pin tab action now available in Tool Window toolbar for run, debug, find usages and hierarchy toolwindows  

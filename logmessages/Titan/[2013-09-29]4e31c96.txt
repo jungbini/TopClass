@@ -1,0 +1,1 @@
+  Install standalone dir earlier in maven lifecycle  This now binds to the package phase instead of the install phase  fixes #371  

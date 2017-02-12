@@ -1,0 +1,1 @@
+  Testing for AndroidDirectoryResolver #1  Summary: * Introduction of new tests that check the new code. * Found and fixed a case where the SDK path points to a non-directory file and it should throw the appropriate message.  Test Plan: CI  Reviewed By: Coneko  fbshipit-source-id: 2016a15  

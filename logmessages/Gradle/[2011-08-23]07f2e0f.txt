@@ -1,0 +1,1 @@
+  More tests for artifact resolution with classifiers - exposes a bug in resolution with non-standard packaging  

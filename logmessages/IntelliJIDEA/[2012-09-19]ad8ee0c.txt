@@ -1,0 +1,1 @@
+  IDEA-72903 Debugger tooltips and Intention tooltips hide each other  

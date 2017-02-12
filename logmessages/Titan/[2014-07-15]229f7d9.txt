@@ -1,0 +1,1 @@
+ase-parent following the TTL merge.  It's mostly a response to https://issues.apache.org/jira/browse/HBASE-10312.  On 0.94 and 0.98, this was as simple as updating the HBase version, but 0.96 does not have a fixed release yet, so this commit changes the tests to restart HBase between each test class under 0.96.  

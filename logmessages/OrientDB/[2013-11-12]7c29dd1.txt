@@ -1,0 +1,1 @@
+  1. Issue #1813 was fixed. 2. Warning during WAL removal was fixed.  

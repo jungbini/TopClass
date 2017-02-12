@@ -1,0 +1,1 @@
+  register PhpDuplicatesProfile, fix updating progress bar  

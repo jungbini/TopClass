@@ -1,0 +1,1 @@
+  bug fixed for HashSet asm deserialize error, fixed issue 383. https://github.com/alibaba/fastjson/issues/383  

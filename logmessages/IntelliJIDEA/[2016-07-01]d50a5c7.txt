@@ -1,0 +1,1 @@
+  Java intention: Quick fix for error "foreach not applicable to type java.util.Iterator" (IDEA-124751)  

@@ -1,0 +1,1 @@
+  fix(ios): Fixing crash on application icon crash  

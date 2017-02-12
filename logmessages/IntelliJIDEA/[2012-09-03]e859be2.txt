@@ -1,0 +1,1 @@
+  IDEA-90860 Reformat Code breaks Copyright/Header  Py documentation provider behavior is corrected according to the fixed formatting processing  

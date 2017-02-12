@@ -1,0 +1,1 @@
+  HADOOP-4744. Attaching another fix to the jetty port issue. The TaskTracker kills itself if it ever discovers that the port to which jetty is actuallybound is invalid (-1). Contributed by Devaraj Das.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk@772844 13f79535-47bb-0310-9956-ffa450edef68  

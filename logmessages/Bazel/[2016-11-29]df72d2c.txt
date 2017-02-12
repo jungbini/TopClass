@@ -1,0 +1,1 @@
+  Let the sandbox ignore ESTALE errors on remounting file systems.  These may happen when a broken NFS mount is present on the user system. Ideally, that mount should just be fixed or removed, but where this is not possible, it's probably safe to ignore it.  -- MOS_MIGRATED_REVID=140476478  

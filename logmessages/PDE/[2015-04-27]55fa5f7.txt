@@ -1,0 +1,1 @@
+ change "method" to "function" in a few error messages (fixes #3225)  

@@ -1,0 +1,1 @@
+  Unregister shutdown hook on graph closure  fixes #626  

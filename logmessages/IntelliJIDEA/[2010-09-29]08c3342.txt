@@ -1,0 +1,1 @@
+  ui fixes in framework library configuration dialog  

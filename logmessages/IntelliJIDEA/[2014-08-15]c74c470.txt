@@ -1,0 +1,1 @@
+  preserve mute breakpoints state between debug sessions  

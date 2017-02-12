@@ -1,0 +1,1 @@
+  fix exception catching logic of moving segments  

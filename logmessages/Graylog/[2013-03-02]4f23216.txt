@@ -1,0 +1,1 @@
+  thread safety fix for buildElasticSearchTimeFormat  from #6  

@@ -1,0 +1,1 @@
+ Merge pull request #701 from deeplearning4j/renderfix  Fix histogram listener to produce valid CSS identifier  commit a4216d974589920310b8c527e199d4a3b67d64f5  Added gaussian for distribution. Same as normal. Minor pom fix.  

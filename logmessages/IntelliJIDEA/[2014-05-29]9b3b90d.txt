@@ -1,0 +1,1 @@
+  EA-56987 - NPE: DebuggerTreeNodeImpl.updateCaches  

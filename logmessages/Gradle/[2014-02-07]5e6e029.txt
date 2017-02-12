@@ -1,0 +1,1 @@
+  Added test demonstrating resolution using status value set by component metadata rule - Switching to use HTTP repository (and thus enabling caching) demonstrates a bug in caching with component metadata rules  

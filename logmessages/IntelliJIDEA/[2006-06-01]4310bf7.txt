@@ -1,0 +1,1 @@
+  fix Jeka's NPE, though I don't get how it could've happened  

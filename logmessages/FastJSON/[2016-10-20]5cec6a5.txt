@@ -1,0 +1,1 @@
+  bug fixed for references. for jsonarray ref compute error.  

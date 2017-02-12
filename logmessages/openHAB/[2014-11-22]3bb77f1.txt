@@ -1,0 +1,1 @@
+ Merge pull request #1707 from gerrieg/astro  [Astro] Fixed copy/paste bug  commit 3bb77f11d0c7b26d95953beef4f01ff3575baf2c  Update Endpoint debugging  

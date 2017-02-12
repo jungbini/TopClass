@@ -1,0 +1,1 @@
+  Fixed a bug related to how we incorporate dropout from standalone Dropout layers into the following layer (previously we just blindly propagated it into next layer, even if it was a reshaping layer. When we remove reshaping layers, we lost the dropout).  

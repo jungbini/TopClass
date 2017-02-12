@@ -1,0 +1,1 @@
+  HADOOP-12994. Specify PositionedReadable, add contract tests, fix problems. Contributed by Steve Loughran.  

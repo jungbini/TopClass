@@ -1,0 +1,1 @@
+  Git Branches: fix refreshing list of branches after create/delete.  GitRepositoryUpdater: initially walk to .git/ valuable subfolders to add them to the VFS. GitBranchOperationsProcessor: update config and the list of branches.  

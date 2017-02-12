@@ -1,0 +1,1 @@
+  [fix] add super.addToCollector into AndroidPrebuiltAar#addToCollector  Summary: As caption. AndroidPrebuiltAar is extending AndroidLibrary, so need to call super.addToCollector.  Test Plan: arc unit  

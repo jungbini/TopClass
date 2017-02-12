@@ -1,0 +1,1 @@
+  Maven: shortcut assignment fix IDEADEV-28680 Maven: plugin info cache optimization  

@@ -1,0 +1,1 @@
+  Fix IntelliJ after third-party/xz version changed.  Summary: Buck IntelliJ project was broken by 496908651018eb82111a64110b36031541cfdcd7. This fixes it.  Test Plan: * Built Buck with IntelliJ * Built Buck with Buck * CI  Reviewed By: k21  fbshipit-source-id: aa41c6c  

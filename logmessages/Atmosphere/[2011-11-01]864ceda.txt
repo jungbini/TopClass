@@ -1,0 +1,1 @@
+  Jetty 7.5.4 also suffer issue https://bugs.eclipse.org/bugs/show_bug.cgi?id=362468  

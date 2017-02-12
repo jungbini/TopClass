@@ -1,0 +1,1 @@
+  KT-1702 Renaming file causes "Operation not supported" and invalid imports (Rename problem was caused because of invalid reference to file from package. Fix contains: - Change structure of references in package expression - last part is also a reference now - Resolve packages to expression but not to files)  #KT-1702 fixed  

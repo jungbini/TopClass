@@ -1,0 +1,1 @@
+  typing quicklist name performance fix (IDEADEV-11730)  

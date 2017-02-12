@@ -1,0 +1,1 @@
+ fix the test introduced in 1b759b4c. This closes pull request #728.  

@@ -1,0 +1,1 @@
+  fix issue causing ARGB images to save weirdly with JPG and BMP (issue #415)  

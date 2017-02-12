@@ -1,0 +1,1 @@
+94: add yarn.version propery to spark artifact  

@@ -1,0 +1,1 @@
+  Namespace refactoring. Moved namespace cache from each node to document. This made two test cases be back to the orignal ones. Also fix a failure.  

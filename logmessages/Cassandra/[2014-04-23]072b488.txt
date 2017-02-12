@@ -1,0 +1,1 @@
+  Followup to CASSANDRA-6916 - fix bug in cleanup and add unit test.  

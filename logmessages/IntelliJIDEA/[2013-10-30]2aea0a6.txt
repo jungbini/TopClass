@@ -1,0 +1,1 @@
+ld be to introduce some less-modal progress like JBLoadingPane (and use it for other possibly long running operations as well).  

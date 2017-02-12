@@ -1,0 +1,1 @@
+  fixed some naming and linking issues with arrays and methods.  

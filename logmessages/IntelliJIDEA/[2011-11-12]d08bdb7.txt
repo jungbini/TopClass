@@ -1,0 +1,1 @@
+  fixed PY-4697 "join 2 if's" inspection suggestion is invalid  

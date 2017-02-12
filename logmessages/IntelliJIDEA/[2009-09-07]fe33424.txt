@@ -1,0 +1,1 @@
+  1. added "copy to clipboard" action to thread dump console 2. thread dumps from a debug session are now shown in the relevant debug tab  

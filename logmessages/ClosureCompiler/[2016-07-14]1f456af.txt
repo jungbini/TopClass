@@ -1,0 +1,1 @@
+  [NTI] Consider IObject to be a structural type, eg, to allow an object literal to be treated as any IObject.  This undoes the earlier attempted fix that gave empty object literals the type IObject<?,?>.  Fixes github issue #1866 ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=127473466  

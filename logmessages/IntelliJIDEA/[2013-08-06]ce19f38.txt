@@ -1,0 +1,1 @@
+  optimization: ExtendedTagInsertHandler.suggestPrefix may be expensive, so move its invocation to insert handler  

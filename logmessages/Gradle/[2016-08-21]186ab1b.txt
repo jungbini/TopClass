@@ -1,0 +1,1 @@
+  Fixed int tests for changes to test fixture method.  

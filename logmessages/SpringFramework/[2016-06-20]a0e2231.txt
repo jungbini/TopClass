@@ -1,0 +1,1 @@
+at used the wrapper type instead of the element type. As a consequence, due to type erasure, we now have to specify the type of the content in DefaultHttpRequestBuilder#contentStream().  

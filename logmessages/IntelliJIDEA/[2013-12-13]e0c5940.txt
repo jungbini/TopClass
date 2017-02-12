@@ -1,0 +1,1 @@
+  fix presentation in inspection's Browser fixed (IDEA-118110)  

@@ -1,0 +1,1 @@
+  fixed GRADLE-1860 by handling the case where the TestNG#setAnnotations method doesn't exist  

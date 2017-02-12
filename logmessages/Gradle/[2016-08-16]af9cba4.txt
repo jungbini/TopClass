@@ -1,0 +1,1 @@
+s chapter of the user guide that still contained an affirmation describing the old behaviour.  

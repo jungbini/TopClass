@@ -1,0 +1,1 @@
+: Jason Gustafson <jason@confluent.io>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1169 from hachikuji/KAFKA-3486  (cherry picked from commit dd5480a47eb0f45214c179b7f14ffaf493164222) Signed-off-by: Ewen Cheslack-Postava <me@ewencp.org>  

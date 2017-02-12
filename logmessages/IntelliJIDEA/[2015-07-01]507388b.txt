@@ -1,0 +1,1 @@
+  StaticPseudoFunctionalStyleMethodInspection: more clear options, validation of obtained result, part of problems with type parameters are fixed  

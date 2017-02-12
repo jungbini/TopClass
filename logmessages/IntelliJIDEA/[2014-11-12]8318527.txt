@@ -1,0 +1,1 @@
+  fixed variables view flickering if conditional breakpoint is evaluating  

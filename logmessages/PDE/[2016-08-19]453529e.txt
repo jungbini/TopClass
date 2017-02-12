@@ -1,0 +1,1 @@
+  fix "Embed Java" for 32-bit Linux export  

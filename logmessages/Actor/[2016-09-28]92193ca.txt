@@ -1,0 +1,1 @@
+  fix(android): remove old chat fragments on handle new intent  

@@ -1,0 +1,1 @@
+  revert 812227, which introduced a regression to DebuggableScheduledThreadPoolExecutor.  patch by jbellis for CASSANDRA-455.  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.4@819004 13f79535-47bb-0310-9956-ffa450edef68  

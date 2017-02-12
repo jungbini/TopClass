@@ -1,0 +1,1 @@
+  Cleanup string index and byte type mismatch inspection  - adjust description - rename inspection and quickfix - reuse ContainerUtil.findInstance and remove getFirstElementOfType - move isSingleCharLiteral to GoPsiImplUtil - simplify text retrieving in quickfix - check whether element is valid in quickfix - rename test method  

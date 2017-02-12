@@ -1,0 +1,1 @@
+  IDEA-19363 (Provide tooltip & quickfix for "Locked folders" node)  

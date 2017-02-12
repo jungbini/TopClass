@@ -1,0 +1,1 @@
+  fixed incorrect class loading if scratch file contains a copy of the class from the project  

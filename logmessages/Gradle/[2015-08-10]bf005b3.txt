@@ -1,0 +1,1 @@
+  Changing daemon test fixture to produce diagnostic info rather than NPE when daemon context can't be parsed  

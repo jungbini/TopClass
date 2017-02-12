@@ -1,0 +1,1 @@
+  Remove Idea -Dgroovyc.in.process=false workaround  - was workaround for IDEA-138118, which seems to be fixed  

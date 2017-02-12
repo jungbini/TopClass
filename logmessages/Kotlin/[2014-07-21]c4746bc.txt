@@ -1,0 +1,1 @@
+  Assignment operations test fix: these methods used in expressions like a = a + b, so they need to return NotNull when receiver is NotNull  

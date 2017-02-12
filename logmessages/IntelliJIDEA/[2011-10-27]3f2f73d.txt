@@ -1,0 +1,1 @@
+  fixed PY-4801 Mako: Structure view for mako template files  

@@ -1,0 +1,1 @@
+o free vasprintf() results. More info: https://github.com/FooBarWidget/rubyenterpriseedition187-330/blob/release/system_allocator.c  Some functions also leak string memory if an exception is raised. This patch makes sure those strings are freed no matter what.  

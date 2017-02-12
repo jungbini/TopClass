@@ -1,0 +1,1 @@
+  chore_fix-quickstart-docs (#2946)  Fixes a small grammatical error in the `./docs/content/tutorials/quickstart.md` whereby a sentence didn't make sense  

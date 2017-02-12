@@ -1,0 +1,1 @@
+  PHP tests: fixed PHP Env Tests suite - instantiate WebModuleType as late as possible  

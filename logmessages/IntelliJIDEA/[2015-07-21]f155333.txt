@@ -1,0 +1,1 @@
+  Fractional Scaling: fix Darcula progress bar gaps with 144 DPI  

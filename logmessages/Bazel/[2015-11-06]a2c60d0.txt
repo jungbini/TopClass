@@ -1,0 +1,1 @@
+  Fix bash completion script location in the Debian package  It was ending up installed as /bazel.  Also, the documented way of telling pkg_tar not to strip off the prefix didn't work.  -- Change-Id: I593d17690526c614697369cab543aff1ba67de0a Reviewed-on: https://bazel-review.googlesource.com/#/c/2222/ MOS_MIGRATED_REVID=107229260  

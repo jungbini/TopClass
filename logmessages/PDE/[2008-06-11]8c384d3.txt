@@ -1,0 +1,1 @@
+  fix for bug #817, hide javac warning msgs  

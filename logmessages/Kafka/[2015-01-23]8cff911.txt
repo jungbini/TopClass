@@ -1,0 +1,1 @@
+  KAFKA-1890 Fix bug preventing Mirror Maker from successful rebalance; reviewed by Gwen Shapira and Neha Narkhede  

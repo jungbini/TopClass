@@ -1,0 +1,1 @@
+  Remove (buggy) duplicate call to Frame.release  

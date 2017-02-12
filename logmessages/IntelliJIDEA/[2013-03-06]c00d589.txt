@@ -1,0 +1,1 @@
+  fixed PY-9079 Enable PYHTONPATH controlling checkboxes by default in Python Run configurations  

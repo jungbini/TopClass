@@ -1,0 +1,1 @@
+  lvcs: -optimization for update-roots event handling -fixed source root removal bug  

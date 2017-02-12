@@ -1,0 +1,1 @@
+  KT-12887 Extend selection should select call's invoked expression (#904)  #KT-12887 fixed  

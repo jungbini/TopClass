@@ -1,0 +1,1 @@
+  Grails: Bug fix: attributes must be at top in completing popup.  

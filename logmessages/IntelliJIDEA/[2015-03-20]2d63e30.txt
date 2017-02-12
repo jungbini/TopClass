@@ -1,0 +1,1 @@
+  debugger: reuse monitor slot on exit from synchronized block  

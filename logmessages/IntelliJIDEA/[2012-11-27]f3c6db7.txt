@@ -1,0 +1,1 @@
+  fixed PY-8124 Change Signature: do not allow invalid IDs as parameters: NPE at com.jetbrains.python.psi.impl.PyKeywordArgumentManipulator.handleContentChange  

@@ -1,0 +1,1 @@
+  IDEADEV-9452: fix regression: ask user to define undefined path variables on project load  

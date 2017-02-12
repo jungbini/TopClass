@@ -1,0 +1,1 @@
+  fix com.android.ant.SetupTask cannot be found (bug #1407)  

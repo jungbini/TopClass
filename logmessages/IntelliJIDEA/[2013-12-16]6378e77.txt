@@ -1,0 +1,1 @@
+  [git] IDEA-118265 Fix showing Git Branches menu  The original fix (007dc0d) was incorrectly applied (a98e6c8d) because of the patch context 

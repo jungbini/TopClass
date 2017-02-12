@@ -1,0 +1,1 @@
+  HOTFIX: unsubscribe does not clear user assignment properly  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Gwen Shapira  Closes #439 from hachikuji/unsubscribe-hotfix  

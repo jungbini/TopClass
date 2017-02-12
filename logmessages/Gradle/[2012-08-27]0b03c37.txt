@@ -1,0 +1,1 @@
+  ResolutionResult api - fixed and tidied up one test.  

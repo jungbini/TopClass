@@ -1,0 +1,1 @@
+  bug with setting default titled border in internal mode  

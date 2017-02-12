@@ -1,0 +1,1 @@
+  Improve logging of nested build execution (eg buildSrc): - Don't change the logging level when executing buildSrc builds - Changed TaskExecutionLogger to include a prefix when logging the execution of a task from a nested build - Added Gradle.getParent(), which returns the parent of the current build  

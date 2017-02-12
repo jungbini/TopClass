@@ -1,0 +1,1 @@
+  IDEA-122192 highlight usages should have highest priority  fixed test  

@@ -1,0 +1,1 @@
+  Started failing early on null item when adding collections together. We want to have those cases sorted out on a higher level. However, until this happens this change will make it much easier to debug things (I had cases of users struggling with this instance of null handling in java exec).  

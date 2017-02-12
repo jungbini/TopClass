@@ -1,0 +1,1 @@
+  [^maxmedvedev] faster completion with no qualifier in Groovy: check prefix matching before resolving every single reference in the method  

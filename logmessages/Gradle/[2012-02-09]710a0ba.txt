@@ -1,0 +1,1 @@
+  GRADLE-2079 fixed javadoc path handling: - never use variables in javadoc paths -> its not supported by eclipse - replaced raw path to jar file by jar url (eg.jar:file:/path/to/jar.jar!/)  

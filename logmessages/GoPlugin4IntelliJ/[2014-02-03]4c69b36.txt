@@ -1,0 +1,1 @@
+ Fix GoSelectorExpression.getType() to return the type of a method, fix comparison of functions and code generation for functions types  

@@ -1,0 +1,1 @@
+  Some fixes to make a better attempt to deliver messages while disconnecting from remote process.  

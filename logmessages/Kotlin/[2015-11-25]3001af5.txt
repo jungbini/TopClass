@@ -1,0 +1,1 @@
+  Mark SAM adapter functions as infix or operator if the original function is marked as such  

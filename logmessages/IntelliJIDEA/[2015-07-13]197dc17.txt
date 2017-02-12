@@ -1,0 +1,1 @@
+  improve isEnabled method according to IDEA-142173 fix  

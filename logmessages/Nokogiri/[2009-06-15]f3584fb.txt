@@ -1,0 +1,1 @@
+  updated changelog for recent HTML fragment fixes  

@@ -1,0 +1,1 @@
+  [cdr] fix off-by-one in status bar message (IDEADEV-22452)  

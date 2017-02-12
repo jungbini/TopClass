@@ -1,0 +1,1 @@
+  IDEA-143616 Breakpoints in onModuleLoad (GWT) do not work IDEA-146938 gwt debugging: button constructor opened in the generated code on pause&reload  

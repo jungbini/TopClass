@@ -1,0 +1,1 @@
+ artifact editor: NPE fixed (IDEA-100683)  

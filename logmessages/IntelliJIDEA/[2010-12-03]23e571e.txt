@@ -1,0 +1,1 @@
+  [rev=nik] fix incorrect parentheses insertion when code style dictates spaces before & inside call parens (IDEA-49942)  

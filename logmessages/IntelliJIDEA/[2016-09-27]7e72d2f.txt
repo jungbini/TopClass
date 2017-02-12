@@ -1,0 +1,1 @@
+  OptionalIsPresentInspection: simplify isRaw() and isOptionalLambdaCandidate(); fix getComments(); add more tests (IDEA-CR-13980)  

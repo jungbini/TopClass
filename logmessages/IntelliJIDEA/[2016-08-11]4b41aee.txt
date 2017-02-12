@@ -1,0 +1,1 @@
+  unused declaration presentation: do not mark fixed (deleted & commented) elements as "no longer valid" IDEA-157061  

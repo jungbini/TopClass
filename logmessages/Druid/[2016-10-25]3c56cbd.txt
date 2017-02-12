@@ -1,0 +1,1 @@
+  fix timing issue with KafkaLookupExtractorFactoryTest (#3604)  

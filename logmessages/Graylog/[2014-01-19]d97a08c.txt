@@ -1,0 +1,1 @@
+  configurable limit for message fields. fixes Graylog2/graylog2-web-interface#515  

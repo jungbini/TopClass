@@ -1,0 +1,1 @@
+  fixed keyboard resize of components (IDEADEV-15785)  

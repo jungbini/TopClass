@@ -1,0 +1,1 @@
+  PythonBuckConfig now loads test main python file from PackagedResource.  Summary: This fixes an issue where SymlinkTree was trying to use an absolute path to reference __test_main__.py  Test Plan: ci  Reviewed By: Coneko  fb-gh-sync-id: 983eabf  

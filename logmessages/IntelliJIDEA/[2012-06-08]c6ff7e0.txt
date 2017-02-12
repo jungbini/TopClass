@@ -1,0 +1,1 @@
+  improve 'create from usages' quick fixes for android resources: smart creating of file resources  

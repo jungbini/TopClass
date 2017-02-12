@@ -1,0 +1,1 @@
+  fix path to mvn package output in build script. check if we can do the same with mvn assembly instead of a shell script  

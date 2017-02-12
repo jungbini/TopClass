@@ -1,0 +1,1 @@
+  search result count and total count was an int, now long. fixes #637  

@@ -1,0 +1,1 @@
+  gradle: module/project wizard fixes related issues: IDEA-119806 Gradle tool window doesn't appear until project is reopened; IDEA-134144 Newly created Gradle module doesn't show in Gradle tasks panel; IDEA-138454 Intellij 14.1 cannot Import correctly Module with Gradle;  

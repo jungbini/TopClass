@@ -1,0 +1,1 @@
+  auto indent case on typing, fix #1399  

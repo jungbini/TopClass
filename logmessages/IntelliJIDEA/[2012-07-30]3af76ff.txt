@@ -1,0 +1,1 @@
+  RUBY-7361: we should warn user if she tries to export test results into file which already exists. #RUBY-7361 fixed  

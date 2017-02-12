@@ -1,0 +1,1 @@
+  generation of inner classes inside object literal. #KT-2607 fixed  on the way ClassCodegen and MemberCodegen refactored out and injectors regenerated  

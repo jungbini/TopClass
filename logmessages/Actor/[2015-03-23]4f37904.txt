@@ -1,0 +1,1 @@
+  feat(rpc): ability to attach services to already running RpcApiService fix(session,rpc-auth): session handles user authorization  

@@ -1,0 +1,1 @@
+  updated "Promote float varargs to double" bug fix  

@@ -1,0 +1,1 @@
+  javasvn update: memory and performance optimizations, several exceptions fixed. integration code modified to match new JavaSVN version. CheckoutDialog use correct Project instance (always default). Labels case in configuration panel changed.  

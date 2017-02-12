@@ -1,0 +1,1 @@
+  PluginXmlFunctionalTest: fix enabled inspections  

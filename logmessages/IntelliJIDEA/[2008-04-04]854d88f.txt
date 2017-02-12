@@ -1,0 +1,1 @@
+  IDEADEV-25686 fixed ([#8926] NPE: SelectLocationDialog.init) Trunk url validated to be strictly under repository root  

@@ -1,0 +1,1 @@
+  fix ReadAccessAllowed exception from indices when converting bytes to string representation (IDEADEV-29274)  

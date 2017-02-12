@@ -1,0 +1,1 @@
+  merge parts together and code refactoring. base features: - dynamic scrolling with fixed view size - reslicing - apply format - color scheme  

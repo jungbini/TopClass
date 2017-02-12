@@ -1,0 +1,1 @@
+  IDEA-91905 (Remove unnecessary parentheses doesn't work on polyadic expressions) and related fixes, cleanup and tests  

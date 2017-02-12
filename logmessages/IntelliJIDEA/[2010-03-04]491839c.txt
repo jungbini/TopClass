@@ -1,0 +1,1 @@
+  StructureView: avoid flickering fix  

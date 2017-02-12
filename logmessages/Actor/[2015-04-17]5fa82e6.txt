@@ -1,0 +1,1 @@
+  fix(session): persist authorization info  

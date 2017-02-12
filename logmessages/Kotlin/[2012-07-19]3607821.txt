@@ -1,0 +1,1 @@
+  re-include jQuery and html5 JS APIs into the kotlin-js-library now it seems KT-2316 is fixed  

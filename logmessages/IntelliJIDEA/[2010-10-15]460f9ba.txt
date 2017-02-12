@@ -1,0 +1,1 @@
+  fixed marking run configuration as modified when path to log file changes  

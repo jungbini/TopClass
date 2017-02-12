@@ -1,0 +1,1 @@
+  Transpile from ES6 by default, since that is a very common use case for the debugger nowadays. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=112496453  

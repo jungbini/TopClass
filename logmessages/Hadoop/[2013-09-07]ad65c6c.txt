@@ -1,0 +1,1 @@
+  YARN-1107. Fixed a bug in ResourceManager because of which RM in secure mode fails to restart. Contributed by Omkar Vinit Joshi. svn merge --ignore-ancestry -c 1520726 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1520729 13f79535-47bb-0310-9956-ffa450edef68  

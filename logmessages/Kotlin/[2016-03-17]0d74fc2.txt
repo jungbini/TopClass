@@ -1,0 +1,1 @@
+  Minor cleanup in Java model: fix warnings, remove unused  

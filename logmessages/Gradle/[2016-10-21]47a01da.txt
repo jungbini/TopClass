@@ -1,0 +1,1 @@
+  Add an integration test illustrating how to implement variant aware dependency management  This test is an entry point for a collection of tests that will highlight how to implement variant-aware dependency managenent with configuration attributes. It tries to simulate what the Android plugin does, and the first useful test shows that we can make the 

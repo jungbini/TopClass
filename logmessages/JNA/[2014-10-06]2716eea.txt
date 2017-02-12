@@ -1,0 +1,1 @@
+ Merge branch 'x11-demo-fixes' of github.com:twall/jna into x11-demo-fixes  commit 2716eea509a7be38ae53a8cc7fba7001e17c20eb  patch missing code, remove apparent duplicate code, fix overall compilation  

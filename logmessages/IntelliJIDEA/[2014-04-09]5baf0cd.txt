@@ -1,0 +1,1 @@
+  fixed PY-12500 Instance attribute defined outside init: generate python 3 super call without arguments for python 3 interpreters  

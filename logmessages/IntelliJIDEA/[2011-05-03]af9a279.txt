@@ -1,0 +1,1 @@
+  fixed PY-3455 False positive for 'Argument value equals default parameter value' with same-named classes in 

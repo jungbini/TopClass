@@ -1,0 +1,1 @@
+  fixed  PY-7829 Ignore missing docstring inspection feedback for Django model inner Meta classes  

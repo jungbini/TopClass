@@ -1,0 +1,1 @@
+  IDEA-131149 Preferences search occasionally doesn't find items in Keymap section Rollback the IDEA-130509 fix.  

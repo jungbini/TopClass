@@ -1,0 +1,1 @@
+  Add quickfixes inserting explicit delegation calls  #KT-6963 Fixed  

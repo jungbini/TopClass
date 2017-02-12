@@ -1,0 +1,1 @@
+  MINOR: Fix connect development guide.  Fix some trivial misses. ewencp  Author: uchan-nos <uchan0@gmail.com>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1496 from uchan-nos/docfix-connect  

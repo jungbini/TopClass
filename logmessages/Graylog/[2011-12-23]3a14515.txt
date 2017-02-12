@@ -1,0 +1,1 @@
+  avoid double confirmation of awesome_links  fixes #WEBINTERFACE-206  

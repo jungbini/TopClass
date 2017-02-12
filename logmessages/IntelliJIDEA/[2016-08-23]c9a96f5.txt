@@ -1,0 +1,1 @@
+  PY-16055  Add quickfix  and tests for functions with incorrect return annotation  Add quickfix for functions whose return type doesn't match their annotated type.  

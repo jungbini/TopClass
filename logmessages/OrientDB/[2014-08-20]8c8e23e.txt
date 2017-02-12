@@ -1,0 +1,1 @@
+  fixed wrong tipe detection for linked collection in json serialization  

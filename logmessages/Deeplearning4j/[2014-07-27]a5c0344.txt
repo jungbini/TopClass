@@ -1,0 +1,1 @@
+  fixed a bug with the slicing on complexndarray, added tests/improvements for truncation for fft  

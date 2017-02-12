@@ -1,0 +1,1 @@
+  make permute fix work for ctr  

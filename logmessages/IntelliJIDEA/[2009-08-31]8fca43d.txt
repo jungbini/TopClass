@@ -1,0 +1,1 @@
+  limit long string labels in debugger tree to save memory  

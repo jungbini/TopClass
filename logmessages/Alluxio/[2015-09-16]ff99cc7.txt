@@ -1,0 +1,1 @@
+ Reenable MasterFaultToleranceIntegrationTest for hdfs  Reenable two cases in MasterFaultToleranceIntegrationTest  Reenable remaining cases in MasterFaultToleranceIntegrationTest  further fix  Set system property to disable client cache  minor fix  minor fix  

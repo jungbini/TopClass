@@ -1,0 +1,1 @@
+  Multiply revision node presentation in HgLog  for only one revision fixed.  *click on status bar widget has created new HgRepository instance, so update and refresh were called then incorrect presentation appeared  

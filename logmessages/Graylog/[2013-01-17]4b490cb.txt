@@ -1,0 +1,1 @@
+  fixed --configtest which was not working at all  fixes #SERVER-253  

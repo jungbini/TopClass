@@ -1,0 +1,1 @@
+  fixed PY-3257 AIOOBE from 'argument equal default' inspection  

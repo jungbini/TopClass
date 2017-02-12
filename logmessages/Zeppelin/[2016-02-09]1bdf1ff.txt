@@ -1,0 +1,1 @@
+e96a6 [Victor Manuel] fix docs and add  more details cd60020 [Victor Manuel] delete parentheses... d92d7d8 [Victor Manuel] add default prefix in simple connection b973022 [Victor Manuel] change order in link f9f194e [Victor Manuel] Update jdbc.md e3653ba [vgmartinez] fix dead link 38ccefb [vgmartinez] docs for jdbc  

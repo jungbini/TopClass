@@ -1,0 +1,1 @@
+  fix red code: do not report ranges if they don't intersect editable injection fragments  

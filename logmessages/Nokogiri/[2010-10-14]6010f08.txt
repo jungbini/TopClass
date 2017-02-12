@@ -1,0 +1,1 @@
+  Fix for an error handler related bug. Cleaned up a little bit.  

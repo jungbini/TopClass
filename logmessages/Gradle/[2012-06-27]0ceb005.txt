@@ -1,0 +1,1 @@
+  GRADLE-2238: fix assertion for expected error output to match 

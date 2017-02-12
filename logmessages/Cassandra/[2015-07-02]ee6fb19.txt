@@ -1,0 +1,1 @@
+  Ninja fix exception message  patch by Branimir Lambov; reviewed by Robert Stupp  

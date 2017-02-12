@@ -1,0 +1,1 @@
+  DeclaredGlobalExternsOnWindow fixes: - Add '@suppress {duplicate}' in all cases, not just for constructors. - Don't add a declaration for window.location since it conflicts with an existing one. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=67286926  

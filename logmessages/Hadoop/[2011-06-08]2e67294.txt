@@ -1,0 +1,1 @@
+  HADOOP-7356. Fix bin/hadoop scripts (eyang via omalley) Minor tweak of fix to check   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security@1133574 13f79535-47bb-0310-9956-ffa450edef68  

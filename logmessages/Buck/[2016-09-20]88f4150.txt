@@ -1,0 +1,1 @@
+  Sort Xcode xcconfig settings  Summary: Tiny nit that gives me a headache every time I try and debug config settings Closes https://github.com/facebook/buck/pull/889  Reviewed By: Coneko  fbshipit-source-id: 82f6a49  

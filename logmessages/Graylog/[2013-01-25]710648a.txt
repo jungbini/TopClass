@@ -1,0 +1,1 @@
+  map distribution of level and date to useful vals  you can now also search for 'date' instead of created_at  fixes #WEBINTERFACE-423  

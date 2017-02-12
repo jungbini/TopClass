@@ -1,0 +1,1 @@
+ Merge branch 'master' of github.com:deeplearning4j/deeplearning4j into redistfix  commit 08b866f68fcbe1b5c6eb4fd5020b379d8e401d19  StochasticGradientDescent fix  

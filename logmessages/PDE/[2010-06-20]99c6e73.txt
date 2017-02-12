@@ -1,0 +1,1 @@
+ bug fixes and macosx fixes  commit 99c6e735da1bd49b30812d6e46179852922cb276  fixing up release 0185, modify prefs for restore feature  

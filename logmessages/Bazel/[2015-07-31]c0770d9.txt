@@ -1,0 +1,1 @@
+  Send bug report on IOException in BlazeCommandEventHandler instead of ignoring  Don't log the actual message in interest of not spamming logs, for now. We can use how common this is to determine if crashing is appropriate.  -- MOS_MIGRATED_REVID=99587448  

@@ -1,0 +1,1 @@
+  add support of custom types in binary serialization, fixed  linkset and linkmap lazy loading, issue #681  

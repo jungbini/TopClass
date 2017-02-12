@@ -1,0 +1,1 @@
+  HBASE-3872 Hole in split transaction rollback; edits to .META. need to be rolled back even if it seems like they didn't make it; fix failing HRegion test -- server passed is null, allow for this in tests when running splits  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1146557 13f79535-47bb-0310-9956-ffa450edef68  

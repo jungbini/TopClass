@@ -1,0 +1,1 @@
+  implemented fix on hook call in create edge case, issue #4204  

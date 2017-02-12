@@ -1,0 +1,1 @@
+  Resolve repository-relative labels within the current repository  Using $(location //foo) from an external repository was resolving to @//foo, not @repo//foo, which generally wouldn't be in the main repository. This may also fix other cases where getRelative was resolving incorrectly.  Fixes #819.  -- MOS_MIGRATED_REVID=113256854  

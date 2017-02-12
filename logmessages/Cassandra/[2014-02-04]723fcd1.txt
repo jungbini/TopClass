@@ -1,0 +1,1 @@
+  fix NPE when stopping nonexistent native server, again.  

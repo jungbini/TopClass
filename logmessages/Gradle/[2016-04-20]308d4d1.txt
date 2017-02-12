@@ -1,0 +1,1 @@
+ Fix duplicated dependencies in generated POM files  This is a follow up on PR #504 for GRADLE-3030, see d81215c  De-duplication: - ignore version because Maven don't support dependencies with 

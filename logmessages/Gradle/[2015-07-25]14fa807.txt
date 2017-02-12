@@ -1,0 +1,1 @@
+  Changed the contract of ListenerManager to tighten up behaviour for adding and removing listeners while events are being generated, and fixed the implementation. Also changed implementation to fail when a listener generates events of the same type that it receives.  

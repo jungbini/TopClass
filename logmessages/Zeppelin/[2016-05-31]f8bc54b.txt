@@ -1,0 +1,1 @@
+er creation: add ID to the HTML and update Integration tests to use simple xpath 8744834 [Alexander Bezzubov] New Interpreter validation: prohibit whitespace names and correct error msg  

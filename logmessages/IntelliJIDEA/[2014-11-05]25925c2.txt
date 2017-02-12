@@ -1,0 +1,1 @@
+  Correct fix for IDEA-117789 (Eclipse code style import: "Never join already wrapped lines" seems to be ignored)  

@@ -1,0 +1,1 @@
+  include play2-graylog2 module  additionally sends web interface logs to a configured graylog2 instance include a access log module, which is disabled by default  fixes #317  

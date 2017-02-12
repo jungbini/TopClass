@@ -1,0 +1,1 @@
+  Fix for bug with space symbol at the end of pattern within class selection feature (it did not match with exact name).  

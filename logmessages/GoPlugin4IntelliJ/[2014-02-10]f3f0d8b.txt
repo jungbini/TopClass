@@ -1,0 +1,1 @@
+  Don't execute the previous build if the current one fails (fixes #495)  

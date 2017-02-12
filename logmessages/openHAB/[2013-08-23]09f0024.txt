@@ -1,0 +1,1 @@
+  fixed delimiter for nma parameters - thanks Ben for pointing out  

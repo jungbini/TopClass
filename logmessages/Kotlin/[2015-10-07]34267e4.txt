@@ -1,0 +1,1 @@
+  Merge two deprecation diagnostics into one DEPRECATION  This also fixes weird suppressions in user code: instead of @Suppress("DEPRECATED_SYMBOL_WITH_MESSAGE") you should now use @Suppress("DEPRECATION")  

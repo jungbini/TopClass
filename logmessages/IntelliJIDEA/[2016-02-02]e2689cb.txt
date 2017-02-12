@@ -1,0 +1,1 @@
+  reimplement fix 6fb3647 to account for another use case - update of folding placeholder text depending on folded text region  

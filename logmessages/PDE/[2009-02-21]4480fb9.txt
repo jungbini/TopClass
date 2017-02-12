@@ -1,0 +1,1 @@
+  Fix algorithm for quadratic to cubic curve conversion (bug #1122)  

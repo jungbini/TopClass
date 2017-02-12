@@ -1,0 +1,1 @@
+  Fixed bug when ctrl+click on ArrayList.add() and other stuff navigated to alt-headers.  #KT-1815 fixed  

@@ -1,0 +1,1 @@
+  release preview on finish (fix tests)  

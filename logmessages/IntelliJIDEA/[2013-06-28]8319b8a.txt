@@ -1,0 +1,1 @@
+  fixed PY-10150 Web2Py: highlight comments inside python code blocks of views  

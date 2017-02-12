@@ -1,0 +1,1 @@
+  methods chains completion: fixed concurrency error and new indices creation refactored  

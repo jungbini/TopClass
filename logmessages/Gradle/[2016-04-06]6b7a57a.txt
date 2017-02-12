@@ -1,0 +1,1 @@
+  Cross-version fixes for DependencySubstitution tooling API test  - Substitution does not work for tooling API version < 2.14 - 'dependencies' task does not work correctly for target versions < 1.4  

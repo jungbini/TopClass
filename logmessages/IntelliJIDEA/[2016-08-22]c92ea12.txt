@@ -1,0 +1,1 @@
+  IDEA-158543 Update in place for all versions IDEA-152249 Patch update doesn't remove old folders from bundle IDEA-139626 Installation update: vmoptions files get inadequate permissions (execute mode) IDEA-120713 updater.jar makes incorrect patches on Linux fixed patches for symlink files  

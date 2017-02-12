@@ -1,0 +1,1 @@
+  fixed the servlet api exclusion issue in the pom setup - https://github.com/apache/spark/pull/628/files  

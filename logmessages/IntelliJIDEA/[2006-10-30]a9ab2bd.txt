@@ -1,0 +1,1 @@
+  Hack to get over memory leak described in http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=6209673  

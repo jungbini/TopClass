@@ -1,0 +1,1 @@
+  fixed exception when output directory is at the disk other than idea home  

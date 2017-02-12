@@ -1,0 +1,1 @@
+  editor: fix LineMarkerRenderer's painting ranges  make it consistent with `EditorGutterComponentEx.getLineMarkerFreePaintersAreaOffset()`  

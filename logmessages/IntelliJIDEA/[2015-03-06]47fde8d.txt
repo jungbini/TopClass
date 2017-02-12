@@ -1,0 +1,1 @@
+  add a registry key to control darcula flashing fix  

@@ -1,0 +1,1 @@
+URL' button and disable backdrop fuction when user use modal window  (cherry picked from commit e5f211b7ba9c6282a3c50228ac913a174a830dbf) Signed-off-by: Mina Lee <minalee@apache.org>  Conflicts: zeppelin-web/src/components/noteName-import/note-import-dialog.html  

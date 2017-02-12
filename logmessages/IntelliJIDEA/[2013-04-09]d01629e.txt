@@ -1,0 +1,1 @@
+  Remove extra prefix from IPython completion variants (PY-9393).  

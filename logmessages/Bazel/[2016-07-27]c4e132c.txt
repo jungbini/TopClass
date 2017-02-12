@@ -1,0 +1,1 @@
+  Mark //src/test/shell/bazel:experimental_ui_test as manual  This test is timeout flaky (#1560) and the flake seems like genuine. While waiting for a proper fix, deactivate this test on ci.bazel.io.  -- MOS_MIGRATED_REVID=128571273  

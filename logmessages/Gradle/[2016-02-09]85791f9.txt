@@ -1,0 +1,1 @@
+  Java toolchains discovery  Undone: - factor probing code in JvmComponentPlugin, fix duplication - use this from test-fixtures/AvailableJavaHomes, fix duplication, may need probing  

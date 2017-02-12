@@ -1,0 +1,1 @@
+  [vcs]: (IDEA-162404) Commit details quick info font fixed  

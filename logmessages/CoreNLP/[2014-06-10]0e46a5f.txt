@@ -1,0 +1,1 @@
+  fixed some bugs. added answerclasses to be generalized and not learn each others words  

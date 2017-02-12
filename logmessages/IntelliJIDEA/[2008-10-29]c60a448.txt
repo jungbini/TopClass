@@ -1,0 +1,1 @@
+  IDEADEV-32121 (quickfix for "Collection declared by class, not interface" inspection breaks code)  

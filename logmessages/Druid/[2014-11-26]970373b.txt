@@ -1,0 +1,1 @@
+  update spymemcached library  for fixes mainly related to - 1) memory leaks on reconnects 2) better handling of network issues  

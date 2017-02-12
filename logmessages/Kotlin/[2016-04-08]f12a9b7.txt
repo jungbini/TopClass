@@ -1,0 +1,1 @@
+  KT-11806: increase visibility quick fix, private --> internal, also for members  

@@ -1,0 +1,1 @@
+  GL implementations of copy() methods, fix #1924  

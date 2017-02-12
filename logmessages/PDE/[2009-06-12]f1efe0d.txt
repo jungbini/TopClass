@@ -1,0 +1,1 @@
+  make members of pdf protected instead of private (bug #1276)  

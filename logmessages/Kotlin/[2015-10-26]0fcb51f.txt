@@ -1,0 +1,1 @@
+  KT-1478 Quick fix for using nullable collection in "for in" expression  #KT-1478 Fixed  

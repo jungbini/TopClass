@@ -1,0 +1,1 @@
+  made assertWriteAcquired() generate expensive garbage in tests and debug only  

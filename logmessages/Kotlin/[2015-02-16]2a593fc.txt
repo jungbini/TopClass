@@ -1,0 +1,1 @@
+  IDEA: fixed breakpoints in JavaScript debugger.  

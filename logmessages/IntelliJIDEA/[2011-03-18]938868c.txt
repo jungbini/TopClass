@@ -1,0 +1,1 @@
+  introduce field: fix introducing in anonymous class; fix enclosing constructor (IDEA-66774)  

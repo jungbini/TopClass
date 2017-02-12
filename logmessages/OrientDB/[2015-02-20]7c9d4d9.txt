@@ -1,0 +1,1 @@
+  fixed appear of record 0:0 while iterating data, issue #3451  

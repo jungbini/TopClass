@@ -1,0 +1,1 @@
+  Merge -r 1172892:1172893 from trunk to branch-0.23 to fix MAPREDUCE-3004.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1172895 13f79535-47bb-0310-9956-ffa450edef68  

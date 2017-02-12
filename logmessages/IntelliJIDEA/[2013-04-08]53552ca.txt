@@ -1,0 +1,1 @@
+  javafx packaging: fix resources when no preloader is set (IDEA-104854)  

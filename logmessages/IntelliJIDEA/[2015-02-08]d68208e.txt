@@ -1,0 +1,1 @@
+  platform: minor fixes  - symmetric cancellation check - strict test mode assertion  

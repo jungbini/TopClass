@@ -1,0 +1,1 @@
+  KAFKA-1109 Need to fix GC log configuration code, not able to override KAFKA_GC_LOG_OPTS; reviewed by Neha Narkhede  

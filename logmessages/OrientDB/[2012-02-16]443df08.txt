@@ -1,0 +1,1 @@
+  Patch by Sylvain to fix problem on rollback and record versions. Fixed issue 712  

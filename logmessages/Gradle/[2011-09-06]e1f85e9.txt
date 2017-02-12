@@ -1,0 +1,1 @@
+  GRADLE-1762 Some checkstyle fixes, commented out some validation because it breaks on Windows. Suppressed the c-style method names in the checkstyle suppressions config.  

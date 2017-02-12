@@ -1,0 +1,1 @@
+  fix subcolumn-reading code to account for tombstoned columnfamily .  patch by jbellis; tested by Ramzi Rabah for CASSANDRA-484  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.4@824424 13f79535-47bb-0310-9956-ffa450edef68  

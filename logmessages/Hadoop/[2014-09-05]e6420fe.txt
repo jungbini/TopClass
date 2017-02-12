@@ -1,0 +1,1 @@
+  YARN-2508. Cross Origin configuration parameters prefix are not honored (Mit Desai via jeagles)  

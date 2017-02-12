@@ -1,0 +1,1 @@
+  Patch from Evgeniy Degtyarenko. 1. Distributing query parameters across nodes 2. Bug fix: index do not updates on autosharded environment 3. Added CreateCluster to distributable commands 4. Schema creation using Create cluster SQL command instead on API calls 5. Introdusing @rid_id, @rid_pos projections 6. Bug fix: default and manual index cluster should not be autosharded  

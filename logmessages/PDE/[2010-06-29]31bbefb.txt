@@ -1,0 +1,1 @@
+  fix NPE on New Sketch with non-English systems (issue #283)  

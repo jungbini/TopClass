@@ -1,0 +1,1 @@
+ Merge pull request #1812 from metamx/bumpServerMetricsVersion  Bump server-metrics to 0.2.5 to catch a few fixes.  commit e9b81430f4c6f18cd364e25faddf1b15c60df29b  Bump server-metrics to 0.2.5 to catch a few fixes.  

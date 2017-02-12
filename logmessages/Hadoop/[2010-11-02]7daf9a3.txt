@@ -1,0 +1,1 @@
+  HADOOP-7008. Enable test-patch.sh to have a configured number of acceptable findbugs and javadoc warnings. Contributed by nigel and gkesavan.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1029958 13f79535-47bb-0310-9956-ffa450edef68  

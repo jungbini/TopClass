@@ -1,0 +1,1 @@
+ts to a ResourceDatabasePopulator after setScripts() had been invoked.  This commit fixes this by ensuring that the internal scripts list continues to be modifiable when setScripts() is invoked.  Issue: SPR-11691  

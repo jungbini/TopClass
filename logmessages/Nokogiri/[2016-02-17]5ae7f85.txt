@@ -1,0 +1,1 @@
+  ensure encoding is passed to Sax::Parser xmldecl  fixes #844  

@@ -1,0 +1,1 @@
+  Only watch roots when FILE_TREE is supported  - improves ec0c746de2a02f - additional fix to GRADLE-3354  

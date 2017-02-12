@@ -1,0 +1,1 @@
+ [groovy] accept all strings as method identifiers (fix IDEA-160289 and main method is quotes)  

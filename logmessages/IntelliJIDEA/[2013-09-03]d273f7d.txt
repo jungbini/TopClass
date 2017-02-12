@@ -1,0 +1,1 @@
+  "Move assignment to field declaration" intention CCE fix  

@@ -1,0 +1,1 @@
+  Improve auto detection of the LDAP member attribute  Check the entry object for "uniqueMember" and "member" attributes if we cannot determine the correct member attribute from the object class.  The member attribute should be configurable eventually. Until that can be done, this fix should improve the situation.  Refs #1433  

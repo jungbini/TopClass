@@ -1,0 +1,1 @@
+  fixed PY-3487 Incomplete support for Sphinx's :param: info field  

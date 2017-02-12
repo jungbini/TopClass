@@ -1,0 +1,1 @@
+  xdebugger: call processHandler.startNotify when session is started even if 'debug' tool window not opened (otherwise debug session cannot be stopped)  

@@ -1,0 +1,1 @@
+  installers fixed: do not instantiate ProgressWindow in headless environment  

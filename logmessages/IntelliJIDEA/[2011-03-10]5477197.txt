@@ -1,0 +1,1 @@
+  fix: mark dependencies for recompilation when the whole class definition was commented (empty java file)  

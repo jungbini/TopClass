@@ -1,0 +1,1 @@
+  JSTL fmt:message tag not honoring fmt:bundle prefix attribute during inspection (IDEADEV-3977)  

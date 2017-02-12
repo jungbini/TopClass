@@ -1,0 +1,1 @@
+  IDEA-62432 It's hard to type in medium-sized txt file if soft wrap is enabled  Editor size container is updated by information calculated during soft wraps processing if they are set on (reviewed by max)  IDEA-61828 Invert Ctrl+Mouse wheel behaviour for editor  Reverted the change inadvertently introduced during project update (probably caused by IJ vcs integration bug)  

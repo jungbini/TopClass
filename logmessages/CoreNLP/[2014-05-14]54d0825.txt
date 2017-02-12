@@ -1,0 +1,1 @@
+  Don't try to get a leaf < 0 (bug reported by user Jan Melcher)  

@@ -1,0 +1,1 @@
+  Also start suspending only in user code with suspend=True for remote debugger (PY-15515)  If suspending is started before starting some PyDBDaemonThreads, debugger stops inside library files  

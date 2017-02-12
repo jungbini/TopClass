@@ -1,0 +1,1 @@
+ fixes issue where BlockingIOCometSupport is always used in Servlet 3.0 container when no websocket support is available  

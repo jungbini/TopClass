@@ -1,0 +1,1 @@
+  fixed support of database delegate for remote cases  

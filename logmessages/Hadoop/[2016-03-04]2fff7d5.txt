@@ -1,0 +1,1 @@
+  HDFS-9907. Exclude Ozone protobuf-generated classes from Findbugs analysis. Contributed by Chris Nauroth  

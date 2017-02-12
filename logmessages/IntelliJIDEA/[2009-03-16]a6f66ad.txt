@@ -1,0 +1,1 @@
+  IDEADEV-35307 configurable export, editor popup & console scrolling fix  

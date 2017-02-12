@@ -1,0 +1,1 @@
+  make all debugger value hints expand by keyboard shortcut  

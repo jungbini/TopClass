@@ -1,0 +1,1 @@
+  fix JSON handling of null and optional items  

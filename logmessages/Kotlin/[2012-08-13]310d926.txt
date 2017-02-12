@@ -1,0 +1,1 @@
+  Test for KT-2388: if function passed as setTimeout callback, all "this" references will be point to HTML window instead of real object.  #KT-2388 fixed  

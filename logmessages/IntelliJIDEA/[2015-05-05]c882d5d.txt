@@ -1,0 +1,1 @@
+  fixed resolve to the keyword argument introduced in 8b9e7981df930b037924d1df8aa72f1a52a9cd82  needed for PY-15366 No completion for matplotlib figure  

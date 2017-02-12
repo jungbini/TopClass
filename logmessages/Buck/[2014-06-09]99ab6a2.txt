@@ -1,0 +1,1 @@
+  Set 'provided_deps' explicitly in the rule key.  Summary: Bug description: https://github.com/facebook/buck/issues/133  Since we were not treating provided deps 

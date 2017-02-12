@@ -1,0 +1,1 @@
+  Cache functions from plugins lazily as methods in debugger obj.  

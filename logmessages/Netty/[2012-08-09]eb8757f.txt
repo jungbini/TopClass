@@ -1,0 +1,1 @@
+ Fix bug which leads to return HttpMessageEncoder implementations null if encoding a HttpChunk which is the last one. This vilates the OneToOneEncoder contract and so leads to a missing notification of the write future. See #493  

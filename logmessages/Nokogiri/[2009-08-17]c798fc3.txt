@@ -1,0 +1,1 @@
+  fixing custom functions in xpath on node sets  

@@ -1,0 +1,1 @@
+  github: remove two-step deserialization - step 5  use @Mandatory annotation for runtime check for @NotNull fields  step 1 - remove usages of "Raw" classes step 2 - remove DataConstructor interface step 3 - replace "@Nullable public" with "private" in raw classes step 4 - split raw classes for 

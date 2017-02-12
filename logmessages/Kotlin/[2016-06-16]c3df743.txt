@@ -1,0 +1,1 @@
+  FileScopeFactory: extra imports computed via virtual file as opposed to KtFile  This fixes completion session acting as if there are no imports  

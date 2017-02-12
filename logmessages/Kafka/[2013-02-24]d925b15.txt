@@ -1,0 +1,1 @@
+  KAFKA-734 Migration tool needs a revamp, it was poorly written and has many performance bugs; reviewed by Jun Rao  

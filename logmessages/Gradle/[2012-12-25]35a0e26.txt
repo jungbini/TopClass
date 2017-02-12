@@ -1,0 +1,1 @@
+  Another attempt to fix the dependency declaration (tested it this time).  

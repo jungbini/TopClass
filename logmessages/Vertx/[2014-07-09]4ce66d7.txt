@@ -1,0 +1,1 @@
+  Use FQCN for logging when possible, fix JUL logger to pick correct source class.  Signed-off-by: nscavell <nick.scavelli@gmail.com>  

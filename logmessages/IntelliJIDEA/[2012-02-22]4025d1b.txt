@@ -1,0 +1,1 @@
+  IDEA-81632 ("".equals() can be replaced with isEmpty() inspection quickfix is not equivalent may introduce NPE)  

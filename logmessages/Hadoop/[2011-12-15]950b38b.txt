@@ -1,0 +1,1 @@
+  HDFS-2218 merge to branch-1. Permanently disable TestHdfsProxy.testHdfsProxyInterface, until HDFS-2217 is fixed.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1@1214652 13f79535-47bb-0310-9956-ffa450edef68  

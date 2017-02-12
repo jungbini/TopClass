@@ -1,0 +1,1 @@
+  Drive by fix for BanUnknownTypedClassPropsReferences, only treat "?" as a declared unknown not "?Foo". ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=115704292  

@@ -1,0 +1,1 @@
+  [sql folding] fix DBE-1762, skip dummy blocks in custom surrounders  

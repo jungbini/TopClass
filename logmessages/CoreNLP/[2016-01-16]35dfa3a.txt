@@ -1,0 +1,1 @@
+  Fix bug with punctuation-only mention, have sane printing of documents processed, restructure method.  

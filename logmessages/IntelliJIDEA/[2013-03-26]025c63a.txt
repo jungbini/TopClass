@@ -1,0 +1,1 @@
+  fixed PY-9259 Unwrap/Remove action is not available with caret/selection inside statement with caret on empty line  

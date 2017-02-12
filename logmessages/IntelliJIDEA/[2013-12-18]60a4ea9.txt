@@ -1,0 +1,1 @@
+  fixed PY-11654 Move Statement: IOE at com.intellij.openapi.editor.impl.DocumentImpl.d  

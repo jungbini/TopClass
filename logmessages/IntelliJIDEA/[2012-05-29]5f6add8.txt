@@ -1,0 +1,1 @@
+  IDEA-86570 Create Setter intention generates 

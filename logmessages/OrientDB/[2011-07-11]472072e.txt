@@ -1,0 +1,1 @@
+  Fixed bug on recycling of OGraphDatabase instances reported by Guido in ML: the schema wasn't checked and initialized on reuse()  

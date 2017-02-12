@@ -1,0 +1,1 @@
+  fixed PY-6630 Bad generated script for update python module in system with sudo command  

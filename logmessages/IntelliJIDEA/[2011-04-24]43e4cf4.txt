@@ -1,0 +1,1 @@
+  Make HgPullCommand synchronous. This fixes IDEA-68096  

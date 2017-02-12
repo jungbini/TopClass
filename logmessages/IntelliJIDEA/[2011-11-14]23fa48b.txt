@@ -1,0 +1,1 @@
+ fixed PY-5014 Short chinese characters still show "Byte literal contains characters > 255"  

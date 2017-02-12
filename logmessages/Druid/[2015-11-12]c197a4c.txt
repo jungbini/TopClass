@@ -1,0 +1,1 @@
+ fix #1918, add unit tests for RemoteTaskActionClient  

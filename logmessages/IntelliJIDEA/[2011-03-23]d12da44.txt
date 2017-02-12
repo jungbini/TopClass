@@ -1,0 +1,1 @@
+  IDEA-54739: @PathVariable support: quick fixes  

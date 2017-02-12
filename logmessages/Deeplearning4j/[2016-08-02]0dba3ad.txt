@@ -1,0 +1,1 @@
+ Merge pull request #1927 from deeplearning4j/sa_fixtests  Fix some failing tests  commit a67ee3ab46d35af1045a86f4bd733740c3fcabe0  Merge pull request #1926 from deeplearning4j/ab_testfixes2  Add jackson test scope to fix spark tests  commit 0dba3ad0c25022762bf4eff5218888c1b87e3946  Add jackson test scope to fix spark tests  

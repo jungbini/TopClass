@@ -1,0 +1,1 @@
+  Make RuleKeyBuilder support no-op setters.  Summary: This fixes a bug where subclasses of RuleKeyBuilder couldn't override setters in a way that would make them truly no-op as the key would always be added.  Test Plan: CI new tests  

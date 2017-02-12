@@ -1,0 +1,1 @@
+  Check for exposed local classes (or objects) in type signatures: fix IDE test  

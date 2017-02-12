@@ -1,0 +1,1 @@
+  Simplify local class name serialization, don't go through extension  Also fix it for the case of a class in a non-default package  

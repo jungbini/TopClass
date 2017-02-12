@@ -1,0 +1,1 @@
+  docker_build: Fix double slashes in path resolution  Before the leading slash were not striped before appending the path prefix, leading to a double slash at that point.  -- MOS_MIGRATED_REVID=99807605  

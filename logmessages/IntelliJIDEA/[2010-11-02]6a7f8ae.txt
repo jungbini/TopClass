@@ -1,0 +1,1 @@
+  fix tests: forbid project file index usage if project is not open but startup activity had passed  

@@ -1,0 +1,1 @@
+  fixed test run configuration producer for functions  

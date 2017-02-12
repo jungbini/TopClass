@@ -1,0 +1,1 @@
+  revert fix: IDEA-75575 (maven: don't offer to re-import after formatting pom.xml)  

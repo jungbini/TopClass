@@ -1,0 +1,1 @@
+  Rename data_path to strip_prefix, and directory to package_dir. Fixes #1403  -- MOS_MIGRATED_REVID=125543227  

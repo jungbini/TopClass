@@ -1,0 +1,1 @@
+  fix KT-7042 Providing return type for property setter is not reported as error  #KT-7042 Fixed  

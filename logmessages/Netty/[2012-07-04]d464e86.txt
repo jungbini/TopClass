@@ -1,0 +1,1 @@
+  Fix a bug where HttpChunk.isLast() return true if the connection was closed and nothing was left in the internal buffer but the received content was not complete. See#433  

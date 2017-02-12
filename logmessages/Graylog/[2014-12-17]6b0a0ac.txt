@@ -1,0 +1,1 @@
+  test case for journal retention cleaning based on log size  added custom clock to prepare for timing based tests fix returning the number of cleaned segments for size based retention make sure we are left with the correct number of segments in tests  make it possible to trigger log retention from the outside (e.g. tests or command line tools)  

@@ -1,0 +1,1 @@
+  enable plugin with dependants (IDEADEV-24653); filtering fixes (IDEADEV-24990)  

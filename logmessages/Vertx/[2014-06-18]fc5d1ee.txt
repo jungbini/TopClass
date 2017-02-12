@@ -1,0 +1,1 @@
+ Fix distribution, add build readme, fix deploy verticle message from Starter  Signed-off-by: nscavell <nick.scavelli@gmail.com>  

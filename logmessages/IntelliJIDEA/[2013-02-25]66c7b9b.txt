@@ -1,0 +1,1 @@
+  fixed PY-8965 Inconsistent behavior for "Specify type for reference in docstring"  simplified logic for type intentions. Don't use inferred type.  

@@ -1,0 +1,1 @@
+  KT-2190 Highlight usages invoked on "throw" or "return" should highlight all exit-points of function  #KT-2190 fixed  

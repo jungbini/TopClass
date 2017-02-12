@@ -1,0 +1,1 @@
+  HDFS-9245. Fix findbugs warnings in hdfs-nfs/WriteCtx. Contributed by Mingliang Liu.  

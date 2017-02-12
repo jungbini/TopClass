@@ -1,0 +1,1 @@
+  resolve method conflicts fix + PsiVariable.getType() -> @NotNull  

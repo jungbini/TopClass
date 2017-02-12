@@ -1,0 +1,1 @@
+  fix for background(0, 0, 0, 0) reset issue  

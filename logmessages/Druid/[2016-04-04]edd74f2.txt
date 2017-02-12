@@ -1,0 +1,1 @@
+  Allow Lite DataSegment Announcements  separate config for each skipping dimensions, metrics and loadSpec  Add test  fix test comment  Add docs  

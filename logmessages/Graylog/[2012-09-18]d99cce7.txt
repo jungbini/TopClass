@@ -1,0 +1,1 @@
+  update deflector information every 5sec, not 60sec. fixes #SERVER-147  

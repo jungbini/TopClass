@@ -1,0 +1,1 @@
+  IllegalArgumentException fixed (EA-74605)  

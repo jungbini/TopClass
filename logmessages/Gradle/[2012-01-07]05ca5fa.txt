@@ -1,0 +1,1 @@
+  A bit more cleanup of Resource handling - Remove some legacy ivy logging from inlined code - Removed some unused code - Checkstyle fixes - Force close any abandoned http resources  

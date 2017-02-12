@@ -1,0 +1,1 @@
+  proper reinitialization of soft wrap model on font preferences change  * fixed bug in detection of font change * size of soft wrap signs now changes as expected on editor font size change  

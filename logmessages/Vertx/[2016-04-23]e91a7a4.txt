@@ -1,0 +1,1 @@
+  CompositeFutureImpl's all and any methods silently fail when composing >32 Futures - fixes #1387  

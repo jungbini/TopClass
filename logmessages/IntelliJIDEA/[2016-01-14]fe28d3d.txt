@@ -1,0 +1,1 @@
+  [java] using "InnerClasses" attribute for resolving binary names in .class stubs (IDEA-82515)  Previously, IDEA relied on heuristics to resolve binary names like "Map$Entry" into a source form ("Map.Entry"). The problem with this approach is that '$' is a legal part of Java identifiers. The fix (1) consolidates the heuristics from two 

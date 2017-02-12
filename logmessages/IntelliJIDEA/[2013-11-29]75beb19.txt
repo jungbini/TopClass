@@ -1,0 +1,1 @@
+  NPE protection for IDEA-117277, but actual NPE already fixed by Anna  

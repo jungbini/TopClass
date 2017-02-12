@@ -1,0 +1,1 @@
+  IDEA-63555 Field visibility in condition of if inside a closure bug  

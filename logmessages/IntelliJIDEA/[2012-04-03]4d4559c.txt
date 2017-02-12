@@ -1,0 +1,1 @@
+  fixed PY-5039 reStructuredText docstring and doctest conflicting for inspection  

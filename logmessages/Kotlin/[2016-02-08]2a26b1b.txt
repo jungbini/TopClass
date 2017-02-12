@@ -1,0 +1,1 @@
+  Conflicts: idea/tests/org/jetbrains/kotlin/idea/debugger/evaluate/KotlinEvaluateExpressionTestGenerated.java  

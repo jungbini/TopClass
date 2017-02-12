@@ -1,0 +1,1 @@
+  expandAll in TodoView fixed (IDEA-52324)  

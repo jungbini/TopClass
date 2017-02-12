@@ -1,0 +1,1 @@
+  fix doubled run current file linemarker  LineMarkerPass now queries providers twice: for visible (inner) and invisible (outer) elements so we need to find actual psi file in elements array.  

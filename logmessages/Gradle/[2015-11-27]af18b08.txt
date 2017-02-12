@@ -1,0 +1,1 @@
+ make M2Installation a TestRule  - automatically set test m2 folder when rule is used in test - apply rule to MavenPublishCoordinatesIntegTest, MavenNonUniqueSnapshotPublishIntegrationTest for now.  - TODO revisit other usages of M2Installation fixtures  

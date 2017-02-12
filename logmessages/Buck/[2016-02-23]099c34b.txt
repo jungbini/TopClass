@@ -1,0 +1,1 @@
+  C/C++: fix how we implicitly copy compiler flags to preprocessor flags  Summary:We always apply compiler flags to preprocessing, since in many cases these case implicit preprocessor macros to be defined, and it's really 

@@ -1,0 +1,1 @@
+  Adding debug message logging how many inactive agents were purged.  

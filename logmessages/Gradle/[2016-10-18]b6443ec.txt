@@ -1,0 +1,1 @@
+  Fix IDE generation for included builds  The 'jar' task for an included build is no longer executed when generating the IDE metadata for a composite build. This fixes generation for projects with dependency cycles.  

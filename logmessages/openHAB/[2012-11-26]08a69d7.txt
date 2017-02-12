@@ -1,0 +1,1 @@
+  fix NPE in Mail-Action when mail:tls parameter is not set properly  

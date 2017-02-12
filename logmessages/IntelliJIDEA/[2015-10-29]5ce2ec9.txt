@@ -1,0 +1,1 @@
+  smartPointer.get(Psi)Range should be not-null for valid pointers; fix related data race (EA-74922 - assert: TextRange.<init>)  

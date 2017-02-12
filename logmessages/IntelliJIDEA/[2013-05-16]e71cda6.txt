@@ -1,0 +1,1 @@
+  fixed PY-9796 Replace <name> with self.<name> inside staticmethods: AIOOBE at com.jetbrains.python.inspections.PyUnresolvedReferencesInspection$Visitor.a  

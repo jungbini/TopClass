@@ -1,0 +1,1 @@
+ Merge pull request #273 from cipherpunk/020  Fixing a bug that prevents two inputs of the same type being spawned if  commit 4e7b590f53b4415456f0cb5ea884cc6da3b48a12  Needed for corresponding patch to graylog2-server which fixes bug  

@@ -1,0 +1,1 @@
+  Mercurial Repository info problem fixed  *do not create new HgRepository instance, because info fields will be updated from null and HgVcs.STATUS_TOPIC will be published without necessarily  

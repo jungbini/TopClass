@@ -1,0 +1,1 @@
+  include converters in REST resources, fix deleting  

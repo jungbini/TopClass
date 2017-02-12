@@ -1,0 +1,1 @@
+  [r=Konstantin.Bulenkov] Bundle Source Code Pro 1.010 , it has fixes for bold ampersand rendering (IDEA-95675) (cherry-picked from df28942)  

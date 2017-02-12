@@ -1,0 +1,1 @@
+  do not close underlying UDP bootstrap in case of processor exceptions. fixes #426  

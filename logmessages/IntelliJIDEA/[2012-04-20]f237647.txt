@@ -1,0 +1,1 @@
+  create fields from params: fix name for mult params, final modifier fixed (IDEA-84852)  

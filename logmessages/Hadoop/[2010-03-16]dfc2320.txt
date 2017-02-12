@@ -1,0 +1,1 @@
+  HBASE-2313 Nit-pick about hbase-2279 shell fixup, if you do get with non-existant column family, throws lots of exceptions  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@923894 13f79535-47bb-0310-9956-ffa450edef68  

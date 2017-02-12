@@ -1,0 +1,1 @@
+  Fix Buck for empty test rules.  Summary: If a test rule is empty, we do not create the rule key file, since there is no test ouput in this case.  Test Plan: Integration test was failing without fix, it passes with the fix.  

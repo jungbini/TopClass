@@ -1,0 +1,1 @@
+  JS backend: fix init val in constructor  

@@ -1,0 +1,1 @@
+  gui-tests-framework: step Privacy Policy Agreement acceptance fix (names equality -> title equality for JDialog and name equality -> text equality for JButton)  

@@ -1,0 +1,1 @@
+  allow to choose between inner and outer classes for create from usage fixes: should not be available for create local variable  

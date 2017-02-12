@@ -1,0 +1,1 @@
+  Replaced getter methods with properties (because of fixed compiler bugs)  

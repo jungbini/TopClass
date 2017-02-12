@@ -1,0 +1,1 @@
+  automaton lib debug info and sources  

@@ -1,0 +1,1 @@
+  Removed original fix for missing compileTest on compile dependency for Groovy projects. The new autowiring stuff does this now.  

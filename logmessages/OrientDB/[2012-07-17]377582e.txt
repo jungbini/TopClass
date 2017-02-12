@@ -1,0 +1,1 @@
+  Updated detach process (now detaches also collections and maps) Fixed bug in OObjectLazyMap  

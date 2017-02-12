@@ -1,0 +1,1 @@
+  [patch]: remove file selection panel related to  'include base revision texts' option  * fix IDEA-140735 - "Create patch" should be performed under progress: now we exclude all big files silently * (IDEA-75771, IDEA-135267) UI file selector problem fixed  

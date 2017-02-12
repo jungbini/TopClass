@@ -1,0 +1,1 @@
+  fix split of wrapping range centered on a member token patch by Stu Hood; reviewed by jbellis for CASSANDRA-1700  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1030472 13f79535-47bb-0310-9956-ffa450edef68  

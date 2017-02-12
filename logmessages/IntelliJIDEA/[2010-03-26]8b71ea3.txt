@@ -1,0 +1,1 @@
+  fix StringConcatenationToFormatIntention is available for all binary expressions  

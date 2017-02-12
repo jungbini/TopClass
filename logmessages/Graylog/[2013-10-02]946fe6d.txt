@@ -1,0 +1,1 @@
+  remove debug commands  play update needs to be run before mvn get's a chance to get its dirty hands on the .m2 directory. it will poison it.  

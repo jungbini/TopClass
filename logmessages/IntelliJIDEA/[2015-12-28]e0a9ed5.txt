@@ -1,0 +1,1 @@
+  avoid 1s delay in completion in debugger fields if session is not stopped on a breakpoint  

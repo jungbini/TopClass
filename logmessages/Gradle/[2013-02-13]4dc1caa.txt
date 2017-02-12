@@ -1,0 +1,1 @@
+  Further attempt at build fix: - Put TestPrecondition on correct test! - Add UNKNOWN_OS + JDK6 to set of environments where unicode POMs cannot be resolved  

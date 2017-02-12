@@ -1,0 +1,1 @@
+  Merge -c 1239482 from trunk to branch-0.23 to fix MAPREDUCE-3771. Un-deprecated the old mapred apis, port of MAPREDUCE-1735.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1239484 13f79535-47bb-0310-9956-ffa450edef68  

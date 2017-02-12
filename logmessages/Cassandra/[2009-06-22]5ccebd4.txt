@@ -1,0 +1,1 @@
+  fix columnfamily id generation in the face of multiple tables and rip out TableMetadata serialization, which only complicates things needlessly.  patch by jbellis; reviewed by goffinet for CASSANDRA-79  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@787406 13f79535-47bb-0310-9956-ffa450edef68  

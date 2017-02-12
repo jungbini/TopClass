@@ -1,0 +1,1 @@
+  fixed layout in absence of icons  

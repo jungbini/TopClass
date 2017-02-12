@@ -1,0 +1,1 @@
+  fix X/Y/Z and TX/TY/TZ mixup because of new indices  

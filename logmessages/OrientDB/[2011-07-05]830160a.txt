@@ -1,0 +1,1 @@
+  Clustering: fixed bug on JSON with distributed configuration  

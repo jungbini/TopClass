@@ -1,0 +1,1 @@
+  fix(android): merge emoji keyboard size in cyanogen with soft naw buttons  

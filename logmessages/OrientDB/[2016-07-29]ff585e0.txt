@@ -1,0 +1,1 @@
+  HA: fixed problem of synchronisation during startup when the server passed is not published yet  

@@ -1,0 +1,1 @@
+  backport fix for SOE during component initialization (IDEA-79138)  

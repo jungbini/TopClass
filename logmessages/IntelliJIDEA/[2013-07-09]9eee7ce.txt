@@ -1,0 +1,1 @@
+  fixed PY-10186 "Method could be static" should ignore methods annotated with @abstractmethod  

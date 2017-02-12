@@ -1,0 +1,1 @@
+  Put "missing return statement" error at the right curly of function block, and provide a quick fix.  

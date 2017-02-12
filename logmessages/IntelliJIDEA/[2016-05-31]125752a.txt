@@ -1,0 +1,1 @@
+ test fixed: everybody posts to event queue like crazy, so ignore InvocationEvents  

@@ -1,0 +1,1 @@
+  switch maven coordinates, fix a build bug  

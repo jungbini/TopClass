@@ -1,0 +1,1 @@
+  fixed issue #4413 - Equals operator == is correct in 2.0.10 but fails in 2.1-SNAPSHOT  

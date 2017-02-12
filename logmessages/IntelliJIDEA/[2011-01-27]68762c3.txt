@@ -1,0 +1,1 @@
+  fixed PY-2795 Python 2.4 compatibility: Unified try/except/finally: missing inspection  

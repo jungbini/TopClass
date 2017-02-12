@@ -1,0 +1,1 @@
+  refactor and fix assignment operator on property bug  

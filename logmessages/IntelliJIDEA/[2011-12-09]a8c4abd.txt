@@ -1,0 +1,1 @@
+  form builder: fixed mnemonics and corrected indent for vertical=true  

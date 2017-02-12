@@ -1,0 +1,1 @@
+  +author, +psi instead of nanoxml, NPE fixes  

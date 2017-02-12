@@ -1,0 +1,1 @@
+  fix for IDEADEV-3938 and significant performance enhancement removed a debug System.out from WhileCanBeForeachInspection  

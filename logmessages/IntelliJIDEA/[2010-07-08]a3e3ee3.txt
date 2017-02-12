@@ -1,0 +1,1 @@
+  [Mercurial] HgVFSListener: many fixes for corner cases, including IDEA-56270 and IDEA-56268.  

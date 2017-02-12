@@ -1,0 +1,1 @@
+  MINOR: Trivial doc/ typo fixes.  The change in `docs/design.html` is hard to catch in the 

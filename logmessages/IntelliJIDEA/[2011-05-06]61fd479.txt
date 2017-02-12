@@ -1,0 +1,1 @@
+  [xena] mnemonics fix for dialogs in balloons - 2  

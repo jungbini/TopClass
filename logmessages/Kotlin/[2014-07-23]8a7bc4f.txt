@@ -1,0 +1,1 @@
+  fix R class not resolved in dummy file  

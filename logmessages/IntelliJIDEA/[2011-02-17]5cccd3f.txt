@@ -1,0 +1,1 @@
+  IDEA-65266 Pressing Ctrl+P hid text under cursor + other hint fixes  

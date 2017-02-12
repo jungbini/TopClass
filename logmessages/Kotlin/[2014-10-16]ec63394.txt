@@ -1,0 +1,1 @@
+  Check that boxing instruction is simple call  like T.valueOf(unboxType(T))  #KT-6047 fixed  

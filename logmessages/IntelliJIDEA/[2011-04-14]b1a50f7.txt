@@ -1,0 +1,1 @@
+  fix dumb-mode race condition on startup (IDEA-67563)  

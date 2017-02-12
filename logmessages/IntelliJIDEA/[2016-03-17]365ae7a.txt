@@ -1,0 +1,1 @@
+  editor: do not erase text on escape  fixup for 0234922  

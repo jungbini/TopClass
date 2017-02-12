@@ -1,0 +1,1 @@
+  kafka-1396; fix transient unit test ProducerFailureHandlingTest.testBrokerFailure;  patched by Guozhang Wang; reviewed by Jun Rao  

@@ -1,0 +1,1 @@
+  GRADLE-971: Add fix for this in MappingCopySpecVisitor  

@@ -1,0 +1,1 @@
+  Introduce Parameter: Reimplement in-place refactoring using AbstractInplaceIntroducer This simplifies implementation and fixes bug with unnecessarily detailed command history available through undo/redo  

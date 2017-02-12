@@ -1,0 +1,1 @@
+  fixes to openstream, movie opening, and avoid extra applet resizing  

@@ -1,0 +1,1 @@
+  Allow -SNAPSHOT suffix for Gradle version  

@@ -1,0 +1,1 @@
+  fix: QueryResource thread name includes whole inner query string for nested query (#3549)  * print exception details from QueryInterruptedException  * in QueryResource.java, set thread name to include dataSource names and not whole query string e.g. from QueryDataSource  

@@ -1,0 +1,1 @@
+  Do not start CheckOutPutThread in subprocesses without alive threads (PY-14969 )  If there is no alive threads, CheckOutputThread breaks debug session.  

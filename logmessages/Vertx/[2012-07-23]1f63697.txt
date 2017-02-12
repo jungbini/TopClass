@@ -1,0 +1,1 @@
+  fixed examples, changed java examples to run as source, various bits and pieces  

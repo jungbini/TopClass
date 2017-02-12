@@ -1,0 +1,1 @@
+  Added psvm synonym for main, synonym live templates added not only to completion.  #KT-1326 fixed  

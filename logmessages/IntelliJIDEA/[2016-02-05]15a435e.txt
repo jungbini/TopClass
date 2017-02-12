@@ -1,0 +1,1 @@
+  up-down inference: stop on explicitly typed lambda if it is analyzed now (mem leak fixed)  

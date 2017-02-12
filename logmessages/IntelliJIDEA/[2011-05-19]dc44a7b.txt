@@ -1,0 +1,1 @@
+  Fixed bug with searching for usages of global variables (PY-3547)  

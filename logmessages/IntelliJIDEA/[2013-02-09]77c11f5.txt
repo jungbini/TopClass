@@ -1,0 +1,1 @@
+  fix bad graph update in GraphModelImpl  

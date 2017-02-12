@@ -1,0 +1,1 @@
+  check for abstract method implemented optimized: don't go through hierarchy if superClass is not abstract and there is no interfaces, would also fix asm implementations with 'broken' erasures inside  

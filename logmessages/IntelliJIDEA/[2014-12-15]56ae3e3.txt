@@ -1,0 +1,1 @@
+  cancel scheduled debugger hints on mouseExited from the editor  

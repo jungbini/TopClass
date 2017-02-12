@@ -1,0 +1,1 @@
+  Removed some test fixture logic that is no longer required given the new minimum versions supported by the tooling API.  

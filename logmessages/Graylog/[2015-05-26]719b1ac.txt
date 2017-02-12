@@ -1,0 +1,1 @@
+ fix alertcondition tests  - use a spy on AlertService - fix non-null value being returned by mocked object - constructors need Searches instance  fixes #1159  

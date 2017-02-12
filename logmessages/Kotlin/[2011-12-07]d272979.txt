@@ -1,0 +1,1 @@
+  thread ring benchmark and related bug fixes (non null array creation and wrong signature of enclosing class)  

@@ -1,0 +1,1 @@
+  Rollback fix for #516 as it breaks IE. Instead add a new API for fixing #400 padding issue  

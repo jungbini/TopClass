@@ -1,0 +1,1 @@
+  fix(android): Fixing blurry contact avatars, fixing word capitalization in contact rename  

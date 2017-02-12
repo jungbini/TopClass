@@ -1,0 +1,1 @@
+  Move Debug console view related stuff to an appropriate class  

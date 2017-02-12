@@ -1,0 +1,1 @@
+  Javafx: FXML tag name completion fix - don't suggest type parameter of raw collection. Cache property types when computing completion list. Test added, similar tests simplified. (IDEA-153663)  

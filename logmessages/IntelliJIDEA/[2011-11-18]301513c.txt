@@ -1,0 +1,1 @@
+  fixed manage.py options for jython (made params group in command line)  

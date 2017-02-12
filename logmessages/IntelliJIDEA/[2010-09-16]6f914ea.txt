@@ -1,0 +1,1 @@
+ tests fixed and some duplicated shortcuts replaced by 'use-shortcut-of' attribute  

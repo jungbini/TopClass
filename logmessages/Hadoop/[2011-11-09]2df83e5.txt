@@ -1,0 +1,1 @@
+  MAPREDUCE-3333. Fixed bugs in ContainerLauncher of MR AppMaster due to which per-container connections to NodeManager were lingering long enough to hit the ulimits on number of processes. (vinodkv)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1199751 13f79535-47bb-0310-9956-ffa450edef68  

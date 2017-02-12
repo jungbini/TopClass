@@ -1,0 +1,1 @@
+  Polish Javadoc in TypeDescriptor  - fix @since version in array() - format method-level Javadoc - unescape HTML-escaped angle brackets with {@code} blocks  

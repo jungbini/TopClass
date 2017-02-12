@@ -1,0 +1,1 @@
+  GRADLE-2512: fix some deprecation messages, add more deprecation messages for methods on abstract task when task already executed.  

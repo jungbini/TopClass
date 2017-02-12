@@ -1,0 +1,1 @@
+  fixed docsBatch inititalization issue with calling docs.size()  

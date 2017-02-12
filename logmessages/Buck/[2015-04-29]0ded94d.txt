@@ -1,0 +1,1 @@
+  Restore behaviour of serialising tests when --debug flag is seen.  Summary: The debugger binds to a port, and only one process can bind to a port at a time.  Test Plan: Manually testing. Can't think of a sensible way of automating this, since it'd require us to connect a debugger to the correct port, and that's kind of tricky.  

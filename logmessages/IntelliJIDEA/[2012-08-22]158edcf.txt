@@ -1,0 +1,1 @@
+ schema implementations: cache parsed current file contents; NPE fix  

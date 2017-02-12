@@ -1,0 +1,1 @@
+  improved error message added debug info about constraint system status  

@@ -1,0 +1,1 @@
+  HDFS-4188. Add Snapshot.ID_COMPARATOR for comparing IDs and fix a bug in ReadOnlyList.Util.binarySearch(..).   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-2802@1410027 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  trivial fix to log4j.properties, which stops outputing info level message after kafka-683  

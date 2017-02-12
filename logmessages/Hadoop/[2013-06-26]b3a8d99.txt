@@ -1,0 +1,1 @@
+  YARN-874. Making common RPC to switch to not switch to simple when other mechanisms are enabled and thus fix YARN/MR test failures after HADOOP-9421. Contributed by Daryn Sharp and Vinod Kumar Vavilapalli.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1496692 13f79535-47bb-0310-9956-ffa450edef68  

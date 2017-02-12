@@ -1,0 +1,1 @@
+  show local hostname in main layout footer. fixes #600  

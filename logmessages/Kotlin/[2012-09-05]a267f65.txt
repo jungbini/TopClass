@@ -1,0 +1,1 @@
+  Front-end test data fixed to have no complex patterns #KT-2359 In Progress  

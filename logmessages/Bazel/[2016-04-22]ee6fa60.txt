@@ -1,0 +1,1 @@
+  cc_configure: Add -B to compiler flag too  On some target platform gcc invokes external tools during compilation, see #1152. Also support absolute path when looking for gcc.  This needs to be cherry-picked to fix #1177.  -- MOS_MIGRATED_REVID=120581887  

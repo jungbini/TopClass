@@ -1,0 +1,1 @@
+  Changed Http, Sftp and S3 resource test fixtures so they offer a more consistent API:  - Change HttpResource to implement RemoteResource - Extract RemoteArtifact out of HttpArtifact and change the other types to implement this.  

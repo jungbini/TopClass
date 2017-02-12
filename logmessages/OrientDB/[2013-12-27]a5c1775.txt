@@ -1,0 +1,1 @@
+ Fixed bug on profiler average metric, inserted first and last execution times  

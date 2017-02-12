@@ -1,0 +1,1 @@
+  IDEA-97855 Invalid rerun icon in debugger toolwindow  

@@ -1,0 +1,1 @@
+  better method naming, assertion conditions correction; reliably process events posted to debugger manager thread on its termination  

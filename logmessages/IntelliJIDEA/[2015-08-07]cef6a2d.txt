@@ -1,0 +1,1 @@
+  introduced pluggable ProjectModelModificationService to allow Maven, Gradle and other external systems plug into 'add missing dependency' fixes  

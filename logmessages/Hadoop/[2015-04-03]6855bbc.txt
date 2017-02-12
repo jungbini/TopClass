@@ -1,0 +1,1 @@
+ (cherry picked from commit 28e0602e7bf20581e3ce477512c60a854a4612d3)  Conflicts: hadoop-hdfs-project/hadoop-hdfs/CHANGES.txt  

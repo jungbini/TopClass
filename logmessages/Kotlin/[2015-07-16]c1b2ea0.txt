@@ -1,0 +1,1 @@
+  More elegant way to achieve the same + fixed KT-7746 Top level package name completion does not work inside class body  #KT-7746 Fixed  

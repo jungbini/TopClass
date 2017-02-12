@@ -1,0 +1,1 @@
+  IDEA-113686 Unable to debug gradle tests when -Dtest.single is used  

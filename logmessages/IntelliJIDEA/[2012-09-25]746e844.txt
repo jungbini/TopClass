@@ -1,0 +1,1 @@
+  refactor as prepare to fix WI-12979  extract LookupSynchronizerFactory extract document watcher from AutoTestManager (cherry-picked from 5632706)  

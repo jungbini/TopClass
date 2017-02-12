@@ -1,0 +1,1 @@
+se by introducing a way to pass the consumer context to the dependency resolution engine when constructing task dependencies. This is done by adding the `Configuration` instance to `DefaultDependencySet`, and by adding a method to `ProjectDependencyInternal` so that we can use the attributes to choose the appropriate configuration.  

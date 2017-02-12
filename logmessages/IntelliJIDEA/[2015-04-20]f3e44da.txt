@@ -1,0 +1,1 @@
+  Bigger lookup depth + a registry key for custom folding (fixes WEB-6643) - changes for [CR-IC-7343]  

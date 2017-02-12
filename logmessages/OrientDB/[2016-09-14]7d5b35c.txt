@@ -1,0 +1,1 @@
+  https://github.com/orientechnologies/orientdb/issues/6573  fixes CSVExtractor format selection  

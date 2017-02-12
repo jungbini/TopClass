@@ -1,0 +1,1 @@
+  Issue with date conversion during serialization was fixed.  

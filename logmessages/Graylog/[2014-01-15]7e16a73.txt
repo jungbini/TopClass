@@ -1,0 +1,1 @@
+  allow - as message key character  fixes #370  

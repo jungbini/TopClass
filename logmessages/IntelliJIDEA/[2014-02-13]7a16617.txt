@@ -1,0 +1,1 @@
+  Partial fix for IDEA-117025 Eclipse code style import: Blank Lines: some categories are not applied  

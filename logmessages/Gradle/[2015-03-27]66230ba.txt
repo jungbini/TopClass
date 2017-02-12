@@ -1,0 +1,1 @@
+  Extracted key store fixture for testing HTTPS resource access  

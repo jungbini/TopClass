@@ -1,0 +1,1 @@
+  Fix bug in SockJS JsonpTransportHandler  Issue: SPR-10621  

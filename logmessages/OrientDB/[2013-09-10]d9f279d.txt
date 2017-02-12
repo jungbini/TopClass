@@ -1,0 +1,1 @@
+  Fixed bug on fetch plan used in commands: sub-records haven't the @rid, @class and @version meta-fields  

@@ -1,0 +1,1 @@
+  fix for #364 - min- and maxvalues are now taken as start values if item is undefined  

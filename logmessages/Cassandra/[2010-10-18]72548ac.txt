@@ -1,0 +1,1 @@
+  fix potential infinite loop in 2ary index queries patch by jbellis; tested by Jason Tanner for CASSANDRA-1623  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1024000 13f79535-47bb-0310-9956-ffa450edef68  

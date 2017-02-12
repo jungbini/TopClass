@@ -1,0 +1,1 @@
+  Refactor bridges algorithm in codegen  - fix a typo (which apparently didn't matter) - queue now always contains originals, no need to invoke getOriginal() - no need to add current descriptor's original anymore, this was a hack working around a problem with trait-impl which was fixed by another change - a small optimization: don't do anything for constructors  

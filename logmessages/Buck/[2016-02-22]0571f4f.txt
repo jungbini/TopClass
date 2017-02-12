@@ -1,0 +1,1 @@
+  Generate deps for CxxPreprocessAndCompile build rules using a small helper class  Summary:Clearer, more concise, and more flexible.  Also fix a bug where prefix header wasn't being included in preprocess deps.  Test Plan: unit tests  Reviewed By: Coneko  fb-gh-sync-id: aaa5914 shipit-source-id: aaa5914  

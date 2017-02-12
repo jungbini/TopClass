@@ -1,0 +1,1 @@
+ Merge pull request #2551 from crockpotveggies/parallelwrapper-fix  Fix listener bug in ParallelWrapper.  commit 2319a24417af39d4eceee8093d633b81dfccff1e  Fix listener bug in ParallelWrapper.  @AlexDBlack removed all of the listener invocations except one. I fix.  

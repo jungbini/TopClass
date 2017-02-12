@@ -1,0 +1,1 @@
+  fixed PY-11435 Can't run script by context menu action if it has method named test  

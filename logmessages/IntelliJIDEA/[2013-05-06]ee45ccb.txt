@@ -1,0 +1,1 @@
+  Make ui designer card and tool providers extendable [fix-34266]  

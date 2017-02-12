@@ -1,0 +1,1 @@
+  DriverManager fixed in mockJDK: an up-to-date version with generics put it #KT-2850 Fixed  

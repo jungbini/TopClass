@@ -1,0 +1,1 @@
+  added option to resource inspections to allow resource to be opened inside a try-block in addition to opening it in front of a try-block (fixes IDEA-26256, IDEA-19608 and IDEA-19114)  

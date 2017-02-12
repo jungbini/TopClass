@@ -1,0 +1,1 @@
+  fixed instantation of base plugin in unit test  - problem only surfaced when second parameter was added to constructor (Groovy substitutes null for missing single argument)  

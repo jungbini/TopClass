@@ -1,0 +1,1 @@
+  Problem with file templates on resources_en.jar file change fixed.  

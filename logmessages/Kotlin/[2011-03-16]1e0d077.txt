@@ -1,0 +1,1 @@
+  Checks for . and ?. fixed for namespaces, a liitle bit of logic added for "foo.1"  

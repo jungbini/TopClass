@@ -1,0 +1,1 @@
+Also modified test to check options for generating dependency file.  -- MOS_MIGRATED_REVID=124441471  

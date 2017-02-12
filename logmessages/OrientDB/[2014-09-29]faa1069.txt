@@ -1,0 +1,1 @@
+  Issue #2545 bug with renaming of hdd file was fixed.  

@@ -1,0 +1,1 @@
+  *** Reason for rollback ***  Breaks CI, see, e.g., http://ci.bazel.io/job/bazel-tests/BAZEL_VERSION=HEAD,PLATFORM_NAME=ubuntu_15.10-x86_64/92/console  *** Original change description ***  C++ reimplementation of singlejar tool: first checkin.  -- MOS_MIGRATED_REVID=127554239  

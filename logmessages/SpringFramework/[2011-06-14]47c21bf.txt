@@ -1,0 +1,1 @@
+  fixed NamedParameterJdbcTemplate's handling of arrays as query parameters (SPR-7699)  

@@ -1,0 +1,1 @@
+  IDEA-140912 Run/Debug Configurations / Pressing Enter while naming the folder exits Dialog  

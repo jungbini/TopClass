@@ -1,0 +1,1 @@
+  KT-4770 Javac fails against Kotlin inner class  #KT-4770 fixed  

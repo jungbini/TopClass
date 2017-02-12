@@ -1,0 +1,1 @@
+  fix NPE querying DnDManager before application has been initialized  

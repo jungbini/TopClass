@@ -1,0 +1,1 @@
+  HDFS-4877. Snapshot: fix the scenario where a directory is renamed under its prior descendant. Contributed by Jing Zhao.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1490421 13f79535-47bb-0310-9956-ffa450edef68  

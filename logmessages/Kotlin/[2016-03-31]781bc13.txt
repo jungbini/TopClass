@@ -1,0 +1,1 @@
+  ExceptionTracker: do not increment counter on ReenteringLazyValueComputationException  ReenteringLazyValueComputationException is in fact correct behaviour which does not indicate a problem we should try to recover from This led to an obscure bug when resolve sessions were invalidated multiple times during light class construction (see KT-11635) #KT-11635 Fixed  

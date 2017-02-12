@@ -1,0 +1,1 @@
+  Reduntent check is removed and debug mode check is added  

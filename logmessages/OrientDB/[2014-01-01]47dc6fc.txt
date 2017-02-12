@@ -1,0 +1,1 @@
+  Issue #1604 Bug when data lost if storage is opened and closed was fixed.  

@@ -1,0 +1,1 @@
+ fixed protocol based on testing meter type landis & gyr E350  fixed baudrate handshake when using RS232 fixed searching for (0x02) to identify data  

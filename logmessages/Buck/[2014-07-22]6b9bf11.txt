@@ -1,0 +1,1 @@
+  Generate per package uber R.java with minimal set of ids.  Summary: Earlier, we invoked `aapt` on all the transitive android resource deps of an android binary to create an R.java per package, each containing symbols from all the packages. As a result, if you have N total symbols from k 

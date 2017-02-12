@@ -1,0 +1,1 @@
+  MAPREDUCE-430. Fix a bug related to task getting stuck in case of OOM error. Contributed by Amar Kamat.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20@808087 13f79535-47bb-0310-9956-ffa450edef68  

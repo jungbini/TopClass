@@ -1,0 +1,1 @@
+  implemented NodeSet.wrap() and along the way, Node.replace() and Nokogiri.make(). also fixed Nokogiri() and added test cases for Nokogiri(), replace(), wrap() and make(). last, made sure the XPath.node_set always returns a NodeSet, even if it's empty.  

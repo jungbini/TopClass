@@ -1,0 +1,1 @@
+  fixed bad description on the elements() helper methods (which are descendants not children) and added some helper methods for immediate child elements and text  

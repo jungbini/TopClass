@@ -1,0 +1,1 @@
+  [index] MapReduceIndex does not necessarily have inputs index  Add some Nullable annotations, fix possible NPE.  

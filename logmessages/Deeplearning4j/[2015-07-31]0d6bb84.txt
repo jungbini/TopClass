@@ -1,0 +1,1 @@
+ Merge ab_layer into cnn fixes.  commit 0d6bb848f3061ceb28bd776ff0bafc75036decd7  Partial progress. Pausing to fix an issue on master.  

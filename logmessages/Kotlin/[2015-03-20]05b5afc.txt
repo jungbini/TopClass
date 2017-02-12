@@ -1,0 +1,1 @@
+  Add removePrefix, removeSuffix, removeEnclosing methods. Deprecate trimLeading/trimTrailing/trim(String) methods in favor of new ones.  

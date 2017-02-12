@@ -1,0 +1,1 @@
+  fix(server:rpc): fix register push error  

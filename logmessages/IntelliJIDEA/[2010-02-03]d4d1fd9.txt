@@ -1,0 +1,1 @@
+  move classes to inner: fix command name (IDEA-52007)  

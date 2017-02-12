@@ -1,0 +1,1 @@
+  fix(history): more data-compatible sql migration  

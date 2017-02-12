@@ -1,0 +1,1 @@
+ Merge pull request #613 from deeplearning4j/bugfix-535  Bugfix 535 - remove redundant properties on NeuralNetConfiguration  commit 6977fb83886e4294f6dc458bf6420b700279784d  GRU backprop calculation order fix  

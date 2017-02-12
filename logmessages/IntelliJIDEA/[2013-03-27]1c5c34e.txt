@@ -1,0 +1,1 @@
+  Better way to run Tasks under ProgressManager in tests  Previously, Task#onSuccess or #onCancel were not executed in tests. To fix it, use the same method for tests as for modal tasks: Application#runProcessWithProgressSynchronously has a special case to run in testing environment.  

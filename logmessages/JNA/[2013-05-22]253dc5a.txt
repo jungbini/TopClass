@@ -1,0 +1,1 @@
+  work around linux-arm class incompatibility bug in StructureTest  

@@ -1,0 +1,1 @@
+  drop "ignore feature envy in tests" checkbox and use "suppress for 'Tests' scope" quickfix  

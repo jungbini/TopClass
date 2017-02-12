@@ -1,0 +1,1 @@
+  IDEA-100038 (slf4j paramerization quickfix bug)  

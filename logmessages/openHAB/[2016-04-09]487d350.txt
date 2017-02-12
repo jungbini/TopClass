@@ -1,0 +1,1 @@
+  added configuration meta-data for onewire binding fixes https://github.com/openhab/openhab/issues/4247  Signed-off-by: Kai Kreuzer <kai@openhab.org>  

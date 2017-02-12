@@ -1,0 +1,1 @@
+  IDEA-103986 android augment: implement isInheritor and isInheritorDeep methods for  light class element to fix red code [rev=roman.shevchenko]  

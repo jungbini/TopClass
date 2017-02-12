@@ -1,0 +1,1 @@
+  A fix for "IDEA-108038 Dialog pops up between windows" protected by ide.mac.modalDialogsOnFullscreen.  

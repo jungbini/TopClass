@@ -1,0 +1,1 @@
+  fixed  PY-8783 Specify return type using annotation: intention seems to do nothing  

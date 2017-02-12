@@ -1,0 +1,1 @@
+  include node_id in activities  fixes #SERVER-173  

@@ -1,0 +1,1 @@
+  KT-4485 getGenericInterfaces vs getInterfaces for kotlin classes  #KT-4485 fixed  

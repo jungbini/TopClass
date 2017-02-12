@@ -1,0 +1,1 @@
+  IDEA-138178 Push Dialog: Edit all targets affects only visible targets fixed  

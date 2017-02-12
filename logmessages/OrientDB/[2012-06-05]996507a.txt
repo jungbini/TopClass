@@ -1,0 +1,1 @@
+  Fixed bug on transactional indexes: the document copy was stored instead of the RID  

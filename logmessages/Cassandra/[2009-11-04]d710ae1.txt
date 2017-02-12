@@ -1,0 +1,1 @@
+  r/m obsolete calls to updateTokenMetadata from a manual test method (fixes build).  patch by jbellis  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.4@832822 13f79535-47bb-0310-9956-ffa450edef68  

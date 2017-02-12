@@ -1,0 +1,1 @@
+  registry.properties: fix documentation.component.editor.font description key  

@@ -1,0 +1,1 @@
+  Add text output format to Android IDE aspect.  For debugging. Simply serializes the proto to a text file.  -- MOS_MIGRATED_REVID=105621279  

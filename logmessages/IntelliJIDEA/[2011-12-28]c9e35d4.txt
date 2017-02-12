@@ -1,0 +1,1 @@
+  fixed PY-5412  Intention "Convert between single-quoted and double-quoted strings" is missing on unicode strings  

@@ -1,0 +1,1 @@
+  HADOOP-8002. SecurityUtil acquired token message should be a debug rather than info. (Arpit Gupta via mahadev) - Merging r1236976 from trunk.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1236977 13f79535-47bb-0310-9956-ffa450edef68  

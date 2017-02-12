@@ -1,0 +1,1 @@
+  fix bug on object delete orphans, issue #4811  

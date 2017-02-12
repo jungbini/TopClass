@@ -1,0 +1,1 @@
+  fix #1508: once again about composite literal  

@@ -1,0 +1,1 @@
+  don't fill common prefix in choose by name dialogs with empty prefix when they can't (IDEA-84432)  

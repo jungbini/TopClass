@@ -1,0 +1,1 @@
+  Update eclipse.gradle  This fix permits to import gradle in Eclipse with no compile errors in all src/main/java classes and mostly all src/test/groovy classes, so that one can run gradle as a simple java application.  

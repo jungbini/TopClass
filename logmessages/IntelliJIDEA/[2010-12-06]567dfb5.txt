@@ -1,0 +1,1 @@
+  [r=max] fix cyclic dependency problem (IDEA-62466)  

@@ -1,0 +1,1 @@
+  fix updating preview text when switching between preview tabs (don't know why Olesya commented it out :( )  

@@ -1,0 +1,1 @@
+  Decompiler & stub builder fixed accordingly with new enum syntax.  Companion object now directly follows enum entries to avoid having them at the middle. Some decompiler & stub builder tests fixed accordingly.  

@@ -1,0 +1,1 @@
+  do not load RefactorX intentions on project load do not suggest for import already imported schemes some usability fixes  

@@ -1,0 +1,1 @@
+  fixed issue #4430 - new parser doesn't support attributes  

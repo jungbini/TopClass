@@ -1,0 +1,1 @@
+  catch process canceled exception of pattern match calculation - fix review comment for WEB-22649 JSON Schema: patternProperties does not work.  

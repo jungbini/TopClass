@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=71 ("Add support for Broadcast.broadcastOnResume()")  Add the features, and also improve generics support in general.  

@@ -1,0 +1,1 @@
+  RUBY-12586: better handling for multiline sequences We should not reset state to YYINITIAL  on EOL inside multiline sequences or hashes #RUBY-12586 fixed  

@@ -1,0 +1,1 @@
+  fix demo jar files dependency on platform classes  

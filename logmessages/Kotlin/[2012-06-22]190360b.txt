@@ -1,0 +1,1 @@
+  EA-35501 fixed (checkBackingField assert)  

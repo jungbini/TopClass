@@ -1,0 +1,1 @@
+  handle extensions list properly (fixes #4615)  

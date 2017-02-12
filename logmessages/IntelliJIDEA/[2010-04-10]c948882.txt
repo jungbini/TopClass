@@ -1,0 +1,1 @@
+  IDEA-53034: Groovy: static import without package prefix is not resolved  

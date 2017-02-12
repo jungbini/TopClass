@@ -1,0 +1,1 @@
+  IDEA-62212: Required namespace prefix is not added on required subtags generation with Alt-Ins [rev. by greg]  

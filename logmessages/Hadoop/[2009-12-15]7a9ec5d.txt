@@ -1,0 +1,1 @@
+  Reverting HADOOP-5901. FileSystem.fixName() has unexpected behaviour.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@890941 13f79535-47bb-0310-9956-ffa450edef68  

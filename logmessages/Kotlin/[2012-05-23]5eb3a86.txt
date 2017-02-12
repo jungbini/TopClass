@@ -1,0 +1,1 @@
+  break CodegenTestCase : JetLiteFixture dependency  This is important because test base classes like JetLiteFixture has a lot of unused code/state that hardens reading/debugging.  

@@ -1,0 +1,1 @@
+  IDEA-133881 Debugger will not stop on a breakpoint in a method of an inner class of an anonymous - fixes after review  

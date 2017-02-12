@@ -1,0 +1,1 @@
+  VCS (tests) deadlock fix; IDEADEV-35011 (ClearCase: on Rollback file deleting exception is thrown)  

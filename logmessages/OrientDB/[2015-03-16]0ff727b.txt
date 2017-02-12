@@ -1,0 +1,1 @@
+  Issue #2874,  initialization of cluster tests with is fixed.  

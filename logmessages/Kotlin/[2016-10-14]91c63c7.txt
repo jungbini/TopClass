@@ -1,0 +1,1 @@
+  Ensure task build directory always exist  #KT-14253 fixed  

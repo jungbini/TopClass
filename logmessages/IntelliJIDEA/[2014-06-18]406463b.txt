@@ -1,0 +1,1 @@
+  fixed PY-13280 Create New Django Project: generate proper project settings when selecting non-django templating engine  

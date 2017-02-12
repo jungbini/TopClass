@@ -1,0 +1,1 @@
+  Multicaret: fix tests  

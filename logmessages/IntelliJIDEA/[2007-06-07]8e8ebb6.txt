@@ -1,0 +1,1 @@
+  save during actions and commands bugfix: ability to show history during actions  

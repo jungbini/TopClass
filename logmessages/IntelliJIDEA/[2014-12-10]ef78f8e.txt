@@ -1,0 +1,1 @@
+  platform: parallel-capable UrlClassLoader  Supposedly fixes all possible variants of IDEA-131621.  

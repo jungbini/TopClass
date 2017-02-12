@@ -1,0 +1,1 @@
+ fix regex search for bootstrap-core-x.x.x.jar  

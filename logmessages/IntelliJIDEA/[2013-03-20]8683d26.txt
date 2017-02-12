@@ -1,0 +1,1 @@
+  Fix drag & drop [fix-29653]  

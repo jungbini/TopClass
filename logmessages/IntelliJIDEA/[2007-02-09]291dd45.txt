@@ -1,0 +1,1 @@
+  fix performance for large number of unversioned/ignored files (IDEADEV-14288)  

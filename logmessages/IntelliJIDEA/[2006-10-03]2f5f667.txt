@@ -1,0 +1,1 @@
+  fixes for too trigger happy "access to static field locked on instance data"  

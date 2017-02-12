@@ -1,0 +1,1 @@
+  enum constants access inside enum constant initializers fixed (IDEA-125816)  

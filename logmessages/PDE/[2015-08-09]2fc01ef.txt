@@ -1,0 +1,1 @@
+  Don't toggle breakpoints when the debugger isn't enabled (fixes #3306)  

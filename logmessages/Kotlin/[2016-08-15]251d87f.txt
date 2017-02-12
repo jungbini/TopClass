@@ -1,0 +1,1 @@
+  Added ability to test quickfix with java dependencies  

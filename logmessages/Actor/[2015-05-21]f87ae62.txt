@@ -1,0 +1,1 @@
+  fix(ilectro): use play-json instead of upickle, some fixes  

@@ -1,0 +1,1 @@
+  fix PsiTypeLookupItem presentation for primitives and arrays  

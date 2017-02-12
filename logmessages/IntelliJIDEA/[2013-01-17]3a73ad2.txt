@@ -1,0 +1,1 @@
+  [r=Peter.Gromov] nullify actiongroup fields to avoid memory leaks from debugger  

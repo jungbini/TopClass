@@ -1,0 +1,1 @@
+  fixing how the hex() function works to prevent errors, other tidbits in the todo  

@@ -1,0 +1,1 @@
+  Distributed sync: oom risks are fixed, records sorted by batches, documentation is added.  

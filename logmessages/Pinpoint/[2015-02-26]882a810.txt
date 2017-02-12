@@ -1,0 +1,1 @@
+ added support for older Oracle JDBC drivers (10.x) - fixes #193  

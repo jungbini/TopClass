@@ -1,0 +1,1 @@
+  fixed PY-10460 Chameleon: missing completion of code blocks opening and closing tag  simplified completion of python keywords in mako files  

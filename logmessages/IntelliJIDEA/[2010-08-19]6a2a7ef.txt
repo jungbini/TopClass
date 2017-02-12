@@ -1,0 +1,1 @@
+  light bulb fixed for single line editors: placed at the editor corner + autohide if editor is a part of combobox and it's popup is invoked  

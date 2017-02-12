@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE]  Bug-fixing from ported tests. - Recognize the void and Object type names - Don't defer the return-type check if the return type is declared - Require that array indices be numbers - Check "prop access on non-object" for bracket accesses ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=63950763  

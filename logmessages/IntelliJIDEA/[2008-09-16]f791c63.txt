@@ -1,0 +1,1 @@
+  SVN: new svnkit (4880) + native changelists bug (take WC format from immediate parent/same folder not WC root)  

@@ -1,0 +1,1 @@
+  added change signature refactoring quick fix to the Incompatible signatures of _new_ and _init_ inspection  

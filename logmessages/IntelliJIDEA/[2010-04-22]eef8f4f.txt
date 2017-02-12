@@ -1,0 +1,1 @@
+  javadoc signature: short name for nested classes fixed  

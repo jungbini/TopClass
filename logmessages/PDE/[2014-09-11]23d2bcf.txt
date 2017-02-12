@@ -1,0 +1,1 @@
+ Merge pull request #2856 from JakubValtar/bugfix-font-outlines  Fix outlines around scaled fonts (#2845)  commit 6103d6a06eede5ef33049fe01bc6d683f897f0eb  Merge pull request #2855 from galsasson/master  TweakMode: fix oscp5 dependency check  commit 23d2bcf3a58dd06ac3f841759d85a1720d4acdf6  fix outlines around scaled fonts (#2845)  

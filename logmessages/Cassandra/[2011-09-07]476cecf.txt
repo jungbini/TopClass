@@ -1,0 +1,1 @@
+  fix IntervalTree max calculation patch by Paul Cannon; reviewed by Ben Coverston for CASSANDRA-3145  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1166302 13f79535-47bb-0310-9956-ffa450edef68  

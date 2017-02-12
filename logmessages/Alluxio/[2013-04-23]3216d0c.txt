@@ -1,0 +1,1 @@
+  fixed logging directory depending on which directory the master/worker was run from  

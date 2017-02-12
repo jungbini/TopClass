@@ -1,0 +1,1 @@
+  fixed "no params" message for python parameter info popup (since it's highlighted as disabled text)  

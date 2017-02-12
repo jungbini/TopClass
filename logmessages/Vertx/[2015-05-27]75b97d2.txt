@@ -1,0 +1,1 @@
+  fix: double decoding of form_urlencoded parameters. https://bugs.eclipse.org/bugs/show_bug.cgi?id=465616  Signed-off-by: sibay <sibay@gmx.de>  

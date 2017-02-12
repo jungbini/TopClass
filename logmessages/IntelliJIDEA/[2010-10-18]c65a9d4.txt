@@ -1,0 +1,1 @@
+  fixed highlighting for annotations was updated. Java specific names highlighting fixed.  

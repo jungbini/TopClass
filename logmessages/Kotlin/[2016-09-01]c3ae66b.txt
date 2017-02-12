@@ -1,0 +1,1 @@
+ Minor: fix compilation exception (due to exception in kotlinc) (cherry picked from commit 5f2d3c4)  

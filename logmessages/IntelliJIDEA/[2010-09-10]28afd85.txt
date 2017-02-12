@@ -1,0 +1,1 @@
+  jpa and javaee plugins extracted to separate jars to fix problem with overwritten meta-inf/services files  

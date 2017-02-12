@@ -1,0 +1,1 @@
+  turned Iterable to ArrayList, fixed potential null pointer in reservoir sampling  

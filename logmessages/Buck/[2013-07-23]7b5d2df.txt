@@ -1,0 +1,1 @@
+  Add assertExitCode() to ProjectWorkspace.  Summary: This will help clean up some boilerplate in existing integration tests and make it easier to debug failing tests.  Test Plan: Sandcastle builds.  

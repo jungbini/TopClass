@@ -1,0 +1,1 @@
+  convert PreContract to kotlin data classes, fix NPE  

@@ -1,0 +1,1 @@
+  fix id/shortname mess for local inspection tools (IDEADEV-32676)  

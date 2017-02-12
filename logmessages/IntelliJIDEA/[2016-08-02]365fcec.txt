@@ -1,0 +1,1 @@
+  IDEA-159314 Launching debug session fails complaining about '-classic' option not supported by JVM - fixed jdk version fallback in case home dir is not available  

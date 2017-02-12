@@ -1,0 +1,1 @@
+  EA-65128 - AIOOBE: DefaultMutableTreeNode.getChildAt - extra fix after review  

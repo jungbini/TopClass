@@ -1,0 +1,1 @@
+ Enabled a test which was fixed by GoTypeInterface.isImplementedBy()  

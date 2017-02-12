@@ -1,0 +1,1 @@
+  fixed [PY-2434] Unittest: Do not show "No test were found" notification before completing test suite  

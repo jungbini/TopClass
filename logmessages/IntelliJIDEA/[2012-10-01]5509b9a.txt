@@ -1,0 +1,1 @@
+  [github] fix dependency on markdown in a better way: export the library from tasks-core.  

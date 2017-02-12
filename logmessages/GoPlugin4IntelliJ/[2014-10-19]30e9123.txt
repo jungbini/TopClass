@@ -1,0 +1,1 @@
+ fix #844,find redeclare method of a type error in one golang file,add RedeclareInspection to xml file.  

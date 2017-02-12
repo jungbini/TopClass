@@ -1,0 +1,1 @@
+  fix "non-string for 8 value" message, also check version in dist.sh for Info.plist  

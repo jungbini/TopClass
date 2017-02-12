@@ -1,0 +1,1 @@
+  HADOOP-10989. Work around buggy getgrouplist() implementations on Linux that return 0 on failure. Contributed by Chris Nauroth.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1619659 13f79535-47bb-0310-9956-ffa450edef68  

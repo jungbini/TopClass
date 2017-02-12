@@ -1,0 +1,1 @@
+  Fix first bug (resetting lastTokenWasNewline) and add a test for that.  

@@ -1,0 +1,1 @@
+  stream creation redirect bug in case of error  

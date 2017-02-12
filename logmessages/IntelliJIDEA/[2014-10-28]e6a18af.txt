@@ -1,0 +1,1 @@
+  fix dialog presentation: message is expected to be inside html  

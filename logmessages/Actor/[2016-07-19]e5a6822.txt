@@ -1,0 +1,1 @@
+  fix(server:groups): rename typ -> groupType in GroupState  

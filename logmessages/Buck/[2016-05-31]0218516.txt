@@ -1,0 +1,1 @@
+  machoutils fix_compdir command to fix comp dir in Mach O binary's dwarf symbols  Summary: `buck machoutils fix_compdir --binary file.o --output unsanitized.o --old_compdir .///// --new_compdir /compdir/` This command will unsanitize the Mach O's file dwarf comp dir.  Test Plan: added tests  Reviewed By: Coneko  fbshipit-source-id: 0246fd1  

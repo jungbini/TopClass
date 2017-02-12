@@ -1,0 +1,1 @@
+  integrate from RubyMine10: fix adjustLineIndent() in template languages  

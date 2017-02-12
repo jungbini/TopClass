@@ -1,0 +1,1 @@
+  IDEA-88106 Auto-completion works incorrectly when I make and then fix a mistake  

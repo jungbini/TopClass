@@ -1,0 +1,1 @@
+  adding style attributes for svg, also fix the spacing in the file  

@@ -1,0 +1,1 @@
+  Correctly forward --profile flag in commands.  Summary: Some commands don't properly call Parser's methods and always disable profiling instead of forwarding the right value from options. This fixes that.  Test Plan: CI  

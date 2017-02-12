@@ -1,0 +1,1 @@
+  cpp: fix documentation of return value of GetNullaryOption() function  GetNullaryOption() is a function whose return type is bool, which can only return two possible values, true or false, and thus can not return NULL.  -- Change-Id: If9fc622d7132b15268bdcc76aed8d04fe5b92bc7 Reviewed-on: https://bazel-review.googlesource.com/#/c/4140/2 MOS_MIGRATED_REVID=128448779  

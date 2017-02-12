@@ -1,0 +1,1 @@
+  IDEA-77760 Don't store default values of code insight settings  Removed code that filtered duplicate settings (assuming that everyone affected by the bug has already updated the IDE)  

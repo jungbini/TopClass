@@ -1,0 +1,1 @@
+  working around an error caught in debugger: XmlAttributeValue got smth strange DummyHolder as a parent, not XmlAttribute  

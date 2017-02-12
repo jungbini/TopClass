@@ -1,0 +1,1 @@
+  fix(iOS): Fixing spanish translation and remove limit on titles on circle buttons  

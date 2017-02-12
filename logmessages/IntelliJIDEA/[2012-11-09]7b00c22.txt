@@ -1,0 +1,1 @@
+  reparse on file-leve-inspection-quick-fix doesn't trigger updateHighlighters  

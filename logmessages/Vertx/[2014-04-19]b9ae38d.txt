@@ -1,0 +1,1 @@
+ fixed modSuffix ternary expression so it appends -mod when true  Signed-off-by: David Dossot <david@dossot.net>  

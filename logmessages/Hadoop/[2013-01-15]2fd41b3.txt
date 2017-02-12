@@ -1,0 +1,1 @@
+  HDFS-4402. Some small DomainSocket fixes: avoid findbugs warning, change log level, etc. Contributed by Colin Patrick McCabe.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-347@1433242 13f79535-47bb-0310-9956-ffa450edef68  

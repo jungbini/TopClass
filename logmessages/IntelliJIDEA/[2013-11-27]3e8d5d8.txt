@@ -1,0 +1,1 @@
+  fix regress IDEA-119720 : schedule for update if file isn't too large  

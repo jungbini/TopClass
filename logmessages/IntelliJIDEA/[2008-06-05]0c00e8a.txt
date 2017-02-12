@@ -1,0 +1,1 @@
+  SVN: IDEADEV-26704  fixed (Integrate Project: Viewing the svn log for large projects is prohibitively slow). view splitted into pages + additional caching  

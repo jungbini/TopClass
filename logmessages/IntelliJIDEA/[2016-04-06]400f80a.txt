@@ -1,0 +1,1 @@
+  project configuration: 'throw inside finally blocks' inspection temporary disabled until IDEA-154184 is fixed  

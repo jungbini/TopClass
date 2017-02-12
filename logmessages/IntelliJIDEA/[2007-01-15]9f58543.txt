@@ -1,0 +1,1 @@
+  set up macros in write action take into account path.macro prefix in 'macro' system variable  

@@ -1,0 +1,1 @@
+  Fixed bug that in a Groovy project compileTest does not depend on compile.  

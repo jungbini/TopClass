@@ -1,0 +1,1 @@
+  fix ci build; mention changed GradleProjectBuilder behaviour in release notes  

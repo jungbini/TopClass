@@ -1,0 +1,1 @@
+that the conditions should check isMetaTable || isRootRegion, not just isMetaTable. Will recommit a fixed version.   git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1163406 13f79535-47bb-0310-9956-ffa450edef68  

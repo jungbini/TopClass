@@ -1,0 +1,1 @@
+  IDEA-108023 - fix scrolling in the editor  

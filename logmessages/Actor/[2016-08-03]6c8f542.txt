@@ -1,0 +1,1 @@
+  fix(server:dialog): handle queries when stashing to send message  

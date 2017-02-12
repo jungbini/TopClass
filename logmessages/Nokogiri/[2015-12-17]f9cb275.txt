@@ -1,0 +1,1 @@
+  fixes a broken test in JRuby  

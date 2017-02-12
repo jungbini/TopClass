@@ -1,0 +1,1 @@
+auto to html and angular result container  

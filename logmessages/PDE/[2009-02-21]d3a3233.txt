@@ -1,0 +1,1 @@
+ bug fix release  commit d3a3233296a4a5b8db896304a3c22d3c8c07b623  blend() y coordinates inverted when using OpenGL (bug #1137)  

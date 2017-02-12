@@ -1,0 +1,1 @@
+  Linker map support  Summary:Allow linking to optionally support a linker map detailing object files and locations.  Currently this is implemented for Darwin, where the linker map is output alongside the binary, with the suffix -LinkMap.txt appended.  Test Plan: CI  Reviewed By: beefon  fb-gh-sync-id: 798ea94 fbshipit-source-id: 798ea94  

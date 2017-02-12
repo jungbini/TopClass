@@ -1,0 +1,1 @@
+  Fixed com.alibaba.json.bvt.bug.Bug_for_smoothrat5#test_map to not rely on nondeterministic APIs  

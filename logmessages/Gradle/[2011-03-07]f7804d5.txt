@@ -1,0 +1,1 @@
+  fixed build problem that caused all tests exercising the test report (intentionally or not) to fail  

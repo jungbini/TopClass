@@ -1,0 +1,1 @@
+  fixed PY-12477 Project Interpreter is not set when attaching created project to currently opened one  

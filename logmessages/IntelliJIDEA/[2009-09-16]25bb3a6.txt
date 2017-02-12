@@ -1,0 +1,1 @@
+  RUBY-4996: Structure view updates fixed - YAMLPsiManager implemented  

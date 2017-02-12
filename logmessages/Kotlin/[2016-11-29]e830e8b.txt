@@ -1,0 +1,1 @@
+  Fixed several bugs in Android lint ApiDetector (KT-15002, KT-12024, KT-14737, KT-14825, KT-12023, KT-15018)  Merged IntelliJApiDetector to ApiDetector  #KT-15002 Fixed #KT-12024 Fixed #KT-14737 Fixed #KT-14825 Fixed #KT-12023 Fixed #KT-15018 Fixed  

@@ -1,0 +1,1 @@
+  Fix #378 again  - @jroper's fix did not work, so I just fixed it again. Conflicts:  src/main/java/org/jboss/netty/handler/codec/http/DefaultCookie.java  

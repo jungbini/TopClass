@@ -1,0 +1,1 @@
+  GRADLE-2167: Fix broken CI build; Introduce FindBugsExecuter for dealing with Findbugs API and delay FindBugs API classloading when task fb worker process is executed.  

@@ -1,0 +1,1 @@
+ bug a9016a2 [Prabhjyot Singh] Paragraph menu does not disappear on selecting width  

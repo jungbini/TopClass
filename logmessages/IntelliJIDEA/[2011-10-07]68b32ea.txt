@@ -1,0 +1,1 @@
+  don't select case-insensitive items matching already entered prefix, while still move them to the top of the list  

@@ -1,0 +1,1 @@
+  Maven: add module wizard npe fix  

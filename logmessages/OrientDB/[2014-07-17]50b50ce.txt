@@ -1,0 +1,1 @@
+  add of configuration for choose the default serializer, plus a couple of minor fix.  

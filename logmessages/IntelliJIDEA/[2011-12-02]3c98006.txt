@@ -1,0 +1,1 @@
+  fixed PY-5196 Move statement: gets stuck on moving class after compound statement  

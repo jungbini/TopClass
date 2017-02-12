@@ -1,0 +1,1 @@
+  Dirty hack for fixing #1785  Make AtmopshereResourceFactory abstract and implement it in DefaultAtmosphereResourceFactory.  

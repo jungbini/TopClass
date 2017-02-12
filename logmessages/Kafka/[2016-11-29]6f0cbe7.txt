@@ -1,0 +1,1 @@
+  MINOR: doc fix related to monitoring consumer lag  Author: Alex Loddengaard <alexloddengaard@gmail.com>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1814 from alexlod/consumer-lag-doc-fix  

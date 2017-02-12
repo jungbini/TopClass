@@ -1,0 +1,1 @@
+  First and Last Aggregator (#3566)  * add first and last aggregator  * add test and fix  * moving around  * separate aggregator valueType  * address PR comment  * add finalize inner query and adjust v1 inner indexing  * better test and fixes  * java-util import fixes  * PR comments  * Add first/last aggs to ITWikipediaQueryTest  

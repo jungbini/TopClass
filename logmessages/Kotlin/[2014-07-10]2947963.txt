@@ -1,0 +1,1 @@
+  IDEA plugin: fixed highlighting for objects.  

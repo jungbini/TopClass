@@ -1,0 +1,1 @@
+  'Add junit to classpath' quick-fix moved to junit plugin  

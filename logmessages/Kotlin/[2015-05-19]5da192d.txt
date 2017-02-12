@@ -1,0 +1,1 @@
+  DeprecatedSymbolUsageFix - fixed bug with usage in derived class  

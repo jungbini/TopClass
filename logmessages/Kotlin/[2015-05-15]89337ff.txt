@@ -1,0 +1,1 @@
+  Change deprecation rules for annotations in brackets  Also adjust quickfix for deprecated syntax  

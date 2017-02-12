@@ -1,0 +1,1 @@
+  Move comments closer to the code they describe.  Also fixes some grammar and indentation.  -- MOS_MIGRATED_REVID=91979763  

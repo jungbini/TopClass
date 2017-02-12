@@ -1,0 +1,1 @@
+ Merge pull request #1432 from metamx/config-fix  fix passing of config from IndexTuningConfig to RealtimeTuningConfig  commit 963682d69681691f39dbe047905929b9fe4bd9af  Add check for valid rowFlushBoundary configuration and fix tests  

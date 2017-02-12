@@ -1,0 +1,1 @@
+  added Make public quick fix for the protected member access inspection  

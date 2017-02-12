@@ -1,0 +1,1 @@
+  [Mercurial] NPE fix: result is abort if it is null. EA-21307  

@@ -1,0 +1,1 @@
+ some test fixture renamings  TestComponent -> TestNativeComponent AbstractLanguageIncrementalBuildIntegrationTest -> AbstractNativeLanguageIncrementalBuildIntegrationTest  +review REVIEW-5273  

@@ -1,0 +1,1 @@
+  Upgrade the AWS SDK and fix a breaking change introduced by that upgrade.  - Fixes the issue described here: https://github.com/aws/aws-sdk-java/issues/727  +review  

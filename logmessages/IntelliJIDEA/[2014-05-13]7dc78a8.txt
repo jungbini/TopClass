@@ -1,0 +1,1 @@
+  IDEA-124772 Code completion in import statement: suggestion shows package from "java.lang", but when it's selected "java.lang" prefix isn't  

@@ -1,0 +1,1 @@
+  Enforcing strong contract: no access to invalid element is allowed.  Generally, you should never access invalid element. Invalid element is stale (cached somewhere and reused) hence it is bug to use it. We now use PyPsiUtil.assertValid to fight such access. Is you have PSIAE doublecheck your code. Beware of PSIAE error: it uses heuristic and may give wrong reason.  

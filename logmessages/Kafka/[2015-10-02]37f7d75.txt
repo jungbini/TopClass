@@ -1,0 +1,1 @@
+  KAFKA-2591: Fix StreamingMetrics  Remove state storage upon unclean shutdown and fix streaming metrics used for local state.  Author: Guozhang Wang <wangguoz@gmail.com>  Reviewers: Edward Ribeiro, Yasuhiro Matsuda, Jun Rao  Closes #265 from guozhangwang/K2591  

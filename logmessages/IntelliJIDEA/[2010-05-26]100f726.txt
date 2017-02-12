@@ -1,0 +1,1 @@
+  git4idea: IDEA-54695: fixed a case for disk/memory conflict during update  

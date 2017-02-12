@@ -1,0 +1,1 @@
+  IG: add "Replace with 'Optional.empty()'" quickfix  

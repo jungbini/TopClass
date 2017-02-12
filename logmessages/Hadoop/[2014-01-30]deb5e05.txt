@@ -1,0 +1,1 @@
+  Updating branch-2's MAPREDUCE CHANGES.txt to reflect the recent rebase of unreleased 2.3 to more latest branch-2. Updating trunk's MAPREDUCE CHANGES.txt to fix more 

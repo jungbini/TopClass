@@ -1,0 +1,1 @@
+  enable the scary fix for IDEA-83714 Non-existent class in generic arguments trips the smart auto-completion component  

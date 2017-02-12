@@ -1,0 +1,1 @@
+  IDEA-146465 Do not enable the checkbox "Update issue state" by default  since it might lead to accidental change of an issue state, especially if user tries our integration with bug trackers for the first time.  

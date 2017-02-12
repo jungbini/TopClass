@@ -1,0 +1,1 @@
+  Code review housekeeping. Removed one unnecessary test method. Made the other tests use tooling api directly, without deciding on embedded/or not. This means that forking CI builds may not detect the issue but dev environments will. This also means the test can run in 

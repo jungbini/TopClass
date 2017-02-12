@@ -1,0 +1,1 @@
+  fix for code signing on Mavericks (#2453)  

@@ -1,0 +1,1 @@
+  SQL fixed runtime f(x) usage of evaluate passing curren record  

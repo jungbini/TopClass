@@ -1,0 +1,1 @@
+  Move stable-plugins-dsl M1.3 into git  - This fixes gradle/stable-plugins-dsl#3  

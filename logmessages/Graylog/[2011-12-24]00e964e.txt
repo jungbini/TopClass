@@ -1,0 +1,1 @@
+  allowe to override date of syslog messages to NOW  this takes place if the date could not be parsed. configurable via graylog2.conf. fixes #SERVER-90  

@@ -1,0 +1,1 @@
+  rename/findUsages for not annotated persistence attributes & fixes  

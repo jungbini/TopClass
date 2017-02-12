@@ -1,0 +1,1 @@
+  fix invert if followed by break bugs (IDEA-38798 & IDEA-112313)  

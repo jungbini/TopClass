@@ -1,0 +1,1 @@
+  Bug fix: Call stopEditing() on table before closing the dialog.  

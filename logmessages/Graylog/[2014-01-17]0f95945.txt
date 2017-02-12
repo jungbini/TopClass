@@ -1,0 +1,1 @@
+  lowercase source when indexing  source names should be case-insensitive, thus we analyze it as a keyword and lowercase the entire thing  fixes #378  

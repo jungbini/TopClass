@@ -1,0 +1,1 @@
+ Fixed EA-49990: assert: TextRange.<init>  Don't calculate offsets for sub-elements, just pass the element for an unresolved reference and the range of the reference in the element. Updated quick-fixes to use this data.  

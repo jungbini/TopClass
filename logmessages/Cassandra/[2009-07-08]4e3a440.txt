@@ -1,0 +1,1 @@
+  spelling fixes.  patch by Michael Greene; reviewed by jbellis for CASSANDRA-281  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@792126 13f79535-47bb-0310-9956-ffa450edef68  

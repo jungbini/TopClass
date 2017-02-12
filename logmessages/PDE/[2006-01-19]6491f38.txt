@@ -1,0 +1,1 @@
+  notes on fix for osx pdf bug  

@@ -1,0 +1,1 @@
+ query reference quickfixes from LocalQuickFixProvider, not just QuickFixProvider  

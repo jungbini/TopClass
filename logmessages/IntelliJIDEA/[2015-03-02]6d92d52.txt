@@ -1,0 +1,1 @@
+  trove4j updated: T*ObjectHashMap - clone() fixed to fully copy _set array TObject*HashMap - added hashCode() T* - made compilable under JDK 5 (no @Override in interfaces) T*Byte* - added byte/Object to byte/Object maps and sets specializations T*Map, T*Set - toString() added  

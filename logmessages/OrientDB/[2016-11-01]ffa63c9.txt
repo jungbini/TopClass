@@ -1,0 +1,1 @@
+  Added missing synchronisation that caused random error with distributed tests because the call to database.load()  HA: fixed also test cases that failed randomly  

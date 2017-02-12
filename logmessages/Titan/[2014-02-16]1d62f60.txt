@@ -1,0 +1,1 @@
+  Refactored IDManager to add new vertex types. Also fixes #467.  

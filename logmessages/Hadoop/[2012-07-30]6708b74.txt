@@ -1,0 +1,1 @@
+  svn merge -c 1301551,1300642,1332821,1303884 FIXES:MAPREDUCE-4010,HADOOP-8167,HADOOP-8172,HADOOP-8197 Patches to fix OOZIE-761   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1367102 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  fixed bug deletion on spatial index  

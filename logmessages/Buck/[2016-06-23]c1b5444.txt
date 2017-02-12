@@ -1,0 +1,1 @@
+  python: fix runtime dep propagation for in-place binaries  Summary: Propagate runtime deps from python binary dependencies.  Test Plan: updated unittests to test in-place binaries  Reviewed By: k21  fbshipit-source-id: 105df82  

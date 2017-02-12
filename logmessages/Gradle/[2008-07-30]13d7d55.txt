@@ -1,0 +1,1 @@
+  Fixed bug in install task Added ant-trax for JUnit reporting Added convenience developer build task (Patch by Adam Murdoch)  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@675 004c2c75-fc45-0410-b1a2-da8352e2331b  

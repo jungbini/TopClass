@@ -1,0 +1,1 @@
+  Rendering changed: "annotation class" is now just "class" (with kotlin.annotation.annotation if it's kotlin annotation).  A swarm of tests fixed accordingly.  

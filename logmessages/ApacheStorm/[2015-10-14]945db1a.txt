@@ -1,0 +1,1 @@
+  Fixed issue with disruptor queue timeout.  Also updated it to use AtomicReference so debugging checks can be simpler.  

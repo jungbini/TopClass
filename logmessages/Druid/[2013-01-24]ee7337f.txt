@@ -1,0 +1,1 @@
+  1) Adjust the Timeseries caching fixes to still store the long, but do the timezone adjustment on the way out. 2) Store a reference to the granularity object instead of getting it every time  

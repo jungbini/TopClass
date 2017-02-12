@@ -1,0 +1,1 @@
+  IDEA-75922 Debugging lazy loaded JPA entity attributes: added option to suppress auto expressions sin Variables view  

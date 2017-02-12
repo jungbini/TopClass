@@ -1,0 +1,1 @@
+  Exception is fixed. We should not assume that  IdeFrame successors are frames.  

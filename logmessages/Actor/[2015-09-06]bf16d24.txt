@@ -1,0 +1,1 @@
+  feat(*): Notifications refactoring, notifications for mentions always enabled, fixing unsupported service message text  

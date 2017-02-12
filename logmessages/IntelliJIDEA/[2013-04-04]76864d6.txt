@@ -1,0 +1,1 @@
+  commit 76864d65055d5cdc9a95e923f2cf7c911f1c8983  misc favorites-breakpoint fixes; BreakpointsFavoritesManagerd has been moved to xdebugger-impl (IDEA-104033 New Favorites window throws exception in the RubyMine) (cherry picked from commit fa26cb9) http://crucible.labs.intellij.net/cru/CR-IC-644  

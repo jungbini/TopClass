@@ -1,0 +1,1 @@
+  Upping pom memory and changing zk default port to help debug; on first, no harm in letting heap grow and on second, there seems to be errant zk cluster running on hudson ... trying to see if tests generate it when run clean  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1022263 13f79535-47bb-0310-9956-ffa450edef68  

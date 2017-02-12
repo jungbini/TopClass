@@ -1,0 +1,1 @@
+  fix potential use of free'd native memory interface/SerializingCache patch by jbellis; reviewed by slebresne for CASSANDRA-2951  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1151625 13f79535-47bb-0310-9956-ffa450edef68  

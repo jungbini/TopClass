@@ -1,0 +1,1 @@
+  Console: fixed problem with multiple commands passed via command line  

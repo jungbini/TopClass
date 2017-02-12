@@ -1,0 +1,1 @@
+  IDEADEV-20892 fixed (Add possibility to copy URL in SVN Repositories)  

@@ -1,0 +1,1 @@
+  Added initial support for Django 1.3 class based views migration quick-fix intention.  

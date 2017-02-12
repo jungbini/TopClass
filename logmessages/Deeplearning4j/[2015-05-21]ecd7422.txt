@@ -1,0 +1,1 @@
+ Merge pull request #278 from deeplearning4j/canovarecordreaderfix  add hard stop on record reader  commit e33574fabd166a621c1e3b3fe63435c27c1793de  Merge pull request #277 from deeplearning4j/setParamsfixes  setParamsfixes  commit ecd7422762b098e4e67c804bdfcc936ed0877d04  setParamsfixes  

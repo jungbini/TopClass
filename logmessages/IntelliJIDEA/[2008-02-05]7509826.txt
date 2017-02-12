@@ -1,0 +1,1 @@
+  Revert: Hopefully, fixed a EOFException finding VirtualFile attribute value.  

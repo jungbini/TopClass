@@ -1,0 +1,1 @@
+  Minor titan-hadoop-parent pom fixes  

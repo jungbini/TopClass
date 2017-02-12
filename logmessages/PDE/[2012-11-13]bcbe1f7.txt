@@ -1,0 +1,1 @@
+  some fixes for mouse button problems (issue 1350, issue 1373)  

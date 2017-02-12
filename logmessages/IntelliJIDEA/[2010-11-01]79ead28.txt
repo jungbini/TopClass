@@ -1,0 +1,1 @@
+  VCS: line status tracker installing/removing fix. All changes to line status trackers model (that in LineStatusTrackerManager) will be done under write action. + dummy implementation if lst is forbidden. + just translate into current line in VCS annotation, no false tracker creation. + fix for "Diff for change" when last symbol in line is added  

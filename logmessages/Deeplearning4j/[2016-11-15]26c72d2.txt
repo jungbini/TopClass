@@ -1,0 +1,1 @@
+ Scores decrease due to revision in calculations to pass in probabilities instead of sample. Allows for gradients to fluctuate and adjust. Previous calculations used binary samples that caused the gradient to get stuck and unable to learn. Also fixed in pretrain the gradients need to be added to weights instead of subtracted.  

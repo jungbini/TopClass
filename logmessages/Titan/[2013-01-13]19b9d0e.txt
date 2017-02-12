@@ -1,0 +1,1 @@
+  various improvements and safeguards around path handling in FaunusVertex. Fixed an object reuse bug around paths as well.  

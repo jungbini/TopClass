@@ -1,0 +1,1 @@
+  fixed PY-5018 "Inherit from object" gives messed up code for child-class  

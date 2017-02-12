@@ -1,0 +1,1 @@
+  sql completion test fix & non-strict TextRange.containsOffset (same semantics for findReferenceAt & reference completion)  

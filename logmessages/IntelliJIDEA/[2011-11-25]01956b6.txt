@@ -1,0 +1,1 @@
+  new ui: fixing welcome message if no files are open + border at the top in the same case  

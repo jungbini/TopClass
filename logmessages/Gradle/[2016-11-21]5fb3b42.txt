@@ -1,0 +1,1 @@
+  Use fixed file order for patched external modules  There was a change in the order of these files which did impede caching of integration tests since they are on the classpath for :integTest:integTest and :wrapper:integTest  +review REVIEW-6372  

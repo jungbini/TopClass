@@ -1,0 +1,1 @@
+  Fixed bug in type checker for functions that raise exceptions instead of returning a value (PY-5873)  

@@ -1,0 +1,1 @@
+  fix+feat(web): get true settings for current dialog notifications, add color to add/remove from the contacts link;  

@@ -1,0 +1,1 @@
+  IDEA-CR-7912 code was rewritten from scratch to make it robust and clear. Major issue was fixed  we must check and save project name only and only if user explicitly set new name.  tests added  

@@ -1,0 +1,1 @@
+  Possible fix for #890  - Relative ranges no longer store to date to be reusable  

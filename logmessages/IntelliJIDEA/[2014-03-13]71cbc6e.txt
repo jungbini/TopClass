@@ -1,0 +1,1 @@
+  added update property signature quick fix to the Property definitions inspection  

@@ -1,0 +1,1 @@
+  Issue 695 was fixed.  

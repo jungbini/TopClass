@@ -1,0 +1,1 @@
+  guava type migration: chained invocations of optional methods + Optional#transform fixed (IDEA-147749)  

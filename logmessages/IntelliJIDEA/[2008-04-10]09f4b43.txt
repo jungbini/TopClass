@@ -1,0 +1,1 @@
+  fixed 'incompatible collection type' when collection referenced from another module with 

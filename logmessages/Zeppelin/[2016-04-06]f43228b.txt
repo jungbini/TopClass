@@ -1,0 +1,1 @@
+e temporary files for Python and R Spark Interpreters. Add cleanup of Python temporary file on close().  

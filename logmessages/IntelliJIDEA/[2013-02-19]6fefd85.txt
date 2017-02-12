@@ -1,0 +1,1 @@
+  [github] Share Project: fix github host url for Enterprise. IDEA-101424  Instead of always using https://github.com, use the host defined in the settings.  

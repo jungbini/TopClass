@@ -1,0 +1,1 @@
+  fix NPE if there is no "Other" page in plugin configuration wizard (EA-66081)  

@@ -1,0 +1,1 @@
+  Add more integTest coverage for GRADLE-2364 / GRADLE-2175 - some coverage for changing ivy artifacts - add integtest when dealing with non unique maven snapshots - introduced some more expectations on ivy related integ test fixtures. Todo: extract artifact handling in ivyhttpmodule to dedicated fixture.  

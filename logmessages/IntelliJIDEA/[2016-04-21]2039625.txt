@@ -1,0 +1,1 @@
+  quick fix for loading plugins in tests: use correct snapshot build number  

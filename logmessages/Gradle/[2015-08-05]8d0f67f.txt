@@ -1,0 +1,1 @@
+  Some simplifications to communicating statusto the running Play app.  Besides some cosmetic/structural stuff, this fixes a race condition whereby successive reloads would be initiated if requests came in (very) close together when a reload was pending.  +review REVIEW-5571  

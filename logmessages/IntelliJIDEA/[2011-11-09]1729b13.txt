@@ -1,0 +1,1 @@
+  Run Configurations: regression fixed: selected shared configurations are not restored on project open (IDEA-76598)  

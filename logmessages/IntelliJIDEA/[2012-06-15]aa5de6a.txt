@@ -1,0 +1,1 @@
+ added updater for versions.xml fixed PY-6704 Update compatibility inspection for Python 3.3  

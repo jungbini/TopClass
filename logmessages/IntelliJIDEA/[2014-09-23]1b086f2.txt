@@ -1,0 +1,1 @@
+  maven: tests fixed which require maven3 for the import (MiscImportingTest#testMavenExtensionsAreLoadedAndAfterProjectsReadIsCalled and MiscImportingTest#testExceptionsFromMavenExtensionsAreReportedAsProblems)  

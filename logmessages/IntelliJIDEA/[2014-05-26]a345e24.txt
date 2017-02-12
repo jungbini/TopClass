@@ -1,0 +1,1 @@
+  IDEA-125542 new debugger: 'rerun' failed tests are lost  

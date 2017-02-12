@@ -1,0 +1,1 @@
+  Merge -c 1479598 from branch-1 to branch-1.2 to fix MAPREDUCE-4838. Addendum patch to fix TestRumenJobTraces.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.2@1479599 13f79535-47bb-0310-9956-ffa450edef68  

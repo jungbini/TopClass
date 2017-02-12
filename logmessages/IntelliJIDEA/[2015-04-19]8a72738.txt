@@ -1,0 +1,1 @@
+  IDEA-139217 coverage gutter marks are not clickable (regression from IDEA-137353 fix)  

@@ -1,0 +1,1 @@
+  IDEA-91212 Launch does not wait for external tools to complete (external tool configured as 'Before launch' for the Run configuration) after-review improvements and fixes  

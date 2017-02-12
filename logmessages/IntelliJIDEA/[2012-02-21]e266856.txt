@@ -1,0 +1,1 @@
+  IDEA-81487 (fix Windows startup script to locate bundled JRE)  

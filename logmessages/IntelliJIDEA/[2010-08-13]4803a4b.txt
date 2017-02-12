@@ -1,0 +1,1 @@
+  fixed django url reference resolve logic (PY-1367)  

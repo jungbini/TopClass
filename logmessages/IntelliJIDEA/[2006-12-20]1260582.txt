@@ -1,0 +1,1 @@
+  IDEADEV-12506 Get back the quck fixes in File and Class references  

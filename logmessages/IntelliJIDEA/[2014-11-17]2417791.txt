@@ -1,0 +1,1 @@
+  get file language from file type to make sure that JS dialects are using JS settings #WEB-14120 fixed  

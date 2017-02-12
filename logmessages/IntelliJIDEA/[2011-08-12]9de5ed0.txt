@@ -1,0 +1,1 @@
+  IDEA-73139 Case sensitive rename fixed  In case insensitive systems if only case changed during rename, don't do anything in Git.  Cherry-pick from 0b4c2d1d6582b2a599f31dd4fb6bba83782378e0  

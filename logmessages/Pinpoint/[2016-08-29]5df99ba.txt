@@ -1,0 +1,1 @@
+ Merge pull request #2021 from denzelsN/master  bug fix  commit 5df99baf8fa2edd26210bf2e8ff06f5c71340b80  bug fix - not open link filter in filtered-map page.  

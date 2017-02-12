@@ -1,0 +1,1 @@
+Author: Chris Douglas <cdouglas@apache.org> Date:   Wed Apr 28 16:44:55 2010 -0700  MAPREDUCE:1664 from https://issues.apache.org/jira/secure/attachment/12443139/M1664y20s-testfix.patch   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077432 13f79535-47bb-0310-9956-ffa450edef68  

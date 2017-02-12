@@ -1,0 +1,1 @@
+  GRADLE-2814, GRADLE-2831: upgrade dependency on ant to 1.9.2  - this fixes issues with the ant depend task using java 8, see https://issues.apache.org/bugzilla/show_bug.cgi?id=54090  

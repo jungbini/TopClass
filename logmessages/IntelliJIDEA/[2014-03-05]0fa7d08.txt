@@ -1,0 +1,1 @@
+  IDEA-121658 Java 1.8: "Replace with forEach" quick fix is not suggested if for statement is not surrounded with braces  

@@ -1,0 +1,1 @@
+  fixed problem with compact over dirty map state  

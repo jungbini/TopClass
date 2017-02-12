@@ -1,0 +1,1 @@
+  fix failing ajax requests by always sending the CSRF token with ajax requests. this fixes the sudden logout after ajax requests after rails upgrade \o/ #NO_ISSUE  

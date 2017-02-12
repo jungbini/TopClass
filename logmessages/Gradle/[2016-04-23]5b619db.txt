@@ -1,0 +1,1 @@
+  Simple fix for GRADLE-3275: do not attempt to merge UnionSpecs  

@@ -1,0 +1,1 @@
+  fix NPE  final class variable is not yet initialized  we must not open connection until debug process class is not constructed.  

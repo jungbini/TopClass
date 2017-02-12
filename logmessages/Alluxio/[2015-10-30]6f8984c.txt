@@ -1,0 +1,1 @@
+  TACHYON-1192: follow-up fix to remove redundant logic after review  

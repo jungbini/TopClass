@@ -1,0 +1,1 @@
+  IDEADEV-39103 Addition of unnecessary description field contributes to config file churn + UsedPathMacro store fixes  

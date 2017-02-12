@@ -1,0 +1,1 @@
+  IDEA-61275 Editor: the folded class comment should not be auto-expanded on class declaration editing  Test fixes  

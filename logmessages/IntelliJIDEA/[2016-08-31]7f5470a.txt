@@ -1,0 +1,1 @@
+  Fix loading rc config file; fix alt+left/right handling in bash (IDEA-153536); launch login shell only for Mac (IDEA-114126)  

@@ -1,0 +1,1 @@
+  correct fix:  don't do resource bundle rename if there's just 1 file in the bundle  

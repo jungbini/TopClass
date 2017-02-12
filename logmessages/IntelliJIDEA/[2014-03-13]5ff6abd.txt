@@ -1,0 +1,1 @@
+  fixed PY-9222 False positive on 1-tuple in Remove Redundant Parentheses inspection  

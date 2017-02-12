@@ -1,0 +1,1 @@
+  fix editor rendering issue on Linux (where negative glyph y coordinates seem to be trimmed to zero)  

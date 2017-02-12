@@ -1,0 +1,1 @@
+  PHP WI-7713 Invalid SQL Syntax Error - Use of ALTER TABLE Phrase In the middle of a String fixed  

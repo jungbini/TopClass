@@ -1,0 +1,1 @@
+  fix(server: tests): GroupsServiceSpec receive userJoined once  

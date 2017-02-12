@@ -1,0 +1,1 @@
+  IDEA-72053 pack all files from libs subfolders to apk in debug mode  

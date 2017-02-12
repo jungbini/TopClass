@@ -1,0 +1,1 @@
+  Add go.prefix for better interoperability with the `go` tool.  Summary: Inspiration from https://github.com/bazelbuild/bazel/tree/master/tools/build_rules/go#go_prefix . Closes https://github.com/facebook/buck/pull/519  Test Plan: Imported from GitHub, without a `Test Plan:` line.  Reviewed By: svcscm  Pulled By: sdwilsh  fb-gh-sync-id: a8ff625  

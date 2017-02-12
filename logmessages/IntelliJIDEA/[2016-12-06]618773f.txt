@@ -1,0 +1,1 @@
+  Replace assertTrue(stable.equals(stable))  ...with assertEquals(stable, stable), to avoid inspection EqualsWithItself and http://errorprone.info/bugpattern/SelfEquals.  

@@ -1,0 +1,1 @@
+  IDEA-108602 Gradle: Integrate 'debug task' to the execution system  External tasks are executed by external system and ide remote java debugger is attached to external system process. Current drawback is that editor is not updated accordingly (break point row highlight) when a break point is hit during external task debugging  

@@ -1,0 +1,1 @@
+  fix bad merge; add overrideable CompactionIterator.getScanners for cleaner subclassing.  patch by jbellis  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@893618 13f79535-47bb-0310-9956-ffa450edef68  

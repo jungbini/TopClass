@@ -1,0 +1,1 @@
+  - pickup array type in as3 - fix for parser problem with incomplete code like a[ - typed handler correctly works in injected file  

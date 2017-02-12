@@ -1,0 +1,1 @@
+  Don't create NamespaceType for enum entries  Enum entry expressions have the type of their enum, so it shouldn't be possible to access static nested classes of enum entries from outside.  This fixes BlackBoxCodegenTestGenerated$CallableReference.testEnumNameMethod  

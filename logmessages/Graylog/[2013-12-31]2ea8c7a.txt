@@ -1,0 +1,1 @@
+  several fixes and improvements to field chart widgets. #370  

@@ -1,0 +1,1 @@
+  ToolbarDecorator component automatically has [CCFlags.grow] and [CCFlags.push]. add DebugMigLayoutAction action  

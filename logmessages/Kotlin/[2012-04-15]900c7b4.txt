@@ -1,0 +1,1 @@
+  KT-1754 Intrinsic kotlin types and function don't have icons in completion #KT-1754 fixed  

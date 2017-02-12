@@ -1,0 +1,1 @@
+  IDEA-79817 Better detection of rejected push; fix setStderrSuppressed in setSilent.  For branches with hyphens, for example.  [Reviewed by irengrig]  

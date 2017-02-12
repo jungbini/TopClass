@@ -1,0 +1,1 @@
+  MAPREDUCE-3748. Changed a log in CapacityScheduler.nodeUpdate to debug. Contributed by Ramya Sunil.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1238157 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Debugger: check that file isn't shorter than breakpoint line (ex. after deleting some lines in file during debug)  

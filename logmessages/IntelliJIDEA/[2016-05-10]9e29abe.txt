@@ -1,0 +1,1 @@
+  Django template breakpoints never hit (PY-19342 )  With Django 1.9 we get template filename from context variable, but this filename is not properly capitalized, that leads to the bug on Windows.  

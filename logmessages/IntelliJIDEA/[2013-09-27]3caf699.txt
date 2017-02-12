@@ -1,0 +1,1 @@
+  fixed PY-10933 PyCharm 3.0 - PEP8 in test method names  

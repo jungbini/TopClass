@@ -1,0 +1,1 @@
+  YARN-4460. [Bug fix] RM fails to start when SMP is enabled. (Li Lu via Varun Saxena)  

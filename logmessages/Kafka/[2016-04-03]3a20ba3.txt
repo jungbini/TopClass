@@ -1,0 +1,1 @@
+  MINOR: Fix small typo in design section  Sentence was missing "as", minor grammar clean up.  Author: Paul Cavallaro <paulcavallaro@gmail.com>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1151 from paulcavallaro/docs-fix  

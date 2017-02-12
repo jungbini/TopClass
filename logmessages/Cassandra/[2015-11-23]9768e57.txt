@@ -1,0 +1,1 @@
+  CASSANDRA-9304 follow-up: fix cqlshlib tests  Patch by Stefania Alborghetti; reviewed by Tyler Hobbs as a follow-up to CASSANDRA-9304  

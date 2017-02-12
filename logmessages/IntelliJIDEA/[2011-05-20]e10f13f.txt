@@ -1,0 +1,1 @@
+  fixed PY-3613 Code compatibility inspection: add nonlocal reference to the inspection  

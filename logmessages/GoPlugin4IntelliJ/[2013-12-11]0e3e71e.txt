@@ -1,0 +1,1 @@
+ Merge pull request #333 from dlsniper/fix-assignment-formatter  Fix formatter for assignment operations (fixes #332, fixes #188)  commit 0e3e71ea5afbdda5f8b7aca5254819ada0aee3c6  W.I.P adding type inspect on function calls, and a  "cast to" fix  

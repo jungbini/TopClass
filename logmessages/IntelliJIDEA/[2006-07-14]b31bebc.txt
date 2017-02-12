@@ -1,0 +1,1 @@
+  fixed problems with merging trees in daemon, IDEADEV-7142  

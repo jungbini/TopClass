@@ -1,0 +1,1 @@
+  Fix bug with range tombstone in reverse queries and Partition test coverage  patch by blambov; reviewed by slebresne for CASSANDRA-10059  

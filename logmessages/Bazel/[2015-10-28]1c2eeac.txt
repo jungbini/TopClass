@@ -1,0 +1,1 @@
+  Bugfix: Host fragments could not be accessed properly through Skylark.  RuleContext returned fragments for the target configuration, even when Skylark requested fragments for the host configuration. This Cl solves this bug. Since injecting a custom BuildConfiguration into out tests is surprisingly 

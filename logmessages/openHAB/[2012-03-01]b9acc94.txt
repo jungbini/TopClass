@@ -1,0 +1,1 @@
+  enhanced fix - variable 'null' is now handled correctly  

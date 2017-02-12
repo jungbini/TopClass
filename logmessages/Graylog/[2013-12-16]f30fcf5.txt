@@ -1,0 +1,1 @@
+  Fixing reported bug of streamrule modal not closing properly  Fixes #427  

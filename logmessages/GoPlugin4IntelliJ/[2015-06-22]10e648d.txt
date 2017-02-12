@@ -1,0 +1,1 @@
+  show structure view for multiple files in a package, fix #1595  

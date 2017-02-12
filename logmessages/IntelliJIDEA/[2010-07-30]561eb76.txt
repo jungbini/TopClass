@@ -1,0 +1,1 @@
+  fix NPE in Introduce Field (PY-1487)  

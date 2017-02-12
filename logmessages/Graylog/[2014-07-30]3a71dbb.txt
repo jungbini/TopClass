@@ -1,0 +1,1 @@
+  fix NPE when accessing cache information of a radio node, those do not have an output buffer cache  

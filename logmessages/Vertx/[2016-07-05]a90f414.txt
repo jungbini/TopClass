@@ -1,0 +1,1 @@
+ Merge pull request #1488 from eclipse/address-resolver-should-not-bind-locally  AddressResolver should not bind locally - fixes #1479  commit a90f4143aa1af55d0f56fc1329fd457cd46d85fa  H2C direct duplicate IdleStateHandler when using idle timeout - fixes #1496  

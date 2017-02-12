@@ -1,0 +1,1 @@
+  fixes to open up gl library for better optimization  

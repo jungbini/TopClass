@@ -1,0 +1,1 @@
+  tachyon-fuse improvements:  - FS name is parametrized - Resource leaks when reaching open files limits has been fixed - Reformat docs  

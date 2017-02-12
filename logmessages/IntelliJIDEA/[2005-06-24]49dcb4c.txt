@@ -1,0 +1,1 @@
+  fixed issue with folding with nested stylesheets  

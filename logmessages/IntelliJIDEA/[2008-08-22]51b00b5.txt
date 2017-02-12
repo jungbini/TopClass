@@ -1,0 +1,1 @@
+  Bug [RUBY-1723] was fixed. Check on Camel<->Underscore conversion for controller's generator dialog was added.  

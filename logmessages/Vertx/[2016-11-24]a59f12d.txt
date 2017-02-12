@@ -1,0 +1,1 @@
+  Allow to configure maxInitialLineLength and maxHeaderSize in the HttpClient - fixes #1724  

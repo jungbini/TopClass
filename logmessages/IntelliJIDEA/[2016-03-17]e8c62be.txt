@@ -1,0 +1,1 @@
+  [vfs] minor optimizations and cleanup in LocalFileSystem  - watch request management reduced to a single method - read action removed (not needed) - post-test cleanup fix  

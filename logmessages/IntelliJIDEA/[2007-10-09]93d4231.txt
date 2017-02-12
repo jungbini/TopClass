@@ -1,0 +1,1 @@
+  [max] correctly clean redundant directories and files from VcsDirtyScope (fixes SvnRenameTest)  

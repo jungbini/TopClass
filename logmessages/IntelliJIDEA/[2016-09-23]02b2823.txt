@@ -1,0 +1,1 @@
+  ui: change south panel layout  * fix case with both "left actions" and "do not ask again" options * fix case with both "compact" and "do not ask again" options * better vertical alignment of "do not ask again" checkbox  

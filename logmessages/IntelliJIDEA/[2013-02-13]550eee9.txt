@@ -1,0 +1,1 @@
+  added option to integrated tools fixed PY-8815 Feature Request: Disable Docstring Analysis  

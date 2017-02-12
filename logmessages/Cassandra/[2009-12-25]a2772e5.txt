@@ -1,0 +1,1 @@
+  call thriftifyColumns for get_range_slice, fixing bugs w/ deletions and reversed.  patch by jbellis; reviewed by goffinet for CASSANDRA-647  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.5@893835 13f79535-47bb-0310-9956-ffa450edef68  

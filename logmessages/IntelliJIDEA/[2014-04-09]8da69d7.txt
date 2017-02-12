@@ -1,0 +1,1 @@
+  fixed PY-12544 Access to a protected member: false negative for import statements  

@@ -1,0 +1,1 @@
+  DB Pool: fixed timeout problems when a db was open in a pool and the server doesn't answer. Changed synchronized() to a r/w lock  

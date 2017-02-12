@@ -1,0 +1,1 @@
+  computers. do not try to reconnect on input termination. fixes #534  

@@ -1,0 +1,1 @@
+  [platform] temporarily reverts ASM #317621 fix (IDEA-158326)  

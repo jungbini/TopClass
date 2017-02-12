@@ -1,0 +1,1 @@
+  Python tests fix  * Obey "SdkCreationType" enum (generate skeletons only if required) * Do not generate skeletons for any other case  

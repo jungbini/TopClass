@@ -1,0 +1,1 @@
+ Merge pull request #908 from denzelsN/master  Bug fix.  commit 9dd414e48f78fb2a37f6bceca68dc8ea8aa59945  Bug fix.  add "NaN" type check modify the display errors that occur if serviceInfo.serviceLibs have duplicate entries  

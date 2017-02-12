@@ -1,0 +1,1 @@
+  Fix bug when progress information not updated if a new filtering task has been started  

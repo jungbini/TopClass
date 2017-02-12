@@ -1,0 +1,1 @@
+  Bug fix: completion of profile doesn't work when text field contains more then one profile  

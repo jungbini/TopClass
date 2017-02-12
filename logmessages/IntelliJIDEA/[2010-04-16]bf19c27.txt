@@ -1,0 +1,1 @@
+  presentation for directories in artifact editor fixed  

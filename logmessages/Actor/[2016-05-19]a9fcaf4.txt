@@ -1,0 +1,1 @@
+  fix(android): push receiver wait for messenger is ready  

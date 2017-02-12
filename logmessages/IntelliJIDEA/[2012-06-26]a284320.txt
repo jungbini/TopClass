@@ -1,0 +1,1 @@
+  fixed PY-6835 Convert lambda to function: leads to syntactically incorrect code when lambda expression is the only statement in function  

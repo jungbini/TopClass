@@ -1,0 +1,1 @@
+  [SMALLFIX] Small fixes in several classes  - Removed not needed public static declaration of Factory class inside AlluxioWorkerService - Collapsed multiple catch statements into one in BlockMasterSync - Inlined variables in BlockMasterTest - Fixed documentation and removed unneeded cast in BlockWorkerTest - Used automatic resource management in BufferUtils  

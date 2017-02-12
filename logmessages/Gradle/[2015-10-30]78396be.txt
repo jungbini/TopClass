@@ -1,0 +1,1 @@
+  Minor javadoc fix in NativeExecutableBinarySpec  Issue: gradle/langos#38 +review REVIEW-5664  

@@ -1,0 +1,1 @@
+  Minor: fix quickfix tests (get/set functions are now created correctly, merge issue)  

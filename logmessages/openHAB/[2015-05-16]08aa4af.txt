@@ -1,0 +1,1 @@
+ Merge pull request #2606 from teichsta/fix-toString-PointType  Fixed toString in PointType  commit 08aa4afd245e2e8b5b63d70a912bf30065e6beee  Bugfix for WeMo Devices with new OWRT Firmware not being discovered  

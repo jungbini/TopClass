@@ -1,0 +1,1 @@
+  JS backend: fix access to class object members from containing class with implicit receiver.  #KT-4130 Fixed  

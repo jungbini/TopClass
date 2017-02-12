@@ -1,0 +1,1 @@
+ fixes #WEBINTERFACE-189: solve rebinding issues through delegation, removing javascript vom the view for better minification  Conflicts:  app/views/messages/_full_message.html.erb  

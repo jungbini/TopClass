@@ -1,0 +1,1 @@
+  MAPREDUCE-5245. Added back constants to JobConf to fix incompatibilities. Contributed by Zhijie Shen.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1489236 13f79535-47bb-0310-9956-ffa450edef68  

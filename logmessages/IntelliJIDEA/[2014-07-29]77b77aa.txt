@@ -1,0 +1,1 @@
+  rename to HttpVirtualFileImpl another fix WEB-6584 Files opened by URL should also be able to open scripts used in the file  

@@ -1,0 +1,1 @@
+  KT-6821 Go to reference on "by" keyword in delegated property doesn't navigate to propertyDelegated  #KT-6821 fixed  

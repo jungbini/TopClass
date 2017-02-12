@@ -1,0 +1,1 @@
+  fixed issue #4207 - Exception on executing UPDATE statement in Function in SQL language  

@@ -1,0 +1,1 @@
+  Server: applied fix by "Agile" user to shutdown the JMX server correctly  

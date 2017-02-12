@@ -1,0 +1,1 @@
+  HDFS-7079. Few more unit test fixes for HDFS-6581. (Arpit Agarwal)  Conflicts: hadoop-hdfs-project/hadoop-hdfs/CHANGES-HDFS-6581.txt  

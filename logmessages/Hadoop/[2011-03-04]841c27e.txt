@@ -1,0 +1,1 @@
+Author: Chris Douglas <cdouglas@apache.org> Date:   Sun Sep 19 21:14:09 2010 -0700  Fix bug where disabled log trunc (eq -1) always attempts to delete log dir   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077709 13f79535-47bb-0310-9956-ffa450edef68  

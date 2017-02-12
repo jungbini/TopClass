@@ -1,0 +1,1 @@
+  Implement quick-fix replacing parameter name with _  This quick-fix is registered for UNUSED_* diagnostic in places where it can be applied (destructured declarations/lambda parameters)  #KT-14431 Fixed  

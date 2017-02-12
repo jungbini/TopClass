@@ -1,0 +1,1 @@
+  IG: remove quick fix (IDEA-153124)  

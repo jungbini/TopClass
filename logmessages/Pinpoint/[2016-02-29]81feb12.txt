@@ -1,0 +1,1 @@
+  Add method, that get scatter data made of dot group . #1518  fixed missing jsonProperty value.  

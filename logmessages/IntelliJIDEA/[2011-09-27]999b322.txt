@@ -1,0 +1,1 @@
+  gwt: initial support for super-source code (IDEA-74645 fixed)  

@@ -1,0 +1,1 @@
+  fix inspection option text (cherry-picked from 7a2bc7d)  

@@ -1,0 +1,1 @@
+  Unresolved structure fields in initializer, fix #1877  

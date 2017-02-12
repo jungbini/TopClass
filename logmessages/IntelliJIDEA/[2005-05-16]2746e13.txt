@@ -1,0 +1,1 @@
+  fixed problem when Xerces message is bound to doctype  

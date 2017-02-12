@@ -1,0 +1,1 @@
+  Fixed console input in debug mode (PY-5209).  

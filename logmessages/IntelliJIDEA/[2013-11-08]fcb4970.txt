@@ -1,0 +1,1 @@
+  attempt to fix IDEA-116128 LiveEdit doesn't work correctly for JSP files  

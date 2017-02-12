@@ -1,0 +1,1 @@
+  relaxedness should survive case-sensitivity and prefix changes  

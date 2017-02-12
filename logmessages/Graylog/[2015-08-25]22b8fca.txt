@@ -1,0 +1,1 @@
+  use the creation_date attribute of the current deflector index in case the previous rotation time is unknown  - this commonly happens after starting graylog, repeated re-starting lead to excessive, unnecessary cycling and premature retention cleaning when using time-based retention  fixes #725 fixes #829  

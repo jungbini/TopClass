@@ -1,0 +1,1 @@
+  some debugging to Joint Bayes... need to clean this up  

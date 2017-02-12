@@ -1,0 +1,1 @@
+  fixing lots of 'java.io.IOException: Stream closed' exceptions in logs  

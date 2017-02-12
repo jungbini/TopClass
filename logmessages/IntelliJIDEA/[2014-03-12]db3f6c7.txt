@@ -1,0 +1,1 @@
+  replace tuple with list quick fix for tuple item assignment inspection  

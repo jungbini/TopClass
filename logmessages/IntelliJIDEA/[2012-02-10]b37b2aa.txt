@@ -1,0 +1,1 @@
+  Correctly handle installation progress and results in the package requirements quickfix  

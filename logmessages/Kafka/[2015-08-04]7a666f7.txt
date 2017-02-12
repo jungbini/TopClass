@@ -1,0 +1,1 @@
+: Jaikiran Pai <jaikiran.pai@gmail.com>  Reviewers: Gwen Shapira <cshapi@gmail.com>  Closes #111 from jaikiran/kafka-2405 and squashes the following commits:  0255fdb [Jaikiran Pai] KAFKA-2405 Don't kill the JVM on session establishment failure  

@@ -1,0 +1,1 @@
+  fix #1013: better slice processing  

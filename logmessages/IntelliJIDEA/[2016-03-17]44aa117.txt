@@ -1,0 +1,1 @@
+  ui: AnAction.setShortcutSet check - replace error with warning  fix tests until most of the issues are fixed  

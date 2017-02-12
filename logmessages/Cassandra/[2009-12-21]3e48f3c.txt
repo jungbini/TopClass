@@ -1,0 +1,1 @@
+  Use one state for all movement related gossip and fix some bugs related to pending ranges on the leaving node itself.  patch by Jaakko Laine; reviewed by jbellis for CASSANDRA-572  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.5@892885 13f79535-47bb-0310-9956-ffa450edef68  

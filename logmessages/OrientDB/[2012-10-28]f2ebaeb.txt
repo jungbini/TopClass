@@ -1,0 +1,1 @@
+  Studio: fixed creation of indexes + minor work on functions  

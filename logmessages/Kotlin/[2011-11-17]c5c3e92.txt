@@ -1,0 +1,1 @@
+  fixed issue with full name constructor invocation  

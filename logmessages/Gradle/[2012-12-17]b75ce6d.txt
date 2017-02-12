@@ -1,0 +1,1 @@
+  Extract some pom handling from MavenHttpRepo into dedicated test fixture. Todo: extract pom put operations.  

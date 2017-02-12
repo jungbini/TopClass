@@ -1,0 +1,1 @@
+  create project from sources: NPE fixed (EA-78581)  

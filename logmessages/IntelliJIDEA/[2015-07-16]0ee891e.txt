@@ -1,0 +1,1 @@
+  Do not show keywords as completion variants inside JSON string literals  Also I removed auxiliary debug messages from JsonCompletionContributor.  

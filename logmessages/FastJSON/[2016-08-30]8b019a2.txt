@@ -1,0 +1,1 @@
+  bug fixed for char[] type decode. issue #776  

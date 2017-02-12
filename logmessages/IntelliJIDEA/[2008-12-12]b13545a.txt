@@ -1,0 +1,1 @@
+  CVS: rollback fix - don't always treat content after rollback is without local modifications  

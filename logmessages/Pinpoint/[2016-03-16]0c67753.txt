@@ -1,0 +1,1 @@
+  #1606 Add prefix data block encoding to hbase schema script files  

@@ -1,0 +1,1 @@
+  RUBY-6706 Consoles control up/down to the stacktrace and soft wrap doesn't work in debug session  

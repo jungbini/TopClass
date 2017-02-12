@@ -1,0 +1,1 @@
+  IDEA-137255 Debugger Hints go crazy This fix allows to have only one value hint per editor.  

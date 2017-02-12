@@ -1,0 +1,1 @@
+  fix KT-8648 Exception from incremental compilation  #KT-8648 Fixed  

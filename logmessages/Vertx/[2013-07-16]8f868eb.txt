@@ -1,0 +1,1 @@
+  Fix a bug which caused an IllegalStateException when write an empty response after it was written successfully  

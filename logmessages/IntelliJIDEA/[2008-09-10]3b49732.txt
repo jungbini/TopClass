@@ -1,0 +1,1 @@
+  borders fix in hierarchy browser + editor tab border fix (sorry, max)  

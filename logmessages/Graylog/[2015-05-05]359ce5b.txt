@@ -1,0 +1,1 @@
+  track outgoing messages in radio process  fixes Graylog2/graylog2-web-interface#1257  

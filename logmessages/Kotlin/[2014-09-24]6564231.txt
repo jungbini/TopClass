@@ -1,0 +1,1 @@
+  Descriptor test data for diagnostic tests fixed  

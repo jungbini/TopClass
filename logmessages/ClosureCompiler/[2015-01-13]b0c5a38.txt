@@ -1,0 +1,1 @@
+ add externs file for W3C Encoding API, fixes gh-763  

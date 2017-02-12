@@ -1,0 +1,1 @@
+  IDEA-98112 quick fixes do not suggest adding functions to interface using the groovy editor  

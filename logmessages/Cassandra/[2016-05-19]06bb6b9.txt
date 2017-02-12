@@ -1,0 +1,1 @@
+  Updated cqlsh Python driver to fix DESCRIBE problem for legacy tables  patch by Stefania Alborghetti; reviewed by Adam Holmberg for CASSANDRA-11055  

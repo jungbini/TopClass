@@ -1,0 +1,1 @@
+  fixed issue with nested template invokation NPE (SCR49469)  

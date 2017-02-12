@@ -1,0 +1,1 @@
+  - Added check to verify number of stations is a valid number supported by OpenSprinkler. - Fixed bug where defining the numberOfSprinklers paramter makes the addon silently fail to load.  

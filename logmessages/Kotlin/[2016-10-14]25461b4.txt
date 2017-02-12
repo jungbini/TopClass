@@ -1,0 +1,1 @@
+  IDL2K: manually fix SVGUseElementShadowRoot due to error in the SVG 2 specification  

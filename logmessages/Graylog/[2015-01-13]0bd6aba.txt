@@ -1,0 +1,1 @@
+  make grok patterns removable  fixing some layout issues and refactoring javascript code  

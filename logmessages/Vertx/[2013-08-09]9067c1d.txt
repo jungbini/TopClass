@@ -1,0 +1,1 @@
+  Echo back the close frame that is received and directly close the connection was the send was successful.  This is specified by RFC 6455 Section 5.4.1. See https://bugs.eclipse.org/bugs/show_bug.cgi?id=414747  

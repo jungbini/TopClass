@@ -1,0 +1,1 @@
+  properly reject incmplete syslog msgs  fixes #SERVER-47  

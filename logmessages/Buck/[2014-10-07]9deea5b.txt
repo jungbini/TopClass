@@ -1,0 +1,1 @@
+  C/C++: allow manually specifying the soname used for libraries  Summary: By default, we generate a soname using the target base path, which can end up being long and change if the library moves.  This 

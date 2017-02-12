@@ -1,0 +1,1 @@
+  Add quickfix for PACKAGE_MEMBER_CANNOT_BE_PROTECTED  

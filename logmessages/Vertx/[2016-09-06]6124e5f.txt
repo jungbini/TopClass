@@ -1,0 +1,1 @@
+  Added tests for put with ttl and putIfAbsent with ttl  Fake cluster manager was fixed to support putIfAbsent with ttl  Signed-off-by: Thomas Segismont <tsegismont@gmail.com>  

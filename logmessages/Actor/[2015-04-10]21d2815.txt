@@ -1,0 +1,1 @@
+  fix(ios): fixed issue with empty avatar on settings screen  

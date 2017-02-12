@@ -1,0 +1,1 @@
+  [git] Display rebase error right in the notification  Don't tell user to go to the VCS Console.  Use the new GitImpl variant to call Git command instead of the obsolete GitTask. Also fix the situation when workingTreeChangeStarted was actually reported after rebase command completed.  

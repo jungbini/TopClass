@@ -1,0 +1,1 @@
+  EA-53787 - fix tabulation processing for non-monospace fonts  tabulation width is always calculated in terms of plain-font space now  

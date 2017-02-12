@@ -1,0 +1,1 @@
+  find action: fix text fg/insets  

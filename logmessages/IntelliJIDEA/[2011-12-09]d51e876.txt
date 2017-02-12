@@ -1,0 +1,1 @@
+ GitHttpAdapter: fix logging (cherry picked from commit ca7c3262c1b6851d49b3c794fa5c6ffadf53e07d)  

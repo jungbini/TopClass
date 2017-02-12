@@ -1,0 +1,1 @@
+  Add a missing dependency to fix building Buck with Buck  Summary: * Due to an unresolved rebase conflict, building Buck with Buck is broken. Fix it by updating dependencies.  Test Plan: * `buck test`.  

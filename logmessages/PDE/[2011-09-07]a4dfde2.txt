@@ -1,0 +1,1 @@
+  fix original size checkbox  

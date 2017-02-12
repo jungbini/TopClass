@@ -1,0 +1,1 @@
+  Disabled add field quickfix for unresolved operators (PY-4364)  

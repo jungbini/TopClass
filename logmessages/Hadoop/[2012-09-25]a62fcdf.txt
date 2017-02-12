@@ -1,0 +1,1 @@
+  Merge -c 1390218 from trunk to branch-2 to fix HADOOP-8794. Rename YARN_HOME to HADOOP_YARN_HOME. Contributed by Vinod K V.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1390222 13f79535-47bb-0310-9956-ffa450edef68  

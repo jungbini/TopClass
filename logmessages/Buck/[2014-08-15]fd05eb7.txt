@@ -1,0 +1,1 @@
+  Fix Python scripts to work with 2.6  Summary: I backported subprocess.check_output from 2.7, fixed several instances of "{}".format(), and moved one script from argparse to optparse.  I didn't touch anything in scripts/ or some of the things in src/com/facebook/buck/.  Test Plan: Ran several 

@@ -1,0 +1,1 @@
+  fixed NPE on creating 'add' operation with no files (IDEADEV-21403)  

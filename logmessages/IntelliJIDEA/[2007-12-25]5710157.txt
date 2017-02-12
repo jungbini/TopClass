@@ -1,0 +1,1 @@
+  IDEADEV-24044 - Debugger: UI: after tab-grid modes switching the active tab freezez  

@@ -1,0 +1,1 @@
+  IDEA-100941: fix QuickDoc view mode change behavior  Consecutive QuickDoc invocations should now work as follows: If a documentation view is already opened for current element, the view gains focus. If a documentation view is already opened for current element and it has focus, popup-toolwindow switch occurs.  

@@ -1,0 +1,1 @@
+  Gradle plugin: add file to sourceList instead of Function1 fix  

@@ -1,0 +1,1 @@
+  Working to improve issue 654 about new CHECK DATABASE command: - fixed scanning to 100% - hooked to default test suite for local running ;-)  

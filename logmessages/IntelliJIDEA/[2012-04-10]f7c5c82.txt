@@ -1,0 +1,1 @@
+  Fixed bug in resolving relative imports of skeletons from source modules inside packages (PY-6254)  

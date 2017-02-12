@@ -1,0 +1,1 @@
+  raising exceptions for functions which are not found.  fixes LH#65  

@@ -1,0 +1,1 @@
+  fix(core): Fixing encrypted file size in download manager after upload  

@@ -1,0 +1,1 @@
+  Ninja fix for CASSANDRA-7245  

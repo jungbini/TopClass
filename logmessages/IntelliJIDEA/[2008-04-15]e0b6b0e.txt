@@ -1,0 +1,1 @@
+  fixed assertion the proper way  

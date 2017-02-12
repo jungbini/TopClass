@@ -1,0 +1,1 @@
+  IDEADEV-17503 - Debugger context menus in popup  

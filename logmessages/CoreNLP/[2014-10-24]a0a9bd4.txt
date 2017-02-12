@@ -1,0 +1,1 @@
+  saving and loading index; bug fix for batch process sentences  

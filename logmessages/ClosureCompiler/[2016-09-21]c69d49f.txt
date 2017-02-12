@@ -1,0 +1,1 @@
+  Allow --print_file_after_each_pass to take multiple filenames. This is helpful in debugging CollapseProperties bugs where it appears a name is collapsed in one file but not in another.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=133853621  

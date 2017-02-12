@@ -1,0 +1,1 @@
+  more color selector single instance fixes  

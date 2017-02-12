@@ -1,0 +1,1 @@
+  WEB-17526 Debugger: InvocationTargetException on session stop with "Mute Breakpoints" option enabled  

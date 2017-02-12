@@ -1,0 +1,1 @@
+  fixed GRADLE-1304, part 1: Eclipse plugin should replace the existing classpath when merging IDE configuration files  

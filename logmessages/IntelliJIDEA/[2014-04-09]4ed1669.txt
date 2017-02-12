@@ -1,0 +1,1 @@
+  C++: hangup at compiler launch is fixed (rollback Dmitry.Semeniouta changes) +review CR-OC-1448  

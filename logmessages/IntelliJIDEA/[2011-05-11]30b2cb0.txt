@@ -1,0 +1,1 @@
+  fixed PY-3507 Test runner shouldn't launch func with name containing word 'test' as unit test (do not collect test function with arguments)  

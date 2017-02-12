@@ -1,0 +1,1 @@
+  Add some debugging to bazel_worker_test.sh to hopefully catch a flaky test.  It seems like the Bazel server dies (or isn't reused) between the first and the second "bazel build" in test_input_digests.  -- MOS_MIGRATED_REVID=126511647  

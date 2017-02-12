@@ -1,0 +1,1 @@
+  tests ui: fix progress: don't include failed/ignored in finished twice (IDEA-141216)  

@@ -1,0 +1,1 @@
+ WIP first pass of cleaning up dl4j-cli UX, fixed conf not loading, added print usage mechanics, added curly braces to if-thens (wtf? who leaves those out? who does that? I'll find you.)  

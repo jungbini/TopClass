@@ -1,0 +1,1 @@
+  HADOOP-11379. Fix new findbugs warnings in hadoop-auth*. Contributed by Li Lu.  

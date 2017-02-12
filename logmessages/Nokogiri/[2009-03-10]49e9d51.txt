@@ -1,0 +1,1 @@
+  testing a strange document behavior.  fixes LH#60  

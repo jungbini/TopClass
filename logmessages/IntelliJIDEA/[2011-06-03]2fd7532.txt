@@ -1,0 +1,1 @@
+  replace: exclusion based on range-markers. bug in smart-update: reusable hightlighter must be VALID. clean-up replace denying. [rev = cdr]  

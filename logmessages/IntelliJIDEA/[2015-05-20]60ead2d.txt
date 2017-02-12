@@ -1,0 +1,1 @@
+  refactoring: ContentRevisionCache removed for HgContentRevision,  DRY fixed  

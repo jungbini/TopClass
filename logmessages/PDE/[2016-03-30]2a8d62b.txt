@@ -1,0 +1,1 @@
+  enables stroke even when the color is same as before, fixes #4377  

@@ -1,0 +1,1 @@
+  fix tests by a hack: apply case-insensitive item lifting only on empty prefix  

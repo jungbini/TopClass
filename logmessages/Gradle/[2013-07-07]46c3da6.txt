@@ -1,0 +1,1 @@
+  Reworked handling of `Ivy` instances so that each thread resolving or publishing is given its own instance.  - Should fix publishing in parallel execution mode and allow us to use some finer-grained locking during resolution. - Instances are recycled as the IvySettings instances are relatively expensive to create.  

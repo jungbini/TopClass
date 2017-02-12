@@ -1,0 +1,1 @@
+  finally fix stream settings. this is a workaround for a mongoid bug (google it). i did not produce this shitstorm if somebody asks. #NO_ISSUE  

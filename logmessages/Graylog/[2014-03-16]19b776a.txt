@@ -1,0 +1,1 @@
+  fix quickvalues widget table styles for long values. fixes #693  

@@ -1,0 +1,1 @@
+  Fixed bug on importing of manual indexes (like the dictionary)  

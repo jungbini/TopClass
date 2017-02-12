@@ -1,0 +1,1 @@
+  Fixed small bug where the client states after line rendering weren't disabled.  

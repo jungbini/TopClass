@@ -1,0 +1,1 @@
+  Source code fix according to KT-4475  

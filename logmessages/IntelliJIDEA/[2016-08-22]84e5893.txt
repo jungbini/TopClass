@@ -1,0 +1,1 @@
+  IDEA-157507 Use "deploymentType" field in serverInfo to detect instances of JIRA in Cloud  It seems that at the moments most of existing JIRA Cloud servers have this parameter, but just in case I left the old heuristics as a fallback. Also whether the server is an instance of Cloud is shown in the editor settings next to the version to ease debugging.  

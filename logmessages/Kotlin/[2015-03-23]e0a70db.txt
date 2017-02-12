@@ -1,0 +1,1 @@
+  Mark value arguments in case of empty delegation call  It's useful for quickfixes for these diagnostics  

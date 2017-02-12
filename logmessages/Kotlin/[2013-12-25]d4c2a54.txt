@@ -1,0 +1,1 @@
+  fixed 'getSliceContents' do not throw an exception when some slices were overwritten  

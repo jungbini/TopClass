@@ -1,0 +1,1 @@
+  add import quick fix should work in  javadoc (IDEA-54651)  

@@ -1,0 +1,1 @@
+  1) Make druid.zk.paths.base required 2) Unit tests for announcer and fix race condition with session death  

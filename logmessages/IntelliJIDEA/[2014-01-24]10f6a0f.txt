@@ -1,0 +1,1 @@
+  another stub update index fix: - stubs doesn't get buffered status update notifications because they aren't built out of unsaved documents - also index read also made affected to buffered status  

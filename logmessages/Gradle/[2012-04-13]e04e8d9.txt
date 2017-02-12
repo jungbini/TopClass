@@ -1,0 +1,1 @@
+  Cherry picked user guide/dsl reference fixes I recently made in master. Mainly fixed references to old api, some updates to daemon/build environemnt in the guide.  

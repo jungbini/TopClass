@@ -1,0 +1,1 @@
+  use correct method for initializing platform prefix  

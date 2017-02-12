@@ -1,0 +1,1 @@
+  don't interrupt code cleanup processing in case of an exception from a single quickfix; log the exception instead  

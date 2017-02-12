@@ -1,0 +1,1 @@
+  KT-1672 Don't complete import java.lang.reflect.Array when Array is typed at the beginning of a line #KT-1672 fixed  

@@ -1,0 +1,1 @@
+  HDFS-10569. A bug causes OutOfIndex error in BlockListAsLongs. Contributed by Weiwei Yang.  

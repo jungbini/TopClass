@@ -1,0 +1,1 @@
+  fix(iOS): Fixed status bar in image picker  

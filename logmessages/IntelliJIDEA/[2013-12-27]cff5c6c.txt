@@ -1,0 +1,1 @@
+  - fixed serialization for DOM indexes - DOM indices work without exception about stub mismatch  

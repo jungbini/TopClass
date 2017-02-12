@@ -1,0 +1,1 @@
+  STORM-2124: added docs for new rest fields, and fixed inconsistencies in topology and component endpoints  

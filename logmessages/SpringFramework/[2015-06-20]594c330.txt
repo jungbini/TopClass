@@ -1,0 +1,1 @@
+bleAnnotations() so that it fully complies with the contract of Java's getAnnotationsByType() method with regard to repeatable annotations declared on multiple superclasses.  Issue: SPR-13068  

@@ -1,0 +1,1 @@
+ DSL for those properties implemented by the delegate object, even when they are declared as read-only on the public view type.  While this isn't the desired behaviour, it was the previous behaviour and some tests currently rely on it. Will change at some point to be stricter so that mutability no longer leaks into the DSL (and fix the tests).  

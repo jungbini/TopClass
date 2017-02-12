@@ -1,0 +1,1 @@
+  handle < in xml as well #WEB-519 fixed  

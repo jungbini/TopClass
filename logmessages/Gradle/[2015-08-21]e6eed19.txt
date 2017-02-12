@@ -1,0 +1,1 @@
+  minor rewording on debug tests spec  

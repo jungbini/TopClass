@@ -1,0 +1,1 @@
+  YARN-854. Fixing YARN bugs that are failing applications in secure environment. Contributed by Omkar Vinit Joshi. svn merge --ignore-ancestry -c 1494845 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1494847 13f79535-47bb-0310-9956-ffa450edef68  

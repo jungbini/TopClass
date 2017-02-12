@@ -1,0 +1,1 @@
+  Debugger: children view after set value raised exception (PY-3772)  

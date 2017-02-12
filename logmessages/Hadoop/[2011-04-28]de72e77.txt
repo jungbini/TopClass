@@ -1,0 +1,1 @@
+  HBASE-1502 Aftermath; fix up of broke tests.  Fix TestCatalogTracker.  Signature changed and mock'd method wasn't triggering  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1097318 13f79535-47bb-0310-9956-ffa450edef68  

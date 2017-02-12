@@ -1,0 +1,1 @@
+  Easy: Set 'runnableDebuggingMode' when generating RemoteRunnable schemes  Summary: I thought that Xcode didn't require `runnableDebuggingMode` to be set, but evidently it does; without it set it won't launch WatchKit apps in the simulator.  Test Plan: Unit test updated. Built and launched WatchKit app in simulator.  

@@ -1,0 +1,1 @@
+ Ensure manifest merger places the application element as the last child of the manifest element. This is required for Android N.  NEW: fixed index out of range exception  RELNOTES: Merged manifests are guaranteed to have the application element as the last child of the manifest element as required by Android N.  -- MOS_MIGRATED_REVID=125493743  

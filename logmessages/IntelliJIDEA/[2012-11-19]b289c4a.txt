@@ -1,0 +1,1 @@
+  fix: every VFS event may trigger automake: (IDEA-95313 Make automatically is not triggered in case of deleting referred class)  

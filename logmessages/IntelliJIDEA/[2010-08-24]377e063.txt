@@ -1,0 +1,1 @@
+  slightly fix combobx under nimbus laf  

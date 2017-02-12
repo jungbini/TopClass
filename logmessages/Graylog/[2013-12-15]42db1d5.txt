@@ -1,0 +1,1 @@
+  better links to search syntax docs. fixes #375  

@@ -1,0 +1,1 @@
+  [patch]:  fix exception and handle situation when hunk has wrong format and doesn't contain modification lines  * wrong hunks skipped; * annotations added; * log warn and debug if needed;  

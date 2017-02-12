@@ -1,0 +1,1 @@
+  Check presence of dispatch receiver parameter in modifier checks  Also fix typo in "inapplicable infix" diagnostic message  

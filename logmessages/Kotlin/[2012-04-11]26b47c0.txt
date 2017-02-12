@@ -1,0 +1,1 @@
+  KT-1755 Duplicates in completion #KT-1755 fixed  

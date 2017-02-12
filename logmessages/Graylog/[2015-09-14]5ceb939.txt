@@ -1,0 +1,1 @@
+  do not let LDAP referral exception bubble out, this prevented authenticated users from logging if their groups could not be resolved  - the user was fine, but group mapping is not possible in this scenario until we figure out how to support LDAP referrals - group mapping can be done manually, warning log message links to proper documentation page  fixes #1410  

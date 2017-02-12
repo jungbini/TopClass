@@ -1,0 +1,1 @@
+  Add custom data to build scan  I am interested in some classloader hash to debug problems with the task output cache on CI  

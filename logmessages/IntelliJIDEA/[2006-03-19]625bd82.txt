@@ -1,0 +1,1 @@
+  AntCallTargetReferenceProvider implemented with corresponding test fixed construction of AntTargetReferences from projects and and calls attempt to return AntResolveTest back  

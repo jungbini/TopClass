@@ -1,0 +1,1 @@
+  fix FileStructurePopup for non-reverted File Structure Filters  

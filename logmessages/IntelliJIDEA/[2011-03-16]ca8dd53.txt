@@ -1,0 +1,1 @@
+  fixed PY-1158 "Run Test" test context menu action should copy all current run configuration setup to the temporary run configuration  

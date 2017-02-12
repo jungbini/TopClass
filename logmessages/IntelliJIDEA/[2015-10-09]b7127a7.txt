@@ -1,0 +1,1 @@
+  Resource bundles: old selected key becomes invalid when selected property is deleted in text mode. fixed (IDEA-143717)  

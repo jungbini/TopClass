@@ -1,0 +1,1 @@
+  fixed issue on dirty manager in case of unreference of new record.  

@@ -1,0 +1,1 @@
+  Spellchecker: add icon to quickfixes  

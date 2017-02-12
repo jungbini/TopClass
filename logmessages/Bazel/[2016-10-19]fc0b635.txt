@@ -1,0 +1,1 @@
+  Add swiftmodule outputs to the linking step.  * This change enables most of LLDB functionality on binaries built by swift_library. It makes the linker record references to the .swiftmodule outputs, which then can be read by LLDB to deserialize Swift modules and provide debug info.  -- MOS_MIGRATED_REVID=136620475  

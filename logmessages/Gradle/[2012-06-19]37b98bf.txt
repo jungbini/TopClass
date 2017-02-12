@@ -1,0 +1,1 @@
+  Temporarily ignore deprecation warnings in tests: pending fix for underlying issue  

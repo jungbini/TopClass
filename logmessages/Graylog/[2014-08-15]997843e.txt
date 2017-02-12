@@ -1,0 +1,1 @@
+  Create a copy of the fields because gelfj modifies them.  The issue has been reported to gelfj and is already fixed in the upcoming gelfj release.  

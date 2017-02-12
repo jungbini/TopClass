@@ -1,0 +1,1 @@
+  removed dependency from Javascript, fixed installer build  

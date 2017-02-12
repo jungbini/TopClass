@@ -1,0 +1,1 @@
+  [git] Don't report ignored packed-refs line even in debug  We can request .git/refs folder from user if needed, while this logging spams a lot if there are many tags in repo.  

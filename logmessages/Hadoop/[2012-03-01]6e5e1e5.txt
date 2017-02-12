@@ -1,0 +1,1 @@
+  Amend HDFS-3023. Add new layout version number to ImageLoaderCurrent to fix TestOfflineImageViewer.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-1623@1295721 13f79535-47bb-0310-9956-ffa450edef68  

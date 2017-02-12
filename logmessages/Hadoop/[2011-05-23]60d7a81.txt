@@ -1,0 +1,1 @@
+  HBASE-3912 [Stargate] Columns not handle by Scan; fix NPE  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1126556 13f79535-47bb-0310-9956-ffa450edef68  

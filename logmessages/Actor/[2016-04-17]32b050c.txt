@@ -1,0 +1,1 @@
+  fix(IOS): fix promise handling while block/unblock  

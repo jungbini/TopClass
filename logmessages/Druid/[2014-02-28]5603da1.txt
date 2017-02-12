@@ -1,0 +1,1 @@
+  fix #405 update cluster setup doc  rename old names to new ones  

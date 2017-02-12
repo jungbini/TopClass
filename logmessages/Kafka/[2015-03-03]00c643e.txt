@@ -1,0 +1,1 @@
+  KAFKA-1755; trivial follow-up to fix comment in CleanerTest  

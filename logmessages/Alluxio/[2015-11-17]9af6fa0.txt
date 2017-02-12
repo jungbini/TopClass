@@ -1,0 +1,1 @@
+ [TACHYON-1197] Enable findbugs for protected fields in final classes  

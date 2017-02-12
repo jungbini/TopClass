@@ -1,0 +1,1 @@
+  PolymerPass: Avoid type errors with this.$.foo by switching all occurrences to this.$['foo'].  Externs change is fixed upstream here: https://github.com/PolymerLabs/polymer-externs/pull/4 ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=93753053  

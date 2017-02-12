@@ -1,0 +1,1 @@
+  conservative fix for performance problem with excluded files  

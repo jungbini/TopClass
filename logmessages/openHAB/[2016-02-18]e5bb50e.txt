@@ -1,0 +1,1 @@
+ Merge pull request #4068 from cdjackson/zwave-node_name  Fix bug in node name class where location was set as the name  commit e5bb50e4f1346004e8201eab83c84d8a06be8118  Bug fix: create a single command class instance for a node  

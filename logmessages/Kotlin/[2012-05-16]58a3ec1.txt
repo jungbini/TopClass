@@ -1,0 +1,1 @@
+  Showing receiver types in the IDE errors for NONE_APPLICABLE/AMBIGUITY  #KT-1997 fixed  

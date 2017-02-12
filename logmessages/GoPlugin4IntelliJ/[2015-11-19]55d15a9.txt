@@ -1,0 +1,1 @@
+  dlv debugger: improve navigate to type source (shift + f4) for structures  

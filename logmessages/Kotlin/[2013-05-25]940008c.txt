@@ -1,0 +1,1 @@
+  KDoc lexer refactored (got rid of hacks and separate tokens for words). Fixed bug with isInComment(element) detection.  

@@ -1,0 +1,1 @@
+ [groovy] use `FileBasedIndex.getValues()` instead of `processValues()` in GrTypeDefinitionMembersCache (fix `com.intellij.util.indexing.IndexAccessValidator.checkAccessingIndexDuringOtherIndexProcessing()`)  

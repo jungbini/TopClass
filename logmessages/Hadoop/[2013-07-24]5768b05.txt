@@ -1,0 +1,1 @@
+  YARN-962. Fixed bug in application-history proto file and renamed it be just a client proto file. Contributed by Zhijie Shen.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/YARN-321@1506401 13f79535-47bb-0310-9956-ffa450edef68  

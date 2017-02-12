@@ -1,0 +1,1 @@
+  IDEA-69764 phpstorm become frozen for a while after incoming debug connection + svn update  

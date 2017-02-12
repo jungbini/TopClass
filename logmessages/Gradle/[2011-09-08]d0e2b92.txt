@@ -1,0 +1,1 @@
+  Disable the samples int test. Needs a fix for GRADLE-1747.  

@@ -1,0 +1,1 @@
+  set background color as backup, fixes #3919  

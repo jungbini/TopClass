@@ -1,0 +1,1 @@
+  Maven: disabled auto-import property was not taken into account after settings.xml or projects settings change. (fixed)  

@@ -1,0 +1,1 @@
+  fixing CDATA section to handle nil content in the constructor  

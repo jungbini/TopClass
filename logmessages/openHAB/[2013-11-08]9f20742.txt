@@ -1,0 +1,1 @@
+  Homematic: Possible fix for CCU2 connection broken problem.  

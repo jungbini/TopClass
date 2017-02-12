@@ -1,0 +1,1 @@
+  fix(android): my profile icons padding  

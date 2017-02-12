@@ -1,0 +1,1 @@
+  WatchedFileHashCache: fix directory invalidation  Summary: Previously, when a `WatchedFileHashCache` received a watchman event for a directory, it'd invalidate the immediate entry but not the entries for all directory descendants.  Test Plan: added unittest  Reviewed By: k21  fbshipit-source-id: 4055721  

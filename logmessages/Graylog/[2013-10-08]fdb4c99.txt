@@ -1,0 +1,1 @@
+  Update graylog2-web-interface.conf.example  remove http settings, play doesn't support setting this in the config these need to be set as system properties when starting the server fixes #295  

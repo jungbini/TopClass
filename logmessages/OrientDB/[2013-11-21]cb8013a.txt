@@ -1,0 +1,1 @@
+  Issue #856 was fixed for plocal storage.  

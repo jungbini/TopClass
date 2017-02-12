@@ -1,0 +1,1 @@
+  fixes to specify the class for a missing method (or if an array, specify that)  

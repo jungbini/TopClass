@@ -1,0 +1,1 @@
+  GRADLE-2894: fixed bug that does not recognize the default wb resource if manually changed  

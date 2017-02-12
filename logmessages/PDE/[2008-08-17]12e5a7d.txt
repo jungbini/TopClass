@@ -1,0 +1,1 @@
+  fix up public/protected methods in Editor, also cleaning out some cruft in general. remove stop() in editor, since only close() methods now in use.  

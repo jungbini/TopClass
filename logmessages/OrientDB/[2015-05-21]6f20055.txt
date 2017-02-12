@@ -1,0 +1,1 @@
+  fixed issue #4148 - Delete vertex V with LIMIT problems  

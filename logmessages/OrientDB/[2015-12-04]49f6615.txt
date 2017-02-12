@@ -1,0 +1,1 @@
+  fix mapping of BIT JDBC data type to ODB BOOLEAN data type #5421 #5422  

@@ -1,0 +1,1 @@
+  new parser: added support to traverse strategy and parallel, fixed some test cases (old unsupported stuff)  

@@ -1,0 +1,1 @@
+  fixed PY-6907 Paste leads to syntactically incorrect code in case of dedent in copied text  

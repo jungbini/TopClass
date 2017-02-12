@@ -1,0 +1,1 @@
+  i18n inspection visits tab titles in UI forms; fixes to com.intellij.application i18n  

@@ -1,0 +1,1 @@
+ - skip broadcasting of update events - changed Interceptor name (due to Atmosphere upgrade) - fix for broken update mechanisn after item model changes  

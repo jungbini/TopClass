@@ -1,0 +1,1 @@
+  fixed reimporting maven project with test-jar dependencies (IDEA-92674)  

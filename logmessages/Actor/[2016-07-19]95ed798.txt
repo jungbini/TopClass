@@ -1,0 +1,1 @@
+  fix(server:groups): tests, group permissions, let users of plain groups to change group topic  

@@ -1,0 +1,1 @@
+  NPE fix (when project is default)  

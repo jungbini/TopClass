@@ -1,0 +1,1 @@
+as a temporary workaround that has now been fixed in gradle-script-kotlin 0.2.0.  This reverts commit 4aa167c75a879e8172ae32908dbeb577855e4d51.  

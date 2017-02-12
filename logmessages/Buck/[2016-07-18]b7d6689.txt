@@ -1,0 +1,1 @@
+  Make the MachO command somewhat aware of cells.  Summary: The mach format does not know about cells, but to make it aware, we do what we do in the parser: try every prefix and pick the first one that works.  Test Plan: Change build_with_buck.py and buck project --build-with-buck  Reviewed By: Coneko  fbshipit-source-id: aab4bf0  

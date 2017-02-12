@@ -1,0 +1,1 @@
+  clean up, fix NPE (http://ea.jetbrains.com/browser/ea_problems/18498)  

@@ -1,0 +1,1 @@
+  WI-8054: While debugging (Xdebug), trying to set the value of a variable using the arrow to find a previously used value causes phpstorm to crash  

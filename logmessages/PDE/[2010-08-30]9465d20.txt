@@ -1,0 +1,1 @@
+  fix linux permissions (issue #343), plus other tweaks to make linux less ugly  

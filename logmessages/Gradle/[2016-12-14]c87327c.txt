@@ -1,0 +1,1 @@
+  Publish code quality failures in build scan  I needed to enable the xml report for CodeNarc for retrieving failures from there.  Moreover, I fixed the URL for the build scan links to code quality reports.  

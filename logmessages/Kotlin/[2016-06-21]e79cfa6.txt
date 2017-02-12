@@ -1,0 +1,1 @@
+  Add notes about fixes in formatter  

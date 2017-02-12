@@ -1,0 +1,1 @@
+  fixed PY-6252 Run single py.test from the editor context menu  

@@ -1,0 +1,1 @@
+  IDEA-129344 Dialogs invoked from expandable tooltip (debugger hint) appear under it  

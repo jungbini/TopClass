@@ -1,0 +1,1 @@
+  fix(iOS): fix share menu crash, recover fast share  

@@ -1,0 +1,1 @@
+  fix master speed issue with immutable copy of in druid server, better exception handling in moving and dropping segments  

@@ -1,0 +1,1 @@
+  Don't run test on jython: it doesn't support multiline execution: http://bugs.jython.org/issue2106  

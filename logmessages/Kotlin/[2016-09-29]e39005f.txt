@@ -1,0 +1,1 @@
+  Don't warn about absence of kotlin files  #KT-10401 fixed  

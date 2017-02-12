@@ -1,0 +1,1 @@
+  GRADLE-3141 Attempted to fix the problem with ivy metadata parsing.  It appears that it's possible to create an inconsistent module descriptor model. It is exposed when the same artifacts but with 

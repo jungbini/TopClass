@@ -1,0 +1,1 @@
+  Merging r1561826 from branch-2 to branch-2.3 to fix CHANGES.txt for HADOOP-10086 and HADOOP-9982  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.3@1561827 13f79535-47bb-0310-9956-ffa450edef68  

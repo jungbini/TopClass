@@ -1,0 +1,1 @@
+  bug-fix:add number and string items , remove dimmer item from validateItemType  

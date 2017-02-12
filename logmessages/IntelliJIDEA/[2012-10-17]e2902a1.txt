@@ -1,0 +1,1 @@
+  fixed PY-7746 Not able to rerun failed doctest tests: No tests were found: NameError: NameError: Module has no class  

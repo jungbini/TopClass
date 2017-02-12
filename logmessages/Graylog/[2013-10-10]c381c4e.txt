@@ -1,0 +1,1 @@
+  throughput byte counters for HTTP GELF. fixes #267  

@@ -1,0 +1,1 @@
+  HDFS-8039. Fix TestDebugAdmin#testRecoverLease and testVerfiyBlockChecksumCommand on Windows. Contributed by Xiaoyu Yao.  

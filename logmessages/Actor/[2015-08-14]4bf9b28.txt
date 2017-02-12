@@ -1,0 +1,1 @@
+  fix(web): fixed photo message class names, change message actions dropdown position;  

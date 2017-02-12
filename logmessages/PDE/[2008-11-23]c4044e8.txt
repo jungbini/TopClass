@@ -1,0 +1,1 @@
+  add new icon, move theme location, fix another menubar bug  

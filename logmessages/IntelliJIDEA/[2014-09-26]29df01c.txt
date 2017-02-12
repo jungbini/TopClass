@@ -1,0 +1,1 @@
+  access SMTestProxy in EDT only (possible fix for https://ea.jetbrains.com/browser/ea_problems/59241 - CME: SMTestProxy.calcHasErrors)  

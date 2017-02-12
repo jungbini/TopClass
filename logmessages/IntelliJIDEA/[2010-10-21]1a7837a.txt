@@ -1,0 +1,1 @@
+  get rid of project components in xdebugger  

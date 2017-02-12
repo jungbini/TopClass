@@ -1,0 +1,1 @@
+  fixed PY-4551 "Remove redundant parenthesis" suggestion yields to mistake  

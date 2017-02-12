@@ -1,0 +1,1 @@
+  fixed endless command postponing to itself in DebuggerContextCommandImpl with specified custom thread  

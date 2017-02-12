@@ -1,0 +1,1 @@
+  Made BytecodeToolwindow and ResolveToolwindow disposable: got rid of unreleased editor exception on closing IDEA. #KT-733 fixed  

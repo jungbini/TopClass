@@ -1,0 +1,1 @@
+  timeframe and higher severity no longer filters  makes it possible to search for them in the quickfilter without using * as match_all in message. fixes #WEBINTERFACE-218  

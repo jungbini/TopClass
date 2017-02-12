@@ -1,0 +1,1 @@
+  Storage: fixed issue about loading of saved record conflict strategy  Fixed Issue #6392  

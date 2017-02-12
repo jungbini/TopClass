@@ -1,0 +1,1 @@
+  Fixed bug on wrong parameter name used in prepared queries as reported by the ML  

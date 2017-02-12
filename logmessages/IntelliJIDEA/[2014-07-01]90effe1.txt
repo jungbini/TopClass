@@ -1,0 +1,1 @@
+  continue WEB-1828 fix changelive message response reader  

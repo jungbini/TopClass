@@ -1,0 +1,1 @@
+  Java inspection: Enabled TooBroadScopeInspection by default at INFORMATION severity, edited quick fix message (IDEA-157727)  

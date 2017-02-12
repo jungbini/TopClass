@@ -1,0 +1,1 @@
+  MT issue with clusters handling on remote storage was fixed.  

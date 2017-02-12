@@ -1,0 +1,1 @@
+  Created new LocalQuickFix for static methods creation from name and parameters types; created class for "simple" method signature - method name and parameters types; used both for "spel-function#method" quick fix #IDEA-129136 fixed  

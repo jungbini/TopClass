@@ -1,0 +1,1 @@
+  fixed PY-5351 "Add encoding declaration" must be shown in case of unicode usage in arbitrary strings. Not only doc comments.  

@@ -1,0 +1,1 @@
+  styling for search results page. fixes #1361  

@@ -1,0 +1,1 @@
+  Stopping all deamons when the functional test is complete. Although daemons have very short idle timeout in this test we will still stop them, this way the test has quicker rerunability but unfortunately will make every test break when there's a bug in stopping logic.  

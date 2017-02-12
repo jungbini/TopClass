@@ -1,0 +1,1 @@
+  fixed issue #4245 - Group by with dotted notation fail  

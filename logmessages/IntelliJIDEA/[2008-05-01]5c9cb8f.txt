@@ -1,0 +1,1 @@
+  fix split declaration and initialization of field for array initializer expression  

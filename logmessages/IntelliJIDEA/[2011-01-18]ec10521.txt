@@ -1,0 +1,1 @@
+  fixed SortedList.iterator.remove  

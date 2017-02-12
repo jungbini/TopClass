@@ -1,0 +1,1 @@
+  fix index access violation: xmlProperties index was accessed during filetypes index processing  

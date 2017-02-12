@@ -1,0 +1,1 @@
+  STORM-1417: fixed equals/hashCode contract in CoordType  

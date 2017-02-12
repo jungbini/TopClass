@@ -1,0 +1,1 @@
+  method reference on getClass: fix method reference constraint  

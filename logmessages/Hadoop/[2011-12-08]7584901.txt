@@ -1,0 +1,1 @@
+  HADOOP-7870. fix SequenceFile#createWriter with boolean createParent arg to respect createParent. Contributed by Jon Hsieh   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1212084 13f79535-47bb-0310-9956-ffa450edef68  

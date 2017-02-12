@@ -1,0 +1,1 @@
+  fixed PY-14362 NPE trying to run a cell  

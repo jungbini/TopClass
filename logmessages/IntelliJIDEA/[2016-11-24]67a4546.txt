@@ -1,0 +1,1 @@
+  PY-21539 List of packages for docker-compose interpreters is empty in Settings dialog  The bug caused by the removal of ModalityState (76dc21487fc0bb02aa2b5e692f2ba776c44df2b7 revision) in docker-compose utility execution in DockerComposeProcessStarterManager.runDockerComposeContainer() method that is invoked during list packages request.  

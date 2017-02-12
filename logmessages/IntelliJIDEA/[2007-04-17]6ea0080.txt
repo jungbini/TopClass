@@ -1,0 +1,1 @@
+  case instensitive completion for DB-related strings; quoted values support fixes & tailtype support  

@@ -1,0 +1,1 @@
+  Make wtp test more robust  If a defined path variable is a prefix for the library paths then the classpath will contain 'var' instead of 'lib's. As a result the EclipseWtpModelIntegrationTest can fail randomly depending on the build server setup.  +review REVIEW-6015  

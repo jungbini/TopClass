@@ -1,0 +1,1 @@
+  svn: Refactored SvnConfiguration - removed unused methods, fixed simple warnings  

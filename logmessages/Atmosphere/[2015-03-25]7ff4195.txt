@@ -1,0 +1,1 @@
+  :bug: Always resume and then close for proper cleanup of connection #1827  

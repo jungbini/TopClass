@@ -1,0 +1,1 @@
+  Gradle: fix GradleSettingsListener project refresh  

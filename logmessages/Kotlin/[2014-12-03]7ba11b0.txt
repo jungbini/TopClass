@@ -1,0 +1,1 @@
+  Fixed auto-import of operator functions broken before + fixed bug in its implementation  

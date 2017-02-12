@@ -1,0 +1,1 @@
+  Fix the bug due to changed Listener that BlockHeartbeatReporter fails to report to master on remove blocks  

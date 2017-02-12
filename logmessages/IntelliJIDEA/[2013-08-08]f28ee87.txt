@@ -1,0 +1,1 @@
+  fix PyDeprecationTest: allow to turn off the new behavior of looking for an injected fragment under the caret in CodeInsightTestFixture  

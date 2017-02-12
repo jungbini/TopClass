@@ -1,0 +1,1 @@
+  IG: handle negating conditional expressions better in "Redundant 'if' expression" inspection's quickfix  

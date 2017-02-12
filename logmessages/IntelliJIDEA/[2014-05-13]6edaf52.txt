@@ -1,0 +1,1 @@
+  fixed EA-56683 - NPE: PyStatementMover.moveTheSameLevel  

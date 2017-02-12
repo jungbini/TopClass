@@ -1,0 +1,1 @@
+  fix CliTest on Windows patch by Ben Coverston; reviewed by jbellis for CASSANDRA-2337  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1082376 13f79535-47bb-0310-9956-ffa450edef68  

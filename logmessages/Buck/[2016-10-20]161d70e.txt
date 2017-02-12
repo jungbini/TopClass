@@ -1,0 +1,1 @@
+  Make it possible to use project_workspace in //scripts/...  Summary: Python tests are sometimes co-located with code under test. This opportunistically fixes someone accidentally commenting out cleanup code.  Test Plan: build  Reviewed By: k21  fbshipit-source-id: e103301  

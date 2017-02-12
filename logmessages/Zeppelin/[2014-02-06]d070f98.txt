@@ -1,0 +1,1 @@
+ Merge pull request #49 from NFLabs/fix_hive_driver_class_loading_order  ZEPPELIN-100 loading hive driver and then hive2 driver  commit 5a92bc4369b9291b5d9a5ed59cee6cc4365680f3  Merge pull request #44 from NFLabs/fix_job_overwrite_bug  ZEPPELIN-90 fix job overwritten bug  commit d070f98fdf3783b2e900ad98e0073c2814e13613  Remove debug print  

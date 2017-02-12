@@ -1,0 +1,1 @@
+  Do not start the AF_UNIX server when in gRPC mode.  Work towards #930. With this, it's conceivable that server mode works on Windows to some degree (I haven't tried, though, because there are many issues that need to be fixed)  -- MOS_MIGRATED_REVID=120202037  

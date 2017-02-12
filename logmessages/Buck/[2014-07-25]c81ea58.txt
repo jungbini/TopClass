@@ -1,0 +1,1 @@
+  Update Exopackage "non-working devices" list.  Summary: Fixed some bugs!  Test Plan: Soyweb.  

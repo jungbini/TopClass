@@ -1,0 +1,1 @@
+  EA-33037 - assert: FormattingDocumentModelImpl.getLineNumber  Debug info is added  

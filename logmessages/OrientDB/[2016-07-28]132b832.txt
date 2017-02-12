@@ -1,0 +1,1 @@
+  RidBag: fixed 2 bugs: (1) during serialisation there wasn't a check for null values (2) during deserialisation no exception has to be thrown  About (2) it prevented the reading of the record because some links were corrupted. Now it logs a message, but the null link is skipped allowing to read the content.  

@@ -1,0 +1,1 @@
+  fixed text (because of new compatibility in py3k)  

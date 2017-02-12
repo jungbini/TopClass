@@ -1,0 +1,1 @@
+  KT-7256 False "Receiver parameter not used" for property with delegation  #KT-7256 fixed  

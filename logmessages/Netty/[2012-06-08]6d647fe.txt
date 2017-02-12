@@ -1,0 +1,1 @@
+  Fix a problem where multicast test eats 100% CPU on test failure (#373)  - Proper resource cleanup fixed 100% CPU issue - Using a loopback interface made the test pass  

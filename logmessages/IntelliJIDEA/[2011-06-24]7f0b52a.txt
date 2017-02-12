@@ -1,0 +1,1 @@
+  IDEA-71244 (NPE at single-type/single-static import conflict fixed)  

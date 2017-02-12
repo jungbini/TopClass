@@ -1,0 +1,1 @@
+ fixed #4059 - parenthesis in ORDER BY  

@@ -1,0 +1,1 @@
+  IDEA-67253 (Quickfix to replace += operator with StringBuilder on left hand side with append() call)  

@@ -1,0 +1,1 @@
+  HOTFIX: fix broken WorkerSourceTask test  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #859 from hachikuji/hotfix-worker-source-test  

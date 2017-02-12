@@ -1,0 +1,1 @@
+  fixed exception in renderer for type inference error  

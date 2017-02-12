@@ -1,0 +1,1 @@
+  some more details for debug tests via tooling api testlauncher  

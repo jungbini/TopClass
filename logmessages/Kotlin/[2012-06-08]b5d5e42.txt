@@ -1,0 +1,1 @@
+  KT-2217 Formatter fails to format unary minus #KT-2217 fixed  

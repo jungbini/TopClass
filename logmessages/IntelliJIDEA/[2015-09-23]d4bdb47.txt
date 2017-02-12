@@ -1,0 +1,1 @@
+  functional expressions chooser: fix presentation and popup insets  

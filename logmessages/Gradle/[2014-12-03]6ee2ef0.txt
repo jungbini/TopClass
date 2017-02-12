@@ -1,0 +1,1 @@
+  Daemon hygiene: fixed the integ test and tweaked the defaults  Let's see if the CI likes this change.  

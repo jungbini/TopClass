@@ -1,0 +1,1 @@
+  inspection tool window: sync right panel on update action finish fixed  

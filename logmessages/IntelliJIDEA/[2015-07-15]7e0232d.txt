@@ -1,0 +1,1 @@
+  IDEA-CR-3700 fix cyclic dependency in tests  lang-impl doesn't depend on configuration-store-impl (and we don't cast to ModuleImpl anymore)  

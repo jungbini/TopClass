@@ -1,0 +1,1 @@
+  unnecessary this in case of Clazz.this.method() fix. Resolve looks at any accessible method with the same name  

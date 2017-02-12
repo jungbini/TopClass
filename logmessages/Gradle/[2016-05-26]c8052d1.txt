@@ -1,0 +1,1 @@
+  Generated Idea project respects project name in composite  This fixes the bug where the project didn't correctly reference an Idea module when project.name != projectDir.name  

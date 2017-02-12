@@ -1,0 +1,1 @@
+  Change tooling api fixture to use the classpath provider implementation be default, regardless of whether a daemon is required or not.  

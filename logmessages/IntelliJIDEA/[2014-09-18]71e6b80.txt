@@ -1,0 +1,1 @@
+  fixed PY-13933 Duplicate entries in the list of interpreters fixed PY-13934 Interpreter added twice after Apply and OK  updated work with project sdk table due to platform changes  

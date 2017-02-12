@@ -1,0 +1,1 @@
+  HOTFIX: Remove Java verion 1.6 in quick-start docs  Author: Guozhang Wang <wangguoz@gmail.com>  Reviewers: Guozhang Wang  Closes #1546 from guozhangwang/KHotfix-remove-JDK6-docs  

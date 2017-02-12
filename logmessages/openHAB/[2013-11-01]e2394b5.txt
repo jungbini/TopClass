@@ -1,0 +1,1 @@
+ additional debug capabilities for MaxCubeBinding class to debug available devices  

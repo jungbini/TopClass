@@ -1,0 +1,1 @@
+  change class signature refactoring: assertion fixed  

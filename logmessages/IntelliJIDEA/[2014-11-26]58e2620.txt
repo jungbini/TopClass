@@ -1,0 +1,1 @@
+  fix duplicates not detected in case they intersect: do not remove old fragments unless they are cheaper or fully contained in new fragment  

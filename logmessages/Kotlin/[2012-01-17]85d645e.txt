@@ -1,0 +1,1 @@
+  Fixed bug where standard methods names may become obfuscated.  

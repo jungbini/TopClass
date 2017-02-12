@@ -1,0 +1,1 @@
+  Easy: Fix i18n-unsafe API in AndroidBinary  Summary: More fixes for i18n-unsafe APIs.  Test Plan: CI  Reviewed By: ryu2  fb-gh-sync-id: 15e13f8  

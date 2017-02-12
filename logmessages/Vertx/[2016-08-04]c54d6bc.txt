@@ -1,0 +1,1 @@
+  Multivalued server cookies should be seen as a single semi colon separated header - fixes #1506  

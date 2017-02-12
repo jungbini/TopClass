@@ -1,0 +1,1 @@
+  Add back an import that is required by the _tests_  The ToolingApi integration tests can't use internal classes when run in forking mode. This is a temporary fix to allow the tests to use `org.gradle.internal.jvm.Jvm`. A better solution is required.  

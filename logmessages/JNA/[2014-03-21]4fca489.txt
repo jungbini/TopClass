@@ -1,0 +1,1 @@
+  win32.S: Make the jump tables position-independent  Now that non-Windows platforms include win32.S, it needs to support building as position-independent code.  This fixes build failures on target platforms that do not allow text relocations.  

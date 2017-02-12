@@ -1,0 +1,1 @@
+  fix java7 check; adjust assertion message in checkJavaVersion  

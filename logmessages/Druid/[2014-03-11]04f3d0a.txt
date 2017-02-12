@@ -1,0 +1,1 @@
+  fix cli hadoop indexer  * run determine partitions job using CLI  

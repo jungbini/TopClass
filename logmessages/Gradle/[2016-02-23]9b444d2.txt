@@ -1,0 +1,1 @@
+  Change the expected number of lines in the unix startup script.  +review REVIEW-5845 - This is a really similar test to another one I fixed already.  

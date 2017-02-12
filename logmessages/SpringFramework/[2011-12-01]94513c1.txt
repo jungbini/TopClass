@@ -1,0 +1,1 @@
+  fixed nested element conversion with a DataBinder + ConversionService + PropertyEditor (SPR-8674)  

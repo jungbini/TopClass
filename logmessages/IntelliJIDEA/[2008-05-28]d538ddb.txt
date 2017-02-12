@@ -1,0 +1,1 @@
+  Preliminarily closes PY-12 and PY-8. Import resolution is still quite suboptimal, though. PyFile and PyFileImpl: added getUrl() method. PyResolveUtil and PyFile: more of (lame) means to squash SOEs on circular imports. ResolveImportUtil: actual PY-12 resolve order fix. PyMultiFileResolveTest and friends: a test case for name resolution inside subpackage.  

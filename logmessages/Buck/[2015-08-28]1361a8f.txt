@@ -1,0 +1,1 @@
+  Output the dSYM next to the app bundle instead of inside it.  Summary: Outputting the dSYM inside the bundle causes it to be copied into the IPA. lldb is able to load symbols from the dSYM bundle as long as it is next to the app bundle.  Test Plan: CI Build and run an app with Buck, verify debugging works.  

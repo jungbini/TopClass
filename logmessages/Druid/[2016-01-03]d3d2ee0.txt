@@ -1,0 +1,1 @@
+ Merge pull request #2189 from pjain1/fix_realtime_example  add ChatHandlerServerModule to realtime example  commit d3d2ee03cee93eac46759da27600edcabd323ace  minor fixes to docs  

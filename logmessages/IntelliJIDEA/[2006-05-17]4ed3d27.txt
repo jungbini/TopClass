@@ -1,0 +1,1 @@
+  Workaround for ik problem on Linux, where debugger evaluation window refuses to close.  

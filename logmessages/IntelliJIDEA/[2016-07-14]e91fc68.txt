@@ -1,0 +1,1 @@
+  [java] "go to duplicate" quick fix for module highlighting  

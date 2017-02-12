@@ -1,0 +1,1 @@
+  Maven: modules resolution and quick fix test  

@@ -1,0 +1,1 @@
+  Bug fix. remove event-analytics.js ( replace to analytics.service.js )  

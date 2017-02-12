@@ -1,0 +1,1 @@
+ Merge pull request #576 from hsaputra/fix_typo_CompletedEditLogDeletionTest_method  Simple typo fix of the JournalTest.CompletedEditLogDeletionTest method name  commit d21f08a1ad902ce742d8bfaa690bdd7a03659688  Simple typo fix of the JournalTest.CompletedEditLogDeletionTest method name.  

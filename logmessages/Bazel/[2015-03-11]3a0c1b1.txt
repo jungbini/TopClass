@@ -1,0 +1,1 @@
+  Move bundle_id storage from BundleMergeControlBytes to Bundling to fix a case of nested bundles.  RELNOTES: objc: Fixes a case where nested bundle would pick up parent bundle_id value  -- MOS_MIGRATED_REVID=88372062  

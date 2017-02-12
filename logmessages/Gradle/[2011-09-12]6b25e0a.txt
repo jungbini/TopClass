@@ -1,0 +1,1 @@
+  Some refactorings/fixes in the daemon registry area. The updates to the registry (marking idle/busy) are done only when the daemon was not already stopped.  

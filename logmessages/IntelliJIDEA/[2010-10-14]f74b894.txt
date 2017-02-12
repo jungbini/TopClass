@@ -1,0 +1,1 @@
+  maven: @notnulls + npe fix in uml action generate test: npe fix  

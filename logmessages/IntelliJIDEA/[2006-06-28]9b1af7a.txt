@@ -1,0 +1,1 @@
+  define antAttributeReferences not only over PsiWhiteSpace, but over any alement in start tag (that allows completion of attributes with prefix)  

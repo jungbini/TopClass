@@ -1,0 +1,1 @@
+  Release the cache lock when building artifacts in a composite  This fixes a deadlock that occured using `--parallel` when executing a composite build that has external dependencies.  

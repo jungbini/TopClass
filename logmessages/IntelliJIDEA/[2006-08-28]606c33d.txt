@@ -1,0 +1,1 @@
+  fix restoring settings in "generate javadoc" (IDEADEV-8743)  

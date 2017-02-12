@@ -1,0 +1,1 @@
+  use SHA2 for passwords, display correct message when unauthorized  fixes #137, #256  

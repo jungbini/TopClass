@@ -1,0 +1,1 @@
+  WI-33629 fixed bug: categorization of constant in Find Usage depends on the code location  

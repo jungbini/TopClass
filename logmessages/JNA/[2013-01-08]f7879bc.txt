@@ -1,0 +1,1 @@
+  Testsuite fix for Solaris vendor compiler  

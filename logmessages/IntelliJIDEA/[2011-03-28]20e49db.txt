@@ -1,0 +1,1 @@
+  JBTable rot height fix in case of empty table  

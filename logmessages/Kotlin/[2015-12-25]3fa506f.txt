@@ -1,0 +1,1 @@
+  "Inapplicable operator modifier" and "Inapplicable infix modifier" are now errors  

@@ -1,0 +1,1 @@
+  inspection view: try to navigate to file or file+line if file's problem was fixed  

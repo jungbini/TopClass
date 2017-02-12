@@ -1,0 +1,1 @@
+  [git] Don't write empty lines to LOG.debug.  Use the same newline-handling logic for LOG.debug, as for the standard logging.  

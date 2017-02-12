@@ -1,0 +1,1 @@
+  JS backend: fixes in ranges:  * map all number ranges and progressions; * add missed hashCode and static EMPTY to Range implementations; * add missed hashCode and equals to Progression implementations; * fix type of start and end in CharRange and CharProgression.  

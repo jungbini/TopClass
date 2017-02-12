@@ -1,0 +1,1 @@
+  relax getProperties  Variable is enough, we must not require ObjectProperty  continue NashornObject impl. Current "official" approach doesn't work in our case  it is better for us to not use DebuggerSupport, we should operate with ScriptObject directly  

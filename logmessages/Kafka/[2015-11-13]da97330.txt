@@ -1,0 +1,1 @@
+  KAFKA-2830; Change default fix version to 0.9.1.0 in kafka-merge-pr.py  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Guozhang Wang  Closes #523 from ijuma/kafka-2830-fix-version-0.9.1.0  

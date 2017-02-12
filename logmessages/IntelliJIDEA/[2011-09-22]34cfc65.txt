@@ -1,0 +1,1 @@
+  IDEA-74434 fix ISE: content's display name can be null (see EJB, J2EE, Android, etc)  

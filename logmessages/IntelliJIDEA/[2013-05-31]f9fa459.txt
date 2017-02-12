@@ -1,0 +1,1 @@
+  IDEA-99939 Incorrect window placement on multiple monitors on launch (this fix solves only maximized case not full screen)  

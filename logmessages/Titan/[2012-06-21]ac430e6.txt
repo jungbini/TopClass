@@ -1,0 +1,1 @@
+  better coersion of Vertex id handling. If a Long, use long. If a number, convert to long. If something else, toString() and try and convert to long.This will fix the Rexster/Titan bug.  

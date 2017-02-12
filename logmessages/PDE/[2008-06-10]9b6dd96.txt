@@ -1,0 +1,1 @@
+  fixing up the linux build script to support x86_64  

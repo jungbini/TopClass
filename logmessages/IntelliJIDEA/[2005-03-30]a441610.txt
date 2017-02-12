@@ -1,0 +1,1 @@
+  fixed issue with flex lexers integration (state returned was the state after current token type)  

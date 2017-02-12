@@ -1,0 +1,1 @@
+  fix+chore+refactor(web): fix modal close by enter, rename some vars, cleanup  

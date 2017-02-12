@@ -1,0 +1,1 @@
+  copy/paste problems fix WI-6376, IDEA-68278, IDEA-68956, IDEA-66122, IDEA-62935, IDEA-67697  

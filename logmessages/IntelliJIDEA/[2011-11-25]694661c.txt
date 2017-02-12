@@ -1,0 +1,1 @@
+  [by: cdr] EA-31437 - assert: DocumentFoldingInfo.writeExternal  1. Don't create name-based signature for PsiNamedElement with undefined name; 2. Debug info is added;  

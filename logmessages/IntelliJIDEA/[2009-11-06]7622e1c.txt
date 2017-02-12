@@ -1,0 +1,1 @@
+  git4idea: IDEADEV-41221 fixed case with two rebase processes  

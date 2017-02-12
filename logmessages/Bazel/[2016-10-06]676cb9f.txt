@@ -1,0 +1,1 @@
+  cpp: refactoring blaze_globals.h  * drop "blaze_" prefix (like it was done with statup_options.h) * add a constructor to initalize the data members * rename the header file to global_variables.h to match the struct in there.  -- Change-Id: I8c9f89f5d07c9a064bf1999c7bfb6d617d72818a Reviewed-on: https://bazel-review.googlesource.com/6370 MOS_MIGRATED_REVID=135342354  

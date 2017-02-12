@@ -1,0 +1,1 @@
+  Escape '+' in input to glob()  Summary: Buck's glob() is pretty broken with regex metacharacters like + and ? (the former is not supposed to be special in glob, and the latter is not the same in glob and regex).  I'm not going to fix all the cases here, but just unblock @swolchok (we have lots of files in fbobjc with '+' in the name).  Test Plan: Unit test included.  

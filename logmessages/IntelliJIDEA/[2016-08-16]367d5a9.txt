@@ -1,0 +1,1 @@
+  make actions not require transactions by default (fixes IDEA-146640 and numerous exceptions)  

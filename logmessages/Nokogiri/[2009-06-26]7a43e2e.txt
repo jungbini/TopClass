@@ -1,0 +1,1 @@
+  ensuring rake will run even if hoe-debugging isn't installed  

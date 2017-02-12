@@ -1,0 +1,1 @@
+  [git] Sometimes both "fatal:" and "error:" prefixes are used in Git error messages: cleanup both of them  

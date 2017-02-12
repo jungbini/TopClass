@@ -1,0 +1,1 @@
+  KT-12297 related: make not open quick-fix for REDUNDANT_OPEN_IN_INTERFACE  

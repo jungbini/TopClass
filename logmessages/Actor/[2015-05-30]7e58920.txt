@@ -1,0 +1,1 @@
+  fix(enrich): send updates to both peers in private messaging  

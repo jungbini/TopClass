@@ -1,0 +1,1 @@
+  create explicit interchange format for messages in AlarmCallbacks, so that we do not leak the internal Message class structure  * expose timestamp as explicit method in Message * add test for timestamp and timezone * deprecate getSearchHits in AlertCondition * add new MessageSummary accessor in AlertCondition.CheckResult  fixes #923  

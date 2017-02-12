@@ -1,0 +1,1 @@
+  fix java class name completion in regex (e.g. structural search UI)  

@@ -1,0 +1,1 @@
+ fix issue with properties not being applied to spouts, bolts, and custom stream groupings.  

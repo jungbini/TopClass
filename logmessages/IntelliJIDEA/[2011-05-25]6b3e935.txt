@@ -1,0 +1,1 @@
+  PY-3222: Add Function quickfix works correctly if a function is mentioned outside a call.  

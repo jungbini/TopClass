@@ -1,0 +1,1 @@
+  fixed issue with wrong jsp xml view generation for single tags  

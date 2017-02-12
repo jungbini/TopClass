@@ -1,0 +1,1 @@
+  REVIEW-2449: make sample snippets in configurationcontainer autotested;  - don't use 'usequitelogging' flag in autotests to detect deprecation warnings; - fix another autotested snippet in TestNGOptions  

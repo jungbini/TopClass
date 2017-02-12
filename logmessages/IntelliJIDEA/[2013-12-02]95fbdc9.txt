@@ -1,0 +1,1 @@
+  Gradle: fix MultipleRepositoryUrlsInspection to operate on gradle-relevant files only  

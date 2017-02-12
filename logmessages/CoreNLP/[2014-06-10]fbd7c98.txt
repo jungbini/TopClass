@@ -1,0 +1,1 @@
+  Have -dump print something more useful. Also: fix bugs in config initialization before use of dump, change the Extractors size method to be just size() not getSize(), clean up namess of Pref and Suff extractors, and remove mentions of no longer supported convertToSingleFile model.  

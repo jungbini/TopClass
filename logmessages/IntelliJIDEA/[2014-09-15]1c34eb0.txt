@@ -1,0 +1,1 @@
+  fixed PY-13889 Project Interperter: Throwable at com.intellij.openapi.roots.ui.configuration.projectRoot.ProjectSdksModel$2.run  

@@ -1,0 +1,1 @@
+  code rearranged to avoid jvm bug (IDEADEV-26894)  

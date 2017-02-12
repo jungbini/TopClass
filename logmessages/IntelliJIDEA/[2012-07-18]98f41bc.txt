@@ -1,0 +1,1 @@
+ This was not a misprint. Actually, this place is reserved for change markers. If folding outline is shown, the place will be reserved when painting the outline, otherwise we need to reserve the place here.  

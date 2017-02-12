@@ -1,0 +1,1 @@
+  JSP/JSPX: expand selection (Ctrl-W) should select whole EL expression including prefix/suffix (IDEADEV-13799)  

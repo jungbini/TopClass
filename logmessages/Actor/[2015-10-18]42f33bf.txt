@@ -1,0 +1,1 @@
+  fix(server): put akka persistence settings to reference.conf  

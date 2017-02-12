@@ -1,0 +1,1 @@
+  fix stress to not use thrift unless requested  

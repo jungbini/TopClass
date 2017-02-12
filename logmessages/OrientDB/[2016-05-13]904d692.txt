@@ -1,0 +1,1 @@
+  Scheduler: fixed issue on interrupting an event  

@@ -1,0 +1,1 @@
+  fixed PY-2678 Test runner catches files that have nothing to do with testing in case of Ctrl + Shift + F10 on docsection  

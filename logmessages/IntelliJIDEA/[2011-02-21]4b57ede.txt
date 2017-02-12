@@ -1,0 +1,1 @@
+  fix parsing of character classes so that it's actually correct (PY-1929)  

@@ -1,0 +1,1 @@
+  update checker: fix EDT assertion, don't retry update if plugin repo has no compatible version  

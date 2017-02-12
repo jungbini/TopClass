@@ -1,0 +1,1 @@
+  editor detach: fixed jumping bug  

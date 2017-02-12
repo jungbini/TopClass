@@ -1,0 +1,1 @@
+  hideHighlight modified continue WEB-8255 LiveEdit must work as part of JS debug session (JavaScript Debug Configuration)  WEB-8207 WEB-7071 WEB-6273 WEB-7461 WEB-1766 WEB-6951 WEB-6853 WEB-6918 WEB-6828 WEB-6826 WEB-6685 WEB-6196  

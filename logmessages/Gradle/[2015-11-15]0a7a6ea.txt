@@ -1,0 +1,1 @@
+  Added failing test case for GRADLE-3362  This also demonstrates that GRADLE-3330 was not properly fixed for the case where the 'base' plugin was applied.  

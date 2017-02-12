@@ -1,0 +1,1 @@
+  fixed building of configurables tree - the case with more than two-depth hierarchy  

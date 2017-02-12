@@ -1,0 +1,1 @@
+on change list selection => don't store it in a field, but select directly in the combobox.  

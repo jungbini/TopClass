@@ -1,0 +1,1 @@
+  [r=romeo] use outNamePrefix variable for nsis instead of duplicating it in strings  

@@ -1,0 +1,1 @@
+  don't throw unnecessary error message #XNG  happened if GELF message was given to handler pre-parsed. message was stored anyways. fixes #SERVER-63  

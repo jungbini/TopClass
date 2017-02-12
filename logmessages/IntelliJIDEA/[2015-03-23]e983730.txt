@@ -1,0 +1,1 @@
+  SSR: fix java array initializer matching (IDEA-138047)  

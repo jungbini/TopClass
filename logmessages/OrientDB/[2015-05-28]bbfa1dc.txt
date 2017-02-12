@@ -1,0 +1,1 @@
+  fixed metadata creation in case of database copy.  

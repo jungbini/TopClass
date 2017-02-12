@@ -1,0 +1,1 @@
+  YARN-2841: Correct fix version from branch-2.6 to branch-2.7 in the change log.  

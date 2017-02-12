@@ -1,0 +1,1 @@
+  simple spelling fix patch by rcoli reviewed by dbrosius for ninja  

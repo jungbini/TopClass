@@ -1,0 +1,1 @@
+  fixed jackson plugin errors  this includes integration test, objectmapper execution policies, readvalue interceptors  

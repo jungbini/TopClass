@@ -1,0 +1,1 @@
+  display more helpful messages when trying to edit ldap group mapping  either - tell the user to enable ldap - tell the user to set the group mapping config settings  fixes #1570  

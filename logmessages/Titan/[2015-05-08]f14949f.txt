@@ -1,0 +1,1 @@
+  more Titan classes needed registration with the GraphProvider. Everything seems to work now -- save for the known legit bugs. @spmallette -- that class registration stuff is sooooo sketchy. What a bug hole. Anywho -- no more random mvn/IntelliJ behavior and no mysterious failures in LocalTest, HasTest, or VertexTest.  

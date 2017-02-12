@@ -1,0 +1,1 @@
+  fixed NPE in chech test configuration  

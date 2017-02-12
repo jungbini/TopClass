@@ -1,0 +1,1 @@
+  #2286 Add function of getting thread dump from agent  1. fix json format  

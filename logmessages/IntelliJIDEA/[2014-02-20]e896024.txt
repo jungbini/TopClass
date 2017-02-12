@@ -1,0 +1,1 @@
+  Postfix completion: apply throw template on Throwable only  

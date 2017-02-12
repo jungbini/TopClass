@@ -1,0 +1,1 @@
+  fix issues with stroke() and beginRaw()  

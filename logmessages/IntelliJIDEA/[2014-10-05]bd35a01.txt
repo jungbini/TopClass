@@ -1,0 +1,1 @@
+  inline debugger in case of JS must use auto expression data  

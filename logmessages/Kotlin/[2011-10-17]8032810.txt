@@ -1,0 +1,1 @@
+  No debug errors when error reporting is off  

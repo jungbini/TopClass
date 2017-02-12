@@ -1,0 +1,1 @@
+ Merge pull request #1657 from druid-io/backport-for-0-8-1-rc2  Merge fixes for 0.8.1 rc2  commit 86d0e2f55c6aafe2912288f3f7b6cab475f66c06  fix success flag emitted in router query metrics  

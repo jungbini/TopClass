@@ -1,0 +1,1 @@
+  fixed PY-15437 Exception when converting method to function  

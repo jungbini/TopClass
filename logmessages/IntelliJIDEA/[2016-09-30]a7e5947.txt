@@ -1,0 +1,1 @@
+  side panel in Project Structure dialog: cleanup and 'copy' action fixed (IDEA-68561)  

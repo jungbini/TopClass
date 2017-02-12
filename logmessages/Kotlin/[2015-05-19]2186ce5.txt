@@ -1,0 +1,1 @@
+  Degrade CFG test on values of extension function type  Apparently type annotations ('kotlin.extension' in particular) are lost somewhere in control-flow values processor at the moment, so types may not be as precise as they were when functions and extension functions had 

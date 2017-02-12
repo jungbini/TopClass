@@ -1,0 +1,1 @@
+  fix compound period granularity for exact periods  

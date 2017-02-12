@@ -1,0 +1,1 @@
+  STORM-851: Storm Solr Connector 1. Address code review README.md Javadocs Apache Copyright 2. Fixed Multivalue fields bug  

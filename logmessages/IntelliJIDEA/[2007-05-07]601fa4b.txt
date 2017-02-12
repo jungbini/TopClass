@@ -1,0 +1,1 @@
+  Compiling java and groovy classes together fixed bug with java generating classes deleting constructor, variables and methods stabs not was tested compiling not tested yet, but seems working  

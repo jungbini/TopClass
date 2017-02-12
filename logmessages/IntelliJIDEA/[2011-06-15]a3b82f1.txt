@@ -1,0 +1,1 @@
+  fix tests: pass FileType explicitly to EditorHighlighterProvider  

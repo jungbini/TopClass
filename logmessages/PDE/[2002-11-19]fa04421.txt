@@ -1,0 +1,1 @@
+  spew out compiler error message when kopi dies fixes a freezing bug in more complicated code  

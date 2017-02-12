@@ -1,0 +1,1 @@
+  Improved messages to find a bug on allocation of persistent space  

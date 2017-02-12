@@ -1,0 +1,1 @@
+  fix(web): fix cyrillic 'C' in intl message property name  

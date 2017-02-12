@@ -1,0 +1,1 @@
+  set source- & target Compatibility default to current jvm + fix related tests in :ide  

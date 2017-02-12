@@ -1,0 +1,1 @@
+  EA-80007 - NPE: SchemaPrefix.getNamespace  

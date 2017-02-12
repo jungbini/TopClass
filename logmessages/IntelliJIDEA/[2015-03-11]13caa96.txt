@@ -1,0 +1,1 @@
+  IDEA-137320 GTK: debugger/eval inspection nodes do not show the expand triangle until selected  

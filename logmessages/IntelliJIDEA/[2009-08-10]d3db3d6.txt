@@ -1,0 +1,1 @@
+  fix NPE on pressing cancel in create file dialog (IDEADEV-39378)  

@@ -1,0 +1,1 @@
+  IDEA-125376 Highlited current debug line disappear after switch between pages (Ctrl+E)  

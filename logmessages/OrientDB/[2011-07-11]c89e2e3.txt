@@ -1,0 +1,1 @@
+  Studio: fixed bug on db alias and superClass  

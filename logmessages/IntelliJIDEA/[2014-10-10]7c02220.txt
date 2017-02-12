@@ -1,0 +1,1 @@
+  IDEA-122990 Scrollbar overlaps content and prevents clicking + less blinking on tree expansion/resizing * cleanup * exception fixed in absence of Application  

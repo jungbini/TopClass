@@ -1,0 +1,1 @@
+  added row caching to HBase and fixed count type bug in the FaunusCompilter.  

@@ -1,0 +1,1 @@
+  getChildren dirty hack leads to infinite CPU loading in case of JS Debug  

@@ -1,0 +1,1 @@
+  quickfix to ignore unresolved identifier (PY-804)  

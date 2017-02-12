@@ -1,0 +1,1 @@
+  Fix a bug where some extra dependencies were missing from CCprocessed & collapsed dependencies with extras  

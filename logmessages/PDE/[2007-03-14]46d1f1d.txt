@@ -1,0 +1,1 @@
+  remove print() of arrays, fix up println(), and make math static  

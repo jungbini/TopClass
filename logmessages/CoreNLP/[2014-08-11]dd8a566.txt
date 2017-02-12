@@ -1,0 +1,1 @@
+  Fix some bugs in the refactoring of the training method  

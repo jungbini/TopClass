@@ -1,0 +1,1 @@
+  IDEA-160802 fixed case with collection summing  

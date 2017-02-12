@@ -1,0 +1,1 @@
+  Quickfix for NO_BACKING_FIELD_ABSTRACT_PROPERTY.  

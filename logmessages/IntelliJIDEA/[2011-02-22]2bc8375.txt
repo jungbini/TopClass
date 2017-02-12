@@ -1,0 +1,1 @@
+  Try-with-resource support: reuse variable quick fix  

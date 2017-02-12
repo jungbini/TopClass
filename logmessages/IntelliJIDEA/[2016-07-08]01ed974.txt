@@ -1,0 +1,1 @@
+  CPP-475 Show cmake output messages while loading  - tabs were flashing when their name was changed, now fixed (they were flashing because previously we needed to call removeTabWithOldName()and 'addTheSameTabWithANewName()  there was no renameTab() method. Now we can actually rename the tab).  

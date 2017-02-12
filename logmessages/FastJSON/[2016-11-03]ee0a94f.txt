@@ -1,0 +1,1 @@
+ Merge pull request #884 from wuwen5/fix-boolean-type  fix getterjavaBean is  commit ee0a94ff452b493268f33e7d308015359a9e8353  fix getterjavaBean is  

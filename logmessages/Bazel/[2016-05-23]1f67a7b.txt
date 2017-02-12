@@ -1,0 +1,1 @@
+  libtool wrapper script to isolate the unfortunate hacks we must make to get around apple's buggy libtool tool  -- MOS_MIGRATED_REVID=123024674  

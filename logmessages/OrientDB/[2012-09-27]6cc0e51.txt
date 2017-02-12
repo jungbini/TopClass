@@ -1,0 +1,1 @@
+  Fixed bug on LET without conditions but with a FROM: the last record was returned twice  

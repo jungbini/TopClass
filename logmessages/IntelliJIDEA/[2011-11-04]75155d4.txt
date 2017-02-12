@@ -1,0 +1,1 @@
+  fixed PY-4732 Tests Run Configurations: unnecessary pattern checkbox in per-script configurations  

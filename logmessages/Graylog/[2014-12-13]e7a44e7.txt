@@ -1,0 +1,1 @@
+  override debug log level early enough so all of the bootstrap process is affected  

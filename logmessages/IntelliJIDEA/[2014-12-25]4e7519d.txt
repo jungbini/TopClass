@@ -1,0 +1,1 @@
+  fixed PY-14396 IPython Notebook: allow to specify already running notebook server on run cell  

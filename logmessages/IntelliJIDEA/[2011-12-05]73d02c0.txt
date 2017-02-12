@@ -1,0 +1,1 @@
+  IDEA-77375 fix SS inspection [rev=dmitry.avdeev]  

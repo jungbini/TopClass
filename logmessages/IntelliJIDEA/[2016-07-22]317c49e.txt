@@ -1,0 +1,1 @@
+  [patch]: fix problems with last line when applying patch; tests added  

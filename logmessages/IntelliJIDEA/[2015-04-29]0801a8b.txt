@@ -1,0 +1,1 @@
+  IDEA-139409 Persistent message "File type recognized: File extension *.vm was reassigned to VTL": fix test  

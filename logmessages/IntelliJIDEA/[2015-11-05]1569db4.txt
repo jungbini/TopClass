@@ -1,0 +1,1 @@
+  [ui] fix separators in list popup with speed-search  

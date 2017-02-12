@@ -1,0 +1,1 @@
+  KAFKA-3773; Remove from inflightResponses on client disconnect to prevent memory leak  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1452 from hachikuji/hotfix-processor-memleak  

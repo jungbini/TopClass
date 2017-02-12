@@ -1,0 +1,1 @@
+  correctly coerce values in StackValue.store() (KT-1397) #KT-1397 fixed  

@@ -1,0 +1,1 @@
+  Minor fix of problem with non-existent ProjectFileIndex  

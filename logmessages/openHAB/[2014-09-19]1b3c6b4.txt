@@ -1,0 +1,1 @@
+  Added more Homegear trace logging to better support debugging  

@@ -1,0 +1,1 @@
+  fixing expected result for segmentMetadata query in integration tests (#3318)  

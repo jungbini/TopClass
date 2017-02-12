@@ -1,0 +1,1 @@
+  fix once and forever accidental deleting by backspace while editing speed search pattern  

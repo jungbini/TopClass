@@ -1,0 +1,1 @@
+  IDEA-102584 Conflict resolver run after a Mercurial merge always produce an error  *Change using 'hg log -r "ancestor(r1,r2)" ' to debugancestor command, because  using quotes may produce wrong escaping errors on Unix-type systems.  

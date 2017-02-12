@@ -1,0 +1,1 @@
+  fixed test_is_initial_text for windows  

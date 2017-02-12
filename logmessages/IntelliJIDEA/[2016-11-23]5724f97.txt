@@ -1,0 +1,1 @@
+  IDEA-160102 JavaScript Debugger: "Copy Watch"creates buggy code  

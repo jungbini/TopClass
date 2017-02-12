@@ -1,0 +1,1 @@
+  Hacked the sonar build to fix the build and enable it to work even if user hasn't yet upgraded gradle to milestone 2. @Peter, please review  

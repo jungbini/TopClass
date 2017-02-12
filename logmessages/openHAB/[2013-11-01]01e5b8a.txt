@@ -1,0 +1,1 @@
+  added additional debugging capabilities to the MaxCubeBinding class  

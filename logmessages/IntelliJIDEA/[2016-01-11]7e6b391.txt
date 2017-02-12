@@ -1,0 +1,1 @@
+  node ij-rpc-client  es5 target (because node requires flags to enable default parameters)  ElectronDebugTest  prepare to test render process debug  

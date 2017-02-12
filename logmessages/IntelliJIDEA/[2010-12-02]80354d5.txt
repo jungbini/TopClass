@@ -1,0 +1,1 @@
+  fix inspection problem when the option "Only warn on RuntimeException, Exception, Error or Throwable" is enabled  

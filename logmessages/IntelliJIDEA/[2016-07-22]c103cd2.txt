@@ -1,0 +1,1 @@
+  gui-tests-framework: fixed waiting in NewProjectWizardFixture (if label with "Project name:") is still not showing)  

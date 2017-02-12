@@ -1,0 +1,1 @@
+  RUBY-13871: (fixing build) more places where hardcoded jsch's version  

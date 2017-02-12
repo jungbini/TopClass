@@ -1,0 +1,1 @@
+  git log: fix search by hash (?)  

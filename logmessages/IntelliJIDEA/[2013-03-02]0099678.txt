@@ -1,0 +1,1 @@
+  [github] Fix "Open in browser" when URL protocol is not HTTPS.  The remote URL can be ssh, for instance (git@github.com/...). Therefore only the host need to be checked, without protocol prefix.  

@@ -1,0 +1,1 @@
+  Debugger: Alt + click on variable name in declaration should open a popup with it's value #KT-6875 Fixed  

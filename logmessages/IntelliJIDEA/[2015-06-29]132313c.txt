@@ -1,0 +1,1 @@
+  don't compute myCurrentScheme on set name  be lazy setSchemes  more clear parameter name, fix deletion if removeCondition specified  

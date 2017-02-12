@@ -1,0 +1,1 @@
+  fixed PY-9446 False positive: Class has no __init__ method inspection doesn't understand __new__  

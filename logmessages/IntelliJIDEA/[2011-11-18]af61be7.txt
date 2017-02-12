@@ -1,0 +1,1 @@
+ svnkit 8183 (with copy from in status) -> moved files are detected as moved + file system listener fix for move  

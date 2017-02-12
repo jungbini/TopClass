@@ -1,0 +1,1 @@
+  [TACHYON-1647] also fix som problems in the former translation o "index.md" and "Running-Spark-on-Tachyon.md"  

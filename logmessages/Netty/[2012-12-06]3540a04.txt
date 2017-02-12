@@ -1,0 +1,1 @@
+  fix containsValue to take snapshot of `table` and use Arrays.fill for clearing out oldTable  

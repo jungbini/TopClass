@@ -1,0 +1,1 @@
+ Bug fix. The waiting pointer does not display when no longer get all the data.  

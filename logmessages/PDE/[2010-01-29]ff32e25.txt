@@ -1,0 +1,1 @@
+  add input method support for bug #854  

@@ -1,0 +1,1 @@
+  NdkCxxPlatforms: support building with clang and libc++  Summary: This 

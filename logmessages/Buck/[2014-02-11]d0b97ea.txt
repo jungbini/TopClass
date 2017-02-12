@@ -1,0 +1,1 @@
+  Fix buck test selectors (when using a custom runner and a timeout).  Summary: If you specify a test to `@RunWith(something else)` then `org.junit.runner.Description`s aren't sent to the test filter for each test method -- they are only sent for each test class.  It appears that only `BuckBlockJUnit4ClassRunner` provides that, and this 

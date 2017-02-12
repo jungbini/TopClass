@@ -1,0 +1,1 @@
+  fix problem with downloaded plugin file name  

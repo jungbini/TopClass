@@ -1,0 +1,1 @@
+  AndroidLibraryDescription: fixup first-order deps  Summary: Add deps from exported rules to the first-order deps of `AndroidLibrary` rules.  Test Plan: added unittest  

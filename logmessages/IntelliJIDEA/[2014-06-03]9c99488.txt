@@ -1,0 +1,1 @@
+  JS debugger in Chrome: support breakpoint conditions, better support for 'log evaluated expression', non-strict column number comparison  

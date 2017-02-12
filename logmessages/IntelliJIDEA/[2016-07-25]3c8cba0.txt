@@ -1,0 +1,1 @@
+  merge: fix rendering for resolved changes in merge  follow-up 95384fd3707df547b21b07dd0f41ae322eb07c7a  

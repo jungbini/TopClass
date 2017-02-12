@@ -1,0 +1,1 @@
+  Post BlazeDirectories as part of CommandStartedEvent.  We have some modules that assume 1:1 correspondence between servers and workspaces, which I'd like to fix.  -- MOS_MIGRATED_REVID=126628292  

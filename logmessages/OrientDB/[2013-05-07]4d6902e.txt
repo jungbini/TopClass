@@ -1,0 +1,1 @@
+  Issue #1404   w_chart issue was fixed and JNA version was updated.  

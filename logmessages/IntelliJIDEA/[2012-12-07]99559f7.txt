@@ -1,0 +1,1 @@
+  IDEA-96834 prevent idea freeze on start of we cannot open nio selector (due to unclear windows firewall bug)  

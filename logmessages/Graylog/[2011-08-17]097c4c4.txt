@@ -1,0 +1,1 @@
+  Fix stupid bug in mongoid.yml.example  

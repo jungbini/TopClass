@@ -1,0 +1,1 @@
+  Maven: community tests fix  

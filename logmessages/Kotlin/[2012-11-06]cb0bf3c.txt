@@ -1,0 +1,1 @@
+  EA-36903 - ISE: JavaTypeTransformer$.visitClassType  More debug info added  

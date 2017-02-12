@@ -1,0 +1,1 @@
+  Fixed highlighting when arguments are passed to magic commands (PY-4468). Also exception fixed (PY-4467).  

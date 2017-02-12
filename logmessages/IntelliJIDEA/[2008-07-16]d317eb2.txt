@@ -1,0 +1,1 @@
+  Annotation formatter test fixed IDEADEV-6434 fixed  

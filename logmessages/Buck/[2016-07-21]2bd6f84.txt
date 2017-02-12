@@ -1,0 +1,1 @@
+  Fixed divide by zero bug when totalNetworkTimeMillis < 1000  Summary: The condition was checking totalNetworkTimeMillis > 0, but then converting to seconds before using it as part of a division.  Test Plan: ci  Reviewed By: k21  fbshipit-source-id: 57076c1  

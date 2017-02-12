@@ -1,0 +1,1 @@
+  Add a low-level debug log and use it to diagnose silent test failures.  Summary: We're seeing cases on our build servers where `buck test` is exiting with a failure code but not printing any output that would indicate what the problem is.  This 

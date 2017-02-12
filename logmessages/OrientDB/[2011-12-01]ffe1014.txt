@@ -1,0 +1,1 @@
+  Fixed bug in TRAVERSE against MAPs and added the Fabrizio's test case  

@@ -1,0 +1,1 @@
+  remove unnecessary changes & fix index closing subquery  

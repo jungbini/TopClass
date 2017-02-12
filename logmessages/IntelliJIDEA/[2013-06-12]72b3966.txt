@@ -1,0 +1,1 @@
+  dispose in EDT, move common code from DebuggerUIUtil to AppUIUtil  

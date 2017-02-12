@@ -1,0 +1,1 @@
+ change system.out.println to LOG.debug because println will affect TfsShellTest  

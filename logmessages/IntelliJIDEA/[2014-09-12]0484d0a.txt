@@ -1,0 +1,1 @@
+  IDEA-121683 Possibility to change node names in debugger tree  

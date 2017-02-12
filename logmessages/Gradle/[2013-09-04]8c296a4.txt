@@ -1,0 +1,1 @@
+  Fixed parallel issue with build execution listeners.  1. Reverted the previous fix (e.g. concurrent map in the TaskExecutionLogger) 2. Fixed the problem where the notifications are triggered, this way all implementations of the TaskExecutionListeners, including user's will be safe for parallel build.  

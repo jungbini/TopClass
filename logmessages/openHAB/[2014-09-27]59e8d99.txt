@@ -1,0 +1,1 @@
+  Fix bug where we could end up with retryAttempt == true if we failed to reconnect on the try as retryAttempt was not reset to false. We also not retry on socket timeout. Ran code through formatter.  

@@ -1,0 +1,1 @@
+  fix complex case of recursion in JavaDescriptorResolver  #KT-1804  

@@ -1,0 +1,1 @@
+  Make ES client version check defensive  fixes #781  

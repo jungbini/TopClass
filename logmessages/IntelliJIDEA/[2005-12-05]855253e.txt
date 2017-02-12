@@ -1,0 +1,1 @@
+  introduction of ExpressionUtils class simplifies 4 inspections. improved quick fix of TrivialStringConcatenationInspection, now replaces with String.valueOf  

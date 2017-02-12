@@ -1,0 +1,1 @@
+  Cassandra transaction bugfixes  These bugfixes were just gross typos, like calling native-array.equals instead of Arrays.equals.  Although the test suite now passes, this is the same suite that passed no-op locking -- so it does not mean much.  

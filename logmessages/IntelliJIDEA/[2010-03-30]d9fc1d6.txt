@@ -1,0 +1,1 @@
+  Maven: headless-mode resolve fix (TW-11218)  

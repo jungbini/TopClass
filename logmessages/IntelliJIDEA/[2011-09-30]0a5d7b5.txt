@@ -1,0 +1,1 @@
+  Python coverage: fixed line highlighting(whitespaces, multi-line stmts with wsps)  

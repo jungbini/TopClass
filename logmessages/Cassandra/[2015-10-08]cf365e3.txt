@@ -1,0 +1,1 @@
+  Fix bug in schema conversion of index options to thrift format  Patch by Sam Tunnicliffe; reviewed by Sylvain Lebresne for CASSANDRA-10483  

@@ -1,0 +1,1 @@
+  -fix handling of string concatenations starting with a binary expression of a 

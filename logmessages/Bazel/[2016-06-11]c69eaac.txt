@@ -1,0 +1,1 @@
+  fix crash that can happen when using incremental dexing *and* --android_crosstool_top due to a busted checkArgument condition  -- MOS_MIGRATED_REVID=124616411  

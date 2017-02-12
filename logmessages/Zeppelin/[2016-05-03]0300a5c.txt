@@ -1,0 +1,1 @@
+e logs \w debug info on webapp build and Travis exit code  

@@ -1,0 +1,1 @@
+  svn: Fixed "SvnQuickMergeTest" - fixed waiting for "quick merge" to finish  

@@ -1,0 +1,1 @@
+  Changed JarTestFixture so that it always checks that the manifest is well formed, and changed a bunch of int tests to use the fixture instead of unpacking the archive.  

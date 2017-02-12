@@ -1,0 +1,1 @@
+  fix(server): fixed email config  

@@ -1,0 +1,1 @@
+  VCS: fix move SVN -> P4, and P4 -> SVN - only P4 part (deletion)  

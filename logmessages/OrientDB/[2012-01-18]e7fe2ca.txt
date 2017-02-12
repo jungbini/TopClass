@@ -1,0 +1,1 @@
+  Fixed bug on change file size reported by Anton.  

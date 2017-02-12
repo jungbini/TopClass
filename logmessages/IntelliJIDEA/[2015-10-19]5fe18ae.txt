@@ -1,0 +1,1 @@
+  gradle: test fix (for merge content roots of the same source set module change)  

@@ -1,0 +1,1 @@
+  IDEADEV-35325: Option+mnemonics fixed.  

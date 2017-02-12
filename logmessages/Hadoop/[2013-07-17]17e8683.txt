@@ -1,0 +1,1 @@
+  svn merge -c 1503971 merging to branch-2 fix HDFS-4998.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1503972 13f79535-47bb-0310-9956-ffa450edef68  

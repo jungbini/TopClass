@@ -1,0 +1,1 @@
+  fixed PY-6066 Ask for admin permissions when installing packages to system directories  

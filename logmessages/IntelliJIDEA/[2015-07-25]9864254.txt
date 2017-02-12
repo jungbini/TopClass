@@ -1,0 +1,1 @@
+  fixed creation of introduction course in case of there are several presented  set selected course after step panel created  

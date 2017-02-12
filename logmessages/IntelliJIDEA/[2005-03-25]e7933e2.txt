@@ -1,0 +1,1 @@
+  (Changes by lesya) Replacing inner Type class with int enum in Wrap interface in order to fix build  

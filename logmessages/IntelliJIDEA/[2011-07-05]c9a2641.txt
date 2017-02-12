@@ -1,0 +1,1 @@
+  fixed PY-4084 Invalid manual variable types declaration syntax for rst  

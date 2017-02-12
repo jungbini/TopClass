@@ -1,0 +1,1 @@
+  quickfix to move type constraint to 'where' clause  

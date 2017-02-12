@@ -1,0 +1,1 @@
+  EA-32400 fix NPEs (File#listFiles can return null) [rev=nnmatveev]  

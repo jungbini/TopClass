@@ -1,0 +1,1 @@
+  IDEA-56951: IDEA X: Quick fix for "Unused XML schema declaration" is too eager  

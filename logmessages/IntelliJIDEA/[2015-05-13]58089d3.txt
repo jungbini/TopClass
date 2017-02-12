@@ -1,0 +1,1 @@
+  EA-65858: JBListTable: fix leaks when JBListTable is never shown  

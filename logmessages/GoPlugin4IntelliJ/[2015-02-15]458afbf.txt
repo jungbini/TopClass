@@ -1,0 +1,1 @@
+  fix #1309: Unexported struct field not recognized from anonymous function call result  

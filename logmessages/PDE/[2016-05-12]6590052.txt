@@ -1,0 +1,1 @@
+  deal with poorly behaving Modes (fixes #4467)  

@@ -1,0 +1,1 @@
+  Fixed IAE from JetDecompiledData.isKotlinFile on startup  #KT-1595 fixed #EA-34860 fixed  

@@ -1,0 +1,1 @@
+  IDEA-105450 Attribute id in OSGI reference element not allowed: XmlHighlightingTest.testXhtmlSchemaHighlighting fixed  

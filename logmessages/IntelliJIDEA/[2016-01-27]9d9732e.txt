@@ -1,0 +1,1 @@
+  IDEA-150317 Debugger: Evaluate dialog: Expression Mode button shows wrong mnemonic  

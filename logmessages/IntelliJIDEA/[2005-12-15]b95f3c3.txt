@@ -1,0 +1,1 @@
+  Renaming a tag's name in the .tld file loses prefix in usage (IDEADEV-3673)  

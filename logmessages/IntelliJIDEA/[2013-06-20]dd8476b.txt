@@ -1,0 +1,1 @@
+  implement fix workaround: if abstract method is package local and package is not the same - suggest to make method protected/public instead (IDEA-61220)  

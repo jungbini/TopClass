@@ -1,0 +1,1 @@
+  Fixed a minor bug on measurement of timing in execution of the Service method.  

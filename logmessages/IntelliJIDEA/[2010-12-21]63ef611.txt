@@ -1,0 +1,1 @@
+  IDEA-59593: Strange errors in mxml document: fix for file extension change  

@@ -1,0 +1,1 @@
+  IDEA-80821 Debug tool window: splitting Debugger tab into two tabs with two views in each results in two Debugger tabs wich is confusing  

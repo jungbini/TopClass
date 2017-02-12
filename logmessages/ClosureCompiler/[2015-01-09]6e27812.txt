@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE] Bug fixes about loose objects and functions.  Eliminates NOT_CALLABLE warnings from Closure with the new type inference. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=83643592  

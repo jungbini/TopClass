@@ -1,0 +1,1 @@
+  fix jetty default thread pool size for jetty 9 and prepare for next release  

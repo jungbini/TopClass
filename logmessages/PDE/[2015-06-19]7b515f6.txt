@@ -1,0 +1,1 @@
+  make sure resize event is real (fixes #3310)  

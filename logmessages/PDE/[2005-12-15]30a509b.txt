@@ -1,0 +1,1 @@
+  fix for sketch not properly resetting its codeCount and hiddenCount in load()  

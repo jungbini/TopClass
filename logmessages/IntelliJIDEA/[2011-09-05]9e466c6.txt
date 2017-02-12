@@ -1,0 +1,1 @@
+  fix small "Assignment replaceable with operator assignment" inspection problem caused by introduction of PsiPolyadicExpression  

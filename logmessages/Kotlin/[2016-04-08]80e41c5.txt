@@ -1,0 +1,1 @@
+  KT-11806: increase visibility quick fix: private / internal -> public #KT-11806 Fixed  

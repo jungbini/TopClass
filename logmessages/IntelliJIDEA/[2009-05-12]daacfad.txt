@@ -1,0 +1,1 @@
+  IDEADEV-36790: duplicate mnemonic in "Replace In Path" dialog fixed.  

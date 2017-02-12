@@ -1,0 +1,1 @@
+  fixed PY-9260 Unwrap/Remove action is not available inside statement with caret on indented space  

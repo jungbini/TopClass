@@ -1,0 +1,1 @@
+ Merge pull request #4 from forter/multilang-separator-bug  Fixed stdin parsing to support separator split across chunks  commit 837b9e50acbfb3b91009ed08259c44e0efebcebf  fix the problem of log level implementation to compatible with old log protocol with no loglevel  

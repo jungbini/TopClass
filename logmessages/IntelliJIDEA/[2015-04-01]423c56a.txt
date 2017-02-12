@@ -1,0 +1,1 @@
+  IDEA-25621 Edit Configurations Is Not Available When Indexing Is Active IndexNotReadyException fix  

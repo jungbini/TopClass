@@ -1,0 +1,1 @@
+  Some fixes to ExternalResourceResolver to reuse artifacts from other Gradle versions and ~/.m2 when resolving a dynamic revision, plus some integration test coverage for this.  

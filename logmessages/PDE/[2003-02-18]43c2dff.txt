@@ -1,0 +1,1 @@
+  more todo sorting and the speed fix to clear()  

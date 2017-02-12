@@ -1,0 +1,1 @@
+  Remove some unnecessary checks and fix tests: UnicodeType isn't available in Python 3.2  

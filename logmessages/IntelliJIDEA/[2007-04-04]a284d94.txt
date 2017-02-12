@@ -1,0 +1,1 @@
+  improve variable declarations and methods declarations fixed "def final" bug added annotation parsing, annotations tests  

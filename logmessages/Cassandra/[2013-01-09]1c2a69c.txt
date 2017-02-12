@@ -1,0 +1,1 @@
+  fix validation compaction of empty rows patch by Carl Yeksigian; reviewed by jbellis for CASSANDRA-5136  

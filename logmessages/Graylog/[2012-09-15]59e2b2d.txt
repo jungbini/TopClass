@@ -1,0 +1,1 @@
+  display of static http error pages was broken. fixes #WEBINTERFACE-306  

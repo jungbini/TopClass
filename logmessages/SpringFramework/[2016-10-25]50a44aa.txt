@@ -1,0 +1,1 @@
+ Merge pull request #1222 from englishman:Int-4144_code_format_change_for_idea  * pr/1222: Import format fix according to Code Style  commit 50a44aab5456b9747845b13483e0f2222d76ce60  Import format fix according to Code Style  Closes gh-1222  

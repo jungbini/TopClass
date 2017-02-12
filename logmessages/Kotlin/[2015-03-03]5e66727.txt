@@ -1,0 +1,1 @@
+  Checked that KT-6623 has been fixed  

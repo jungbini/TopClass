@@ -1,0 +1,1 @@
+  Lfwloadercompilationerror (#2178)  * add resources module  * add pre/post update hooks  * local  * fix lfwloader compilation error  

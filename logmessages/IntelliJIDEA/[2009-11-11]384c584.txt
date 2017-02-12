@@ -1,0 +1,1 @@
+  Tiny fixes in PyQuickDocTest data  

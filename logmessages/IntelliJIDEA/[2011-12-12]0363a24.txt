@@ -1,0 +1,1 @@
+  fixed PY-4358 Tuple assignment balance is incorrect: extend inspection for sequnce literals other then tuples  

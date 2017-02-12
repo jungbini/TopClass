@@ -1,0 +1,1 @@
+  fixed PY-14819 IPython Notebook: invalid link to settings in popup for missing configuration  

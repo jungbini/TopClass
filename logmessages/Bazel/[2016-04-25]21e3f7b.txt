@@ -1,0 +1,1 @@
+  Ensure env is passed to DockerLayer actions so xzcat works  This is required to fully fix #611.  -- Change-Id: Iffeab2a80a02f2e1208637fe85195d0c2862e637 Reviewed-on: https://bazel-review.googlesource.com/#/c/3492 MOS_MIGRATED_REVID=120724036  

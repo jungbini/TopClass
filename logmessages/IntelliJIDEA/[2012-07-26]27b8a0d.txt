@@ -1,0 +1,1 @@
+  GitCompareWithBranchAction: fix the title of the current revision  Display current branch name (or short hash), not the full hash.  

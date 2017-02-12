@@ -1,0 +1,1 @@
+  fixed PY-4165 restructuredtext tasks should be associated to the current file added configuration producer for docutils tasks  

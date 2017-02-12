@@ -1,0 +1,1 @@
+  polishing  - fixed some formatting - converted OsgiHelperTest to Spock spec  

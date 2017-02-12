@@ -1,0 +1,1 @@
+  junit fork: ensure in dbl '//' the last '/' is not ignored; this also fixes sm locator protocol java:suite://className  

@@ -1,0 +1,1 @@
+  Issue #1892 issues for queries with null keys as primitive keys are fixed.  

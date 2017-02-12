@@ -1,0 +1,1 @@
+  fixed PY-4038 Call to constructor of super class is missed: false positive for super call with self.__class__  

@@ -1,0 +1,1 @@
+  fix #1118: Should be an error: test declared and not used  

@@ -1,0 +1,1 @@
+  Use jdbi inTransaction for SQLMetadataConnector's insertOrUpdate.  This fixes an issue where failed transactions were not properly rolled back.  

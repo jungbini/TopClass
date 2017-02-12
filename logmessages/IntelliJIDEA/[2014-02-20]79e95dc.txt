@@ -1,0 +1,1 @@
+  Postfix completion: do not apply null, notnull and instanceof template on primitive types  

@@ -1,0 +1,1 @@
+  fix checkbox toggling with mouse for custom CheckBoxList implementations (e.g. one used in "Settings | Editor | General | Gutter Icons") (IDEA-CR-7586)  

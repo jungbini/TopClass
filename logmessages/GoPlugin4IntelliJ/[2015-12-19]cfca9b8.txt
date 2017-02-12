@@ -1,0 +1,1 @@
+  [resolve] don't process expressions and LHS, fix #2102  

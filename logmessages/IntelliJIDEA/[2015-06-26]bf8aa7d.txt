@@ -1,0 +1,1 @@
+  EA-70070 fix UOE: for empty patch list  

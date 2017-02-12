@@ -1,0 +1,1 @@
+  Few cache issues were fixed. Disk/index cache settings were added.  

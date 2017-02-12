@@ -1,0 +1,1 @@
+  Reuse changes to Eclipse fixtures in int tests.  

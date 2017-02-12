@@ -1,0 +1,1 @@
+  TypeAhead: Goto line fix (when typeAhead timeout is zero, do not wait for dialog to focus)  

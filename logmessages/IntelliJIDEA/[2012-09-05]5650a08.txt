@@ -1,0 +1,1 @@
+  fixed PY-7086 Specify type for reference using annotation: removes default parameter value  

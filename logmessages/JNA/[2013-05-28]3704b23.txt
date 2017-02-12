@@ -1,0 +1,1 @@
+  auto-strip profiler prefix set in jna.profiler.prefix  

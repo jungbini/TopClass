@@ -1,0 +1,1 @@
+  AppCode:Debugger: show full values in debugger (esp. for strings) (OC-891)  

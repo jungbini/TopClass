@@ -1,0 +1,1 @@
+  mac popup fix - unable to click on a popup with jdialog in the back  

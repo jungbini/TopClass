@@ -1,0 +1,1 @@
+  print dex output to log.debug, not log.info  

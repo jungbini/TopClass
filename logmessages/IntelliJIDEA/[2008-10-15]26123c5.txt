@@ -1,0 +1,1 @@
+  Deadlock fixed by ordering locks. App's read/write action considered outer for adapter's initialization lock.  

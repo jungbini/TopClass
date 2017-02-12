@@ -1,0 +1,1 @@
+  [java-formatter] do not add empty call chunks, fixes IDEA-158331, yellow code removed  

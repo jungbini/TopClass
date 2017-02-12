@@ -1,0 +1,1 @@
+  Fixed bug on string split: blank spaces were removed from strings sometimes  

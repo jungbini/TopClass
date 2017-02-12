@@ -1,0 +1,1 @@
+  finish list popups on mouse release. It's more natural, doesn't lead to stuck mouse cursor, and should fix IDEA-48927 (Mouse click in a pop up moves cursor and makes selection in underlying editor)  

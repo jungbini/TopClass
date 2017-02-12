@@ -1,0 +1,1 @@
+  IDEADEV-40563 The debug doesn't work with grails filter  

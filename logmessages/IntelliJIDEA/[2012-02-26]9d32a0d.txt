@@ -1,0 +1,1 @@
+  extracted PY-5868 Inspection and autofix for missing encoding declaration in file with non-ASCII characters  

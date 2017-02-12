@@ -1,0 +1,1 @@
+  make combo box show in fixed vertical size  

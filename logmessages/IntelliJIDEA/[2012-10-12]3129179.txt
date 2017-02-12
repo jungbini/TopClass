@@ -1,0 +1,1 @@
+  don't preselect the last chosen completion item when the matching prefix is unrelated to the prefix entered when that item was chosen (IDEA-92823)  

@@ -1,0 +1,1 @@
+  always returning UTF-8, fixing the new string macros  

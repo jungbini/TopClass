@@ -1,0 +1,1 @@
+  add missing fix on skip hooks call, issue #6157  

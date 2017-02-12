@@ -1,0 +1,1 @@
+  PropertyTable: displaying categories, JBTable: fixed renderer with striped tables UIUtil: drawHeader method  

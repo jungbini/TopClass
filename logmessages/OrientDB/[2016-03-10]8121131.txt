@@ -1,0 +1,1 @@
+  Removed deadlock  The management of locks in this circumstance has to be fixed. personClass.createIndex("id_pk", OClass.INDEX_TYPE.UNIQUE.toString(), (OProgressListener) null, (ODocument) null, "AUTOSHARDING", new String[] { "id" });  

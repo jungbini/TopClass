@@ -1,0 +1,1 @@
+  write ch plus various fixes.  

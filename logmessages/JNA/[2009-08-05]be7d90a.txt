@@ -1,0 +1,1 @@
+  add length-specified Pointer.getStringArray() update sunos-amd64.jar native remove debug output  git-svn-id: https://svn.java.net/svn/jna~svn/trunk@978 2f8a963e-d2e4-e7d0-97bf-ccb7fcea9d80  

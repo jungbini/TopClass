@@ -1,0 +1,1 @@
+  Bugfix: We must use a case-insensitive TreeMap here so that 

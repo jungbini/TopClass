@@ -1,0 +1,1 @@
+  Do not suggest `go get` quickfix for relative imports  

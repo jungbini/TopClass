@@ -1,0 +1,1 @@
+  Issue #5908 partially fixed, NPE is removed, logging is imporved.  

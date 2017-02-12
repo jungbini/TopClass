@@ -1,0 +1,1 @@
+  Autoformat bug fixes  Miscellaneous fixes. I broke the indent-on-continued-lines feature, but it was bad to start with.  

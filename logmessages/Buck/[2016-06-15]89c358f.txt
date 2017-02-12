@@ -1,0 +1,1 @@
+  Buck Plugin fix current tests  Summary: We moved some things to `projectOpened`, from the `BuckModule` constructor. The `BuckModule` constructor is being called multiple times per opened project.  Test Plan: Tested by running the tests.  Reviewed By: alsutton  fbshipit-source-id: 78704ab  

@@ -1,0 +1,1 @@
+  fixed PY-8402 Insert documentation string stub: strange null parameter for functions with keyword-only argument  

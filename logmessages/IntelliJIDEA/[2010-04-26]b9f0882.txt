@@ -1,0 +1,1 @@
+  IDEA-54346    flex: "add type to declaration" quickfix does not determine correct type for typed list literal  

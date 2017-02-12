@@ -1,0 +1,1 @@
+  IDEA-108291 fix Groovy intentions which does not check readonly status  

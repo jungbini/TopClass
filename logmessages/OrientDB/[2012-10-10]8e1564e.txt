@@ -1,0 +1,1 @@
+  Fixed bug on creating class with a super class: the index definitions was updated only via SQL command. All Java direct calls didn't update index cluster array.  

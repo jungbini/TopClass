@@ -1,0 +1,1 @@
+  fix the About screen, add retina support  

@@ -1,0 +1,1 @@
+  fixed PY-9735 Disable access to a protected member inspection for double-underscored names  

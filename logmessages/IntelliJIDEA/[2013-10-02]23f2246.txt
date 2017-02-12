@@ -1,0 +1,1 @@
+  resource root replaced by source root to fix opening IDEA project in IDEA 12  

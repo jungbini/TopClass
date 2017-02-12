@@ -1,0 +1,1 @@
+  correct fix "frames not available"  This solution should be reviewed and moved to platorfm data manager.  

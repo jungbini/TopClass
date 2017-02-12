@@ -1,0 +1,1 @@
+  KT-3457 fix: added missed spread operator and receiver became format template  

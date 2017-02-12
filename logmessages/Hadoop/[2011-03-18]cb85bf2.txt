@@ -1,0 +1,1 @@
+  HBASE-3275 [rest] No gzip/deflat content encoding support; fix error handling in GzipFilter  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1082792 13f79535-47bb-0310-9956-ffa450edef68  

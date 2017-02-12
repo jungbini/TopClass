@@ -1,0 +1,1 @@
+ [platform] fixes IdeaWin32 loading under 64-bit JVM (IDEA-151155)  

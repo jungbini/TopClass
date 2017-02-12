@@ -1,0 +1,1 @@
+  macros. bug: if on start/stop write macro assign shortcut then on start writing this shortcut will be recorded.  

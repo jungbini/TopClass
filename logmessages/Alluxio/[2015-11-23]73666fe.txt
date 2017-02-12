@@ -1,0 +1,1 @@
+ Merge pull request #2157 from calvinjia/client-permissions-fix-0.8  [SMALLFIX] Change client created file permissions.  commit 6f97fc8baca5ef7fa9423e3fa881b961033e1ff6  Merge pull request #2154 from jsimsa/fix  [SMALLFIX] Allowing worker to move files created by the client.  commit 73666fe149a54cb2498010364a09e8fa7fa85396  fix javadoc style  

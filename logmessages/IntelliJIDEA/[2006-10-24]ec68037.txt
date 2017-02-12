@@ -1,0 +1,1 @@
+  fixed finding two usages in jsp, not finding code in jsp, extra scanning files, incorrect file type on jsp selection  

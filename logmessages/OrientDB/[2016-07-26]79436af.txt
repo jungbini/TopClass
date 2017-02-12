@@ -1,0 +1,1 @@
+  fixed default value function call after creation, issue #6334  

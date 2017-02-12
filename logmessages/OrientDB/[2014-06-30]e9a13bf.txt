@@ -1,0 +1,1 @@
+  fixed serializatio tests in the way that they work with both serialization. issue #681  

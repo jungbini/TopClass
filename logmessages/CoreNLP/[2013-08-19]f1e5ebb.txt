@@ -1,0 +1,1 @@
+  Bugfix for infinite loop in RelationFilter; Made All_Pairs annotation mode write to a separate coremap tag (AllRelationMentionsAnnotation).  

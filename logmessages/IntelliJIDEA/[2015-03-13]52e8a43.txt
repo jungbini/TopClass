@@ -1,0 +1,1 @@
+  IDEA-137526 Remote debugging not working - fixed no notification in some cases  

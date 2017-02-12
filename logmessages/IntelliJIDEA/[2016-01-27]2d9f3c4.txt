@@ -1,0 +1,1 @@
+  vcs: Refactored "MoveChangesToAnotherListAction" - warnings fixed, code simplified, @NotNull  

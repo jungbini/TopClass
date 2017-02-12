@@ -1,0 +1,1 @@
+  fixed issue #3347 - [foo = ' from '] condition caused parsing error  

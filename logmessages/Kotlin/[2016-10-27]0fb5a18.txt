@@ -1,0 +1,1 @@
+  Debugger: refactor smart step into to use descriptors instead of psi elements (KT-13485)  #KT-13485 Fixed  

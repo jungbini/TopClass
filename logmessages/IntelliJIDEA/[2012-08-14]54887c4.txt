@@ -1,0 +1,1 @@
+  labels layout fixed in application run configuration  

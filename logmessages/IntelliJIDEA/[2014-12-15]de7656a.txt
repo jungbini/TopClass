@@ -1,0 +1,1 @@
+  WI-24580 Debugger existing watches are not automatically evaluated when hitting breakpoint  

@@ -1,0 +1,1 @@
+  That is sad, but debugger doesn't work with PyPy stable.  

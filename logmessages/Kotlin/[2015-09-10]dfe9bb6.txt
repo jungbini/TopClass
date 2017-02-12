@@ -1,0 +1,1 @@
+ Do not try to find source file in Debugger when Indexes are not ready #EA-72812 - INRE: FileBasedIndexImpl.handleDumbMode  

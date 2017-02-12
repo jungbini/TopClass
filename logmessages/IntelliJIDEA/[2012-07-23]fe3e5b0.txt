@@ -1,0 +1,1 @@
+  fixed PY-6868 No parameter info popup for parameter lists without closed parentheses  

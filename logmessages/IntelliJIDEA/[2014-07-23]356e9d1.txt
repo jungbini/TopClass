@@ -1,0 +1,1 @@
+  EDIDE-59 problems with custom editors might be fixed  

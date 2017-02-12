@@ -1,0 +1,1 @@
+  fix html report generation for test class names that contains spaces, slashes and other non supported chars in filenames  

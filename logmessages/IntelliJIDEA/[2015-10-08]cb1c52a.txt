@@ -1,0 +1,1 @@
+  IDEA-146092 remove duplicated code after the previous fix  

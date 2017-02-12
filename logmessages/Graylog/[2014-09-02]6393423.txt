@@ -1,0 +1,1 @@
+  Add config parameters to configure Netty HttpRequestDecoder, fixes #707  

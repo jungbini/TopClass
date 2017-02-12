@@ -1,0 +1,1 @@
+  GRADLE-571: - Some fixes to get source { main { groovy { srcDir '..' } } } working - Added some samples for customising the project source layout - Removed GroovyPluginConvention  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@1833 004c2c75-fc45-0410-b1a2-da8352e2331b  

@@ -1,0 +1,1 @@
+  fixed evaluation in a class with empty package  

@@ -1,0 +1,1 @@
+  tests for type inference tasks added #KT-742 fixed #KT-832 fixed #KT-943 fixed  

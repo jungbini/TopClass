@@ -1,0 +1,1 @@
+  fix double Preference dialog opening if don't using a native Mac menu (vm option 'apple.laf.useScreenMenuBar = false' or absent)  

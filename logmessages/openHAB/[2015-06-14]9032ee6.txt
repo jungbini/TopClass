@@ -1,0 +1,1 @@
+  Update GPIOBinding.java  Reduce log level to Debug for received/send command  

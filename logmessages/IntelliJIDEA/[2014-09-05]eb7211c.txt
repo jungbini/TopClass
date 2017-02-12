@@ -1,0 +1,1 @@
+  java-decompiler: fixes and cleanups  - console decompiler: resource closing, lookup instead of scan, error reporting - logger interface reworked - saver interface renamed - bytecode provider returns byte array (to reduce stream leakage) - extra level of context unit avoided - unneeded exceptions, dead code, formatting  

@@ -1,0 +1,1 @@
+  fixed PY-10211 false docstring notice when using PEP3102  

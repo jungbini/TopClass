@@ -1,0 +1,1 @@
+  XmlSchemaTagProcessor: group resolving fixed  

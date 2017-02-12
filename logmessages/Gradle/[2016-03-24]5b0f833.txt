@@ -1,0 +1,1 @@
+  Add a separate fixture method for dealing with composite participants  

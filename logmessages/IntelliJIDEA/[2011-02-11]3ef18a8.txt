@@ -1,0 +1,1 @@
+  fixed receiving of string literal text in quoted string intention  

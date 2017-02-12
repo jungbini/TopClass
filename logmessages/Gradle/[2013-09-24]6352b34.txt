@@ -1,0 +1,1 @@
+  Added basic sample for building release/debug and platform variants  

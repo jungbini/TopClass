@@ -1,0 +1,1 @@
+  KT-7899 "Do not check if annotated by" setting for "Unused symbol" doesn't affect properties  #KT-7899 fixed  

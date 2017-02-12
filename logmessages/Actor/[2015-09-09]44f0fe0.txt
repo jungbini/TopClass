@@ -1,0 +1,1 @@
+  fix(web): use React.findDOMNode() cuz getDOMNode is deprecated.  

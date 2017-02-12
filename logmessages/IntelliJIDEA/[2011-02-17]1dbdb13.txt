@@ -1,0 +1,1 @@
+  first stab at an inspection to detect identical 'catch' blocks in a 'try' statement (quickfix coming soon)  

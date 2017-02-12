@@ -1,0 +1,1 @@
+  fixed PY-5157 Convert dict literal to dict constructor: invalid code with space in keys  

@@ -1,0 +1,1 @@
+  fixed ConcurrentModificationException in AbstractActiveBindings  

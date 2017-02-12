@@ -1,0 +1,1 @@
+  fix some unsigned pointer-aliasing types, platform/win32  

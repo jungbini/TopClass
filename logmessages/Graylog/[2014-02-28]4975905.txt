@@ -1,0 +1,1 @@
+  redirect(null), I nulled.  fixes Graylog2/graylog2-server#440  

@@ -1,0 +1,1 @@
+  Multiple color scheme fixes (IDEA-142984 and other)  

@@ -1,0 +1,1 @@
+  KT-1645 Propose members according to smart casts #KT-1645 fixed  

@@ -1,0 +1,1 @@
+  use selected fields for csv export  limit number of messages to 10000 to avoid running out of heap.  fixes #766  

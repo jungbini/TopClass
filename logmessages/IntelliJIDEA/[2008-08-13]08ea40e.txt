@@ -1,0 +1,1 @@
+  include intelli lang annotations into add annotations.jar quick fix ( 	 IDEADEV-29180)  

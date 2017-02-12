@@ -1,0 +1,1 @@
+  fixed up readme to link to the example template implementations  

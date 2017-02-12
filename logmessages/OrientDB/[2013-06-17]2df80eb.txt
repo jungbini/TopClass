@@ -1,0 +1,1 @@
+ Clustering: clients rebuild from scratch the list of available nodes on cluster configuration. This fixes problems on crash of a node by improving the speed the client reconnects to the other nodes availables.  

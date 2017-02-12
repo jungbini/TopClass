@@ -1,0 +1,1 @@
+  fix for IDEA-140353: Analysis error panel is missing when scrollbar is not shown  

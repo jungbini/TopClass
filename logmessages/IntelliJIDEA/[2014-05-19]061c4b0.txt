@@ -1,0 +1,1 @@
+  compilation fixed: use dependency on 'annotations' module instead of 'annotations.jar'  

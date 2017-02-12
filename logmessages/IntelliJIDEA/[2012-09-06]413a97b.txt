@@ -1,0 +1,1 @@
+  fixed PY-7403 Insert type assertion: disable intention for variable defined in with statement  

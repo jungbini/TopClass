@@ -1,0 +1,1 @@
+  drop caches on non-physical file context change (a more universal fix for EA-69690 - PIEAE: StubBasedPsiElementBase.getContainingFile)  

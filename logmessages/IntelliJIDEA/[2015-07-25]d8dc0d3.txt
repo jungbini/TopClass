@@ -1,0 +1,1 @@
+  fixed PY-16534 Use Cmd+C instead of Ctrl+C on Mac OS to copy cell  

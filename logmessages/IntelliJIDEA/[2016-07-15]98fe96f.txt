@@ -1,0 +1,1 @@
+  Java inspection: Simplify quick fix in "Add Braces" and "Remove Braces" inspections, in order to avoid exceptions in the inspection tool UI. (IDEA-157727)  

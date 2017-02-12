@@ -1,0 +1,1 @@
+  Stop accepting a static watch_root and project_prefix  Summary: Use the watchRoot and projectPrefix sent via buck  Test Plan: Fix up tests  Reviewed By: marcinkosiba  fbshipit-source-id: 00a9366  

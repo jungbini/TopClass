@@ -1,0 +1,1 @@
+  fixed PY-10814 Django test runner fails to run as it cannot import settings. EAP 131.91  

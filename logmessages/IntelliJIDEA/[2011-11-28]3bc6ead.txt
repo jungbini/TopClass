@@ -1,0 +1,1 @@
+ IDEA-77641 Debugger 'stop' action should be available when another toolwindow is focused, just like debugger 'continue execution' action  

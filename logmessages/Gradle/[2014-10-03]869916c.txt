@@ -1,0 +1,1 @@
+  Improved fix for GRADLE-2957.  Split visited task nodes into 

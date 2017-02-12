@@ -1,0 +1,1 @@
+  IDEA-131783 debugger: icon value is partly shown in variables view  

@@ -1,0 +1,1 @@
+  Recursively exclude protocol buffer code from findbugs  

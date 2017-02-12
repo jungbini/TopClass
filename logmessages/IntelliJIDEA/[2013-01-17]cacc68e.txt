@@ -1,0 +1,1 @@
+  fixing deadlocks when isUpToDate() is called from Swing thread  

@@ -1,0 +1,1 @@
+  show log tabs in xdebugger - 2  

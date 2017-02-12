@@ -1,0 +1,1 @@
+  Fix non-variadic CIF initialization for Apple/ARM64  Turns out `aarch64_nfixedargs` wasn't initialized in the non-variadic case, resulting in undefined behavior when allocating arguments.  

@@ -1,0 +1,1 @@
+  Fix LDAP settings titles (#3174)  In Chrome 55, legend elements in the LDAP settings page have an incorrect width. This is most likely due to a bug in this Chrome version (they look fine in other browsers and also in previous Chrome versions). Either way, we can fix the issue by wrapping those legends in an actual bootstrap column.  

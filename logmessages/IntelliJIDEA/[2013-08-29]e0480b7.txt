@@ -1,0 +1,1 @@
+  try to fix hard to reproduce NoSuchFieldException (IDEA-112678)  

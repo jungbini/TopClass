@@ -1,0 +1,1 @@
+  fix(server): changed MessageRead and MessageReceived optimization condition  

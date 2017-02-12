@@ -1,0 +1,1 @@
+  IDEA-143277 Debugger: Smart Step Into can't find a line with lambda, while Step Into can  

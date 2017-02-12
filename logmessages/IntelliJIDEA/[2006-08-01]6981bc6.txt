@@ -1,0 +1,1 @@
+  new version of JavaSVN. two possible NPEs fixed.  

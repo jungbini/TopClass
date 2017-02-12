@@ -1,0 +1,1 @@
+  Variables view in the debugger should exclude class and function objects (PY-4649)  New setting "Simplified Variables View" is added on the debug tool window.  

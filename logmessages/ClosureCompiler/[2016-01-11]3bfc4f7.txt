@@ -1,0 +1,1 @@
+  Add an automatic fix for removing stray semicolons. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=111899291  

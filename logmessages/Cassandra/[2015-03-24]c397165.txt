@@ -1,0 +1,1 @@
+  Fix SSTableReader.runOnClose running after dependent resources closed; bug introduced by CASSANDRA-8746  patch by benedict; reviewed by josh for CASSANDRA-9021  

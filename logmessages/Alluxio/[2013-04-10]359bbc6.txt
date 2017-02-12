@@ -1,0 +1,1 @@
+ moved uptime to debug, changed [DEBUG] to [D]  

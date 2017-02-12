@@ -1,0 +1,1 @@
+  fix(server:dialog): fix exception when group does not exist  

@@ -1,0 +1,1 @@
+  fixed PY-2679 doubled django test cases  

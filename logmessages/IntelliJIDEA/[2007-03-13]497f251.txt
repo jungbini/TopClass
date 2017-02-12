@@ -1,0 +1,1 @@
+  fix for assertNull quick fix  

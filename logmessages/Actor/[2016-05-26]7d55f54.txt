@@ -1,0 +1,1 @@
+  fix(android): add camera to call ask permissions request  

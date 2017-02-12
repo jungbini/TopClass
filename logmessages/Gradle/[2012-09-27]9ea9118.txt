@@ -1,0 +1,1 @@
+  fixed problem where option class would only behave correctly if it directly inherited from AbstractOptions  - solves a problem with recent GroovyForkOptions refactoring  

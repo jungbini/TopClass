@@ -1,0 +1,1 @@
+  IDEADEV-31300 NPE: CompletionProgressIndicator.fillInCommonPrefix  

@@ -1,0 +1,1 @@
+  KT-2484 Type inferred for function literal is (...) -> Int instead of (...) -> Unit, when function literal parameter is explicit #KT-2484 fixed  

@@ -1,0 +1,1 @@
+  fixed database remote session management in case of database copy  

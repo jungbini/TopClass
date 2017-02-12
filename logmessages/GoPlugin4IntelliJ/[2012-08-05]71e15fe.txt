@@ -1,0 +1,1 @@
+  Changed the way completion works to start fixing Issue #87.  Started to add basic completion test cases. Also improved the way completion handles statement keyword completion.  Signed-off-by: Mihai Claudiu Toader <mtoader@gmail.com>  

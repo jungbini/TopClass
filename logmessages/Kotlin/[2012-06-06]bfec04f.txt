@@ -1,0 +1,1 @@
+  WritableScopeImpl: specify debug name in constructor  

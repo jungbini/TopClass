@@ -1,0 +1,1 @@
+  Added and sorted tests from jet repository. Fixed a bug with custom setter.  

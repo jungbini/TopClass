@@ -1,0 +1,1 @@
+  xdebugger api: allow to provide gutter icon for the execution line  

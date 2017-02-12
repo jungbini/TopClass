@@ -1,0 +1,1 @@
+  cqlsh: fix timestamp formatting for tz info Patch by Aleksey Yeschenko, reviewed by brandonwilliams for CASSANDRA-4746  

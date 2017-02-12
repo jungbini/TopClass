@@ -1,0 +1,1 @@
+  analysis scope: don't check if file is in the project/module content when we iterate over content only, tests fixed  

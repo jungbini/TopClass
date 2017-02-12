@@ -1,0 +1,1 @@
+  do not warn about prefix expressions which are "read-only"  

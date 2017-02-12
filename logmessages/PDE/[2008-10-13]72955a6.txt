@@ -1,0 +1,1 @@
+  call flush() inside MovieMaker (bug #692)  

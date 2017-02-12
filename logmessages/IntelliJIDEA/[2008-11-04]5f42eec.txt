@@ -1,0 +1,1 @@
+  refresh fixed for project files changed between IDEA sessions  

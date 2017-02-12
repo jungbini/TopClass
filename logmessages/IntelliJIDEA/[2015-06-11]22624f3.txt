@@ -1,0 +1,1 @@
+  IDEA-141324 Line numbers in breakpoints dialog box broken by line wrappin - fix for 141 branch  

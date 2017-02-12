@@ -1,0 +1,1 @@
+  added some temporary low impact logging to debug problems in CI  

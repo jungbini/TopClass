@@ -1,0 +1,1 @@
+  always decide if to use recent or all index alias  fixes #WEBINTERFACE-336  

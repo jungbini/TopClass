@@ -1,0 +1,1 @@
+  HADOOP-9258 Add stricter tests to FileSystemContractTestBase (includes fixes for production code HADOOP-9261 & HADOOP-9265 and test enhancements HADOOP-9228, HADOOP-9227 & HADOOP-9259)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1460646 13f79535-47bb-0310-9956-ffa450edef68  

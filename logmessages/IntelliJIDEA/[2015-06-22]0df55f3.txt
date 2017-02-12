@@ -1,0 +1,1 @@
+  Do not report the error with matploltib support every time (PY-16250)  Log error in debug console and don't show it to user  

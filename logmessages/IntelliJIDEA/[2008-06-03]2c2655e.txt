@@ -1,0 +1,1 @@
+  detecting following action script problems: variable declaration in interface, mismatched class / interface references in extends / implements list, numerous external definitions (+fix), not implemented interface (+fix)  

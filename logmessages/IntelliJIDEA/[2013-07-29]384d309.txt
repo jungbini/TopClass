@@ -1,0 +1,1 @@
+  fix updating documentation when switching items in lookup list: always store original element before showing the popup  

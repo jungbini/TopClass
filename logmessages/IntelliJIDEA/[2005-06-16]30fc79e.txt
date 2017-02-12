@@ -1,0 +1,1 @@
+  fixed issue with lexer that gave up on encountering the end of the tag in the javascript, now it skips till </script  

@@ -1,0 +1,1 @@
+  Reverted my last fixes to failing tests / refactorings. Apparently, I cannot change the *.out files because they are presented into the manual  

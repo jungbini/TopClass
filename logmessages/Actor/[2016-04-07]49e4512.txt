@@ -1,0 +1,1 @@
+ fix(android): PhotoHolder updated flag + prevent rebind video thumb after upload  

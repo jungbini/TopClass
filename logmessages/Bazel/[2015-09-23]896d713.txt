@@ -1,0 +1,1 @@
+  Fix ApplicationManifest#generatedManifest bug that would set the package as 'null' if the rule was not under either the java or javatests trees. Uses AndroidCommon#getJavaPackage to ensure consistent behavior.  -- MOS_MIGRATED_REVID=103746264  

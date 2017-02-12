@@ -1,0 +1,1 @@
+  fix setting data for ephemeral nodes if there's a timeout after checking for existence. switch task heartbeats to non-ephemeral zk nodes  

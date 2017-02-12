@@ -1,0 +1,1 @@
+ add GraphFragmentController.isHidden() & fix several NotNull annotations  

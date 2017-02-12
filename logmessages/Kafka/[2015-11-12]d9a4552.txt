@@ -1,0 +1,1 @@
+  TRIVIAL: provide clearer error in describe group when group is inactive  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Guozhang Wang  Closes #502 from hachikuji/trivial-consumer-groups-fix  

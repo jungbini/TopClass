@@ -1,0 +1,1 @@
+  Allow JFlex Lexer debugging using %debug (JetBrains/Grammar-Kit/issues/149)  

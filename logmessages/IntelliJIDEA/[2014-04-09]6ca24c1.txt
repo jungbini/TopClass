@@ -1,0 +1,1 @@
+  fix local history tests: don't do initial vfs refresh in unit test mode (as it was previously)  

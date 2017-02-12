@@ -1,0 +1,1 @@
+  don't perform coordinate conversions in EditorSizeManager when soft wrap model is in inconsistent state  fixes EA-75267 - AIOOBE: TIntArrayList.insert  

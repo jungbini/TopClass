@@ -1,0 +1,1 @@
+  1. Enhancement  -  If I/O exception will be thrown data consistency will not be compromised. Issue #1404. 2. Build fix.  

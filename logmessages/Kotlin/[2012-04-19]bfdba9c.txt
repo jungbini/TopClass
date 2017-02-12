@@ -1,0 +1,1 @@
+  test for inner class of generic class inheriting another generic class  actually fixed in Idea in 4afdd61d8dcb846994166ed8f30a7515e9661d56. Thanks, Max!  

@@ -1,0 +1,1 @@
+  IDEA-68276 Column mode selection bug  Corrected (x; y) -> VisualPosition mapping for the empty last document line  

@@ -1,0 +1,1 @@
+re the fact of invalid CheckinEnvironment or empty list to commit, but log an error.  

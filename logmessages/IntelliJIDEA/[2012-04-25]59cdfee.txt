@@ -1,0 +1,1 @@
+  IDEA-85129 PHP inspections have no names in quick fix menu wrappers propagated through LocalInspectionsPass  

@@ -1,0 +1,1 @@
+  HADOOP-12009: Clarify FileSystem.listStatus() sorting order & fix FileSystemContractBaseTest:testListStatus. (J.Andreina via jghoman)  

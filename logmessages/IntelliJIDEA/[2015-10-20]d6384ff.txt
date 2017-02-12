@@ -1,0 +1,1 @@
+  add "Suppress for 'Tests' scope" quickfix to "Result of object allocation ignored" inspection (IDEA-144404)  

@@ -1,0 +1,1 @@
+  Test fix after introduction of publish lifecycle task.  

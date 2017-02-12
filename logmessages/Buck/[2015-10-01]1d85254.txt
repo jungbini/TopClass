@@ -1,0 +1,1 @@
+  [easy][ios] Don't log prefix as `Optional` if provisioning profile not found  Summary: Instead of a stringified `Optional.absent()` in the error message, use `*` if no prefix specified.  Test Plan: ``` ant java-test -Dtest.class=ProvisioningProfileCopyStepTest ```  

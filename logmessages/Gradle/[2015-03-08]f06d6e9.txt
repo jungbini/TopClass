@@ -1,0 +1,1 @@
+  Lock in some not-quite-right behaviour for snapshot handling, pending some fixes.  

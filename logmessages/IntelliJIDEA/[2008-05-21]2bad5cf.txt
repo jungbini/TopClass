@@ -1,0 +1,1 @@
+  - show documentation for ant lookup items - fix assertion IDEADEV-26701  

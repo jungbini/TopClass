@@ -1,0 +1,1 @@
+  [Johnny Clark] make condition checkers psi-independent, minor fixes (IDEA-35808)  

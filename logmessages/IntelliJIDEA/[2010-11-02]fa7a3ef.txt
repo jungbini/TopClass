@@ -1,0 +1,1 @@
+  if the same name is declared in the 'try' and 'except' parts of a try/except statement, prefer the one in the 'try' part (fixes PyGame: PY-2197)  

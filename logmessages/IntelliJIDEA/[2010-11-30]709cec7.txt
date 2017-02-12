@@ -1,0 +1,1 @@
+  fix adding backslash when pressing enter near comments (PY-1958)  Conflicts:  python/src/com/jetbrains/python/editor/PythonEnterHandler.java python/testSrc/com/jetbrains/python/PyEditingTest.java  Conflicts:  python/src/com/jetbrains/python/editor/PythonEnterHandler.java  

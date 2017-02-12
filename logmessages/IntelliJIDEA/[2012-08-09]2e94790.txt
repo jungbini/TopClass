@@ -1,0 +1,1 @@
+  Added new generic introduce variable fix for IDEA-89625 (Create a new inspection to report on method calls inside loop conditions.)  

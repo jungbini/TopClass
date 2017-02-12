@@ -1,0 +1,1 @@
+  new UI for debugger: watches and frame visible at the same time, threadsview dropped.  

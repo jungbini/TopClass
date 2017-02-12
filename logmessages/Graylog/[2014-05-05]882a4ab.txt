@@ -1,0 +1,1 @@
+  Moving classes to new package prefix 'org.graylog2.restclient'  

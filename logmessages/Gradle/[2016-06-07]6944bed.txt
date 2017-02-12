@@ -1,0 +1,1 @@
+  Fix `idea` for composite build where some projects don't apply the plugin  This fixes the ugly `IllegalArgumentException` that resulted from running `gradle idea` on a composite where not all projects had the `Idea` plugin applied. However, the generated `.iml` files are still not valid, as they reference modules that are not included in the generated `.ipr` file.  

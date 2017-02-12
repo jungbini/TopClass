@@ -1,0 +1,1 @@
+ fixed test runner for non-python modules  

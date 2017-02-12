@@ -1,0 +1,1 @@
+  fixed PY-9970 Changing settings about treating txt files as rst doesn't take affect until project reload  

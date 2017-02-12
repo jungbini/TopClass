@@ -1,0 +1,1 @@
+  fix case of template names (they should be the same as their file type name)  

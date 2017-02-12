@@ -1,0 +1,1 @@
+  Perforce: 1) refactor a bit to remove some unneeded refreshes 2) refactor login subsystem to don't re-query logged state periodically, but listen to p4tickets file changes 3) correctly add-dispose notifications also will fix IDEA-68719 Perforce: in multi-root project Changes view is updated endlessly (status bar blinking) after first login  

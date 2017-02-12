@@ -1,0 +1,1 @@
+  inspection toolwindow: grouping by severity fix - getParent was null for inspection node  

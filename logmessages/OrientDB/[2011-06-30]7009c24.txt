@@ -1,0 +1,1 @@
+  Tried to fix a problem reported in ML by Curtis: now the record is kept in POJO Database's local cache only if the RID is valid  

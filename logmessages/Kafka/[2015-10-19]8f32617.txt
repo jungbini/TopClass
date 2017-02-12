@@ -1,0 +1,1 @@
+  HOTFIX: check logic of KAFKA-2515 should be on buffer.limit()  Author: Guozhang Wang <wangguoz@gmail.com>  Reviewers: Ewen Cheslack-Postava, Guozhang Wang  Closes #332 from guozhangwang/K2515-hotfix  

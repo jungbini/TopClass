@@ -1,0 +1,1 @@
+. Sax <matthias@confluent.io>  Reviewers: Michael G. Noll, Roger Hoover, Guozhang Wang  Closes #2138 from mjsax/kafka-4331-streams-resetter-bugfix  

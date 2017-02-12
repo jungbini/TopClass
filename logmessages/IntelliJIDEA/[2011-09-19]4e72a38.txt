@@ -1,0 +1,1 @@
+  a quick fix for a leak in delayed completion statistics  

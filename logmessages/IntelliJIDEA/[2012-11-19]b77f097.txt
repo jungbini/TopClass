@@ -1,0 +1,1 @@
+  Platform: retina performance problem fixed (IDEA-90293) (cherry-picked from 64cfd34)  

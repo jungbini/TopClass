@@ -1,0 +1,1 @@
+ Attempt to fix leaking file handle on windows unit test  

@@ -1,0 +1,1 @@
+  fixed PY-10023 Fill Paragraph: do not remove first space in paragraph  

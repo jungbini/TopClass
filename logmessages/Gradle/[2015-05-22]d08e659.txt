@@ -1,0 +1,1 @@
+  GRADLE-3299 Handle references to ${parent.artifactId} in pom files - add integration test - prior to this fix only ${parent.version} and ${parent.groupId} could be referenced  

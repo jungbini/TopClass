@@ -1,0 +1,1 @@
+  AbstractCommonUpdateAction: add debug logging  A user has reported that in his case Update Project doesn't even show the confirmation dialog (although the confirmation is enabled in the settings), let's track where it fails.  [reviewed by irengrig]  

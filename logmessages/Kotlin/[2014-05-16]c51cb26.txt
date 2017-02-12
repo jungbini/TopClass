@@ -1,0 +1,1 @@
+  Fixed computing source file for package facade.  There had been a bug in case when compiling package with some class-only files, but exactly one file with callables.  

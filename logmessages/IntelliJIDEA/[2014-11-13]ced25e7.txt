@@ -1,0 +1,1 @@
+  clear method signature cache on any change in the same (maybe light) file (a possible fix for IDEA-132447)  

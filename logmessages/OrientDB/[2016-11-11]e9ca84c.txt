@@ -1,0 +1,1 @@
+  fixed bug on wrong default value generation from string based deserializers, issue #6898  

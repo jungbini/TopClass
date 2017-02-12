@@ -1,0 +1,1 @@
+  IDEA-135809 Soft warps does not work in view text in debugger  

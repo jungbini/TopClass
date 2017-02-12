@@ -1,0 +1,1 @@
+  AddSupport for ModuleWizard fixed  

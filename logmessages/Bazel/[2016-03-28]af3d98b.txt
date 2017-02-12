@@ -1,0 +1,1 @@
+  Propagate -isystem includes from CC deps in Xcode project generation.  The lack of cc_library dependencies in generated Xcode projects can be worked around using _fully_linked.a and objc_import, but some include files still fail to propagate. In particular this affects genrule outputs and proto headers.  This fixes that issue.  -- MOS_MIGRATED_REVID=118397125  

@@ -1,0 +1,1 @@
+  IDEA-54188 add a configuration option to preselect/automate disconnection and process termination on termination of a debugging session - replace checkbox with a button, freeing space for "do not ask again" option  

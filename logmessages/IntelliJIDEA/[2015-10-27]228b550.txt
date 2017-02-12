@@ -1,0 +1,1 @@
+  Test fixed: ConfigurablesModifiedTest.testModified methods reset() and isModified() must be consistent  

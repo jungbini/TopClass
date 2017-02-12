@@ -1,0 +1,1 @@
+ Merge pull request #407 from deeplearning4j/mw_fix_mnistData  Fixing dl4j to make Mnist work as expected  commit 64f441dc891c1705874b9d8a246c6a66dfe67ca5  GravesLSTM fixes/improvements  

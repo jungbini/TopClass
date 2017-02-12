@@ -1,0 +1,1 @@
+  Do not show intention bulb when a fix range collapses: honor after EOL highlighting  

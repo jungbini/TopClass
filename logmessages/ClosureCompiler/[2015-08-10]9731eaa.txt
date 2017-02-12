@@ -1,0 +1,1 @@
+  Google code should not be depending on this bug in the JDK, which is due to be fixed in jdk9:  (coll) Arrays.asList(x).toArray().getClass() should be Object[].class https://bugs.openjdk.java.net/browse/JDK-6260652 ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=100279437  

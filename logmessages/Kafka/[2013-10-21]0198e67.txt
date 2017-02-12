@@ -1,0 +1,1 @@
+  KAFKA-1042 follow up compilation fix; reviewed by Neha Narkhede  

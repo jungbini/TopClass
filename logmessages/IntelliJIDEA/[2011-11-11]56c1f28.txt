@@ -1,0 +1,1 @@
+  fixed PY-3814 Current parameter info: remove popup on moving cursor out of the parenthesis  

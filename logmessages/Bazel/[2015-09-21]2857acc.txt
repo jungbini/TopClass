@@ -1,0 +1,1 @@
+  Add an option to remove a directory prefix when extracting an archive  Fixes #221.  RELNOTES: new_http_archive can specify a root directory.  -- MOS_MIGRATED_REVID=103556111  

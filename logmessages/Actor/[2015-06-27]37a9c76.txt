@@ -1,0 +1,1 @@
+  fix+feat(web): fix import path for mixpanel, add more events;  

@@ -1,0 +1,1 @@
+  maven: test fixed; use local repo for another DependenciesImportingTest test  

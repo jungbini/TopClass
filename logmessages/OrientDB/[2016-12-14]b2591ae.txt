@@ -1,0 +1,1 @@
+  fixed bug with wrong local cache cleanup in remote, issue #6780  

@@ -1,0 +1,1 @@
+  Fixed how daemon is launched on windows, so that it is fully detached from the launching process. This fixes, for example, the tooling api sample integration tests getting stuck on windows.  

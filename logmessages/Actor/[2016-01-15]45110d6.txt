@@ -1,0 +1,1 @@
+  deps(server): upgraded akka-streams to 2.0.1 fixes #220  

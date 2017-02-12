@@ -1,0 +1,1 @@
+  make InprocMessaging threadsafe to fix lost messages with FeederSpout  

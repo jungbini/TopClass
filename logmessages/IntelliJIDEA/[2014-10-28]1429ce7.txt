@@ -1,0 +1,1 @@
+  IDEA-58130 Improve editor performance during working with large files written in a single line  Make logicalPositionToOffset calculations faster for long lines (when soft wraps are enabled). Position calculations are more consistent now so this is also supposed to fix EA-53787.  

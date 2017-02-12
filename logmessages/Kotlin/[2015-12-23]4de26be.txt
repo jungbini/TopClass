@@ -1,0 +1,1 @@
+  Minor: Add test for now-obsolete KT-8035 "Extended class is not open" quickfix fails on nested classes "  

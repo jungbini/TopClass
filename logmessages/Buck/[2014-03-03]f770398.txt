@@ -1,0 +1,1 @@
+  Include every build configuration of targets in generated project.  Summary: Instead of hardcoding "Debug" and "Release" configurations to the project-level config, create a project-level configs with the same names for each target-level config.  

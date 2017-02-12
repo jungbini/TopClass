@@ -1,0 +1,1 @@
+  Created quickfix for KT-9805  

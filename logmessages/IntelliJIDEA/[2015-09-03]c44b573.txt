@@ -1,0 +1,1 @@
+  IDEA-144431 debug information unavailable on own code in EAP 15 - better exceptions processing  

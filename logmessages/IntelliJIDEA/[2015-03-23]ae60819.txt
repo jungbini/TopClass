@@ -1,0 +1,1 @@
+  add title for GitHub based projects in WebStorm #IDEA-136513 fixed  

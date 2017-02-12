@@ -1,0 +1,1 @@
+  Some cosmetic tweaks to the groovy code to work around eclipse groovy plugin bugs.  

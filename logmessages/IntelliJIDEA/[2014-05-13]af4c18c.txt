@@ -1,0 +1,1 @@
+  fixed EA-56684 - NPE: PyStructuredDocstringFormatter.formatDocstring  

@@ -1,0 +1,1 @@
+  fix isBundled if output dir not under idea home  

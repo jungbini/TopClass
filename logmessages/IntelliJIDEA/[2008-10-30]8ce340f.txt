@@ -1,0 +1,1 @@
+  [max, revd=anton] race condition fixed.  

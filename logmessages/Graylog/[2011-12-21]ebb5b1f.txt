@@ -1,0 +1,1 @@
+  some style for the reader streams chooser  fixes #WEBINTERFACE-196  

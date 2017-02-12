@@ -1,0 +1,1 @@
+  HADOOP-10009. Backport HADOOP-7808 to branch-1: fix NPE in SecurityUtil::setTokenService(). Contributed by Haohui Mai.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1@1529258 13f79535-47bb-0310-9956-ffa450edef68  

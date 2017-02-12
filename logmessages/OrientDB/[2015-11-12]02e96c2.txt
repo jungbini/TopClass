@@ -1,0 +1,1 @@
+  fixed bug on version propagation in case of transactional distributed update.  

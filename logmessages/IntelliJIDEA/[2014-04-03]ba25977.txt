@@ -1,0 +1,1 @@
+  Start plugins wizard #8 (fix broken compilation)  

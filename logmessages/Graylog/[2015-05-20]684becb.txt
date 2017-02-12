@@ -1,0 +1,1 @@
+  add the sort icons back to the table head  - we no longer show the icons on hovering over the table columns, as that gets tricky with the mulit-row detail view  fixes #1279  

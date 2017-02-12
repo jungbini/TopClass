@@ -1,0 +1,1 @@
+  fix(core): Fix crash on receiving updates before auth  

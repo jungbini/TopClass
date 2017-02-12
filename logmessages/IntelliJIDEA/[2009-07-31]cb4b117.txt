@@ -1,0 +1,1 @@
+  fixed PyStringFormatInspection + added some new tests  

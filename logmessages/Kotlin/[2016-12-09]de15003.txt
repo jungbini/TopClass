@@ -1,0 +1,1 @@
+  Minor: Add sam-with-receiver to Ultimate project classpath, fix cli plugin path in build.xml  

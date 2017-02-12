@@ -1,0 +1,1 @@
+  IDEA-CR-13651 BoolUtils.getNegatedExpressionText() used and fixed for float/double (to preserve semantics for NaNs)  

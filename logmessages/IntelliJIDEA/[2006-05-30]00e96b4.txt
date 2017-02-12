@@ -1,0 +1,1 @@
+  Leading asterisks fixed in Javadoc write PSI  

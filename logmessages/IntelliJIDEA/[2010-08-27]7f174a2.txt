@@ -1,0 +1,1 @@
+  fixed: [RUBY-6630] Remove unused icon from the Test runner toolbar  

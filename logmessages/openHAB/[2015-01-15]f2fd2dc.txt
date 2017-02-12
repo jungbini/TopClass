@@ -1,0 +1,1 @@
+ Bugfix #1980: if refresh rate is not set in anel-configuration, the default rate for refresh thread (60s) was not read properly, so it used 0s instead. This caused the refresh rate to call 'execute()' every 0s which results in 100% cpu usage.  

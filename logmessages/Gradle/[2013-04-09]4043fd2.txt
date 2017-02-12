@@ -1,0 +1,1 @@
+  fixed creation of JavaSourceSet's  

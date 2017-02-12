@@ -1,0 +1,1 @@
+  fix(android): displyListFragment set only one scroll listener  

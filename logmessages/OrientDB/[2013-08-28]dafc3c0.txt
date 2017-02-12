@@ -1,0 +1,1 @@
+  Fixed bug on close of db pool  

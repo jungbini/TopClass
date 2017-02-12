@@ -1,0 +1,1 @@
+  Fix test so it reflect correct behaviour of websockets. This was wrong because of a earlier bug in netty  

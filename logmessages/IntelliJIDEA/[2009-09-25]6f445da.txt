@@ -1,0 +1,1 @@
+  Maven: ex in non-maven projects fix  

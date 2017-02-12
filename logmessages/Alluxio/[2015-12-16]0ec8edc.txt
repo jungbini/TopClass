@@ -1,0 +1,1 @@
+  Fix bug in client and worker that calls ByteBuffer.array  

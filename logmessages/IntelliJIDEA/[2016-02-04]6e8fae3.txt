@@ -1,0 +1,1 @@
+  Revert: [vcs-log] move text filter window 1 pixel lower (InternalDecorator was fixed in a3a19c1)  

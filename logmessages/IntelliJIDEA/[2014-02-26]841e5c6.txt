@@ -1,0 +1,1 @@
+  isRetina fix for headless mode reviewed by kb  

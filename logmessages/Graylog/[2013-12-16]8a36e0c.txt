@@ -1,0 +1,1 @@
+  remove sha-256 from change password request  fixes #432  

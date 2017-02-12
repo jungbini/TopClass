@@ -1,0 +1,1 @@
+  fixes for DQ quorum code.  patch by Vijay Parthasarathy; reviewed by jbellis for CASSANDRA-492  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@831339 13f79535-47bb-0310-9956-ffa450edef68  

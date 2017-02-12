@@ -1,0 +1,1 @@
+  show correct sidebar in unisearch results  fixes #WEBINTERFACE-430  

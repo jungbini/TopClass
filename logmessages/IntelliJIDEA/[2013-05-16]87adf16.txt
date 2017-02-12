@@ -1,0 +1,1 @@
+  post-review fixes for IDEA-106881 Case sensitive completion - neither choice works  

@@ -1,0 +1,1 @@
+  BuildTargets: restore old implementation which doesn't use `Path.resolve()`  Summary: The new implementation uses `Path.resolve()`, which drops the path prefix when the format string looks like an absolute path.  Test Plan: testing...  Reviewed By: yiding  fbshipit-source-id: 1fd0377  

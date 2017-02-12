@@ -1,0 +1,1 @@
+  mentions fix bind, avatar text size  

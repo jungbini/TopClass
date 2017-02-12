@@ -1,0 +1,1 @@
+  second completion: just don't restore prefix if we can't (EA-64214 - NA: LookupOffsets.getLookupStart)  

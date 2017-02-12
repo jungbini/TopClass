@@ -1,0 +1,1 @@
+  don't change editors/documents in debugger editors when the file type and the context haven't changed  

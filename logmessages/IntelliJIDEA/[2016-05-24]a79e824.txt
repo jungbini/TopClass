@@ -1,0 +1,1 @@
+  -Fix JBScrollbar usage in Terminal component -Show terminal find results on scrollbar -Several fixes for find in Jediterm jars  

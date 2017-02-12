@@ -1,0 +1,1 @@
+  IDEA-77974 Debugger: Refresh view on object marking  

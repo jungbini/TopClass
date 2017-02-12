@@ -1,0 +1,1 @@
+  Hg: branches names disappeared in HgPusher dialog - fixed.  

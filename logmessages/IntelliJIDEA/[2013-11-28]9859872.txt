@@ -1,0 +1,1 @@
+  IDEA-117059 (error reporting in updater fixed)  - setting/reading hasError flag sequenced properly - closing ops on ZIP stream moved out of finally blocks so that informative IOExceptions would not get suppressed by cryptic induced ZipExceptions  

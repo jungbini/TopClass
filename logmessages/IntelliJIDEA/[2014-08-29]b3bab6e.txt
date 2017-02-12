@@ -1,0 +1,1 @@
+  fixed PY-13787 Replace mutable default argument: AIOOBE at com.jetbrains.python.inspections.quickfix.PyDefaultArgumentQuickFix.applyFix  

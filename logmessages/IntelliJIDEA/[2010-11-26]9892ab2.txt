@@ -1,0 +1,1 @@
+  IDEA-61010 (Inspection "for loop replaceable with 'for each'" produces code that works 

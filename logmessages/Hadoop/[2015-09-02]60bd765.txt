@@ -1,0 +1,1 @@
+  HDFS-8978. Erasure coding: fix 2 failed tests of DFSStripedOutputStream. Contributed by Walter Su.  

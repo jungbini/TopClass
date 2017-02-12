@@ -1,0 +1,1 @@
+ FX - framerate fix  When your sketch ran slower than target frame rate, FX was blocked and was drawing to the screen only every few seconds. This eventually resulted in OutOfMemoryError as it's internal draw buffer was not flushed.  

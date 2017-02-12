@@ -1,0 +1,1 @@
+  Update lastSend when resetting the tellstick. This fixes #1905  

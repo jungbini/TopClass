@@ -1,0 +1,1 @@
+  idea: do not call prefix matcher in loop if prefix is empty  

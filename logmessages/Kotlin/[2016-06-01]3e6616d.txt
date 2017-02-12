@@ -1,0 +1,1 @@
+  Read script config if appropriate flag is specified, fix classpath handling  

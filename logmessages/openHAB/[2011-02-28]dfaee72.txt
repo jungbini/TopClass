@@ -1,0 +1,1 @@
+  fix - do only post event if state != null  

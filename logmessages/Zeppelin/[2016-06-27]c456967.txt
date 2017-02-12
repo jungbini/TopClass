@@ -1,0 +1,1 @@
+leep into ZeppelinITUtils  - use clickAndWait before reading any WebElement c70709f [Prabhjyot Singh] add delay after deleting paragraph.  

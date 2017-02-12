@@ -1,0 +1,1 @@
+  HDFS-7763. fix zkfc hung issue due to not catching exception in a corner case. Contributed by Liang Xie.  

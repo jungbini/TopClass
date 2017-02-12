@@ -1,0 +1,1 @@
+  introduced metric filtering for telemetry reporter. also fixed the license headers, because maven  

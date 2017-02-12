@@ -1,0 +1,1 @@
+  IDEA-146336 Debugger decompiles all frames  

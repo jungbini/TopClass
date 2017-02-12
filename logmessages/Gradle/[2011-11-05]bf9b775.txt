@@ -1,0 +1,1 @@
+  Fixed a couple of dependency resolution bugs exposed by our build - TODO: tests for these cases  

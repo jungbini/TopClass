@@ -1,0 +1,1 @@
+  Improved Gradle-Android project's integration in Intellij  Summary: The following improvements have been made : - Settings have been added to define default Java settings used across a project's modules. These settings are used to generate the file ".idea/misc.xml" required by Intellij ```python [java] # defines the java language level used across a project's 

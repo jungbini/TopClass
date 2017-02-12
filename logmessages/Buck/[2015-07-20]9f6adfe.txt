@@ -1,0 +1,1 @@
+  Make sure DaemonIntegration test is not skipped.  Summary: Perhaps running `watchman non-existing-command` used to not return an error, but now it does, as a result, the test is skipped. This 

@@ -1,0 +1,1 @@
+  Markdown fixes and light editing of Installing Bazel page:  - Uses GitHub-style fencing instead of indentation for code blocks - Adds double-= line breaks for paragraph-style list items - Changes some text for readability  -- MOS_MIGRATED_REVID=90198077  

@@ -1,0 +1,1 @@
+ z-wave: add Enerwave as a vendor (011a) and add device zw20r fix XML formatting  

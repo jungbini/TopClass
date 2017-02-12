@@ -1,0 +1,1 @@
+  update thrift-server to version 0.3.3 to fix CASSANDRA-6373 and CASSANDRA-6407  

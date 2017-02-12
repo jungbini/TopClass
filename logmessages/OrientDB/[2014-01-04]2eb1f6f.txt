@@ -1,0 +1,1 @@
+  HTTP: fixed bug on returning response when accepts is */* like with curl  

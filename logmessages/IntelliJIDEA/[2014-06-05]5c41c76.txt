@@ -1,0 +1,1 @@
+  Maven: manifest generation fixes - use ApplicationNamesInfo#getFullProductName for "Created-By" attribute value, redundant code removed  

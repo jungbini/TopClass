@@ -1,0 +1,1 @@
+ [TACHYON-1177] fix the incompatible type in test  

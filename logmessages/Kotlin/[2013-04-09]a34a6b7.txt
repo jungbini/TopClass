@@ -1,0 +1,1 @@
+  KT-3376 Added appendText and appendBytes functions to kotlin.io.File  #KT-3375 fixed  

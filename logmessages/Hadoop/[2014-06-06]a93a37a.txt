@@ -1,0 +1,1 @@
+  Various fixes to CHANGES-fs-encryption.txt. Various Jiras ended up in the hadoop-common CHANGES-fs-encryption.txt by accident. Moved them to HDFS CHANGES-fs-encryption.txt  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/fs-encryption@1600804 13f79535-47bb-0310-9956-ffa450edef68  

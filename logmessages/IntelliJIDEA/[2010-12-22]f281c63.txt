@@ -1,0 +1,1 @@
+  fixed PY-2583  wrong list comprehension to for loop  

@@ -1,0 +1,1 @@
+  show packages for detected sdk, fixed NPE if no interpreter selected  

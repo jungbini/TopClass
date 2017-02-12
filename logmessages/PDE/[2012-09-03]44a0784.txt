@@ -1,0 +1,1 @@
+  trying to fix double-click issues in the examples menu  

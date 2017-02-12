@@ -1,0 +1,1 @@
+  fixed PY-4129 Refactor/Raname: type names are not updated in rst docstrings if type specified in docstring as :class:`SomeClass` or :py:class:`SomeClass`  

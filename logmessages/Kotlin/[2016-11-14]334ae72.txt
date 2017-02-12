@@ -1,0 +1,1 @@
+  Moved checking that reified is used in inlines only to the main frontend (KT-12695, KT-13697 fixed)  

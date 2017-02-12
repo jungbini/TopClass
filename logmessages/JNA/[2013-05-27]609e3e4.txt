@@ -1,0 +1,1 @@
+  fix dll callbacks inline asm with msvc  

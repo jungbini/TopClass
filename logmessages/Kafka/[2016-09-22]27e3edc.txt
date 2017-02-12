@@ -1,0 +1,1 @@
+  MINOR: Fix comments in KStreamKStreamJoinTest  Minor comment fixes.  Author: Elias Levy <fearsome.lucidity@gmail.com>  Reviewers: Guozhang Wang  Closes #1885 from eliaslevy/fix-test-comments  

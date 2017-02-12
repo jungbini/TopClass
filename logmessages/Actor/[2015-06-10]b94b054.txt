@@ -1,0 +1,1 @@
+ fix(rpc-api): check peer accessHash on messageReceived and messageRead  

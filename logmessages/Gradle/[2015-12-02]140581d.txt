@@ -1,0 +1,1 @@
+  Moved int test case that covers rule task definition to core project to live with the other test cases for this.  Reworked the tests to share some fixtures.  

@@ -1,0 +1,1 @@
+  VcsRootDetector and NotifierError tests fixed (there were .git in T ot tmp dir above, so appropriate checker found its root,then error)  *roots for another checker (GitRootChecker) shouldn't be compared with expected because above test dir could be .git or something else; *full parameter removed as unused; *style  

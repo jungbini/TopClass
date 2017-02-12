@@ -1,0 +1,1 @@
+ Use a Joiner to make a few goog.module tests easier to read and debug.  I added a LINE_JOINER constant in CompilerTestCase so that we can write tests in this style more easily ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=96062227  

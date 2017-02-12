@@ -1,0 +1,1 @@
+  Breakpoint remove should be executed in write action like breakpoint add in XDebuggerTestUtil.  

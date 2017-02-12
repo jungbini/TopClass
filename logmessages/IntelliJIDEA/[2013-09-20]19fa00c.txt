@@ -1,0 +1,1 @@
+  fixed PY-10788 Possibility to disable PEP8 naming convention violation inspection for overridden functions  

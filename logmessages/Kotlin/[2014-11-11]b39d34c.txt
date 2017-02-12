@@ -1,0 +1,1 @@
+  Prepend zeros to SAM wrapper hash code  To make its length always 8 characters as is already done for package parts. This fixes some test on incremental compilation because it relies that hashes are eight characters long  

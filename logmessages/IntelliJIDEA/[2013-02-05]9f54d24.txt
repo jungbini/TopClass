@@ -1,0 +1,1 @@
+  don't merge language specific debugger settings page with root page to avoid confusion (IDEA-100415, WEB-4447)  

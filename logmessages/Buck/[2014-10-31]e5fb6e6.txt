@@ -1,0 +1,1 @@
+  Fix detection of conflicting GIDs  Summary: In combined project generation the same rule is sometimes processed multiple times which breaks duplicate GID detection. This 

@@ -1,0 +1,1 @@
+  IDEA-131932 Debugger: Show / "Declared type" setting has some unexpected effect  

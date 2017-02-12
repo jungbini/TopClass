@@ -1,0 +1,1 @@
+  fixed EA-49997 - IOOBE: SegmentArray.getSegmentEnd  

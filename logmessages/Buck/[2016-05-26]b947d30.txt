@@ -1,0 +1,1 @@
+  Buck plugin fix synchronize after project genration  Summary: I've copied the IntelliJ synchronize action  Test Plan: Tested by doing project generation.  Reviewed By: alsutton  fbshipit-source-id: d8a94e2  

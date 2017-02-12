@@ -1,0 +1,1 @@
+  Fix regression with raw ResponseEntity type  This fix addresses a 4.1.1 regression where a raw ResponseEntity return value (used to return potentially a 

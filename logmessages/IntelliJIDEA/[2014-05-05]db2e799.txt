@@ -1,0 +1,1 @@
+  don't clear cache for disposed MessageBus, fix tests  

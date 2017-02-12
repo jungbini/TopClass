@@ -1,0 +1,1 @@
+  HDFS-6102. Lower the default maximum items per directory to fix PB fsimage loading. Contributed by Andrew Wang.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.4@1577430 13f79535-47bb-0310-9956-ffa450edef68  

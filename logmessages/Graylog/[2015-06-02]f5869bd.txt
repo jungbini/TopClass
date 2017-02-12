@@ -1,0 +1,1 @@
+ Fix affixes on react code  Bootstrap affixes on react code were not always working. Now we will ensure they are initialized when the component is mounted.  Fixes #1402  

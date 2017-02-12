@@ -1,0 +1,1 @@
+  XmlAttribute#getValue|getDisplayValue are @Nullable: fix some potential NPEs  

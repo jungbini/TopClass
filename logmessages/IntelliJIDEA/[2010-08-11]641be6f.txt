@@ -1,0 +1,1 @@
+  fix wizard popups background on macs  

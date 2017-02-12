@@ -1,0 +1,1 @@
+  Merge -c 1489234 from trunk to branch-2 to fix YARN-726. Fix queue & finish time fields in web-ui for ResourceManager. Contributed by Mayank Bansal.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1489235 13f79535-47bb-0310-9956-ffa450edef68  

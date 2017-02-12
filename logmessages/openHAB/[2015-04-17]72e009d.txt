@@ -1,0 +1,1 @@
+ Bugfix fr wrong json time format in rrd-data  

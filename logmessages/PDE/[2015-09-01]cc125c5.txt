@@ -1,0 +1,1 @@
+  making notes for recent fixes, attempt to deal with thread problem  

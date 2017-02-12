@@ -1,0 +1,1 @@
+  Maven: NPE fix (IDEADEV-39291)  

@@ -1,0 +1,1 @@
+  fix coding mistake:  change "isVerifyHost" to "setVerifyHost"  

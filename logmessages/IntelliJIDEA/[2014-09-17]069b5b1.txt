@@ -1,0 +1,1 @@
+  fixed PY-13925 Django: not able to run tests under django 1.7: django.core.exceptions.ImproperlyConfigured: You must either define the environment variable or call settings.configure() before accessing settings.  

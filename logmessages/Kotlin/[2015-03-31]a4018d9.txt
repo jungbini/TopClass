@@ -1,0 +1,1 @@
+  Run "Add 'init' keyword in whole project" quickfix  

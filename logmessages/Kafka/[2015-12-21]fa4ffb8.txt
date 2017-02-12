@@ -1,0 +1,1 @@
+  KAFKA-3014: fix integer overflow problem in leastLoadedNode  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Guozhang Wang  Closes #696 from hachikuji/KAFKA-3014  

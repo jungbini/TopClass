@@ -1,0 +1,1 @@
+  JS: inline safe calls  #KT-6912 fixed  

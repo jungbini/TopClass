@@ -1,0 +1,1 @@
+  [platform] fixes a saving of freshly created project (follow-up to 1a7eb45c)  

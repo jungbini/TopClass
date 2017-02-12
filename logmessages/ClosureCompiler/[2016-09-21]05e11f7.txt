@@ -1,0 +1,1 @@
+  Extract RewritePolyfills from "late ES6 passes" to be its own group  Don't add this pass if options.rewritePolyfills is false. This fixes the bug that the --rewrite_polyfills flag is currently ignored by RewritePolyfills.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=133888401  

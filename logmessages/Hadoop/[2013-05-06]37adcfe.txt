@@ -1,0 +1,1 @@
+  corrected CHANGES.txt for MAPREDUCE-4572 incorrectly recorded as a HADOOP bug in 1.2.0  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1@1479462 13f79535-47bb-0310-9956-ffa450edef68  

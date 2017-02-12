@@ -1,0 +1,1 @@
+ Don't evaluate strings if they are composed from non-strings (fixes #2659)  

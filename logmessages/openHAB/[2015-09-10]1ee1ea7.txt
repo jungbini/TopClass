@@ -1,0 +1,1 @@
+ FHT fix for baudrate and parity settings.  

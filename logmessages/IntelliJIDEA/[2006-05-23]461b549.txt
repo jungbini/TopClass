@@ -1,0 +1,1 @@
+  IDEADEV-6029. "Undo Undo?", "Undo Up?" and family finally fixed!  

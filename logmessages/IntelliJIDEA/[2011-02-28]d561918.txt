@@ -1,0 +1,1 @@
+  create console when debug session is started even if tool window isn't shown yet [rev by N.Matveev]  

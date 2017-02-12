@@ -1,0 +1,1 @@
+  problems with negatve arc() angles in OpenGL, P3D, other inconsistencies (bug #1095)  

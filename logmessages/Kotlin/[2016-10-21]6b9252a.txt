@@ -1,0 +1,1 @@
+  KT-7929 related: incorrect KtDestructuringDeclarationEntry is not resolved to descriptor, fixes EA-76715  

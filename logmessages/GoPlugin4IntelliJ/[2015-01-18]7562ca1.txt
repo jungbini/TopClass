@@ -1,0 +1,1 @@
+  fix #1176: Error on resolving fields in conversion expression for Pointer  

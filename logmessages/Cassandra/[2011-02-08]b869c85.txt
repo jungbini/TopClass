@@ -1,0 +1,1 @@
+  update Sinks for #1530, fixing RemoveTest patch by jbellis  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1068233 13f79535-47bb-0310-9956-ffa450edef68  

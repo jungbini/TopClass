@@ -1,0 +1,1 @@
+  C/C++: add .buckconfig set to disable caching for link rules  Summary:Link rules can sometimes be excessively expensive to cache, especially when using static linking with debug symbols.  This 

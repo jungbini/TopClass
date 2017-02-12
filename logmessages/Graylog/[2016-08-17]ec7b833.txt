@@ -1,0 +1,1 @@
+  This change was introducing a bug, that caused the user object in the web interface to be stale and out of date after a logout/login under a 

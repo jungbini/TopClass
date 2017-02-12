@@ -1,0 +1,1 @@
+  nicer error message when trying to access deleted streams. fixes #581  

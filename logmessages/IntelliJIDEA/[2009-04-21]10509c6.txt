@@ -1,0 +1,1 @@
+  1. Tests Runner: autoscroll to sources fixed 2. SMTests runner a little refactored and simplified 3. Tests were fixed  

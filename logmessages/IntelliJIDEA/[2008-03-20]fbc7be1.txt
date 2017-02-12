@@ -1,0 +1,1 @@
+  IDEADEV-23937 fixed (Selection is lost after deleting directory from SVN repository browser)  

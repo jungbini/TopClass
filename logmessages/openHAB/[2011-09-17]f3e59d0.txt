@@ -1,0 +1,1 @@
+ fixed wrong name and version  

@@ -1,0 +1,1 @@
+  Fixed last bug on laziness of sets  

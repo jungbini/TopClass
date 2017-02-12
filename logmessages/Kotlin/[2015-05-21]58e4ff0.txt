@@ -1,0 +1,1 @@
+  Add quickfixes for unnecessary casts and nullability operations to cleanup inspection. Rewrite two quickfixes from Java to Kotlin. Add inspection description. Use marker interface for identifying quickfixes applicable for code cleanup.  

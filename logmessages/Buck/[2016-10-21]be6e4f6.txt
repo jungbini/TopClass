@@ -1,0 +1,1 @@
+  fix jackson version for ideabuck  Summary: We updated the library but we forgot to update it for this package.  Test Plan: IntelliJ does not complain anymore.  Reviewed By: mkillianey  fbshipit-source-id: d58a5c5  

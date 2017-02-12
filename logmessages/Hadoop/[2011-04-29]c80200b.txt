@@ -1,0 +1,1 @@
+  HBASE-3832 Failing TestMasterFailover.testMasterFailoverWithMockedRITOnDeadRS up on jenkins; added debug and cleared out extra regionOnline of -ROOT-  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1098023 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  HDFS-1624, HADOOP-7454 - Merge r1296540 from trunk to 0.23 to fix CHANGES.txt  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1299415 13f79535-47bb-0310-9956-ffa450edef68  

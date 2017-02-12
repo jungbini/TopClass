@@ -1,0 +1,1 @@
+ STORM-2087: storm-kafka-client improvements for kafka 0.10 - Added unit tests to storm-kafka-client - Fixed bug in kafka-spout-client that resulted in tuples not being  replayed when a failure occurred immediately after the last commit - Modified the kafka spout to continue processing and not halt upon receiving a double ack  

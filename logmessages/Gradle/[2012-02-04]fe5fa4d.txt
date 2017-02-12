@@ -1,0 +1,1 @@
+  Enabled one more deamon test to be runnable on windows. Also fixes some stuff I accidentally pushed with my previous checkin.  

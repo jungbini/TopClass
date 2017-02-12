@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=46 ("Headers not set when define don the request")  Patch submitted by Jeremy Grelle  

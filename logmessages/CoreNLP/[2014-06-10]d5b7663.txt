@@ -1,0 +1,1 @@
+  Debugging progress. Needlman-Wunsch is still buggy.  

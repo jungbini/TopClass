@@ -1,0 +1,1 @@
+  fixed serializer allowed null value in LINKSET, fixed Lazy Set iterator  

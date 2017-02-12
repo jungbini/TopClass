@@ -1,0 +1,1 @@
+  fixing CodeInsightTestFixtureImpl to work properly for completion  

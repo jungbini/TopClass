@@ -1,0 +1,1 @@
+  fix missed shadow for lightweight dialog  

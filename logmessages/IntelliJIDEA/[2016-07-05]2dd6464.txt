@@ -1,0 +1,1 @@
+  EA-85603 fix unconditional cast which fails in incorrect YAML docs  

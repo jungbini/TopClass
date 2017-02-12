@@ -1,0 +1,1 @@
+  1. rename createInStream/OutStream to be getInStream/OutStream. 2. Fix a bug in copyToLocal in TFsShell.  

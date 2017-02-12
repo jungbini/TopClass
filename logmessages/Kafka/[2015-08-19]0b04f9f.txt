@@ -1,0 +1,1 @@
+opic overrides was renamed to "topic" from "topics". However, this causes existing topic config overrides to break because they will not be read from ZK anymore since the path is 

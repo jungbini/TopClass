@@ -1,0 +1,1 @@
+  fix(iOS): Fixing spanish welcome screen title  

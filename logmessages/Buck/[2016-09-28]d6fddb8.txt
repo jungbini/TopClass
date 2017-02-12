@@ -1,0 +1,1 @@
+  Add merged native library generated code to enhanced deps  Summary: Should have been like this from the beginning.  This bug was causing release builds with merged native libraries to fail to build.  Test Plan: Built a release build with merged libraries.  Reviewed By: asp2insp  fbshipit-source-id: d48269b  

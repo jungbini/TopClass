@@ -1,0 +1,1 @@
+  MAPREDUCE-5084. fix coverage org.apache.hadoop.mapreduce.v2.app.webapp and org.apache.hadoop.mapreduce.v2.hs.webapp (Aleksey Gorshkov via jeagles)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1494676 13f79535-47bb-0310-9956-ffa450edef68  

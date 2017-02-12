@@ -1,0 +1,1 @@
+  Fixes profiling/debugging out of the box  Ships the flight.bash script Disables UI display of Profiling and Debugging if on windows Changes worker.profiler.enabled to control only profiling, not other debugging actions Changes default of worker.profiler.enabled to false Adds missing UI REST API data. Populates user context on profiler UI routes  

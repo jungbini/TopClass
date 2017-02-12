@@ -1,0 +1,1 @@
+  Decrease visibility fix is now active for exposed visibility errors #KT-11920 Fixed  

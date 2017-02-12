@@ -1,0 +1,1 @@
+  Remove @Deprecated CompositeFuture#result(int) - fixes #1643  

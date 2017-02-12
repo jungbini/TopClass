@@ -1,0 +1,1 @@
+  Allow custom highlighting layer in the console filter: API improved, constants extracted, external plugin fixed (ref CPP-7974 CMake Output: Make CMake errors more visible)  

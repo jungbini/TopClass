@@ -1,0 +1,1 @@
+  Disable mnemonics in menu fixes (remove underscores, enable/disable w/o restart)  

@@ -1,0 +1,1 @@
+  make ConfigureDelegate more adaptable  - also switched from strategy to template method - also prefixed class members with _ to reduce chance of collision with dynamic groovy invocation  

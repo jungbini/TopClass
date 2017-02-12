@@ -1,0 +1,1 @@
+  fixed PY-13503 Create New Project: Expand more setting by default if there is an error in configuration  

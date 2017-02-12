@@ -1,0 +1,1 @@
+  Bug in fuzzy checkpoint mechanics is fixed. Page order is restored.  

@@ -1,0 +1,1 @@
+  create highlight info uncoditionally in inspection pass to avoid situation when (empty information) info get created and filtered out immediately before quick fix has chance to register  

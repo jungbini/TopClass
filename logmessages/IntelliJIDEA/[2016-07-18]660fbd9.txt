@@ -1,0 +1,1 @@
+  convert to eager iteration because some perversive quick fixes can start iterating markup model which would lead to deadlock  

@@ -1,0 +1,1 @@
+  Move special variables to a separate group in the debugger (PY-20763)  

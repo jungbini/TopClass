@@ -1,0 +1,1 @@
+  delete outdated server_value documents  fixes #WEBINTERFACE-292  

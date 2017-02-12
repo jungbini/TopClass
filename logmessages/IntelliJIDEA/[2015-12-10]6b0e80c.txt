@@ -1,0 +1,1 @@
+  fix HTML detection: use BasicHTML.isHTMLString()  

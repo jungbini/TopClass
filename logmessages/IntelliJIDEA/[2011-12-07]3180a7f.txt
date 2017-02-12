@@ -1,0 +1,1 @@
+ Added '__debug__' keyword for Python 3  

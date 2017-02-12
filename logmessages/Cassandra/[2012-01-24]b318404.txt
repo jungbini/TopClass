@@ -1,0 +1,1 @@
+  fixes create/update/drop other keyspaces when system keyspace is used, introduced by CASSANDRA-3759  

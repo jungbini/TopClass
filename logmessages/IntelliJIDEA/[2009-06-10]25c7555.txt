@@ -1,0 +1,1 @@
+  IDEADEV-37704 Groovy debugger: references to 'super' in Watches section are resolved incorrectly  

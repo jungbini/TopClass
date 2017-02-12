@@ -1,0 +1,1 @@
+  Clean up ErrorMessageSimplifier  Remove weird unused thread-spawning constructor Accept IProblem instead of whole JavaProblem Move fallback process() from JavaProblem to EMSimplifier as a default case Add debug switch and move debug logging into if blocks  

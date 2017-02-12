@@ -1,0 +1,1 @@
+  classpath computation extracted to ProjectPaths class, 'exported' attribute supported, fixed module sources and sdk position in classpath (IDEA-70195)  

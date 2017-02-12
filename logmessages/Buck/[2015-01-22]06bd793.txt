@@ -1,0 +1,1 @@
+  Update the Immutables library to version 1.1.2  Summary: Update the Immutables library to version 1.1.2 which fixes a race condition that occurs when its processor is used from multiple threads in the same process at the same time.  Test Plan: * `ant clean test` * `buck test --all` * Compile Buck in IntelliJ.  

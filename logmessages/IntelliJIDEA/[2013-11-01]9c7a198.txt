@@ -1,0 +1,1 @@
+  continue WEB-6659 JS Debugger stops at arbitrary point in code  

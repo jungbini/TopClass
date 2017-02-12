@@ -1,0 +1,1 @@
+  IDEADEV-24043 - Debugger: UI: with 'horizontal toolbar' option turned on no view toolbars are available for views in tabbed mode  

@@ -1,0 +1,1 @@
+ Fix bug in ImageLoader  This uses toNDArray() from the new NDArrayUtil class in nd4j.  This closes #1210.  

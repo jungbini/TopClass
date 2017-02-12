@@ -1,0 +1,1 @@
+  Fix perf_test  Summary: We changed the rule key logging to be a warning which padded the "level" segment of the log message with a space.  This caused perf test to stop regex'ing it correctly.  This 

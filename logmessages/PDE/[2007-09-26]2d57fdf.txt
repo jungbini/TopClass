@@ -1,0 +1,1 @@
+  produce a warning re: replacing files, also fix bug that was duplicating added files  

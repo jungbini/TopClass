@@ -1,0 +1,1 @@
+  fixed PY-12698 Noticeable hang when selecting not yet added virtualenv as project interpreter  

@@ -1,0 +1,1 @@
+  fix #998. XML Sax push parser shouldn't leak memory  

@@ -1,0 +1,1 @@
+  IDEADEV-20969 Output level in maven integration always falls back to 'debug' when using external maven  

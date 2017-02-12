@@ -1,0 +1,1 @@
+  battery state for MAX!Cube heating thermostats fixed  

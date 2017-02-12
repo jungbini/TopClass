@@ -1,0 +1,1 @@
+  [vcs] FilePath: fix and add some javadocs + mark a method as @NotNull  

@@ -1,0 +1,1 @@
+  IDEA-143890 Debugger: after failed Run to Cursor the terminated process is shown as "running"  

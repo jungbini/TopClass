@@ -1,0 +1,1 @@
+  KAFKA-3219: Fix long topic name validation  This fixes an issue with long topic names by considering, during topic validation, the '-' and the partition id that is appended to the log folder created for each topic partition.  Author: Vahid Hashemian <vahidhashemian@us.ibm.com>  Reviewers: Gwen Shapira, Grant Henke  Closes #898 from vahidhashemian/KAFKA-3219  

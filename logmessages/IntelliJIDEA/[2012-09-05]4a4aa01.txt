@@ -1,0 +1,1 @@
+  IDEA-19061 Integrate the Rearranger-plugin into core-IDEA  1. 'Constructor' entry type is defined and supported at java rearranger; 2. Test data fixes;  

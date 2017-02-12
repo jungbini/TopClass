@@ -1,0 +1,1 @@
+  JS: fix runtime type checking for native non-fake interfaces on WebKit (JavaScriptCore); add tests for object and object expressions.  

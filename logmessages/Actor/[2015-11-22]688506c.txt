@@ -1,0 +1,1 @@
+  fix(server): case-insensitive email search  

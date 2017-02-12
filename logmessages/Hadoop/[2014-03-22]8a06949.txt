@@ -1,0 +1,1 @@
+  MAPREDUCE-5806. Fixed a bug in MRAppMaster so as to enable users to properly override HADOOP_ROOT_LOGGER or HADOOP_CLIENT_OPTS. Contributed by Varun Vasudev.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1580100 13f79535-47bb-0310-9956-ffa450edef68  

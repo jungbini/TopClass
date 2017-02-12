@@ -1,0 +1,1 @@
+  focus issues, leaks, file chooser usability, debugger "hidden maximized", debugger double-detaching  

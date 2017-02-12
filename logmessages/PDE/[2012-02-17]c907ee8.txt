@@ -1,0 +1,1 @@
+  Updated to newer autobuild release of jogl that fixes nvidia freeze bug on OSX  

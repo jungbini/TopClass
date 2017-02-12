@@ -1,0 +1,1 @@
+  resolve for default case clause in type switch statement, fix #1741  

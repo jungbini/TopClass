@@ -1,0 +1,1 @@
+  Improved XmlSerializerUtil#copyBean -- moved type compatibility checks to compile time instead runtime. Fixed bug when copying a instance of Base class to a instance of Derived class. Added XmlSerializerUtil#mergeBeans. Suppressed some warnings.  

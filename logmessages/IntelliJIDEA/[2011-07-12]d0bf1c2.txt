@@ -1,0 +1,1 @@
+  fixed PY-4134 Console: Single quoted docstring inspection: looks not at place in console  

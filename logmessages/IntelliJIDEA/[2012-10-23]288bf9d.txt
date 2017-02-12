@@ -1,0 +1,1 @@
+  correct "make class extend" quick fix presentation (IDEA-57291)  

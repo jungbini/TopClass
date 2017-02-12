@@ -1,0 +1,1 @@
+  bug fix. - wrong select2 init. - remove ng-model  

@@ -1,0 +1,1 @@
+  fixed performance problem when finding child of directory/webdirectory during file reference resolve  

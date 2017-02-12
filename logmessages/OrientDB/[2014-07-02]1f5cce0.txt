@@ -1,0 +1,1 @@
+  MT issue for db schema was fixed.  

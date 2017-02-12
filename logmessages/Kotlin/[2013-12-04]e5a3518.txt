@@ -1,0 +1,1 @@
+  Parse longs with 'L' suffix. Report error if 'l' used.  

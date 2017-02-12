@@ -1,0 +1,1 @@
+  vcs: Optimized "ShowBaseRevisionAction.update()"  "ShowBaseRevisionAction.update()" already uses streams. The issue was in slow "CachedVcsContext" creation (in "AbstractVcsAction.prepareDataFromContext()) that gets and caches all necessary data from "DataContext" (including large array parameters). Making "forceSyncUpdate" to return "true" fixes this case.  

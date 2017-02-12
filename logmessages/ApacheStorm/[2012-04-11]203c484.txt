@@ -1,0 +1,1 @@
+ Fixing bug where COUNT_DATABASE was not updated with newVal in KeyedCountUpdater.finishBatch  

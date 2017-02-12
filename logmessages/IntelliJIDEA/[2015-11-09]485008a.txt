@@ -1,0 +1,1 @@
+  fixed jinja2 detection on creating new project  

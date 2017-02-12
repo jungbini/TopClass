@@ -1,0 +1,1 @@
+  rebuild menus on save as, looking into classpath bug  

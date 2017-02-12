@@ -1,0 +1,1 @@
+  fix CME during range queries -- keyset call needs to go on the memtable exector. patch by jbellis; tested by Tv for CASSANDRA-153  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@773152 13f79535-47bb-0310-9956-ffa450edef68  

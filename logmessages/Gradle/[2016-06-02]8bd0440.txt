@@ -1,0 +1,1 @@
+  Remove the test.  - There are issues with the way the nebula-test plugin finds its gradle distribution which makes it not work reliably enough to use in a test. - Also, we have sufficient coverage in `CheckstyleEndUserIntegrationTest` which uses `TestKit` to make sure this bug doesn't regress.  

@@ -1,0 +1,1 @@
+  fixed PY-7973 Specify return type in docstring: disable intention for multi-resolve reference  

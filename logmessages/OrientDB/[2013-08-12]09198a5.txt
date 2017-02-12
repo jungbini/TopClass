@@ -1,0 +1,1 @@
+ixed loose of network connection even after much time since reconnection - changed management of network connections: now is saved in TL also the server URL, so on reconnection to another server the session ID is reset to -1 - unreachable servers now are in the tail of server list  

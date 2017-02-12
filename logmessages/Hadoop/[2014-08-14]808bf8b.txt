@@ -1,0 +1,1 @@
+  MAPREDUCE-6026. native-task: fix logging. Contributed by Manu Zhang.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/MR-2841@1617878 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Minor: changed parallel query logging level to debug  

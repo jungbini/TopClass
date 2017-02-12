@@ -1,0 +1,1 @@
+  HttpClient connection should not be reused for a request when there is an on-going request - fixes #1264  

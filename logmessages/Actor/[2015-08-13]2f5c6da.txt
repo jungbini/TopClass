@@ -1,0 +1,1 @@
+  fix(web): use grayscale filter on recent dialogs avatar, disable recent item hover opacity  

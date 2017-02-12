@@ -1,0 +1,1 @@
+  Fix KtTypeReference.hasParentheses() to check for both LPAR *and* RPAR, as was originally intended  Minor typo fix. A year old typo had this redundantly checking for LPAR twice, rather than checking once for LPAR and once for RPAR.  

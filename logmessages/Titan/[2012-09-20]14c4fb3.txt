@@ -1,0 +1,1 @@
+  fixed the map-times bug in HBase. Much simpler implementation. Simply wrap the InputFormat and RecordReaders of HBases classes.  

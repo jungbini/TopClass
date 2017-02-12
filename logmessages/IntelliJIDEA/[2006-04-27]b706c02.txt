@@ -1,0 +1,1 @@
+  fix method duplicates and try postprocess formatting on finishing command only  

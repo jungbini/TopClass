@@ -1,0 +1,1 @@
+  IDEADEV-19312 fixed (Add revision number selector to Subversion checkout dialog)  

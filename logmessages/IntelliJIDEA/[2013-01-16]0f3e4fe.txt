@@ -1,0 +1,1 @@
+  fixed PY-7715 replace with augmented assignment doesn't work in case of subscription  

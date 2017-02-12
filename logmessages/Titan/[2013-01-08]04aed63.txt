@@ -1,0 +1,1 @@
+  null pointer exception with predicate/object as property fixed.  

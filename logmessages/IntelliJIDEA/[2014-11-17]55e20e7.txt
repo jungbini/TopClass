@@ -1,0 +1,1 @@
+  Enable 'Replace qualified name with import' intention in javadoc, except from package-info.java file (fixes IDEA-132216)  

@@ -1,0 +1,1 @@
+  KT-2416 fix contains for ranges with primitive parameters  

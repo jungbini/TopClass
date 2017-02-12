@@ -1,0 +1,1 @@
+ WEB-1212 Add actions "expand children" and "expand descendants" in object variable context menu in JS debug Actually, we don't add such actions, but now speed search can expand nodes.  

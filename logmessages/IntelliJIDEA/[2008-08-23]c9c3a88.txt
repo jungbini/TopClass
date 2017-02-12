@@ -1,0 +1,1 @@
+  Rename for properties in Groovy fixed. Appropriate changes in Diana  

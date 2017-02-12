@@ -1,0 +1,1 @@
+  fix(android): Fixed opening of avatar preview  

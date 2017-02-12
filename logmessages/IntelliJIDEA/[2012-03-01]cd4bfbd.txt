@@ -1,0 +1,1 @@
+  fixed PY-5898 Exception when closing a project very soon after opening  

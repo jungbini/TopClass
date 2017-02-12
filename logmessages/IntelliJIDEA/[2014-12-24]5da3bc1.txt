@@ -1,0 +1,1 @@
+  rename failure fixed: incomplete references on fields are now processed by VariableInIncompleteCodeSearcher  

@@ -1,0 +1,1 @@
+  GRADLE-2485 ensure jvmargs sustain debug options when new args are added  

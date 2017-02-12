@@ -1,0 +1,1 @@
+  IDEADEV-30642 ("Remove unnecessary 'static'" quickfix for nested interfaces must not remove 'public' modifier) also fixes some other issues with this inspection  

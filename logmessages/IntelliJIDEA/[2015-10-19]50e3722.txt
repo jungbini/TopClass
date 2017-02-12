@@ -1,0 +1,1 @@
+  Remove predefined fonts from the result even if they were added (to fix the corresponding test on Mac)  

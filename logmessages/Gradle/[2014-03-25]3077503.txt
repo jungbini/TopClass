@@ -1,0 +1,1 @@
+  Introduced fixture for testing JvmLibrary artifact resolution  

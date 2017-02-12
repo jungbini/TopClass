@@ -1,0 +1,1 @@
+  on win32 clipboard may be unavailable, don't fail: http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=4475489  

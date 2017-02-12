@@ -1,0 +1,1 @@
+  fixed selecting JAR files in native Mac file chooser (IDEA-161645)  

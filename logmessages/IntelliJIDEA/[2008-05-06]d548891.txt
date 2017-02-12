@@ -1,0 +1,1 @@
+  IDEADEV-26455 fixed (Assertion at com.intellij.psi.impl.PsiManagerImpl.fireEvent)  

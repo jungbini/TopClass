@@ -1,0 +1,1 @@
+  XDebugLayoutCustomizer#createConsoleContent() is replaced with XDebugLayoutCustomizer#registerConsoleContent()  

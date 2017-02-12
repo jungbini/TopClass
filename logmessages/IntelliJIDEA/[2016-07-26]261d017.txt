@@ -1,0 +1,1 @@
+  quick fix batch application: getWorkingQuickFix uses QuickFix#getFamilyName to find suitable fixes (IDEA-155841)  

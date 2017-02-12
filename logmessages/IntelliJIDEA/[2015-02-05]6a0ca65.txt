@@ -1,0 +1,1 @@
+  XmlPropertiesFile: bug with adding new property found and fixed  

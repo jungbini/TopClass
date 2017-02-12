@@ -1,0 +1,1 @@
+  fix relative constraint handling for GridBag snapshots (IDEADEV-9880)  

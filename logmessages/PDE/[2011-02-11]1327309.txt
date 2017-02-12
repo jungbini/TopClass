@@ -1,0 +1,1 @@
+  Fixed a bug in the multitexture mode of PShape3D and removed unused direct buffers  

@@ -1,0 +1,1 @@
+  check for installed Source Sans on Windows (fix for #4747)  

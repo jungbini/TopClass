@@ -1,0 +1,1 @@
+  Move UsageCollector.kt to descriptors module  * to fix bare plugin * in the future it will be used in scopes declared in descriptors module  

@@ -1,0 +1,1 @@
+  field can be local: quick fix to register stop-annotations is added (IDEA-122836)  

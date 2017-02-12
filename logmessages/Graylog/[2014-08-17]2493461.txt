@@ -1,0 +1,1 @@
+  Update prerequisites to Maven 3.0.1 (required by findbugs-maven-plugin)  

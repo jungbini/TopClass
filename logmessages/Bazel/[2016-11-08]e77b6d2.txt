@@ -1,0 +1,1 @@
+  Precompute the universe key in SkyQueryEnvironment. Since it's a function of the scope and the parser prefix, both of which are final, it never changes.  -- MOS_MIGRATED_REVID=138536185  

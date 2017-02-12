@@ -1,0 +1,1 @@
+  [log test] dump debug log to stdout in case of test failure  

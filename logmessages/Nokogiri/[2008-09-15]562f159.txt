@@ -1,0 +1,1 @@
+  fixing builder to handle multiple tags within a node builder element  

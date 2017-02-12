@@ -1,0 +1,1 @@
+  Fix bug in ByValue structs using NativeMapped  git-svn-id: https://svn.java.net/svn/jna~svn/trunk@547 2f8a963e-d2e4-e7d0-97bf-ccb7fcea9d80  

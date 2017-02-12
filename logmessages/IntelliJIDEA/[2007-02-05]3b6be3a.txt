@@ -1,0 +1,1 @@
+  debugger: mark stackFrame in the frame list, if frame's object is marked  

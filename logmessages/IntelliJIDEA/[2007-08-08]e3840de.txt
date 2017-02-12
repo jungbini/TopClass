@@ -1,0 +1,1 @@
+  fix "make class static" assertion on non-constructor usages (IDEADEV-20042)  

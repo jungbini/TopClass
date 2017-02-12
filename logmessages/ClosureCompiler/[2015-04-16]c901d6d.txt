@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE] Add some tests of how shadowing works in NTI.  Also, fix the typedef test so that it shadows correctly ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=91340649  

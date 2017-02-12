@@ -1,0 +1,1 @@
+  Added plotter for loss function. Need to adapt to output final graphs for each layer. Also fixed the activation probability plots so it finally saves the actual picture. Seeking to add training and validation accuracy and ratio of weight updates.  

@@ -1,0 +1,1 @@
+  fixed PY-14402 Python interpreter which is set in facet for Java module is not taken into account  

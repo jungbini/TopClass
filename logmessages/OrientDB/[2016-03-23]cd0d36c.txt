@@ -1,0 +1,1 @@
+  Distributed: wagon of updates to fix test cases  - Fixed task undo - Auto reconnection more reliable in case of crash - Improved performance by reducing the locking time of distributed storage  

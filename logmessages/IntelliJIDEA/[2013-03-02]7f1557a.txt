@@ -1,0 +1,1 @@
+  WEB-6724 Installation home of a previous WebStorm version is not accepted during start-up settings import - proper fix  

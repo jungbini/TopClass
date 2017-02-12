@@ -1,0 +1,1 @@
+  update bytebuffer collections dep to fix issue with empty spatial concise sets  

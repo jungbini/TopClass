@@ -1,0 +1,1 @@
+ Merge master and fix conflicts  commit ab999e2d340683bda548026b5fc97abc6f0a68c3  Merge pull request #689 from deeplearning4j/lstmgradientcehckfixes  graveslstm gradient check fixes  commit 1dc5d5410f0b26a629cbff134f084186a9930e83  add some fixes for convolution layer setup  

@@ -1,0 +1,1 @@
+  [patch]: rollback apply patch refactoring:  move rollback method to PatchApplier; add javadoc; fix typo  

@@ -1,0 +1,1 @@
+  Add 2 quick fixes for var declarations without any new variables declared: 1. if all variables are blank, remove the var declaration. 2. if all variables are redeclared, change the ":=" to "="  

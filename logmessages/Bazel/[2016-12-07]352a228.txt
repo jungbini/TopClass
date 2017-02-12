@@ -1,0 +1,1 @@
+  Skip constraint checking on generated sources with null generating rules.  Null generating rules shouldn't actually happen. That's its own bug that needs its own attention. This change is just a workaround to prevent NullPointerExceptions when the bug hits.  -- PiperOrigin-RevId: 141329624 MOS_MIGRATED_REVID=141329624  

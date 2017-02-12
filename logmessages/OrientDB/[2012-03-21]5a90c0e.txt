@@ -1,0 +1,1 @@
+  Improved performance on decoding of strings reported by Alex with its fix  

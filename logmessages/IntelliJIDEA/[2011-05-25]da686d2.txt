@@ -1,0 +1,1 @@
+  fixed wrong text data for PY-3673 in PyEditing  

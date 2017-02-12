@@ -1,0 +1,1 @@
+  fix lifecycle startup/stop ordering problem with discovery module and make druid able to load local extensions  

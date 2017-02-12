@@ -1,0 +1,1 @@
+  Temp disable JDK-maneged HiDPI for the upcoming 2017.1 EAP.  Until IDEA-165448 is fixed.  

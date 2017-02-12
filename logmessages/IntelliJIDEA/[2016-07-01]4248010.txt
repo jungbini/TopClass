@@ -1,0 +1,1 @@
+  inspection toolwindow: escape mnemonics in fix buttons  

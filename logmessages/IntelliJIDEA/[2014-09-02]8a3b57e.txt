@@ -1,0 +1,1 @@
+  fix "added file is not marked as added"  don't use ugly jgit DirCacheBuilder, now we use more straightforward DirCacheEditor  

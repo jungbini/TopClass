@@ -1,0 +1,1 @@
+  bug fixed for parser support comment. issue #939  

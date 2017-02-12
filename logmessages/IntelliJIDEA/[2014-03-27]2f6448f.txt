@@ -1,0 +1,1 @@
+  check elements in all languages for hover #WEB-10538 fixed  

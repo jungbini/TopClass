@@ -1,0 +1,1 @@
+  Changed IdeDependenciesExtractor so that it does not sort the external dependencies by jar file path, as this varies by platform and where the project directory is relative to the cache directory. Instead, keep the ordering of the resolved dependencies, as these are returned in a fixed (if arbitrary) order.  

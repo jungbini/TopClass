@@ -1,0 +1,1 @@
+  cleanup repository-transport spec  - fix formatting - add open issue for common test suites for every repository protocol  

@@ -1,0 +1,1 @@
+  Some changes to DistributionPlugin to match it up with the spec: Include `src/$dist.name/dist` by default in a distribution, and use a prefix of `${dist.baseName}-${project.version}` in archives.  

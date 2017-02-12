@@ -1,0 +1,1 @@
+  IDEADEV-2160 fixed XML formatter does not modify whitespaces before and after CDATA  

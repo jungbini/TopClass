@@ -1,0 +1,1 @@
+  fix possible data loss during multiple restarts.  patch by jbellis; reviewed by Jun Rao for CASSANDRA-204  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.3@779770 13f79535-47bb-0310-9956-ffa450edef68  

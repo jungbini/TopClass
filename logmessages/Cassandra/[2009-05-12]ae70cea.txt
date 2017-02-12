@@ -1,0 +1,1 @@
+  fix RackUnawareStrategyTest -- endpoint asserts 'host' is an ip address (to make sure we're not mixing hostnames in again) so create a suitable fake IP for the test.  patch by jbellis for CASSANDRA-163  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@774097 13f79535-47bb-0310-9956-ffa450edef68  

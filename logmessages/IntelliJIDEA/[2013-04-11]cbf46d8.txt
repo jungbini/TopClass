@@ -1,0 +1,1 @@
+  fixed parameter info popup problem related to overlapped highlighting (f.i. <strike><b>var1</b>, var2 </strike>)  so fixed PY-9469 Multi-line parameter info: first line for method parameters highlighted as inactive with caret on the first parameter and         PY-9468 Parameter info: first two symbols of the first method parameter are grayed as self parameter  

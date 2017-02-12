@@ -1,0 +1,1 @@
+  Fix $(location //external:some_tool) expansion for genrules.  Previously, targets in "tools" of genrules could only be expanded in $(location)s as the target of the bind.  This is another part of fully fixing #90.  -- Change-Id: I91444fbfe551b651c46811014639f08f779c70aa Reviewed-on: https://bazel-review.googlesource.com/#/c/1750/ MOS_MIGRATED_REVID=101760690  

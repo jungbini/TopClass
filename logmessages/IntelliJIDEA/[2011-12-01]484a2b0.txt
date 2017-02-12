@@ -1,0 +1,1 @@
+  fix minimize issue (repaint freezing) under latest mac os x java update [r=kirillk]  

@@ -1,0 +1,1 @@
+  Temporary add jruby-19mode to allow_failures until it is fixed.  

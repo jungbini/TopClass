@@ -1,0 +1,1 @@
+  do not replace default xdebugger icons with the same icons in java breakpoints, this also speeds up gutter icon repaint when enabling/disabling a breakpoint  

@@ -1,0 +1,1 @@
+  fixed  PY-8440 Doctest: Unused import: false positive if there is an empty-line between usage and import  

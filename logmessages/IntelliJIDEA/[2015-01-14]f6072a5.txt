@@ -1,0 +1,1 @@
+  diagnostics and a possible fix for PathMacroManagerTest  

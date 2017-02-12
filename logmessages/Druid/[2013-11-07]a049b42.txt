@@ -1,0 +1,1 @@
+  fix an issue with task tables not getting created automatically and prepare for next release  

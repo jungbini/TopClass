@@ -1,0 +1,1 @@
+  IDEA-94451 fix launching inner activities  (cherry-picked from 58e12fb)  

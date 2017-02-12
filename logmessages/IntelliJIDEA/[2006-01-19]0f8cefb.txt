@@ -1,0 +1,1 @@
+  1. Unnecessary scrolling in popups fixed 2. Enter on selected item in popup shown in modal dialog closes dialog instead of accepting the choice. Fixed.  

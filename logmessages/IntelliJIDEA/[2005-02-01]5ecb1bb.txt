@@ -1,0 +1,1 @@
+  xml lexer problem with $ in data characters fixed  

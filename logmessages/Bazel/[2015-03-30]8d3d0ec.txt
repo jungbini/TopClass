@@ -1,0 +1,1 @@
+  Bazel docs: make installation instructions more detailed.  Specifically, talk more about adding the bazel binary to the PATH.  (Really) fixes GitHub issue #77 (https://github.com/google/bazel/issues/77)  -- MOS_MIGRATED_REVID=89852746  

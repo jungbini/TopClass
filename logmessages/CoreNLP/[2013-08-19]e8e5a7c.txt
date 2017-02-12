@@ -1,0 +1,1 @@
+  Fixed simple bug in finding connected components and made entity merging code more robust  

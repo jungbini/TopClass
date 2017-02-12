@@ -1,0 +1,1 @@
+  Allow setting vertex of geometry 2D PShape in P3D, fixes #4773  

@@ -1,0 +1,1 @@
+  external compiler for plugin modules: fixed references to IDEA sdk & test added  

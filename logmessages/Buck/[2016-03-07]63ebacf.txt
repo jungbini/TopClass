@@ -1,0 +1,1 @@
+  Buck plugin fix imports optimizer  Summary: Fix the buck plugin sorting of deps. It now has the result expected by arc lint.  Also added resources, tests, visibility and provided deps to the list of items to sort.  Test Plan: Ran on redspace, on multiple BUCK files  fb-gh-sync-id: 562af61 shipit-source-id: 562af61  

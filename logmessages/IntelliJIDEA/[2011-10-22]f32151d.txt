@@ -1,0 +1,1 @@
+  delete classes corresponding to removed or moved sources; fixes in storage handling (correct removal and initialization) better internal error reporting  

@@ -1,0 +1,1 @@
+  fixed EA-48890 - NPE: PyUnresolvedReferencesInspection$Visitor.addAddSelfFix  

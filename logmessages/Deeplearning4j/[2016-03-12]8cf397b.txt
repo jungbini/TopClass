@@ -1,0 +1,1 @@
+ Merge pull request #1266 from deeplearning4j/ab_1263_preprocjson  Add no args constructor + getters/setters for preprocessorvertex (fixes json serialiaztion)  commit 8cf397bfc5d0c58f86f00ed1061b546c6b153a81  Add no args constructor + getters/settes for preprocessorvertex (fixes json serialiaztion)  

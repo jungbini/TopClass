@@ -1,0 +1,1 @@
+  Binary operations implemented. Some bugs are caused by incorrect treatment of semantic EOLs when calling rollbackTo() on a marker  

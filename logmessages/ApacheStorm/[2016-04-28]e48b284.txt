@@ -1,0 +1,1 @@
+  fix some comment typos, add convenience methods for checking if tuple is tick or heartbeat tuple to match python version  

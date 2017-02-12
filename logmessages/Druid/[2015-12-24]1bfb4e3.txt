@@ -1,0 +1,1 @@
+ Emit query/time for failed and timeout queries  emit query/time metric also  add success flag  fix success flag for router metrics  review comments  formatting.  

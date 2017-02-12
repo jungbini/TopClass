@@ -1,0 +1,1 @@
+  #267 fix web error:  java.lang.NoClassDefFoundError: com/navercorp/pinpoint/bootstrap/interceptor/MethodDescriptor  

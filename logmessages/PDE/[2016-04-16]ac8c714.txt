@@ -1,0 +1,1 @@
+  ECS + ASTGen: big offset fix  - PreprocessedSketch is now top level class - go do declaration (ctrl+click) was fixed and is now handled via JDT - various offset conversions were simplified and code completion now works as before  

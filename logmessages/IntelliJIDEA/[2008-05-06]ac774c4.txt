@@ -1,0 +1,1 @@
+  incorrect weakening of variable using in string concatenation fixed plus unit tests  

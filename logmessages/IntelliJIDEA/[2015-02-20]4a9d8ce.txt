@@ -1,0 +1,1 @@
+  WEB-15337 InvocationTargetException when add new html file in Meteor project while debugger is running  

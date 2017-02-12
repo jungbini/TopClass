@@ -1,0 +1,1 @@
+  Add support for exports of object literals getters and setters, fix bogus and redundant warning for exported object literal keys whose values are functions. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=59749809  

@@ -1,0 +1,1 @@
+  introduced configuration options testLogging.displayGranularity  - also improved some tests and javadoc related to test logging granularity - also fixed how root test suite gets displayed  

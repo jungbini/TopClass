@@ -1,0 +1,1 @@
+  android goto declaration handler reference fix  - goto handler now utilizes full featured reference resolving instead of simple name based resolving  

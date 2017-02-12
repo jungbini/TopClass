@@ -1,0 +1,1 @@
+  fix(server): adoption to the new sbt-actor-api  

@@ -1,0 +1,1 @@
+  stop some periodic polling when out of focus  fixes #328  

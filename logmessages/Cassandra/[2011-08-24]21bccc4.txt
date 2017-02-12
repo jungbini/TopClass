@@ -1,0 +1,1 @@
+  move drivers back in-tree until build issues can be fixed.  see CASSANDRA-2761  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1161216 13f79535-47bb-0310-9956-ffa450edef68  

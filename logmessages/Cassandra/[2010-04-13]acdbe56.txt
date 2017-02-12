@@ -1,0 +1,1 @@
+  fix index scans that cross the 2GB mmap boundaries for both mmap and standard i/o modes. patch by jbellis; tested by Todd Burruss and reviewed by gdusbabek for CASSANDRA-866    git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.6@933465 13f79535-47bb-0310-9956-ffa450edef68  

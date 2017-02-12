@@ -1,0 +1,1 @@
+  more corrections for the fix, we need to reparse files that have changed their filetype. for IDEA-158107 JsonSchemaFileTypeManager leaks project after closing  

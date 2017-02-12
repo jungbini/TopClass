@@ -1,0 +1,1 @@
+  IDEADEV-41613 JamTreeTable is broken, esp in DataSourceSchemaImportDialog [temp fix] + fix treetable to expand/collapse tree nodes correctly if table and tree row heights are not equal [r=max]  

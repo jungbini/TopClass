@@ -1,0 +1,1 @@
+  IDEADEV-24999 fixed ("Copy class" gives error message when class is copied in between svn repos)  

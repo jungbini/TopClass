@@ -1,0 +1,1 @@
+  fixed PY-13292 Create New Project: Finder window is not shown from Browse button  

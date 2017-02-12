@@ -1,0 +1,1 @@
+  Pass direct jars to Jack.  The R class generator produces a compiled jar, not a java source file. This means all android libraries/binaries with resources will need to convert this jar to jack to ensure that they have access to jars.  This change will not fix Jack builds, but it is a necessary step toward fixing them.  -- MOS_MIGRATED_REVID=139599250  

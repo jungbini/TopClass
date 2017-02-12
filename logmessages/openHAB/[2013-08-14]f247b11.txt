@@ -1,0 +1,1 @@
+  fix for #107 - enhance SNMP Binding - thanks Chris for this contribution  

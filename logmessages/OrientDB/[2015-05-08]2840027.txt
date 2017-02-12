@@ -1,0 +1,1 @@
+  fixed validation problem in case of linkset, issue 4037  

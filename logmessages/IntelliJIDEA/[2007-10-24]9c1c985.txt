@@ -1,0 +1,1 @@
+  quickfix did nothing when invoked via intention action API  

@@ -1,0 +1,1 @@
+  Remote: initial server list is untouched, distributed servers are just added at the end of the list  In this way the order is preserved. This fixes a bug where with distributed if a client requests a connection to server A, could end with connecting to server B. This was very bad for Multi-DC configuration.  

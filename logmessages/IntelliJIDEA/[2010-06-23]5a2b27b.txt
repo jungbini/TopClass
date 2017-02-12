@@ -1,0 +1,1 @@
+  fix tests: cleanup memstorage only on events from PsiManager and FileDocManager  

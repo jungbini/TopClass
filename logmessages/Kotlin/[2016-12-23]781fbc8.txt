@@ -1,0 +1,1 @@
+  Exclude BrShortNamesCache from processJvmCallablesByName() because or the severe lags in IDE in Java static member import quickfix. Also exclude Kotlin light classes cache because all light classes are filtered out anyway (KT-14308)  

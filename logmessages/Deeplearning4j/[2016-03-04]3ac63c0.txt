@@ -1,0 +1,1 @@
+  Fix bug in Viterbi  The variable states is only initialised in the constructor; computing logPIncorrect outside of the constructor takes the value of states as 0 and returns an invalid result.  

@@ -1,0 +1,1 @@
+  IDEA-153534, EA-77497 fix exception in EditorSizeManager.reset  allow only simple document change actions to be executed in bulk mode during undo  

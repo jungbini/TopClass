@@ -1,0 +1,1 @@
+  Added inheritance tests and fixed bug in OClassImpl polymorphic clusters id add. Fix for issue 944  

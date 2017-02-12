@@ -1,0 +1,1 @@
+  Bug fix in http2 flow control : the initial writability of a stream may be false when the connection is not writable  

@@ -1,0 +1,1 @@
+  Test that exacerbates the NoTestsRemainException bug  Summary: A long standing issue with test filtering is that if you are using a filter in JUnit and you encounter a class without any tests, an exception is raised where one wouldn't normally be raised if filtering was turned off.  This unit test will catch any regressions.  Test Plan: Run it!  

@@ -1,0 +1,1 @@
+  Lower log from error to debug when schema pull can't be executed  Patch by Tyler Hobbs; reviewed by Aleksey Yeschenko for CASSANDRA-9032  

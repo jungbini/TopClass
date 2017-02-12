@@ -1,0 +1,1 @@
+  refactored fix for mulivalue manual index. issue #2741  

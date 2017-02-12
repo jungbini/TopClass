@@ -1,0 +1,1 @@
+  Ninja: fixed cqlsh test (after 7d7d529)  

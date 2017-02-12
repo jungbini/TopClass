@@ -1,0 +1,1 @@
+  fixed PY-4567 Don't suggest to run tests as 'Python docs' when there are no Python docs in that package  

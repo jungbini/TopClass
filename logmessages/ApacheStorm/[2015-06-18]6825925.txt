@@ -1,0 +1,1 @@
+  Switched to using CDATA for output and fixed race conditions around XML output  

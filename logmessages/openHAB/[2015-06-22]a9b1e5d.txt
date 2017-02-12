@@ -1,0 +1,1 @@
+  bug fixes to insteonplm binding: - retry modem database download if it fails - much improved handling of corrupt data packets as received from the InsteonHub raw port - discard spurious messages for the insteon thermostat to avoid outlier temperature and humidity values  

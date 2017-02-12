@@ -1,0 +1,1 @@
+  fixed 'Valuable' and 'ListItem' properties forms bugs  

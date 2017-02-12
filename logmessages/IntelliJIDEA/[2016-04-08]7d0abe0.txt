@@ -1,0 +1,1 @@
+  fix EditorStressTest: bulk mode should be turned off before finishing command  

@@ -1,0 +1,1 @@
+  fixed bug in deep autoencoder feedforward  

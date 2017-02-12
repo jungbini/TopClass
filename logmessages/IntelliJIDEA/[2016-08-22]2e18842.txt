@@ -1,0 +1,1 @@
+  Argument parsing for subprocess under debugger (PY-20476 )  When starting the process with `multiprocessing` module, we don't change script arguments, but we add tracing function. And if after that we want to connect to another new process we have no information about debugger. That's why we need to save pydevd arguments for all processes created with `-c` interpreter option.  

@@ -1,0 +1,1 @@
+  [dbe] fix css in doc popup for tables  

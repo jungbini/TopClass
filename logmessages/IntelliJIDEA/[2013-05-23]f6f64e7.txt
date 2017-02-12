@@ -1,0 +1,1 @@
+  Refresh button + fix really refreshing of the log: the data loader needs to be recreated  

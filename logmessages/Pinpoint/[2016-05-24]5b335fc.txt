@@ -1,0 +1,1 @@
+ bug fix. - wrong agent select when drag scatter chart.  

@@ -1,0 +1,1 @@
+  Adding build lib to maven part, adding it to embeddable compiler to reduce duplication; implementing incremental build in gradle plugin using build lib; fixing build lib on the way  

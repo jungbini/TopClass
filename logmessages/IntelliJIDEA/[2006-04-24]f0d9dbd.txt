@@ -1,0 +1,1 @@
+  remove unnecessary cast; fix typo; additional diagnostics  

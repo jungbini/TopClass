@@ -1,0 +1,1 @@
+  KT-1673 Respect formatter settings in the completion list - apply standard renderer #KT-1673 fixed  

@@ -1,0 +1,1 @@
+ IDEA-89236 do not show error message if debugging was cancelled  

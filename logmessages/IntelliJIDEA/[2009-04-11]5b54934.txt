@@ -1,0 +1,1 @@
+  Introduces 'Add field' and 'Add method' quickfixes for unresolved atributre names. Fixes PY-34. Adds groundwork for future 'Implement constructor'.  

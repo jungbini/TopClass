@@ -1,0 +1,1 @@
+  fix(server): don't preload scalikejdbc extension to let DbExtension register JNDI datasource first  

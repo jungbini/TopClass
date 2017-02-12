@@ -1,0 +1,1 @@
+  KAFKA-2928; system test: fix version sanity checks  Fixed version sanity checks by updated kafkatest version to match kafka version  Author: Geoff Anderson <geoff@confluent.io>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #656 from granders/KAFKA-2928-fix-version-sanity-checks  

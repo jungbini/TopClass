@@ -1,0 +1,1 @@
+  JS: fix inlining in a new flat JS generator  

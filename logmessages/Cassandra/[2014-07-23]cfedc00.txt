@@ -1,0 +1,1 @@
+  cqlsh: fix message when zero rows are returned  Patch by brandonwilliams, reviewed by thobbs for CASSANDRA-7580  

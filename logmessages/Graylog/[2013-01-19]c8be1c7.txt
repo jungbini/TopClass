@@ -1,0 +1,1 @@
+  removed analytics shell  replaced with distribution resulution in universal search results. TBA for quickfilters  fixes #WEBINTERFACE-391  

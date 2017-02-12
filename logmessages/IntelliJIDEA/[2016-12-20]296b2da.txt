@@ -1,0 +1,1 @@
+  added internal action to show 'About' popup in debug mode  In this mode it'll show rectangles around hyperlink areas so we can check that coordinates of the logo are specified in *ApplicationInfo.xml file properly.  

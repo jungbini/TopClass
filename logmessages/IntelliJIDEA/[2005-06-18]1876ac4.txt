@@ -1,0 +1,1 @@
+  fixed issue with wrong lexing of  <jar file="${"></jar><jar file="${}"/>, el detector picked up text from ${ to the } in next tag (IDEADEV-1469)  

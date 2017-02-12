@@ -1,0 +1,1 @@
+  Maven: groovy test fixed and moved from problematics + some test refactoring  

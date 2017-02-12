@@ -1,0 +1,1 @@
+  fix constraint updates for UI Designer components after cdr's bold fix (IDEA-64042)  

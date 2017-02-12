@@ -1,0 +1,1 @@
+  fixed  PY-8175 Rename quickfix "Create function for reference" to "Create function <name>"  

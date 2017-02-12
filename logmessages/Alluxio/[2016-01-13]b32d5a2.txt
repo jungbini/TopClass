@@ -1,0 +1,1 @@
+  Adding more ThreadSafe annotations and fixing a naming inconsistency.  

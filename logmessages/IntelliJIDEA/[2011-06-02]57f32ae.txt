@@ -1,0 +1,1 @@
+  fixed PY-3582 Navigate to error source from console stacktrace  

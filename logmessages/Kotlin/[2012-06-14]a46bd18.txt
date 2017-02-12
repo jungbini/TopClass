@@ -1,0 +1,1 @@
+  normalize strings in CliTest to fix test on windows  

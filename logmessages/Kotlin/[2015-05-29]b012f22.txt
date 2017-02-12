@@ -1,0 +1,1 @@
+  DeprecatedCallableAddReplaceWithIntention: fixed for string templates in expression  

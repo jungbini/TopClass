@@ -1,0 +1,1 @@
+ fixed merge confilict  commit 3d52113aa4718bbf4a56927d682f4f2c471ff5d6  Merge pull request #3047 from joelmoniz/fixExamplesNullIssue  Missing examples.properties file no longer causes crash  commit f5245f9ddd0a1599ec8ee3b9654c4a8ab68635bb  fixes to lwjgl renderer  

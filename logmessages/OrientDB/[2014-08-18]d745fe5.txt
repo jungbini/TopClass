@@ -1,0 +1,1 @@
+  fixed problem with reload of list elements. The old code tried to reset all fields with null, also primitive types like int and boolean. Replaced hardcoded null, with a method-call which returns a default value based on the field-type.  added also test-cases for the new default-value method and reload of a list element with primitive values.   issue #2695  

@@ -1,0 +1,1 @@
+ detection within a single commit. It is specified in other methods in GitHistoryUtils, but was forgotten here.  

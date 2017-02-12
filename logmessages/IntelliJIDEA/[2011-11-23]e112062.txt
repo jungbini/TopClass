@@ -1,0 +1,1 @@
+  fixed [EA-31334]: NPE in TestsProgressAnimator.repaintSubTree  

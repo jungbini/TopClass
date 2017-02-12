@@ -1,0 +1,1 @@
+  Fixes for #444 and #433  - Load java source files with getResource so java source verticles now work inside a module (fixes #444) - Parse package definition from the java source and resolve java source root path based on that (fixes #433)  

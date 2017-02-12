@@ -1,0 +1,1 @@
+  fixed PY-6877 double clicking on a test from the test results opens up the wrong test file  

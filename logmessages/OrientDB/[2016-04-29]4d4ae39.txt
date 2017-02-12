@@ -1,0 +1,1 @@
+  fixed client side index lookup for in transaction record changes  

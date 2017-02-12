@@ -1,0 +1,1 @@
+  Updater: 'class not found' after update fixed  

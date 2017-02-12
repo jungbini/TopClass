@@ -1,0 +1,1 @@
+  use the subcomparator when toStringing slice commands on subcolumns.  this exposes a couple bugs: fix getString in non-string types to accept byte[0], and fix a test to send a long to a LongType subcolumn.  patch by jbellis and Evan Weaver for CASSANDRA-377  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@805868 13f79535-47bb-0310-9956-ffa450edef68  

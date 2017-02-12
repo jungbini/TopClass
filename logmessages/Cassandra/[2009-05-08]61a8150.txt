@@ -1,0 +1,1 @@
+  fix iteration bug.  it would always return hasNext=false if seekTo was called first.  fixing this with maybeInit proved 

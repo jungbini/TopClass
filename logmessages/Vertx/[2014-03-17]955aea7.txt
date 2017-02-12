@@ -1,0 +1,1 @@
+ Merge branch 'master' of https://github.com/eclipse/vert.x into websocket-continuation-fix  Conflicts: vertx-testsuite/src/test/java/vertx/tests/core/websockets/WebsocketsTestClient.java  commit ed1b42cd5a96e5a26ac49e581289f7f9dfc0d57d  Merge pull request #794 from pdalpra/docfix  Minor documentation fix  commit 955aea7e36aba2223b30a5af80c3d7f785d9858b  Better fix  

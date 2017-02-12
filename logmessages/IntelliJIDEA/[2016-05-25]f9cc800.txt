@@ -1,0 +1,1 @@
+  git: fix tests  Task.queue() should be called from EDT it was broken in 7281d44 - BackgroundTaskQueue allows non-EDT access  

@@ -1,0 +1,1 @@
+  [groovy] fix `trait` package parsing, fix typo (follow up IDEA-CR-13968)  

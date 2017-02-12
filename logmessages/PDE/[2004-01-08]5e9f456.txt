@@ -1,0 +1,1 @@
+  fixed coloring bugs (background not drawn, wrong colors, etc)  

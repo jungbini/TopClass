@@ -1,0 +1,1 @@
+  Add quickfix for usages of javaClass<T>() in annotations loaded from Java  

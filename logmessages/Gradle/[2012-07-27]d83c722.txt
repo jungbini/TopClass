@@ -1,0 +1,1 @@
+  GRADLE-2318: fix handling of pattern like '/some/proj-[revision]/[revision]/lib/' for versionlisting.  

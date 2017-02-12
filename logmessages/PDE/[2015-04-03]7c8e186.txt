@@ -1,0 +1,1 @@
+ Merge pull request #3170 from Plastix/fix-horizontal-scroll-osx  Fix multi-touch horizontal scrolling on OSX  commit 7c8e1868fdc8bbf5a5ea6e43c07fee861e36eb0a  fix line number right-alignment  

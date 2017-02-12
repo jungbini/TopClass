@@ -1,0 +1,1 @@
+  fixed PY-2715 Couldn't run Django Test on python 2.4  

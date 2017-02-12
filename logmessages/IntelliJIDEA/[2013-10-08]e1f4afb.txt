@@ -1,0 +1,1 @@
+  IDEA-60234 Automatically unwrap groovy.lang.Reference in the debugger  

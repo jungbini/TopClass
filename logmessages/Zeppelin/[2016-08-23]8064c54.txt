@@ -1,0 +1,1 @@
+values of width and height and add img tag for PNG images b3c74a8 [Paul Bustios] Add comment explaining the need for decoding bytes to string 1a78a37 [Paul Bustios] Fix bug in z.show for Python interpreter  

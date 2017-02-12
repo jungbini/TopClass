@@ -1,0 +1,1 @@
+  Allow use of a prefixed namespace on a root node using Nokogiri::XML::Builder  

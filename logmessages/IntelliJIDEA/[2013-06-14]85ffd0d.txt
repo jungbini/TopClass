@@ -1,0 +1,1 @@
+  fix CharacterDataModifiedEventData processing in case of "text<tag/>text2"  

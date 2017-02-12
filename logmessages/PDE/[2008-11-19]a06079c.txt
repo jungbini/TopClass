@@ -1,0 +1,1 @@
+  fix TRIANGLE_FAN in P2D (bug #1019)  

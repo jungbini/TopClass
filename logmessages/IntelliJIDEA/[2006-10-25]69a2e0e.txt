@@ -1,0 +1,1 @@
+  fix rename of form in non-default package (IDEADEV-10463)  

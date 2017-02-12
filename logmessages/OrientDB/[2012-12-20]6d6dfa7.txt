@@ -1,0 +1,1 @@
+  SQL: fixed count function to return the total even as partial result  This is because some projections could depend by the count()  

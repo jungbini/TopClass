@@ -1,0 +1,1 @@
+  AlphaUnsortedPropertiesFileInspection: works incorrectly if "sort whole resource bundle" quick fix is available IDEA-145168  

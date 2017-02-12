@@ -1,0 +1,1 @@
+  fixing TextReader resume abandoned file functionality. Added UT  

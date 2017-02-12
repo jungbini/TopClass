@@ -1,0 +1,1 @@
+changed the log level to warn, but should have changed to debug.  Modifications: - Change the log level to debug in Http2ConnectionHandler if the GO_AWAY fails to send. The write failure could be the result of the channel already being closed.  Result: Fixes https://github.com/netty/netty/issues/4930.  

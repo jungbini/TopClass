@@ -1,0 +1,1 @@
+ Merge pull request #988 from ChadKillingsworth/jquery-externs-style-tweaks  jQuery extern stylistic changes and nullability fixes  commit 9ad71315138f261ee9e521812ee3de64a0197092  jQuery extern stylistic changes and nullability fixes  

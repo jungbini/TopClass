@@ -1,0 +1,1 @@
+  IDEA-162835 Debugger Data Views toString setting is not persisted  

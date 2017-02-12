@@ -1,0 +1,1 @@
+  fix logic after 919d445: default scheme must have the default_scheme attribute, which is not null and is set to true  

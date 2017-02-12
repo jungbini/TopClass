@@ -1,0 +1,1 @@
+  PY-17094 Quickfix that adds Py3 return type annotation handles compound statements inside function  

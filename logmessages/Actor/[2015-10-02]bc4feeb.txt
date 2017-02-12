@@ -1,0 +1,1 @@
+  fix(server:contacts): fixed adding to contacts if user has no phone  

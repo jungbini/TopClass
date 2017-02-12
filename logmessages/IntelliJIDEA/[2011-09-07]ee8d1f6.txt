@@ -1,0 +1,1 @@
+  [r=peter] fix invalid virtual file access when indexing files from additional roots  

@@ -1,0 +1,1 @@
+  Build fix (RemoveEmptyParenthesesFromLambdaCallInspection) : IntentionBasedInspection 1.0.x / master incompatibility  

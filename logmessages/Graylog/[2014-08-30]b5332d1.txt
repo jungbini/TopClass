@@ -1,0 +1,1 @@
+  Replace vanilla natty with our repackaged version  This should solve some dependency conflicts regarding antlr-runtime, since natty currently doesn't work with versions higher than antlr-runtime 3.2.  See joestelmach/natty#60 for the related bug report.  

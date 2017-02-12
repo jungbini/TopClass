@@ -1,0 +1,1 @@
+  Fixed issue reported by Konrad about fixed size of cfg with large db structure (hundreds of files)  

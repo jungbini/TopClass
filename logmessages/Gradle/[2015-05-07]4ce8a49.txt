@@ -1,0 +1,1 @@
+  fix test - sub dir gets added to watcher after the event is delivered - https://github.com/gradle/gradle/blob/f861a56/subprojects/core/src/main/groovy/org/gradle/internal/filewatch/jdk7/WatchServiceRegistrar.java#L118 - this test doesn't always fail because of concurrent behaviour  

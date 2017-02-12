@@ -1,0 +1,1 @@
+  Minor fixes to OTI related to interface inheritance and generics.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=128505465  

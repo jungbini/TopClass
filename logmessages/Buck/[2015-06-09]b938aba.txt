@@ -1,0 +1,1 @@
+  [buck] fix compilation database  Summary: Use the default platform when building the clang compilation database when none is set.  Test Plan: ``` $ buck build java/com/facebook/something:something#compilation-database ... $ cat buck-out/gen/java/com/facebook/something/__something\#compilation-database.json ... json blob $ ```  

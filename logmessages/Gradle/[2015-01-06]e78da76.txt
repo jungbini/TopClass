@@ -1,0 +1,1 @@
+  Preserve exception messages from first failure in a fixed executor pool  

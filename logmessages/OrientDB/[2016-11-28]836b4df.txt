@@ -1,0 +1,1 @@
+  fixes name of image on distributed stage  

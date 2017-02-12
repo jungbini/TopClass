@@ -1,0 +1,1 @@
+  fix rendering of capacities while topology is starting up  

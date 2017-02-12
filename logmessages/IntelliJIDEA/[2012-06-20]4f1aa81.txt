@@ -1,0 +1,1 @@
+  fixed PY-6610 Convert lambda to function: leads to unresolved reference when using local vars in lambda  

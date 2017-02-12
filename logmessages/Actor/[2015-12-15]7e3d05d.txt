@@ -1,0 +1,1 @@
+  fix(server:cli): start kamon as workaraound for exception  

@@ -1,0 +1,1 @@
+  Housekeeping. Added a fix of an edge case for idea plugin (when there was a dependency to a non-idea project the idea plugin could fail). Added corresponding integration test. Refactored names to make it more consistent.  

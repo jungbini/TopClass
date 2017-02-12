@@ -1,0 +1,1 @@
+  Implement quickfix for MANY_CLASSES_IN_SUPERTYPE_LIST  

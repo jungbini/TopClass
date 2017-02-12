@@ -1,0 +1,1 @@
+  PY-19925 Ask user to install setuptools when SDK does NOT have management  I fixed accidentally inverted condition in PyInstallRequirementsFix.  

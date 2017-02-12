@@ -1,0 +1,1 @@
+  A few minor fixes for destructuring patterns to make them pass AstValidator:  - Allow destructuring patterns as valid assignment targets. - Make sure all nodes have source information after transpiling. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=73175453  

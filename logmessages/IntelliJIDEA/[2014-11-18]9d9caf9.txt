@@ -1,0 +1,1 @@
+  return statements inside lambda: extract method return type fixed (IDEA-133095)  

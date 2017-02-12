@@ -1,0 +1,1 @@
+  fixed mem leak in watch inplace editors (session listener leak)  

@@ -1,0 +1,1 @@
+m command verifiable format checksum fee7757 [Lee moon soo] sha512 suffix for sha checksum  

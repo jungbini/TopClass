@@ -1,0 +1,1 @@
+  set default density for backwards compat (fixes #3413)  

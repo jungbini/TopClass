@@ -1,0 +1,1 @@
+  Parser: Reject arrow functions with a newline before the arrow.  This fixes one of the cases on http://kangax.github.io/compat-table/es6/ (issue #700) ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=79800905  

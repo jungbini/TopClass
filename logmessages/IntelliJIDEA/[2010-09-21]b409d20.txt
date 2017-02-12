@@ -1,0 +1,1 @@
+  quickfix for switching to HTML5 language level when HTML tag unresolved; these fixes shouldn't appear under non-html5 doctype  

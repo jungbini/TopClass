@@ -1,0 +1,1 @@
+  fixed caret offset during completion  

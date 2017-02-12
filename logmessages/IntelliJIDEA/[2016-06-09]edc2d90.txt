@@ -1,0 +1,1 @@
+  fix showing error message during startup on KDE  

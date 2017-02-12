@@ -1,0 +1,1 @@
+  assorted Find Usages fixes: add missing read actions, better cancellation, fix search of componentN() usages for data class primary constructor parameter, remove workaround for usage of IDEA API which is now public  

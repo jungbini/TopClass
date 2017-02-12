@@ -1,0 +1,1 @@
+  fixing up some prefs stuff, add run.options, don't launch prefs txt file from inside p5, fixing up runner, adding more info to the faq  

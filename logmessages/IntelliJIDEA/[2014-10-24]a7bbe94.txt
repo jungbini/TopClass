@@ -1,0 +1,1 @@
+  Typo fixed. RUBY-16231 haml parsing thrown off by capture within lambda  

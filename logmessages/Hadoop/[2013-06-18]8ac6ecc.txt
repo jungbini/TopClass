@@ -1,0 +1,1 @@
+  Merge -c 1494027 from trunk to branch-2 to fix YARN-840. Moved ProtoUtils to yarn.api.records.pb.impl. Contributed by Jian He.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1494029 13f79535-47bb-0310-9956-ffa450edef68  

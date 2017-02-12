@@ -1,0 +1,1 @@
+  fix progress indicator glitches on Splash for non-standard DPIs  

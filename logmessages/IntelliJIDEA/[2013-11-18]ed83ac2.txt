@@ -1,0 +1,1 @@
+  Fix prefix matching for chained items ('in.nn' now matches 'integers.notnull')  

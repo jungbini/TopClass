@@ -1,0 +1,1 @@
+ctive rebase editor will start the line for this commit with "fixup" action, not "pick" => assertion is invalid. Instead supply the GitRebaseEntry with the initial action value.  Add "fixup" & "reword" to the Action enum, no other special support is needed (IDEA-68866).  (cherry picked from commit 2c925dff294ec1e1d66968dd849b7215bd188ade)  

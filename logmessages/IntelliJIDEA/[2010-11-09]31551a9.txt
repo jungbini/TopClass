@@ -1,0 +1,1 @@
+  IDEA-52423 Bring back option for Run/Debug to pop up configurations  

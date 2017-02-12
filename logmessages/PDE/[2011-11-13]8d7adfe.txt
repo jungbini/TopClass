@@ -1,0 +1,1 @@
+  fix base not being set on OS X; tweaking single instance use  

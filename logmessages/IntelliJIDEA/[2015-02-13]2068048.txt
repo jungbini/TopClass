@@ -1,0 +1,1 @@
+  fix IDEA-135945 jumping recent projects panel  

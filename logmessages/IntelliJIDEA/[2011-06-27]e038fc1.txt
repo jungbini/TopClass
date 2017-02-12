@@ -1,0 +1,1 @@
+  fixed PY-3907 Missing empty or incorrect docstring: not updated properly on changing settings  

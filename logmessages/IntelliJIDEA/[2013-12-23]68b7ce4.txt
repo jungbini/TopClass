@@ -1,0 +1,1 @@
+  fix and clarify "Cyclic class dependency" inspection warning  

@@ -1,0 +1,1 @@
+  Fix by Bogdan Prishedko on reading from stream and fixed other point with the same problem  

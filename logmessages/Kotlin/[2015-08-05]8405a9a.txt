@@ -1,0 +1,1 @@
+  Enum syntax: source code fixed  

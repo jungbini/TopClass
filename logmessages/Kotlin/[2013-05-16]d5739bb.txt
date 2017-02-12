@@ -1,0 +1,1 @@
+  Fix negative quickfix tests which use when  

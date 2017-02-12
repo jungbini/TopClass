@@ -1,0 +1,1 @@
+  [10.0.2] parameter info hint position update fix  

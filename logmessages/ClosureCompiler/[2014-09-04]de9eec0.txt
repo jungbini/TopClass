@@ -1,0 +1,1 @@
+  Add an option for using the default externs for both the RefasterJS command line tool and the Closure Compiler debugger. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=74738729  

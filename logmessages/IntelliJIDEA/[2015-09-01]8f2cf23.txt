@@ -1,0 +1,1 @@
+  [git] IDEA-142566 fix git clone for directory names which look like cmd options  Add "--" before specifying the directory.  

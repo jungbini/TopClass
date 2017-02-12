@@ -1,0 +1,1 @@
+  MINOR: Specify keyalg RSA for SSL key generation  Author: Sriharsha Chintalapani <harsha@hortonworks.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1416 from harshach/ssl-doc-fix  

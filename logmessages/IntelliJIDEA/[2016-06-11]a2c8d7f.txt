@@ -1,0 +1,1 @@
+  fix InjectedLanguageManagerImpl.pushInjectors assertion due leaked thread  

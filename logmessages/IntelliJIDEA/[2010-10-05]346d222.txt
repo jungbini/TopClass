@@ -1,0 +1,1 @@
+  Switched & ignored files : use area map to avoid o^2 when removing descendants; only storage logic fixed  

@@ -1,0 +1,1 @@
+  Minor bugfix: implemented hashCode +equals for clusters (compile-server).  

@@ -1,0 +1,1 @@
+  IDEA-132887 Wrong settings page for debugger settings displayed  

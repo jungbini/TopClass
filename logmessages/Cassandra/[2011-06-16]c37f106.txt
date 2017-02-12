@@ -1,0 +1,1 @@
+  fix cache mbean getSize patch by Chris Burroughs; reviewed by Ryan King for CASSANDRA-2781  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8@1136529 13f79535-47bb-0310-9956-ffa450edef68  

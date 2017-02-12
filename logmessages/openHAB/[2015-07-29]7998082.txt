@@ -1,0 +1,1 @@
+ Miscellaneous configuration parameter fixes for Fibaro Dimmer  

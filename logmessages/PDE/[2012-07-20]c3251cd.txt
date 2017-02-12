@@ -1,0 +1,1 @@
+  classpath fixes for Eclipse, ant tweak for OpenGL  

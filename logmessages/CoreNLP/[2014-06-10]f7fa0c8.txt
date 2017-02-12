@@ -1,0 +1,1 @@
+  Change the debug output so sentiment models are output every X epochs instead of every X seconds. Will make experiments more repeatable. Previous models are not ruined because we replace one int with another.  

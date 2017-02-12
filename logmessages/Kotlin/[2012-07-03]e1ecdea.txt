@@ -1,0 +1,1 @@
+  Turn off the failing StdLibToJSTest. It fails due to some frontend bug.  

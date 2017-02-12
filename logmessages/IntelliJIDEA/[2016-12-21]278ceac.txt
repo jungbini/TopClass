@@ -1,0 +1,1 @@
+  guava type migration: fix for filter(Class<T>) migration (should add cast to new type) IDEA-165420  

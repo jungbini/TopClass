@@ -1,0 +1,1 @@
+  boolean method is always inverted: invert method fix added (IDEADEV-27634)  

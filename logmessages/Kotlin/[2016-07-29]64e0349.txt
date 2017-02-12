@@ -1,0 +1,1 @@
+  Refactoring: introduce constants with strata names and reuse them in debugger  

@@ -1,0 +1,1 @@
+  Patch to fix the build errors introduced by r7372  

@@ -1,0 +1,1 @@
+  fixed: smart cast of boolean variable didn't work in boolean expression  

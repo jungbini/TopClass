@@ -1,0 +1,1 @@
+  fixed information on how to obtain the deployment id of a verticle  

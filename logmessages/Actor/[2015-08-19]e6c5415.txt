@@ -1,0 +1,1 @@
+  fix+styles+chore(web): hide uncompleted parts, fix styles.  

@@ -1,0 +1,1 @@
+  Adds a new flag for generation of dSYMs for all apple rules.  * This flag forces -g and enables dSYM bundle actions. * All instances of breakpad generation are now gated by the old --objc_generate_debug_symbols option.  -- MOS_MIGRATED_REVID=121304681  

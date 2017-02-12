@@ -1,0 +1,1 @@
+  Fix formatting metric names including more than one namespace prefix. (#2425)  Fixes #2254  

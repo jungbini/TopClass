@@ -1,0 +1,1 @@
+  fixed EA-32245 - CCE: PyDictLiteralFormToConstructorIntention.replaceDictLiteral  

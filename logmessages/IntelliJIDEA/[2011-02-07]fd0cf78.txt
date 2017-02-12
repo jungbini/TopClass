@@ -1,0 +1,1 @@
+  fixed PY-2823 PyListCreationInspection fails on recursive lists  

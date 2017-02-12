@@ -1,0 +1,1 @@
+ A fix for WI-28533 Code reformat does not reformat PHP when the file is named pi.json.php  

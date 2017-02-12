@@ -1,0 +1,1 @@
+  fixed PY-6133 Move statement: strange comment moving down to def or class statements  

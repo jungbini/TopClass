@@ -1,0 +1,1 @@
+  reverted fix for incorrect drag image offset (visible for example when dragging a breakpoint), simpler fix will follow  

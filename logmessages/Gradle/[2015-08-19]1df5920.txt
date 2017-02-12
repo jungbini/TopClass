@@ -1,0 +1,1 @@
+  fix handling for includes when generating eclipse classpath information  - having an includes defined just for resource or just for sources should generate eclipseclasspath with no include pattern applied.  +review REVIEW-5592  

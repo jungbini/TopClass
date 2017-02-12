@@ -1,0 +1,1 @@
+  fixed weird bug with quick fix of a target in the dummyEntities.xml file which is non-physical  

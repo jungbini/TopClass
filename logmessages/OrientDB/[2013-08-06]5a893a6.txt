@@ -1,0 +1,1 @@
+ Merge branch 'issue1591' into hotfix-1.5.1  commit ed33439c96171859fc66653ab562703becc36059  Merge remote-tracking branch 'origin/hotfix-1.5.1' into wow-cache  Conflicts: core/src/main/java/com/orientechnologies/orient/core/index/hashindex/local/OLocalHashTable.java  commit 5a893a62f6fcd49ece574101e5c4ed22a6c4aa6a  Hash index size fix.  

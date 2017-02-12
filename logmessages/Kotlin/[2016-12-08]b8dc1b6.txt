@@ -1,0 +1,1 @@
+  Allow regex matching of available action names; accept both 2016.2 and 2016.3 names of static import quickfix  

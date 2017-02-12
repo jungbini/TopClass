@@ -1,0 +1,1 @@
+  Switch StatsListener to new TrainingListener interface; fix activations for ComputationGraph  

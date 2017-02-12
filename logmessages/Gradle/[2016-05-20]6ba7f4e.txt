@@ -1,0 +1,1 @@
+by the same test, which is that resources should also be relocated, or they won't be found when searched using `getResourceAsStream` or `getResource`.  +review REVIEW-5987  

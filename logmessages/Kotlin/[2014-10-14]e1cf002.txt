@@ -1,0 +1,1 @@
+  Clarified assertion which should be fixed on IDEA side.  

@@ -1,0 +1,1 @@
+  hide value tooltip in debugger when mouse moved away (WI-5029)  

@@ -1,0 +1,1 @@
+  Fix case of rollbackForClassName in ref docs  Update @Transactional reference documentation to fix the case of the rollbackForClassName and noRollbackForClassName attributes.  Issue: SPR-10754 (cherry picked from 1204d2a)  

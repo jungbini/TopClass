@@ -1,0 +1,1 @@
+  PY-740 Make completion and resolve inside evaluate/watches while debugging context aware  

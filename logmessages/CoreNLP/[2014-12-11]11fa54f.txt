@@ -1,0 +1,1 @@
+  fixed bug where default newlineIsSentenceBreak wasn't working because tokenizer wasn't tokenizing NLs  

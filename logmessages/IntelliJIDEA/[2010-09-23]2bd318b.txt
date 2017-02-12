@@ -1,0 +1,1 @@
+  IDEA-59044 After pressing Soft wrap button in the debugger console, PyCharm hangs  Soft wraps caches are recalculated if document was changed while soft wrapping was turned off  

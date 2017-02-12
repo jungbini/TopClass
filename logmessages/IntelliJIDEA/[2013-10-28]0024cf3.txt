@@ -1,0 +1,1 @@
+  [log] Don't store Hash in CommitCell to avoid memory waste.  Instead get the hash by row 

@@ -1,0 +1,1 @@
+  fix(iOS): Fixing broken background dispatching  

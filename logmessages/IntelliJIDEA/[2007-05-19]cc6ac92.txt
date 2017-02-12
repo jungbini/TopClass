@@ -1,0 +1,1 @@
+  honor prefixes when completing imported property names  

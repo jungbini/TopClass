@@ -1,0 +1,1 @@
+  IDEA-54597: bug on renaming fields  

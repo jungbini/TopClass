@@ -1,0 +1,1 @@
+  1) Move up to Jackson 2.1 2) Some bugs were fixed, but they ended up getting mixed in with the Jackson upgrade :(  

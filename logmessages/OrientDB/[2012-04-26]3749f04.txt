@@ -1,0 +1,1 @@
+  Fixed min bug on new index refactoring  

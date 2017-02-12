@@ -1,0 +1,1 @@
+  prevent Windows CR problems, also fix encoding for i/o  

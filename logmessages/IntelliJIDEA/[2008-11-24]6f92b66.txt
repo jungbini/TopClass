@@ -1,0 +1,1 @@
+  IDEADEV-32914 (SVN branches configuration should not store login in URL in IPR file) (+ fix)  

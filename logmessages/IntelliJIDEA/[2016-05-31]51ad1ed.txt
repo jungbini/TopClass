@@ -1,0 +1,1 @@
+  don't leak PSI via XSLT DeleteUnusedElementBase fix; correct xslt physicality to make smart pointers work  

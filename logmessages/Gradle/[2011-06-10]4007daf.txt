@@ -1,0 +1,1 @@
+  Housekeeping. Improved the code a tiny bit by changing the logic works with decent types rather than reflection. Simplified the tests by using existing fixture builders instead of hand-stubs.  

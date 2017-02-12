@@ -1,0 +1,1 @@
+ Remove the AliasKeywords pass. It does not help with gzsize, so projects have stopped using it.  The relevant flags become no-ops and will be deleted in a separate CL, after we fix the relevant BUILD files in google3.  ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=83291837  

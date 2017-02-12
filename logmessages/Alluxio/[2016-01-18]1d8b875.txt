@@ -1,0 +1,1 @@
+ Merge pull request #2506 from gpang/smallfix  [SMALLFIX] Capitalize Tachyon  commit 1d8b875ffb2a8ee09cfb9313ff62bdb3846d4031  TACHYON-1426: Support setting permission model in CLI shell: fix comment  

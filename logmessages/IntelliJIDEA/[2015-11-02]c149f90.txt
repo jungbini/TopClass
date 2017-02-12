@@ -1,0 +1,1 @@
+  IDEA-147196, EA-75557 fix painting of empty border in an empty document  

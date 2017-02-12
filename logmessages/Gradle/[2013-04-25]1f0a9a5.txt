@@ -1,0 +1,1 @@
+  fix classpath of tooling-api integTests after moving Wrapper task to buildSetup project  

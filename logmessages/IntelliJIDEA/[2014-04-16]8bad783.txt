@@ -1,0 +1,1 @@
+  jb v8 debug protocol: function scopes  

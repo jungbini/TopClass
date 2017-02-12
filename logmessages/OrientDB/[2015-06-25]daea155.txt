@@ -1,0 +1,1 @@
+  Added unit test that demonstrates bug #4614.  

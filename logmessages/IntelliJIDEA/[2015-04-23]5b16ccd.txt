@@ -1,0 +1,1 @@
+  simplified websocket connection in ipython notebook  partly fixed PY-15404  

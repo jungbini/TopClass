@@ -1,0 +1,1 @@
+  allow to debug coverage agent without modifying IDEA source  

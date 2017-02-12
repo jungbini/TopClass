@@ -1,0 +1,1 @@
+  Improved the display name representation of the artifact. This helps debugging and diagnosing. Previous convention was confusing, especially where classifiers were used.  

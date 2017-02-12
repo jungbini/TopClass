@@ -1,0 +1,1 @@
+  fix output timestamps in groupby queries with granularity "all".  

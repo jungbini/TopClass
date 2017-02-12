@@ -1,0 +1,1 @@
+  Merge pull request #1662 from Volune/fix_set_shortname_null  Fix exceptions in OClassImpl.setShortName  

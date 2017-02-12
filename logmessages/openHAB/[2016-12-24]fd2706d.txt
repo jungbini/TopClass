@@ -1,0 +1,1 @@
+  insteonplm: fix for insteon hub with openHAB 2 (#4925)  

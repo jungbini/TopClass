@@ -1,0 +1,1 @@
+  use project open processor if no project exists #IDEA-129532 fixed  

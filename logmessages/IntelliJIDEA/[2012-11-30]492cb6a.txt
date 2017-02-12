@@ -1,0 +1,1 @@
+  (primitive fix) Assertion failed: You must provide parent Disposable for ThreadToUse.OWN_THREAD Alarm java.lang.Throwable at com.intellij.openapi.diagnostic.Logger.assertTrue(Logger.java:98) at com.intellij.util.Alarm.<init>(Alarm.java:88) at com.intellij.openapi.vcs.history.FileHistoryPanelImpl.<init>(FileHistoryPanelImpl.java:361)  

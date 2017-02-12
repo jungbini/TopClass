@@ -1,0 +1,1 @@
+  fixed EDU-276 Pycharm education - how to change font size of task description area in lessons  

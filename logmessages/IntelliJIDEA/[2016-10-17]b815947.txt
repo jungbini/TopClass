@@ -1,0 +1,1 @@
+  provide fix all intention for local inspections paired to global tools (IDEA-162507)  

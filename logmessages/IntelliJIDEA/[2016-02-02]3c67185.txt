@@ -1,0 +1,1 @@
+  WEB-20141 Freezing, StackOverflow and many other errors when run JS debugger  

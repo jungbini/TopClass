@@ -1,0 +1,1 @@
+  Allows network in sandbox, when --java_debug. Fixes #393.  -- MOS_MIGRATED_REVID=121002371  

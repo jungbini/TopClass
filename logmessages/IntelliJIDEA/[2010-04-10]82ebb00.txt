@@ -1,0 +1,1 @@
+  IDEA-53762: Groovy: "Make public" quick fix inserts "def" keyword instead of "public"  

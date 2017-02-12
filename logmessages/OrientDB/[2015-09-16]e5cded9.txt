@@ -1,0 +1,1 @@
+  fixed database open in case of server database path not default  

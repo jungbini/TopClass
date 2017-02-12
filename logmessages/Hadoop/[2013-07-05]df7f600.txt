@@ -1,0 +1,1 @@
+  Merge -c 1499902 from branch-1 to branch-1.2 to fix MAPREDUCE-5375. Use short name for renewing delegation tokens. Contributed by Venkat Ranganathan.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.2@1499903 13f79535-47bb-0310-9956-ffa450edef68  

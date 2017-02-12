@@ -1,0 +1,1 @@
+  fixed IDEA scala compiler library generation and added an integ test  

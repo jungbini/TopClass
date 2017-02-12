@@ -1,0 +1,1 @@
+  fixing issues with threading, stop button, and defaults not being called  

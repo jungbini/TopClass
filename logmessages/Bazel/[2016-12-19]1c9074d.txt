@@ -1,0 +1,1 @@
+ Reason is that we include both file_posix.cc and file_windows.cc when compiling for MSYS, and I forgot to put the POSIX implementation of SplitPath/IsAbsolute/IsRootDirectory behind `#ifndef __CYGWIN__`.  -- PiperOrigin-RevId: 142456232 MOS_MIGRATED_REVID=142456232  

@@ -1,0 +1,1 @@
+  Fix for http://java.net/jira/browse/ATMOSPHERE-77 ("littles fixes on jquery.atmosphere.js")  Patch provided by Mathieu Carbou  

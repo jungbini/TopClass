@@ -1,0 +1,1 @@
+ Solves the problem with calloc and free using JRuby on Windows. This fix requires at least JRuby version 1.4 RC1 and makes Nokogiri usable on JRuby + Windows.  On JRuby 1.3.1 other problems crop up relating to the LibXML library function imports, so it seems Wayne has changed / fixed some bugs in the 1.4 branch of FFI/JRuby which benefit Nokogiri.  

@@ -1,0 +1,1 @@
+  HADOOP-13220. Follow on fixups after upgraded mini-kdc using Kerby. Contributed by Jiajia Li  

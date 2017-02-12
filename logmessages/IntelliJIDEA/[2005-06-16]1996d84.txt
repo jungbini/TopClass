@@ -1,0 +1,1 @@
+  Bug fix for problem that was reported by Michael Werle: I have a class called "CareDao"; I hit Ctrl-N and typed "Care*Dao". What's even stranger is that typing "Care*Da" finds "CareDao" just fine, but when I type the "o" it disappears from the list.  

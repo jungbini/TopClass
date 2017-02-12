@@ -1,0 +1,1 @@
+  fixed PY-14107 IPython Notebook: cell are not properly aligned in not maximized editor window  

@@ -1,0 +1,1 @@
+  code style settings: lost setting fixed (IDEA-58075)  

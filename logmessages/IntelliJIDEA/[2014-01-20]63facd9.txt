@@ -1,0 +1,1 @@
+  More fixes for IDEA-115200 Eclipse code style import: Line Wrapping: some categories are not applied  

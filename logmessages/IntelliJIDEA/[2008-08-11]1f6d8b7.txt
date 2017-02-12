@@ -1,0 +1,1 @@
+  better fix for IDEADEV-29024: Wrong triggering of 'Field may be final'  

@@ -1,0 +1,1 @@
+  Windows long paths issue has been fixed, the  com.intellij.ui.win.Task was moved from RecentTasks class because of some problems with JNI invocations. Class path now is enclosed by double quotes.  

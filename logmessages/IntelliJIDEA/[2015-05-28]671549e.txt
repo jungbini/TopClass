@@ -1,0 +1,1 @@
+  IDEA-136480 Debugger: Show vaues in editor: show hex values for primitives option triples the result  

@@ -1,0 +1,1 @@
+  GRADLE-3027 Replaced almost all usages of ModuleRevisionId.newInstace with IvyUtil for consistency. This will also allow adding proper synchronisation later (the actual bugfix).  

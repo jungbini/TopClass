@@ -1,0 +1,1 @@
+  Fix TargetGraphFactory not adding nodes.  Summary: TargetGraphFactory is not creating correct graphs as if a node is not part of any edges it will not get added. This fixes that.  Test Plan: CI, create a target graph with disconnected nodes  

@@ -1,0 +1,1 @@
+  replace intention with inspection+quickfix  

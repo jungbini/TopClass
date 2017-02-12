@@ -1,0 +1,1 @@
+  fixed IDE project  Summary: added missing ignore for test directory  Test Plan: built from IDE and verified build succeedes  Reviewed By: yiding  fb-gh-sync-id: a55171c shipit-source-id: a55171c  

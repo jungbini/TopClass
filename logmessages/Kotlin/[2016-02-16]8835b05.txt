@@ -1,0 +1,1 @@
+  Inline preevaluated string and primitive only constants in compilation time, don't inline const references in non-annotation context, fix for KT-11025: Don't inline const val in compare instuctions  #KT-11025 Fixed  

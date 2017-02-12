@@ -1,0 +1,1 @@
+  diamonds: invalidate cache according to changing context during refactoring/quick fixes  

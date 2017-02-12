@@ -1,0 +1,1 @@
+  fixed PY-4392 Python docs run configurations: messed up slashes for input\output fields  

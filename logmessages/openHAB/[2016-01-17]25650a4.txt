@@ -1,0 +1,1 @@
+  Some bugfix to definition of "Typical 18 : Pulse Digital Output - Use for bistable Relay" and other minor bugfix.  

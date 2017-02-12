@@ -1,0 +1,1 @@
+  resume action may show debug... popup even with an active session  

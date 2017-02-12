@@ -1,0 +1,1 @@
+  Fixed 2 bugs in Win32WindowDemo.java  Added setting dbcc_size before RegisterDeviceNotification. Create DEV_BROADCAST_DEVICEINTERFACE only when should. Added extra info (drive letter, change to media in drive or to physical drive, is network drive) for logic drive add/remove.  

@@ -1,0 +1,1 @@
+  allow removing timezone for user  sending a "" or  null value for timezone on user change will remove the timezone config for that user  fixes #510  

@@ -1,0 +1,1 @@
+  load balancer status features for radio. fixes Graylog2/graylog2-server##476  

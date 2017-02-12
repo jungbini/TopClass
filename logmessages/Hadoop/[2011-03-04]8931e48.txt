@@ -1,0 +1,1 @@
+Author: Luke Lu <llu@yahoo-inc.com> Date:   Thu Jun 3 17:10:56 2010 -0700  HADOOP:6787 from https://issues.apache.org/jira/secure/attachment/12446045/hadoop-6787-y20s-v1.patch  Glob pattern code refactor/fixes.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077497 13f79535-47bb-0310-9956-ffa450edef68  

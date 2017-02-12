@@ -1,0 +1,1 @@
+  ChangeLog: add some missing issues fixed in 1.0.1  

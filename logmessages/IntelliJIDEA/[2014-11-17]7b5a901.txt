@@ -1,0 +1,1 @@
+  Weaken instanceof on delete  it fixes the situation when ASTDelegatePsiElement is placed inside LazyParseableElement  

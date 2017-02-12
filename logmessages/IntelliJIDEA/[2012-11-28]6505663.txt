@@ -1,0 +1,1 @@
+  IDEA-95906 fix packaging android libraries [rev=eugene.zhuravlev] (cherry-picked from cba74fe)  

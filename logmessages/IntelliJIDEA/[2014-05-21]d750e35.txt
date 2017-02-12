@@ -1,0 +1,1 @@
+  XDebugger: Added myCustomTopPropertiesPanelWrapper to XLightBreakpointPropertiesPanel  

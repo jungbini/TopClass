@@ -1,0 +1,1 @@
+  Minor: fix test data  dummy.kt was added for Gradle test (it does not start otherwise). Old IC recompiles this file, so new and old IC logs are 

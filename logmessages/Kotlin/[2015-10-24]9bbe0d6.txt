@@ -1,0 +1,1 @@
+  Do not treat directory with copied test sources for js library as source root, as it confuses debugger under certain circumstances. Remove duplicated test.  

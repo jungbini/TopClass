@@ -1,0 +1,1 @@
+  GRADLE-907 - Replaced usage of Ant's JunitTestRunner with our own, to improve error handling and get better access to stdout capturing. - Refactored JUnitTestResult test fixtures - Fixed test class/name detection for early 4.x versions  

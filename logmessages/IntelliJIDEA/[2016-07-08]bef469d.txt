@@ -1,0 +1,1 @@
+  IDEA-158189 Text is flickering when lines overlap vertically  fix mistake  

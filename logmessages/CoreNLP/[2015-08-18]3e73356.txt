@@ -1,0 +1,1 @@
+  learned words in each iter now; removed small bug in loading of patterns  

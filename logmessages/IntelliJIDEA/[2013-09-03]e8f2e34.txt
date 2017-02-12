@@ -1,0 +1,1 @@
+  fixed PY-4120 PyQt: unresolved reference: false positive for new-style sygnals  

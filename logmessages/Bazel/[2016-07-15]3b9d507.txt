@@ -1,0 +1,1 @@
+  Bootstrap Bazel with debug symbols.  This helps a lot when trying to debug Bazel from an IDE.  -- MOS_MIGRATED_REVID=127529499  

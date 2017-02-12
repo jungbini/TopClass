@@ -1,0 +1,1 @@
+  Fix bug in configuration creation logic that wrongly trims notrim configs.  Without this, many Bazel tests fail with --experimental_dynamic_configs=notrim_partial.  -- PiperOrigin-RevId: 140873563 MOS_MIGRATED_REVID=140873563  

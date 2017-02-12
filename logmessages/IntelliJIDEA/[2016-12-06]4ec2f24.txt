@@ -1,0 +1,1 @@
+  Updater: patches for symbolic link fixed. Added more information in updater log file.  

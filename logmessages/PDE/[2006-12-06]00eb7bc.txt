@@ -1,0 +1,1 @@
+  internal naming cleanup, also fix some glitches in textMode(SHAPE)  

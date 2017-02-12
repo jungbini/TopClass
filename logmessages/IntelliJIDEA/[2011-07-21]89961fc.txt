@@ -1,0 +1,1 @@
+  IDEA-72294: XSLT debug: NPE at XDebuggerTreeState.<init>() on attempt to Step Into with certain conditions  

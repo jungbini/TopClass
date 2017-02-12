@@ -1,0 +1,1 @@
+  fix deadlock in ManagingFS initialization (PY-1215)  

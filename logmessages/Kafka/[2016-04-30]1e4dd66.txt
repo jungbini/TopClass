@@ -1,0 +1,1 @@
+  HOTFIX: Fix main classpath libs glob for release (fixup KAFKA-3615 regression)  bin/kafka-run-class.sh does not correctly setup the CLASSPATH in release rc2.  Author: Dana Powers <dana.powers@gmail.com>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1302 from dpkp/KAFKA-3615-fix  

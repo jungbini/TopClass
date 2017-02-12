@@ -1,0 +1,1 @@
+ Merge pull request #2915 from JakubValtar/bugfix-pshape-points  Fixed drawing 2D points to PShape  commit f43046abc21c061b78af8fc8d61da06138fcddd9  OpenGL blending - fixed MULTIPLY  O = D * S now matches Java2D  

@@ -1,0 +1,1 @@
+  ref elements hierarchy fix (IDEADEV-28022)  

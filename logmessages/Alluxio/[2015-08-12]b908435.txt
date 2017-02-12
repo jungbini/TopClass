@@ -1,0 +1,1 @@
+ Merge pull request #1287 from yuzhu/qfix  [SMALLFIX] fix a bug introduced by PR#1238  commit b9084350dafa8aeb79c4cac27c9ed1aa66ee1429  fix a bug introduced by  PR#1238  

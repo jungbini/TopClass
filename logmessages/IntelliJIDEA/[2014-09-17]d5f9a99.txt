@@ -1,0 +1,1 @@
+  IDEA-129486 NPE at com.intellij.xdebugger.impl.ui.tree.nodes.XDebuggerTreeNode.fireNodesRemoved  

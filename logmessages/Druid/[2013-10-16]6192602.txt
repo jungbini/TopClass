@@ -1,0 +1,1 @@
+  fix extensions config not getting picked up in hadoop index task  

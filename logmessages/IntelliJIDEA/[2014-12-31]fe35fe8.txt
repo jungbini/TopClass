@@ -1,0 +1,1 @@
+  IDEA-79413 com.sun.jdi.InternalException: Unexpected JDWP Error: 35 during debugging.  

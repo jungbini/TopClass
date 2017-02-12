@@ -1,0 +1,1 @@
+ Merge pull request #3533 from paolodenti/telegram  [Telegram action] UTF-8 messages bug fix  commit affa6255261ea1fc874d4411725f866482e79e1d  utf-8 extended characters bug fix  

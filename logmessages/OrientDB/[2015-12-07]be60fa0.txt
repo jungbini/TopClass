@@ -1,0 +1,1 @@
+  Fix cluster name clash with class name, when class name suffix is _<number>  

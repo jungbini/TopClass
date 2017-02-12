@@ -1,0 +1,1 @@
+  fix regression with detection of @classmethod and @staticmethod decorators in binary modules (PY-1657)  

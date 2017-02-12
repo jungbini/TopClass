@@ -1,0 +1,1 @@
+  fix assertion / comments / better transformation policy of array of changes / sorted ints into bit set  

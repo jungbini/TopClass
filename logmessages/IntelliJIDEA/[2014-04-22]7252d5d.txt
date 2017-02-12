@@ -1,0 +1,1 @@
+  java-xdebugger: customize thread views action in frames context menu  

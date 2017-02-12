@@ -1,0 +1,1 @@
+  fixed EDU-247 Move Run File and Run Tests for File under one gutter icon  

@@ -1,0 +1,1 @@
+  use the inverse router on redirects instead of hardcoded urls  was breaking with application.context set.  fixes #588  

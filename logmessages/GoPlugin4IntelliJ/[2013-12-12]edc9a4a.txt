@@ -1,0 +1,1 @@
+  Implemented an IsIdentical method on GoPsiTypeFunction  added get parameters and get results  added more test cases  added getPsiType on GoArrayType  added getLength on GoPsiTypeArray  improve the type name generation based on current working file  added the cast to fix  

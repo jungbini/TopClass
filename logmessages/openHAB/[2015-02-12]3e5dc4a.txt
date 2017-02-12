@@ -1,0 +1,1 @@
+ MiOS Tools - Generate Contact Item values using MAP Transform for i18n per Doc (Bugfix)  Also, for DeviceStatus, use a new MAP file (`miosDeviceStatusUI.map`) to map the internal Device Status values into their UI equivalents (under i18n when needed) for display purposes.  

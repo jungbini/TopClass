@@ -1,0 +1,1 @@
+  [vcs-log] fix IllegalArgumentException (invoke later after dispose) and try to prevent another  

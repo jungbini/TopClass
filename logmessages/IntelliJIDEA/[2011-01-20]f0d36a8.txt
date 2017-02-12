@@ -1,0 +1,1 @@
+  Collections.emptyList should accept the qualified prefix  

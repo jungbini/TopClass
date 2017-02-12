@@ -1,0 +1,1 @@
+  Update Jetty version to 6.1.26  It looks like a file locking problem has been fixed in this minor release: - http://dev.jetty.codehaus.narkive.com/rDyeZ8st/jetty-dev-jira-created-jetty-1292-sslsocketconnector-createfactory-leaks-file-handles-when-reading - http://jetty.4.x6.nabble.com/Jetty-release-6-1-26-td45150.html  

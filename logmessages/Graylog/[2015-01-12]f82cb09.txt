@@ -1,0 +1,1 @@
+  resource value class member was using the wrong name, "streams" vs "outputs", breaking the output listing for a stream  fixes #832  

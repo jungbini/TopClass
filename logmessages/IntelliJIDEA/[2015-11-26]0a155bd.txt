@@ -1,0 +1,1 @@
+  fix invalid PSI access in debugger (EA-72005 - assert: EmptySubstitutorImpl.put)  

@@ -1,0 +1,1 @@
+  don't show dependencies in 'add module dependency' fix if they are forbidden by dependency validation rules  

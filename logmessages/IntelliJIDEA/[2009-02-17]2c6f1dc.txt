@@ -1,0 +1,1 @@
+  IDEADEV-34814 ("assignment to method parameter" quickfix produces in bad code)  

@@ -1,0 +1,1 @@
+  Fixed bug that error log messages were not send to System.err. Added StandardOutputCapture to ListenerBroadcast. Moved StandardOutputLogging reset from beginning to the end of a Gradle build.  

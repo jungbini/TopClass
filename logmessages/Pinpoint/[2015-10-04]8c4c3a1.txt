@@ -1,0 +1,1 @@
+  Trace current active requests info. #751  fixed possibility of npe.  

@@ -1,0 +1,1 @@
+  IDEA-89821 fix "is modified" status updating  

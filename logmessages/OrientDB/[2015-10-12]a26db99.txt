@@ -1,0 +1,1 @@
+  fixed dirty database left in thread local in case of error on constructor.  

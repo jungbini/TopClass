@@ -1,0 +1,1 @@
+  IDEA-109053 Convert to single-line string fixed  

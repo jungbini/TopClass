@@ -1,0 +1,1 @@
+  fixed missed fetchplan use in case of projection query, issue #6735  

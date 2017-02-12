@@ -1,0 +1,1 @@
+  some minor fixes on buildSetup plugin after review:  - REVIEW-1975 - update docs to use apilink when refering task types - REVIEW-1995 - fix wrapper version check in BuildSetup integTest - REVIEW-1998 - revert repackaging - REVIEW-2000 - add templates for generated settings.gradle and build.gradle files  

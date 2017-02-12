@@ -1,0 +1,1 @@
+  IDEA-19542 (SVN: Serious bug when renaming file (corrupting working copy))  

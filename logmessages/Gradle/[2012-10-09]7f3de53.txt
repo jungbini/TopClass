@@ -1,0 +1,1 @@
+  GRADLE-850: Add JavaDoc for ConsoleMetaData interface. / Fix debug message formatting  

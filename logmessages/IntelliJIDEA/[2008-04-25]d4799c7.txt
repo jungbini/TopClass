@@ -1,0 +1,1 @@
+  fixed "Probably a bug: eating token without its type checking" errors  

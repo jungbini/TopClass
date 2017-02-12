@@ -1,0 +1,1 @@
+  Updates from PyDev: Fix for #PyDev-662: Celery Cannot Run in Debug Mode.  

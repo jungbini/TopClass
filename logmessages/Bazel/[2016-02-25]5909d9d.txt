@@ -1,0 +1,1 @@
+  Allow outputting the progress of Bazel's build.  Rename run_silent to run and add a global VERBOSE variable that tunes whether the run function prints its output or not.  This is for better debugging possibilities of Bazel's self-build, though compile.sh remains silent as before and only displays the command's output in case of an error.  -- MOS_MIGRATED_REVID=115599355  

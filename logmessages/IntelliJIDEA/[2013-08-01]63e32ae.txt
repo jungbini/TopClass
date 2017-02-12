@@ -1,0 +1,1 @@
+  skip template language elements searching open tag  fixed PY-10448 Chameleon: closing tag and attributes quotes autocompletion doesn't work after tal namespace attribute  

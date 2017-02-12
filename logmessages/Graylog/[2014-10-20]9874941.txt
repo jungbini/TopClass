@@ -1,0 +1,1 @@
+  Mask passwords in output configuration to avoid showing them in web.  This is just a quick & dirty fix. See #742 for a follow up issue.  Fixes #740.  

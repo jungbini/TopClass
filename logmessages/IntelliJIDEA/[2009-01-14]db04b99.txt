@@ -1,0 +1,1 @@
+  concatenation injection performance fixes: cache injection into '+' for every operand  

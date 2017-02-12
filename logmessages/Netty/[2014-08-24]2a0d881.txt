@@ -1,0 +1,1 @@
+  Minimal fix on waiting time in TrafficShaping test  Motivation: Possibly due to very small time (< 100ms), the trafficShaping time might be a bit high in rare condition.  Modification: Remove extra time (only stepms is kept, not minimalms).  Result: Time shall be ok now.  

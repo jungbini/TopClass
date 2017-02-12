@@ -1,0 +1,1 @@
+  don't lift prefix items during smart completion (IDEA-75606)  

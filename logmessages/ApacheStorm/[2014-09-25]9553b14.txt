@@ -1,0 +1,1 @@
+ STORM-428: fixed TridentKafkaTest  * added changelog entry  

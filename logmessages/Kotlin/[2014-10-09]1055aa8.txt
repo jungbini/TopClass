@@ -1,0 +1,1 @@
+  Debugger tests: do not check breakpoint line and file extension for JDK classes  

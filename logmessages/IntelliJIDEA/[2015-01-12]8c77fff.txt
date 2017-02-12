@@ -1,0 +1,1 @@
+  IDEA-121925 Allow to do multiple selections w/wout multiple carets per selection  fixed test failing on Mac  

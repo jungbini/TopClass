@@ -1,0 +1,1 @@
+  refactoring, fix autoclosing (WI-1350) and ambiguous templates in XML  

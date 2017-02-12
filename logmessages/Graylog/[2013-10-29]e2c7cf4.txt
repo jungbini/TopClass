@@ -1,0 +1,1 @@
+  update to play2-graylog2 release 1.0  fixes #341  

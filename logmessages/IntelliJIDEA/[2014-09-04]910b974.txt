@@ -1,0 +1,1 @@
+  IDEA-127739 Navigation Tab Stage 5 NPE fix  

@@ -1,0 +1,1 @@
+  Create selector in new file bug: cannot open dialog for choose directory (WI-52)  

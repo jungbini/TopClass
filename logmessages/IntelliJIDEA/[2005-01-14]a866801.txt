@@ -1,0 +1,1 @@
+  fixed read access allowed assertion  

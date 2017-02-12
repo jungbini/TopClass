@@ -1,0 +1,1 @@
+  HADOOP-5901. FileSystem.fixName() has unexpected behaviour. Contributed by Aaron Kimball.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@890651 13f79535-47bb-0310-9956-ffa450edef68  

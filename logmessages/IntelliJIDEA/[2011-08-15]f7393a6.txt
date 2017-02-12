@@ -1,0 +1,1 @@
+  scopes: support hierarchy of sources dirs when compacted empty dirs are on; fix move|rename when compacted empty dirs are on (IDEA-73169; IDEA-73133)  

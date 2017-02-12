@@ -1,0 +1,1 @@
+  added Remove assignment quick fix for the Assigning function call that doesn't return anything inspection  

@@ -1,0 +1,1 @@
+  Fixed bugs realted to tab switching  

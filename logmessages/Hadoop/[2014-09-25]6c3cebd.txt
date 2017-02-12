@@ -1,0 +1,1 @@
+  MAPREDUCE-6078. native-task: fix gtest build on macosx (Binglin Chang)  

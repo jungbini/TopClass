@@ -1,0 +1,1 @@
+  fixed PY-3420 "Insert documentation string stub" intention should place caret in the docstring fixed PY-3426 Documentation stub for plain text is generated as a string of six quotes.  

@@ -1,0 +1,1 @@
+  IDEA141: Move member to companion object intention is fixed specifically for 141 branch  

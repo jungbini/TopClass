@@ -1,0 +1,1 @@
+  EA-39014 (fix Snappy loading under JRockit)  

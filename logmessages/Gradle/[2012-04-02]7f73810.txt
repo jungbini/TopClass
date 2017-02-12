@@ -1,0 +1,1 @@
+  Temporarily disabled the custom styling of Gradle javadoc, to allow us to release a snapshot version prior to fixing our javadoc css  

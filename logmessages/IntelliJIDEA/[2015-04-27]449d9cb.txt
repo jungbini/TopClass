@@ -1,0 +1,1 @@
+  IDEA-137398 small fix for high resolution  

@@ -1,0 +1,1 @@
+  fix failing tests in StructureTest (avoid returning self when sharing memory)  

@@ -1,0 +1,1 @@
+  [github] IDEA-77851 Create Gist for folders  * If a file is a directory, iterate over its children and add them to the Gist. * Ignore the ones that are ignored or hidden. * Add relative path prefix, to allow files with equal names. * Use "_" instead of "/" for the prefix, because it seems that GitHub API doesn't allow slashed in file names.  

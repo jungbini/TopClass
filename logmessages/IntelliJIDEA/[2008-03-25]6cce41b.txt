@@ -1,0 +1,1 @@
+  editor tabs fixes - NPE on project close  

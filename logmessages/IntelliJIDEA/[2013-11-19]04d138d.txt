@@ -1,0 +1,1 @@
+  fix user completion popup dimensions + add empty border  

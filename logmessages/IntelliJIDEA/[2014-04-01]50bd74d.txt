@@ -1,0 +1,1 @@
+  fixed PY-12545 Override method: generated incorrect super call for local classes  

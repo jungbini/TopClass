@@ -1,0 +1,1 @@
+  fix(server:dialogs): load last message for peers with shared history  

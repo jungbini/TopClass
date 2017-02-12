@@ -1,0 +1,1 @@
+  fixed excessive VFS load and assertion added in tests for accessing VFS outside the project roots  

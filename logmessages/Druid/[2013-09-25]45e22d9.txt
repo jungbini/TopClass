@@ -1,0 +1,1 @@
+ Merge pull request #245 from metamx/s3-retry-fix  Fix S3DataSegmentPuller retry bug  commit 45e22d98f1fb4d95ac3f46ad3c9daeb3ed576700  Fix S3DataSegmentPuller retry bug  

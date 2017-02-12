@@ -1,0 +1,1 @@
+  Make ThrowableConsoleEvent resilient to formatting errors.  Summary: The message and args can come from a very remote location in the code making it hard to debug the problem (as the stack trace doesn't indicate which piece of code is passing the incorrect string).  Test Plan: new test  Reviewed By: aiked  fbshipit-source-id: fe21f33  

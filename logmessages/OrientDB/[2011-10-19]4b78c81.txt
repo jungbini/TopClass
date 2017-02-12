@@ -1,0 +1,1 @@
+  Fixed bug reported by David about SQL INSERT statement with commas inside '  

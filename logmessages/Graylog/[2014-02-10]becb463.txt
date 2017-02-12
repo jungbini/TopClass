@@ -1,0 +1,1 @@
+  clean up default log4j.xml  include log4j-extras to support better rolling file appenders, including size limits  fixes #357  

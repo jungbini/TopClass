@@ -1,0 +1,1 @@
+  move SourceFile fixture into common internal-integ-testing  - allow usage from non native projects  +review REVIEW-5258  

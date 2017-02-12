@@ -1,0 +1,1 @@
+  fix AIOOBE with curves in P3D and OPENGL (Bug #1153)  

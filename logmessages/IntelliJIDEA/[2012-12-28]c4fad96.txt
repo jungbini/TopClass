@@ -1,0 +1,1 @@
+  [git] fix GitExecutableDetectorTest on Windows  * Initialize the PATH with default value on fresh Windows installation instead of using current PATH value which may contain Git and thus affect test results. * Correctly convert the actual detected path using File.separator instead of /. * Correctly convert the PATH to the system dependant style matching the file system.  

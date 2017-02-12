@@ -1,0 +1,1 @@
+  HADOOP-13297. Add missing dependency in setting maven-remote-resource-plugin to fix builds. Contributed by Sean Busbey.  

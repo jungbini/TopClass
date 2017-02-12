@@ -1,0 +1,1 @@
+  HDFS-8084. Move dfs.client.failover.* confs from DFSConfigKeys to HdfsClientConfigKeys.Failover and fix typos in the dfs.http.client.* configuration keys.  

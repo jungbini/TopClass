@@ -1,0 +1,1 @@
+  style+fix(web): change sidebar recent items avatar hover filter, fix dropdown shadow  

@@ -1,0 +1,1 @@
+ Merge pull request #2540 from J-N-K/fix-fritzbox-exception  Fix issue #1845  commit f475b1720e6a4ec3a2f685622e5cb545521c809a  fixed compilation errors  Signed-off-by: Thomas Eichstdt-Engelen <thomas@openhab.org>  

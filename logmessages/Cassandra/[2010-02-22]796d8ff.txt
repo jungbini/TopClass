@@ -1,0 +1,1 @@
+  Fix bug to allow distributed Hadoop jobs. Patch by johan, review by jbellis. CASSANDRA-817  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@912660 13f79535-47bb-0310-9956-ffa450edef68  

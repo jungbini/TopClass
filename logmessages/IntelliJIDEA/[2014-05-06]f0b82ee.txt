@@ -1,0 +1,1 @@
+  java-xdebugger: correctly handle session change  

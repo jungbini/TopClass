@@ -1,0 +1,1 @@
+  "DropFrame" action moved to upper level in debugger  

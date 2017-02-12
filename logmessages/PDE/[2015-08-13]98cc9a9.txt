@@ -1,0 +1,1 @@
+  add extra test case for text layout (fixes #3487)  

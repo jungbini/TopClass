@@ -1,0 +1,1 @@
+  IDEA-80056 Column selection mode improvement  fix 'Select All' action  

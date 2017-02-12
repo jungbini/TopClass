@@ -1,0 +1,1 @@
+  Console: fixed returning of result in case of error  

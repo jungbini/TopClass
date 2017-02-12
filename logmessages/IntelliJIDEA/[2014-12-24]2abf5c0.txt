@@ -1,0 +1,1 @@
+  [git] IDEA-134721 Better detect rebase failures  It can start with e.g. "Cannot fixup".  

@@ -1,0 +1,1 @@
+  fix for clean up session on error, issue #6499  

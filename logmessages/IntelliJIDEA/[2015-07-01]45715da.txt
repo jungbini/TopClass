@@ -1,0 +1,1 @@
+  fixed breakpoints in anonymous classes in decompiled code  

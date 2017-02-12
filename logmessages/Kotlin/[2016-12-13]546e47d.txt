@@ -1,0 +1,1 @@
+  Allow fake overrides and delegates to be impl for header declarations  Also fix a bug with matching supertype lists of header/impl classes  

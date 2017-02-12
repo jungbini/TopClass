@@ -1,0 +1,1 @@
+  don't store text content for binary files (fixes SOE)  

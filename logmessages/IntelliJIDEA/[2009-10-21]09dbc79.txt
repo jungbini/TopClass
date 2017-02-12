@@ -1,0 +1,1 @@
+  absolute paths for external resources -> relative paths + dispose library editors fixes  

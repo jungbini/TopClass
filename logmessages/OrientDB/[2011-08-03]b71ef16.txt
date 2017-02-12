@@ -1,0 +1,1 @@
+  Fixed bugs on remote indexes and collection of links. For optimization the collection wasn't unmarshalled and resoled with temporary rids  

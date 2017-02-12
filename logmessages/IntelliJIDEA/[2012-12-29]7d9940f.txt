@@ -1,0 +1,1 @@
+  fixed PY-3777 ReST: Field lists do not wrap correctly (added formatter)  

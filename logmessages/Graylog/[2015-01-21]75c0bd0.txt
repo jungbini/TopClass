@@ -1,0 +1,1 @@
+  minor fix for timeunit in diagnostic message on start  

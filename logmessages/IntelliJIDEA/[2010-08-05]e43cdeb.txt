@@ -1,0 +1,1 @@
+  correctly fixed not-null instrumentation for enums (IDEA-56943)  

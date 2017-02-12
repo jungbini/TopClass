@@ -1,0 +1,1 @@
+  add java specific debugger settings into common settings node  

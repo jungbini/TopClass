@@ -1,0 +1,1 @@
+  fixed PY-10342 Instance attribute defined outside init: detect functions called in init  

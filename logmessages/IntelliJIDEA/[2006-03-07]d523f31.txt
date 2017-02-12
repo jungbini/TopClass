@@ -1,0 +1,1 @@
+  fixed unescaped & in property key  

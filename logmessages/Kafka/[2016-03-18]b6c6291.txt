@@ -1,0 +1,1 @@
+  KAFKA-3378; Client blocks forever if SocketChannel connects instantly  This is a 

@@ -1,0 +1,1 @@
+ Merge pull request #1075 from metamx/fix-test-timeout  increase test timeouts on DruidClusterBridgeTest  commit bd49528805a122515fedc0b15fc8efc93ed4a700  Merge pull request #1073 from druid-io/fix-statusPath  Fix worker status path announcement with indexer zk config  commit bc1405bee0be0cb451896d816e28644b1a84ccf2  fix worker status path announcement with indexer zk config  

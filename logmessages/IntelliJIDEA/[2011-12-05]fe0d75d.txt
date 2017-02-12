@@ -1,0 +1,1 @@
+  IDEA-77656: XSLT debug: Saxon9: AIOOBE at net.sf.saxon.expr.LocalVariableReference.evaluateVariable() on attempt to evaluate a variable  

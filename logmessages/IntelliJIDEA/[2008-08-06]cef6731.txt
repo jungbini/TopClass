@@ -1,0 +1,1 @@
+  Gsp higlighting fixed grails lib bug fixed  

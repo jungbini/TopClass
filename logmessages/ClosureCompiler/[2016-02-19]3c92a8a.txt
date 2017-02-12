@@ -1,0 +1,1 @@
+  Remove the restriction against let in the PolymerPass (const is still banned).  I suspect we just added this because we had 'isVar' hard-coded in a few places and it was easier to ban let than support it properly. This fixes those places. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=115069761  

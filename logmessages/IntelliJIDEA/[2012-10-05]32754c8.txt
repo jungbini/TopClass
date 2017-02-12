@@ -1,0 +1,1 @@
+  Fix bug where changing projects was adding more instances of the status bar widget.  

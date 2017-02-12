@@ -1,0 +1,1 @@
+  - javasvn updated: no system tmp files are used on DAV update, chunked input stream fixed, DAV status parsing fixed. - paths shouldn't be added to FileGroup twice on update - lock file presence included into SvnVcs status cache key (to update status on cleanup)  

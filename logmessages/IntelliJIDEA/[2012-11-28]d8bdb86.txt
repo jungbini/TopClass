@@ -1,0 +1,1 @@
+  fixed PY-8126 Change Signature: do not propose to change signature for base method if base class is a built-in class  

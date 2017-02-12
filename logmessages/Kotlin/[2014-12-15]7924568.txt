@@ -1,0 +1,1 @@
+  Added test for KT-6454 Obsolete class-files for lambdas aren't removed from output when 'inline' annotation is added to function.  The bug is reproducible only for non-incremental compilation mode, which will be deprecated soon.  #KT-6454 can't reproduce  

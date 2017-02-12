@@ -1,0 +1,1 @@
+  HDFS-7423. various typos and message formatting fixes in nfs daemon and doc. (Charles Lamb via yliu)  

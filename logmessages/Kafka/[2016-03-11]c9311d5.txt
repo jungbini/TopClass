@@ -1,0 +1,1 @@
+  KAFKA-3047: Explicit offset assignment in Log.append can corrupt the log  This fix was suggested by Maciek Makowski, who also reported the problem.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #1029 from ijuma/KAFKA-3047-log-append-can-corrupt-the-log  

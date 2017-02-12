@@ -1,0 +1,1 @@
+  Backprop optimizer fixes, change handling of step functions; fix OutputLayer delta calc.  

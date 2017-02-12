@@ -1,0 +1,1 @@
+  Add a possible fix for a bug reported where coref can't handle mistokenized text if the parser isn't included  

@@ -1,0 +1,1 @@
+  SVN nested copies fix (encode filename when construct url step by step)  

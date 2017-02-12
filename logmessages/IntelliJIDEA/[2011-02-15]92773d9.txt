@@ -1,0 +1,1 @@
+  fixed testrunner problem from the forum. (Running unittests and doctests under Django)  

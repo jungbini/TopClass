@@ -1,0 +1,1 @@
+  junit: module not configured message fixed  

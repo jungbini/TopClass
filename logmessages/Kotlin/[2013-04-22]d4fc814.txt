@@ -1,0 +1,1 @@
+  Quickfix for NOTHING_TO_OVERRIDE: add function to one of supertypes.  

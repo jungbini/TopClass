@@ -1,0 +1,1 @@
+ Change property prefix to "GRAYLOG_" (environment) and "graylog." (system properties)  

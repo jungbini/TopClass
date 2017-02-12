@@ -1,0 +1,1 @@
+  MINOR: add list_topics command to help debug tests  Author: Xavier Laut <xavier@confluent.io>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #2052 from xvrl/test-add-list-topics  

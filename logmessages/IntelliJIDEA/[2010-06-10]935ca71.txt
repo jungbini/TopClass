@@ -1,0 +1,1 @@
+  Implicit namespace prefix usage provider (for IDEA-16334)  

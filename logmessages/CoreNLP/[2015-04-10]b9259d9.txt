@@ -1,0 +1,1 @@
+  1. Standardized "removing nested mention" as an internal option in CorefProperties. 2. Chinese Coref null pointer fixes applied for use in the pipeline. 3. Preliminary Chinese coref pipeline performance testing in HybridCorefAnnotator  

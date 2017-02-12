@@ -1,0 +1,1 @@
+  HADOOP-10168. fix javadoc of ReflectionUtils#copy. Contributed by Thejas Nair.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1551646 13f79535-47bb-0310-9956-ffa450edef68  

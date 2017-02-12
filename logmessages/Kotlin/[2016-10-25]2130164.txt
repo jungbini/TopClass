@@ -1,0 +1,1 @@
+  EXTERNAL_DECLARATION_CANNOT_BE_ABSTRACT is now reported on property if accessor is external #KT-9297 Fixed  Also fixes EA-89227  

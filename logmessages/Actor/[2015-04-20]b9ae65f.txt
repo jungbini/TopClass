@@ -1,0 +1,1 @@
+  fix(rpc): catch exception while handling rpc request  

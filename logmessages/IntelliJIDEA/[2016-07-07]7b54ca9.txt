@@ -1,0 +1,1 @@
+  new T[0] -> T.EMPTY_ARRAY_FIELD inspection and quick fix  

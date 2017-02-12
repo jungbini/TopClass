@@ -1,0 +1,1 @@
+  HOTFIX: fix compilation error due to merge of KAFKA-3812  Merge of KAFKA-3812 caused a compilation error in StreamThreadStateStoreProviderTest  Author: Damian Guy <damian.guy@gmail.com>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #1641 from dguy/fix-compile-error  

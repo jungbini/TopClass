@@ -1,0 +1,1 @@
+  fix plugin name in not-loaded message (IDEA-76284 )  

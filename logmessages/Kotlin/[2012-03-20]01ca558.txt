@@ -1,0 +1,1 @@
+  re-enabled some more tests for check; still need KT-1540 fixed to be able to use the assert function though  

@@ -1,0 +1,1 @@
+restore pre-CASSANDRA-3862 approach to removing expired tombstones during compaction  

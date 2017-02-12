@@ -1,0 +1,1 @@
+  fixed leaked editors + new test + cleanup  

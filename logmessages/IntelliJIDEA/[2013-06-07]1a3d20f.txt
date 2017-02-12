@@ -1,0 +1,1 @@
+  allow XDebugProcess instance to customize 'Debug' toolwindow layout  

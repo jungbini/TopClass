@@ -1,0 +1,1 @@
+value can overflow the byte/short/char limits. This fixes Android tests  

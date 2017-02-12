@@ -1,0 +1,1 @@
+  Added synchronization statements in OStorageLocal.addCluster() to fix a concurrency problem on db open + index rebuild  

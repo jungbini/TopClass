@@ -1,0 +1,1 @@
+  IDEA-137708 (Missing generic parameter after quick fix for inspection "Call to 'Arrays.asList()' with too few argument")  

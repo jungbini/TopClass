@@ -1,0 +1,1 @@
+  fixed PY-7699 Wrongly reported missed call to superclass constructor using prefixed/embedded class  

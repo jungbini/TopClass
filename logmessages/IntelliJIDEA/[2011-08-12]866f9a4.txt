@@ -1,0 +1,1 @@
+  Fixed bug in arguments order for reversed Python operators, added type annotations for them  

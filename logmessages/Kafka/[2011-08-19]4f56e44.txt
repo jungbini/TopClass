@@ -1,0 +1,1 @@
+  ByteBufferMessageSet iterator bug returning incorrect offsets after reading a compressed empty message set KAFKA-111; patched by Jun; reviewed by Neha  git-svn-id: https://svn.apache.org/repos/asf/incubator/kafka/trunk@1159466 13f79535-47bb-0310-9956-ffa450edef68  

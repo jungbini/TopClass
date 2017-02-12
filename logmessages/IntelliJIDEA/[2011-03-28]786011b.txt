@@ -1,0 +1,1 @@
+  Output handling for python console reworked. A try to fix messed up console output (PY-2113).  

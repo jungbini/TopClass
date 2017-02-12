@@ -1,0 +1,1 @@
+  Fixed a bug when CxxLibrary's exportedHeaders weren't handled at all, resulting not importable headers.  Summary: Fixed a bug when CxxLibrary's exportedHeaders weren't handled at all, resulting not importable headers.  Test Plan: Generate CxxLibrary Xcode project and make sure app builds, headers are accessible for import <>  

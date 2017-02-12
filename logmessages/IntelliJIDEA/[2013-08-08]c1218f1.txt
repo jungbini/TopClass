@@ -1,0 +1,1 @@
+  Github: fix issue with enterprise server (406: Not Acceptable)  

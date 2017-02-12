@@ -1,0 +1,1 @@
+  IDEADEV-20150 fixed (Import into Subversion: cancel in file chooser should better do not close import dialog)  

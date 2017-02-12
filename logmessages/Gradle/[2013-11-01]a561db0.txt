@@ -1,0 +1,1 @@
+ Close the incremental compile cache after using  - This is a quick hack fix to get the parallel build passing  

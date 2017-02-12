@@ -1,0 +1,1 @@
+  fixed issue with entering end tag for html / xhtml/ jspx files  

@@ -1,0 +1,1 @@
+  fixed PY-12251 Project Interpreters: Create virtualenv from settings doesn't update warnigns about python package management tools  

@@ -1,0 +1,1 @@
+  Maven: npe in data provider fixed (EA-24906)  

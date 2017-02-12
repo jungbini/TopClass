@@ -1,0 +1,1 @@
+  WatchmanWatcher: fix glob specification in query  Summary: A couple changes: - Include dot files in the ignore globs. - Match the glob against the entire path.  Test Plan: Added an intergration test to test the interaction between watchman and `WatchmanWatcher` and added tests for these specific cases.  Reviewed By: asp2insp  fbshipit-source-id: 85a79e7  

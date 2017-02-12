@@ -1,0 +1,1 @@
+  IDEA-128069 (Simplifiable annotation inspection fix doesn't work on nested problems)  

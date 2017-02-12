@@ -1,0 +1,1 @@
+  Mantis connector.Serialization fix, retrieving comments and correct extractID method.  

@@ -1,0 +1,1 @@
+  don't use deprecated ctor RunContentBuilder  remove deprecated method setExecutionResult  deprecated since 01.03.2013, so, could be removed  don't write code twice  extract RunTab, so, we don't use incorrect RestartAction anymore old java debugger tab is not modified  his destiny will be discussed later  

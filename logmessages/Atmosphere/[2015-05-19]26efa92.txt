@@ -1,0 +1,1 @@
+  analogue fix in 2.2.x for #1978  

@@ -1,0 +1,1 @@
+  for search-link'able fields, allow overriding the operator  e.g. in the sources list it makes no sense to say "source1 AND source2" as that will never match anything, there it needs to be OR the default is still AND  think about being able to toggle this (although we are quickly running out of modifiers)  fixes #573  

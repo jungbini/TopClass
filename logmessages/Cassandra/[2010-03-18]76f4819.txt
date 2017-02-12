@@ -1,0 +1,1 @@
+  fix merging row versions in range_slice for CL > ONE.  patch by Omer van der Horst Jansen and jbellis for CASSANDRA-884  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.6@924883 13f79535-47bb-0310-9956-ffa450edef68  

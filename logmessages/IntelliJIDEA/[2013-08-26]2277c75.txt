@@ -1,0 +1,1 @@
+  fixed PY-7591 Unclear naming for unittest run configurations  

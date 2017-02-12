@@ -1,0 +1,1 @@
+  daemon hygiene - fixed user guide integ tests  Improved the fixture code so that it excludes daemon health information.  

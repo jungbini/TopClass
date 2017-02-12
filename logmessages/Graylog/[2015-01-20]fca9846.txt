@@ -1,0 +1,1 @@
+  make radio broker amqp connect timeout configurable  add the new lower default value of 5s to the sample config file  fixes #900  

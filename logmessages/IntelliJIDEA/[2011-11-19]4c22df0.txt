@@ -1,0 +1,1 @@
+  IDEA-76866 (fix debugger tabs background on Nimbus)  

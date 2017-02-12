@@ -1,0 +1,1 @@
+  fixed downloading libraries for parent framework when sub-framework is selected  

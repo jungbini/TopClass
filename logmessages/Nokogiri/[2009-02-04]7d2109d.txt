@@ -1,0 +1,1 @@
+  adding require 'nokogiri/syntax_error' to all of the inherited SyntaxError files. this fixes the problem where requiring in 'nokogiri/css', etc. alone would raise an error saying that Nokogiri::SyntaxError is undefined.  

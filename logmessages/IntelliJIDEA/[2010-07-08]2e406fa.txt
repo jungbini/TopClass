@@ -1,0 +1,1 @@
+  copletion in case of null in dataflow now works, also fixed case with isinstance with tuple (PY-1133)  

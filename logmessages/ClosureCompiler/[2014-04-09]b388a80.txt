@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE] Struct/dict inheritance.  - Enforce inheritance warnings for structs and dicts - Seal struct instances. - Bugfix: consistently add prototype property to functions that aren't constructors. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=64601118  

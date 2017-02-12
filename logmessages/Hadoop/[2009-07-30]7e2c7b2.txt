@@ -1,0 +1,1 @@
+  HDFS-119. Fix a bug in logSync(), which causes NameNode block forever. Contributed by Suresh Srinivas.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hdfs/trunk@799461 13f79535-47bb-0310-9956-ffa450edef68  

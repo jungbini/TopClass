@@ -1,0 +1,1 @@
+  fixed PY-17110 Provide a way to import project files into an IPython Notebook  

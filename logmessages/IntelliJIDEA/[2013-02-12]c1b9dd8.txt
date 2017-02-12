@@ -1,0 +1,1 @@
+  Subversion: format 1.6, force-VFS-refresh for .svn and .svn/entries can be done asynchronously, just the fact of refresh is important (to make entries changes be visible for VFS listener)  - fix hunging tests  

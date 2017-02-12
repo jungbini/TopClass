@@ -1,0 +1,1 @@
+  fixed GRADLE-1092 and GRADLE-1416: IDEA/Eclipse Plugin doesn't honor excluded dependencies  basically we now compute the class path(s) by resolving the existing configurations rather than assembling and resolving a detached configuration; as a result, per-configuration excludes are now handled correctly. (Per-dependency excludes were already handled correctly before.)  

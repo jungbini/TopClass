@@ -1,0 +1,1 @@
+  fix for race condition in replacing stubs wirh actions (IDEADEV-39039)  

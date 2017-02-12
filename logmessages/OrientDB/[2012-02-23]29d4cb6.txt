@@ -1,0 +1,1 @@
+  Fixed bug on String splits. Also fix for issue 706  

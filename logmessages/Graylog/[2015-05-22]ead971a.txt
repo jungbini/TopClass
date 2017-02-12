@@ -1,0 +1,1 @@
+  Use z-index 0 on modal-backdrops  This fixes the backdrops on IE9 and seems to still work on all other browsers. Fixes #1319  

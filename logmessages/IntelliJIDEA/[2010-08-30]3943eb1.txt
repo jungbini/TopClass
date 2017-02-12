@@ -1,0 +1,1 @@
+  A fix for Groovy formatter tests (using getField() instead of getDeclaredField() from CodeStyleSettings).  

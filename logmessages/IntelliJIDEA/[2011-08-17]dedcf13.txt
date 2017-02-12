@@ -1,0 +1,1 @@
+  Fixed bug in type evaluation for Python references inside isinstance checks  

@@ -1,0 +1,1 @@
+  Add run options back to contextual menu (fixes #368 part 2)  

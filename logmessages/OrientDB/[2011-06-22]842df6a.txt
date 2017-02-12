@@ -1,0 +1,1 @@
+  Patch by Luca Molino to fix a bug on SQL query range  

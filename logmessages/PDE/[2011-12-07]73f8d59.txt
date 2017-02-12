@@ -1,0 +1,1 @@
+  bug fixes inside Table as they relate to inserting/adding columns  

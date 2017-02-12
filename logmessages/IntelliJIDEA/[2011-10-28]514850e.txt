@@ -1,0 +1,1 @@
+  EA-30952 - assert: EditorUtil.calcColumnNumber  Debug info is added  

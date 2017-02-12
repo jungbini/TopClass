@@ -1,0 +1,1 @@
+utput fix, when paragraph result contains "carriage return" or "line feed".  

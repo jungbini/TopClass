@@ -1,0 +1,1 @@
+  fix Code Fragment Evaluation dialog: list of recent items reversed (IDEADEV-17504)  

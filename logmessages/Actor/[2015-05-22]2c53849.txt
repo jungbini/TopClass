@@ -1,0 +1,1 @@
+  fix(android): Fixing ViewAvatarActivity crash on empty avatar  

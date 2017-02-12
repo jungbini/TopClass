@@ -1,0 +1,1 @@
+  Explicitly set classpath (attempt to fix Windows test)  Story: gradle/langos#153  

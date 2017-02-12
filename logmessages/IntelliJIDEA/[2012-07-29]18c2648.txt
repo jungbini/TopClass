@@ -1,0 +1,1 @@
+  [git] Git.show: fix implementation (don't forget to add params), let add any number of params.  

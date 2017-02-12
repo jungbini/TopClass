@@ -1,0 +1,1 @@
+  let's keep only elements with same name in sync + add AS to supported languages #WEB-15556 fixed  

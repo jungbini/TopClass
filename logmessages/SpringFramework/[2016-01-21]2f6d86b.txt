@@ -1,0 +1,1 @@
+sources lookup are prefixed with the cached servlet and context path. This underlines the fact that the `ResourceUrlEncodingFilter` does not support relative URLs for now and delegates to the native servlet implementation in that case.  Issue: SPR-13861  

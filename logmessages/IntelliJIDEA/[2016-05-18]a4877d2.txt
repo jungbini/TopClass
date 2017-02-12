@@ -1,0 +1,1 @@
+  review follow-up: IDEA-CR-10698: fix recompile on resource files  

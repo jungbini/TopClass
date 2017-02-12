@@ -1,0 +1,1 @@
+  detect remote debugger connections (internal mode only)  

@@ -1,0 +1,1 @@
+  Hpricot-mode now tries to autodetect document type for XML or HTML. added explicit Nokogiri::Hpricot.HTML() to override the detection heuristic. fixed tests that had ambiguous document snippets.  

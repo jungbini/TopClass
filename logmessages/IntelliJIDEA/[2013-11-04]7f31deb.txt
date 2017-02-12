@@ -1,0 +1,1 @@
+  [log] Don't collect huge log.error attachments unless on debug level  

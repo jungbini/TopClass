@@ -1,0 +1,1 @@
+  GraphDatabaseSuperNodeSpeedTest compilation problem was fixed.  

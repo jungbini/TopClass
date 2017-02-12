@@ -1,0 +1,1 @@
+  Fixed bug on cascading save of documents: before now they hasn't saved in right cluster but the default one  

@@ -1,0 +1,1 @@
+  Roll forward fix of global var shadow detection  RELNOTES[INC]: Skylark: It is an error to shadow a global variable with a local variable after the global has already been accessed in the function.  -- MOS_MIGRATED_REVID=130014492  

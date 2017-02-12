@@ -1,0 +1,1 @@
+  Easy: Upgrade nuprocess to 1.0.5  Summary: This upgrades the NuProcess third-party library to the latest 1.0.5 snapshot, which pulls in a few important fixes I made to Win32 process escaping.  Test Plan: `git grep nuprocess-1.0.4`; CI  

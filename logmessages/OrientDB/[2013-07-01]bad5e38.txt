@@ -1,0 +1,1 @@
+  Waiting for ehcache integration I removed the infinite usage of cache but fixed to 1k and 10k objects for L1 and L2 respectively  

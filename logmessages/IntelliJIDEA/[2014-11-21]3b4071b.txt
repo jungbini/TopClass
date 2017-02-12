@@ -1,0 +1,1 @@
+  reuse settings from filetype when possible #WEB-14236 fixed  

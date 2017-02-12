@@ -1,0 +1,1 @@
+  fix: DeepWalk package renamed to deepwalk  

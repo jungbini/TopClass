@@ -1,0 +1,1 @@
+  fixed updating resource in running app server when more than one artifact is changed  

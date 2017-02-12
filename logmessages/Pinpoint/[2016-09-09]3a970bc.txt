@@ -1,0 +1,1 @@
+ bug fix. - do not change agent-info display when change application in inspector page.  

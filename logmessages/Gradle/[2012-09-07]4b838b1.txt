@@ -1,0 +1,1 @@
+  Minor fixes to the javadoc of the public types of the ResolutionResult.  

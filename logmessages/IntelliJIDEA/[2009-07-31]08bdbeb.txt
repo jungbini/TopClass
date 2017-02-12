@@ -1,0 +1,1 @@
+  Maven: fixed the problem with nexus library (using settings.xml) + new library bundled  

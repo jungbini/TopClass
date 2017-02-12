@@ -1,0 +1,1 @@
+  Fixed bug on query without parameters (serialised as null instead of empty map)  

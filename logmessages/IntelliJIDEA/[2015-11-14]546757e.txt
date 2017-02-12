@@ -1,0 +1,1 @@
+  IDEA-147815 Source root folders and 'Mark as' actions are labeled grammatically incorrect in the project view: action names fixed + generated sources are correctly labeled in the project view  

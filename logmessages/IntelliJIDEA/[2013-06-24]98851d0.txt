@@ -1,0 +1,1 @@
+  fixed PY-10077 Web2Py: disable ineffective statement inspection for language files  

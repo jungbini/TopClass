@@ -1,0 +1,1 @@
+  feat+fix(web): use new methods for sendByEnter preference, fix some styles, remove material-ui from preferences modal  

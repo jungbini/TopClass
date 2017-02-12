@@ -1,0 +1,1 @@
+  support record attributes as json field names  To insert embedded objects via json, allowing field names beginning with @ is fundamental. This fix supports this in the new parser  Resolves: #4804  

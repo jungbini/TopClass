@@ -1,0 +1,1 @@
+  support for |e and |c zen-coding filters, "|xsl" suffix should be filter but not generator  

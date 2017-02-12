@@ -1,0 +1,1 @@
+  fix(server): fixed empty dialogs which appear on other side if user reads Contact Registered service message  

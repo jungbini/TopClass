@@ -1,0 +1,1 @@
+  add some debug logging to the rexster extension.  

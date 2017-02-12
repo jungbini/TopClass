@@ -1,0 +1,1 @@
+  Always use the debug log when running determinism checks. (It is a prerequisite). ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=65460619  

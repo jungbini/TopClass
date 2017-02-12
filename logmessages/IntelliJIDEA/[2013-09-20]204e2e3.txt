@@ -1,0 +1,1 @@
+  fixed PY-7713 PyCharm asks me to convert set literals back and forth  

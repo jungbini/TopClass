@@ -1,0 +1,1 @@
+  fixed embedded map in case of CSV serializer. issue #1161  

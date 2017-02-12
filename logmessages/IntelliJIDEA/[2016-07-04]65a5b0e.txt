@@ -1,0 +1,1 @@
+  Java intention: Quick fix for error "foreach not applicable to type java.util.Iterator" - handle comments and take care of empty block when copying the loop body (IDEA-124751)  

@@ -1,0 +1,1 @@
+  fix(core): handle userCanInvite group admin settings  

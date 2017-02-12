@@ -1,0 +1,1 @@
+  fixed vertical scrolling speed in debugger variables view  

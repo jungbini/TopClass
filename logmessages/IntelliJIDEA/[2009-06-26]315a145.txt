@@ -1,0 +1,1 @@
+  SpellChecker plugin: fix ArrayIndexOutOfBoundsExceptio in splitWord method; add warning for a word in capital letters near delimiter, make spelling more consistent (IDEADEV-36931)  

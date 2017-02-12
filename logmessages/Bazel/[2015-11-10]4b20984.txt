@@ -1,0 +1,1 @@
+  Replaced smart quotes with plain quotes.  Also added missing blank line before code region to fix Dockerfile formatting on the web site.  -- Reviewed-on: https://github.com/bazelbuild/bazel/pull/570 MOS_MIGRATED_REVID=107470895  

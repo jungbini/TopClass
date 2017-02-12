@@ -1,0 +1,1 @@
+  fix static setter creation (IDEADEV-24404)  

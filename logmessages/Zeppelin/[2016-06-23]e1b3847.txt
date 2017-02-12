@@ -1,0 +1,1 @@
+t consistently 1eb7fe4 [Hao Xia] Reuse the table when possible 5bd9502 [Hao Xia] Fix selection problem on second run by properly destroying hot. Also make cells readonly. Previously one were able to paste into them.  

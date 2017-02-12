@@ -1,0 +1,1 @@
+  fix trunk/hadoop-common CHANGES.TXT to be the reference across trunk & branch-2  

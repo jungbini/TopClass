@@ -1,0 +1,1 @@
+  more work on the quickfilter. ES does not break anymore with empty indexes due to correct mapping from server and a fixed nil bug  

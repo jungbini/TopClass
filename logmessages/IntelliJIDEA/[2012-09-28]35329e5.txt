@@ -1,0 +1,1 @@
+  fix wrong screen detection on ubuntu 12.04  

@@ -1,0 +1,1 @@
+  use info about breakpoint's function for debugger performance improvement  

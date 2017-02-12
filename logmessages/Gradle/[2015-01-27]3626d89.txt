@@ -1,0 +1,1 @@
+  add integ test coverage for ivy s3 repos  - rework s3 test fixtures - S3StubServer now implements RepositoryServer - fix s3 directory listing fixture - minor cleanup on MavenS3RepoErrorsIntegrationTest  +review REVIEW-5361  

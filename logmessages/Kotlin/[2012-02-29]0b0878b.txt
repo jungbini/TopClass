@@ -1,0 +1,1 @@
+  Finishing the fix for KT-1310  

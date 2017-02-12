@@ -1,0 +1,1 @@
+  fix(web): disable appcache manifest generation and disable track web sockets by pace.  

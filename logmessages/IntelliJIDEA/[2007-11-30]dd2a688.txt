@@ -1,0 +1,1 @@
+  Plists fixed to have bundle identifier (IDEADEV-23629)  

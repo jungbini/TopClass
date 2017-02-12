@@ -1,0 +1,1 @@
+  Fix an infinite loop bug in @record handling ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=101501969  

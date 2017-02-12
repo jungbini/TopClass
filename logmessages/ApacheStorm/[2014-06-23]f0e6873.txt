@@ -1,0 +1,1 @@
+  Add color span to most recent error and fix ui templates.  

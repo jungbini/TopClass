@@ -1,0 +1,1 @@
+  Fixed progress logging test fixture for changes to class names.  

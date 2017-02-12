@@ -1,0 +1,1 @@
+  Revert usage of fat/relocated Gradle API/TestKit  Requires additional fixing of existing test cases that are now impacted.  +review REVIEW-5867  

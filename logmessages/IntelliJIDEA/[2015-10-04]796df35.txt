@@ -1,0 +1,1 @@
+  IDEA-145771 Mac OS: Default L&F: Run/Debug Configurations combobox doesn't fit toolbar's height  

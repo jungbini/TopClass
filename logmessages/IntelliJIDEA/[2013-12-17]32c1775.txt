@@ -1,0 +1,1 @@
+  fixed PY-11588 "Instance attribute %s defined outside __init__" in static method  

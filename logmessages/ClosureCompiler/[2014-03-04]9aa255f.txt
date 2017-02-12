@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE]  Fix bugs uncovered by the ported TypeCheck tests. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=62544286  

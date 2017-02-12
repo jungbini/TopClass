@@ -1,0 +1,1 @@
+  Merge -c 1306736 from trunk to branch-2 to fix MAPREDUCE-3377. Added a unit test to ensure OutputCommitter.checkOutputSpecs is called prior to copying job.xml.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1306737 13f79535-47bb-0310-9956-ffa450edef68  

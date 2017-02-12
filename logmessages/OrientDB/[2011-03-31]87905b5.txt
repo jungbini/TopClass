@@ -1,0 +1,1 @@
+  Contribution by Luca Molino to fix issue 286 about GZipped import/export  

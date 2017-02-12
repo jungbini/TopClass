@@ -1,0 +1,1 @@
+  fix declaration of Pipe variable  While at it fix a typo of "receive" and fix some other documentation comments.  -- Change-Id: Ifb7df972200627730114d6cf751033c0d5e3bc46 Reviewed-on: https://cr.bazel.build/7710 PiperOrigin-RevId: 142015037 MOS_MIGRATED_REVID=142015037  

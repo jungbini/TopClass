@@ -1,0 +1,1 @@
+  Revise JetStructureViewElement  - remove 'my' prefix - inline ItemPresentation - use descriptor renderer instead of custom one  

@@ -1,0 +1,1 @@
+  Fix scripts/packages/convert_changelog to read the changelog correctly  Partial fix of #2256 To cherry-pick for #2246  -- Change-Id: Ib25cc1dd85fd4af59b36eb2ac215ebd31d4d9eaa Reviewed-on: https://cr.bazel.build/7975 PiperOrigin-RevId: 142262764 MOS_MIGRATED_REVID=142262764  

@@ -1,0 +1,1 @@
+  Introduce underscore as value inspection (fixes #2257)  

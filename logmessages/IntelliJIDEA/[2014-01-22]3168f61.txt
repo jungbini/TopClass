@@ -1,0 +1,1 @@
+  IDEA-88390 Object variables could be casted to any class in Evaluation window  extra fix  

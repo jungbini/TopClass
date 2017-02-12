@@ -1,0 +1,1 @@
+  Java inspection: In "Remove Braces" inspection handle the case where if/loop body contains another if/loop in a code block, and the quick fix is invoked at the closing brace of the code block. Tests added. (IDEA-157727)  

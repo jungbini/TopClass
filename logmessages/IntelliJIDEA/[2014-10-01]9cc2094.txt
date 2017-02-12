@@ -1,0 +1,1 @@
+  NPE fixed: if selected rows were deleted, then Tree.getSelectionRows will be null  

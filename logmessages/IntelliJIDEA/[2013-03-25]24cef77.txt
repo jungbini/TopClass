@@ -1,0 +1,1 @@
+  fixed PY-9264 Unify naming for inspections related to class constructors  

@@ -1,0 +1,1 @@
+  Further attempts to speed up inference by adding dummy variables to the solver and fixing constraints accordingly  

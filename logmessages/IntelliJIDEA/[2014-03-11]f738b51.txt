@@ -1,0 +1,1 @@
+ diamonds: incompatible error due to cls class in default package fixed - cls file doesn't process declarations! = need to switch to mirror (IDEA-121866)  (cherry picked from commit 94d5c96730900e0f21cc3bd48143f2dea4411ae6)  

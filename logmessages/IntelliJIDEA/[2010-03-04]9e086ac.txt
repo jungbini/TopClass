@@ -1,0 +1,1 @@
+  extract class: field initializers fixed (IDEA-52622)  

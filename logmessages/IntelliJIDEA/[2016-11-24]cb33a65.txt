@@ -1,0 +1,1 @@
+  IG: no need to prepare current file for writing, start fixes in own write actions where necessary  

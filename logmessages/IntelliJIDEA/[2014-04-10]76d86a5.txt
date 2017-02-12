@@ -1,0 +1,1 @@
+  initial WEB-4369 Support 'Jump to source' in JavaScript debuggers for object properties  

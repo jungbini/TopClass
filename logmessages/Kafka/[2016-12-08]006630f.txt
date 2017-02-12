@@ -1,0 +1,1 @@
+  MINOR: Fix metric collection NPE during shutdown  Collecting socket server metrics during shutdown may throw NullPointerException  Author: Xavier Laut <xavier@confluent.io>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #2221 from xvrl/fix-metrics-npe-on-shutdown  

@@ -1,0 +1,1 @@
+  Correct handle PING frames by echo back the payload as PONG frames.  This is defined in RFC 6455 Section 5.5.2. See https://bugs.eclipse.org/bugs/show_bug.cgi?id=414744  

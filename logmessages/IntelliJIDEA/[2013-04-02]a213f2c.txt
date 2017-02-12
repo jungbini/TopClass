@@ -1,0 +1,1 @@
+  fix: Restore two fullscreen project on startup (Mac OS)  

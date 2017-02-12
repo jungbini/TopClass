@@ -1,0 +1,1 @@
+ Merge pull request #3246 from druciak/zwave-database_updates  [zwave] Qubino ZMNHDA database fix.  commit ce24b97bc3bb69c8c1e374f2c35b99609bafb747  [zwave] Qubino ZMNHDA database fix.  

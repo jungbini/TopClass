@@ -1,0 +1,1 @@
+  focus issues with undocked debug toolwindow  

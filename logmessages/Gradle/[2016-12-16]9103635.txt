@@ -1,0 +1,1 @@
+  Java compile task outcome is UP-TO-DATE when no recompilation necessary  The fix is only in RecompilationNotNecessary, other changes are test coverage.  See #1024  

@@ -1,0 +1,1 @@
+  Making function args final for isRoot and addFolderSuffixIfNotPresent  

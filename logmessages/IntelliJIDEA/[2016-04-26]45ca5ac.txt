@@ -1,0 +1,1 @@
+  inspection tool window: do not show huge right panel when fix is applying  

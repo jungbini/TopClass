@@ -1,0 +1,1 @@
+  fix starting up on Windows when CASSANDRA_HOME contains whitespace patch by Norman Maurer; reviewed by jbellis for CASSANDRA-2237  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1074276 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  change MIN_SANE_LIVE_RATIO logging to debug patch by jbellis for CASSANDRA-5377  

@@ -1,0 +1,1 @@
+  HBASE-3290 fix #2. Fixes bugs found with major compaction logic for threshold files & major compaction jitter generation encountered during testing.  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1050532 13f79535-47bb-0310-9956-ffa450edef68  

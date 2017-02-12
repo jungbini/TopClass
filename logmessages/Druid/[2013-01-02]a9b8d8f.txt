@@ -1,0 +1,1 @@
+ fix end of month bug in PeriodDropRule as well  

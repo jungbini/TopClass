@@ -1,0 +1,1 @@
+  [buck] fix audit owner  Summary: the command currently fails with a runtime exception when there's no BUCK file in a parent directory. Add the file to the set of files with no owners instead.  Test Plan: ##buck audit owner .buckconfig## ##buck test --all##  

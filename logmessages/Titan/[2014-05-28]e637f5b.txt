@@ -1,0 +1,1 @@
+  Unify and shorten BDB test names  Replacing the prefixes "BerkleyJe", "BerkeleyJE", "BerkeleyDB", and "BerkeleyDBje" in test names with "Berkeley".  

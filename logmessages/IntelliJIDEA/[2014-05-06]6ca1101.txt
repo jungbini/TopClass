@@ -1,0 +1,1 @@
+  fixed PY-12786 Python Interpreters: extra space in configuration popup from project creation dialog  

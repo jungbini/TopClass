@@ -1,0 +1,1 @@
+  USELESS_ELVIS_RIGHT_IS_NULL : build fix (add to 

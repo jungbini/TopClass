@@ -1,0 +1,1 @@
+  :grumpy: max-height and scrolling, how hard can it be  fixes #1282  

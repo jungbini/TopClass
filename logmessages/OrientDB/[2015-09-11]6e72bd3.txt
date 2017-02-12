@@ -1,0 +1,1 @@
+ fix dependency on sun.misc that prevents deployment in eclipse  by making the import on sun.misc optional, the orientdb-tools may be used in eclipse without dependency problems.  

@@ -1,0 +1,1 @@
+  status bar widget fix for the uninitialized widget error  

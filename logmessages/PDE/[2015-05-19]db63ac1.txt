@@ -1,0 +1,1 @@
+  seems to be fixing some redraw problems  

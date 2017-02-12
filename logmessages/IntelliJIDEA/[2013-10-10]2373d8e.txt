@@ -1,0 +1,1 @@
+mits" (latest ones) in a separate map to make it always available even if DataGetter's cache overflows.  * Remember top N commits in LogData for two reasons: - to correctly determine the size of the log to be built into DataPack (to make sure that user gets only new commits after refresh, without hiding older ones). - to make them available for future filters implementation.  

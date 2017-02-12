@@ -1,0 +1,1 @@
+  impr(ios): group info change vatar fix(ios): contacts/settings table view insets  

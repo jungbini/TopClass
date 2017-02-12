@@ -1,0 +1,1 @@
+  null reference to debugger session on dispose  

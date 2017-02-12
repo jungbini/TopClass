@@ -1,0 +1,1 @@
+  Smart completion: fixed addition of tail chars after true, false and null  

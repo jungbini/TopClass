@@ -1,0 +1,1 @@
+  added remove argument quick fix to the Incorrect call arguments inspection  

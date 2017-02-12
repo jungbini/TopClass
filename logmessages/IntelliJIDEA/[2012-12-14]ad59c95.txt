@@ -1,0 +1,1 @@
+  improve "Extended 'for' statement" inspection quickfix  

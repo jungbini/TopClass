@@ -1,0 +1,1 @@
+  search/replace refactoring. added exclude function. fixed unexpected scrolling when document changes. multiline occurrences highlithting  

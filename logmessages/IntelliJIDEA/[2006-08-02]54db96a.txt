@@ -1,0 +1,1 @@
+  JavaMethod wrapper that hopefully will fix exception from resolveVariable()  

@@ -1,0 +1,1 @@
+  fix(server): forbid webhooks in public groups  

@@ -1,0 +1,1 @@
+  fix test data after tree optimization - hide module node for one module projects  

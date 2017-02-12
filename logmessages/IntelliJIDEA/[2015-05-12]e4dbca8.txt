@@ -1,0 +1,1 @@
+  IDEA-135191 Incremental search on a non-project triggers 'Non-project files access' dialog when it shouldn't  Reapplied original fix for IDEA-113468, while allowing some custom typing handlers to run outside of command/write action scope.  

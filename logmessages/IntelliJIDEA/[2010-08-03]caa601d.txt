@@ -1,0 +1,1 @@
+  IDEA-56987    Throwable at EditorImpl.logicalToVisualPosition() on opening a database console  Accidently added debug output is removed  

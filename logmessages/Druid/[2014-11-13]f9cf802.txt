@@ -1,0 +1,1 @@
+ Merge pull request #871 from metamx/backport-fix-results-ordering  Backport fix results ordering  commit f9cf802e845853c21067fe5791e72087828bf1c6  fix results ordering  

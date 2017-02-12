@@ -1,0 +1,1 @@
+  GRADLE-1710 Fixed the problem with TestNG fatal initialisation error led to empty reports and no stack trace (unless debug mode was used). This issue was really annoying.  

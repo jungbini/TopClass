@@ -1,0 +1,1 @@
+  IDEA-84070 fix '@null' red code in android xml files  

@@ -1,0 +1,1 @@
+  More fixes with prefixed URLs (#2583)  * Fix active navigation item when using prefix * Move web interface routes from ApiRoutes to Routes ApiRoutes should not contain links to web interface routes, as they are not properly prefixed.  

@@ -1,0 +1,1 @@
+  MAPREDUCE-3910. Fixed a bug in CapacityScheduler LeafQueue which was causing app-submission to fail. Contributed by John George. svn merge --ignore-ancestry -c 1293750 ../../trunk   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1293753 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  debugger open API: register position manager factory withing DebuggerManager instead of position manager instance  

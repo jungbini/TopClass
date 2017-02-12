@@ -1,0 +1,1 @@
+  Merge -c 1471644 from branch-1 to branch-1.2 to fix HADOOP-9458. Fix RPC.getProxy to ensure it uses retries for getProtocolVersion too. Contributed by Tsz Wo Sze.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.2@1471646 13f79535-47bb-0310-9956-ffa450edef68  

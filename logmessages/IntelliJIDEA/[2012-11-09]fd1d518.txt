@@ -1,0 +1,1 @@
+  replacing == and != for strings where appropriate  Conflicts:  java/java-impl/src/com/intellij/codeInsight/daemon/impl/quickfix/AddDefaultConstructorFix.java java/java-psi-api/src/com/intellij/codeInsight/NullableNotNullManager.java  

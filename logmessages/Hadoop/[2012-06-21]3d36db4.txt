@@ -1,0 +1,1 @@
+  HADOOP-8454 Fix the chmod =[perm] bug in winutils (Chuan Liu via sanjay)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1-win@1352385 13f79535-47bb-0310-9956-ffa450edef68  

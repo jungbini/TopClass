@@ -1,0 +1,1 @@
+  external compiler: fixed 'project is up to date' optimization for artifacts  

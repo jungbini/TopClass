@@ -1,0 +1,1 @@
+  Fix GRADLE-3418 so that exclsions of patterns like #*# are okay.  +review REVIEW-5893 - Changes the prefix and suffix step to only match if the prefix and suffix are not satisfied by the same part of the candidate.  

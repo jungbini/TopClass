@@ -1,0 +1,1 @@
+  revert incomplete and unhelpful fix for PY-1178  

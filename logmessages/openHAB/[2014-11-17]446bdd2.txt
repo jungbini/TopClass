@@ -1,0 +1,1 @@
+ Merge pull request #1692 from jarlebh/master  [Tellstick]Fix for WIND sensor and fix for duplicate IDs. Closes #1656  commit 7aae2283caa432083720efcdfc501b0a96426806  Merge branch 'master' into atmos-leak-fix  commit 446bdd2d61b9e9a9bb5f6baa7175ffa7b8cd89a1  fixed review findings from teichsta  

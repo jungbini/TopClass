@@ -1,0 +1,1 @@
+ Fix Milight brigthness bug  Signed-off-by: hmerk <hans-joerg.merk@t-online.de>  

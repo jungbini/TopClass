@@ -1,0 +1,1 @@
+  minor tree binarizer fixes, also ported RNTN to float matrices, added float matrix adagrad, and added activations for float matrices (expect memory reduction by a metric ton here soon  

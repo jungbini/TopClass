@@ -1,0 +1,1 @@
+  ninja: fix logic to log msg w/cdc check on startup  

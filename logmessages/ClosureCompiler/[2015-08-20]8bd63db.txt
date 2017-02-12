@@ -1,0 +1,1 @@
+ Bugfixes when loading externs in CommandLineRunner: - Don't iterate over the ZipInputStream twice - When adding default externs organized in a flat folder, remove the env prefix from BUILTIN_EXTERN_DEP_ORDER. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=101159807  

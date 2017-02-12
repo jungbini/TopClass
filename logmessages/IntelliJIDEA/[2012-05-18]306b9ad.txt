@@ -1,0 +1,1 @@
+  use separate modificationCount for PSI and Document (fixes psifile-dependent CachedValues)  

@@ -1,0 +1,1 @@
+  possibility to unshelve part of shelved patch; patch read/write fixes (IDEADEV-12516)  

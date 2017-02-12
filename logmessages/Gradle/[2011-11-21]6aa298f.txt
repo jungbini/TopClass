@@ -1,0 +1,1 @@
+  Workaround to fix the build temporarily on java 1.5. Used 'seconds' instead of 'hours' because hours enum was introduced in java 6 (TimeUnit class).  

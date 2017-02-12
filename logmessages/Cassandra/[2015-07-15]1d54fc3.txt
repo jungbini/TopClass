@@ -1,0 +1,1 @@
+  Don't include auth credentials in debug log  Patch by Sam Tunnicliffe; reviewed by Brandon Williams for CASSANDRA-9682  

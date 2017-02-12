@@ -1,0 +1,1 @@
+  fixed: DEBUG_INFO_ERROR_ELEMENT should be visible in tests  

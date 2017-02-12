@@ -1,0 +1,1 @@
+  more parsing code for quoted strings, fixes #3394  

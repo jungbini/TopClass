@@ -1,0 +1,1 @@
+  fix(js): Fixing search binding and built-in interval.js  

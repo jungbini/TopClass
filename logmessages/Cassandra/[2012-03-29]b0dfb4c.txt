@@ -1,0 +1,1 @@
+  fix NPE on invalid CQL DELETE command  patch by dbrosius; reviewed by slebresne for CASSANDRA-3755  

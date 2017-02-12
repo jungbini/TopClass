@@ -1,0 +1,1 @@
+  Remove a boolean argument that is always true. Also, remove some potential non-determinism bugs.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=117493732  

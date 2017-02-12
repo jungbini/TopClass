@@ -1,0 +1,1 @@
+  IDEA-106810 Groovy debugger: static inner class couldn't be loaded in watches  

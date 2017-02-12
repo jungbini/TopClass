@@ -1,0 +1,1 @@
+  tests fixed: don't throw assertion if project file doesn't exist  

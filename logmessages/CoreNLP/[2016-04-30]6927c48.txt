@@ -1,0 +1,1 @@
+  Check that the remove() operation does not skip or repeat any nodes. Fix a bug in the test  

@@ -1,0 +1,1 @@
+  Mostly fixed OneVsAllRelationExtractor (it was broken sometime during refactoring).  

@@ -1,0 +1,1 @@
+  Tsurgeon AuxiliaryTree: fix bugs in updating named node mapping when named node is a leaf of provided tree  

@@ -1,0 +1,1 @@
+  xdebugger: correctly dispose views and show popup tree for 'value hint' tree (IDEA-56249)  

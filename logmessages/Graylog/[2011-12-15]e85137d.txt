@@ -1,0 +1,1 @@
+  sorting in shell find results was wrong  fixes #WEBINTERFACE-179  

@@ -1,0 +1,1 @@
+  IDEADEV-26474 fixed ([#9224] AIOOBE: FileHistoryPanelImpl.getData)  

@@ -1,0 +1,1 @@
+  Undo: 'reload file' related issue fixed (IDEA-89562)  

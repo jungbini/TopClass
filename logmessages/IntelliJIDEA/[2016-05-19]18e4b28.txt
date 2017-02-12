@@ -1,0 +1,1 @@
+  fix button title cases (IDEA-155669)  

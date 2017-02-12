@@ -1,0 +1,1 @@
+  remove weak reference to fix intermittent reds  

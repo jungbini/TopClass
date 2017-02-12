@@ -1,0 +1,1 @@
+  Adding test for #835  This fails under Hadoop 1 (but not 2) due to the bug reported in #835. Fix up next.  

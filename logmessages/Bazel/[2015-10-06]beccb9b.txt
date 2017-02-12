@@ -1,0 +1,1 @@
+  Implement the prefix stripping for Java resources.  This CL sure works, but it leaves a few call sites for JavaSemantics#getJavaResourcePath() which make me uncomfortable.  RELNOTES: Java rules now support a resource_strip_prefix attribute that allows the removal of path prefixes from Java resources.  -- MOS_MIGRATED_REVID=104748537  

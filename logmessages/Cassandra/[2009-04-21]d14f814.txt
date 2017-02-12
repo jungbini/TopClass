@@ -1,0 +1,1 @@
+  test and fix get_column regression.  patch by Jun Rao; reviewed by jbellis for #90  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@766960 13f79535-47bb-0310-9956-ffa450edef68  

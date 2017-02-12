@@ -1,0 +1,1 @@
+  disable add type cast fix for non-denotable types (IDEA-149787)  

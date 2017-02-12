@@ -1,0 +1,1 @@
+  Fixed multiple bugs in optimize imports for JS-target  #KT-13689 Fixed  

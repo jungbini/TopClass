@@ -1,0 +1,1 @@
+  daemon monitoring - fixed the problem with memory stats  

@@ -1,0 +1,1 @@
+ Fixed bug introduced by commit 74ea6f870c9a79127b6d328c6bed148d30e8696e  

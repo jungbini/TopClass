@@ -1,0 +1,1 @@
+  Minor refactoring in TypeUtils  Move out unneeded things in runtime, fix warnings  

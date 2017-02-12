@@ -1,0 +1,1 @@
+  Move the stable-plugins-dsl M1.2 design to git  - This completes the design work for the M1.2 sub-milestone which fixes gradle/stable-plugins-dsl#2  

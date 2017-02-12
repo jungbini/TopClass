@@ -1,0 +1,1 @@
+  Added test for KT-1735 Can't access "assert" function from stdlib  #KT-1735 fixed  

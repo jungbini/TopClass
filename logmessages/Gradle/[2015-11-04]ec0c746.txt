@@ -1,0 +1,1 @@
+  Use FILE_TREE WatchService extension on Windows  - fixes GRADLE-3354  

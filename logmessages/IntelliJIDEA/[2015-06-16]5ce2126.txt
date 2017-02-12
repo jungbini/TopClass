@@ -1,0 +1,1 @@
+  fixed EA-69515, do not reverse block's subBlocks collection, added few test for NewLineBlocksIterator  

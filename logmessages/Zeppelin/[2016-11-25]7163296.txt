@@ -1,0 +1,1 @@
+ng thrift 0.9.2 a247552 [Jeff Zhang] ZEPPELIN-1707. Pass userName when creating interpreter through thrift  

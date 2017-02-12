@@ -1,0 +1,1 @@
+  Fixed bug in better storage dumper for better testing (compile server).  

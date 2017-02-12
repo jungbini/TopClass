@@ -1,0 +1,1 @@
+  HBASE-3921 Allow adding arbitrary blobs to Put; fix TestHeapSize   git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1128905 13f79535-47bb-0310-9956-ffa450edef68  

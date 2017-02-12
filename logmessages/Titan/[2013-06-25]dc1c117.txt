@@ -1,0 +1,1 @@
+  fixed an EmptyConfiguration bug in SchemaInferenceMapReduce.  

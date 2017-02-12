@@ -1,0 +1,1 @@
+  * ext/nokogiri/xml_text.c (new) fixing segv when called with non-document  

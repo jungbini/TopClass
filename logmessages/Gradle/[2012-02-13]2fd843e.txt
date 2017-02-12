@@ -1,0 +1,1 @@
+  GRADLE-2079 fix test on windows; use file.getabsolutepath when reference is created from jarurl  

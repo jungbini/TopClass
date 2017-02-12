@@ -1,0 +1,1 @@
+ Merge pull request #1315 from dlsniper/extend-highlight-support  Add highlight support for 

@@ -1,0 +1,1 @@
+  Make the MiosPollCall an inner class of the MiosConnector, since that's the only place it's used, and it narrows the interface of the MiosConnector to do it this way. Externalize the list of Datetime StateVariables that need to be "fixed" on the way in, so it's easier to augment that list with new ones. Misc JavaDoc  

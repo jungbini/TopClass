@@ -1,0 +1,1 @@
+  KAFKA-2313: javadoc fix for KafkaConsumer deserialization; reviewed by Guozhang Wang  

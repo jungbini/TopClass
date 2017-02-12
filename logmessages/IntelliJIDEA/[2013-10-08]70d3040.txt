@@ -1,0 +1,1 @@
+  fixed PY-10976 Method override in nested class generated with incorrect super call  

@@ -1,0 +1,1 @@
+  [vcs-log] fix table row count; introduce the very simple table builder; discover StringUtil.pluralize  

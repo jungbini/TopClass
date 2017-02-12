@@ -1,0 +1,1 @@
+  testng tests view: fix selection stealing (IDEA-75569)  

@@ -1,0 +1,1 @@
+  JSONField support dateFormat. fixed issue #729  

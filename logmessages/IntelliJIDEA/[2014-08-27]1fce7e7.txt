@@ -1,0 +1,1 @@
+  avoid NPE if toolwindow doesn't exists (no Debug toolwindow at this moment)  It is must not be real situation, such internal errors must be handled in context and some solution suggested to user (edit RC, for example)  

@@ -1,0 +1,1 @@
+  Debugger: do not compute classnames for inline functions during stepping  

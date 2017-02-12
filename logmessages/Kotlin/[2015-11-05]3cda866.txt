@@ -1,0 +1,1 @@
+  Static members completion works in smart completion + fixed incorrect finding of java method descriptor that caused duplicated items  

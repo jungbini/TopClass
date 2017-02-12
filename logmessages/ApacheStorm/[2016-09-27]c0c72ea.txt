@@ -1,0 +1,1 @@
+  STORM-2126: fix NPE due to race condition in compute-new-sched-assignments/read-all-supervisor-details  

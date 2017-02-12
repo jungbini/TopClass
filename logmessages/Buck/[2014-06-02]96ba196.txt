@@ -1,0 +1,1 @@
+  Add a flag to allow manifests to not be merged when building a java_binary.  Summary: There are a tiny number of legitmate cases where merging the manifests of a set of inputs to java_binary is not the right thing to do. Support those cases with an undocumented flag that defaults to "true".  Closes #87 and fixes #86 on GH.  Test Plan: buck test --all  

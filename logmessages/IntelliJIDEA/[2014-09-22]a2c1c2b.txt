@@ -1,0 +1,1 @@
+  disable auto show debugger value under selection for a while  

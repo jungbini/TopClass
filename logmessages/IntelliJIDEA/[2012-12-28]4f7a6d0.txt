@@ -1,0 +1,1 @@
+  method return type fix: when changing class params take into account super substitutor (IDEA-98145)  

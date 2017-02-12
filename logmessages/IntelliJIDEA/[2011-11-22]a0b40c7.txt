@@ -1,0 +1,1 @@
+  Fixed bug in handling union types in argument list inspection (PY-4968)  

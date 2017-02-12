@@ -1,0 +1,1 @@
+ fix block not deleted issue during promotion and data folder fix  

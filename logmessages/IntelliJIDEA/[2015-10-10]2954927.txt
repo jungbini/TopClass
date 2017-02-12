@@ -1,0 +1,1 @@
+  dfa: don't suggest to assert/surround-with-if possible NPEs on volatile fields, suggest to extract a local variable instead (IDEA-145668) IDEA-CR-5544: reuse common quick fix code  

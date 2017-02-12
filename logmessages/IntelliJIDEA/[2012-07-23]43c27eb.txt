@@ -1,0 +1,1 @@
+  IDEA-87924 Debugger: Ease defining breakpoint condition. Condition checkbox enables when condition is empty  

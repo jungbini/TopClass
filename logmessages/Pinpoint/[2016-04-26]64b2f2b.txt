@@ -1,0 +1,1 @@
+ bug fix - JSON parse error of preference.favorite  

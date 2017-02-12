@@ -1,0 +1,1 @@
+  one mode on formatting for switch, case, default; fix #473  

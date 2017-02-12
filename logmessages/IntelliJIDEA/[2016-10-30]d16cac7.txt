@@ -1,0 +1,1 @@
+  Add test for '-m package' interpreter option in debug mode (PY-15230)  Currently -m is removed while package stays in the options. This breaks the process launch.  

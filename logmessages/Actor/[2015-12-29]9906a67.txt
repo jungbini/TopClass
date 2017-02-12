@@ -1,0 +1,1 @@
+  fix(android): contactHolder handle urlsafe base64  

@@ -1,0 +1,1 @@
+  Automated g4 rollback of changelist 111873657.  *** Reason for rollback ***  Decided to fix code instead  *** Original change description ***  [NTI] Allow a property typed ? to be missing from a subtype.  That's 

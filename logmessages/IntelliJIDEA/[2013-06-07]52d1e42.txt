@@ -1,0 +1,1 @@
+  fixed PY-9963 cannot configure options for pytest that contain spaces  

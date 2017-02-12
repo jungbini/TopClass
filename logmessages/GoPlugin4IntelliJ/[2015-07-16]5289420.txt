@@ -1,0 +1,1 @@
+  Add exe suffix for building output file  Fixes #1754  

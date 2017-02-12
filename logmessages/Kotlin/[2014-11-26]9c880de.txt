@@ -1,0 +1,1 @@
+  Compilation errors are rendered to log without "Kotlin:ERROR:" prefix and without path to file. Sometimes javac adds path to file, sometimes doesn't. This had led tests to fail on some platforms.  

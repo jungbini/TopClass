@@ -1,0 +1,1 @@
+  Merge -c 1493626 from trunk to branch-2.1-beta to fix YARN-831. Removed minimum resource from GetNewApplicationResponse as a follow-up to YARN-787. Contributed Jian He.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2.1-beta@1493628 13f79535-47bb-0310-9956-ffa450edef68  

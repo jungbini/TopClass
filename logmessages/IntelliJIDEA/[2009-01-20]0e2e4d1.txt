@@ -1,0 +1,1 @@
+  tabs painting - left border artifacts fixed  

@@ -1,0 +1,1 @@
+  revert collator in index with relative tests, for fix binary compatibility.  

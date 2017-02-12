@@ -1,0 +1,1 @@
+  MINOR: improve JavaDoc for Streams window retention time  Author: Matthias J. Sax <matthias@confluent.io>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #2068 from mjsax/hotfixImproveWindowRetentionTimeJavaDoc  

@@ -1,0 +1,1 @@
+  Added quick fix which removes val/var from parameters all over the project.  

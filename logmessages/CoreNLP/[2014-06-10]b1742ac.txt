@@ -1,0 +1,1 @@
+  Fix a bug where a word that is first forced to be a specific tag and then later not forced to be any tags will cache an unexpected number of tags  

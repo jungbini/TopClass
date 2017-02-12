@@ -1,0 +1,1 @@
+  java-decompiler: fixes and cleanups  - unified attribute loading code - common methods for checking member flags - verifying skip() - correct resource closing - typos  

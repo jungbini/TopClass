@@ -1,0 +1,1 @@
+  fix: IDEA-146297 Arquillian: Run Configurations: provide possibility to copy library properties (artifact name etc)  

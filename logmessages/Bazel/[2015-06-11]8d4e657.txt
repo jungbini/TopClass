@@ -1,0 +1,1 @@
+  Cosmetic fixes in rules/cpp/ .  -- MOS_MIGRATED_REVID=95734020  

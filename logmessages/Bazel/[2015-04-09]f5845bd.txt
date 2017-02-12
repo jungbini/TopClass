@@ -1,0 +1,1 @@
+  Allow relative paths for the scratch* methods; resolve relative to workspace.  This allows removing most /[]/ prefixes from all output file names in all tests that inherit from FoundationTestCase; that, in turn, allows us to switch the workspace root to a neutral name, such as /workspace/.  -- MOS_MIGRATED_REVID=90720852  

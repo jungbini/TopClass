@@ -1,0 +1,1 @@
+  NPE in Fabrique fixed (FBQ-10315)  

@@ -1,0 +1,1 @@
+  Attempt to fix concurrency issues in pom generation, by introducing a class-level lock  

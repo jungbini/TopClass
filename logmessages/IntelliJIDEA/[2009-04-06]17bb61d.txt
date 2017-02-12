@@ -1,0 +1,1 @@
+  jsdebugger: stepping filters, stepping speedup, firefox profiles support  

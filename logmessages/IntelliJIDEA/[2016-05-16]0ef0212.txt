@@ -1,0 +1,1 @@
+  [ui] fix LoadingDecorator not showing when the next progress started whithin fade-out time from the previous one  Two issues were corrected: * loading decorator isLoading returned false during fade-out, so new progress was not started; * fade out animator overwrited loading layer state when progress was started again during fade-out.  

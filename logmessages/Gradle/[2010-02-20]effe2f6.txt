@@ -1,0 +1,1 @@
+  add duplicate entry to expectedSrcDirs to show GRADLE-825 bug  

@@ -1,0 +1,1 @@
+  Fixed bug on serialization ODocument objects with no open database  

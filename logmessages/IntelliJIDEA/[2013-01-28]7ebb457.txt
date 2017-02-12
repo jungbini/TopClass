@@ -1,0 +1,1 @@
+  Subversion: allow to define SSL protocol in settings (important since in jdk 1.6 and maybe 1.7 they have a bug with 'all' protocols defined from client - connection is not successful)  for IDEA-90674 Checkout from https SVN Repository problem  

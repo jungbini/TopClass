@@ -1,0 +1,1 @@
+  fix casting instanceofed qualifier when qualifier is a method call  

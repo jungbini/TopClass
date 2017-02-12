@@ -1,0 +1,1 @@
+  Singlejar apkbuilder now puts resources in the correct location in APK.  This was a bug that only affected builds with a single classes.dex.  -- MOS_MIGRATED_REVID=137427786  

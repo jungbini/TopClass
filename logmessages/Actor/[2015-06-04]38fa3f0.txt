@@ -1,0 +1,1 @@
+  fix(js): Removed obsolete promise classes  

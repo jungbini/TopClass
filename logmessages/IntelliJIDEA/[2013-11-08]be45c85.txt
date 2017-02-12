@@ -1,0 +1,1 @@
+  move GeneralFormatterTest to platform-tests; fix NPE in DocumentImpl when running standalone GeneralFormatterTest  

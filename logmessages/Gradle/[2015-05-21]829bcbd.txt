@@ -1,0 +1,1 @@
+  use DisconnectableInputStream wrapper for reading System.in - without this change, System.in.read will block forever and won't terminate by interrupting the reading thread - refs: - https://bugs.openjdk.java.net/browse/JDK-4514257 - https://bugs.openjdk.java.net/browse/JDK-4385444  +review REVIEW-5499  

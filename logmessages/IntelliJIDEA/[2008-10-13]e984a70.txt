@@ -1,0 +1,1 @@
+  Maven: pom.xml schema completion without namespace specified Maven: additional model validations Maven: output window fixes Maven: Generate Parent uses Select Maven Project dialog  

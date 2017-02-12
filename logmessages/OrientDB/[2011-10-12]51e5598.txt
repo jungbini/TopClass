@@ -1,0 +1,1 @@
+  SQL: fixed issue on traversing of collections of links. This query has been fixed: select from item where analysis.annotations CONTAINS (uimaType = 'ieee')  

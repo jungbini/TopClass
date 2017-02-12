@@ -1,0 +1,1 @@
+  refix RUBY-11716: do not play with fire, always save and load in UTF-8 !  

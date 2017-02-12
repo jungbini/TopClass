@@ -1,0 +1,1 @@
+  fixed PY-14310 IPython Notebook: active cell green selection is not updated on selecting code inside the cell  

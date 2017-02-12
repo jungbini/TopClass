@@ -1,0 +1,1 @@
+  PY-16420 Quick fix "Add super class call" passes some of optional parameters in generated constructor call  Previously all optional parameters of super class constructor was ignored in generated constructor call, but from now on we pass them there if they exist in constructors of both superclass and subclass.  

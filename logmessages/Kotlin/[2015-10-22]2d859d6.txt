@@ -1,0 +1,1 @@
+  Minor: print "<root>" for root package instead empty string in Lookup tests.  Additionally fixed warnings.  

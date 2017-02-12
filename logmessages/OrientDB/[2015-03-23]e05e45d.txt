@@ -1,0 +1,1 @@
+  Issue #2874,   hash index tests with wal are fixed.  

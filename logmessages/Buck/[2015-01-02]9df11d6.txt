@@ -1,0 +1,1 @@
+  Add a test to ensure the `PATH` order is respected for python  Summary: This already works correctly, but we weren't testing for it.  I was trying to debug an issue where I thought this wasn't working correctly, and felt that it was worth keeping the test.  Test Plan: `buck test //test/com/facebook/buck/cli:cli -f "#whenMultiplePythonExecutablesOnPathFirstIsUsed"`  

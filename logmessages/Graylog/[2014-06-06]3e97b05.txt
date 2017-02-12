@@ -1,0 +1,1 @@
+  use sane default config variables for the new output batching, fix docs. fixes #571  

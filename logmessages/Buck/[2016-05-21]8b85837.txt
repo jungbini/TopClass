@@ -1,0 +1,1 @@
+  go: fixes for `exported_deps` and generated sources  Summary: The change to support the `exported_deps` parameter broke rules that used generated sources.  This 

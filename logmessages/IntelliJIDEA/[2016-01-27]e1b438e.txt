@@ -1,0 +1,1 @@
+  vcs: Refactored "MultipleChangeListBrowser" - warnings fixed, code simplified, @NotNull  

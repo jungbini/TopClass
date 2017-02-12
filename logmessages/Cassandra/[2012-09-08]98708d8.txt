@@ -1,0 +1,1 @@
+  fix assumption error in CLI when updating/describing keyspace patch by Pavel Yaskevich; reviewed by Dave Brosius for CASSANDRA-4322  

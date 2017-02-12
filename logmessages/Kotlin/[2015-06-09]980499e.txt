@@ -1,0 +1,1 @@
+  Drop `javaClass in annotations` related things from inspections/quickfixes  

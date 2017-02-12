@@ -1,0 +1,1 @@
+  IDEA-115883 Add auto-fix for compiler error "Unqualified super reference is not allowed in extension method"  

@@ -1,0 +1,1 @@
+ Revert "make RawMessageEvent's fields volatile to guard against cross-cpu visibility issues"  This did not fix anything so remove it to avoid performance degradation.  The fix for the issue we tried to solve got committed in f8d9391.  This reverts commit 769a2c15cfc8ed71126ce24af32db248740e46c5.  

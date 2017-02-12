@@ -1,0 +1,1 @@
+  run re-detect with delay for files for which auto-detection crashed (to avoid disk thrashing in case of always locked files) to fix IDEA-164396 Navigating to Class, File or Symbol by Name doens't work in Windows  

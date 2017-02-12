@@ -1,0 +1,1 @@
+  Refactor: IDEA-100655 confirmation for removing non-version files bug.  *Move checking if deleted file is unversioned file in needToConfirmDelection override method. *Change skipUnversionedAndNotUnderHg method to just skipNotUnderHg.  

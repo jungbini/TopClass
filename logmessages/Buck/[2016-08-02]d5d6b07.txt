@@ -1,0 +1,1 @@
+  Temporary hack for CxxLibrary.isPlatformSupported  Summary: I need a way to get all possible deps of a NativeLinkable.  The proper fix requires Java 8.  This will do for now.  Test Plan: Upcoming 

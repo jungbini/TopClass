@@ -1,0 +1,1 @@
+  Prevent the build hanging if an exception is thrown when building build steps.  Summary: Because we don't catch `Exception`, it's possible to cause a build to hang indefinitely simply by throwing something that isn't an `IOException` or a `StepException` from `executeCommandsNowThatDepsAreBuilt`. This fixes that.  Test Plan: Code compiles. `buck test --all`  

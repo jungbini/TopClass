@@ -1,0 +1,1 @@
+  Fix threshold type display in message count condition form. (#2969)  This changes fixed the way the threshold type input determines which type is selecting, by lowercasing the value before the comparison.  

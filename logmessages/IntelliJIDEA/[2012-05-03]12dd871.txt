@@ -1,0 +1,1 @@
+  fixed PY-6363 mako tag in javascript trigger unexpected "expression expected" lint  

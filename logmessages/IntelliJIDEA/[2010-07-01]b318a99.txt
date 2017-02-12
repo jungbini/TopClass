@@ -1,0 +1,1 @@
+  Spellchecker: fix generics support in type tokenizer (IDEA-54464, IDEA-54431), add test cases  

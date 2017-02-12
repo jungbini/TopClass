@@ -1,0 +1,1 @@
+  cache module type name (r=yole, CR-IC-1128) #RUBY-13506 fixed  

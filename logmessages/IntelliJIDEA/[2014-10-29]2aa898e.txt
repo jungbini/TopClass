@@ -1,0 +1,1 @@
+  When "display icons in menu items" == false then no checks shown in inspections filter fixed. Part of IDEA-130323  

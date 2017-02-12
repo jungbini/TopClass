@@ -1,0 +1,1 @@
+  Fix bash arguments handling in postprocess_classes_commands  Summary: `postprocess_classes_commands` parameter doesn't handle bash arguments properly which makes it 

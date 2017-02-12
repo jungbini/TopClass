@@ -1,0 +1,1 @@
+  fix some cached value providers to not depend on synthetic elements (which have no reasonable modification count)  

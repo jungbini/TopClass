@@ -1,0 +1,1 @@
+  MAPREDUCE-3465. Fixed project pom to create test dirs - and fix failing tests. Contributed by Hitesh Shah   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1207728 13f79535-47bb-0310-9956-ffa450edef68  

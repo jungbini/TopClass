@@ -1,0 +1,1 @@
+  IDEA-79921 Suspend one thread while debugging  

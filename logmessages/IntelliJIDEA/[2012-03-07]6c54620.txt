@@ -1,0 +1,1 @@
+  IDEA-63439 android: support proguard for debug builds  

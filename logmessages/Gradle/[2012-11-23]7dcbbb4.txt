@@ -1,0 +1,1 @@
+  Efficient test results - coverage.  Added explicit test coverge for the case when test outputs are flooded. The test will be more useful when we fix html report. Right now, it will crash if testReport is turned on.  

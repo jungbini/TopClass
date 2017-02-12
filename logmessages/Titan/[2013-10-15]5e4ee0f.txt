@@ -1,0 +1,1 @@
+  Bind test-jar creation in titan-cassandra/pom.xml  The jar:test-jar goal is now bound to the package phase of the Maven lifecycle in the titan-cassandra module.  This fixes a build dependency error that occurs with -Paurelius-release when the titan-cassandra tests module hasn't already been manually installed with `mvn compile jar:test-jar install` or an equivalent command.  

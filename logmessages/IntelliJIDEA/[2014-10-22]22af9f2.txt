@@ -1,0 +1,1 @@
+  AppCode: responsiveness tests during inspections: race condition fixed, output improved, using more suitable 'performInspections' method  

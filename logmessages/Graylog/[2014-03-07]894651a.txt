@@ -1,0 +1,1 @@
+  Bumping version number of JadConfig to fix inheritance issue  

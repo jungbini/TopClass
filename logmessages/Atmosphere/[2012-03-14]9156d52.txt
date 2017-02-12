@@ -1,0 +1,1 @@
+  Incremental fix for #226 [atmosphere.js] regression with 0.9: push method should take request as param. At least we need to kept the original request configuration  

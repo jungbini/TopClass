@@ -1,0 +1,1 @@
+ [#131] Fixed bug "NPE on a class loaded by boot class loader"  

@@ -1,0 +1,1 @@
+  add synthetic 0 values for missing field histogram buckets  fixes Graylog2/graylog2-web-interface#590  

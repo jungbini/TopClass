@@ -1,0 +1,1 @@
+  Notification and quickfix for go files inside non-go modules  

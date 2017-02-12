@@ -1,0 +1,1 @@
+ Fix multiprocess debug for pydevd launched as a module from a zip file (PY-16633).  

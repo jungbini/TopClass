@@ -1,0 +1,1 @@
+  fixed bug on link rewrite in case of embedded document, issue #4304, test missing  

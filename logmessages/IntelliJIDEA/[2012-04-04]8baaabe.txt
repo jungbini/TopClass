@@ -1,0 +1,1 @@
+ store dependency info in memory more compactly: use int instead of wrapper; TIntHashSet instead of HashSet when applicable fixed integrate problem: : filenames were cleared from dependencies instead of class names  

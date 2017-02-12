@@ -1,0 +1,1 @@
+  CVS tests fix (?): unregistering an active VCS deactivates it  

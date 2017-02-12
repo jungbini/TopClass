@@ -1,0 +1,1 @@
+  Fix debugger tests. - Index binaries by facade class fqName - Fix DebuggerUtils: should understand new facades - Refactor IDELightClassGenerationSupport - Add facadeSimpleName to KotlinFileStub  

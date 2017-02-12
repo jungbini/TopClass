@@ -1,0 +1,1 @@
+  add ctrl-up and ctrl-down to text editor. also fix some of the indenting code  

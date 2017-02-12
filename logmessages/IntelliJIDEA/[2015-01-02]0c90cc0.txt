@@ -1,0 +1,1 @@
+  temp fix: do not activate completion / write action in text files to avoid cancellation of live find preview  

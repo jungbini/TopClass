@@ -1,0 +1,1 @@
+  remote js debugging: show notification if remote url isn't specified  

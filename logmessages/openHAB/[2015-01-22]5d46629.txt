@@ -1,0 +1,1 @@
+ Bugfix on handling limits of segments in SCALE transform  

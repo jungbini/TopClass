@@ -1,0 +1,1 @@
+  GRADLE-2032: fix build by using String#isEmpty() instead of using property syntax.  

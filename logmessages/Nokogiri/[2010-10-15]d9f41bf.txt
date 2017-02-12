@@ -1,0 +1,1 @@
+ adding a hack for the slop decorator.  fixes #330  

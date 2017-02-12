@@ -1,0 +1,1 @@
+  MINOR: Add more info to RecordCollector error message  guozhangwang  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Grant Henke <granthenke@gmail.com>, Ewen Cheslack-Postava <ewen@confluent.io>  Closes #873 from ymatsuda/hotfix  

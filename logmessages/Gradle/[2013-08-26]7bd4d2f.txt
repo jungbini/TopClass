@@ -1,0 +1,1 @@
+  Pushed the logic for finding the jre install for the current jvm down to the Jvm class. Also fixed the logic so that it finds the standalone java 5 jre on windows.  

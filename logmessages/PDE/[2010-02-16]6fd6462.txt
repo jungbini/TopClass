@@ -1,0 +1,1 @@
+  updates for input method support (bug #854)  

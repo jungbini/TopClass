@@ -1,0 +1,1 @@
+  Send SIGINT in debug mode (PY-13316)  This needed to allow debugging of SIGINT signal handlers. Drawback: if the process is suspended it won't stop. But then it can be killed with a skull-button, so it isn't a major problem.  

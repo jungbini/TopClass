@@ -1,0 +1,1 @@
+  fix(android): call fragment init notification service after activity attached  

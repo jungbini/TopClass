@@ -1,0 +1,1 @@
+ [PinpiontWeb] fix a ActiveThread concurrency problem #1482  1. applied SimpleThreadPoolExecutor for separated thread from WebSocketSessionId.  

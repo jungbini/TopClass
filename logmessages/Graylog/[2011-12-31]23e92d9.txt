@@ -1,0 +1,1 @@
+  Several retries for ES index check on startup  gives ElasticSearch some time to come up. Useful when used in init scripts etc.  fixes #SERVER-96  

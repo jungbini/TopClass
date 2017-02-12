@@ -1,0 +1,1 @@
+  fix EditorColorSchemeTest test data (no way to avoid defaults)  

@@ -1,0 +1,1 @@
+  IDEA-139800 Show file tree under java.io.File instances in debugger views  

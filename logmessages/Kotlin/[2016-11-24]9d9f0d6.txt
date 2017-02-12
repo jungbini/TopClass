@@ -1,0 +1,1 @@
+  Revert: remove single lambda parameter fix was removed from 1.0.x branch (because UNUSED_PARAMETER is not reported for lambda parameters)  

@@ -1,0 +1,1 @@
+  fix groovy evaluation of c, res and other unfortunately-named variables  

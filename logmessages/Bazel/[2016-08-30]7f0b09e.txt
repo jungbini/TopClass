@@ -1,0 +1,1 @@
+  Remove a duplicate test. Also move the counter file to a temp dir.  There are multiple tests sharing the same counter file - if they end up running at the same time in 

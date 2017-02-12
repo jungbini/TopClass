@@ -1,0 +1,1 @@
+  try fixing class not found exception in tooling api integration tests on coverage builds  

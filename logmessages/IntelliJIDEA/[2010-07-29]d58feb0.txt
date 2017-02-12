@@ -1,0 +1,1 @@
+  fixing plugin build for IDEA 10  

@@ -1,0 +1,1 @@
+  fixed EDU-190 Increace plugin versions  

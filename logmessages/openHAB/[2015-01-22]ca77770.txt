@@ -1,0 +1,1 @@
+  fix for #1294 - Firefox display for numbers (kudos goes to @slaney)  

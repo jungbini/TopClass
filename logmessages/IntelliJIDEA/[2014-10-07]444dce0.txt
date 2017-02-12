@@ -1,0 +1,1 @@
+  a fix for completion from non-primary caret (IDEA-123396)  

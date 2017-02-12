@@ -1,0 +1,1 @@
+  Fix after fixing migration from v3eap to v3: add ability to remove hints from answer placeholder dialog  

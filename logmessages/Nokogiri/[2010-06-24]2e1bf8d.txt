@@ -1,0 +1,1 @@
+  FFI port of #294 fix (a79d4de6) for removing namespace declarations.  

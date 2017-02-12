@@ -1,0 +1,1 @@
+  Prevent compile tasks from running when nothing changes  #KT-10932 fixed  

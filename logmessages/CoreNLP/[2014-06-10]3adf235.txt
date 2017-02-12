@@ -1,0 +1,1 @@
+  fix for unlabeled dependency scoring bug found by Lingpeng Kong on Mar 19th - only impacts trees that have multiple arcs between the same two words, so it should in theory not cause significant changes to the evaluation numbers.  

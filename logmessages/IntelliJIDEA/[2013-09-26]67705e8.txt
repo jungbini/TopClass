@@ -1,0 +1,1 @@
+  new inference: fix isPertinent for implicit typed lambdas  

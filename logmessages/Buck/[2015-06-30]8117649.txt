@@ -1,0 +1,1 @@
+  Disable jetty debug logging  Summary: Jetty periodically logs in the background. That's pretty bad but would take some effort to make it stop waking things up. Let's at least stop it from doing I/O.  dogseance  Test Plan: Started buckd, waited 30mins, buck-0.log did not contain any background messages.  

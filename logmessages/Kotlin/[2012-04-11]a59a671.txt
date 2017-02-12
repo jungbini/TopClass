@@ -1,0 +1,1 @@
+  KT-1763 UnsupportedOperationException during creating ImportClassAndFunFix #KT-1763 fixed  

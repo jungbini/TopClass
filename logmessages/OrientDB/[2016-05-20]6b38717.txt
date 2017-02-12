@@ -1,0 +1,1 @@
+  fixed issue on loop dirty management on collection in case of noTx, issue #6157  

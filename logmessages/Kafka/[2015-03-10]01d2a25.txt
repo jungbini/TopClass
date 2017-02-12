@@ -1,0 +1,1 @@
+  KAFKA-1910; follow-up on fixing buffer.flip on produce requests  

@@ -1,0 +1,1 @@
+  Fix a bug in CubePruningNNLMDecoder to do incremental update of NNLM scores  

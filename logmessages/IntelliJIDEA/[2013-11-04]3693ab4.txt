@@ -1,0 +1,1 @@
+  [log] quick fix for the deadlock in IDEA-115483  May lead to the situation when the log stays short, if user scrolls to its end before the entire skeleton is loaded. A proper fix will be made later.  

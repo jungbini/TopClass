@@ -1,0 +1,1 @@
+  [bugfix] fix completion/resolution for types when using the qualified form.  Signed-off-by: Mihai Claudiu Toader <mtoader@gmail.com>  

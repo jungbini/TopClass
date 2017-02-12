@@ -1,0 +1,1 @@
+  fix CASSANDRA_HOME in debian packaging patch by eevans; reviewed by Paul Cannon for CASSANDRA-2647  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8.0@1125041 13f79535-47bb-0310-9956-ffa450edef68  

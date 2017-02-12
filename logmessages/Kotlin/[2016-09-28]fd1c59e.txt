@@ -1,0 +1,1 @@
+  Do not suggest assignment as a subject in postfix templates  #KT-14077 Fixed  

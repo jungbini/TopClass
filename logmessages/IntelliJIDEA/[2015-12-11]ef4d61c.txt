@@ -1,0 +1,1 @@
+  PY-16581 Quickfix "Implement abstract methods" implements abstract properties as properties. Fix possible memory leak caused by holding PsiElement  

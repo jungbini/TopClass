@@ -1,0 +1,1 @@
+  HgMergeProviderTest  try to fix  *refresh repository folder performed after clone command execution  

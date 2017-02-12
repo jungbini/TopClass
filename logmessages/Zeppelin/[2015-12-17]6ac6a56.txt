@@ -1,0 +1,1 @@
+510: increase MAX browsear delay 30s + poll every 1s  

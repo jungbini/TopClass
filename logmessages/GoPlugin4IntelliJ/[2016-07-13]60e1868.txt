@@ -1,0 +1,1 @@
+  fix calcLiteralType, expand GoParType  

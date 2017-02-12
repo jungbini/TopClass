@@ -1,0 +1,1 @@
+  set js.debugger.v8.lazy.compilation to true  node v5 debug works correctly  

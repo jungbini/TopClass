@@ -1,0 +1,1 @@
+  IDEA-162062 Move Statement: Scope of shifted block changes  fix for Python use cases  

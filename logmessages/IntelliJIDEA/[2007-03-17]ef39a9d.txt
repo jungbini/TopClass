@@ -1,0 +1,1 @@
+  debugger API to override PsiClass.getQualifiedName() for languages where compiled class name 

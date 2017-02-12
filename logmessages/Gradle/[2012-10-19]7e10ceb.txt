@@ -1,0 +1,1 @@
+  run BasicScalaCompilerIntegrationTest for several Scala versions, and fix problems found  - deprecated ScalaCompileOptions.targetCompatibility in favor of ScalaCompile.targetCompatibility. the latter also has a more sensible default. - choose scalac backend depending on target compatibility and Scala version (

@@ -1,0 +1,1 @@
+  fix(ios): added resize to avatars. removed unused settings page cells  

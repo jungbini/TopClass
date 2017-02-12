@@ -1,0 +1,1 @@
+  YARN-942. In Fair Scheduler documentation, inconsistency on which properties have prefix (Akira Ajisaka via Sandy Ryza)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1517691 13f79535-47bb-0310-9956-ffa450edef68  

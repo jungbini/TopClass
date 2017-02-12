@@ -1,0 +1,1 @@
+  HA: fixed problem with start of servers at the same time  Fixed issue http://www.prjhub.com/#/issues/5825  

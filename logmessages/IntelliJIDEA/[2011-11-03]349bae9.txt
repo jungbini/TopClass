@@ -1,0 +1,1 @@
+  fixed PY-4832 Test runner can't attach to pinax django tests  

@@ -1,0 +1,1 @@
+  fixed GRADLE-2232: TestCase not found on compile classpath in rc-1  - updated code comments and added some tests  

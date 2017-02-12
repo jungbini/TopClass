@@ -1,0 +1,1 @@
+  IDEA-80056 Column selection mode improvement  * fix issue with Select/Unselect next occurence actions * fix regression (IDEA-121011)  

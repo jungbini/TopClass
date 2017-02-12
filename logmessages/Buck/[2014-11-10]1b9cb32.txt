@@ -1,0 +1,1 @@
+m where some target nodes were being processed multiple times, which has since been fixed. `TargetNode#equals` method has also been implemented which should stop problems of this kind from happening again.  Test Plan: * `buck test --all` * `buck project --combined-project TARGET`  

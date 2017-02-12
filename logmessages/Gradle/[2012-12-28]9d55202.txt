@@ -1,0 +1,1 @@
+  REVIEW-867: Rename test fixture JUnitTestExecutionResult -> DefaultTestExecutionResult.  

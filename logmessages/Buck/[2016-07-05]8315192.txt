@@ -1,0 +1,1 @@
+  Remove DebuggableTemporaryFolder.newExecutableFile.  Summary: There are only a couple of uses of it, and they can be replaced by TemporaryPaths.  Test Plan: CI  Reviewed By: beefon  fbshipit-source-id: 43d40fd  

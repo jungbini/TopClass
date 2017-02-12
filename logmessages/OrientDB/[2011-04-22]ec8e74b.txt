@@ -1,0 +1,1 @@
+  Fixed bug on console command "info class". Now indexes are displayed correctly  

@@ -1,0 +1,1 @@
+  bug fixed for issue 504  

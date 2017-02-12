@@ -1,0 +1,1 @@
+  ui: fix HighlightComponent leakage from UI Inspector  myHighlightComponent might have not been disposed if `setHighlightingEnabled(true)` called twice in a row  

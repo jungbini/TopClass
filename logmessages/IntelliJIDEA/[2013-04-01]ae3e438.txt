@@ -1,0 +1,1 @@
+  fixed  PY-9337 Copy paste doesn't always preserve the relative indentation of what is pasted.  improved indent calculation  

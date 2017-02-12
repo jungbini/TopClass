@@ -1,0 +1,1 @@
+  fixed hanging JSExtFileInspectionTest: ensure that we always run inspection in tests with the context which supports 'finished' flag  

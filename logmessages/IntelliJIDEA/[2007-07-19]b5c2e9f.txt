@@ -1,0 +1,1 @@
+  undo/redo performance problem fixed (IDEADEV-19069)  

@@ -1,0 +1,1 @@
+Author: Jakob Homan <jhoman@yahoo-inc.com> Date:   Mon May 17 17:49:02 2010 -0700  HDFS-1150 (bugfix) from https://issues.apache.org/jira/secure/attachment/12444750/HDFS-1150-BF1-Y20.patch   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077469 13f79535-47bb-0310-9956-ffa450edef68  

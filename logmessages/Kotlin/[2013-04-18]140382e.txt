@@ -1,0 +1,1 @@
+  PSI getter fixed: left-hand side of a binary expression can now be null  EA-35976 - IAE: FqNameUnsafe.validateFqName  

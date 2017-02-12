@@ -1,0 +1,1 @@
+  type fields not resolved for untyped struct in pointer slice, fix #1492  

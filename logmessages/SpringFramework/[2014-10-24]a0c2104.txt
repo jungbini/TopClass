@@ -1,0 +1,1 @@
+nable this fix by default in a Spring MVC application:  <context-param> <param-name>responseEncodedHtmlEscape</param-name> <param-value>true</param-value> </context-param>  Issue: SPR-12350, SPR-12132  

@@ -1,0 +1,1 @@
+  fix(scheme): Adding optimizations to load grouped dialogs method  

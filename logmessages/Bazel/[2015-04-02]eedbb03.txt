@@ -1,0 +1,1 @@
+  Automated [] rollback of [].  *** Reason for rollback ***  Breaks bazel for /usr/bin/gcc. It needs -B to find ld, because we don't supply a $PATH.  *** Original change description ***  Remove unnecessary -B flag from linker command line.  This should fix working with GCC cross compilers installed into /usr/bin/ next to the host ld.  -- MOS_MIGRATED_REVID=90173200  

@@ -1,0 +1,1 @@
+  Maven: already disposed fix (IDEADEV-32442) Maven: 'initialize' phase added to completion variants  

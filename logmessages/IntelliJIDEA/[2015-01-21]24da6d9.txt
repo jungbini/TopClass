@@ -1,0 +1,1 @@
+  IDEA-135341 Uncomment action removes a space after a comment prefix which ends with a space.  

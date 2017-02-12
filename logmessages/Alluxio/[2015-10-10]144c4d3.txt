@@ -1,0 +1,1 @@
+ Merge branch 'master' into fix-deploy-ft  commit 144c4d383e4c9380b38c1c0180f6b3df0cc609bd  Use a centralized registry for managing worker id  fix comments from yupeng  fix comment by jiri  fix comments from jiri  syntax fix  

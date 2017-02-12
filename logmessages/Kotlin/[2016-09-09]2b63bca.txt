@@ -1,0 +1,1 @@
+  Correct diagnostics and quick-fix for T::class with non-reified type parameter #KT-9590 fixed  

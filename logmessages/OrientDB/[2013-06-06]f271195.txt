@@ -1,0 +1,1 @@
+ Merge remote-tracking branch 'nuvolabase/master' into 2qfix  commit f27119578672d5054b79e7b4d97f22ed3983fcd6  Index: fixed problem on auto-rebuild with remote protocol  

@@ -1,0 +1,1 @@
+  Fixed bug on MVRB-Tree: when record was copied the stream was not copied as well  

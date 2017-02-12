@@ -1,0 +1,1 @@
+ fix #617: check elements inclusion and add tests to check inner_xml with several elements  

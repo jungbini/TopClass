@@ -1,0 +1,1 @@
+  CPP-7052 General support for project opened from symlinked directories, including remote debug and path mappings  

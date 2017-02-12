@@ -1,0 +1,1 @@
+  clearing caches of all ant elements is synchronized with their construction fixed several issues with <taskdef>/<typedef> fixed leak of introspected classes in IntrospectionHelper introduced classes'cache in order to avoid numerous creations of class loaders (makes faster editing, completion, etc.)  

@@ -1,0 +1,1 @@
+  Add DTD related classes and implementaions. This fixed an error raised from test_read_only? of test_node.rb  

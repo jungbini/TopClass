@@ -1,0 +1,1 @@
+  ant generation: custom compilers and javac2 are no more in conflict. Javac2 is executed as postprocessing step. Fixed bugs with path processesing and javac2 registration.  

@@ -1,0 +1,1 @@
+  fix problem: consider paths in isUpToDate() check  

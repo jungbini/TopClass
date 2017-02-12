@@ -1,0 +1,1 @@
+CopyMapReduce.java and is not a general fix -- just testing to see if it alleviates the problem in testing.  

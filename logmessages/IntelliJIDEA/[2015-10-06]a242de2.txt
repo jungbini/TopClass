@@ -1,0 +1,1 @@
+  revert unnecessary chameleonBack(): fixes lots of PIEAE during highlighting  

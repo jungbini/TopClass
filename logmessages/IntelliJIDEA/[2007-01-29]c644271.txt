@@ -1,0 +1,1 @@
+  add quick fix to "Comparator class not declared Serializable" inspection  

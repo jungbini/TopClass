@@ -1,0 +1,1 @@
+  fixed PY-3020 "Code Compatibility" false positive on logging.config (for Python versions >= 2.4)  

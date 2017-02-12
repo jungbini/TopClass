@@ -1,0 +1,1 @@
+  Generate dsym file when building bundles  Summary: Debugging information is not packaged into apple binaries by the linker. Instead, the binary contains paths to the .o files that was linked. Debugging information can then be collected from the .o files by using dsymutil, which generates a .dSYM bundle alongside the binary with the debugging information.  This 

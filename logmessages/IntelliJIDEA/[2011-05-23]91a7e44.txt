@@ -1,0 +1,1 @@
+  Bug fix: All Grails properties can be used with "environment.*." prefix.  

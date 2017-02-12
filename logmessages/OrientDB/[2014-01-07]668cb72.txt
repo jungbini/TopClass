@@ -1,0 +1,1 @@
+  minor: fixed case where OrientDB is installed in directory with spaces  

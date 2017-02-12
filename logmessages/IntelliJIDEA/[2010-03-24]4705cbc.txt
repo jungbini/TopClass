@@ -1,0 +1,1 @@
+  Spellchecker: fix splitters, add quotes support in identifiers (JSProperty return text with quotes now)  

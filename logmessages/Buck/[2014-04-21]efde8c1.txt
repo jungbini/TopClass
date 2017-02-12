@@ -1,0 +1,1 @@
+  Revert build_config generator.  Summary: Reverts 91ea52689fb0c53025d847713bc090e161ef9704 to fix attribution.  Test Plan: buck test --all  

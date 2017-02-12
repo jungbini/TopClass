@@ -1,0 +1,1 @@
+  apply patch fixes: 1) for matching lines iterator 2) for the case of insertion into the empty file  

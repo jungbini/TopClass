@@ -1,0 +1,1 @@
+  artifacts compiler: problem with empty jar files fixed  

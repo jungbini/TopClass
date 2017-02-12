@@ -1,0 +1,1 @@
+  fixed PY-6993 Paste inserts copied text regardless caret position if there are spaces after caret  

@@ -1,0 +1,1 @@
+  jars to use when cobertura is installed from dpkg  This is trial-and-error and may be backed out of it doesn't fix the Hudson build.  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1043558 13f79535-47bb-0310-9956-ffa450edef68  

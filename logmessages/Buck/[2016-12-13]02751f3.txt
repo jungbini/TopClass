@@ -1,0 +1,1 @@
+  Always use PrefixMapDebugPathSanitizer for compilers.  Summary: It works both with gcc and clang.  Test Plan: CI  fbshipit-source-id: 6de02a6  

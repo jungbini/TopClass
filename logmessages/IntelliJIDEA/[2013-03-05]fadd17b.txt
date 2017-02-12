@@ -1,0 +1,1 @@
+  IDEA-102431 (Replace 'if' with 'switch' bug if there are comments and return statement)  

@@ -1,0 +1,1 @@
+  IDEA-159262 Incorrect treating of the <link> element in the jsp page fix collapse HTML tag in JSP  

@@ -1,0 +1,1 @@
+  trivial fix to authorization CLI table  

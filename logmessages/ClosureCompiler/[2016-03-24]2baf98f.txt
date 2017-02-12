@@ -1,0 +1,1 @@
+  Fix errors as well as warnings.  This way we can use the linter's fix mode to automatically add super() calls. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=118048815  

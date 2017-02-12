@@ -1,0 +1,1 @@
+  git4idea: IDEADEV-35560: fixed typo in the tooltip  

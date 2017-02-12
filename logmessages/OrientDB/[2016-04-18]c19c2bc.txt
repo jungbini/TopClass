@@ -1,0 +1,1 @@
+  fixed bug on reconnect in case of distributed  

@@ -1,0 +1,1 @@
+  Bugfix in DisambiguateProperties; when interfaces extend interfaces, we were not linking them correctly before.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=140499672  

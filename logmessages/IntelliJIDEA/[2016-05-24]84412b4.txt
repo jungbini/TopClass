@@ -1,0 +1,1 @@
+  IDEA-155420 Update Event Log look and behavior: fix left offset in log editor  

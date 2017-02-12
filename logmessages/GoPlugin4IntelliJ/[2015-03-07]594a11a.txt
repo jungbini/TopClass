@@ -1,0 +1,1 @@
+ Adjust completion prefix for types #1412  

@@ -1,0 +1,1 @@
+  CPP-7354 ConcurrentModificationException in debugger when several watchpoints are added - fix in debugger platform  

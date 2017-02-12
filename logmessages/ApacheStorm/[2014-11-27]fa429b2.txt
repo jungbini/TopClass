@@ -1,0 +1,1 @@
+ update PartitionManager.java  fix wrong output in log when committed offset is too far behind latest offset  

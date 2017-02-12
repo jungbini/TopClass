@@ -1,0 +1,1 @@
+  fix community project after extraction of core-api and core-impl modules  

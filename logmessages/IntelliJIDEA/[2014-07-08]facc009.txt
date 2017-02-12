@@ -1,0 +1,1 @@
+  increase responsiveness in remote debugging - gather first 10 frames with normal priority, the rest - with low  

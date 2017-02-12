@@ -1,0 +1,1 @@
+  Retina fix removed from editor component  

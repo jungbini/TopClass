@@ -1,0 +1,1 @@
+  One more fix for #1003: Make sure the AtmosphereResource is always synchronized when manipulated by two threads  

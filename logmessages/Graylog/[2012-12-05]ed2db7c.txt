@@ -1,0 +1,1 @@
+  Wrong image URL to messages from today sun icon  fixes #WEBINTERFACE-387  

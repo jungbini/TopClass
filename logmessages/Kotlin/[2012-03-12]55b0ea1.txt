@@ -1,0 +1,1 @@
+  - Don't repeat reference variant lookup for empty prefix. - Temporary disable duplicates search with PsiElement position.  

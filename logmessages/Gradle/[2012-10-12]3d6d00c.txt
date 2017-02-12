@@ -1,0 +1,1 @@
+  Extracted MavenFileRepository fixture out of MavenRepository and IvyFileRepository out of IvyRepository.  

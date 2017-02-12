@@ -1,0 +1,1 @@
+  Fixed bugs on index where internal records were not deleted  

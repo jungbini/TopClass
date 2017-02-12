@@ -1,0 +1,1 @@
+  fix(tests): speific resources directory for e2e and integration tests  

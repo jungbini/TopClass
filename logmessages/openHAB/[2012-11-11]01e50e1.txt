@@ -1,0 +1,1 @@
+  Dimmer and Roller shutter items support. Bug fix: Accept max and min values for all items, which have limits.  

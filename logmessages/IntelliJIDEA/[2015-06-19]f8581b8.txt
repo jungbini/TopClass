@@ -1,0 +1,1 @@
+  EA-45951, EA-58568 (PSI traversal fixed; test added)  

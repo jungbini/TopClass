@@ -1,0 +1,1 @@
+  ninja-fix an assert in CipherFactory, and added tests for it  

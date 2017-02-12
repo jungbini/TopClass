@@ -1,0 +1,1 @@
+  BrickletIO16 support, enhancements and fixes to TinkerforgeBinding class.  

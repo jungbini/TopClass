@@ -1,0 +1,1 @@
+  added additional api getProperties on OrientVertex and OrientEdge for fix groovy getProperties, issue #3918  

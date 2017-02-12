@@ -1,0 +1,1 @@
+  More fixes around the capability of running/debugging any Gradle build from the IDE. After I removed the classpath-configuring hacks from launcher.gradle there couple of things I needed to do to keep existing functionality working. Needed to add explicit compile dependency from integTests->launcher project  

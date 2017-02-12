@@ -1,0 +1,1 @@
+  Drag-and-drop to Welcome screen: use JDK 6 API and fix drop on Mac (IDEA-74974)  

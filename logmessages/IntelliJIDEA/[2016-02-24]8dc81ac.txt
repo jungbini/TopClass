@@ -1,0 +1,1 @@
+  git: worktree support: use File to check for commondir location to avoid need of VFS refresh stuff  fixup for: git: IDEA-151598 read commondir file to find the main .git dir location  

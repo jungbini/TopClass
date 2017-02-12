@@ -1,0 +1,1 @@
+  Preload the universe for query tests  This change means that tests no longer need to specify the patterns they use themselves, unless the test involves excluding some pattern.  Also fixes a bug in GraphBackedRecursivePackageProvider revealed by the test changes where it behaved 

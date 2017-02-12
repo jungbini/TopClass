@@ -1,0 +1,1 @@
+  fixed PY-6492 PyCharm hangs on trying to find package when viewing details for some other package (again network from UI)  

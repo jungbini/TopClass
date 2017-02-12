@@ -1,0 +1,1 @@
+  fixed jumble letters in userguides customPlugins chapter  

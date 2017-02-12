@@ -1,0 +1,1 @@
+ Merge pull request #2132 from navis/fix-sporadic-testfail3  Fix sporadic fail of io.druid.client.CoordinatorServerViewTest  commit 5e178499e897d44290d858360c6b74e43681e1b3  trying to fix transient errors in testRealtimeIndexTask() by increasing overall timeout and unlimited wait for segment publish  

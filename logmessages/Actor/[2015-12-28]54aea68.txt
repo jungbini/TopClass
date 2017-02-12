@@ -1,0 +1,1 @@
+  fix(android-sdk): MainPhoneController hide toolbar custom view on search  

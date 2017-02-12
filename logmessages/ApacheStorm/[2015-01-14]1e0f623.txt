@@ -1,0 +1,1 @@
+  Storm-616: fixed casing mismatch. added collectore.reportError so the error is reported back to ui. added storm-jdbc to storm-dist.  

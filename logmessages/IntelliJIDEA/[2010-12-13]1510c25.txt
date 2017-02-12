@@ -1,0 +1,1 @@
+  partly fixed "No tests found " in doctests  

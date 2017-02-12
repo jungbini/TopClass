@@ -1,0 +1,1 @@
+  fixing test after changing cleanup scheme - first it is now required to rebuild sources, and therefore consumed memory is increased  

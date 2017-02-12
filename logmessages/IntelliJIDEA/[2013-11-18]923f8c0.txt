@@ -1,0 +1,1 @@
+  fixed PY-11415 GAE: Lazy Handler reference is not updated when moving to other module  

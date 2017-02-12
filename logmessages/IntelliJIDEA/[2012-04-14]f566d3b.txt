@@ -1,0 +1,1 @@
+  revert as it is impossible to redebug tests in the same view now  

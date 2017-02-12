@@ -1,0 +1,1 @@
+  MINOR: Fix setting of ACLs and ZK shutdown in test harnesses  I found both issues while investigating the issue described in PR #1425.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Sriharsha Chintalapani <schintalapani@hortonworks.com>, Jun Rao <junrao@gmail.com>  Closes #1455 from ijuma/fix-integration-test-harness-and-zk-test-harness  

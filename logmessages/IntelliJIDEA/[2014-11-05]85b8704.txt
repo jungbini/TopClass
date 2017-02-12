@@ -1,0 +1,1 @@
+ IDEA-132269 Debugger: ISFE at StackFrameProxyImpl.isLocalVariableVisible() on attempt to show a variable  

@@ -1,0 +1,1 @@
+  PyClass.iterateAncestors() split into iterateAncestors() (returning class refs, which can be not classes or unresolved classes) and iterateAncestorClasses() (returning actual resolved classes); fix PY-817  

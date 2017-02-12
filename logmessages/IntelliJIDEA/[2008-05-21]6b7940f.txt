@@ -1,0 +1,1 @@
+  DebuggerSettings and ThreadsViewSettings are now services  

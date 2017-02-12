@@ -1,0 +1,1 @@
+  [git] IDEA-87270, Pass modality state to the passphrase and password prompt.  Make it possible to pass the modality state parameter into GitSSHGUIHandler, and further use it in the passphrase/password prompt. Set the modality state when running handler under a Modal Task. This fixes IDEA-87270.  

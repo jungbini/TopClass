@@ -1,0 +1,1 @@
+  Add some basic logging around DiffAwareness  Some simple logging to tell us what strategy we are using and how many files we detect as modified. Useful for debugging slow (or fast) builds.  -- MOS_MIGRATED_REVID=93745644  

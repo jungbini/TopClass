@@ -1,0 +1,1 @@
+  Make it possible to interrupt commands when communicating over gRPC.  Drive-by fix: eliminate the GRPC messages from the console by passing a null logging function.  This also prepares us for the time when multiple commands will be running, because then we'll need to tell which command exactly we want to interrupt.  Work towards #930.  -- MOS_MIGRATED_REVID=120203008  

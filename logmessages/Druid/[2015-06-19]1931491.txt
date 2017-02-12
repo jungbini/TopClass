@@ -1,0 +1,1 @@
+  A couple of hdfs related fixes * Class loading issue with hdfs-storage extension * Exception when using hdfs with non-fully qualified segment path  

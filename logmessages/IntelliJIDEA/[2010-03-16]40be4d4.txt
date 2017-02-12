@@ -1,0 +1,1 @@
+  Maven: double-click on tree node fix (IDEA-52823)  

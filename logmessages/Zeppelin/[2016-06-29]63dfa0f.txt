@@ -1,0 +1,1 @@
+ complete event integrated into the document click event bd10ffa [CloverHearts] Merge branch 'master' into fix/acecomplete_hide af8a16e [CloverHearts] Ace-editor hidden auto-complete additional events.  

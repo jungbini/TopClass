@@ -1,0 +1,1 @@
+  rename some files like in PyDev debugger  

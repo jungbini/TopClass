@@ -1,0 +1,1 @@
+  perf fix: avoid expensive VFS calls from ChangeListManager.getChange()  

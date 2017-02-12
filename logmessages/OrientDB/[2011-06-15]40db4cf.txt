@@ -1,0 +1,1 @@
+  Fixed nasty ClassCastException in indexes for a Java bug?  

@@ -1,0 +1,1 @@
+  Implementation of association of devices. Moved device feature to be "feature=<feature>" for consistent parsing of optional parameters. Also fixed a few issues in the association map building and some issues with unintialised/improperly initialised variables causing exceptions.  

@@ -1,0 +1,1 @@
+  workaround for  "Unexpected JDWP Error: 32" - "opaque frame" JDI bug  

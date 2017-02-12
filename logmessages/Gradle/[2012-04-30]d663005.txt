@@ -1,0 +1,1 @@
+  Gradle-2254 fix integration test that was accidently broken during formatting.  

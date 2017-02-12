@@ -1,0 +1,1 @@
+  change constants for better error checks (fixes #3776)  

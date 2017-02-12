@@ -1,0 +1,1 @@
+  added Transform, like Filter (generic closure-based operation). Various test case tweaks. Found bug in MapSequence.  

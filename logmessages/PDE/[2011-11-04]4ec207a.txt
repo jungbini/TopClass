@@ -1,0 +1,1 @@
+  update Quaqua to 8.0 to fix popup menu problem  

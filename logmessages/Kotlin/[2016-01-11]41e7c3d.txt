@@ -1,0 +1,1 @@
+  Debugger: generate package parts only for debug file #KT-10126 Fixed  

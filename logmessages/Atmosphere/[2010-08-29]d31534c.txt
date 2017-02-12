@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=41 ("Switching transport not working")  Make sure we don't reconnect when abording the current connection.  

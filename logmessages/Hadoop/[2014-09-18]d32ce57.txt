@@ -1,0 +1,1 @@
+  HDFS-7084. FsDatasetImpl#copyBlockFiles debug log can be improved. (Contributed by Xiaoyu Yao)  Conflicts: hadoop-hdfs-project/hadoop-hdfs/CHANGES-HDFS-6581.txt  

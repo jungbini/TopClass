@@ -1,0 +1,1 @@
+  we must add "http://" prefix if specified path is not absolute  

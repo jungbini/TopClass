@@ -1,0 +1,1 @@
+  SpanishVerbStripper: fix dictionary path  

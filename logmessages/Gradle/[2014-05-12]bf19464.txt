@@ -1,0 +1,1 @@
+  Extracted jvm detection out of AvailableJavaHomes fixture and changed it to search in platform specific way and to extract more meta-data about the jvm installation  - Uses Windows registry to find Sun/Oracle JVMs on Windows - Uses /usr/libexec/java_home on OS X to find registered JVMs.  

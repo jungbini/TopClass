@@ -1,0 +1,1 @@
+  Add config setting for expanding SD-ELEMENTs in SyslogCodec  Activating "expand_structured_data" will now prefix the extracted attributes from structured syslog messages with the SD-ID of the SD-ELEMENT they've been extracted from, e. g. '[meta key="val"][mySD@12345 key="val"]' would result in two attributes "meta_key=val" and "mySD@12345_key=val" in the final GELF message.  

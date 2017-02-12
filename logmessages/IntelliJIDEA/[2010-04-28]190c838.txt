@@ -1,0 +1,1 @@
+  Maven: deadlocks during psi resolve fixed  

@@ -1,0 +1,1 @@
+  fixed issue with multi threaded networks and the best loss objective on finetune  

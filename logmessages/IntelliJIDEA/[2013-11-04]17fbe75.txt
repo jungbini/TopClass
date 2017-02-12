@@ -1,0 +1,1 @@
+  not initialized problem: fix static fields checks  

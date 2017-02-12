@@ -1,0 +1,1 @@
+  HBASE-2558 [mvn] Our javadoc overview -- 'Getting Started', requirements, etc. -- is not carried across by mvn javadoc:javadoc target; fixup LHS menu so works in tgz docs static context  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@952793 13f79535-47bb-0310-9956-ffa450edef68  

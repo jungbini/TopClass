@@ -1,0 +1,1 @@
+  feat(android): Emojikeyboard catching lifecycle fix  

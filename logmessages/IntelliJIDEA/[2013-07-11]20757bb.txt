@@ -1,0 +1,1 @@
+  Do not double check for unresolved basestring  fixed PY-10262 "basestring type is not available in py3" cannot be ignored  

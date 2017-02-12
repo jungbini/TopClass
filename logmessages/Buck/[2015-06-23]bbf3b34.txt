@@ -1,0 +1,1 @@
+  Fail a test if a try/catch block that's meant to fail doesn't  Summary: Spotted while debugging something unrelated.  Test Plan: buck test --all  

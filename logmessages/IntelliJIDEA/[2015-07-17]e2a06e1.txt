@@ -1,0 +1,1 @@
+  AlphaUnsortedPropertiesFilesInspection: added test for fix with multiline property  

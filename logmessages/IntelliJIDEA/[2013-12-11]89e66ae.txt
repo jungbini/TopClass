@@ -1,0 +1,1 @@
+  Race condition fixed for configuration mercurial test.  *sometimes hgrc not updated before log command started  

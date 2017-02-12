@@ -1,0 +1,1 @@
+  YARN-906. Fixed a bug in NodeManager where cancelling ContainerLaunch at KILLING state causes that the container to hang. Contributed by Zhijie Shen. svn merge --ignore-ancestry -c 1509924 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1509925 13f79535-47bb-0310-9956-ffa450edef68  

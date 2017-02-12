@@ -1,0 +1,1 @@
+  Finally fixed split vertically/split horizontally. On editor tab this time.  

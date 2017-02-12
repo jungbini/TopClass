@@ -1,0 +1,1 @@
+  Bumped the wrapper snapshot to a new thing that contains:  -Daz' 'Accept-Encoding: identity' fix to all of our dependency resolution http requests -Szczepan & Luke's fixes for the daemon server exception handling (problems with stalled client)  

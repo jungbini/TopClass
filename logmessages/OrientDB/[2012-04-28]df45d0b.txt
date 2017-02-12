@@ -1,0 +1,1 @@
+  - fixed string operator RIGHT() - supported chain even with non-records - allowed chain operation against context variable  

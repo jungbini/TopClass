@@ -1,0 +1,1 @@
+  Separator color in toolbars fixed.  

@@ -1,0 +1,1 @@
+  fixed PY-12267 Project Interpreters: inconsistent path separators for virtualenvs and base interpreters  

@@ -1,0 +1,1 @@
+  IDEA-52046 run/debug menu folder structure  

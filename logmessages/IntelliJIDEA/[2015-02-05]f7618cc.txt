@@ -1,0 +1,1 @@
+  [vcs-log] fix icon for GitBranchesAction IDEA-136061  

@@ -1,0 +1,1 @@
+  KT-5087 Private members of Java classes should be marked as invisible, not unresolved  #KT-5087 fixed  

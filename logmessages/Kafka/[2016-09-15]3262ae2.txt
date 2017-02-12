@@ -1,0 +1,1 @@
+  HOTFIX: set sourceNodes to null for selectKey  To indicate its source topic is no longer guaranteed to be partitioned on key.  Author: Guozhang Wang <wangguoz@gmail.com>  Reviewers: Matthias J. Sax, Damian Guy, Eno Thereska  Closes #1858 from guozhangwang/KHotfix-set-null-sourceNodes-selectKey  

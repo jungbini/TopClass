@@ -1,0 +1,1 @@
+  Groovy configuration script support enhancements: * fix integTest assertions * improve error message if Groovy on classpath is not 2.1+ * added integration test for missing config file * added integration test for invalid config file * added integration test for incremental compilation  

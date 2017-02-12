@@ -1,0 +1,1 @@
+  fixed PY-10642 Run Configuration: NPE at com.jetbrains.python.testing.PythonTestConfigurationProducer.isConfigurationFromContext  

@@ -1,0 +1,1 @@
+  IDEA-134521 "View as" debugger functionality does not work for 'this' object  

@@ -1,0 +1,1 @@
+  Highlight usages test added to fixture  

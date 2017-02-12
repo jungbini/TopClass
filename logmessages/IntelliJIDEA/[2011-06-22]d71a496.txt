@@ -1,0 +1,1 @@
+  insert package definition when moving in the same package testdata fixed  

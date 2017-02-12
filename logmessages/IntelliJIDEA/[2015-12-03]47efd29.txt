@@ -1,0 +1,1 @@
+  augmenting IDEA-148802 Java Scratch files debugging: debugger ignores breakpoints in module classes and doesn't show their sources  

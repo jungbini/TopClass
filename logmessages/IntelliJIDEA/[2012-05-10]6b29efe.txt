@@ -1,0 +1,1 @@
+  IDEA-17535 Quickfix to remove extra argument in method call implemented  

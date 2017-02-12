@@ -1,0 +1,1 @@
+  jscs import: fix test, show among jscs import options JSCS package field - to be filled if preset is used  

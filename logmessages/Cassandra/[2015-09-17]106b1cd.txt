@@ -1,0 +1,1 @@
+ent not updating view options correctly.  Patch by Sam Tunnicliffe and Paulo Motta; reviewed by Aleksey Yeschenko for CASSANDRA-9921  

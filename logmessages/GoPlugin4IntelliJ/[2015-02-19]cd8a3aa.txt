@@ -1,0 +1,1 @@
+  Not find the fields of a struct in a slice when it is inside of a assertion switch; fix #1290  

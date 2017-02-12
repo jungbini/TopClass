@@ -1,0 +1,1 @@
+  Debugger: 'Step Over' unexpectedly resume if condition of 'while' loop contains inline function call #KT-11932 Fixed  

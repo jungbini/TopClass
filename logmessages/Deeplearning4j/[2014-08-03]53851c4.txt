@@ -1,0 +1,1 @@
+  apply fix for consistent matrix multiplies, jblas has issues with offset based matrices, a better fix should be applied later  

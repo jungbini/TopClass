@@ -1,0 +1,1 @@
+ Merge pull request #1703 from metamx/fix-npe  add null check for task context.  commit 726326abc3dbbfcbe20362398f6c5c406f4ac34b  Add Task Context and ability to override task specific properties  override javaOpts  fix compilation  review comments  Add Test for typecast  review comments - remove unused method.  

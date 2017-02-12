@@ -1,0 +1,1 @@
+  don't let our debugger metaclass stick in groovy runtime (IDEA-92542)  

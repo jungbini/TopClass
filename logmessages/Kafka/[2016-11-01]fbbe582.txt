@@ -1,0 +1,1 @@
+  KAFKA-4352: instable ResetTool integration test  - increased timeout to stabilize test  Author: Matthias J. Sax <matthias@confluent.io>  Reviewers: Eno Thereska, Guozhang Wang  Closes #2082 from mjsax/kafka-4352-hotfix  

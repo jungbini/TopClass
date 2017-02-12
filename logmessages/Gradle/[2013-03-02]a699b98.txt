@@ -1,0 +1,1 @@
+  GRADLE-2555 Added an integration test and a possible fix for the dependency resolution problem. Needs a review because there should be a better approach to solve this problem.  

@@ -1,0 +1,1 @@
+  vcs: preselect current file in ChangeBrowser on 'Show changed files from Annotate' action  fix for moved files  

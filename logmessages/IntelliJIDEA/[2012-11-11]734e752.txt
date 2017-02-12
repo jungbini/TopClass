@@ -1,0 +1,1 @@
+  IDEA-94209 Completion in parameter list at array parameter position should insert braces after new Type; fix groovy tests  

@@ -1,0 +1,1 @@
+ Merge pull request #2601 from apc999/SMALLFIX  [SMALLFIX] Remove out-of-date dependency from assembly/pom.xml to fix  commit 9ab98b3596ea20de49bb75629b0ee49cc564d666  [SMALLFIX] Remove out-of-date dependency from assembly/pom.xml to fix build  

@@ -1,0 +1,1 @@
+  Add a fix for the extraRequire warning. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=90515074  

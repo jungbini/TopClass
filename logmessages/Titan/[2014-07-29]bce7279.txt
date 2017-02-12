@@ -1,0 +1,1 @@
+ interpretation for indices.  The code this commit touches is a relic from the days of hard-coded string config keys and should be refactored out of existince by extending ConfigOption.  

@@ -1,0 +1,1 @@
+  added Remove decorator quick fix to the Problematic nesting of decorators inspection  

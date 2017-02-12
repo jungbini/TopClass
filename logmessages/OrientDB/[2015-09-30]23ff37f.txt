@@ -1,0 +1,1 @@
+  Fixed OIOUtils.getTodayWithTime so it parses using 24hr clock instead of 12hr. This fixes OAutomaticBackup 'firstTime' parameter.  

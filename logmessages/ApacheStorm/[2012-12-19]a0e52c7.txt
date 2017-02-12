@@ -1,0 +1,1 @@
+  fix isolation scheduler to properly clear a machine of workers when putting an isolated topology there  

@@ -1,0 +1,1 @@
+  Tests refactoring: 1. ant tests are removed. 2. properties to set server port in test mode were added. 3. few minor configuration mistakes were fixed.  

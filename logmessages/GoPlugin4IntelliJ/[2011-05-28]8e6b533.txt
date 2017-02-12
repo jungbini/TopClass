@@ -1,0 +1,1 @@
+  Changed the way the struct type is parsed (fixed a bug). Updated tests to account for the change in how the identifiers list is parsed  

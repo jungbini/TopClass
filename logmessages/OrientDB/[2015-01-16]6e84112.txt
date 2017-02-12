@@ -1,0 +1,1 @@
+  NPE of thread local references because of absence of strong references to clean up code was fixed.  

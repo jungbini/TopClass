@@ -1,0 +1,1 @@
+ Merge pull request #333 from AlexDBlack/master  Iris and MNIST DataSetIterator fixes  commit efa78813c16613ff4dfa179c66644ce837996f3a  Iris and MNIST DataSetIterator fixes  

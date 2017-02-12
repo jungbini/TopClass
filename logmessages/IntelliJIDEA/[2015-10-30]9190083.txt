@@ -1,0 +1,1 @@
+  PY-17295 In the quickfix use "if param is None" check instead of "if not param"  

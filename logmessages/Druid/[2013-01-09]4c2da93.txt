@@ -1,0 +1,1 @@
+  bug fixes with ec2 auto scaling  

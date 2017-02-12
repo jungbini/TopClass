@@ -1,0 +1,1 @@
+  Only prefix completion for keywords and templates (Leda only)  

@@ -1,0 +1,1 @@
+  gradle: fix artifact tests  

@@ -1,0 +1,1 @@
+  fixed PY-8523 Pycharm wrongly detects test name when using Nosetest's test generator  

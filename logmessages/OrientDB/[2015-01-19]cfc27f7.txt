@@ -1,0 +1,1 @@
+  fixed #3271 - cannot create lightweight edges even when the right flag was set on the db  

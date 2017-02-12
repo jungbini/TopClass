@@ -1,0 +1,1 @@
+  Fixing weird merge bug in projects/core/src/edu/stanford/nlp/tagger/maxent/TaggerFeature.java which persisted on git merge  

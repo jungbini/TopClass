@@ -1,0 +1,1 @@
+  Fixed a bug where a Pause event sometimes arrives immediately after a Stop, causing the player state to get a bit mixed up.  

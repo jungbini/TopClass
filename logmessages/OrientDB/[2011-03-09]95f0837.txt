@@ -1,0 +1,1 @@
+  Fixes nasty bug on a test executed by Maven.  

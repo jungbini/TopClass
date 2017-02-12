@@ -1,0 +1,1 @@
+  HBASE-1808 [stargate] fix how columns are specified for scanners  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@814088 13f79535-47bb-0310-9956-ffa450edef68  

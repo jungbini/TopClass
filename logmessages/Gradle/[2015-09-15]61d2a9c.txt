@@ -1,0 +1,1 @@
+  fix compiling tests - wire classpath for compile tasks from old-model - just for testing since external dependencies aren't yet supported in new model  +review REVIEW-5616  

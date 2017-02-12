@@ -1,0 +1,1 @@
+ Test and fix for inferring pseudo-directories in an object store not created through Alluxio  

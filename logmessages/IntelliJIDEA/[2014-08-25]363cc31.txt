@@ -1,0 +1,1 @@
+  fixed PY-13662 Python Quick Documentation: hyperlinks are not distinguishable from usual text  

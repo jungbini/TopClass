@@ -1,0 +1,1 @@
+  fix zero period in PeriodGranularity causing gran.iterable(start, end) infinite loop (#3644)  

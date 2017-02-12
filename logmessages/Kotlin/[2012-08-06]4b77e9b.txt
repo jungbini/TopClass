@@ -1,0 +1,1 @@
+  tests for obsolete tasks #KT-2445 fixed #KT-2459 fixed  

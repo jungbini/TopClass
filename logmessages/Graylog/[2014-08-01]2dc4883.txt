@@ -1,0 +1,1 @@
+  refactor shutdown for ES connection failure during startup  there were some livelocks involving the latches used in starting the inputs  fixes #517  

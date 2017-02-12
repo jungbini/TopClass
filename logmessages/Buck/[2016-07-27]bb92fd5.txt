@@ -1,0 +1,1 @@
+  Temproarily fix perf_test_hg  Summary: Because buck clean does not clean any other cells, the rules from there are LOCAL_KEY_UNCHANGED hits, which fails the check  Test Plan: CI  Reviewed By: michath  fbshipit-source-id: 46f32f1  

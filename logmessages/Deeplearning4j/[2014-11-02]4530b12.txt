@@ -1,0 +1,1 @@
+  fix bug in initialization on multi layer when layerwise configurations are specified, also add a fluent api for layer specific overrides  

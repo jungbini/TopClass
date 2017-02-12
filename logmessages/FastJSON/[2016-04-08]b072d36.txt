@@ -1,0 +1,1 @@
+  seriliaze support Iterable/Iterator, fixed issue 'https://github.com/alibaba/fastjson/issues/478'  

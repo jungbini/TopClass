@@ -1,0 +1,1 @@
+ Merge pull request #503 from rhuss/patch-1  Minor typo fix  commit 65ba9b0526d997b170c11beeb95d482d97493c64  Minor typo fix  Fixed minor typo in BUILD_README.md  

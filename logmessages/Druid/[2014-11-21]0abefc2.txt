@@ -1,0 +1,1 @@
+  fix crazy amounts of logging when coordinator loses leadership  Conflicts: server/src/main/java/io/druid/server/coordinator/helper/DruidCoordinatorRuleRunner.java  

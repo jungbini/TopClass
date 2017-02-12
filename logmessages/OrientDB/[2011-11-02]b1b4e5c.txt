@@ -1,0 +1,1 @@
+  by Luca Molino to fix issue 590. Now level:0 = no loading, level:1 = load own fields  

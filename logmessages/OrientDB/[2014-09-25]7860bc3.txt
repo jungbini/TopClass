@@ -1,0 +1,1 @@
+  fixed the type restore from serialization in any case, add type retention also in schemaful case. issue #2820  

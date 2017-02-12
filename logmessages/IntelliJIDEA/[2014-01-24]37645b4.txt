@@ -1,0 +1,1 @@
+  fixed PY-11561 "Add super class call" incorrectly inserts parameter annotations  

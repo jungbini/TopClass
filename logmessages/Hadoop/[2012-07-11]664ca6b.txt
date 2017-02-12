@@ -1,0 +1,1 @@
+  HDFS-3615. Two BlockTokenSecretManager findbugs warnings. Contributed by Aaron T. Myers.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1360255 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Fix for findAnnotation() bug when using a module with JSP Files.  

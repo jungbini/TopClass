@@ -1,0 +1,1 @@
+  Minor: fixed the case when batch delete of vertices and edges cause OCME  

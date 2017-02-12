@@ -1,0 +1,1 @@
+  fix(server:persist): remove not null constraint on config_parameters value  

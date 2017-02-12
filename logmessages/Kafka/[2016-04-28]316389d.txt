@@ -1,0 +1,1 @@
+  KAFKA-3611: Remove warnings when using reflections  ewencp granders Can you take a look? Thanks!  Author: Liquan Pei <liquanpei@gmail.com>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #1259 from Ishiihara/fix-warning  

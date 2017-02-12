@@ -1,0 +1,1 @@
+ quick fix for find super that has frequently used inheritors  

@@ -1,0 +1,1 @@
+  IDEABKL-6897 Enter inserts closing brace in wrong place  - revert changes that led to bug  

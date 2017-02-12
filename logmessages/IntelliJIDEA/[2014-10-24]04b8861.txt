@@ -1,0 +1,1 @@
+  push dialog: horizontal auto scrolling fixed  

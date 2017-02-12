@@ -1,0 +1,1 @@
+  Console: fixed issue against closed remote server connections  

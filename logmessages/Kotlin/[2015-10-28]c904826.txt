@@ -1,0 +1,1 @@
+  Fixed extensions completion for runtime receiver type in debugger (broken by previos changes in extensions completion)  

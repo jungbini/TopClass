@@ -1,0 +1,1 @@
+ Merge pull request #1774 from dmitry-treskunov/fix_semaphore  JSR356WebSocket: always release semaphore  commit 59a78f35b27970dcb16d6592bcf9c8ca65159fc2  Final fixes for #1756  

@@ -1,0 +1,1 @@
+  Add helpers to python path for jython under debug  (PY-17550)  It was removed while python command line refactoring  

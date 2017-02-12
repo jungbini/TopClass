@@ -1,0 +1,1 @@
+  PY-16747, PY-16770 generated abstract methods preserve formatting and prefix of original docstring  

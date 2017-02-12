@@ -1,0 +1,1 @@
+  Fix for #851 Added a timer thread, which will try to reconnect to the KNX bus in case of initial connection failure. Modified management of DP initialization, such that DPs are not removed from the queue when connection is not established. Added debug and trace messages.  

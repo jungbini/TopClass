@@ -1,0 +1,1 @@
+  [bugfix] Added proper completion resolving to methods that are used via pointer types.  Issue #93  Signed-off-by: Mihai Claudiu Toader <mtoader@gmail.com>  

@@ -1,0 +1,1 @@
+  some fixes for major darcula combobox issues (no actions assigned, gaps between editor and border, etc)  

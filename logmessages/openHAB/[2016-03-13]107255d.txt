@@ -1,0 +1,1 @@
+  add Fritzbox TR064 back to the build (due to fixes in #4161)  Signed-off-by: Thomas Eichstdt-Engelen <thomas@openhab.org>  

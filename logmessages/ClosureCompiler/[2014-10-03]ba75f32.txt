@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE] Bugfixes for subtyping of generic functions. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=77008765  

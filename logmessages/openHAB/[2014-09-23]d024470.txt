@@ -1,0 +1,1 @@
+ Merge pull request #1450 from digitaldan/zwave-hail-fix  [Z-Wave] hail fix  commit d02447078887f6651cc54b115836ea336d229830  Tidy multi command class - remove debug and add further documentation.  

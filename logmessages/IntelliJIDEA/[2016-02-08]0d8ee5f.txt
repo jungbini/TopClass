@@ -1,0 +1,1 @@
+  maven: do not use debug level by default, it can pollute logs (IDEA-150966)  

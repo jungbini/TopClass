@@ -1,0 +1,1 @@
+  Update manage.scala.html  fix typo and improve sentence structure  

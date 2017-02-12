@@ -1,0 +1,1 @@
+  cache itemscope tag #WEB-19192 fixed  

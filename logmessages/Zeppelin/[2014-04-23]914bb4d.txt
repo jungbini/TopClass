@@ -1,0 +1,1 @@
+  Trying to fix travisCI build error by bumping up surefire version  

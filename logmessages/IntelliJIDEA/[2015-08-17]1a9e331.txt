@@ -1,0 +1,1 @@
+  IDEA-143911 (quick fix produces uncompilable code (StringBuffer can be replaced with String))  

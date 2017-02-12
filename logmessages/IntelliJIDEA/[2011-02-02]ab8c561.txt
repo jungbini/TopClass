@@ -1,0 +1,1 @@
+  replace ref quickfix checks scope (IDEA-64946)  

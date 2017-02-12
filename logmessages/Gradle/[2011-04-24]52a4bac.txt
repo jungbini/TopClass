@@ -1,0 +1,1 @@
+  GRADLE-1338 - Various fixes for when the tooling api provider uses the daemon - Changed tooling api integration tests to use embedded tooling api provider when tests are in 'embedded' model, and the daemon when the tests are in 'forking' mode. Tear down still needs some work, as daemon processes can get left behind after the tests execute.  

@@ -1,0 +1,1 @@
+  SQL: Fixed bug on LET when indexes were used  

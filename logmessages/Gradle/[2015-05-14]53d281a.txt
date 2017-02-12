@@ -1,0 +1,1 @@
+  Test fix after behaviour change to register empty source as to-watch.  +review REVIEW-5481  

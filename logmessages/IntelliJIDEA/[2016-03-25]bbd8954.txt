@@ -1,0 +1,1 @@
+  fixed not showing custom icon in watches if available  

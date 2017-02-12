@@ -1,0 +1,1 @@
+  cursor fix (#2358) and svg fix (#2377)  

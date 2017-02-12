@@ -1,0 +1,1 @@
+  Fix for issue #455. Stops using toLowerCase() method for attribute name. I guess this bug came from very old version and hasn't been recognized.  

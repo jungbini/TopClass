@@ -1,0 +1,1 @@
+  Create quickfix to delete "&Type" from composite literals  

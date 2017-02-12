@@ -1,0 +1,1 @@
+  Bug with reading new config parameters fixed. Scheduled refresh items are now read initially.  

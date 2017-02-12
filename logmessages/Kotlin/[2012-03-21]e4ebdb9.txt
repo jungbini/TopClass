@@ -1,0 +1,1 @@
+  Added temporary workaround to update_dependencies.xml to fix compilation.  

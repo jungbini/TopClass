@@ -1,0 +1,1 @@
+  Optimize imports: fixed bug with references in class declaration header  

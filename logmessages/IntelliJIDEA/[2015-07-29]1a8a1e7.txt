@@ -1,0 +1,1 @@
+  project.default double save should be fixed now, so, remove condition (CR-IC-7376)  

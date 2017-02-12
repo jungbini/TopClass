@@ -1,0 +1,1 @@
+  daemon strip fix to use custom seveerities ( IDEADEV-19823)  

@@ -1,0 +1,1 @@
+  Fixed bug on using decoding() in log warn message in case the command is wrong  

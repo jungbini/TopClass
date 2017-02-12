@@ -1,0 +1,1 @@
+  fix inability to move caret to document trailing region using mouse or keyboard when soft wraps are enabled  

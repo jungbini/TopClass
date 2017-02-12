@@ -1,0 +1,1 @@
+  additional annotation completion fixes (IDEADEV-2522)  

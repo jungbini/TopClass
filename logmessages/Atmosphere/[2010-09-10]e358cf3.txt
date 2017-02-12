@@ -1,0 +1,1 @@
+  bug fix: https://atmosphere.dev.java.net/issues/show_bug.cgi?id=43 Changed how to find Classes.  

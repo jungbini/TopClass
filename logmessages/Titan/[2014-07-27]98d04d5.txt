@@ -1,0 +1,1 @@
+  Updated the config printer to mark umbrella namespaces and use prefix in name construction.  

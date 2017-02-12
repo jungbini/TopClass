@@ -1,0 +1,1 @@
+  a couple of tests fixed to avoid assertion of document modification outside command  

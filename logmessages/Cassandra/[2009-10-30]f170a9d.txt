@@ -1,0 +1,1 @@
+  fix hinted handoff map computation patch by jbellis; tested by Edmond Lau for CASSANDRA-524  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@831414 13f79535-47bb-0310-9956-ffa450edef68  

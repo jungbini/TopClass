@@ -1,0 +1,1 @@
+  SVN: store detected working copies in .iws and use it for initialization + deadlock fix  

@@ -1,0 +1,1 @@
+  IDEA-69858 When creating a quicklist, the selected list items are blank (another fix, still has no selection bg in alloy, but should look better under GTK+ & Nimbis)  

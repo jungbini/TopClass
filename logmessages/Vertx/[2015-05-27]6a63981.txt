@@ -1,0 +1,1 @@
+  added encoding test for form_urlencoded parameters in request body. see https://bugs.eclipse.org/bugs/show_bug.cgi?id=465616  Signed-off-by: sibay <sibay@gmx.de>  

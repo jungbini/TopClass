@@ -1,0 +1,1 @@
+  GRADLE-2318: Let MavenRepository test fixture always publish root maven-metadata.xml file.  

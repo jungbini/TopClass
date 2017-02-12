@@ -1,0 +1,1 @@
+  git log: fix for long paths in graph (take future points into account at the moment when wire is seized by them)  

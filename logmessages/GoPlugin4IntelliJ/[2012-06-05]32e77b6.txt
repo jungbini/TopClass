@@ -1,0 +1,1 @@
+  Add a debugging tool to see which elements are proper GoPsi elements.  Signed-off-by: Mihai Claudiu Toader <mtoader@gmail.com>  

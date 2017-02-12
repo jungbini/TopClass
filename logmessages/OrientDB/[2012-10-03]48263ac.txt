@@ -1,0 +1,1 @@
+  Fixed bug with in memory databases and count() cause the -1 cluster in Abstract Classes (like the new OIdentity)  

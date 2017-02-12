@@ -1,0 +1,1 @@
+  GRADLE-718 Fixed a resolve bug when project have identical group/version/name values. Big refactoring of the ivy conversion layer. Clearly separated converters for resolving, publishing artifacts and generating the published ivy.xml. Improved modularization of the ivy conversion layer.  

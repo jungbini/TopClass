@@ -1,0 +1,1 @@
+  cleanup logger.debug too  

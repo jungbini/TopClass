@@ -1,0 +1,1 @@
+  fix groovy formatting: multiple else-if clauses, ability not to indent case inside switch, preserve space before closure parameter list  

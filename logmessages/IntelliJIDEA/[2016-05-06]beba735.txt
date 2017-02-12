@@ -1,0 +1,1 @@
+  git: recreate the script with the fixed name instead of createTempFile()  * Don't delete the file on exit (which is bad in general (IDEA-CR-9240), and sometimes fails leading to issues like IDEA-154537). * Overwrite the content on the first usage to make sure it contains the latest version of the script.  

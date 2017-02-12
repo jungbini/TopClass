@@ -1,0 +1,1 @@
+  avoid making local node part of the token ring until bootstrap completes; fix other buglets patch by jbellis; reviewed by Jaakko Laine for CASSANDRA-536  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@835213 13f79535-47bb-0310-9956-ffa450edef68  

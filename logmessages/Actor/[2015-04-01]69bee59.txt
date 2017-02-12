@@ -1,0 +1,1 @@
+  feat(common+android): Implementing group avatar change, fixed media sending  

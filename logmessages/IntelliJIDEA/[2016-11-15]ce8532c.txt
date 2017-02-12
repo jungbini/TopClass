@@ -1,0 +1,1 @@
+  Reopening Debugger Console causes IllegalArgumentException (PY-21457)  Add console folding to debug console once  

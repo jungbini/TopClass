@@ -1,0 +1,1 @@
+  javafx: SB path on mac fixed (IDEA-104066)  

@@ -1,0 +1,1 @@
+  [vcs] IDEA-118644 Fix apply patch for new file in new folder + test  We still can find a better match if we search from the previous path component, e.g. in the case described in the bugreport: when new file is created along with one or several subfolders.  Add a test for this case + one more test for adding a file generated from a super-root.  

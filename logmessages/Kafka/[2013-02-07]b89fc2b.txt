@@ -1,0 +1,1 @@
+  Minor log4j fixes for DefaultEventHandler to avoid printing ByteBufferMessageSets in error messages. This makes reading the important part of the error message very 

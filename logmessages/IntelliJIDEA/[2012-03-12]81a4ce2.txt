@@ -1,0 +1,1 @@
+  fixed PY-5960 Mako auto-format incorrectly removes \ characters  

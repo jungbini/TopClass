@@ -1,0 +1,1 @@
+  made search for package case insensitive  fixed PY-10129 Sphinx quickstart action greyed out  

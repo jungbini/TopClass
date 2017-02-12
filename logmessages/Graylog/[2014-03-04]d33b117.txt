@@ -1,0 +1,1 @@
+  allow copying message ids to native clipboard  basically applicable for other things too, right now we only treat message ids like this  fixes #694  

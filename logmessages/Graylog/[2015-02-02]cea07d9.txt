@@ -1,0 +1,1 @@
+  improve bootstrap error messages when journal directory or associated files aren't accessible  fixes #931  

@@ -1,0 +1,1 @@
+  Add a unit test for my recent fixes to SmartDexingStep.  Test Plan: Sandcastle builds.  

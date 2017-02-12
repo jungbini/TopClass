@@ -1,0 +1,1 @@
+  Fixed bug about marshal collections of links without the class name  

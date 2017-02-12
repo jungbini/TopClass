@@ -1,0 +1,1 @@
+  numerous fixes, handled <class> tag  

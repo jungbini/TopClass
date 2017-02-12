@@ -1,0 +1,1 @@
+  more debug info for disposed lookup (EA-27533, EA-27503) and wrong lookup start offset (EA-27494)  

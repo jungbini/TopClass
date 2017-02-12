@@ -1,0 +1,1 @@
+  fix(android): dismiss keyboard when attach menu is open and vice versa  

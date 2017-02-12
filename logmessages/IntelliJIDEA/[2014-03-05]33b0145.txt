@@ -1,0 +1,1 @@
+  IDEA-121675 Nashorn: Debug: RunToCursor is always disabled when js file is active  

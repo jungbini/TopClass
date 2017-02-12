@@ -1,0 +1,1 @@
+  fixed TIMEOUT syntax with explicit RETURN/EXCEPTION - also applied some fixes to INSERT statement syntax  

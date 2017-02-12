@@ -1,0 +1,1 @@
+  fix(android): add slashes to command holder and send  

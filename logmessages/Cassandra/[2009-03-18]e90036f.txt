@@ -1,0 +1,1 @@
+  Needed to make these changes to fix an issue with reads w/o column indexes.  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@755485 13f79535-47bb-0310-9956-ffa450edef68  

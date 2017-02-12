@@ -1,0 +1,1 @@
+  Allow CSV export of search results  currently the output is limited to 100000 rows, because there is no streaming support yet  fixes #233  

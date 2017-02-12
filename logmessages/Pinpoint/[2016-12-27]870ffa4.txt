@@ -1,0 +1,1 @@
+  bug fix. - do not initialized period time when select realtime mode.  

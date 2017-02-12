@@ -1,0 +1,1 @@
+  YARN-4115. Reduce loglevel of ContainerManagementProtocolProxy to Debug (adhoot via rkanter)  

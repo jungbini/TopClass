@@ -1,0 +1,1 @@
+  fixed issue on connection retry in case of distributed environment  

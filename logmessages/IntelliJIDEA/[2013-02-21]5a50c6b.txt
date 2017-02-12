@@ -1,0 +1,1 @@
+  IDEA-100922 Messages, Run & Debug tool windows pop up unexpectedly and disturb one from the current work After-review (http://crucible.labs.intellij.net/cru/CR-IC-151)  

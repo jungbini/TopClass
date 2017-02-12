@@ -1,0 +1,1 @@
+  bug fixed [RUBY-5978] Window title could be better  

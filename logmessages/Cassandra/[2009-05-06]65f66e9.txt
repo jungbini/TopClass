@@ -1,0 +1,1 @@
+  force flush when there are pending ops on the memtable executor even when none have finished yet.  this fixes test case intermittent failures.  patch by jbellis; reviewed by Eric Evans for CASSANDRA-141  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@772361 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Add dependency on jna to fix chatty Elasticseach log message (#2342)  Since Elasticsearch 2.3.3, Elasticsearch logs a warning with a huge stack trace if JNA is not available.  We are adding the dependency instead of silencing the log message because it adds useful features like mlockall.  

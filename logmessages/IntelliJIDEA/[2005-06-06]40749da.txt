@@ -1,0 +1,1 @@
+  JavaFormattrTest.testMethodCallChain fixed  

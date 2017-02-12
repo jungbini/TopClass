@@ -1,0 +1,1 @@
+ vcs: fix presentation of moved files in ChangesBrowser  old: NewName.java - moved from [module] some/old/path new: NewName.java - moved from [module] some/old/path/OldName.java  old: File.java - moved from ../old_path/File.java new: File.java - moved from ../old_path/  old: File.java - moved from [module] some/old/path new: File.java - moved from [module] some/old/path/  

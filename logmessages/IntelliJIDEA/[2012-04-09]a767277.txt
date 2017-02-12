@@ -1,0 +1,1 @@
+  fixed PY-6259 PyCharm suggests to install pip, though it is already installed  

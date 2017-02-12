@@ -1,0 +1,1 @@
+  Minor: fixed case insensitive bug on "log" setting  

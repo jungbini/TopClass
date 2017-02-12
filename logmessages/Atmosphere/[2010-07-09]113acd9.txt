@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=33 ("java.lang.IllegalStateException with BlockingIOCometSupport and CometSupport.maxInactiveActivity")  Make sure the suspend mechanisn doesn't clash with the idle mechanism  

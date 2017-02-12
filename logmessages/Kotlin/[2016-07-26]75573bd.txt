@@ -1,0 +1,1 @@
+  Quick Fixes: Use simple class name in "Change function return type" quickfix #KT-12919 Fixed  

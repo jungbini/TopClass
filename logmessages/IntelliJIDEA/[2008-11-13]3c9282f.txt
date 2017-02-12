@@ -1,0 +1,1 @@
+  specify -Xdebug parameter when using j2ee configurations with jdk 1.5 or earlier  

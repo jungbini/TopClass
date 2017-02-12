@@ -1,0 +1,1 @@
+  build scripts: added 'get' prefix to method names for consistency and to avoid disambiguation  E.g. it may not be evident that 'uninstallFeedbackPageUrl' method is supposed to do.  

@@ -1,0 +1,1 @@
+  A few bug fixes  * Correcting a bug that prevents some contribs from auto-update on restart * Mode installed during auto-update on restart now displays in mode menu  

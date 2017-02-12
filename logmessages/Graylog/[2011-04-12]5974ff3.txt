@@ -1,0 +1,1 @@
+  fix wrong date format in rake subscription email #NO_ISSUE  

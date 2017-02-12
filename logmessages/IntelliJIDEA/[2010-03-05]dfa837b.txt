@@ -1,0 +1,1 @@
+  fixed disappearing equivalent expressions from grouped by nullness tree  

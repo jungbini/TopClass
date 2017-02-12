@@ -1,0 +1,1 @@
+  GitLogRecord: fix revisions creation params  Create multiple content revision with the correct (this) revision, not by taking the first of parents.  

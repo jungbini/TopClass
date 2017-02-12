@@ -1,0 +1,1 @@
+  fixing various issues with reparsing of whole ant tree hacking analyzing daemon in order to provide always the scope of whole ant file  

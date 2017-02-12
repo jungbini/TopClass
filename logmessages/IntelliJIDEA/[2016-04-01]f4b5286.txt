@@ -1,0 +1,1 @@
+  groovy: remove unnecessary invokeLater from some intentions & quick fixes  

@@ -1,0 +1,1 @@
+  fixes to catch more build errors, Android now working on Linux again  

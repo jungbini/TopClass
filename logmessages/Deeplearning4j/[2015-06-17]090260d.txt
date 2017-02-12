@@ -1,0 +1,1 @@
+ Merge pull request #351 from deeplearning4j/mw_fix_weight_rng  Fix rng and seed in weighutil and neuralnetconfiguration to ensure consistency  commit 090260d12a100c8f38cdcda6790d38c77eae9f8f  Added and adapted tests for the fixes to seed and rng.  

@@ -1,0 +1,1 @@
+  HADOOP-5462. Fixed a double free bug in the task-controller executable. Contributed by Sreekanth Ramakrishnan.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk@763247 13f79535-47bb-0310-9956-ffa450edef68  

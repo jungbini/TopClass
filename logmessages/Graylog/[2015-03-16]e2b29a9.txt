@@ -1,0 +1,1 @@
+  tmeporary fix to make quickvalues and single message view work again @ux  

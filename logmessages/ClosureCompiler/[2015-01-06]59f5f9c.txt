@@ -1,0 +1,1 @@
+  Small fixes in new type inference error messages:  - Remove extra space that causes things not to align correctly. - Include the name of the function being referred to, if possible. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=83356639  

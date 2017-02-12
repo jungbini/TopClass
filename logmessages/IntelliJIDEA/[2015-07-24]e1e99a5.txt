@@ -1,0 +1,1 @@
+  fix com.intellij.dvcs.repo.VcsRepositoryManager requested as a service, but it is a component - convert it to a service or change call to project.getComponent()  

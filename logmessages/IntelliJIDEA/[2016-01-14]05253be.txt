@@ -1,0 +1,1 @@
+  PY-18203 Redundant parentheses quick fix produces syntactically incorrect code for tuples  If parentheses expression contains binary expression where left and right are parentheses expressions too, we check if left and right contain tuples  

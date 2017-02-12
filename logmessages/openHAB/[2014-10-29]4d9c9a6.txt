@@ -1,0 +1,1 @@
+ Merge pull request #1475 from ehmke/master  [SONOS] fix for not recognized speakers.  commit 4d9c9a63949792dd0e1c23ea8e0fc04c6216f46d  fixed NPE when openpaths service not available  

@@ -1,0 +1,1 @@
+ Make mysql persistent documentation more clear  Make mysql persistent documentation more clear to avoid multiple hours of bug hunting  

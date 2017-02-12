@@ -1,0 +1,1 @@
+  findClass() and findPackage() added to Java code insight text fixture  

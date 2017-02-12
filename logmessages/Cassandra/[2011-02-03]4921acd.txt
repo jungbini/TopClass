@@ -1,0 +1,1 @@
+  fix UUIDv1 generation for non-default date-times  Patch by eevans; reviewed by gdusbabek for CASSANDRA-2099   git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1066730 13f79535-47bb-0310-9956-ffa450edef68  

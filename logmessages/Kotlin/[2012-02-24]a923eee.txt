@@ -1,0 +1,1 @@
+  added links to the extension functions from the summary page table and fixed up the detail extension function docs (also made nice use of the multi line treble quoted strings with templates, yay! :)  

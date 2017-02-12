@@ -1,0 +1,1 @@
+  fix excessive garbage production: don't load icons on every update  

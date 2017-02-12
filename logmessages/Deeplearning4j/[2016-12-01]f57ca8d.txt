@@ -1,0 +1,1 @@
+  Fixed Keras->DL4J dropout bug. Also renamed a bunch of static final constants so that it's obvious what they are.  

@@ -1,0 +1,1 @@
+  Run CE build script same way as a build server (fix missing javac error)  

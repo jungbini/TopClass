@@ -1,0 +1,1 @@
+  fix tests, revert some more of configuration naming behavior changes  

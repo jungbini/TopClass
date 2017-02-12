@@ -1,0 +1,1 @@
+  Console: fixed "indexes" that avoid computing sizes on not unique indexes that is pretty expensive  

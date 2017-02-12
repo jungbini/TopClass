@@ -1,0 +1,1 @@
+  finalizing how thread() works, more todo items, Linux launcher fix (issue #707)  

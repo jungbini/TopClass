@@ -1,0 +1,1 @@
+  (cqlsh) fix cqlsh_copy_tests when vnodes are disabled  patch by Stefania Alborghetti; reviewed by Paulo Motta for CASSANDRA-10997  

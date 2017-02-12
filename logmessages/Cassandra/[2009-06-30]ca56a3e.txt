@@ -1,0 +1,1 @@
+  more consistent checking of thrift parameters; fixes multiple bugs. patch by jbellis; reviewed by Evan Weaver for CASSANDRA-266  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@789979 13f79535-47bb-0310-9956-ffa450edef68  

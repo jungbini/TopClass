@@ -1,0 +1,1 @@
+  fixed rendering of expanded folding anchors  arrow in directed box should always have 45' slope. `width / 2 == height - baseHeight`  

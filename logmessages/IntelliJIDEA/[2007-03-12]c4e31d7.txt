@@ -1,0 +1,1 @@
+  scope view: append location; fix equals&hashCode for multiple content roots with same short names (IDEADEV-15194)  

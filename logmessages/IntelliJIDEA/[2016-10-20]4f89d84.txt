@@ -1,0 +1,1 @@
+  Add folding for start message with Python interpreter information in Python Console and Debug console (PY-20614)  

@@ -1,0 +1,1 @@
+  fix double icon in available plugins table  

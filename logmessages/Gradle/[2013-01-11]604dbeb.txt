@@ -1,0 +1,1 @@
+  Cater for GRADLE-2630 (single use daemon process does not exit before client) by using a spin assert in tests.  This should be removed when GRADLE-2630 is fixed.  

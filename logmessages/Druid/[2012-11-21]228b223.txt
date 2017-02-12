@@ -1,0 +1,1 @@
+  1) Fix bug with Sinks that causes Realtime it to overwrite the first chunk of data when creating a segment to hand off to compute nodes. 2) Fix bug with RealtimePlumberSchool that can cause it to miss some previously-persisted segments when directory naming changes 3) Have the various runnables in RealtimePlumberSchool name the threads to make it a bit easier to debug  

@@ -1,0 +1,1 @@
+  add naive possible fix for windows + java8 ci builds  

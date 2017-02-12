@@ -1,0 +1,1 @@
+  GRADLE-2104 fix by adding jsch library classpath - add TestRule SftpServer - add IvySFtpPublishIntegrationTest for testing publishing using org.apache.ivy.plugins.resolver.SFTPResolver()  

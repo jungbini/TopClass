@@ -1,0 +1,1 @@
+  Maven: 'classes not found' problem fix (IDEADEV-25382, IDEADEV-25383)  

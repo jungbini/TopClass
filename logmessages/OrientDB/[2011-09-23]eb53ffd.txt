@@ -1,0 +1,1 @@
+  Fixed issue 540 about the presence of the hashing prefix in orientdb-server-config.xml file  

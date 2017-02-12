@@ -1,0 +1,1 @@
+  JS backend: add debug info into several tests  

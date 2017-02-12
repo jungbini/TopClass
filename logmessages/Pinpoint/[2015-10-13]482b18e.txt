@@ -1,0 +1,1 @@
+  Working realtime chart UI. Working Preference feature. Modify scatter full screen mode bug. - do not work dragging  

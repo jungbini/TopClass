@@ -1,0 +1,1 @@
+  Make sure all AbstractIdleService classes are singletons.  Avoids "funny" debugging sessions.  

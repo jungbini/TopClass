@@ -1,0 +1,1 @@
+  TreeUi: fix for CME in UpdaterTreeState + extra checks for EDT  

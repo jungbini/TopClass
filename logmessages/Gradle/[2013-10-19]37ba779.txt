@@ -1,0 +1,1 @@
+  Some fixes to the implementation of the simple state info protocol. Unified some exception handling.  

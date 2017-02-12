@@ -1,0 +1,1 @@
+  fixed PY-10130 Web2Py: Throwable at com.intellij.psi.impl.source.resolve.reference.impl.providers.FileReference.rename  

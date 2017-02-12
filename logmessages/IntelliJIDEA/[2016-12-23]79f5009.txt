@@ -1,0 +1,1 @@
+  console deferred buffer rewritten to be O(1) instead of O(token number) to help fix IDEA-165325 version 2016.3 extreme slow console  

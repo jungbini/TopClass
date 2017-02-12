@@ -1,0 +1,1 @@
+  Fix concurrent lazy init bug in TitanKeyVertex  

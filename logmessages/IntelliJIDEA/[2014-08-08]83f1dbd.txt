@@ -1,0 +1,1 @@
+  IDEA-128388 Show all affected files for directory fixed  

@@ -1,0 +1,1 @@
+  Use `BuildTargetSourcePath`s to fix missing dependency on `ReactNativeBundle`.  Summary: Earlier, I made `AndroidReactNativeLibrary` implement `HasRuntimeDeps` to essentially "export" the `ReactNativeBundle` dependency. As @coneko pointed out, this was not the right fix. @andrewjcg had mentioned on that 

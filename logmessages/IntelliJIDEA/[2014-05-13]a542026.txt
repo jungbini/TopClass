@@ -1,0 +1,1 @@
+  java-xdebugger: use correct context for variables calculation  

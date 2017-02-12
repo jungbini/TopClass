@@ -1,0 +1,1 @@
+  javafx: make field ref unresolvable when controller is set in .fxml; add create field quick fix (IDEA-103198)  

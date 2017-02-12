@@ -1,0 +1,1 @@
+  Another error solved.  Now, errors are stored in @errors when parsing a not well-formed xml. Currently, no fixing takes place. I'm starting to hate libxml2's lack of standardization that makes it so hard to emulate in java.  

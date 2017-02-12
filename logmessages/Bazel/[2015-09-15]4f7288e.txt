@@ -1,0 +1,1 @@
+  Only collect source files from attributes that don't have instrumentation data.  This fixes a recent regression in coverage; it's currently collecting too many files for instrumentation for non-compiled languages.  -- MOS_MIGRATED_REVID=103089788  

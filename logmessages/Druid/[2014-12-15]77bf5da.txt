@@ -1,0 +1,1 @@
+ Merge pull request #958 from metamx/fix-router-service-discovery  fix router discovering brokers with default names  commit 77bf5da317339477f132a1d297e8d9b386aa6203  fix typo  

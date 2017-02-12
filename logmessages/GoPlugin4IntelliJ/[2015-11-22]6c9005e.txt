@@ -1,0 +1,1 @@
+  Introduce inspection for placeholders (fix #1392)  

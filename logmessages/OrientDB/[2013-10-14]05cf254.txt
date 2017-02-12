@@ -1,0 +1,1 @@
+  Small shell script fix allows to start server from any current location.  

@@ -1,0 +1,1 @@
+  Fixed broken test suite  - Renamed package to be com.orientechnologies.lucene.test instead of com.orientechnologies.test - implemented drop of indices on drop database - drop of database in tests, if drop param is true (only for remote it was considered) - added logging at debug level  

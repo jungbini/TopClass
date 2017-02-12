@@ -1,0 +1,1 @@
+  ui: NPE in Pin Active Tab action fixed  

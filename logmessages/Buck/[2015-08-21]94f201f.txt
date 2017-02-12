@@ -1,0 +1,1 @@
+  [Buck IJ Plugin] Parser bug fix  Summary: A quick fix for parsing json-like object in Buck  Test Plan: Tested in 

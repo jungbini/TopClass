@@ -1,0 +1,1 @@
+vious Astyanax commit fixed.  An equals() call was comparing an object of type StaticBuffer to ByteBuffer and unconditionally failing, causing getSlice() calls to erroneously return the slice end instead of excluding it.  

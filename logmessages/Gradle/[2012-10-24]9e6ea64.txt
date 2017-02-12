@@ -1,0 +1,1 @@
+  added support for filtering and sorting of multi-tests  - in particular, this allows to run a single method of MultiVersionIntegrationSpec's and the like - after a fix in Spock, IDEs will also display this correctly  

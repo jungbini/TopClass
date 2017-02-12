@@ -1,0 +1,1 @@
+  use proper other count for pie chart slices (#2671)  the others group did not take into account the other document groups which were outside of the first 45 "other" buckets this led to incorrect rendering of pie chart slices  fixes #2639  

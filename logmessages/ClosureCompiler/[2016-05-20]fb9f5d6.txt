@@ -1,0 +1,1 @@
+  Adding tooltip to debugger compilation params that clarifies what Java API methods/options they correlate to, where unclear.  Merge pull request #1802 from visokio/closure-compiler Closes https://github.com/google/closure-compiler/pull/1802 ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=122845465  

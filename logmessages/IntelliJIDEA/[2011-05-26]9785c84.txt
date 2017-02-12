@@ -1,0 +1,1 @@
+  fixed PY-3683 Dict keys code completion exception  

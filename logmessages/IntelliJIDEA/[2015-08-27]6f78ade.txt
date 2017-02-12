@@ -1,0 +1,1 @@
+  fixed testDeleteFail - using chmod on unixes  

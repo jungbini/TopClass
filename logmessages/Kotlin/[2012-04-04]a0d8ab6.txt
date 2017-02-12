@@ -1,0 +1,1 @@
+ KT-1712 Formatting for getters and setters #KT-1712 fixed  

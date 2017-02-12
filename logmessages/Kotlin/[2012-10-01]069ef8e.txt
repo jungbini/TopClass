@@ -1,0 +1,1 @@
+  KT-2712 Debugger should show value of receiver of extension functions  #KT-2712 fixed  

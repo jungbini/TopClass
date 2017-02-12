@@ -1,0 +1,1 @@
+  Contribution by Sylvain Spinelli to fix the issue 253. Added Sylvain's test cases in the default test suite  

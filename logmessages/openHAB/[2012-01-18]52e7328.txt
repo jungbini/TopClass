@@ -1,0 +1,1 @@
+  changed many logging entries to debug to keep the normal log clean  

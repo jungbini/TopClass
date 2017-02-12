@@ -1,0 +1,1 @@
+  fixed PY-2674 Assignment can be replaced with augmented assignmet breaks context  

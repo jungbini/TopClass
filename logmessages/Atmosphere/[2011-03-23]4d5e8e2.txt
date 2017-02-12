@@ -1,0 +1,1 @@
+  Incremental fix for http://java.net/jira/browse/ATMOSPHERE-106 (" Removing broadcasters ")  If you remove an AtmosphereResource from a Broadcaster and that Broadcaster appears to be the one associated with the AtmosphereResource, discard the broadcaster from the AtmosphereResource.  

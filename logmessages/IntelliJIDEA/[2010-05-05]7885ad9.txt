@@ -1,0 +1,1 @@
+  Class-private name resolution (PY-50): a small fix and tests.  

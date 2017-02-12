@@ -1,0 +1,1 @@
+s under FS list() methods to conform to java.io.File.list(), which returns file paths relative to the given directory. (2) It smooths out all usages of under FS list() for the above fix. (3) It fixes the loadufs code with regard to the new list(). (4) It fixes the loadufs documentation accordingly.  

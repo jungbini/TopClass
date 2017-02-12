@@ -1,0 +1,1 @@
+  javafx: "Unresolved fx:id reference" inspection quickfix add @FXML annotation only when needed, and use field visibility from project settings (IDEA-141033)  

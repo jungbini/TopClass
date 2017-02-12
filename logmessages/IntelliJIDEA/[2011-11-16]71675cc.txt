@@ -1,0 +1,1 @@
+ fixed PY-4735 "mandatory encoding declaration" inspection+quick fix on python files  

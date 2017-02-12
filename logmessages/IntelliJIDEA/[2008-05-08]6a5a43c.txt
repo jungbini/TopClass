@@ -1,0 +1,1 @@
+  IDEADEV-20517 implemented (Quickfix to change type of array declaration based on type of initializer elements)  

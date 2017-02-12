@@ -1,0 +1,1 @@
+  put new variable inside lambda body: check lambda-related types only after lambda body is fixed (EA-62133 - IOE: PsiJavaParserFacadeImpl.createStatementFromText)  

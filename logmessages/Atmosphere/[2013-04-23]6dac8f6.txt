@@ -1,0 +1,1 @@
+  fix bug: atmosphere can not send message that contains message delimiter  

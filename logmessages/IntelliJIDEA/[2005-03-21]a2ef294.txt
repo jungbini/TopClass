@@ -1,0 +1,1 @@
+  macos + debugger + mousewheel bug worked around.  

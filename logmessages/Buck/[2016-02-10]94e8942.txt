@@ -1,0 +1,1 @@
+  Make CxxSourceRuleFactory PicType parameter a field  Summary: `PicType` is a property on the library and doesn't vary within source files of a library.  Therefore it ought to be a parameter of the factory itself, not constituent functions.  The only cases where a 

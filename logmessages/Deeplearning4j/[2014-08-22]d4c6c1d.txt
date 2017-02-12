@@ -1,0 +1,1 @@
+  build vocab was a huge bottleneck, should be fixed now  

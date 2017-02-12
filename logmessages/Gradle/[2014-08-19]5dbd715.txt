@@ -1,0 +1,1 @@
+  Fixed the tests that failed after changing the artifact display name. We should add a fixture for this. Perhaps next time when changing this.  

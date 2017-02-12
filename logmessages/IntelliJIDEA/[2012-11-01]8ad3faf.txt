@@ -1,0 +1,1 @@
+  quickfix of "Boolean constructor call" inspection should not replace with valueOf(boolean) if that method is not available even if the language level > 1.3 (IDEA-93838)  

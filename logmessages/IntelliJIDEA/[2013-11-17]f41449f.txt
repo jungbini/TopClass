@@ -1,0 +1,1 @@
+  Broken indentetion in console fixed (PY-10776).  

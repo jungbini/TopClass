@@ -1,0 +1,1 @@
+  Somehow it bugs me that timeout might actually take several times the timeout to resolve with this change, but at least it guarantees the correct ordering on when failover happens vs when processing of the output happens  

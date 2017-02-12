@@ -1,0 +1,1 @@
+  Quick fix for enum entry after enum member. A set of tests.  

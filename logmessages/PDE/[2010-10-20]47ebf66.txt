@@ -1,0 +1,1 @@
+  Horizontal scrollbar fix to close issue 316  

@@ -1,0 +1,1 @@
+  Fix a bug that create function fix will be shown for non function unresolved symbols.  

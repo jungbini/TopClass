@@ -1,0 +1,1 @@
+  guava type migration: migration of fluentIterable/optional chains fixed (IDEA-148096)  

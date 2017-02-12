@@ -1,0 +1,1 @@
+Author: Owen O'Malley <omalley@apache.org> Date:   Mon Sep 20 00:23:55 2010 -0700  fix array out of bounds exception by ignoring non-archives when updating the sizes   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077708 13f79535-47bb-0310-9956-ffa450edef68  

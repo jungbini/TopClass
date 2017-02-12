@@ -1,0 +1,1 @@
+  GRADLE-2872: simplify integTest and fix failing 1.5 ci builds  

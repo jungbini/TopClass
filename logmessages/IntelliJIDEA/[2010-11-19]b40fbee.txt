@@ -1,0 +1,1 @@
+  fixed autoscroll from sources for jars containing *.class and *.java files together (IDEA-26915)  

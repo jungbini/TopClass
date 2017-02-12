@@ -1,0 +1,1 @@
+  When running javac, print out the number of errors and warnings.  Summary: When trying to fix a java_library with a lot of errors, it is helpful to see the error count as you go along so you can tell if you are making progress or not.  Test Plan: Built a failing java_library and verify that the message appears.  

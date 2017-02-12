@@ -1,0 +1,1 @@
+  fix bad integer index in MutableGraph  

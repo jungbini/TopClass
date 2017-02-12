@@ -1,0 +1,1 @@
+  fixing segv when pulling a Nokogiri::XML::Document from a NodeSet  

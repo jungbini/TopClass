@@ -1,0 +1,1 @@
+  Trying to fix a blinking test  Sometimes quick-fix tests that use Change Signature failed with weird assertions, allegedly because an alarm inside the Change Signature dialog schedules something on AWT thread that fires while the next test is running  

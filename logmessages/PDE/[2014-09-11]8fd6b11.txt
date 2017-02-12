@@ -1,0 +1,1 @@
+  fix oscp5 dependency check (closing issue #2730)  

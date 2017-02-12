@@ -1,0 +1,1 @@
+  Revert "Fix continuous tests expecting one newline"  This reverts commit d07cc54f8000d2cc9f71896facd57feadf804955.  

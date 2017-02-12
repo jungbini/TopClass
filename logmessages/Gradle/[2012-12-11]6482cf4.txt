@@ -1,0 +1,1 @@
+  fixed GRADLE-2526: GenerateEclipseWtpComponent creates multiple entries for snapshot versions  - like for .classpath's "classpathentry", any previous "dependent-module" entries are now overwritten - improved execution time of EclipseWtpIntegrationTest by using shared fixture  

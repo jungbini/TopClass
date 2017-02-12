@@ -1,0 +1,1 @@
+  Fixed bug on remote connections: the pool wasn't used properly with poor performance on parallel connections  

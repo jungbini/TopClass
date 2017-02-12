@@ -1,0 +1,1 @@
+  GRADLE-3032 - Reworked the pattern matching algorithm, to fix matching of '**/*'.  - Split PatternStep into PatternStep to match single path segments and PathMatcher to match paths with zero or more segments - Generalised the special case NameOnlyPatternMatcher. Should mean that any pattern with a non-trailing '**' is now more efficient.  

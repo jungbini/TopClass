@@ -1,0 +1,1 @@
+  fix IntegerType.getString with direct buffers patch by Ed Anuff; reviewed by jbellis for CASSANDRA-2684  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1126290 13f79535-47bb-0310-9956-ffa450edef68  

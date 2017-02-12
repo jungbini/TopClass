@@ -1,0 +1,1 @@
+  fixes #1980: permissions follow role's inheritance  

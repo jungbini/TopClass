@@ -1,0 +1,1 @@
+  IDEA-100647 'this' is not available in Grails debugging (cherry-picked from 36fc2be) reviewer: peter.gromov  

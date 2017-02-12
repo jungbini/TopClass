@@ -1,0 +1,1 @@
+  partial rollback: return Sdk access methods to ModuleRootModel (fixes IDEADEV-24145)  

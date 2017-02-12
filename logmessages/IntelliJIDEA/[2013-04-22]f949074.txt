@@ -1,0 +1,1 @@
+  WEB-6373 fixed tests. added anchor inspection.  

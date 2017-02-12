@@ -1,0 +1,1 @@
+  hairy fix for finding return statements via control flow in 'extract method' (IDEADEV-28830)  

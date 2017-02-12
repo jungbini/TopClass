@@ -1,0 +1,1 @@
+  do the unthinkable: upload a binary for fixing the maven download :(  

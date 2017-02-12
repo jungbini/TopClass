@@ -1,0 +1,1 @@
+  [xena] IDEA-67981 File chooser: auto-expansion fails - test fixed  

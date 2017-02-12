@@ -1,0 +1,1 @@
+  Adjusted the PR to: 1) rename the config option and place it under the attributes namesapce 2) refactor out some code duplication 3) fixed a minor bug in a test case  

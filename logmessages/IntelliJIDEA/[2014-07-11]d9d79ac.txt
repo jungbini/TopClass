@@ -1,0 +1,1 @@
+  resource bundle editor property rename fixed: no property with old invalid name creation after rename  

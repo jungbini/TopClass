@@ -1,0 +1,1 @@
+  MINOR: Fix a couple of scaladoc typos  Author: Vahid Hashemian <vahidhashemian@us.ibm.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1440 from vahidhashemian/typo06/fix_typos_in_code_comments  

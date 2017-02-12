@@ -1,0 +1,1 @@
+  Changed the module test fixtures to clean up any old artifact before publishing a new one.  

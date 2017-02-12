@@ -1,0 +1,1 @@
+  use newly introduced 'trace' level for logging of low-level file events to avoid spam in build.log if debug level is enabled  

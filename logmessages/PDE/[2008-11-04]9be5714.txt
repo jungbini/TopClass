@@ -1,0 +1,1 @@
+  fix sketch naming/save as problem (bug #987)  

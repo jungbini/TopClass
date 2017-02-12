@@ -1,0 +1,1 @@
+  Included "JE" in Berkeley KeyValueStore implementation. Updated to most recent version of BerkeleyJE (5.0.58). Adding debug output to STandardIDPool.  

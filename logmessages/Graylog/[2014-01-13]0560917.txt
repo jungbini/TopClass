@@ -1,0 +1,1 @@
+  make dashboard permissions editable for users  removes dashboard:* permissions from the default reader permission set. this means readers cannot create dashboards!  fixes Graylog2/graylog2-web-interface#474  

@@ -1,0 +1,1 @@
+  fix unsynchronized use of TokenMetadata.entrySet patch by Peter Schuller; reviewed by jbellis for CASSANDRA-3417  

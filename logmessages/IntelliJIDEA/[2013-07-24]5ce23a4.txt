@@ -1,0 +1,1 @@
+  update renderer, fix class/file duplication  

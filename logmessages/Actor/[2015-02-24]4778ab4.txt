@@ -1,0 +1,1 @@
+  fix(android):Fixed SQLite KeyValue queries.  

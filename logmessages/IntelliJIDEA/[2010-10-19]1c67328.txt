@@ -1,0 +1,1 @@
+  fix gql tests: let the LookupManager.getActiveLookup(editor) know about injected editors  

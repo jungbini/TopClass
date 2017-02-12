@@ -1,0 +1,1 @@
+  Pass debug info format via apple.debug_info_format config param, add unit tests  Summary: Allow to pass the desired debug format for apple binaries via flavor and default option via config entry. Add tests.  Test Plan: unit tests  Reviewed By: Coneko  fb-gh-sync-id: 14b0caf  

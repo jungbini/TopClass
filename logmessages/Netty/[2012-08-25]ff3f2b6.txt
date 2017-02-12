@@ -1,0 +1,1 @@
+  Re-create Selector if we hit the epoll(..) jdk bug which leads to 100% cpu load. This is just a workaround but helps to recover. See #327  

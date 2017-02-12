@@ -1,0 +1,1 @@
+  git4idea: IDEADEV-41626: fixed some spelling errors  

@@ -1,0 +1,1 @@
+  WEB-16808 When debugging in Chrome, 'Watches' section shows 'undefined' for variable that appears correctly in 'Variables' section  

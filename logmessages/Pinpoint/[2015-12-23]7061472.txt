@@ -1,0 +1,1 @@
+ Merge pull request #1386 from DevFactory/staging/Empty-statements-should-be-removed-fix-3  Empty statements should be removed  commit 706147277ab44d4d6a1483eca9f592446aa62993  fix NEP of getLogPageUrl method.  

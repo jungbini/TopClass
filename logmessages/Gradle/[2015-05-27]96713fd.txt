@@ -1,0 +1,1 @@
+  Mostly cosmetic changes to continuous build tooling API integ tests.  - Removed some unnecessary syntax - Corrected the test matrix boundaries - Changed < Java 7 test to be agnostic to test VM - Some tweaks to type support for Tooling API fixtures - Some constants for gradle/tooling API version strings to make why certain versions are used clearer  +review REVIEW-5509  

@@ -1,0 +1,1 @@
+  Add quick fix to replace all 'class object's in project  

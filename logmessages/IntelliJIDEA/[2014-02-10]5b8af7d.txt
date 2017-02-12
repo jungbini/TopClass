@@ -1,0 +1,1 @@
+  faster html tag selectioner using psi #IDEA-120533 fixed  

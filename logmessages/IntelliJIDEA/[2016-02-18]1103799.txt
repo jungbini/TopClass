@@ -1,0 +1,1 @@
+  WEB-20367 JSON Schema: provide validation warning for the file under several schemas Use all schemas available for the file; display warning message with quick fix to edit settings  

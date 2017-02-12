@@ -1,0 +1,1 @@
+  ResourceBundleEditor improvements:  * "add property" action in editor toolbar and context menu * rename actions: rename property key, property group prefix, resource bundle base name in editor, rename resource bundle base name in project view * find usages in RB editor * delete property in RB editor * copy provider (copy key name) in RB editor  

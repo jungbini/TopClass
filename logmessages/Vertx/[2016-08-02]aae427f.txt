@@ -1,0 +1,1 @@
+ CompositeFuture join method - fixes #1555  

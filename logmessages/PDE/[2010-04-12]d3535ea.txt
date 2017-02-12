@@ -1,0 +1,1 @@
+  fix problems with javadoc comment parsing (bug #1419)  

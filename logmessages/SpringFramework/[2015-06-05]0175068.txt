@@ -1,0 +1,1 @@
+ and "`ETag`" values, which were using an epoch timestamp rather than an HTTP-date format defined in RFC 7231 section 7.1.1.1.  Also, Conditional responses are only applied when the given response applies, i.e. when it has an compatible HTTP status (2xx).  Issue: SPR-13090  

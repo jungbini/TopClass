@@ -1,0 +1,1 @@
+  KT-2297 Auto-insert closing brace on typing '{' after '$' in string literal  #KT-2297 fixed  

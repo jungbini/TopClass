@@ -1,0 +1,1 @@
+  fixed issue #3632 - OIOException on polymorphic query  

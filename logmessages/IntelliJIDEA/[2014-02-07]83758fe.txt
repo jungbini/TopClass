@@ -1,0 +1,1 @@
+  fix regress: invalidateIndices shouldn't schedule indexing for nonindexed files, many thanks for Peter.Gromov for help of finding the problem in review sessions  

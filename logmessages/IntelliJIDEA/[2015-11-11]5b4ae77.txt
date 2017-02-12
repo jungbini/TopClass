@@ -1,0 +1,1 @@
+  Fix YAML lexer state saving and recovery (fixes at least RUBY-13802)  

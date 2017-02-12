@@ -1,0 +1,1 @@
+  Attempt to fix all concurrency issues with GrammaticalRelations/Structure. Fixes #96.  

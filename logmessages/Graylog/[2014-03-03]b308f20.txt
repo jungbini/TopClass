@@ -1,0 +1,1 @@
+  mark open file limit notification as fixed  (as it gets really annoying when flashing the icon so often)  

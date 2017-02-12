@@ -1,0 +1,1 @@
+  [project] fixes output paths in filewatcher VS project  

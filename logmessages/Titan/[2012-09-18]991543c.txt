@@ -1,0 +1,1 @@
+  fixed NulPointerException bug due to pathEnabling.  

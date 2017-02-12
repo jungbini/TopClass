@@ -1,0 +1,1 @@
+  clean up configuration requests  fix plugin loading to avoid loading plugins twice in certain circumstances use new map binder based input registration, allow for Graylog2Module being a superclass for reflection-based loading of guice modules  fixes Graylog2/graylog2-web-interface#944  

@@ -1,0 +1,1 @@
+  KT-2752: fix JsName with explicit use target. Add some tests for JsName with use targets  

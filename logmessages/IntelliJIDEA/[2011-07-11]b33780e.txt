@@ -1,0 +1,1 @@
+  Combine unnecessary final for local variable and for method parameter inspections into one fix IDEA-71683 (UnnecessaryFinalOnLocalVariable - Ignore for "for" variables)  

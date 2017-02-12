@@ -1,0 +1,1 @@
+  Fixed bug reported by Andrey Lomakin in the ML about adding new cluster id: wasn't added.  

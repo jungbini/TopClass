@@ -1,0 +1,1 @@
+  IDEA-95859 Run Configurations: don't allow to add the run configuration as AnotherConfiguration to itself [reviewed by Alexey Kudravtsev] fix for not-initialized project  

@@ -1,0 +1,1 @@
+  Fix compilation of infix calls (KT-2929)  #KT-2929 Fixed  

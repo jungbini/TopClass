@@ -1,0 +1,1 @@
+  editor.new.rendering: fix a mistake in TextEndWithSelectionAction  

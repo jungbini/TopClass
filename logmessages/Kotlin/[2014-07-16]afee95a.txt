@@ -1,0 +1,1 @@
+  fix npe when layout xml search path does not exist  

@@ -1,0 +1,1 @@
+  show both run configurations in context menu if no one is preferred  fixed PY-10488 Doctest Test Runner: missing default run configuration for module level doctests  

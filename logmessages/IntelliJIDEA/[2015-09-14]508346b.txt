@@ -1,0 +1,1 @@
+  merge: do not start command under bulk mode  post-command duties may access softwraps/foldings/caret/etc, that could be invalid during bulk mode  this should fix "EA-72981 - IOOBE: EditorImpl.offsetToLogicalLine"  

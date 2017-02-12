@@ -1,0 +1,1 @@
+  Another fix to correctly attach contract type to jar binary instance.  

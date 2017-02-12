@@ -1,0 +1,1 @@
+  external artifact build: fixed copying resources to artifact when 'facet output' element is used [rev by jeka]  

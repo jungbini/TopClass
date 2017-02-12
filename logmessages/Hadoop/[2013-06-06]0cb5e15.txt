@@ -1,0 +1,1 @@
+  Merge -c 1485842 from trunk to branch-2 to fix HADOOP-9593 stack trace printed at ERROR for all yarn clients without hadoop.home set. Contributed by Steve Lougran.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1490102 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  IDEA-129512 Indicate in the user interface run and debug process The feature has been disabled for a while (animation is not the best solution, feedback said)  

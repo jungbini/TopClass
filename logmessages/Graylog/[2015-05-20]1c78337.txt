@@ -1,0 +1,1 @@
+  fix queryerror page to work with bootstrap3 grid  

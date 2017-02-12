@@ -1,0 +1,1 @@
+  enable debug logging in blinking test  

@@ -1,0 +1,1 @@
+  smart backspace: fix failures of JspxSanityTest  

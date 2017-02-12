@@ -1,0 +1,1 @@
+ Merge pull request #587 from deeplearning4j/bugfix-584  Ensure that layer API is serializable  commit 78df46f337d98a9d9113ec37159bf81ae4554193  convolution test fixes  

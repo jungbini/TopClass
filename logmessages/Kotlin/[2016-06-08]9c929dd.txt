@@ -1,0 +1,1 @@
+  Minor. Rename MandatoryMethodTransformer -> FixStackWithLabelNormalizationMethodTransformer  It's necessary because some usages suppose that it's only purpose is fixing stack  

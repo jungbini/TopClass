@@ -1,0 +1,1 @@
+  [hg] Set up platform prefix to let old HgTests run.  

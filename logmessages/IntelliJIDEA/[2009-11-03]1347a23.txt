@@ -1,0 +1,1 @@
+  introduce parameter object: add setters/getters, fix visibility for existing class  

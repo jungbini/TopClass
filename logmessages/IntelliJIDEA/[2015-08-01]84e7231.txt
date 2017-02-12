@@ -1,0 +1,1 @@
+  IDEA-142330 Allow select content of "Environment variables" textbox in "Run/Debug Configuration"  

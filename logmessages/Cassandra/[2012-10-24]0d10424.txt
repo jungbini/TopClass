@@ -1,0 +1,1 @@
+  include range bounds in debug logging of range and index scans  

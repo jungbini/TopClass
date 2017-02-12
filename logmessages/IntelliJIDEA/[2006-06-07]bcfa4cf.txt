@@ -1,0 +1,1 @@
+  big fat bug: don't auto-create binding from text while loading components  

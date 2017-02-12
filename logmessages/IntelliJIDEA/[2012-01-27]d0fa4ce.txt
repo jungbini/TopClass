@@ -1,0 +1,1 @@
+  IDEA-80393 Run/Debug Configurations: JUnit: "Test kind" option is truncated on Mac OS  

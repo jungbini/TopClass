@@ -1,0 +1,1 @@
+  init WEB-7884 Node.js: breakpoints are not hit, exception on stop debugging (regression)  

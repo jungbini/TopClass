@@ -1,0 +1,1 @@
+n the JSR-107 advisor. Such exceptions are now properly propagated instead of being wrapped in a RuntimeException.  Issue: SPR-9616  

@@ -1,0 +1,1 @@
+  fixed tracking of links in case of remote, issue #2620  

@@ -1,0 +1,1 @@
+  IDEA-109467 Too big tooltip for Close Icon (Debug Window)  

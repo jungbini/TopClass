@@ -1,0 +1,1 @@
+  update to jetty 9.1.4 to fix bug https://bugs.eclipse.org/bugs/show_bug.cgi?id=430654  

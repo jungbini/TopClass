@@ -1,0 +1,1 @@
+  filter shaders don't need to use the texture uniform, fixes #2204  

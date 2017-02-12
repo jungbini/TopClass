@@ -1,0 +1,1 @@
+  fixed wrong unlock that could bring to record never unlocked. issue #2866  Conflicts: core/src/main/java/com/orientechnologies/orient/core/sql/OCommandExecutorSQLSelect.java  

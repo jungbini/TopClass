@@ -1,0 +1,1 @@
+  Fix for Max's return  of array field bug  

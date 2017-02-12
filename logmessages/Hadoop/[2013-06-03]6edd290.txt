@@ -1,0 +1,1 @@
+  Merge -c 1489227 from trunk to branch-2 to fix MAPREDUCE-5300. Fix backward incompatibility for o.a.h.mapreduce.filecache.DistributedCache. Contributed by Zhijie Shen.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1489228 13f79535-47bb-0310-9956-ffa450edef68  

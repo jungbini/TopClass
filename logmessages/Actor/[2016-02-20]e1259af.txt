@@ -1,0 +1,1 @@
+  fix(js) archived dialogs actor callback check for null  

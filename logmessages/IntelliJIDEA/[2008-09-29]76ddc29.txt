@@ -1,0 +1,1 @@
+  remove "KillProcessAction" from debugger's toolbar as it now duplicates functionality of the "Stop" button  

@@ -1,0 +1,1 @@
+  IDEA-92236 Leaking DebugSessionTab on ConsoleView  

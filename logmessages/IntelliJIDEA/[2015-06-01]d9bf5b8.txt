@@ -1,0 +1,1 @@
+  Formatter fix: use the last block offset if necessary  

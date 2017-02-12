@@ -1,0 +1,1 @@
+  Class/package clash check fixed for case-insensitive FS  

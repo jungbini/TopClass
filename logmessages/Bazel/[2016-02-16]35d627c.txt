@@ -1,0 +1,1 @@
+  bazel_go_example_test.sh: Inline BUILD.go-toolchain  BUILD.go-toolchain was deleted as part of the base workspace removal and made bazel_go_example_test starts to fails because it was copying it.  Recreating its content in the test corrects the test fixture.  Fixes #905.  -- MOS_MIGRATED_REVID=114732179  

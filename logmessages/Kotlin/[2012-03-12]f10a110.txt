@@ -1,0 +1,1 @@
+  fixed fail() method, working around a compiler issue (should not be trying to invoke a private method)  

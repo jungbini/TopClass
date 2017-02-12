@@ -1,0 +1,1 @@
+  [ALLUXIO-2047] change indexOf to lastIndexOf when trimming the path seprator for common prefixes  

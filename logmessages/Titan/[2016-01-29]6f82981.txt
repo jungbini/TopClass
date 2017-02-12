@@ -1,0 +1,1 @@
+ Merge pull request #1241 from graben1437/issue1174fix  Issue 1174: fix for java.util.IllegalFormatConversionException  commit 6f82981962e8f75ffa5820201e38e50d9e9d25ab  revise uses of select() without labels in examples  The zero parameter signature of select() no longer exists; this fixes two of the example queries to use explicit labels  

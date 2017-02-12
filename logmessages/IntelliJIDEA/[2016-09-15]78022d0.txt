@@ -1,0 +1,1 @@
+  IDEA-CR-13813 fix GitHttpGuiAuthenticator password label  

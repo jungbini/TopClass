@@ -1,0 +1,1 @@
+  Better fix for IDEA-127343: use ModalityState.any() to display master key request dialog in any conditions  

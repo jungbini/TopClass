@@ -1,0 +1,1 @@
+  PY-9679 Use prefix 'refactoring.move.module.members' in related properties  

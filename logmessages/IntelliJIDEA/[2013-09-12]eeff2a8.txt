@@ -1,0 +1,1 @@
+  fixed PY-6512 Augmented assignment quickfix treats polyadic expressions inconsistently  

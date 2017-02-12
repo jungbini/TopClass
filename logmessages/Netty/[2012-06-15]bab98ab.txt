@@ -1,0 +1,1 @@
+ Damn ! Fix typo and type needed for fix #399 for issue #398  

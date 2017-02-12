@@ -1,0 +1,1 @@
+  IDEA-130808 Settings dialog: search field: clean icon disappears when focus is off the field Also, I fixed the issue with HAND cursor over the hidden icon.  

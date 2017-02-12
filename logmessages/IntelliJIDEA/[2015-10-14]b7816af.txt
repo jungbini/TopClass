@@ -1,0 +1,1 @@
+  fixed PY-16984 iPython notebook clicking in cell causes odd scrolling  

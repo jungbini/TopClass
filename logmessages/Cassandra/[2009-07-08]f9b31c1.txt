@@ -1,0 +1,1 @@
+  dropping -dev suffix in preparation for release   git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/branches/cassandra-0.3@792279 13f79535-47bb-0310-9956-ffa450edef68  

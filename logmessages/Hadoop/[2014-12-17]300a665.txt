@@ -1,0 +1,1 @@
+  YARN-2189. Admin service for cache manager. Addendum to fix merge conflicts  

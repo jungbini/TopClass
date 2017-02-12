@@ -1,0 +1,1 @@
+  fix OSGI entries (closes issue #71 and issue #63)  

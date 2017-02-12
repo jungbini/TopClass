@@ -1,0 +1,1 @@
+  fixed thread stuff and made tests cleaner  

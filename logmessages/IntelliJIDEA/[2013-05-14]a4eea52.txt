@@ -1,0 +1,1 @@
+  Allow to disable fix of #IDEA-105484 by adding "-Didea.maven.classifier.dep=false"  

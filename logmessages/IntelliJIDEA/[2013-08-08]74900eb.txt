@@ -1,0 +1,1 @@
+  fix DjangoRenameTest: let synthetic file system items control the name under which they're seen by the rename refactoring  

@@ -1,0 +1,1 @@
+  [vcs-log] fix uncollapsing edges in linear bek graph that has some collapsed linear fragments  

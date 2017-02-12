@@ -1,0 +1,1 @@
+ fixed PY-5294 "Replace with str.format method call": do not add unnecessary parenthesis with one argument  

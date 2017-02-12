@@ -1,0 +1,1 @@
+  implementation of find/replace, and bug fix for stuck 'open' button  

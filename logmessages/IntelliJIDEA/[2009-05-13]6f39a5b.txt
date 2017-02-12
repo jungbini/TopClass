@@ -1,0 +1,1 @@
+  Fixed bug: on loading ant even could overwrite previously loaded event which lead to undesired changes in config files  

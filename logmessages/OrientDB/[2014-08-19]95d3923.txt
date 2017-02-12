@@ -1,0 +1,1 @@
+  Minor: fixed bug on script executor where last result couldn't be taken in case of exception  

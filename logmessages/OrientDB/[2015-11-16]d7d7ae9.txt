@@ -1,0 +1,1 @@
+  fixed equals on concurrent modification exception.  

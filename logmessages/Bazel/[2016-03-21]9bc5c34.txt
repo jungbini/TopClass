@@ -1,0 +1,1 @@
+  cpp: fix the path to BlazeServerStartupOptions file in a comment  While at it, fix a "the the" typo in another comment at option_processor.cc.  -- Change-Id: I0ce6b320f3d3a50d53c8671d1b9dc80d5a2ace06 Reviewed-on: https://bazel-review.googlesource.com/#/c/3100/1 MOS_MIGRATED_REVID=117693263  

@@ -1,0 +1,1 @@
+  QuirksMode inspection description added + InspectionDescriptionsTest fixed + ui-designer plugin.xml duplicate inspection declaration removed  

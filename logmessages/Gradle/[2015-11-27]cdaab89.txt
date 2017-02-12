@@ -1,0 +1,1 @@
+  Removed diagnostics from `NativeServices`. Left a little more strictness behind than was there previously.  Also changed test fixtures to extract native libs into the `build` directory, as there's no real need for them to be cached.  

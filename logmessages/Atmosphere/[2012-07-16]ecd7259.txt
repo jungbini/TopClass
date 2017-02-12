@@ -1,0 +1,1 @@
+  Fix for #513 AtmosphereRequest.getSession(create) may return null, even if a session exists. Also fixed the factory to align with other AtmosphereFactory  

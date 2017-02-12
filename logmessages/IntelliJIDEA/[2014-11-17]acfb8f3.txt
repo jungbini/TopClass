@@ -1,0 +1,1 @@
+  use namespace from tag, not empty one #WEB-14165 fixed  

@@ -1,0 +1,1 @@
+  java-xdebugger: customize data views action in watches context menu  

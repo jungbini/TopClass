@@ -1,0 +1,1 @@
+  "field": synthetic variable creation in accessors, codegen changed accordingly, a set of tests, relevant code fix (j2k)  

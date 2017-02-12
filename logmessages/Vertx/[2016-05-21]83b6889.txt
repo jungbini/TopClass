@@ -1,0 +1,1 @@
+  Creating or failing a future will null should always return a failed future - fixes #1426  

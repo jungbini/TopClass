@@ -1,0 +1,1 @@
+  STORM-2026 Inconsistency between (SpoutExecutor, BoltExecutor) and (spout-transfer-fn, bolt-transfer-fn)  * fix Executor, SpoutExecutor, BoltExecutor to not calling init() while creating Executor itself * call init() for the first time in async loop  

@@ -1,0 +1,1 @@
+  Fixed a bug on connections that remain sometime pending.  

@@ -1,0 +1,1 @@
+  WEB-12568 Dart autocomplete deletes closing bracket  fix in platform, accounts for PY-6095 as well  

@@ -1,0 +1,1 @@
+  Maven: problem reporting improvements Maven: invalid project importing improvements Maven: updating task improvements Maven: profile handling improvements Maven: import wizard fixes  

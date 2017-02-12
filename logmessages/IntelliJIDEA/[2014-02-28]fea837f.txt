@@ -1,0 +1,1 @@
+  Don't delete pyc and do write python byte code in debugger tests.  

@@ -1,0 +1,1 @@
+  hide autopopup when there's only one variant equal to prefix  

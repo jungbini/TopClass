@@ -1,0 +1,1 @@
+  fixed PY-2792 Missing SyntaxError highlighting in case of conditional expression in python 2.4  

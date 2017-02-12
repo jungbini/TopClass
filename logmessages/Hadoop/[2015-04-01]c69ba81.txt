@@ -1,0 +1,1 @@
+  YARN-3424. Change logs for ContainerMonitorImpl's resourse monitoring from info to debug. Contributed by Anubhav Dhoot.  

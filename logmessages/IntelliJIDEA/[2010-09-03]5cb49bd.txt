@@ -1,0 +1,1 @@
+  Exceptions fixed [EA-21495] assert: CoverageEnabledConfiguration.get  

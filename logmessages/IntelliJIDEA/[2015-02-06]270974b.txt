@@ -1,0 +1,1 @@
+  vcs: LST - scroll to change, not to line after it  * fix horizontal offset: show changed text line-under-line * use same editor settings for popup (ex: line height) * do not hide current line under popup for mouse click  

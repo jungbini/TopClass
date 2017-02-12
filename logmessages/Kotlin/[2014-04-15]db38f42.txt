@@ -1,0 +1,1 @@
+  Move Refactoring: Do not replace references to local declaration with qualified names. Update and fix test data #KT-4851 Fixed  

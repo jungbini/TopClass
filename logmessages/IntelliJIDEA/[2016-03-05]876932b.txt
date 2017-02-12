@@ -1,0 +1,1 @@
+  SSR: fix finding packageLocal and instance fields  

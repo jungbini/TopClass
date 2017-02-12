@@ -1,0 +1,1 @@
+  Added integration test that provokes java.lang.Error in bug report.  +review REVIEW-5345  

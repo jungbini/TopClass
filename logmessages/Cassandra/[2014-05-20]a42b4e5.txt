@@ -1,0 +1,1 @@
+  fix DirectoriesTest for Windows patch by Josh McKenzie; reviewed by jbellis for CASSANDRA-7251  

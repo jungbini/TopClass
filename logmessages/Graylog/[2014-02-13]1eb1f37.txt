@@ -1,0 +1,1 @@
+  better UX for user editing form. fixes #615  

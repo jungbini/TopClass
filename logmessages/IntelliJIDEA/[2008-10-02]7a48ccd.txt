@@ -1,0 +1,1 @@
+  introduce FoldingModelWindow to fix brace highlighting in injected fragments  

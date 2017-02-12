@@ -1,0 +1,1 @@
+  [shelve] style:  Convertor changed to ContainerUtil.map; fix possible NPE  

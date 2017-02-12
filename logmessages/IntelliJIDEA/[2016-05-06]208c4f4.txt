@@ -1,0 +1,1 @@
+ IDEA-14175 debugger cannot evaluate expressions containing "this$0"  

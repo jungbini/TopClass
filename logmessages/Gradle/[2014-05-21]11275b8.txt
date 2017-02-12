@@ -1,0 +1,1 @@
+  If the response from the plugin resolution service is completely unexpected content, log it at info level.  This is to help people debug inevitable proxy issues.  

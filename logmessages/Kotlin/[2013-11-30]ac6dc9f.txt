@@ -1,0 +1,1 @@
+  standard library: 'maxBy' and 'minBy' functions added (#KT-4267 fixed)  

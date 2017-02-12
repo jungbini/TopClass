@@ -1,0 +1,1 @@
+  HOTFIX: group rebalance can throw illegal generation or rebalance in progress  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Guozhang Wang  Closes #370 from hachikuji/hotfix-rebalance-error  

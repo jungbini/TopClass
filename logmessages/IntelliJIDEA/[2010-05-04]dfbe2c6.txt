@@ -1,0 +1,1 @@
+  fix tests; add hidden option to disable highlighting of unused imports  

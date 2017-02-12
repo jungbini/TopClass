@@ -1,0 +1,1 @@
+  correctly generate safe casts from Unit type #KT-4494 fixed  

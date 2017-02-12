@@ -1,0 +1,1 @@
+  gui-tests-framework: GUI Tests run config; fixtures update  

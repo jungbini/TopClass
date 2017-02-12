@@ -1,0 +1,1 @@
+  Reserve "async* {}", extend the quick-fix  

@@ -1,0 +1,1 @@
+  type migration: migration of anonymous method parameter in case of generic base class fixed (IDEA-125995)  

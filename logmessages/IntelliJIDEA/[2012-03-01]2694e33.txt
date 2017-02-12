@@ -1,0 +1,1 @@
+  IDEA-80598 android: remove 'logcat' tab from debugger (we have separate tool window)  

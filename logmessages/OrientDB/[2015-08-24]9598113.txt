@@ -1,0 +1,1 @@
+  enhancing LiveQuery callback interface + fix to db.copy()  

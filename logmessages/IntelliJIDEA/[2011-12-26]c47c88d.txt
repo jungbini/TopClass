@@ -1,0 +1,1 @@
+  IDEA-79232 android: fix compilation of library module without sources  

@@ -1,0 +1,1 @@
+  bug fix. - wrong sum of request in scatter-chart. - analytics send bug.  

@@ -1,0 +1,1 @@
+  fix lockBlock and unlockBlock in WorkerStorage, deleteBlock and unlockBlock in StorageDir  

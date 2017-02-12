@@ -1,0 +1,1 @@
+  Better main function recognition and tests fix vararg main  

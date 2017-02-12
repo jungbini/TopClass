@@ -1,0 +1,1 @@
+  -fix: DELETE FROM index:<indexName> WHERE key = <key>, were failing on composite key, when rid wasn't specified.  expected behavior, to remove all values under specified (partial/full) key -remarks: all test passed after fix  

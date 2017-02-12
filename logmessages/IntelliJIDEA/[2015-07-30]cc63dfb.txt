@@ -1,0 +1,1 @@
+  fixed incorrect breakpoint for non-active threads on breakpoint  

@@ -1,0 +1,1 @@
+  Add support for @foo//:bar-format labels on the command line  It's annoying how split up the Label parsing code is, but it seems like too much work to bother fixing. Maybe next fixit.  -- MOS_MIGRATED_REVID=94758275  

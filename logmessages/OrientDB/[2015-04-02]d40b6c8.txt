@@ -1,0 +1,1 @@
+  Issue #2874, deadlock during tx is fixed.  

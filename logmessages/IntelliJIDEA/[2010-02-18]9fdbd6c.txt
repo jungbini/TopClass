@@ -1,0 +1,1 @@
+  ctrl-Q: font settings fixed (IDEA-42152)  

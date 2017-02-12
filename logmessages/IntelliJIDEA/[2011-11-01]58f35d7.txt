@@ -1,0 +1,1 @@
+  more verbose progress for java builder fixed problem with hanging groovyc runner  

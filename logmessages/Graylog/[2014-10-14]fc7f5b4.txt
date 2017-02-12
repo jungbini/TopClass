@@ -1,0 +1,1 @@
+  Output document count while processing indices and add debug flag.  Also warn only once if no "-F" flag is given.  

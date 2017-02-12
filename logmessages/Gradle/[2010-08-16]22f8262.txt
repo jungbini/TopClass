@@ -1,0 +1,1 @@
+  GRADLE-1119 Fixed bug in Javadoc  

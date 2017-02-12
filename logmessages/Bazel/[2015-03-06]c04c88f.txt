@@ -1,0 +1,1 @@
+  Some constraint enforcement tweaks:  1) Exclude host dependencies from constraint checking. 2) Check output files with the environment specs of their generating rules. 3) Provide a more generalized way to opt certain rule classes out of constraint checking (this fixes accidental checking on config_setting rules, which didn't really make sense).  -- MOS_MIGRATED_REVID=87963638  

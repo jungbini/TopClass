@@ -1,0 +1,1 @@
+  DevKit: registry.properties highlight keys without corresponding ".description" + quick fix  

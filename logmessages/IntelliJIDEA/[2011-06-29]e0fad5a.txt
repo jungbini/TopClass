@@ -1,0 +1,1 @@
+  IDEA-71365 XSLT debug: Structure view reports "Element is not finished yet" after session completion  

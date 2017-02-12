@@ -1,0 +1,1 @@
+  fix(iOS): Fixing splash screens feat(core): Added onUserVisible event method  

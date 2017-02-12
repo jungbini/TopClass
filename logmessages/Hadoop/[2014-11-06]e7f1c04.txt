@@ -1,0 +1,1 @@
+  HDFS-7221. Update CHANGES.txt to indicate fix in 2.6.0.  

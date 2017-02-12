@@ -1,0 +1,1 @@
+  enable sync tag editing by default #IDEA-136067 fixed  

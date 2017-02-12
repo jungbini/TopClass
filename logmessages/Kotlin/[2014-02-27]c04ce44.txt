@@ -1,0 +1,1 @@
+  getDeclaredCallableMembers() fixed for lazy classes  Otherwise synthesized members were not included  

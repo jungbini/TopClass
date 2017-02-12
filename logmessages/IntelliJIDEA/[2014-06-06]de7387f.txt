@@ -1,0 +1,1 @@
+  provide remove assignment fix for silly assignment inspection (IDEA-125993)  

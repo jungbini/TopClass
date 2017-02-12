@@ -1,0 +1,1 @@
+  fixed thread local clean on drop in new delegate implementation  

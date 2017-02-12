@@ -1,0 +1,1 @@
+  create getter from usage: return type fixed when field with name already exist  

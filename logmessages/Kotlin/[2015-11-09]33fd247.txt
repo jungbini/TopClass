@@ -1,0 +1,1 @@
+  Test that fails with package prefixes but works good without them  

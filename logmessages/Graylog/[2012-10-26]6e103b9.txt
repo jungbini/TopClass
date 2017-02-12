@@ -1,0 +1,1 @@
+  show node_id in server activity list  fixes #WEBINTERFACE-345  

@@ -1,0 +1,1 @@
+  fixed PY-6331 Invalid refactoring suggestion: augmented assignment  

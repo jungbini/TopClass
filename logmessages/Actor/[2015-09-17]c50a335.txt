@@ -1,0 +1,1 @@
+  fix(web): open links in external browser if inside electron  

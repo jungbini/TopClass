@@ -1,0 +1,1 @@
+  fixed PY-10346 __div__ still highlighted as special method in Python3  

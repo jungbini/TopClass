@@ -1,0 +1,1 @@
+  IDEA-157667 Editor's scrollbar thumb: alpha and colors fix border alignment for Retina on Mac  

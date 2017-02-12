@@ -1,0 +1,1 @@
+  VCS: some bugs corrected with binary 

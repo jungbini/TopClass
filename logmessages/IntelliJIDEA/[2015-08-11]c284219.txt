@@ -1,0 +1,1 @@
+tate is consistent when added editor becomes visible  (cherry picked from commit 3db0e7eb65379ac3a0877155cd158b47332535b1)  

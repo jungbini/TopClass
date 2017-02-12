@@ -1,0 +1,1 @@
+  Changed test kit int tests to normalize build output in the same way that build test fixtures do.  

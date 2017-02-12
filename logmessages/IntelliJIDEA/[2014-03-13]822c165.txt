@@ -1,0 +1,1 @@
+  [git] IDEA-119453 IDEA-120142 Keep git error output  Git error output is written into the VcsException and is later: * Parsed in GitCheckinEnvironment#isMergeCommit (IDEA-119453) * And shown to the user (IDEA-120142).  This error was wrapped in 23583d3a and led to these bugs. => Return the original message.  

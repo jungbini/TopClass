@@ -1,0 +1,1 @@
+  Implemented self-repair in case the security is broken. This new method in the ODatabaseListener interface will allow to handle corruptions in better way.  Console now displays a message and after a user input fix it. Cool!  

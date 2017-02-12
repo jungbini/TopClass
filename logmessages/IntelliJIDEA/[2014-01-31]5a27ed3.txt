@@ -1,0 +1,1 @@
+  fix table rows parsing in case row count is more than 2 #WEB-2414 fixed  

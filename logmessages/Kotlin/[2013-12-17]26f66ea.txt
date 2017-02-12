@@ -1,0 +1,1 @@
+  fixed INACCESSIBLE_OUTER_CLASS_EXPRESSION check for extension lambda (with implicit this) in nested class  

@@ -1,0 +1,1 @@
+  memory leak fixed (there is a test for configurables anyway)  

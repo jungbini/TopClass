@@ -1,0 +1,1 @@
+  fix up/down in FragmentGraphDecorator  

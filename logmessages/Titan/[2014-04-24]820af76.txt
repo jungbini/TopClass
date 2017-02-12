@@ -1,0 +1,1 @@
+ Add Log4j console appender config in BDB  Console output is still disabled by default; this change only makes it easier to reenable when desired during debugging  

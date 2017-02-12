@@ -1,0 +1,1 @@
+  CIDR: CPP-1159 Indexing progress reporting is broken * progress indication now works * responsiveness tests fixed  

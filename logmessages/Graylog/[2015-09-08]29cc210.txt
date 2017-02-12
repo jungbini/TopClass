@@ -1,0 +1,1 @@
+  allow Message timestamp to be a java.util.Date and convert it properly to DateTime  - this fixes output from java-grok, where we currently do not allow converters to run (because of UI limitations) - also applies to any plugin that accidentally sets timestamp to a java.util.Date  fixes #1394  

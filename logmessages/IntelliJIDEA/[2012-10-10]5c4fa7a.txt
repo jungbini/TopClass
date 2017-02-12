@@ -1,0 +1,1 @@
+  RUBY-12083: the only escaping YAML's single-quoted string accept is '' #RUBY-12083 fixed  

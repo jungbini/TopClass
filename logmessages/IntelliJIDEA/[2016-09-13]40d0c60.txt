@@ -1,0 +1,1 @@
+  lst: remove rollbackAllChanges  It was used to fix "trim trailing whitespaces" issue, when rolled back changed were restored by Document. Now we use `DocumentImpl.clearLineModificationFlags` and this is no longer needed.  

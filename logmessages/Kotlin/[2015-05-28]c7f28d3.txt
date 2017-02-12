@@ -1,0 +1,1 @@
+  Minor, update URL and fix typo in maven project description  

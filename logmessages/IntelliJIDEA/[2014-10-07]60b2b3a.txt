@@ -1,0 +1,1 @@
+  fixed regression after fix for IDEA-130589 - not full value is shown in view full value for toString renderer  

@@ -1,0 +1,1 @@
+  fix KT-2674 ObjectTest.testObjectInObject passed  (cherry-picked from f6b8686)  

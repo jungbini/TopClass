@@ -1,0 +1,1 @@
+  Debugger: check that label for marked object is a valid java identifier (KT-12651)  #KT-12651 Fixed  

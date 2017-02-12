@@ -1,0 +1,1 @@
+  corrected a bug that cleaned-up to all items config when only one file was modified  

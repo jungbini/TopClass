@@ -1,0 +1,1 @@
+  Adjusted memory parameters to be closer to what Yahoo uses in production.  Fixed small bug  

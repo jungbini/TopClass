@@ -1,0 +1,1 @@
+  Import Widget component explicitly instead of using package index.  When importing `Widget` component using the package index, it mysteriously returns `undefined` for unknown reasons. Importing it explicitly for now until this has been fixed.  

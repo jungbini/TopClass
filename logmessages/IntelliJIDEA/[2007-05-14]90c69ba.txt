@@ -1,0 +1,1 @@
+  interface method body doesn't write in java stub Array type resolve bug fixed  

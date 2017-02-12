@@ -1,0 +1,1 @@
+  xdebugger: method WatchesRootNode::getAllChildren restored to fix API compatibility  

@@ -1,0 +1,1 @@
+  Prepare infrastruct for fixing customized script resolving  Move ConfigManager and ClassFinder to the idea-analysis Add (back) IndexableSetContributor Add a method in ConfigManager to generate all dependencies scope Add and use delegating scope with possibility to get base scope from it (used in the class finder)  

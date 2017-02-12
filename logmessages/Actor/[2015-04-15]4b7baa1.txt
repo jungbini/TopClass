@@ -1,0 +1,1 @@
+  fix(ios): fixed status bar impr(ios): changed group info style  

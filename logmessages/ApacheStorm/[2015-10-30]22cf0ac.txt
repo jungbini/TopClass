@@ -1,0 +1,1 @@
+ passed, to do html and then manual test, unit test  Add html image files  Now able to search, except the magnifying lens stuff (related to topo history)  Support TopologyHistory (just a couple of topoId for a user)  Debug, thrift, topo history, now working well for deep search.  Unit test and add related resurces files  Fix nimbus test  

@@ -1,0 +1,1 @@
+  Server: fixed bug on plugin mgm  

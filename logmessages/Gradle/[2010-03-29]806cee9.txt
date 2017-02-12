@@ -1,0 +1,1 @@
+  Various little changes  - Added plexus-annotations jar to fix compile error under Java 5. - Added some docs. - The MavenPom exposes now the Model instead of the MavenProject. - Turned OsgiPluginConvention into Java.  

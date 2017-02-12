@@ -1,0 +1,1 @@
+  fix default name for module library moved to project/global level  

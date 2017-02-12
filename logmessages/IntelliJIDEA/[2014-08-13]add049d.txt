@@ -1,0 +1,1 @@
+  JavaFormatter: space before "{" processing corrected (fixes IDEA-127110). Now four cases are checked, depending on braces placement option:  - when place brace on the end of line is on - when option place brace next line if wrapped is on - when place brace on next line is on and keep simple blocks/methods/classes option is on - when place brace on next line is on  

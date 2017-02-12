@@ -1,0 +1,1 @@
+  don't reload sketch on save as or rename (issue #62), fix for AIOOBE regression when changing windows  

@@ -1,0 +1,1 @@
+  YARN-2611. Fixing jenkins findbugs warning and TestRMWebServicesCapacitySched for branch YARN-1051. Contributed by Subru Krishnan and Carlo Curino.  

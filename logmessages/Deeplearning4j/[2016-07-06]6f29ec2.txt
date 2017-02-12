@@ -1,0 +1,1 @@
+ - skipgram fix  - words matrix for collection string  - words mean for collection string  

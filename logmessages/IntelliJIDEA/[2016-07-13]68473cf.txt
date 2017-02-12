@@ -1,0 +1,1 @@
+  IDEA-158282 Correct breadcrumbs appearance created utility class to paint rectangles fixed text color for dark theme  

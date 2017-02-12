@@ -1,0 +1,1 @@
+  fix generated equals wrongly highlighted by dfa inspection  

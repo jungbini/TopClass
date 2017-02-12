@@ -1,0 +1,1 @@
+  fix array comparisons with == patch by dbrosius; reviewed by jbellis for CASSANDRA-3976  

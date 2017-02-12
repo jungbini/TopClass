@@ -1,0 +1,1 @@
+ move table of contents to Markdown  fixes #2397  

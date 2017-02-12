@@ -1,0 +1,1 @@
+  Workaround Jetty 8.0.2 and up NPE (https://bugs.eclipse.org/bugs/show_bug.cgi?id=362468)  

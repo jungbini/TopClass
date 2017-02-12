@@ -1,0 +1,1 @@
+  Fix a bug that return completion doesn't work correctly.  

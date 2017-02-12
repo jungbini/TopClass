@@ -1,0 +1,1 @@
+ Merge pull request #1877 from denzelsN/master  bug fix.  commit b1cab2a15ab9d631809cb1b35d26bd5dc4dcd10a  bug fix. - can not open page when copy transactionList url  

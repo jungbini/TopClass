@@ -1,0 +1,1 @@
+  ASM parsing problem workaround for javac bug: local variable annotations with wrong ranges are generated for bridge methods (IDEA-136496)  

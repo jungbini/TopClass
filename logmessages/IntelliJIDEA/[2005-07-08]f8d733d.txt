@@ -1,0 +1,1 @@
+  fixed issue with not clearing state on empty element end  

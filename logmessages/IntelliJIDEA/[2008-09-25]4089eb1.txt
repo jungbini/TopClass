@@ -1,0 +1,1 @@
+  restore lookup common prefix on cancel & second completion many minor completion fixes  

@@ -1,0 +1,1 @@
+ Made debug info visible only when IDEA is in internal mode.  

@@ -1,0 +1,1 @@
+  HADOOP-6281. Pushed the jars without the fix to trunk.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/hdfs/trunk@818575 13f79535-47bb-0310-9956-ffa450edef68  

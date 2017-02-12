@@ -1,0 +1,1 @@
+  insert paired end instead of shorthand if needed #IDEA-157251 fixed  

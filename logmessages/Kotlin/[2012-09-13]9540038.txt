@@ -1,0 +1,1 @@
+  Do not generate erroneous classes in SIGNATURES mode  Add an assertion that this never happens in other modes.  (fixes EA-37034)  

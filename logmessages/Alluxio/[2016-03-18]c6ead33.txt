@@ -1,0 +1,1 @@
+ Remove redundant endpoint debug which can be retrieved via /configuration  

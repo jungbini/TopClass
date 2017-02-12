@@ -1,0 +1,1 @@
+  The debugger hanging after print or call matplotlib in the debug IPython console (PY-20005)  We already put 'pydev_do_not_trace' flag on IPythonHistorySavingThread, and we should check it when suspending all threads  

@@ -1,0 +1,1 @@
+  release editors in resource bundle editor fix  

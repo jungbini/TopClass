@@ -1,0 +1,1 @@
+  fix swagger-incompatible method name #241  

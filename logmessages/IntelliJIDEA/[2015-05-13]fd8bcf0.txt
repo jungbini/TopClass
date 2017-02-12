@@ -1,0 +1,1 @@
+  gradle: fix gradle import when deprecated "out-of-process" mode used; IDEA-140243 Could not import any gradle project  

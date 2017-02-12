@@ -1,0 +1,1 @@
+  Ignore settings and quickfix for Python package requirements inspection (PY-5671)  

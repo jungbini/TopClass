@@ -1,0 +1,1 @@
+  fixed PY-11312 False positive CamelCase variable imported as lowercase  

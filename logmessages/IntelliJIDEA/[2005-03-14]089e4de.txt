@@ -1,0 +1,1 @@
+  fixed regression due to xml lexer fix with $  

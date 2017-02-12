@@ -1,0 +1,1 @@
+  DBE-1065: fix status text painting  

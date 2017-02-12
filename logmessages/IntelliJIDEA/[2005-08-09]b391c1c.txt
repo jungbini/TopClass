@@ -1,0 +1,1 @@
+  NPE in CvsVirtualFile fixed ArrayIndexOutOfBounds in CvsFileSystem fixed Working with disposed cvs fixed Composite assertion in formatter  

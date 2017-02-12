@@ -1,0 +1,1 @@
+  fix(web): generate emoji list and tabs in constructor;  

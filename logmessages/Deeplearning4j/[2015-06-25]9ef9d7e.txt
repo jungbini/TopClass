@@ -1,0 +1,1 @@
+  Fixed feed forward so that it captures derivatives without overwritting activations or vice versa. The dup func was throwing it off. Also fixed test so that it configures with softmax in outputlayer and matches the test example.  

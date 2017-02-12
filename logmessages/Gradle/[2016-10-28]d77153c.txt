@@ -1,0 +1,1 @@
+  Add feature for debugging daemon client in integration tests  - this adds the feature to be able to debug the daemon client in an integration test that starts a daemon.  

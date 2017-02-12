@@ -1,0 +1,1 @@
+  HADOOP-11050. hconf.c: fix bug where we would sometimes not try to load multiple XML files from the same path  

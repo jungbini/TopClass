@@ -1,0 +1,1 @@
+ Merge pull request #1170 from denzelsN/master  bug fix.  commit ba45811c07339e1792254ed77a897c4fa349df59  bug fix. show right bar when has not data. http://host:port/applicatName url is valid.  

@@ -1,0 +1,1 @@
+  Allow count non-imported descriptors for empty prefix in qualified expression - important for extension functions  

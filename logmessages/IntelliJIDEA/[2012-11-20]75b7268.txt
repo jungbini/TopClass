@@ -1,0 +1,1 @@
+  fix warning about icon's wrong size  

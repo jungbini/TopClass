@@ -1,0 +1,1 @@
+  increase responsiveness in remote debugging - render variable's children in separate requests  

@@ -1,0 +1,1 @@
+  Feature: compare selected debugger value with clipboard.  

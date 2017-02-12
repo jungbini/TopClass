@@ -1,0 +1,1 @@
+  'introduce holder class' quickfix for lazy init inspection, applied to our code  

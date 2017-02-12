@@ -1,0 +1,1 @@
+  IDEA-146333 Inline debugger is hard to see when debugging lambdas  

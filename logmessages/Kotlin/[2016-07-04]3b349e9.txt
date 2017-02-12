@@ -1,0 +1,1 @@
+  Fix reflection on reference to generic property  See a93484b457453f800d280361d1e300e968d57f80 for the similar fix to function references  #KT-12967 Fixed  

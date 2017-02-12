@@ -1,0 +1,1 @@
+  MAPREDUCE-3686. Fixed two bugs in Counters because of which web app displays zero counter values for framework counters. Contributed by Bhallamudi Venkata Siva Kamesh. svn merge --ignore-ancestry -c 1293775 ../../trunk   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1293776 13f79535-47bb-0310-9956-ffa450edef68  

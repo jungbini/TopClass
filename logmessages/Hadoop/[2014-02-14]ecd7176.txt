@@ -1,0 +1,1 @@
+  YARN-1553. Fixed a bug with branch-2 patch that broke compilation. Contributed by Haohui Mai.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1568540 13f79535-47bb-0310-9956-ffa450edef68  

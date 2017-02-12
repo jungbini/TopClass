@@ -1,0 +1,1 @@
+  fix "twin stubs" problem for JS tests  

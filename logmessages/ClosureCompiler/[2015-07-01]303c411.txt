@@ -1,0 +1,1 @@
+  Externs updates/fixes:  ERROR - Type annotation references non-existent type md.$dialog. * @param {!md.$dialog} $mdDialog ERROR - Type annotation references non-existent type angular.$q.Promise. * @return {!angular.$q.Promise<boolean>} ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=97339435  

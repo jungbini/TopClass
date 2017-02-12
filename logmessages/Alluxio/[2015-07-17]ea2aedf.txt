@@ -1,0 +1,1 @@
+  use raw ip instead of canonical hostname as worker address to fix spark locality issue  

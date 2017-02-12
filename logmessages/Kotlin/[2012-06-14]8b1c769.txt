@@ -1,0 +1,1 @@
+  KT-2142 function local classes do not work #KT-2142 fixed except KT-2277 Check overloads for local declarations  

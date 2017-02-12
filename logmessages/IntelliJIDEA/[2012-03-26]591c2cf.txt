@@ -1,0 +1,1 @@
+  displaying mnemonics fixed for IdeaTitledBorder (actually they do not work here)  

@@ -1,0 +1,1 @@
+  KT-1360 Vararg bug in front-end  

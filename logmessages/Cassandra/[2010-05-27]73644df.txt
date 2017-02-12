@@ -1,0 +1,1 @@
+  fix potential for duplicate rows seen by Hadoop jobs.  patch by jhanna; reviewed by jbellis for CASSANDRA-1042  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.6@948934 13f79535-47bb-0310-9956-ffa450edef68  

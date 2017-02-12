@@ -1,0 +1,1 @@
+  Use TermsFilter for lucene test queries. This should be faster and also fixes the unit tests. Revert the default property cardinality to single.  

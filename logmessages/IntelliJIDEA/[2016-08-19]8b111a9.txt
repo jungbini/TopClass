@@ -1,0 +1,1 @@
+  build script: fixed building CE from sources  

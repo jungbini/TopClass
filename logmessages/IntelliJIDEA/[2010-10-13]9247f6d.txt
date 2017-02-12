@@ -1,0 +1,1 @@
+  Bug fix in Groovy parser: all text after "if (true\n\n" highlights as error.  

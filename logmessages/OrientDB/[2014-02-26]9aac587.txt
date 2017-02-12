@@ -1,0 +1,1 @@
+  Distributed: fixed problem on replication. Now reqId is unique in whole cluster and during backup last operation is returned to avoid loosing msg  

@@ -1,0 +1,1 @@
+  method references: fix type to search (site substitution) for ReferenceType::Identifier references, where ReferenceType is raw (IDEA-135792)  

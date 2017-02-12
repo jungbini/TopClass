@@ -1,0 +1,1 @@
+  Added test for "Specify type explicitly" for loop parameters.  #KT-1890 fixed  

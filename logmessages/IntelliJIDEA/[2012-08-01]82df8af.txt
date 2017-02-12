@@ -1,0 +1,1 @@
+  fixed PY-7097 Insert type assertion should not be available for unresolved references  

@@ -1,0 +1,1 @@
+  some fixes for the httpbinding - transformation regex is now configured correctly, response of in-binding is now typed via TypeParser  

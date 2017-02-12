@@ -1,0 +1,1 @@
+  Regenerate kotlin gradle options for 1.0.5  #KT-14355 fixed  

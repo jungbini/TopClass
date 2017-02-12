@@ -1,0 +1,1 @@
+  Fixed KT-2019 Unit test runner: navigation by double click from a test to source code does not work  #KT-2019 fixed  

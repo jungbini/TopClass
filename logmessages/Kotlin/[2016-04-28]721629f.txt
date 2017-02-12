@@ -1,0 +1,1 @@
+  integrate Ingo Kegel's Dokka fix for rendering standalone * and _ characters  

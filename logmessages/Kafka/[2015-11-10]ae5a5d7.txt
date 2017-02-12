@@ -1,0 +1,1 @@
+  KAFKA-2792: Don't wait for a response to the leave group message when closing the new consumer.  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Onur Karaman, Gwen Shapira  Closes #480 from ewencp/kafka-2792-fix-blocking-consumer-close  

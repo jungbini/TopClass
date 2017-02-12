@@ -1,0 +1,1 @@
+  fixes to svg for the new xml library  

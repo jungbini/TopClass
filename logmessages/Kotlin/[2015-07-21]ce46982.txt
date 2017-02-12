@@ -1,0 +1,1 @@
+  Debugger: do not try to computeSourcePosition for not kotlin variables  

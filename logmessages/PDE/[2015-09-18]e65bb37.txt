@@ -1,0 +1,1 @@
+  can re-enable fill/stroke in PShapeOpenGL (fixes #3808)  

@@ -1,0 +1,1 @@
+  Use newer autotools.  Only build debug.c when --enable-debug.  

@@ -1,0 +1,1 @@
+  allow to set description for streams. fixes Graylog2/graylog2-web-interface#417  

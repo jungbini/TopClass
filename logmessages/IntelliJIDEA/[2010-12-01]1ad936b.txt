@@ -1,0 +1,1 @@
+  IDEA-61370 Wrong entry run when Run/Debug -> Edit entry is chosen [r=max]  

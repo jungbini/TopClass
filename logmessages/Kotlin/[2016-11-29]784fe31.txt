@@ -1,0 +1,1 @@
+  JS: fix translation of calls with aliased labeled lambda arguments. Fix KT-14999  

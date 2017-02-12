@@ -1,0 +1,1 @@
+  remove fallback logic (following fix for IDEA-154578)  this is for master only - assuming that it's ok to loose folding state information for recently opened files when migrating to a newer IDE version  

@@ -1,0 +1,1 @@
+  GPIO IO: wait half a second after exporting pin  on raspberry pi, operations on pins fail if executed immediatly after pin export. This change fixes that issue  

@@ -1,0 +1,1 @@
+  Set the type of the argument to a tagged template literal to a new type "ISiteObject" (IArrayLike + .raw property), fixing the incorrect es6 externs. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=123708566  

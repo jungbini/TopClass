@@ -1,0 +1,1 @@
+  reworked incremental scala compilation  - introduced IncrementalCompileOptions - fixed how analysis map is computed - renamings  

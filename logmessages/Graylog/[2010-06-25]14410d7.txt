@@ -1,0 +1,1 @@
+  fixed not working purging of systemstatistics table on startup  

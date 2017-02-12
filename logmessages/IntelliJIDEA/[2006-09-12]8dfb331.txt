@@ -1,0 +1,1 @@
+  fix refresh vFiles upon adding watch roots for existing vFiles  

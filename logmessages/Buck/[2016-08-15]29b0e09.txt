@@ -1,0 +1,1 @@
+  Easy: Don't filter out calls to LOG.debug() in com.facebook.buck.io  Summary: This change was made in an attempt to print Watchman logs to the console. It didn't do that; this removes it.  Test Plan: buck build buck, confirmed watchman debug logs were printed  Reviewed By: yiding  fbshipit-source-id: a37509c  

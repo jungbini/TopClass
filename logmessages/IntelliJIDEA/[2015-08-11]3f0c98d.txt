@@ -1,0 +1,1 @@
+  IDEA-143638 - Application servers tool window is shown in toolbar even if there's no application servers - fix compilation  

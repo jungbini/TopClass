@@ -1,0 +1,1 @@
+  buck wrapper script: Always print to stderr  Summary: Currently, bin/buck uses a mix of stdout and stderr for its diagnostic information (like "Buck is updating itself"), including the output of 'ant'.  This messes up scripts which wrap the wrapper script (like fbobjc's Tools/buck-project.py) and try to read the output of 'buck project'.  To fix this, this 

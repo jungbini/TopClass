@@ -1,0 +1,1 @@
+  Adds the dsym files to the ios_application output when using --objc_generate_debug_symbols. These are delivered in distinct files, with an architecture identifier.  -- MOS_MIGRATED_REVID=118510432  

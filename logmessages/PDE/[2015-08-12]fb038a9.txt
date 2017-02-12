@@ -1,0 +1,1 @@
+  avoid NPE for sketches w/o size() (fixes #3585)  

@@ -1,0 +1,1 @@
+  Fix huge perf issue in NumberFormatter on systems which dynamically change number of CPU cores  Summary: In my 

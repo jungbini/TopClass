@@ -1,0 +1,1 @@
+  KT-2334 partly fix: boolean to object coercion  

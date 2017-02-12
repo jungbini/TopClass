@@ -1,0 +1,1 @@
+  Use a wrapper around gcc on OSX to simulate rpath  OS X does not have rpath so binary fails when not executing from the good path. This wrapper rewrite the path after the compilation to fix that behavior.  Fixes #46  -- MOS_MIGRATED_REVID=89527942  

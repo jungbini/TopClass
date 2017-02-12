@@ -1,0 +1,1 @@
+  process test method templates without "test" prefix EA-58090 - assert: JavaParserUtil.parseFragment  

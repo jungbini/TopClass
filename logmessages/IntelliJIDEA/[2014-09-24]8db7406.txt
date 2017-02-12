@@ -1,0 +1,1 @@
+  Foreground for AdvancedInspectionsSettings list popup fixed  

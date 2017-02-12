@@ -1,0 +1,1 @@
+  NavBar - focus fixes on Ctrl-N + some ui facelift again  

@@ -1,0 +1,1 @@
+  demoting the debug tray to be a variable inspector  

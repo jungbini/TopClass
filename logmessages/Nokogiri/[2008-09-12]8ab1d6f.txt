@@ -1,0 +1,1 @@
+  fixed memory issue. xsltParseStylesheet assumes ownership of the xmlDoc. so now we xmlCopyDoc it first.  

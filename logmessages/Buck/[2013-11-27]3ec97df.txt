@@ -1,0 +1,1 @@
+  Fix: linearalloc metadata was not being copied for ABI match.  Summary: This is a gross hack, but it's a quick fix for now so we don't have to give up our performance gains.  Test Plan: Sandcastle builds.  

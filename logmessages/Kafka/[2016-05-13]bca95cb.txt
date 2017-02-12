@@ -1,0 +1,1 @@
+note about buffer size for compression stream 515040b [Ismael Juma] Call `compressor.close()` to fix memory leak 5311e5b [Ismael Juma] Dump heap on out of memory error when running `producer_performance.py`  (cherry picked from commit 13130139ff70d0127e87d2c87dd5e62e6320fa45) Signed-off-by: Gwen Shapira <cshapi@gmail.com>  

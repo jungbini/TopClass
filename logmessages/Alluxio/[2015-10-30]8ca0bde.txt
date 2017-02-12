@@ -1,0 +1,1 @@
+ Revert "Remove unneeded findbugs configuration"  This reverts commit 5798ba0f572c5234f1ca9eaace3b48c0b1c881f2.  

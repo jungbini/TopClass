@@ -1,0 +1,1 @@
+ Merge pull request #1005 from soluvas/atmosphere-1.0.x  Typo fix for NginxInterceptor :)  commit 94938465572f4c627bbf71ecb6578600ea9ed015  Typo fix for NginxInterceptor :)  

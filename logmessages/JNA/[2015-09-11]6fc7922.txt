@@ -1,0 +1,1 @@
+  Use canonical arch more consistently, work around OpenJDK ppc64le bug reporting os.arch  

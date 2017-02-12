@@ -1,0 +1,1 @@
+  inspection profile: allow to change inspection settings from quick fix - profileChanged would force 

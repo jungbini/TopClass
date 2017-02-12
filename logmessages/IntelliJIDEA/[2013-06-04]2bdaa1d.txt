@@ -1,0 +1,1 @@
+  fix: we need to update state, because it also contains myValueResFilesTimestamps not taking into account by equalsTo() [rev=yole]  

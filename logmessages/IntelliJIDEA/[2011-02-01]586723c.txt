@@ -1,0 +1,1 @@
+  Correctly updating a list of JS libraries in library usage scope after library removal, NPE fix  

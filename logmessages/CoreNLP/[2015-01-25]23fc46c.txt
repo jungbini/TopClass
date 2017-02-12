@@ -1,0 +1,1 @@
+  Fixes bug in Counters' Jensen-Shannon divergence reported by Bob West.  

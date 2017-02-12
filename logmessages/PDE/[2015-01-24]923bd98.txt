@@ -1,0 +1,1 @@
+  make the debug window track, remove the form  

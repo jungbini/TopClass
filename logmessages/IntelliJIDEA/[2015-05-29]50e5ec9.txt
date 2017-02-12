@@ -1,0 +1,1 @@
+  [vcs] IDEA-94335 Shelve changes supports binary files; IDEA-139877 Error applying patch when name conflict appears during rename/move  * show binary files in unshelve dialog; * implement show 

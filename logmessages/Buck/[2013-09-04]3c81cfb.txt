@@ -1,0 +1,1 @@
+  Use Files.walkFileTree in DirectoryTraversal.  Summary: Replace custom traversal code with Java 7's `Files.walkFileTree`. This fixes infinite loops in the event of a symlink loop.  Test Plan: Added a symlink loop to DirectoryTraversalTest and  `buck test --all`.  Use in a directory with symlink loops, previously it looped, now it terminates.  

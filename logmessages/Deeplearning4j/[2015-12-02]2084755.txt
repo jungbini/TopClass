@@ -1,0 +1,1 @@
+ Merge master + fix conflict  commit 07eb9abce6e5151d082c3ed6fa2f66eda1f7dd00  Merge pull request #922 from raver119/master  Huffman Tree sorting fixed, PrefetchingSentenceIterator fixed  commit 20847555471f4cab0445778bc61f475d662a8a44  Huffman Tree sorting fixed, PrefetchingSentenceIterator fixed  Huffman Tree sorting fixed, PrefetchingSentenceIterator fixed  

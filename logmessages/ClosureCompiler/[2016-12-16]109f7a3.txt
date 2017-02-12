@@ -1,0 +1,1 @@
+  Catch UncheckedExecutionException from transpilation. These can occur with parse errors. We rethrow the Exception as an IllegalStateException to match expectations in the consumers of the transpiler. See bug for an example stack.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=142286732  

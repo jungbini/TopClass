@@ -1,0 +1,1 @@
+  GitMergeOperation: rollback merges via git reset --merge and without taking care on local changes. This fixes IDEA-81285 and IDEA-81287  

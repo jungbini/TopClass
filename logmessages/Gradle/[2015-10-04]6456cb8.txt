@@ -1,0 +1,1 @@
+  Mark services with `@Service`, and reference them via path in the model  Also fixes rule-cycles in Android plugin.  +review REVIEW-5640  

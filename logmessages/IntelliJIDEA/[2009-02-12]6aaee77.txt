@@ -1,0 +1,1 @@
+  eclipse: fix unknown module references  

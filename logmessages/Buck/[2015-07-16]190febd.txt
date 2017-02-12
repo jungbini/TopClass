@@ -1,0 +1,1 @@
+  C/C++: fix bug adding absolute paths to `Lex` rule keys  Summary: When we switched to reflective rule keys, we introduced a bug which stringified the input to `Lex` rules, which meant we hashed the absolute path rather than it's contents, causing rule key fragmentation.  This restores correct behavior.  Test Plan: updated test  

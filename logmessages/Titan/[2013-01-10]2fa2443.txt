@@ -1,0 +1,1 @@
+  fix to distribution.xml to include LICENSE, README, CHANGELOG, UPDATE, and aggreaged javadocs. Still need to figure out how to exclude certain JavaDoc packages.  

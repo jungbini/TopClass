@@ -1,0 +1,1 @@
+  IDEA-21657 Empty run/debug configuration dropdown shows dot  

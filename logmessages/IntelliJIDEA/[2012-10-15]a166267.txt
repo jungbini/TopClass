@@ -1,0 +1,1 @@
+  Bug fix: link in stacktrace opens decompiled class even if sources were downloaded.  

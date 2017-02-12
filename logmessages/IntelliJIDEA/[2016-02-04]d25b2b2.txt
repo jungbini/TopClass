@@ -1,0 +1,1 @@
+  Tox+PyTest fix  * PyTest reports error when no tests found * separator added to directory name  

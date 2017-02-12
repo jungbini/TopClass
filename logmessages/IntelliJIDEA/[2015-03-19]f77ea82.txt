@@ -1,0 +1,1 @@
+  EA-66646 - IE: PositionManagerImpl.findNested - error 23 - simplified fix  

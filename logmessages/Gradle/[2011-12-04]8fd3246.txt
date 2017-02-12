@@ -1,0 +1,1 @@
+  worked around bug in TestNG 6.2+ that causes configuration listener to be notified twice per event  

@@ -1,0 +1,1 @@
+  IG: fix "'try finally' replaceable with 'try' with resources" inspection quickfix problem  

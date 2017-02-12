@@ -1,0 +1,1 @@
+9b35 [Jeff Zhang] fix code style 39c9140 [Jeff Zhang] add test case 32ae1a2 [Jeff Zhang] [ZEPPELIN-1334] Environment variable defined in interpreter setting doesn't take effect  

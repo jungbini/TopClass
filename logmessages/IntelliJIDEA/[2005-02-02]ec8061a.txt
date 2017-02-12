@@ -1,0 +1,1 @@
+  jspx default xhtml namespace removed, fixed issue with no parent delegation for namespace that is declared in the parent  

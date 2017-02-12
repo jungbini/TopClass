@@ -1,0 +1,1 @@
+  HADOOP-5835. Fix findbugs warnings found in Block, DataNode, NameNode and a few other hdfs classes.  Contributed by Suresh Srinivas   git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk@776148 13f79535-47bb-0310-9956-ffa450edef68  

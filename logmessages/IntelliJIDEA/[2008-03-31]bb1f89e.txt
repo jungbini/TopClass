@@ -1,0 +1,1 @@
+  skip adding -Xdebug for jdk 1.6.x and higher  

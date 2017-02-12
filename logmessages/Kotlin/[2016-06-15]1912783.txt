@@ -1,0 +1,1 @@
+  Create from Usage: Suggest "Create function/secondary constructor" quick fix on argument type mismatch #KT-11864 Fixed  

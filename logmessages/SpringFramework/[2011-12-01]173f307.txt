@@ -1,0 +1,1 @@
+  backported header matching fix for correct processing of negated header conditions (SPR-8862)  

@@ -1,0 +1,1 @@
+  IDEA-54151  Correct groovy scripts debugging in case of multiple scripts with the same name  

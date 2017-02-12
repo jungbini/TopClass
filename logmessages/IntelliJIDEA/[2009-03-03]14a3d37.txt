@@ -1,0 +1,1 @@
+  enable variable name completion in xslt-debugger breakpoint settings  

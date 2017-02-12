@@ -1,0 +1,1 @@
+  Add export ZERO_AR_DATE=1 to libtool.sh to make the output hermetic, and touch the output of libtool to avoid hitting a bug in ld.  -- MOS_MIGRATED_REVID=130093791  

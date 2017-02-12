@@ -1,0 +1,1 @@
+  change contribs download location (fixes #2849)  

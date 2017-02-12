@@ -1,0 +1,1 @@
+  fixed EDU-378 Clean all _windows files just before run  

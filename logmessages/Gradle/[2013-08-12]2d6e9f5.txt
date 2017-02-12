@@ -1,0 +1,1 @@
+  Fix the setting of path variable:  - This bug has meant that our GCC3 tests have actually been running with GCC4  

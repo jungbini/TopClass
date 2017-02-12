@@ -1,0 +1,1 @@
+  HADOOP-7603. Set hdfs, mapred uid, and hadoop uid to fixed numbers. (Eric Yang)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1178644 13f79535-47bb-0310-9956-ffa450edef68  

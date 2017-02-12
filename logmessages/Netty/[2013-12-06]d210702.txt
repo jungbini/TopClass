@@ -1,0 +1,1 @@
+  channel buffer: fix writerIndex increment bug  Ensure that writeByte(int) does not increment writerIndex if the write was out of bounds.  

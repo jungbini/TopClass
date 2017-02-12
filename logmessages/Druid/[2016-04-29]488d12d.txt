@@ -1,0 +1,1 @@
+  CombiningSequence: Delay making next yielder on creation until it is actually asked for. (#2892)  This fixes the behavior of limited combining sequences (otherwise limit = 1 would actually yield 2 elements).  

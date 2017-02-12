@@ -1,0 +1,1 @@
+  currently some classes from sdklib migrated to separate jar, attach it (fix CNFE)  

@@ -1,0 +1,1 @@
+  First cut at using dependency resolution result to determine IDE classpaths. Minor fixes to design spec.  

@@ -1,0 +1,1 @@
+  fixed a problem with the class not being Serializable. This should fix the build, also.  

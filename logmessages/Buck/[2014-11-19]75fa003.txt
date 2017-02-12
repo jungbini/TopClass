@@ -1,0 +1,1 @@
+  Assume descriptions that don't implement Flavored don't handle any flavours rather than all flavours.  Summary: Currently Parser checks whether a Description can handle a flavour only if the Description implements Flavored, which means Descriptions that don't implement it, and can't handle any flavour, will pass that check. This fixes that.  Test Plan: CI, new unit test  

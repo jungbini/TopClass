@@ -1,0 +1,1 @@
+  fixed unused code (produced NPE) and tests  

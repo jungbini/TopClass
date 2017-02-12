@@ -1,0 +1,1 @@
+  Rename refactoring bug, when variable starts from $ (IDEADEV-27741)  

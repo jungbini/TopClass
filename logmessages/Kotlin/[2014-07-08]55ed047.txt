@@ -1,0 +1,1 @@
+  KT-4980 'Remove braces' intention throws NPE for a for-loop with variable declaration  #KT-4980 fixed  

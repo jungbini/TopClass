@@ -1,0 +1,1 @@
+  IntelliJ Laf: fix disabled combobox border  

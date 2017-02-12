@@ -1,0 +1,1 @@
+  Move [ideally] git agnostic GitAlk modules to dvcs  + rename them with "vcs-log" prefix + group vcs-log modules under the dvcs module group  

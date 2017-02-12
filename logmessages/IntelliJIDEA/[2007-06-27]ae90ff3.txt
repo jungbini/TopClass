@@ -1,0 +1,1 @@
+  IDEADEV-17916, correct fix for misusage of disposed components  

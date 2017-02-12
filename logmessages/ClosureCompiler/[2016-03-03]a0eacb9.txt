@@ -1,0 +1,1 @@
+  Refine the bug fix for infinitely recursing templated types: compare types by name instead of equals to handle the case where the template types are unknown. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=116311994  

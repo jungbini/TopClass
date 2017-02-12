@@ -1,0 +1,1 @@
+  - Fixed bugs on remoting - Fixed bugs on indexing - Fixed bugs on remote JUnit tests.  

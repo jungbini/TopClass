@@ -1,0 +1,1 @@
+  MAPREDUCE-5028. Fixed a bug in MapTask that was causing mappers to fail when a large value of io.sort.mb is set. Contributed by Karthik Kambatla. svn merge --ignore-ancestry -c 1576170 ../../trunk/   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1576171 13f79535-47bb-0310-9956-ffa450edef68  

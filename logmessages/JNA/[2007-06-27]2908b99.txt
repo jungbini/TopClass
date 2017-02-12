@@ -1,0 +1,1 @@
+  Enable type mapping for callbacks Avoid static instance variables in tests Fill out wide character support Fix osx/ppc struct alignment bug  git-svn-id: https://svn.java.net/svn/jna~svn/trunk@149 2f8a963e-d2e4-e7d0-97bf-ccb7fcea9d80  

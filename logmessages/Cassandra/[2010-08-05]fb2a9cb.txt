@@ -1,0 +1,1 @@
+  fix key ordering in range query results with RandomPartitioner and ConsistencyLevel > ONE.  patch by Jeremy Hanna and jbellis for CASSANDRA-1145  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.6@982627 13f79535-47bb-0310-9956-ffa450edef68  

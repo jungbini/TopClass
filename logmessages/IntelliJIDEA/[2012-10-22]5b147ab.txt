@@ -1,0 +1,1 @@
+  IDEA-80861 (The auto-fix for the Inspection "confusing 'else' branch" deletes entire branches.)  

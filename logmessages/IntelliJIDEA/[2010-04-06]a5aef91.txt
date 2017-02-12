@@ -1,0 +1,1 @@
+  RunnerLayout: focus attraction applied for minimized view caused invalid selection state in ContentManager - debugger views stopped to update  

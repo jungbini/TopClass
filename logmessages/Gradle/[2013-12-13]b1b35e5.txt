@@ -1,0 +1,1 @@
+  REVIEW-3562 added integ test coverage for the jacoco bugfix about missing source references. It's fairly clean and does not couple that much with the report format.  

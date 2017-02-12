@@ -1,0 +1,1 @@
+  Minor fixes. The semantic newline problem is still there  

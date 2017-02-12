@@ -1,0 +1,1 @@
+  fix OnDiskIndexTest to properly treat empty ranges  patch by xedin; reviewed by jkni for CASSANDRA-11205  

@@ -1,0 +1,1 @@
+  DomCollectionWrapper.getDomElement() fix  

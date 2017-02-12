@@ -1,0 +1,1 @@
+  Got rid of auto-popuping of live templates  #KT-1459 fixed  

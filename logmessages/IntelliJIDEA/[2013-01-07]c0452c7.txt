@@ -1,0 +1,1 @@
+  do not check read-only status in delegate quickfix: it should be checked in fix (IDEA-98339)  

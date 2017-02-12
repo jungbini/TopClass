@@ -1,0 +1,1 @@
+  fixed PY-7435 Specify return type using annotation: annotation is added to current function instead of one at caret  

@@ -1,0 +1,1 @@
+  MINOR: Fix logging message in `NetworkClient.poll` not to mention `producer`  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Jun Rao <junrao@gmail.com>  Closes #507 from ijuma/fix-error-message-in-network-client-poll  

@@ -1,0 +1,1 @@
+  sort debugger painters: short values first  

@@ -1,0 +1,1 @@
+  Started to verify resolution of published modules in IvyPublish integ tests - Fixed bug in module published from empty publication  

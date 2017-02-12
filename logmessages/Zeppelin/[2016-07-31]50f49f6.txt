@@ -1,0 +1,1 @@
+reter to configuration  (cherry picked from commit ef3b9a14e9bcd4003f81db200b2fef4aa68d7e3e) Signed-off-by: Mina Lee <minalee@apache.org>  Conflicts: zeppelin-zengine/src/main/java/org/apache/zeppelin/conf/ZeppelinConfiguration.java  

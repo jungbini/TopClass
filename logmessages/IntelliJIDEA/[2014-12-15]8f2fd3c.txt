@@ -1,0 +1,1 @@
+  startup under windows fixed  

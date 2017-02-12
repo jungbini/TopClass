@@ -1,0 +1,1 @@
+  fixed MAX!Cube issue for thermostats not updating setpoint termperatures set at the thermostat  

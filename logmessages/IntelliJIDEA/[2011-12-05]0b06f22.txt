@@ -1,0 +1,1 @@
+  [r=irina.chernushina] More conservative fix for IDEA-77177  

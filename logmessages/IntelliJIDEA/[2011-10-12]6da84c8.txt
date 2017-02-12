@@ -1,0 +1,1 @@
+  IDEA-64499 All recorded macros disappear after PhpStorm restart + some recording fixes  

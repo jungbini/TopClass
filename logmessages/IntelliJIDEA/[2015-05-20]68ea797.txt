@@ -1,0 +1,1 @@
+  fixed misplaced lines: if process changed lines, invoke #reformatTextWithContext  

@@ -1,0 +1,1 @@
+  Skylark: fix auto type conversion between the BUILD language and Skylark. SkylarkList#toList() behaves consistently for all implementations.  -- MOS_MIGRATED_REVID=87817550  

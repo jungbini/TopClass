@@ -1,0 +1,1 @@
+update the parent from renamed file by getting this information from the rename commit.  The bug was caused by the fix of IDEA-78347.  

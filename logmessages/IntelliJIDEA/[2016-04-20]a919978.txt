@@ -1,0 +1,1 @@
+  log java compiler messages in debug mode  

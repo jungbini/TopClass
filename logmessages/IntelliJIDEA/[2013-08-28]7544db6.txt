@@ -1,0 +1,1 @@
+  fixed PY-5654 Uninstall package should warn if the package I try to uninstall is a dependency for another installed package  

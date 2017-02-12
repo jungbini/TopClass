@@ -1,0 +1,1 @@
+  Fix widgets sorting  Use object containing widget dimensions, and fix compare function to return -1, 0, or 1.  

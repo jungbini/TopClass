@@ -1,0 +1,1 @@
+  ArrayIndexOutOfBoundsException fix: invokeLater block may run after dialog disposal  

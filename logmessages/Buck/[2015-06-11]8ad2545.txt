@@ -1,0 +1,1 @@
+  Provide a way to pass an optional ABI key to android_resource.  Summary: This will be used by `ReactNativeLibraryGraphEnhancer` in order to fix `AndroidReactNativeLibraryIntegrationTest.AndroidReactNativeLibraryIntegrationTest()`.  Test Plan: Unit test.  

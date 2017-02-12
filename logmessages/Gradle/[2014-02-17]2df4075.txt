@@ -1,0 +1,1 @@
+  GRADLE-3020 Fixed the regression with TestNGOptions.suites(String) method.  This is not a great fix. We should probably avoid decorating groovy classes because things get hairy. TestNGOptions needs to become java and should be put behind an interface. TestNGOptions also contains some interesting metaprogramming tweaks (methodMissing, etc.) which does feel like a good idea.  

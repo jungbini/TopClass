@@ -1,0 +1,1 @@
+ IDEA-91733 Fix Git Pull for HTTPS  Branches are now stored (and shown) with the remote prefix, no need to add this prefix once again. Also fix a misprint in the method name.  

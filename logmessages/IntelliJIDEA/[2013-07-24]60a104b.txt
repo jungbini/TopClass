@@ -1,0 +1,1 @@
+  version pattern fixed (for versions with 2 points symbols)  

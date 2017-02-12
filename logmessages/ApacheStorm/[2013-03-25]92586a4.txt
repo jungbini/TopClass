@@ -1,0 +1,1 @@
+  fix default scheduler to always reassign topology if some of its executors are dead  

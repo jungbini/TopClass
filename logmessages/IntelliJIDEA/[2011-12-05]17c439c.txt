@@ -1,0 +1,1 @@
+  ui: fix editor border for tabless mode  

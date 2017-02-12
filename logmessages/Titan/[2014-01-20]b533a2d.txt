@@ -1,0 +1,1 @@
+  Reenabled short HBase CF names  Fixed bug in HBaseKeyColumnValueStore.mutateMany(...) that was leaking short names, reenabled short names for HBase CFs by default  

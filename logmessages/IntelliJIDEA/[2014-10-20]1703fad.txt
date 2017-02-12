@@ -1,0 +1,1 @@
+  escape first > to prevent self-closing #WEB-10383 fixed  

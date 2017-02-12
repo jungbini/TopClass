@@ -1,0 +1,1 @@
+  Fixed a bug where you could not reference an object from a function literal defined inside a method. Also removed when conditional call code.  

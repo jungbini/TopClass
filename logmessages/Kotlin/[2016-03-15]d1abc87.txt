@@ -1,0 +1,1 @@
+  Fix NoSuchMethodError with Gradle 2.12  #KT-11351 fixed  

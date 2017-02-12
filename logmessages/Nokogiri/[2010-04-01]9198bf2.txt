@@ -1,0 +1,1 @@
+  Take 2. Fix parsing with noblanks option, and cut namespace decls out from attribute list. This change fixed an error of test_inspect_ns in test_node.rb  

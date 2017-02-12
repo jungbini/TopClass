@@ -1,0 +1,1 @@
+  IDEA-73985 Extract superclass: implement quicksearch for members table + default focused component: fix + tests  

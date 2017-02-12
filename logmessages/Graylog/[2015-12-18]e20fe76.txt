@@ -1,0 +1,1 @@
+  Downgrade Jackson version to 2.6.2 because of bug.  2.6.3 and onwards has issues deserializing polymorphic classes, which breaks our blacklist filter.  

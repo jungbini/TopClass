@@ -1,0 +1,1 @@
+ Merge pull request #4236 from ifcharming/fixtest3  [SMALLFIX] Fix an integration test with -Phadoop-1  commit 4a763fcefdeac7f1f7780e4829785c6063cf78c3  [ALLUXIO-2336] Reverted UI related stuff and fixed ls shell command  

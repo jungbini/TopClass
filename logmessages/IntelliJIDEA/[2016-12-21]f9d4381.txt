@@ -1,0 +1,1 @@
+  IDEA-165306 Multiple caret Copy and Paste gives inconsistent results  fix typo  

@@ -1,0 +1,1 @@
+  fixed regular expressions in xs:pattern element of xhtml schemas  

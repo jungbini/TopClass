@@ -1,0 +1,1 @@
+  fix+chore(iOS): fetch stickers only on keyboard open and get photos permission on open attachment menu  

@@ -1,0 +1,1 @@
+ Issue #1804 was fixed. (cherry picked from commit 652a7a9)  

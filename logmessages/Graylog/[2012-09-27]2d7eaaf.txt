@@ -1,0 +1,1 @@
+  removed hoptoad and new_relic stuff. fixes #WEBINTERFACE-253  

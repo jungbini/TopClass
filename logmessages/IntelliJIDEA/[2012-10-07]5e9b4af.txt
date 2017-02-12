@@ -1,0 +1,1 @@
+  IDEA-85748 (Auto-fix for Inspection "Static import" should add an import for the class with the imported member.)  

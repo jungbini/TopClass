@@ -1,0 +1,1 @@
+  Rename/Move: //IDEA/debugger-impl/src/com/intellij/debugger/actions/AddToWatchAction.java To: //IDEA/debugger/impl/com/intellij/debugger/actions/AddToWatchAction.java  

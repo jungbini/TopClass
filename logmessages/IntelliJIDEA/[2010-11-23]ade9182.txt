@@ -1,0 +1,1 @@
+  copy value in debugger returns now full evaluated value(PY-1072)  

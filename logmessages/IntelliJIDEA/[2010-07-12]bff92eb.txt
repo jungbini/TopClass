@@ -1,0 +1,1 @@
+  fixed problem with overwriting 'metaClass' property after calling super-constructor  

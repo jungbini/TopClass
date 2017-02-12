@@ -1,0 +1,1 @@
+  improved and fixed debug output for MAX!Cube binding  

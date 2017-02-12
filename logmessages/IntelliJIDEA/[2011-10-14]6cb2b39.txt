@@ -1,0 +1,1 @@
+  OC-2008 Debugger:Device: when installing an application show 'Connecting' status in debugger; OC-2005 Debugger:Device: background loading is incorrect and cause broken device support; OC-2037 Debugger:Device:GDB: variables are not evaluated on Xcode 3/4.1, on Xcode 4.2 everything is OK (Lion)  

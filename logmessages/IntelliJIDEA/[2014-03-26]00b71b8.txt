@@ -1,0 +1,1 @@
+  remove unused classes, add readme, fix exception on fetch empty repo, ics settings: use text browse field instead of plain text field  easy directory selection forbid ssh URLs  

@@ -1,0 +1,1 @@
+  review-related code-style fixes and cleanups  Patch by eevans; reviewed by Rick Shaw for CASSANDRA-2475  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1214523 13f79535-47bb-0310-9956-ffa450edef68  

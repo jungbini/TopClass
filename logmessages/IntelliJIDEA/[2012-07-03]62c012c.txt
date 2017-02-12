@@ -1,0 +1,1 @@
+ a better fix for IDEA-88207 Attempt to reopen ipr-based project is rejected with "does not exist" error message  

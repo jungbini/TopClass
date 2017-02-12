@@ -1,0 +1,1 @@
+  allow to add search result count widgets from no results pages. fixes #496  

@@ -1,0 +1,1 @@
+  correct context for code fragments in Debugger's text fields and comboboxes  

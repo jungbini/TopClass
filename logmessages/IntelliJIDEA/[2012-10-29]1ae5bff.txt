@@ -1,0 +1,1 @@
+  IDEA-93750 svn history does not update [if it was edited outside IDEA] (fix: when user presses Refresh manually, update history "honestly", even if last revision didn't change. When auto refresh is used, check last revision)  Also I have found out that auto-refresh wasn't called each 20 seconds, as was expected.  

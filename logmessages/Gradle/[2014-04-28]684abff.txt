@@ -1,0 +1,1 @@
+  Reworked the uri handling in ExternalResourceName, to work around some bugs in URI.  

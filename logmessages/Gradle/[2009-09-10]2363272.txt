@@ -1,0 +1,1 @@
+  Workaround for what looks like a Groovy bug. To fix an exception when compiling the build sources, all methods used within the DOMCategory in UserGuideTransformTask had to be made public.  

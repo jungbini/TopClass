@@ -1,0 +1,1 @@
+  Run full resolve in debugger with write action priority (KT-14602)  #KT-14602 Fixed  

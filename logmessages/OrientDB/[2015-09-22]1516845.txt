@@ -1,0 +1,1 @@
+  fix ORDER BY with square brackets and unnamed params  query with ORDER BY fieldName[?] did not work correctly, the parameter was not replaced  Resolves: #4949  

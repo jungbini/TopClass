@@ -1,0 +1,1 @@
+ Merge pull request #1906 from guobingkun/fix_curator_compress_doc  Fix curator compress doc  commit 3ee28c35cec89d9968a193fd25e3aa59bad5c8f0  fix curator compress doc  

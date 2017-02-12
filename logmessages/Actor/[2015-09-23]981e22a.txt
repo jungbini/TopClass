@@ -1,0 +1,1 @@
+  feat+fix(web): change emoji dropdown title to category title on scroll; fix dropdown overflow and z-index;  

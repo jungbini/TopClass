@@ -1,0 +1,1 @@
+  Schema: fixed issue on schema management with multiple instances of the same database. The entire schema was reloaded when a schema class was created. This removed temporary changes at client-side level only like adding of properties.  

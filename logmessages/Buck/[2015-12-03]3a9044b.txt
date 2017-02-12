@@ -1,0 +1,1 @@
+  Add default flavor for apple debug format.  Summary: Adding default flavors for apple debug format based on the config value. Still allow to override it via explicit flavor set by command line.  Test Plan: updated unit tests, CI  Reviewed By: @Coneko  fb-gh-sync-id: 3dbc440  

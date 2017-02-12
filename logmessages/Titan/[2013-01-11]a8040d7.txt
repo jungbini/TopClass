@@ -1,0 +1,1 @@
+  added the ability to turn literal-object triples into vertex properties. Fixed a reference bug in EdgeListInputMapReduce. Various other tweaks.  

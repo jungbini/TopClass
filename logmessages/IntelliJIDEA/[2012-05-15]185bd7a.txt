@@ -1,0 +1,1 @@
+  breakpoints ui. remove action on toolbar. fixed selection after removing breakpoint.  

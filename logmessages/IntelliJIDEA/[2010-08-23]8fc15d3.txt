@@ -1,0 +1,1 @@
+  fix assertion when building test runner command line; add test; delete some unused code  

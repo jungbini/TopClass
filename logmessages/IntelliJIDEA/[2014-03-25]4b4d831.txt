@@ -1,0 +1,1 @@
+  fix regressions for copy/paste behaviour in column selection mode  

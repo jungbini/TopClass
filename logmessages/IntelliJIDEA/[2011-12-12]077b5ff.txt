@@ -1,0 +1,1 @@
+  Debugger: fixed step into eggs (PY-4669).  

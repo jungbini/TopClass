@@ -1,0 +1,1 @@
+  KT-13043: fix translation of super call from secondary constructor when base constructor has default arguments  

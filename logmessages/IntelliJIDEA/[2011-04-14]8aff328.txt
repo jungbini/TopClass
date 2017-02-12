@@ -1,0 +1,1 @@
+  fixed PY-3350 "Code Compatibility" false positive on logging.config (for Python versions >= 2.4) [not fixed in 1.2.1]  

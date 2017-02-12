@@ -1,0 +1,1 @@
+  layout tweaks and fix for #1701, errant msgs about backup folder on update  

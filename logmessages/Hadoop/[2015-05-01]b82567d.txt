@@ -1,0 +1,1 @@
+  HDFS-8213. DFSClient should use hdfs.client.htrace HTrace configuration prefix rather than hadoop.htrace (cmccabe)  

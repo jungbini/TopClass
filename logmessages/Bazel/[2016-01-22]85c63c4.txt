@@ -1,0 +1,1 @@
+  Create convenience symlinks before the build so that they are available for intra-build debugging.  As a drive-by fix, create the configuration-independent symlinks even when we have >1 target configurations. Fix broken windows!  -- MOS_MIGRATED_REVID=112764311  

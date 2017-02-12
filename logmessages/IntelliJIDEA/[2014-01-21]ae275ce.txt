@@ -1,0 +1,1 @@
+  fixed PY-11875 Pycharm code analysis stalls on specific code    (caused by AIOOB in getArguments of decorator)  

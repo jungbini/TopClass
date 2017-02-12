@@ -1,0 +1,1 @@
+  YARN-2743. Fixed a bug in ResourceManager that was causing RMDelegationToken identifiers to be tampered and thus causing app submission failures in secure mode. Contributed by Jian He.  

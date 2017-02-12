@@ -1,0 +1,1 @@
+  Test fix for broke TestSplitTransactionOnCluster on hudson  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1066335 13f79535-47bb-0310-9956-ffa450edef68  

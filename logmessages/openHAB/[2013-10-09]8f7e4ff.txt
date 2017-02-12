@@ -1,0 +1,1 @@
+  - Now also closing buffered writer - Added some more debug messages  

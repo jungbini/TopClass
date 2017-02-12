@@ -1,0 +1,1 @@
+  fixed PY-9653 Extract Method: Replace Duplicates: do not replace occurrences with class fields  

@@ -1,0 +1,1 @@
+  JS: minor code style and formatting fixes  

@@ -1,0 +1,1 @@
+  Fix for AbstractVcsTestCase : EncodingManager is initialized not while loading application, but while loading a project. Thus listeners are added but not removed, which leads to the assertion in checkListeners(). This fix makes EncodingManager initialize on the application start.  

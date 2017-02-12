@@ -1,0 +1,1 @@
+  fix default non project files color under darcula  

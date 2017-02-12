@@ -1,0 +1,1 @@
+  FileTypeUsagesCollector: uncoditional UnknownFileType.INSTANCE collection removed, test fixed  

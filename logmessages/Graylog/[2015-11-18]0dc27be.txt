@@ -1,0 +1,1 @@
+  keep additional counters about performed search requests  fixes #1573  

@@ -1,0 +1,1 @@
+  fixed PY-5290 Tuple assignment balance is incorrect: false positive for namedtuples  

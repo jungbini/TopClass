@@ -1,0 +1,1 @@
+  introduce local resolve during type processing; also assertion fix  

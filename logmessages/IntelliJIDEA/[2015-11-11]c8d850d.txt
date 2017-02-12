@@ -1,0 +1,1 @@
+  fix potential exception on turning off soft wraps  fixes tests from SoftWrapApplianceOnDocumentModificationTest failing currently  

@@ -1,0 +1,1 @@
+  HTTP: fixed issue #1490 bug on delete record called in batch mode  

@@ -1,0 +1,1 @@
+  fixed PY-13279 Create New Project: install related template packages when selecting template language  

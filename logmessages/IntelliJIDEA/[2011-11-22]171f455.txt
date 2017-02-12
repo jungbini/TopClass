@@ -1,0 +1,1 @@
+ GitRepository: notifyListeners from update(), not for each update*. It also fixes not notifying after config change  

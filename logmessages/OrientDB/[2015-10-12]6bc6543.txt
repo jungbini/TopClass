@@ -1,0 +1,1 @@
+  Issue #2029 Bugs when backup is not created if there are deleted files was fixed.  

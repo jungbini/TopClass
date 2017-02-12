@@ -1,0 +1,1 @@
+  fix tests: use full lint registry instead of filtered (cherry-picked from bb01a49)  

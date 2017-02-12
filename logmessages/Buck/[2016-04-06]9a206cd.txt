@@ -1,0 +1,1 @@
+  Fix logic for transitive classpath entries in android_binary rule  Summary:The current implementation of getTransitiveClasspathEntries for android_binary rules suffers from the following problem:  Due to the 

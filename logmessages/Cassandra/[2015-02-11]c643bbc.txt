@@ -1,0 +1,1 @@
+  ninja fix whitespace parsing in cassandra-stress  patch by benedict; reviewed by jake for CASSANDRA-8648  

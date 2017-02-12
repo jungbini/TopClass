@@ -1,0 +1,1 @@
+at it only tries to call `writeBody` if the `ResponseEntity` is not null. In case the response entity body is null, the response is flushed right away and the request is signaled as handled.  Issue: SPR-14663  

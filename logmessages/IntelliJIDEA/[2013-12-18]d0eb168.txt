@@ -1,0 +1,1 @@
+  made fields final to prevent some nasty bugs like EA-52519 - IAE: TObjectHash.throwObjectContractViolation  

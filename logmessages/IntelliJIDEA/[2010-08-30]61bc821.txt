@@ -1,0 +1,1 @@
+  IDEA-56857 Search term hidden in keymap preferences + IDEA-56640 OSX inspection filter highlights white on white + minor simplecoloredcomponent fixes  

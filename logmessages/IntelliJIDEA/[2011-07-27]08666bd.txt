@@ -1,0 +1,1 @@
+  fix editor scrolling on completing, no smart undo for choosing variants by enter  

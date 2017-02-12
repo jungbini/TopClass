@@ -1,0 +1,1 @@
+ Merge pull request #311 from NFLabs/fix/remove_docs  Remove docs related part since zeppelin-docs module is removed  commit 7b7adf6ec43f2043e58be3f35e7ba1375623689e  Merge pull request #367 from jongyoul/fix-typo  fix typo in zeppelin-env.sh.template  commit f045cc1957667ae70380bb7ac1736eb9fdb8c253  fix typo in zeppelin-env.sh.template - HBASE_HOME to ZEPPELIN_HOME  

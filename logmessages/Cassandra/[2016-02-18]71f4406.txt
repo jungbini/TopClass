@@ -1,0 +1,1 @@
+  fix ohc and java-driver pom dependencies in build.xml  patch by Robert Stupp; reviewed by Jeremiah Jordan for CASSANDRA-10793  

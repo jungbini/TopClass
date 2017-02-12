@@ -1,0 +1,1 @@
+  IDEA-116877 Convert line separators to spaces on pasting into one-line editor  also fixes EA-55319 by adding line separator conversion for 'paste simple' action  

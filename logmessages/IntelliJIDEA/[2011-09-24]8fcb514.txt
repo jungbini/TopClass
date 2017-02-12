@@ -1,0 +1,1 @@
+  Artifact type combo fixed for GTK+ L&F  

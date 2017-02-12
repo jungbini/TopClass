@@ -1,0 +1,1 @@
+  git4idea: IDEADEV-37861: fixed branch information retrieval when color.branch = always  

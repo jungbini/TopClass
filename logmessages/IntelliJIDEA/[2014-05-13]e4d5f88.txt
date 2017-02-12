@@ -1,0 +1,1 @@
+  java-xdebugger: store java breakpoints in xbreakpoint's user data  

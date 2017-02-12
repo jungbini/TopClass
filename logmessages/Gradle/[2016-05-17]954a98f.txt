@@ -1,0 +1,1 @@
+  fix ci java 1.6 sample builds after updating samples to 1.7  

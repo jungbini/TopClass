@@ -1,0 +1,1 @@
+  suppression for 'Unresolved access intention' don't add 'empty intention' if there are quickfixes registered  

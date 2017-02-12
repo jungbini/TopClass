@@ -1,0 +1,1 @@
+  HOTFIX: check offset limits in streamtask when recovering KTable store  guozhangwang  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #947 from ymatsuda/hotfix2  

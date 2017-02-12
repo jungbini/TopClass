@@ -1,0 +1,1 @@
+  maven: unmodifiable collection exception fixed + npe in projects tree fixed (IDEA-58291)  

@@ -1,0 +1,1 @@
+  bug fix. - break chart layout when click to link node again.  

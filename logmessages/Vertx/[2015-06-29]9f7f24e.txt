@@ -1,0 +1,1 @@
+ Fix bug whereby file upload not closed if completed when paused  

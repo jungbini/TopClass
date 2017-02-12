@@ -1,0 +1,1 @@
+  GRADLE-1857 removed usage of SourceTask#defaultSource in groovy-base and java-base plugin - replaced conventionmapping for defaultSource in used compilation tasks - fixed issues with userguideintegrationtest and gradle cache  

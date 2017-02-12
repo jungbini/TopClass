@@ -1,0 +1,1 @@
+ Merge pull request #701 from cdjackson/rest-mapping  Rest mapping fix  commit ed164691da2d34fbe882556f1a41c4fc9dba4066  RFXCOM binding: fixed a bug, which prevented to transmit other than default sub type messages.  

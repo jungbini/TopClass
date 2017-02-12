@@ -1,0 +1,1 @@
+  [merge tool] fix setting the EditorColorsScheme on editor creation  

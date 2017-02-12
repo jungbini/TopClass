@@ -1,0 +1,1 @@
+ Fix a couple of bugs in the repeat and configure scripts (TACHYON-373)  - `tachyon-perf-repeat` had wrong condition on option processing while loop that could cause the final argument to be ignored in some cases - `tachyon-perf-configure` did not exit when it detected an invalid NVP passed as an argument - Fix a few typos in output messages and usage summaries  

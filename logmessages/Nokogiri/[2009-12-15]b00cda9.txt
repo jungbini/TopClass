@@ -1,0 +1,1 @@
+  FFI: fixing narsty bug where xpath context document was a pointer and not a ruby object.  

@@ -1,0 +1,1 @@
+  Fix bug starting C* with simple authentication  patch by slebresne; reviewed by jbellis for CASSANDRA-4648  

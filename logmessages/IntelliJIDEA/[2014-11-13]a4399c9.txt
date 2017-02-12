@@ -1,0 +1,1 @@
+  Fix lost threads in multiprocess debugger (PY-12003).  

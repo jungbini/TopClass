@@ -1,0 +1,1 @@
+  port docs over to 0.6 and a bunch of misc fixes  

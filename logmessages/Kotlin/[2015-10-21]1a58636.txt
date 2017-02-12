@@ -1,0 +1,1 @@
+  KT-6165, KT-9547: fix testData for JPS plugin. Test contains effectively single module (with circular dependencies), and should not have conflicting declarations. Rename the package in a library used in this test.  #KT-9547 Fixed  

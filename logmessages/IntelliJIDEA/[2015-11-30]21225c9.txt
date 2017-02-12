@@ -1,0 +1,1 @@
+  NPE fix for correct build number comparison for update check IDEA-CR-7070  

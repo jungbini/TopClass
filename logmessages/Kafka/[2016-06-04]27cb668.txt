@@ -1,0 +1,1 @@
+  KAFKA-3789; Upgrade Snappy to fix snappy decompression errors  Author: Grant Henke <granthenke@gmail.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1467 from granthenke/snappy-fix  

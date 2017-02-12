@@ -1,0 +1,1 @@
+  Generalize error processing on daemon connection, attempt to fix #EA-82064 again  

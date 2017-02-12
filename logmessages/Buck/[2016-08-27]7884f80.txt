@@ -1,0 +1,1 @@
+  Easy: Handle debug and info diagnostics from buck.py  Summary: This updates `buck.py` handling of `Diagnostics` calls to support `debug` and `info` levels.  Test Plan: Added `debug` and `info` diagnostics to `buck.py`, confirmed they showed up in logs.  Reviewed By: andrewjcg  fbshipit-source-id: 6d4a993  

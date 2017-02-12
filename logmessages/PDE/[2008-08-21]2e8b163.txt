@@ -1,0 +1,1 @@
+  significant cleanup, making way for command line support, removing variables, fix error highlighting  

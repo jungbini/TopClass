@@ -1,0 +1,1 @@
+  stack overflow fix: adjust parser so that list comp variable is PyTargetExpression rather than PyReferenceExpression  

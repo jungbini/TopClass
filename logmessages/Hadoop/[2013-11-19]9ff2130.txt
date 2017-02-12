@@ -1,0 +1,1 @@
+  Merge -c 1543456 from trunk to branch-2 to fix HADOOP-10047. Add a direct-buffer based apis for compression. Contributed by Gopal V.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1543457 13f79535-47bb-0310-9956-ffa450edef68  

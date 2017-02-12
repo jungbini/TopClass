@@ -1,0 +1,1 @@
+  Sort dict keys before transforming into ImmutableMap.  This should fix ordering instability in XML query output for dict attributes.  -- MOS_MIGRATED_REVID=97664430  

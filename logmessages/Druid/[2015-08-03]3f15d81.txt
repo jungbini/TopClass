@@ -1,0 +1,1 @@
+ Merge pull request #1629 from metamx/fix-1584  Update post-aggregations.md  commit 3f15d81f763f9b98d347377ca087e2950d956488  Update post-aggregations.md  fix for  the issue: https://github.com/druid-io/druid/issues/1584  

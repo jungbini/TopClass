@@ -1,0 +1,1 @@
+  HADOOP-13129. fix typo in dynamic subcommand docs  

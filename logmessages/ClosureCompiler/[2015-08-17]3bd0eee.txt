@@ -1,0 +1,1 @@
+  Fix NullPointerException in checkArgmentConstant(). Happens at least when calls to goog.string.Const.from() take a variable which is a function parameter.  Bug revealed when testing fix for handling of collapsed properties in cl/100670608 ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=100816957  

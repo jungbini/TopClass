@@ -1,0 +1,1 @@
+  fix tombstone bug in get_columns_since. patch by jbellis; reviewed by Eric Evans for CASSANDRA-217  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@788518 13f79535-47bb-0310-9956-ffa450edef68  

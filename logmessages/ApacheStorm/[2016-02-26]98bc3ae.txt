@@ -1,0 +1,1 @@
+  [STORM-1576] fix ConcurrentModificationException in addCheckpointInputs  Proposed patch addresses the ConcurrentModificationException while creating a topology with an IStatefulBolt having more than one input.  

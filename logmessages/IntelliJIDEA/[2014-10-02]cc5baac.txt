@@ -1,0 +1,1 @@
+  Inspections ui: enable/disable when group node an children selected initial fix  

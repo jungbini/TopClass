@@ -1,0 +1,1 @@
+ workaround traceback bug in BDD PY-8427 Behave BDD support  

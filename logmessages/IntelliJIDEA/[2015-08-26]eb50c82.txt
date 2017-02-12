@@ -1,0 +1,1 @@
+  extract class: don't expand postfix expressions when no getter/setters were generated (IDEA-144369)  

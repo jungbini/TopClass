@@ -1,0 +1,1 @@
+  debug logging in CompositeDocumentationProvider (inspired by IDEA-143619)  

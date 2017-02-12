@@ -1,0 +1,1 @@
+  GraphDB: fixed bug reported in ML by Salvatore Piccione and Ivanhoe about the saving of a graph in transaction using the remote connection.  

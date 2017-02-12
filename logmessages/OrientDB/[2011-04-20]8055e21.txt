@@ -1,0 +1,1 @@
+  Fixed bug on reading file with multiple commands reported in ML by divs  

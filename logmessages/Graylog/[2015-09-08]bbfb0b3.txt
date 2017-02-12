@@ -1,0 +1,1 @@
+  always convert the target value to a number in NumberField.jsx  - this caused stringification of number config fields in the backend if the resource didn't manually convert it to number again  see Graylog2/graylog2-server#1399  fixes #1596  

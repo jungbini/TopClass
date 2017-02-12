@@ -1,0 +1,1 @@
+  - removed database config from tree - fixed permissions for reader user - only show the stream tabs the user is allowed to see  

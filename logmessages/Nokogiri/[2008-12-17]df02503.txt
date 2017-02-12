@@ -1,0 +1,1 @@
+  updating manifest, fixing extconf.rb  

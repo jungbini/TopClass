@@ -1,0 +1,1 @@
+  Fixed ReplaceWith quickfix not working when synthetic extensions are used in the pattern  

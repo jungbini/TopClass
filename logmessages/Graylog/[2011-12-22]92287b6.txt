@@ -1,0 +1,1 @@
+  RDNS lookups for hostname of syslog messages  can now be forced! fixes #SERVER-23  

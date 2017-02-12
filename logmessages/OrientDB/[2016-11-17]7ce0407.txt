@@ -1,0 +1,1 @@
+  fixed flag for streaming and add debug logging in case of exception, issue #7474  

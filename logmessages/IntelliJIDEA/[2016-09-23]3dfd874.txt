@@ -1,0 +1,1 @@
+  Update only presentation for new instances in tree after step of debugger (instead of instances list)  

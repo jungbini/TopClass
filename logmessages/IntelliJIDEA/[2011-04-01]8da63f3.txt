@@ -1,0 +1,1 @@
+  chrome debugger: put breakpoints into scripts with url parameters when breakpoint is set in local file  

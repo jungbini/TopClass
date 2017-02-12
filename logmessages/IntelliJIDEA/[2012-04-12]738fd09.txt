@@ -1,0 +1,1 @@
+  updated remote debug parameters hints depending on sdk version  

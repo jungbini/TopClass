@@ -1,0 +1,1 @@
+  some fixes for RubyMine productivity tips (more needed)  

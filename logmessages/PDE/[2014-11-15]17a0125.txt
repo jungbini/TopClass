@@ -1,0 +1,1 @@
+  added fallback and added copy functionality in debug mode for developing/testing  

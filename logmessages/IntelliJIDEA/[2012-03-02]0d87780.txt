@@ -1,0 +1,1 @@
+  JS change signature fix throws exception if source file is too large and treated as plain text (WI-10065, EA-34017)  

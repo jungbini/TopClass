@@ -1,0 +1,1 @@
+  Manifests are now written encoded using UTF-8, fix GRADLE-3374  Merged manifests are read using the platform default charset. Both can be overridden to fallback to old behavior.  +review REVIEW-5919  

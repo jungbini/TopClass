@@ -1,0 +1,1 @@
+  #588 Extract commons-hbase module - fix SuppressWarnings("unused");  

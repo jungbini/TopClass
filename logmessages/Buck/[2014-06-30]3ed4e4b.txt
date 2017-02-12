@@ -1,0 +1,1 @@
+  Update our build-tools version to fix Travis.  Summary: Google has moved zipalign into build-tools, so our build is failing without a recent version of build-tools.  Test Plan: Run the travis install commands on my own Ubuntu VM. Confirm in particular that all the Android SDK packages get installed, and then run `ant clean test`.  

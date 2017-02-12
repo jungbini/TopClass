@@ -1,0 +1,1 @@
+  JDR: better loop check  (using JetJavaMirrorMaker)  ... and fix test ... and remove junk code  

@@ -1,0 +1,1 @@
+  YARN-4309. Add container launch related debug information to container logs when a container fails. (Varun Vasudev via wangda)  

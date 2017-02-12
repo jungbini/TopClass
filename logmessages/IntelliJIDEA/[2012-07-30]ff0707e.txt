@@ -1,0 +1,1 @@
+  fixed settings and manage.py location for tests/django console/manage.py tasks in case of complicated project structure  

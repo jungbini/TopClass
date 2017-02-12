@@ -1,0 +1,1 @@
+  Fixed bug by using OrientDB from Scala. Fixed with the suggestion of Freewind in the ML  

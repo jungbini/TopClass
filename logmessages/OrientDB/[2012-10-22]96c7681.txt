@@ -1,0 +1,1 @@
+  SQL: fixed problem with multi-lines queries/commands  

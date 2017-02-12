@@ -1,0 +1,1 @@
+  for fieldStats make the stats aggregation optional  - this makes it possible to use count and cardinality functions in dashboard widgets without having to request the entire stats aggregation - no longer throw the FieldTypeException, but instead return NaN for stats widgets, because that's more accurate and is a nicer degradation  fixes #1376  

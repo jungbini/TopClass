@@ -1,0 +1,1 @@
+  HOTFIX: Checkstyle import fix  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Joel Koshy <jjkoshy.w@gmail.com>  Closes #261 from ijuma/checkstyle-import-fix  

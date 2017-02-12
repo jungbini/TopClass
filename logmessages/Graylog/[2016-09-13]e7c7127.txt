@@ -1,0 +1,1 @@
+  Remove ldap settings check from authenticators (#2820)  we no longer lock external accounts when ldap is disabled because other authenticators can also create external users now if people require this we need to track which authenticator created the account in the first place, but that's too large a change for a bug fix release  fixes #2817  

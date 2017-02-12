@@ -1,0 +1,1 @@
+  fixed problem that binding only starts if there are parameters set in openhab.cfg although they are optional  

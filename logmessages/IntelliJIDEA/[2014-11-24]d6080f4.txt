@@ -1,0 +1,1 @@
+  fixed PY-14471 IntellJ Plugin: imports are not resolved correctly with facet SDK set  removed stupid copy-pasted code  

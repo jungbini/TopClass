@@ -1,0 +1,1 @@
+  Revert: Name util to use Briks DFA regex instead of ORO NFA backported to fix RUBY-7060  

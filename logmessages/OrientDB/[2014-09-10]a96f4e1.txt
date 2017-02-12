@@ -1,0 +1,1 @@
+  fix index sql insert bug on composite index, issue #2741  

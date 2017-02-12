@@ -1,0 +1,1 @@
+  IDEA-162171 fix duplicated code and remove unused method  

@@ -1,0 +1,1 @@
+  HttpClient sharing clarifications and warns - fixes #1266  

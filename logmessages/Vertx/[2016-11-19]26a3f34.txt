@@ -1,0 +1,1 @@
+  Incorrect HTTP-Version should be reported to the HttpClientRequest exceptionHandler - fixes #1721  

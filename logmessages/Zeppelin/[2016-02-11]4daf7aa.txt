@@ -1,0 +1,1 @@
+sed someFunction(). - have standard toooltip for Follow output and scroll top fa29035 [Prabhjyot Singh] implement follow scroll 92b7e39 [Prabhjyot Singh] Merge remote-tracking branch 'origin/master' into ZEPPELIN-491 e230e00 [Prabhjyot Singh] change name from log to output fb67de2 [Prabhjyot Singh] have a page scroll down icon dc96ed6 [Prabhjyot Singh] fixing branch conflicts  

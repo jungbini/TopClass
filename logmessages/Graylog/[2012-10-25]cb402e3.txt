@@ -1,0 +1,1 @@
+  removed communicator stuff. not included in 0.9.7  fixes #SERVER-178  

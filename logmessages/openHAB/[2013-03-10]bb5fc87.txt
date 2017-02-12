@@ -1,0 +1,1 @@
+  fixed saturation selection range of color picker  

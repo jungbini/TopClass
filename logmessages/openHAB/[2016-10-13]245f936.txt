@@ -1,0 +1,1 @@
+  [Plugwise] Improve power state switching, fix (#4700)  ObjectAlreadyExistsException when (re)starting binding  Signed-off-by: Wouter Born <github@maindrain.net>  

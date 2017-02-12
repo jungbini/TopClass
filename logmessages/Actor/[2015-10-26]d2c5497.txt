@@ -1,0 +1,1 @@
+  fix(botkit): don't fail actor on stream failure  

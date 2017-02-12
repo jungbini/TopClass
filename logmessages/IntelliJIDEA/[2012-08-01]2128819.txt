@@ -1,0 +1,1 @@
+  fixed PY-7095 Specify type for reference using annotation: leads to syntactically incorrect code when invoked in lambdas  

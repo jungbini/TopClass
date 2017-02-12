@@ -1,0 +1,1 @@
+  implemented first basic database create/exist/drop api for remote and embedded, additional minor fixes.  

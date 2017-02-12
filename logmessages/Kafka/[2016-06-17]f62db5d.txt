@@ -1,0 +1,1 @@
+  MINOR: Follow-up from KAFKA-2720 with comment/style fixes  Author: Jason Gustafson <jason@confluent.io>  Reviewers: Guozhang Wang <wangguoz@gmail.com>, Ismael Juma <ismael@juma.me.uk>  Closes #1513 from hachikuji/followup-for-kafka-2720  

@@ -1,0 +1,1 @@
+  one more try to enable lvcs in tests... (with file moving fix & memory leak fix & roots update fix)  

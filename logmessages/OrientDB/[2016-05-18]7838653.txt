@@ -1,0 +1,1 @@
+ fixed cross node retry, missing check for valid sessions.  

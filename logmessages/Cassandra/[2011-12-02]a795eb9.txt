@@ -1,0 +1,1 @@
+  fix race between cf flush and its 2ndary indexes flush patch by slebresne; reviewed by jbellis for CASSANDRA-3547   git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-1.0@1209397 13f79535-47bb-0310-9956-ffa450edef68  

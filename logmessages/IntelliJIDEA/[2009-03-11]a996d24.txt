@@ -1,0 +1,1 @@
+  eclipse: junit/var kind paths fix (IDEADEV-35224)  

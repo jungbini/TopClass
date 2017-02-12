@@ -1,0 +1,1 @@
+  extra fix for IDEA-139797  - fixed size history button  

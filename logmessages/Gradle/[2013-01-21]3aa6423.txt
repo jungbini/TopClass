@@ -1,0 +1,1 @@
+  GRADLE-2645 Bugfix in maven conversion (bootstrap plugin).  Removal of xml element is now smarter. MavenProjectXmlWriter class is really a temp until we finally start walking the maven object model when converting (we already have the model - it's implemented).  

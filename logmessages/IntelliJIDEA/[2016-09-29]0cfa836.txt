@@ -1,0 +1,1 @@
+  IDEA-120087 Debugger: changed state of a breakpoint is not visible, until applied  

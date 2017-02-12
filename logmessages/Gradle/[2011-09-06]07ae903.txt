@@ -1,0 +1,1 @@
+  GRADLE-1699 - Changed dependencies.gradleApi() so that it provides the 'plugins' project as well as 'core' and 'core-impl'. - Added some int test coverage. - Extracted the stuff in DependendencyClassPathProvider into DefaultModuleRegistry, and fixed it so that it properly finds the classes and static and generated resources when running under IDEA and Eclipse.  

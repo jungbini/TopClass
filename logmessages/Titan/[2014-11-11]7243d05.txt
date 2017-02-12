@@ -1,0 +1,1 @@
+  Use Titan SchemaContainer in Faunus's InputFormat  Possible fix for #786.  This could also make several calls to setSchemaProvider in the test code redundant.  

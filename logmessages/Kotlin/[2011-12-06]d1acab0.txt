@@ -1,0 +1,1 @@
+  Test fixed for KT-689 Allow to put Java and Kotlin files in the same packages  

@@ -1,0 +1,1 @@
+  HADOOP-12340. test-patch docker mode fails in downloading findbugs with curl (Kengo Seki via aw)  

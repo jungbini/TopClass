@@ -1,0 +1,1 @@
+  MINOR: KAFKA-3176 follow-up to fix minor issues  Co-authored with ijuma.  Author: Vahid Hashemian <vahidhashemian@us.ibm.com>  Reviewers: Ismael Juma <ismael@juma.me.uk>  Closes #1536 from vahidhashemian/minor/KAFKA-3176-Followup  

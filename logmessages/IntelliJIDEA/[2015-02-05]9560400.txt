@@ -1,0 +1,1 @@
+  js.debugger.trace.resume - ability to investigate unexpected resume  

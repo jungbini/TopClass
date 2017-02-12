@@ -1,0 +1,1 @@
+ fixes dependency infos in manifests in order to make bundles compile on openHAB 2.  Signed-off-by: Kai Kreuzer <kai@openhab.org>  

@@ -1,0 +1,1 @@
+  fix empty userguide sample for war customization  

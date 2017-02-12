@@ -1,0 +1,1 @@
+ Merge pull request #1445 from Xylus/bugfix/issue-1432  reviewed by koo-taejin  commit 0ebf9983e9028d0170bf07dfe0b3d314ee766ecc  Merge pull request #1446 from denzelsN/master  bug fix.  commit 59e02f2c46250c646e8aafdffefbb5e80749ec0c  bug fix. - error when open "Inspect Agents" at transaction View.  

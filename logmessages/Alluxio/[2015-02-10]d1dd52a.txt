@@ -1,0 +1,1 @@
+ setting fs.defaultFS if it is not already set; fix gluster related issues  Signed-off-by: rootfs <hchen@redhat.com>  

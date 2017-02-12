@@ -1,0 +1,1 @@
+  Convert to Kotlin KotlinLightClassForPackage: fixes for j2k converter  

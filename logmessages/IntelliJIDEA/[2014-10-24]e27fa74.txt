@@ -1,0 +1,1 @@
+  fixed EDU-143 Add documentation comments to the test_helper.py  

@@ -1,0 +1,1 @@
+  PyCharm ships with "tests" pydev helper (PY-18655 )  Rename debugger tests modules  

@@ -1,0 +1,1 @@
+ [vcs-log] fix empty Author field in table when only an email was specified IDEA-137361  

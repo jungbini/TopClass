@@ -1,0 +1,1 @@
+  Fix for #717. Also rename threads based on their associated Broadcaster for debug purpuse  

@@ -1,0 +1,1 @@
+  fix memory leak (do not create panel twice) [rev=rustam.vishnyakov] (cherry-picked from 0a9e87a)  

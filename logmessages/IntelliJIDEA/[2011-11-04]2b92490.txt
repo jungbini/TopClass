@@ -1,0 +1,1 @@
+  fixed PY-4738 Create test for class: generate failing test not one which raises errors  

@@ -1,0 +1,1 @@
+  use guice to construct LdapSettings data object  it was missing its dependency on configuration, which then was null at runtime, failing to access the password secret.  fixes #871  

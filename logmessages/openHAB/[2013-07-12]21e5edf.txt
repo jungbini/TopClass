@@ -1,0 +1,1 @@
+  refix for #364 - avg out of min- and maxvalue is now taken as start value if item is undefined  

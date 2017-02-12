@@ -1,0 +1,1 @@
+  IDEA-95061 (Narrow scope quick fix does not work with switch statement)  

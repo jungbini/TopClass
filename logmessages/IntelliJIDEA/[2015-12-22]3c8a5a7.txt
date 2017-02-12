@@ -1,0 +1,1 @@
+  gradle:  fix navigation to test with dot in the name name  (IDEA-149661)  

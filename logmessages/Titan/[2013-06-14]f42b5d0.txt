@@ -1,0 +1,1 @@
+  Tweak titan-cassandra test log config  Cassandra tests now log in two places:  * Console (severities WARN and up) * File target/test.log (severities INFO and up)  I'm hoping that logging to the console and to file (instead of just to file) will help debug some Cassandra test failures on Travis CI where we can't access the test log file.  

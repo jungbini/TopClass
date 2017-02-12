@@ -1,0 +1,1 @@
+  fixed PY-12476 Django: Nose Test Runner: not able to run django tests with django 1.6: AttributeError: 'NoOptions' object has no attribute 'with_fixture_bundling'  

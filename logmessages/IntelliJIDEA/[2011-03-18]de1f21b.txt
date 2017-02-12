@@ -1,0 +1,1 @@
+  Execute in py console: fixing keymap for NetBeans 6.5  

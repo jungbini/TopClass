@@ -1,0 +1,1 @@
+  Append '/' to the root prefix when missing for tar merging  Fixes #624.  -- MOS_MIGRATED_REVID=108259228  

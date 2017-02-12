@@ -1,0 +1,1 @@
+  CR-IC-4490 Make EnforcedPlainTextFileTypeManager use only project configurations (fixes IDEA-120941)  

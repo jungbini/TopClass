@@ -1,0 +1,1 @@
+  removed debug trace & extra synchronized, latter is not needed because of ChunkExtractor is used in thread local manner  

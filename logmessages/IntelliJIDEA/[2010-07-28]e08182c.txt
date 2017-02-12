@@ -1,0 +1,1 @@
+  debugger session tab make app icon bounce if set up no to focus project window  

@@ -1,0 +1,1 @@
+s prefixed version is added to the map. For example, the previous configuration also adds "/v1.0.0/js/**".  Issue: SPR-13883 cherry-picked from 84fe46cd  

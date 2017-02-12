@@ -1,0 +1,1 @@
+ [hibernate] create attribute member quickfix:  by type, by column types calculation  

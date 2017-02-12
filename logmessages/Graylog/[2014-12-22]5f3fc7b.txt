@@ -1,0 +1,1 @@
+  fix various radio bugs  * NoopJournalModule wasn't installed * duplicate configuration field cause multiple bindings to be registered * replaced explicit config binding with named binding from jadconfig * missing content type header on requests (due to changes in the REST API) * added suppresswarnings to satisfy my pedantic IDE settings  

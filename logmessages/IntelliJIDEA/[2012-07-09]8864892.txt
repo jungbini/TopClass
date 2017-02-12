@@ -1,0 +1,1 @@
+  fixed caret position in copy-paste  

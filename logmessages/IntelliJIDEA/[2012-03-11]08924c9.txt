@@ -1,0 +1,1 @@
+  synchronize access to Mappings fix IDEA-82254 Compiler server: JPS Internal error: PersistentEnumerator storage corrupted on each compilation after attempt to compile two projects simultaneously  

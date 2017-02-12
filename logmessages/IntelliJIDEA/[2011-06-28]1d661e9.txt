@@ -1,0 +1,1 @@
+  Maven: Show Settings action fixed (IDEA-69977)  

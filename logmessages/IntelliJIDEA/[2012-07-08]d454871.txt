@@ -1,0 +1,1 @@
+  `fix integration with proguard: generate temp proguard config by aapt  

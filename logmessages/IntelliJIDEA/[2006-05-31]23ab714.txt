@@ -1,0 +1,1 @@
+  fix so that UI Designer works with icon caching  

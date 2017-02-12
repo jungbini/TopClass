@@ -1,0 +1,1 @@
+  IDEA-95687 fix registering android lint inspections [rev=a.lobas]  

@@ -1,0 +1,1 @@
+  Fixe bug on query execution from JS  

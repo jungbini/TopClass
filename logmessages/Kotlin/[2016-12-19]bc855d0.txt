@@ -1,0 +1,1 @@
+  Support async iterator case with coroutines  Not all the `hasNext` operators return types is exactly Z, suspend operators return boxed versions.  So the fix is just coercing result value after invoked function to Z  

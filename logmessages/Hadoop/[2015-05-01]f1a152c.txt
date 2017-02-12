@@ -1,0 +1,1 @@
+  MAPREDUCE-6345. Documentation fix for when CRLA is enabled for MRAppMaster logs. (Rohit Agarwal via gera)  

@@ -1,0 +1,1 @@
+  fix(android): Handling null intent in MainActivity  

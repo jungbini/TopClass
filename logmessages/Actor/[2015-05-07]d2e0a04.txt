@@ -1,0 +1,1 @@
+  fix(iOS): Fixed circullar node refreshing, fixed ios7 support  

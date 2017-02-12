@@ -1,0 +1,1 @@
+  Some bug fix: T19 (RGB LED Strip); T31 (Temperature control);  Full support to T12 (ON/OFF Digital Output with AUTO mode); Add support to T14 (Pulse Digital Output) and T18 (ON/OFF Digital Output with pulse output).  

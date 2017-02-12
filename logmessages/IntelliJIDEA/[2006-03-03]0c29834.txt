@@ -1,0 +1,1 @@
+  drag & drop refactoring (completed move to DropLocation interface) and bugfixes  

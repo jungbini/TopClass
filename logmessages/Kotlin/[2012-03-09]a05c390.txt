@@ -1,0 +1,1 @@
+  added generation of the JS API docs, though had to disable until KT-1522 is fixed  

@@ -1,0 +1,1 @@
+  fixed PY-7760 No module named pyparsing false positive after installing package PY-13946 Remote Interpreter: Package is not resolved after installing  Store sdks in cache by homepath instead of name. Do not store sdk in PyPackageManager at all, we can always find it by homepath  

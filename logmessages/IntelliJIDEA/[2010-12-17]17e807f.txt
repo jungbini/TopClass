@@ -1,0 +1,1 @@
+  Bug fix: comments like '/** The comment */' does not highlighted as comment in GSP,  

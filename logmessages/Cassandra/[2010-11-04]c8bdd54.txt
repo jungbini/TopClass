@@ -1,0 +1,1 @@
+  add coordinator result debug logging for index scans.  patch by jbellis  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1031270 13f79535-47bb-0310-9956-ffa450edef68  

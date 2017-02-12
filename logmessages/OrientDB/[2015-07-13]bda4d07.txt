@@ -1,0 +1,1 @@
+  fixed transactin and ridbag in remote for dirty manager, issue #2629  

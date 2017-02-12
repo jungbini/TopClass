@@ -1,0 +1,1 @@
+  [groovy] fix INRE by doing nothing in dumb mode (IDEA-152776)  

@@ -1,0 +1,1 @@
+  fix MSVC vs mingw build switch  

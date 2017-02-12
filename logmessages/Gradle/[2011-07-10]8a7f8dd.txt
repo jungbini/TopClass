@@ -1,0 +1,1 @@
+  Some classloader hackery for tooling API compatibility test execution, so that jars from the target Gradle version are used for the tooling API consumer, but classes from current version are used for the test fixtures.  

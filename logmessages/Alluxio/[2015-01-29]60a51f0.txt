@@ -1,0 +1,1 @@
+debugging is enabled and if so will propagate that through to the sub-shells by launching them with `bash -x`  

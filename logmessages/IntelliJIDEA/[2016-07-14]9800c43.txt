@@ -1,0 +1,1 @@
+  inspection view: use getFamilyName() for fixes grouping IDEA-155841  

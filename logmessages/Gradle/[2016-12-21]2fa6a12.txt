@@ -1,0 +1,1 @@
+ works properly when a dependency is found as a class directory, instead of a jar file. This used to be broken, hopefully this commit fixes it all.  

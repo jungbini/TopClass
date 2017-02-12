@@ -1,0 +1,1 @@
+  quick values and field stats didn't properly send the stream id in the url  - on the server this correctly caused a permission denied error and the web interface couldn't get the data even though the user was authorized  fixes #1169  

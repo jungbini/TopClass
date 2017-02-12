@@ -1,0 +1,1 @@
+  Don't use regular expressions for file patterns segments that don't contain any wildcards, or that have only a single '*' wildcard prefix.  

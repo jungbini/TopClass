@@ -1,0 +1,1 @@
+  ported fix for avoid load of all the record inside embedded ridbags  

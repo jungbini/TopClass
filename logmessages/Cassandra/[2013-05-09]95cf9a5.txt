@@ -1,0 +1,1 @@
+  fix 2i updates with indentical values and timestamps patch by Sam Tunnicliffe; reviewed by jbellis for CASSANDRA-5540  

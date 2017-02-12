@@ -1,0 +1,1 @@
+  testng: dataprovider navigation fixed (IDEA-107281)  

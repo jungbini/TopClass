@@ -1,0 +1,1 @@
+  IDEA-141126 Image/icon renderers may hang the debugger - added registry to turn off icons auto fetching  

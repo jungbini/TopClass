@@ -1,0 +1,1 @@
+  Safer class name insertion - do not insert artificial prefix too often because it may affect code parsing below in the file  

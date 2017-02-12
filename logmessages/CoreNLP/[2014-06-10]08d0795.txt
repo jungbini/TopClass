@@ -1,0 +1,1 @@
+  Finished debugging; objective function increases then converges in small-scale tests  

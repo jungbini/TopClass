@@ -1,0 +1,1 @@
+  testng: dataprovider references fixed (IDEA-53366,IDEA-53365)  

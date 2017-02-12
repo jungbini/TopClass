@@ -1,0 +1,1 @@
+  feat+refactor+fix(web): display location messages and set fixed width for all messages except text messages.  

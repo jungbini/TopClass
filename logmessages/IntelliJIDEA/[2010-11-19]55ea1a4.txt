@@ -1,0 +1,1 @@
+  fixed (PY-2319) Tests: Do not allow to run test unless run configuration has been validated  

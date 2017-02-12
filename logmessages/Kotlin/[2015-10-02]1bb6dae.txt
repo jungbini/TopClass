@@ -1,0 +1,1 @@
+  Auto-import fix should suggest declarations that cannot be used in this position This also should fix KT-9122 Assertion error when psi modified from IDE  #KT-9122 Fixed  

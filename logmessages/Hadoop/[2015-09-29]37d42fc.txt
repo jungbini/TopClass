@@ -1,0 +1,1 @@
+  HDFS-8971. Remove guards when calling LOG.debug() and LOG.trace() in client package. Contributed by Mingliang Liu.  

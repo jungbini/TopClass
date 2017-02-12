@@ -1,0 +1,1 @@
+  fixed issue with xerces validator message bound to null node  

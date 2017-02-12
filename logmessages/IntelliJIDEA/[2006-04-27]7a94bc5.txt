@@ -1,0 +1,1 @@
+  dom editor recursion fix. converters handle null values. 

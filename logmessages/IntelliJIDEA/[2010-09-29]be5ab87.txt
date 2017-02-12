@@ -1,0 +1,1 @@
+  fix IllegalArgumentException: see http://youtrack.jetbrains.net/issue/MPS-3551 for details  

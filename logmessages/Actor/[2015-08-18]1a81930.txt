@@ -1,0 +1,1 @@
+ Merge pull request #10 from actorapp/server/deb  chore(server): .deb packaging. fixed #37  commit 1a81930eba8399750f3e8dc5024d1947bcca726b  build(server): fix docker build after deb  

@@ -1,0 +1,1 @@
+  maven: use "idea." prefix for IDEA specific property (maven3.use.compat.resolver)  

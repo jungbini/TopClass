@@ -1,0 +1,1 @@
+  Provide String.commonPrefixWith and String.commonSuffixWith methods. Char.isHighSurrogate and Char.isLowSurrogate now available in js-stdlib too.  

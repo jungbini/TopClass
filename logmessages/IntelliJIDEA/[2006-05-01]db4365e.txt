@@ -1,0 +1,1 @@
+  fixing null pointers occuring on the AST-free psi  

@@ -1,0 +1,1 @@
+  Failure of cluster WAL test was fixed.  

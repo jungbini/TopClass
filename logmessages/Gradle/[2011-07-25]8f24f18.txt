@@ -1,0 +1,1 @@
+  [ToolingAPI for IDEA] Some fixes after the code review, moved elements to a better package, added some missing inheritance between interfaces. Made the IdeaProject implement Element rather than deprecated Project.  

@@ -1,0 +1,1 @@
+  fixed problem with removal of events from knowledge session  

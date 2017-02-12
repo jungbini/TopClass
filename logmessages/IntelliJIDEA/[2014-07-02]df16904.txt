@@ -1,0 +1,1 @@
+  IDEA-93683 XDebugger: Focus on startup doesn't work for Console tab  

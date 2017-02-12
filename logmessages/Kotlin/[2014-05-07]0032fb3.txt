@@ -1,0 +1,1 @@
+  Bug fix in intention to move lambda outside parentheses, handles commas better  

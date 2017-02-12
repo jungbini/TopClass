@@ -1,0 +1,1 @@
+  resource bundles: undo after NewPropertyAction fixed  

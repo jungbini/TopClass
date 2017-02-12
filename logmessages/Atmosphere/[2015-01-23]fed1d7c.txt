@@ -1,0 +1,1 @@
+  fix #1842 Not closing the WebSocket when closing Responses stream (adjusted for 2.2.x)  Conflicts: modules/cpr/src/test/java/org/atmosphere/cpr/AtmosphereResourceTest.java  

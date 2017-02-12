@@ -1,0 +1,1 @@
+  glass pane repainting fix, caused lightweight popups be invisible just after show  

@@ -1,0 +1,1 @@
+ Extracted Python path walking and fixed broken symlink check (PY-10534)  

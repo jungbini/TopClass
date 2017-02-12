@@ -1,0 +1,1 @@
+  HDFS-7107. Avoid Findbugs warning for synchronization on AbstractNNFailoverProxyProvider#fallbackToSimpleAuth. Contributed by Chris Nauroth.  

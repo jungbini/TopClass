@@ -1,0 +1,1 @@
+  Bazel docs: add missing section about $(location) expansion.  Also fix a typo in contributing.md.  -- MOS_MIGRATED_REVID=89411635  

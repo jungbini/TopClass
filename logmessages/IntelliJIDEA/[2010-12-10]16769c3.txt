@@ -1,0 +1,1 @@
+  PHP WI-3700 PHP: Refactor / Rename of a file does not update resolved reference in include statement [peter] fixed occurrence mask for languages with HONEST word scanner.  

@@ -1,0 +1,1 @@
+  IDEA-94168 error message if launching debug on real device with "debuggable" attribute set to false  

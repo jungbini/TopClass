@@ -1,0 +1,1 @@
+  fixed PsiInvalidElementAccessException for invalid elements stored in PythonPathCache  clear PythonPathCache on pushLanguageLevel  

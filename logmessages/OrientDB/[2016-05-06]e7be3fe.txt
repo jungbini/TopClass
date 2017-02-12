@@ -1,0 +1,1 @@
+  fixed closing of all pools for the current storage  

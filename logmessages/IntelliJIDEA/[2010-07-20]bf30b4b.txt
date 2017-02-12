@@ -1,0 +1,1 @@
+  IDEA-47083   fixUppercase step2  

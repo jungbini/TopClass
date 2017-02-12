@@ -1,0 +1,1 @@
+  linked fields in quickvalue table. fixes #287  

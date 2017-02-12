@@ -1,0 +1,1 @@
+  fix classpath building for a chunk; make tests run on windows  

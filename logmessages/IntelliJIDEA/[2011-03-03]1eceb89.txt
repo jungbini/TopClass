@@ -1,0 +1,1 @@
+  added PY-2697 Quickfix to transform a triple-quoted multiline literal into a literal with many quoted strings  

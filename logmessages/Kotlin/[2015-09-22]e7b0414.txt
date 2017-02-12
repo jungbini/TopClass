@@ -1,0 +1,1 @@
+  Add missing module to Kotlin JPS plugin  Since binary version stopped being a simple int and became an instance of the class BinaryVersion, and since incremental cache loads versions of classes, the JPS plugin now needs to have the 'deserialization' module which has that class to avoid ClassNotFoundException.  This fixes CNFE from the bare plugin  

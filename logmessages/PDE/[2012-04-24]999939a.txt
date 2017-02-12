@@ -1,0 +1,1 @@
+  rotate() check for zero vectors, fixed naming error in PGL.Context class  

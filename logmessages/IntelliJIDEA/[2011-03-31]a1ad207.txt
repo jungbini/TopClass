@@ -1,0 +1,1 @@
+  Remove nasty and absolutely unnecessary hack, that trivially manifests in a WTF bug in any platform based IDE except for IDEA, RubyMine and PyCharm.  

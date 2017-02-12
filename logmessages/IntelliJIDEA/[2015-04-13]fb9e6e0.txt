@@ -1,0 +1,1 @@
+  sm runner: suggest to fix configuration if no tests were found  

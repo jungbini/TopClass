@@ -1,0 +1,1 @@
+ Added gaussian for distribution. Same as normal. Minor pom fix.  

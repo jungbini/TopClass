@@ -1,0 +1,1 @@
+  HBASE-2517  Quick fix to make tests pass (jgray via pranav)  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@964612 13f79535-47bb-0310-9956-ffa450edef68  

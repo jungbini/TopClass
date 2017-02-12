@@ -1,0 +1,1 @@
+  Disposing popup corrupts appearing popup (fix attempt #2)  

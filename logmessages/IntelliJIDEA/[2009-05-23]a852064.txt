@@ -1,0 +1,1 @@
+  fix NPE on on first start without configs  

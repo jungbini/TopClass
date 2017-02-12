@@ -1,0 +1,1 @@
+  Spurious separator between app settings and project settings buttons on toolbar fixed.  

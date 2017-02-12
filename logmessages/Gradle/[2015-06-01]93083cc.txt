@@ -1,0 +1,1 @@
+  Moving play test fixtures to testFixtures source set  

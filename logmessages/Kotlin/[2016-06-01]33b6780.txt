@@ -1,0 +1,1 @@
+  Quick fix "add !!" for SMARTCAST_IMPOSSIBLE in certain situations  

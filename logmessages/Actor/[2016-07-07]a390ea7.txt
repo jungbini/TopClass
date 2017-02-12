@@ -1,0 +1,1 @@
+  fix(server): improve error message, when there are no server keys  

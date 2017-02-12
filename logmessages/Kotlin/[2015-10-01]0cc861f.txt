@@ -1,0 +1,1 @@
+  Exposed visibility checking, a set of exposed visibility tests, some test fixes  Effective visibility mechanism introduced. Local is considered as public, java protected as Kotlin protected, java package private as Kotlin private.  

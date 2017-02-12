@@ -1,0 +1,1 @@
+  svnkit 1.7.7. build 9491. With sqljet 1.1.5. supposed to fix IDEA-85496 Getting svn: E200030: Commit failed (details follow): svn: E200030: BUSY (Whether it is fixes requires "production" verification)  

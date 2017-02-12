@@ -1,0 +1,1 @@
+  update maven-release-plugin to 2.5 (fixes issue where release fails to tag properly)  

@@ -1,0 +1,1 @@
+  fix IDEA-144738 Recent Files floating window halts when you remove one file and IDEA-144111 After deleting from the Recent Files menu, I cannot use the arrow keys  

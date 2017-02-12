@@ -1,0 +1,1 @@
+  #KT-1629 fixed Don't import jet.runtime.SharedVar.Int when typing "val a : Int = ..." Completion testing framework extended with ability to assert tail text.  

@@ -1,0 +1,1 @@
+  Build number hack no longer needed (plugin repository fixed)  

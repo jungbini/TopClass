@@ -1,0 +1,1 @@
+  Merge -c 1497938 from branch-1 to branch-1.2 to fix HADOOP-9665. Fixed BlockDecompressorStream#decompress to return -1 rather than throw EOF at end of file. Contributed by Zhijie Shen.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.2@1497939 13f79535-47bb-0310-9956-ffa450edef68  

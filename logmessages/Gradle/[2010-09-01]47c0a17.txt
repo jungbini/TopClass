@@ -1,0 +1,1 @@
+  Some openApi int test refactoring: - Added an int test to check forwards and backwards compatibility with other Gradle versions - Extracted some reusable fixtures out of the various int tests  

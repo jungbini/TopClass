@@ -1,0 +1,1 @@
+  MAPREDUCE-3306. Fixed a bug in NodeManager ApplicationImpl that was causing NodeManager to crash. (vinodkv)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1190523 13f79535-47bb-0310-9956-ffa450edef68  

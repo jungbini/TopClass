@@ -1,0 +1,1 @@
+  Fix thermostatplus reading & increase debug info M message  

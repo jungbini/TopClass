@@ -1,0 +1,1 @@
+  debugging IDEA-127750 (Sometimes find in path is working after second invocation only)  * Show a separate balloon when the usage search is canceled (instead of '0 usages found') * Add debug logging  

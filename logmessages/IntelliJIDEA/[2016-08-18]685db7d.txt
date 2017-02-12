@@ -1,0 +1,1 @@
+  do project close in invokelater to fix IDEA-159777 ObjectNotDisposedException on project close with opened evaluate window  

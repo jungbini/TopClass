@@ -1,0 +1,1 @@
+  Quick fix to remove directories from discovered inputs for now  

@@ -1,0 +1,1 @@
+  some read/write access fixes for IntelliLang settings  

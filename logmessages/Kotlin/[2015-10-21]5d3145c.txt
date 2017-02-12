@@ -1,0 +1,1 @@
+  Fixed KT-7431 org.jetbrains.kotlin.idea.quickfix.AutoImportFix memory leak  #KT-7341 Fixed  

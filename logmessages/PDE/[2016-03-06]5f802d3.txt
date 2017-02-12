@@ -1,0 +1,1 @@
+ fix minor bug found while doing Android Wear porting  

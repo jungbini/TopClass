@@ -1,0 +1,1 @@
+ Fix underscore used as name inspections (#fixes 2716)  

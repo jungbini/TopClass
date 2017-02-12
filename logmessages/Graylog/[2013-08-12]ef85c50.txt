@@ -1,0 +1,1 @@
+  only allow alphanumeric target field names in extractors. fixes #164  

@@ -1,0 +1,1 @@
+  fix FileTypesTest: disable async file type re-detect in tests  

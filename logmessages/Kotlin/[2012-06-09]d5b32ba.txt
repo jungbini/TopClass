@@ -1,0 +1,1 @@
+  KT-2206 ClassFormatError on loading class with property inherited from trait  #KT-2206 fixed  

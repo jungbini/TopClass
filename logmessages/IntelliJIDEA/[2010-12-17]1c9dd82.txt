@@ -1,0 +1,1 @@
+  fixed PY-2523 "Convert lambda to function" makes code unclear - lambda as an argument  

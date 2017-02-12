@@ -1,0 +1,1 @@
+  Fixed deprecated symbol usage fix for functions with optional parameters from libraries  #KT-8525 Fixed  

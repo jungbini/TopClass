@@ -1,0 +1,1 @@
+  fix broken pagination of range selector #WEBINTERFACE-258  

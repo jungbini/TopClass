@@ -1,0 +1,1 @@
+  disable +JDK macro in JetDiagnosticsTest and fix (actually hide) revealed bugs  +JDK was not very helpful  

@@ -1,0 +1,1 @@
+  javac ast indices: fix incremental hierarchy update  

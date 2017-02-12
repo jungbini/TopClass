@@ -1,0 +1,1 @@
+  Introduce unused parameter inspection (fixes #2294)  

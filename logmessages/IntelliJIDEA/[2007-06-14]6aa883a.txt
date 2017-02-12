@@ -1,0 +1,1 @@
+  add quickfixes to create actions/components from plugin.xml (IDEADEV-17783)  

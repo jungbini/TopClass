@@ -1,0 +1,1 @@
+  fixed up compile errors after recent visibility rule changes  

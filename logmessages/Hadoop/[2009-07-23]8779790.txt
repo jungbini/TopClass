@@ -1,0 +1,1 @@
+  HBASE-1215 fix for fact that we only run one map  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@796953 13f79535-47bb-0310-9956-ffa450edef68  

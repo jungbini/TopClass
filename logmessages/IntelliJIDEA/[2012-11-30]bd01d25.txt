@@ -1,0 +1,1 @@
+  stubs for Groovy: fix deprecated inference, cleanup rev=Peter (cherry-picked from 6ab1b6f)  

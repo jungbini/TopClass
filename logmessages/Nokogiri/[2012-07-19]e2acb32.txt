@@ -1,0 +1,1 @@
+ ruby exception was being created but not thrown when the XSLT document creation failed.  In order to provide the user with actual useful feedback in Java, the NokogiriXsltErrorListener will need to be modified to record more than the last error message.  

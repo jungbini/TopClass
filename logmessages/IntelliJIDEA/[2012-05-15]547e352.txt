@@ -1,0 +1,1 @@
+  svn tree conflicts: resolve 'merge' for the case when directory was renamed locally and changed on server also some update refresh fixes  

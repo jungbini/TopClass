@@ -1,0 +1,1 @@
+  fix tabs relayout in some cases (to prevent moving visible tabs) + fix tab order on reopen for "Activate right neighbouring tab on close" option  

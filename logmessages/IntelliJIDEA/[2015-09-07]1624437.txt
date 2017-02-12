@@ -1,0 +1,1 @@
+  IDEA-63378 Switching threads should be optional, not forced - do not block debugger on step in one thread  

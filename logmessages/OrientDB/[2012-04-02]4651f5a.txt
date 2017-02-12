@@ -1,0 +1,1 @@
+  Fixed bug on double and float reported by Salvatore Piccione in ML: scientific notation waited for a - after the "E". Example: 1.23456789E-9 but Java toString() produces: 1.23456789E9.  Now both the syntaxes are supported.  

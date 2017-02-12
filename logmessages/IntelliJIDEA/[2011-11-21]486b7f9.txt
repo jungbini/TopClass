@@ -1,0 +1,1 @@
+  IDEA-72859 (Alt Enter fix for Inspection "Simplifiable Annotation" can produce invalid code)  

@@ -1,0 +1,1 @@
+  Fix forking integration test  The plugins in test fixtures cannot be used when forking a Gradle instance  I still need to look into how to fix the initscript test  #689 +review REVIEW-6216  

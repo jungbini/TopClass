@@ -1,0 +1,1 @@
+  Some fixes to enable test filtering for JUnit versions < 4.6. Added some test coverage.  

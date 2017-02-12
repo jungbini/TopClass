@@ -1,0 +1,1 @@
+  remove old versions of processing-java when installing on OS X (fixes #3786)  

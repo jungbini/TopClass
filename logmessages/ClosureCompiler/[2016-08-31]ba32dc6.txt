@@ -1,0 +1,1 @@
+  Create wrapper function for the outermost closure instead of the innermost one  This fixes incorrect transpilation for loop-bound let / const declarations when there are nested closures.  RELNOTES: Update transpile.js  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=131883388  

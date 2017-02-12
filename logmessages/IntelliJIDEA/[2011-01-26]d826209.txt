@@ -1,0 +1,1 @@
+  xdebugger: add process listener even if 'debug' tool window not opened  

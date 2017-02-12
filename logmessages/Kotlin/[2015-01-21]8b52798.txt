@@ -1,0 +1,1 @@
+  Gradle: fix kotlinOptions for kotlin-android plugin  

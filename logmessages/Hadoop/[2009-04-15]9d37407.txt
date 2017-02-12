@@ -1,0 +1,1 @@
+  HADOOP-5652. Fix a bug where in-memory segments are incorrectly retained in memory.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk@765270 13f79535-47bb-0310-9956-ffa450edef68  

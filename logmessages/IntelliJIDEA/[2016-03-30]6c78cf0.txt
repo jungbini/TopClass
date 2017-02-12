@@ -1,0 +1,1 @@
+  PY-18486 Better solution: on enter generate content for empty docstrings too  I reverted previously modified test data in PyEditingTest, since this fix doesn't affect top-level string literals treated as module docstrings. They are processed in BaseQuoteHandler as earlier.  

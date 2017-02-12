@@ -1,0 +1,1 @@
+  fix task storage config serde and prepare for next release  

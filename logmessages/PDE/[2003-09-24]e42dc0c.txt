@@ -1,0 +1,1 @@
+  fixes for default coloring of errors, etc in the console  

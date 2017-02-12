@@ -1,0 +1,1 @@
+  IDEA-128539 web.xml: highlight usages in file should highlight all occurrences of servlet-name re-fixed  

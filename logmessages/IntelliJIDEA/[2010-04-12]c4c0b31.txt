@@ -1,0 +1,1 @@
+  License support: fix bugs in LicensePanel, evaluation feedback support for RubyMine, minor changes in messages (due to Toporov's requests)  

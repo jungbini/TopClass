@@ -1,0 +1,1 @@
+  [groovy] fix direct inheritors search when aliased import is used  

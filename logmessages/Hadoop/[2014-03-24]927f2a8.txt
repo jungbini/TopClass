@@ -1,0 +1,1 @@
+  svn merge -c 1580886 merging from trunk to branch-2 to fix:HDFS-3087. Decomissioning on NN restart can complete without blocks being replicated. Contributed by Rushabh S Shah.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1580888 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  provide NTCredentials in case we encounter NTLM proxy #WEB-10266 fixed  

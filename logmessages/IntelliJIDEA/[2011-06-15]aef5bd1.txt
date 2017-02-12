@@ -1,0 +1,1 @@
+  GUI designer configurable combo fixed for GTK+ L&F  

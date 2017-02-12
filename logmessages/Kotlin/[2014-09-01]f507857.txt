@@ -1,0 +1,1 @@
+  fix R class field resolving  - resolve by class name and package defined in AndroidManifest.xml  

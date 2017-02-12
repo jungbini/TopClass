@@ -1,0 +1,1 @@
+  Properly throw timeouts, decrement the count of waiters on timeout, fix off-by-one in taskCount patch by Stu Hood; reviewed by Ryan King for CASSANDRA-3096  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1163898 13f79535-47bb-0310-9956-ffa450edef68  

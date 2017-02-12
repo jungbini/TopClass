@@ -1,0 +1,1 @@
+  YARN-2194. Fix bug causing CGroups functionality to fail on RHEL7. Contributed by Wei Yan.  

@@ -1,0 +1,1 @@
+  intention actions and quickfixes view: duplicate entries filtering added  

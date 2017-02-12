@@ -1,0 +1,1 @@
+  remove menu dimming (bug #786), other fixes  

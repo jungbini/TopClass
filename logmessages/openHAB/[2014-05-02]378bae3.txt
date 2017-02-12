@@ -1,0 +1,1 @@
+ Merge pull request #1034 from jarlebh/master  Avoid going outside 0-100 for PrecentType. This fixes #1014  commit 378bae3811991be753ff38d390b1b691b3f8755c  Use Min and Max to avoid going outside 0-100 for PrecentType. This fixed #1014  

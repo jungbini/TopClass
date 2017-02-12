@@ -1,0 +1,1 @@
+  EA-31119 - assert: EditorUtil.getLastVisualLineColumnNumber  Debug info shows that there is one exceeding entry at soft wraps cache. Added checking for the cache state conformance after update  

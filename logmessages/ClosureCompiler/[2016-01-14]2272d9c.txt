@@ -1,0 +1,1 @@
+  Turn on compareJsDoc in ProcessCommonJSModulesTest  Also fix tests in ProcessCommonJSModulesTest to include the @const annotations.  

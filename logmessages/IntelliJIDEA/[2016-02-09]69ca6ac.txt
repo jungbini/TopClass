@@ -1,0 +1,1 @@
+  OC-13141 QuickLook plugin breaks AppCode debugger in AppCode 3.4 EAP  

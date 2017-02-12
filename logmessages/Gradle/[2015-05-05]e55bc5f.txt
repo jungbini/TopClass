@@ -1,0 +1,1 @@
+  Simplify the GradleExecuter.debug property and change external sysprop to `org.gradle.integtest.debug`.  +review REVIEW-5493  

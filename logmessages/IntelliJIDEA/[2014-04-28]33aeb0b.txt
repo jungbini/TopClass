@@ -1,0 +1,1 @@
+  fixed PY-12804 PyStatementEffect inspection doesn't wrap exec argument in parenthesis  

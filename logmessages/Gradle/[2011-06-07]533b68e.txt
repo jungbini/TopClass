@@ -1,0 +1,1 @@
+  Moved fixture method for javadoc and source jars to the core.  

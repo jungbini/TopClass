@@ -1,0 +1,1 @@
+  [git] IDEA-132502 fix NPE  

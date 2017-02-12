@@ -1,0 +1,1 @@
+  Cannot amend properties in RequestMappingHandlerMapping (e.g. useSuffixPatternMatch) using a bean post processor as ApplicationContextAwareProcessor always fires first initialising RequestMappingHandlerMapping  Issue: SPR-9371  

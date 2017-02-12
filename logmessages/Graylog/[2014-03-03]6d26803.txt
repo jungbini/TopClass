@@ -1,0 +1,1 @@
+  fix stub selenium test  issue #610  

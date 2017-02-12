@@ -1,0 +1,1 @@
+  fixed PY-7816 No context menu to run nose tests  

@@ -1,0 +1,1 @@
+  Introduce contentEquals/HashCode/ToString for Arrays. Different methods for deep equals/hashCode/toString rather than overloads with a parameter, because most of the time it would be constant, and make these methods inline-only. Make `contentEquals` infix function. Add docs. #KT-13582  

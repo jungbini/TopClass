@@ -1,0 +1,1 @@
+ Add function inspection for literal struct  fix issue #522  

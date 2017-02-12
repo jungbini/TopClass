@@ -1,0 +1,1 @@
+  IDEADEV-25734 fixed (Caching of branches/tags in "Compare with Branch..." action)  

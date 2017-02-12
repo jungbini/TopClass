@@ -1,0 +1,1 @@
+  do not suggest to restart if plugin was disabled through plugin manager (refixed)  

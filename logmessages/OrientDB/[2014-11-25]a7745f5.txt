@@ -1,0 +1,1 @@
+  fix bug on wrong trimming of binary serialized record. issue #3098  

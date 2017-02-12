@@ -1,0 +1,1 @@
+  Open debug  console action in Tools menu (PY-5449).  

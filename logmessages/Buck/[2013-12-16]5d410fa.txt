@@ -1,0 +1,1 @@
+  Make sure that native rules with is_asset=True are deps of AaptPackageResources.  Summary: This was causing a bug where someone would change the .so for the asset, but that would not trigger a rebuilt of the `AaptPackageResources` `Buildable`.  This moves `UberRDotJavaUtil.AndroidResourceDetails` into its own top-level class.  Test Plan: Sandcastle builds.  

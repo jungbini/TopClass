@@ -1,0 +1,1 @@
+  Unused variable declared in a type switch is not reported, fix #1696  

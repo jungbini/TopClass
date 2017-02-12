@@ -1,0 +1,1 @@
+  text that we pass to stdin should be encoded with stdout/stderr encoding #RUBY-10785 fixed  

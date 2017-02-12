@@ -1,0 +1,1 @@
+  Spellchecker plugin: fix tests, add TextSplitter improvement - avoid to collect for checking the words with unprintable symbols  

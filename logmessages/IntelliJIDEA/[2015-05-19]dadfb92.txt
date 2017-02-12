@@ -1,0 +1,1 @@
+  removed indeterminacy; memory leak fixed when myOriginalBreakPointsNodes retained 1mb of JDOM  

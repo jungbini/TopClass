@@ -1,0 +1,1 @@
+  HADOOP-11566. Add tests and fix for erasure coders to recover erased parity units. Contributed by Kai Zheng.  

@@ -1,0 +1,1 @@
+  check all applicable helpers when adding files to completion #WEB-10377 fixed  

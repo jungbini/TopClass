@@ -1,0 +1,1 @@
+  Don't set up SFTPServer fixture for testing incompatible Java version.  

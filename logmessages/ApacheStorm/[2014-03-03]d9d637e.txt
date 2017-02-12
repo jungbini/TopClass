@@ -1,0 +1,1 @@
+  Fixing an integer overflow in getSleepTimeMs().  This should fix the issue of negative values passed to sleep, causing IllegalArgumentExceptions.  

@@ -1,0 +1,1 @@
+  GRADLE-2079 fixed integrationtest for windows machines  

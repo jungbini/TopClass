@@ -1,0 +1,1 @@
+  User sees useful type name in stack trace for managed model type and while debugging  +review REVIEW-5329  

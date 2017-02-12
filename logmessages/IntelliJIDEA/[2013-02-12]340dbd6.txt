@@ -1,0 +1,1 @@
+  TeamcityTestRunner is now new-style class (it's possible that user defined old-style suite runner in settings instead of DjangoTestSuiteRunner) fixed PY-8821 can't run unit tests with pycharm 2.7  

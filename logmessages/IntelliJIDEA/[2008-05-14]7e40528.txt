@@ -1,0 +1,1 @@
+  replace method with method object: fix for recursive methods; rename method -> invoke  

@@ -1,0 +1,1 @@
+ Merge pull request #208 from tommack/typo-fix  # By Tom Mack * typo-fix: Remove extra URL prefix in the MVC chapter  commit 005ee7385f9e58651deb8a44f120d6f3954ac52d  Remove extra URL prefix in the MVC chapter  A link in the MVC chapter of the reference manual contained an extra "http://" URL prefix.  This commit removes the extra "http://" URL prefix.  

@@ -1,0 +1,1 @@
+  Integrating the fix for JNA-184 as submitted in http://java.net/jira/browse/JNA-184  

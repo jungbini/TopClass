@@ -1,0 +1,1 @@
+  Front-end fix: result type corrected for increment / decrement expressions. Smart cast allowed on a postfix increment result. See KT-7561.  Now result type is receiver type for postfix increment, or increment result type for prefix increment. A set of relevant tests.  

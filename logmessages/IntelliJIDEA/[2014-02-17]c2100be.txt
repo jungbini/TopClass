@@ -1,0 +1,1 @@
+  fixed doubled sdks after apply for detected sdk  

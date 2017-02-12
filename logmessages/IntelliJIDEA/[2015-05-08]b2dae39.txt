@@ -1,0 +1,1 @@
+  fixed OrderEnumerator#getAllLibrariesAndSdkClassesRoots: don't include output directories of modules from dependencies for Maven projects (ZD-56377, IDEA-130329)  

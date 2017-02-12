@@ -1,0 +1,1 @@
+  fix upside-down tga loading (bug #742)  

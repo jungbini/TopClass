@@ -1,0 +1,1 @@
+  svn merge -c 1530095 FIXES: YARN-465. fix coverage org.apache.hadoop.yarn.server.webproxy. Contributed by Aleksey Gorshkov and Andrey Klochkov   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1530097 13f79535-47bb-0310-9956-ffa450edef68  

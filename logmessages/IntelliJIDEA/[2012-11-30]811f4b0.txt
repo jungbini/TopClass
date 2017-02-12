@@ -1,0 +1,1 @@
+  IDEA-75464 Jumping selection bug in Commit Changes Dialog (cherry-picked from 87dbc2b)  

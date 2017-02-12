@@ -1,0 +1,1 @@
+ adding xmlFirstElementChild for systems that do not have it.  fixes #303  

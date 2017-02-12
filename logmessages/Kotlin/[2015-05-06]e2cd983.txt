@@ -1,0 +1,1 @@
+  Add quickfix for replacing deprecated annotations  

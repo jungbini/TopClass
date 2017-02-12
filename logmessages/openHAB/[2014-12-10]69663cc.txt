@@ -1,0 +1,1 @@
+  insteonplm: fixed invalid comment characters in device_types.xml  

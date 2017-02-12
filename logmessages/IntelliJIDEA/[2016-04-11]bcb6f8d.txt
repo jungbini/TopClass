@@ -1,0 +1,1 @@
+  IDEA-154425 copy-paste in column mode bug  

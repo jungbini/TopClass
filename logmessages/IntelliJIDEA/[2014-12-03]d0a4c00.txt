@@ -1,0 +1,1 @@
+  fixed PY-14360Shift+enter stopped to work in "Run manage.py task..." dialog  there is no need to register shift+enter in plugin.xml for ipnb, we already registered it as custom shortcut on code source panel  

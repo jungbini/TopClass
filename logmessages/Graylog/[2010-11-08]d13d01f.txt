@@ -1,0 +1,1 @@
+  - fixed minor bug where not all streams where shown to admins  

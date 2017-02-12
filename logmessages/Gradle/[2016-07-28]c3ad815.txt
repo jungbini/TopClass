@@ -1,0 +1,1 @@
+  fix release notes and release notes template about next major version  

@@ -1,0 +1,1 @@
+  REVIEW-2521: Some cleanup on archive test fixtures;  - Replace TarTarInputStream instead of TarFileTree (remove core dependency in internal-integ-testing) - rework ZipTestFixture - reuse ZipTestFixture in JarTestFixture - verify service type and service impl in jar files  

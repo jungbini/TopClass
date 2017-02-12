@@ -1,0 +1,1 @@
+  KT-8275 Unterminated multi-line comment should be compilation error  #KT-8275 fixed  

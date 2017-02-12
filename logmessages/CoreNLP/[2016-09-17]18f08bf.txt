@@ -1,0 +1,1 @@
+  Minor fixes to kbp annotator to not error out  

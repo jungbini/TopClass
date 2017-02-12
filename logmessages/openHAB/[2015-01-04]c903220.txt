@@ -1,0 +1,1 @@
+ Merge pull request #1927 from gerrieg/astro  Astro: Optimized capricorn zodiac and fixed isSunUpAllDay calculation  commit c903220d797bf05291e08238807175c275eb6061  - Incorporated review comments - Changes for supporting additional meters and complex messages - Fixed bug where end of OBIS message for DSMR v4 meters was not detected  

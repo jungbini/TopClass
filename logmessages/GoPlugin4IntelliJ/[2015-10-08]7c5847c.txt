@@ -1,0 +1,1 @@
+  private struct fields from other packages are show in completion suggestion, fix #1899  

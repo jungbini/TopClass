@@ -1,0 +1,1 @@
+  fixed PY-2689 Convert double-quoted string to single-quoted string: loses data with multi-line strings  

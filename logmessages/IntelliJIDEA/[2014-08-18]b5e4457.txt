@@ -1,0 +1,1 @@
+ ResourceBundlePropertyStructureViewElement#getValue() returns Property (instanceof PsiElement) => proper tree updating after property key renamed fixed  

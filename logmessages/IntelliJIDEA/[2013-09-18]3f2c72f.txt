@@ -1,0 +1,1 @@
+  robust removeAllBreakpoints catch error while open new tab (attach debugger) Chrome still crashed on speed search in Variable View.  

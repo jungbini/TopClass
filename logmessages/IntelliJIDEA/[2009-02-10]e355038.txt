@@ -1,0 +1,1 @@
+  fix protocol violation in fsnotifier (IDEADEV-34652)  

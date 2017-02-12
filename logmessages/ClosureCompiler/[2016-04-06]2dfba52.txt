@@ -1,0 +1,1 @@
+  Provide a fix for MISSING_CALL_REQUIRE_WARNING.  We originally wanted to not do this because the fix may be wrong in some cases. However, since those cases are rare (mostly from Soy, which is moving away from that anyway), it seems reasonable to provide one. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=119166523  

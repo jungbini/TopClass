@@ -1,0 +1,1 @@
+  Changed quick doc information for references to Kotlin entities which are loaded from libraries.  #KT-1233 fixed  

@@ -1,0 +1,1 @@
+  fixed nose in django with nose plugin  

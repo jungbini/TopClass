@@ -1,0 +1,1 @@
+ Update server/src/main/java/com/orientechnologies/orient/server/journal/ODatabaseJournal.java  Rollback code change, fix did not solve the issuecompletely.  

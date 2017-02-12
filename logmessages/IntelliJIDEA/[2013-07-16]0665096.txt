@@ -1,0 +1,1 @@
+  do not pass panel of already closed dialog as owner  fixed exception on create virtual env  

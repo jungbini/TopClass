@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=64 (" Set the default BroadcasterConfig ExecutorService size to 1 ")  See issue description  

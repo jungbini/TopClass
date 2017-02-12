@@ -1,0 +1,1 @@
+  don't show debugger configurable in Ruby IDE (RUBY-2216)  

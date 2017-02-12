@@ -1,0 +1,1 @@
+  .bat scripts fixed (support for paths with spaces)  

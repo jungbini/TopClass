@@ -1,0 +1,1 @@
+  PHP WI-13885 IDE hangs on remote JS debug (Console linking/file existence checking) / more improvements and diagnostics  

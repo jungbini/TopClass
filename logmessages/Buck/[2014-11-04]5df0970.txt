@@ -1,0 +1,1 @@
+  Get the RepositoryFactoryTest passing on OS X.  Summary: OS X has a quirky way of handling temp directories. Work around this.  The proper fix would sink this into the RepositoryFactory, but this causes a whole chunk of tests to fail, and it's unlikely that people will be setting their repo roots to temp directories. He says. Hopefully.  Test Plan: buck test --all  

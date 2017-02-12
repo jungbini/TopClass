@@ -1,0 +1,1 @@
+  HDFS-4316. branch-trunk-win contains test code accidentally added during work on fixing tests on Windows. Contributed by Chris Nauroth.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-trunk-win@1422713 13f79535-47bb-0310-9956-ffa450edef68  

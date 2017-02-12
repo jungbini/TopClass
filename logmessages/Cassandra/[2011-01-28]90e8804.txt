@@ -1,0 +1,1 @@
+  fix deletionof sstable non-data components patch by jbellis; reviewed by stuhood for CASSANDRA-2059  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1064371 13f79535-47bb-0310-9956-ffa450edef68  

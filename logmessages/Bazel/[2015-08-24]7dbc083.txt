@@ -1,0 +1,1 @@
+  ctx.new_file(Artifact, String) now replaces the basename of the base artifact with the given name instead of appending a suffix  -- MOS_MIGRATED_REVID=101348273  

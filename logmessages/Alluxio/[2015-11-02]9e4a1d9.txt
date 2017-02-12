@@ -1,0 +1,1 @@
+ Merge pull request #1885 from gpang/fix_zk_master  [SMALLFIX] Fix master fault tolerant restart behavior  commit 36ee3b77e43a359f9ef4c6fa68ae6d126328b01c  Merge pull request #1969 from apc999/SMALLFIX2  [SMALLFIX] Javadoc fix up in HeartbeatScheduler  commit 9e4a1d9d6d4cf6d5d8ac0917200d765b789ef8f6  [SMALLFIX] Javadoc fix up in HeartbeatScheduler  

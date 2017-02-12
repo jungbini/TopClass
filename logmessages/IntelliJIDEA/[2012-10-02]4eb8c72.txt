@@ -1,0 +1,1 @@
+  external compiler: get package prefix from source root  

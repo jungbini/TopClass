@@ -1,0 +1,1 @@
+  Delete unused file with a lot of bugs.  *see the same functionality in HgLogCommand and HgUtil.  

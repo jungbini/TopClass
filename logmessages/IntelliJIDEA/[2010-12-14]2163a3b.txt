@@ -1,0 +1,1 @@
+  IDEA-62889 exclude completion of android namespace prefix  

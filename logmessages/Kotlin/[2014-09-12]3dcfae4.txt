@@ -1,0 +1,1 @@
+  Debugger: delegated property should be visible in debugger #KT-4699 In Progress #KT-3582 Fixed  

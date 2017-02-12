@@ -1,0 +1,1 @@
+  PY-18021 Python Unit tests do not work with active winpty-agent.exe console on Windows (rollback uta's fix)  

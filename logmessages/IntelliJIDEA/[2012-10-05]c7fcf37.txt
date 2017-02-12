@@ -1,0 +1,1 @@
+  IDEA-89624 fix filtering by 'assert' log level (cherry-picked from 37bd438)  

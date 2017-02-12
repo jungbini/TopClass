@@ -1,0 +1,1 @@
+  git4idea: IDEADEV-36928: fixed refershing files that might have become invalid while processing event  

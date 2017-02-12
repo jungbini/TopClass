@@ -1,0 +1,1 @@
+  Ctrl-Q with external javadoc on fixed for annotations (fields summury excluded from class javadoc)  	 IDEADEV-32990  

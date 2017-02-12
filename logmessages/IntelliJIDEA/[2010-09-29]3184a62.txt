@@ -1,0 +1,1 @@
+  fix 'SHe is not dead yet' assertion when explicit completion returned no variants  

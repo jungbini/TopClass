@@ -1,0 +1,1 @@
+  LocalHistory: storage corruption bug fix (IDEADEV-24387)  

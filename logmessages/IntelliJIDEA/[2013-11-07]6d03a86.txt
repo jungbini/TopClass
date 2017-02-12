@@ -1,0 +1,1 @@
+  Eliminated dependencies on pthread, glib rec mutex synchronization. A crash fixed.  

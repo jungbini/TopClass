@@ -1,0 +1,1 @@
+  RI: UI reworked, debugging depends from path mappings not remote debug run configuration.  

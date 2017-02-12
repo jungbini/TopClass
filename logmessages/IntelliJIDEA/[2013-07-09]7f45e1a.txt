@@ -1,0 +1,1 @@
+  fixed PY-10230 Decorator reference in doctest is unresolved  

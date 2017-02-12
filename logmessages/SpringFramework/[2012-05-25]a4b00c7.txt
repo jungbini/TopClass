@@ -1,0 +1,1 @@
+eans.factory.annotation.BeanFactoryAnnotationUtils and moving these @Qualifier-related methods to it. It is intentionally similar in name and style to the familiar BeanFactoryUtils class for purposes of discoverability.  There are no backward-compatibilty concerns associated with this change as the cycle was introduced, caught and now fixed before a release.  Issue: SPR-6847  

@@ -1,0 +1,1 @@
+  Amend HDFS-3150 to fix TestMiniDFSCluster.java.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1373144 13f79535-47bb-0310-9956-ffa450edef68  

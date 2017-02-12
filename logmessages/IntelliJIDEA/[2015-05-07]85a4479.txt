@@ -1,0 +1,1 @@
+  Added quick fix installation for mangled packages like "import sklearn" -> quickfix install scikit-learn  

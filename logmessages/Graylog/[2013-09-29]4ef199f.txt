@@ -1,0 +1,1 @@
+  preview info on startpage. fixes #246  

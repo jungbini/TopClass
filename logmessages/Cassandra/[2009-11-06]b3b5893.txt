@@ -1,0 +1,1 @@
+  fix TODO in tokenmetadata (bootstrap tokens aren't part of the official ring now).  r/m redundant getNextEndPoint method in favor of getSuccessor patch by jbellis; reviewed by Jaakko Laine for CASSANDRA-525  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@833576 13f79535-47bb-0310-9956-ffa450edef68  

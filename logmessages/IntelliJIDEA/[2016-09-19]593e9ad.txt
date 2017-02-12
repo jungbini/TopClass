@@ -1,0 +1,1 @@
+  registry.properties: fix missing restartRequired for java.annotations.inference.nullable.method.*  

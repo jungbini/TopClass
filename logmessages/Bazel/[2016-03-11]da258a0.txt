@@ -1,0 +1,1 @@
+  Use repository_ctx for each usage of repository context.  This will avoid confusion with the normal Skylark rule context. Also fixed indentation of cc_configure.bzl  -- MOS_MIGRATED_REVID=117011107  

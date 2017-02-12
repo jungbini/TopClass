@@ -1,0 +1,1 @@
+ Allow to create quickfix multifile tests in single file  It simplifies creating new tests  

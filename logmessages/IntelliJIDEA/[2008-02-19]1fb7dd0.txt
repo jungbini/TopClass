@@ -1,0 +1,1 @@
+  Maven: one more fix for IDEADEV-22545  

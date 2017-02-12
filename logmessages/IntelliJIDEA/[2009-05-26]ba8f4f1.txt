@@ -1,0 +1,1 @@
+  inspection/quickfix for missing inspection html-descriptions  

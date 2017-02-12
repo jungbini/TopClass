@@ -1,0 +1,1 @@
+  xdebugger api: support grouping values in debugger trees  

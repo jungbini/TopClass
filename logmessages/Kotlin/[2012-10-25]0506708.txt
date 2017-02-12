@@ -1,0 +1,1 @@
+  include the maps.js standard JS file in the maven plugin (fixing up issues caused by the refactoring of kotlin_lib.js into 2 files)  

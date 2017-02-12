@@ -1,0 +1,1 @@
+  inspections: InspectionsResultsView nullable scope fixed for cleanup  

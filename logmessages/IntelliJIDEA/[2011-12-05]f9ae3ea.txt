@@ -1,0 +1,1 @@
+  fixed nonempty docstring in init  

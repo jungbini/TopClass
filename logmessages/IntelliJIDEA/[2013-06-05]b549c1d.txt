@@ -1,0 +1,1 @@
+  fixed PY-9920 Path variable is automatically expanded and saved if used inside script parameters  replace all occurrences of macro as it done in ExpandMacroToPathMap.substitute to have consistent behaviour  

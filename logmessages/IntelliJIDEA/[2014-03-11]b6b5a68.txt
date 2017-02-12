@@ -1,0 +1,1 @@
+  fixed PY-11981 "PEP 8 naming convention violation" inspection treats class attributes as function variables  

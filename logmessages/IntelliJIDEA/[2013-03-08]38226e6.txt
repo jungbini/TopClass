@@ -1,0 +1,1 @@
+  IDEA-72636 ("Log statement not guarded by log condition" inspection fails on custom logging methods with method signatures 

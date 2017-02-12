@@ -1,0 +1,1 @@
+of a list (see SubProtocolWebSocketHandler), thus fixing the issue.  Issue: SPR-12403  

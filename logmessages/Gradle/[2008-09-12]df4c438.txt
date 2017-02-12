@@ -1,0 +1,1 @@
+  Use Dual Resolver only if there are multipe jar repositories. Otherwise use IBiblioResolver. This is a general improvment but also avoid running into an Ivy bug for our normal Maven repos (IVY-902). Upgrade to new version of Ivy.  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@812 004c2c75-fc45-0410-b1a2-da8352e2331b  

@@ -1,0 +1,1 @@
+  Use test fixture to check for build failure rather than scraping the build output.  

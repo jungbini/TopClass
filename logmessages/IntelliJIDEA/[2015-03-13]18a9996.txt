@@ -1,0 +1,1 @@
+  IDEA-82135 Missing images in Quick Documentation Java Doc loaded from jars  fixed existing test, added new test  

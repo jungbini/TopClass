@@ -1,0 +1,1 @@
+  - fixed bug with deletebystream where wrong selector method of Message class was used  

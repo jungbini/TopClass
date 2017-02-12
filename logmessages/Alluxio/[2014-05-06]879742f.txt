@@ -1,0 +1,1 @@
+ Fixes  Fixed indentation and removed unnecessary stuff. Replaced InodeTraversal class with a generic pair, and added a test for the listFiles fix.  

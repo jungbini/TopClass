@@ -1,0 +1,1 @@
+  Rewrite "Field not used in 'toString()' method" inspection, add test, fixes IDEA-99324 & IDEA-99328  

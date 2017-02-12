@@ -1,0 +1,1 @@
+  fixed PY-3924 PyTest: IAE at com.intellij.execution.configurations.ParamsGroup.addParameter  

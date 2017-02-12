@@ -1,0 +1,1 @@
+  Update DX to use single-pass merging.  Summary: Previously, when merging many dex files, DX would incrementally merge each one into the sum of the previous ones, which required N^2 time. Now we use the new DexMerger constructor to merge them all in a single pass, which is linear-ish.  Test Plan: This is a port of a 

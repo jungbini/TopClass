@@ -1,0 +1,1 @@
+  Fix binary compatibility  Change type of Cookie.maxAge back to int to maintain binary compatibility for drop in fixes.  

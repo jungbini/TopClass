@@ -1,0 +1,1 @@
+  Diagnostics on 'infix' (declaration&use site)  

@@ -1,0 +1,1 @@
+  GRADLE-2641 - Some hackery to handle parent POMs with SNAPSHOT version. Needs a deeper reworking of parsing to fix properly.  

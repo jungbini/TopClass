@@ -1,0 +1,1 @@
+  fix ci by updating docs after renaming  

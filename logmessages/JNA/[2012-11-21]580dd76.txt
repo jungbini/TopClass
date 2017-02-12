@@ -1,0 +1,1 @@
+ re-fix broken download links (reported by hanneshorn). For now pointing to maven central copies. Not sure why github blob links work, then don't.  

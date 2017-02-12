@@ -1,0 +1,1 @@
+  improved debug trace for nodes and text nodes.  

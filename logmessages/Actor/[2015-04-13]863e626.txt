@@ -1,0 +1,1 @@
+  fix(frontend, codecs): fixed serialization for Handshake and MessageBox  

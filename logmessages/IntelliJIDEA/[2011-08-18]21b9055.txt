@@ -1,0 +1,1 @@
+  replace old style Assert (leave fqns in file after last fix if any) IDEA-70790  

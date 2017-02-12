@@ -1,0 +1,1 @@
+  *** Reason for rollback ***  This is breaking ~1,000 tests in the latest Blaze nightly:  []  Per sheriff policy, we need to either roll back or provide a quick fix tonight.  *** Original change description ***  Optimize hotspot in DependencySet.process().  -- MOS_MIGRATED_REVID=122220429  

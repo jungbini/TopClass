@@ -1,0 +1,1 @@
+  fix race condition in sstable reference counting patch by jbellis; reviewed by slebresne for CASSANDRA-3085  git-svn-id: https://svn.apache.org/repos/asf/cassandra/trunk@1162988 13f79535-47bb-0310-9956-ffa450edef68  

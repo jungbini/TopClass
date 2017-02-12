@@ -1,0 +1,1 @@
+  fixed PY-3244 Replace function with set literal: do not propose intention for empty sets added convertion from string  

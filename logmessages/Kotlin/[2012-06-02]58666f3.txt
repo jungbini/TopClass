@@ -1,0 +1,1 @@
+  unwrap parentheses around range expressions in pattern matching conditions (KT-1742) (thanks to Sergey Mashkov for the suggested fix)  

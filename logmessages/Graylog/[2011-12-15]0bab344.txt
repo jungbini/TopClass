@@ -1,0 +1,1 @@
+  shell using text queries for message, full_message  fixes #WEBINTERFACE-180  

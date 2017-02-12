@@ -1,0 +1,1 @@
+  insidious bug: do not let injected fragment chameleons reparse themselves, otherwise they'll get unescaped text: IDEADEV-23114  

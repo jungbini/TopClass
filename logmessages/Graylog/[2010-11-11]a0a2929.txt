@@ -1,0 +1,1 @@
+  only alert users on events starting when the stream becomes alertable, eof blank lines, a few deprecated erb fixes  

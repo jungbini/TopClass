@@ -1,0 +1,1 @@
+  there is no need to use import_module (no relative import possible) fixed PY-8636 Geting 'No module named importlib' error when trying to run remote tests (with django)  

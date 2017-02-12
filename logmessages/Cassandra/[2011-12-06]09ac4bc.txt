@@ -1,0 +1,1 @@
+  fix compression "chunk_length_kb" option to set correct kb value for thrift/avro patch by Sylvain Lebresne; reviewed by Pavel Yaskevich for CASSANDRA-3558  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-1.0@1210884 13f79535-47bb-0310-9956-ffa450edef68  

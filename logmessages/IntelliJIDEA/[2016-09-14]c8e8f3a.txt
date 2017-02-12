@@ -1,0 +1,1 @@
+  build scripts: correctly find file under source root with package prefix  

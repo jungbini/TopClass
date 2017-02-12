@@ -1,0 +1,1 @@
+  fixed missing dependency for gradle-sonar build  

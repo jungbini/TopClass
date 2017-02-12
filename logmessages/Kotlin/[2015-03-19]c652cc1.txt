@@ -1,0 +1,1 @@
+  Classified usages as type parameters correctly.  #KT-7047 fixed  

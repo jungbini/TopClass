@@ -1,0 +1,1 @@
+  Observation "'throw' inside 'catch' block ignores the caught exception" was fixed.  

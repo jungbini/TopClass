@@ -1,0 +1,1 @@
+  HOTFIX: Checkstye fixes follow up for KAKFA-2531.  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Gwen Shapira  Closes #248 from ewencp/hotfix-kafka-2531-checkstyle  

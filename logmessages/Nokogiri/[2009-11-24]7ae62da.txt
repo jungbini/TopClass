@@ -1,0 +1,1 @@
+  expanding tests for Node#next_element and fixing a boog.  

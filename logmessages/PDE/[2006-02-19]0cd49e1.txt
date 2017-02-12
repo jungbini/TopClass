@@ -1,0 +1,1 @@
+  fix for LD_LIBRARY_PATH being ignored on some linux platforms  

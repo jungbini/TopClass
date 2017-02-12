@@ -1,0 +1,1 @@
+  git: fix of "LST markers are slow to appear" - that was due to performance problem - /IDEA/community was always added to a scope recursively, event if only one file from /IDEA was added  

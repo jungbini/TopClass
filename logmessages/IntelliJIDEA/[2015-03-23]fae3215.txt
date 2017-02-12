@@ -1,0 +1,1 @@
+  fixed location layout on windows + add mnemonic  

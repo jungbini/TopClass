@@ -1,0 +1,1 @@
+  IDEA-80280: Run/Debug configuration: NPE on 'Build artifacts' if no projects are open  

@@ -1,0 +1,1 @@
+  MAPREDUCE-4738. fix and re-enable disabled unit tests in the mr-app2 module. (sseth)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/MR-3902@1400232 13f79535-47bb-0310-9956-ffa450edef68  

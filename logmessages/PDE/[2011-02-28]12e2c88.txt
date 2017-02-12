@@ -1,0 +1,1 @@
+  Fixed CameraLight example to take into account fix in ortho() function  

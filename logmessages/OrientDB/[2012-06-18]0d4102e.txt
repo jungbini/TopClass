@@ -1,0 +1,1 @@
+  Made OGlobalConfiguration.STORAGE_KEEP_OPEN = false by default and fixed problems on db close  

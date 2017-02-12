@@ -1,0 +1,1 @@
+  promote a couple streaming debug messages to info.  patch by jbellis for CASSANDRA-592  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@888022 13f79535-47bb-0310-9956-ffa450edef68  

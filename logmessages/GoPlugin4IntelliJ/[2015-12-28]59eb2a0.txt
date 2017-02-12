@@ -1,0 +1,1 @@
+ Improve placeholder detection to support padding (fixes #2186)  

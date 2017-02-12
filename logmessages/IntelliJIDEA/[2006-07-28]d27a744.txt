@@ -1,0 +1,1 @@
+  new module with descriptor marked invalid fix  

@@ -1,0 +1,1 @@
+  Speed test: fixed NaN on output  

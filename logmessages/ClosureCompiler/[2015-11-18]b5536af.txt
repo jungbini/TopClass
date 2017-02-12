@@ -1,0 +1,1 @@
+  Make sure that CompilerTestCase checks the description for expected errors.  Also, fix up unit tests with incorrect descriptions. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=108140624  

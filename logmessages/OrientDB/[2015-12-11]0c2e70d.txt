@@ -1,0 +1,1 @@
+  fixup getConnection method: return null if url is not compliant  

@@ -1,0 +1,1 @@
+  code cleanup - remove deprecated api. junit.framework.Assert -> org.junit.Assert; - fix klocwork : NullPointer dereference  

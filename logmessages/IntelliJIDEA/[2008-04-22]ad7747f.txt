@@ -1,0 +1,1 @@
+  fix JS debugger browser frame  

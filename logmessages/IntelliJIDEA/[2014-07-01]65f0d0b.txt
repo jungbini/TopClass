@@ -1,0 +1,1 @@
+  fixed map renderer quoting and renderers test  

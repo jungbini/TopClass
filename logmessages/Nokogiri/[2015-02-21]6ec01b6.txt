@@ -1,0 +1,1 @@
+ids to autocomplete the tbody tag around tr tags of a table. the check of unknown html did change upstream and got adjusted.  fixes #1113  Sponsored by Lookout Inc.  

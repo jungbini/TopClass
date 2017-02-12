@@ -1,0 +1,1 @@
+  fix broken deleting of quickfiltered message #NO_ISSUE  

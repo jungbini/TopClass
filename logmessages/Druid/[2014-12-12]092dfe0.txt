@@ -1,0 +1,1 @@
+ Merge pull request #964 from metamx/fix-index-task-tmpdir  fix IndexTaskTest temp dir  commit 092dfe0309964d1025415588906f2bf14f2d477a  fix IndexTaskTest tmp dir  - Create local firehose files in a clean temp directory to avoid firehose reading other random temp files that start with 'druid'  

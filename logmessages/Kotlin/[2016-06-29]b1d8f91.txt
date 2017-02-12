@@ -1,0 +1,1 @@
+  KT-12877: fix how native calls and property references are translated to be make them work with JsModule annotation  

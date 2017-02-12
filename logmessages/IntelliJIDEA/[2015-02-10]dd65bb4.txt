@@ -1,0 +1,1 @@
+  [vcs-log] fix printing graph issue (cache was not invalidated after graph change) IDEA-136168  

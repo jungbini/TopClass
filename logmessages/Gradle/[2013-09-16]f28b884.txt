@@ -1,0 +1,1 @@
+  GRADLE-2886 fix placement of jar manifest when generating war and ear files  

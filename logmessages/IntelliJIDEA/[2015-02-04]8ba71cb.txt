@@ -1,0 +1,1 @@
+  IDEA-134505 Default settings are not applied anymore  We don't have enough time to fix it properly in master, so, ancient hack (ProjectStoreImpl overrides getComponentStorageSpecs and add fake storage (file = StoragePathMacros.PROJECT_FILE)) restored. But one pleasant 

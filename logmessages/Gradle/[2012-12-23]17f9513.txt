@@ -1,0 +1,1 @@
+  REVIEW-841: Change handling of @Ignored marked Testclasses: - Generate result information (skipped) for each single test method - TestReportDataCollector does not need to care about this - A side effect of this fix is a fix for GRADLE-2484.  

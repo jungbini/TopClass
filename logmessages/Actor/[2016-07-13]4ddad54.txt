@@ -1,0 +1,1 @@
+  fix(server:rpc): add access hash check for user on transfer ownership  

@@ -1,0 +1,1 @@
+  Pseudocode: Add debug information to magic instructions  

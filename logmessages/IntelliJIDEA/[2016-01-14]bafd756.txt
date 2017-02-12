@@ -1,0 +1,1 @@
+  IDEA-68160 Find & Replace: preserve case bug  

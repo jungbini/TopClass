@@ -1,0 +1,1 @@
+  Minor: Fix @link in MetricName comment  Author: Dong Lin <lindong28@gmail.com>  Reviewers: Guozhang Wang  Closes #651 from lindong28/minor-fix-link-comment  

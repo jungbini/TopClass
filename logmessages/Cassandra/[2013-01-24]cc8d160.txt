@@ -1,0 +1,1 @@
+  fix String.format format specifier char for float value (d->f)  

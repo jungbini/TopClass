@@ -1,0 +1,1 @@
+  Debugger: Convert java expression to kotlin when open EE dialog from Variables View #KT-6805 Fixed  

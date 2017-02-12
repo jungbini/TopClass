@@ -1,0 +1,1 @@
+  generate getter/setter: fix setter name for boolean isFields (IDEA-142506)  

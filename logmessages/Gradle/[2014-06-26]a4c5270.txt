@@ -1,0 +1,1 @@
+  Fix bug in Ivy test infrastructure where undeclared artifacts were included in ivy.xml  - More validation of generated iml files with source and javadoc artifacts  

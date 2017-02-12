@@ -1,0 +1,1 @@
+  Stub and callables regressions fixed.  

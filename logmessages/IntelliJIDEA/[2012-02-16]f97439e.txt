@@ -1,0 +1,1 @@
+  ensure that method return type fix is on top independent from the sorting (IDEA-81450)  

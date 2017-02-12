@@ -1,0 +1,1 @@
+  Fixed bug on Collections update by set<Field> method in OObjectDatabase  

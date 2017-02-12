@@ -1,0 +1,1 @@
+  fix build. remove test that uses internal api in way not supported. Test is covered at integration level  

@@ -1,0 +1,1 @@
+  Inspections ui: 1. mixed severity for scope not shown if  part of inspections which have no this scope have same severity for default scope 2. table tree updating fixed  

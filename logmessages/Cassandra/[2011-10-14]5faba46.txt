@@ -1,0 +1,1 @@
+  add debug log of mutations + consistencylevel in SP.mutate patch by Jackson Chung; reviewed by jbellis for CASSANDRA-3361  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-1.0@1183509 13f79535-47bb-0310-9956-ffa450edef68  

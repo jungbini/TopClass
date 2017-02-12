@@ -1,0 +1,1 @@
+ update log message 19e556e [Renjith Kamath] ZEPPELIN-1130 revert livy create session retry count to 60 6fb59e8 [Renjith Kamath] ZEPPELIN-1130 fix logging and message 0e29217 [Renjith Kamath] ZEPPELIN-1130 Make Livy create session retries configurable  

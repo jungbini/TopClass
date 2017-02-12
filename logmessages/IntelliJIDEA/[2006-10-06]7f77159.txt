@@ -1,0 +1,1 @@
+  corrected resolve and completion of environment properties (with custom prefixes as well) fixed http://www.jetbrains.net/jira/browse/IDEADEV-10617 tests added  

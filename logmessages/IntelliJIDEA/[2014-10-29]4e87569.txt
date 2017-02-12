@@ -1,0 +1,1 @@
+  highlight element on breadcrumb hover #WEB-427 fixed  

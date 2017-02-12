@@ -1,0 +1,1 @@
+  fixed PY-2595 Unittests runner - can't run test case on Ctrl + Shift + F10 in filename has no underscores  

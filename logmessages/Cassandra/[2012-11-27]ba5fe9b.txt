@@ -1,0 +1,1 @@
+  CompactionSerializerTest failure fix Patch by vijay reviewed by jbellis for CASSANDRA-4995  

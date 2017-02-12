@@ -1,0 +1,1 @@
+  fix fo bug #891 and #909, does pack() before showing  

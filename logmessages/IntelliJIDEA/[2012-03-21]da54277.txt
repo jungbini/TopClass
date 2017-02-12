@@ -1,0 +1,1 @@
+  fixed PY-5852 Install Django when creating a new Django project  

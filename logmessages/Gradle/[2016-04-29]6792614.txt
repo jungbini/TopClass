@@ -1,0 +1,1 @@
+  Reduce fixed cost of applying code quality plugins  First step: use @CompileStatic in all involved Groovy classes  +review REVIEW-5933  

@@ -1,0 +1,1 @@
+use serialized P4 connection settings. rather use connection that relates to the VCS root where changes belong to (cherry picked from commit 0da44a54f0ab94f5f0bcfe0c82c7a92c9686fdae)  

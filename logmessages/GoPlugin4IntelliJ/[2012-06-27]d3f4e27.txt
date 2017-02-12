@@ -1,0 +1,1 @@
+  Default GoExpr.getType() impl, fix the import completion.  Also redid the LookupElementBuilderUtil.  Signed-off-by: Mihai Claudiu Toader <mtoader@gmail.com>  

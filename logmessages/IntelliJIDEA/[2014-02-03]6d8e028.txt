@@ -1,0 +1,1 @@
+  PY-3450 Refactoring: pull up class variables/attributes: Refactoring + compilation fix  

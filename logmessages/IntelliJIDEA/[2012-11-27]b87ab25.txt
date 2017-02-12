@@ -1,0 +1,1 @@
+  fixed  PY-8105 Change Signature: CCE at com.jetbrains.python.codeInsight.intentions.SpecifyTypeInPy3AnnotationsIntention.a  

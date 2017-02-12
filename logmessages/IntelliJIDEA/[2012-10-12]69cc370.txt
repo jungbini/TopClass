@@ -1,0 +1,1 @@
+  IDEA-18659, IDEA-92375, IDEA-62134 debugger/console result tabs should be closeable with middle-click  

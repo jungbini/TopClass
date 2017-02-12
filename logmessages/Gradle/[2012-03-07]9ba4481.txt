@@ -1,0 +1,1 @@
+  Explicitly model the stopping phase to correct the debug output on whether the daemon is busy or not when it's stopping.  

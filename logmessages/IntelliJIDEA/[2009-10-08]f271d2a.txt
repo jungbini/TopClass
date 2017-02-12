@@ -1,0 +1,1 @@
+  fix reloading project on settings save: fix event requestor to be SaveSession instead of Virtual file + fix resaving of splitted components (push lastTimeStamp to original StorageData [one from which current one was cloned])  

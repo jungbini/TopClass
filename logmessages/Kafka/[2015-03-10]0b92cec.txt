@@ -1,0 +1,1 @@
+  KAFKA-1910; Refactor new consumer and fixed a bunch of corner cases / unit tests; reviewed by Onur Karaman and Jay Kreps  

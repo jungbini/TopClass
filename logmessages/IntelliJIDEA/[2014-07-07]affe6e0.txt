@@ -1,0 +1,1 @@
+  log bytecode analysis related information with debug level  To prevent polluting logs in case of incorrect bytecode (usual for tests)  

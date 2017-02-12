@@ -1,0 +1,1 @@
+  Debugger: Smart Step Into inside lambda suggests methods from outer context #KT-10148 Fixed  

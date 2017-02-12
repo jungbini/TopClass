@@ -1,0 +1,1 @@
+ Use covermode atomic for tests coverage (fixes #2037)  

@@ -1,0 +1,1 @@
+  refixing IDEA-57940 : the variants from other editors are suggested AFTER finishing variants from current file  

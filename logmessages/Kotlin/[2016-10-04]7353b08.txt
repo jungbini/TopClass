@@ -1,0 +1,1 @@
+  Change parsing of statements starting with annotations  If a block statement starts with annotations treat them as they belong to node of the statement rather than to the closest prefix expression  #KT-10210 Fixed  

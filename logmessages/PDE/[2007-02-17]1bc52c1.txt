@@ -1,0 +1,1 @@
+  update to xhtml-strict, auto-cab donwload on windows, fix encoding issues - bug #181, bug #474, bug #490  

@@ -1,0 +1,1 @@
+  HADOOP-5856. Fix "unsafe multithreaded use of DateFormat" findbugs warning in DataBlockScanner.  Contributed by Kan Zhang   git-svn-id: https://svn.apache.org/repos/asf/hadoop/core/trunk@779308 13f79535-47bb-0310-9956-ffa450edef68  

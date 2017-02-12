@@ -1,0 +1,1 @@
+  [+] snmp binding: added port support via url ("address/port" with specified port or "address" with default 161 port) (#4474)  [-] snmp binding: fixed version/url parameters order in OUT_BINDING_PATTERN_VERSION  

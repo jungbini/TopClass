@@ -1,0 +1,1 @@
+  fix problems in NERFeatureFactory when get(CoreAnnotations.GazAnnotation.class) returns null for p and n  

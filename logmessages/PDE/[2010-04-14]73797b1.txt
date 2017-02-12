@@ -1,0 +1,1 @@
+  vertexcount variable for debugging  

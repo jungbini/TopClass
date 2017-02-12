@@ -1,0 +1,1 @@
+  allow loading both platform-prefixed and regular plugin.xml from same classloader root  

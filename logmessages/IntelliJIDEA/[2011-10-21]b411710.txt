@@ -1,0 +1,1 @@
+  few refactoring, removed redundant code fixed PY-4810 Mako: namespaces are not available in completion inside python code blocks  

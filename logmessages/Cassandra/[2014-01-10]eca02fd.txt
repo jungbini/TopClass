@@ -1,0 +1,1 @@
+  Ninja fix simple bugs from #6438  

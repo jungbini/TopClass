@@ -1,0 +1,1 @@
+  fix problems with native lib copy and better errors msgs for full screen problems  

@@ -1,0 +1,1 @@
+  Add quickfix for FINAL_UPPER_BOUND: inline type parameter #KT-13773 Fixed  

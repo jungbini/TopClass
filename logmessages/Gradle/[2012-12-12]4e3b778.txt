@@ -1,0 +1,1 @@
+  GRADLE-2585: Refactor fix to use ModuleSource to store information about timestamped version.  

@@ -1,0 +1,1 @@
+  styling for logging page. fixes #1375  

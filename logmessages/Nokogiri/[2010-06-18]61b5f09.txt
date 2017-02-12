@@ -1,0 +1,1 @@
+ combining functions and pseudo selectors in your CSS expressions works.  fixes #288  

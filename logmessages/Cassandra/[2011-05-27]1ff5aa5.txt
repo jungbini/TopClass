@@ -1,0 +1,1 @@
+  Committing fix to CASSANDRA-2675 in that branch (since it is very problematic with counters)   git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8.0@1128457 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+ Merge pull request #2085 from deeplearning4j/ab_torchstepfix  Add TorchStep (missed in merge/refactoring)  commit 1ee790299334729d3b683985b720d8d37699c670  Merge pull request #2072 from deeplearning4j/ab_batchnorm  Batch norm fixes and optimizations  commit 90e0266ff03c3ab4ba308bc8453dcea0e8b68d2a  Final test fixes after merging master  

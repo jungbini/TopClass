@@ -1,0 +1,1 @@
+  remove the old configuration when PerFileMappingsBase state is reloaded (this should fix problem with lost modifications in sqldialects.xml: IDEA-132812)  

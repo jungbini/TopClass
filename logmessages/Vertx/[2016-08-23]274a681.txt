@@ -1,0 +1,1 @@
+  Rethrow the RejectedExecutionException when a worker task is rejected so the caller of executeBlocking is notified - fixes #1578  

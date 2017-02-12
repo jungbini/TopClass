@@ -1,0 +1,1 @@
+  CPP-6325 CPP-6381 Do not sleep in readAvailableBlocking() for pty: fixed regression  

@@ -1,0 +1,1 @@
+  bind-tree-and-psi assertion fix  

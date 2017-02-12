@@ -1,0 +1,1 @@
+  Distributed: fixed problem with the self-assignment of cluster if not master  

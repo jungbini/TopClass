@@ -1,0 +1,1 @@
+  fixed wrong connection remove on storage close  

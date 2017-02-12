@@ -1,0 +1,1 @@
+  IDEA-73730 (Result of assignment expression used inspection bug)  

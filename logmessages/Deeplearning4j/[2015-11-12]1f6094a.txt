@@ -1,0 +1,1 @@
+ Merge pull request #860 from JackSullivan/fix-dataset-preprocess  Fixed a bug where BaseDatasetIterator.next() was not actually runnnin  commit 1f6094a75bea33d994371bbccb0b4c31400ada32  Fixed a bug where BaseDatasetIterator.next() was not actually runnning the dataset preprocessor.  

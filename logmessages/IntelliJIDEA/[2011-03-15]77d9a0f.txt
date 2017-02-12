@@ -1,0 +1,1 @@
+  IDEA-66377, IDEA-66416, IDEA-66480, IDEA-66011 fixed couple of concurrency issues, plain text fields replaced with EditorComboBoxes with regex syntax highlighting.  

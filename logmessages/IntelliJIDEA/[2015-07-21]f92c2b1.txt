@@ -1,0 +1,1 @@
+  fixed idea.system.selector property for idea*.exe in community edition (IDEA-142646, IDEA-142725)  

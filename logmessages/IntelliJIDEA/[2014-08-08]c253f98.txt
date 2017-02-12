@@ -1,0 +1,1 @@
+  do not show two debugger tooltips (loading and real value)  

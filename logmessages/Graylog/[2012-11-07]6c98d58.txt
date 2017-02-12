@@ -1,0 +1,1 @@
+  make quickfilter autocomplete work again  ...and make it look less ugly. fixes #WEBINTERFACE-332  

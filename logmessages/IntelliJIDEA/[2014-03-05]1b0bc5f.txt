@@ -1,0 +1,1 @@
+  fixed regress introduced by c5819e4 : remove stale index data for removed files that were scheduled to update lazily  

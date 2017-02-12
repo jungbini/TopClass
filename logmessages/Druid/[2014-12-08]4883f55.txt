@@ -1,0 +1,1 @@
+ Merge pull request #942 from metamx/fix-tiered-selector-naming  fix tiered selector service name usage  commit 703470eea50a990d1d41cc01c51e1cc0f2ccef60  Merge pull request #941 from metamx/fix-event-receiver-firehose  remove unused but required parameter  commit 4883f5526b0a846e05bdb52c4e698e2a7d835b60  fix tiered selector service name usage  

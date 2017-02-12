@@ -1,0 +1,1 @@
+  [NEW TYPE INFERENCE] Fix a bug in JSType.negate  Knowing that a type is a scalar doesn't mean that it's negation will also be a scalar. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=67526660  

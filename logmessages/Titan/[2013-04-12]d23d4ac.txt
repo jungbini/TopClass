@@ -1,0 +1,1 @@
+ reverted to cassandrathrift in properties as Titan 0.3.0 did not abandon this model. Another fix to configuration files in FaunusCompiler.  

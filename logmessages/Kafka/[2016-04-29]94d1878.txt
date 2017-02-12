@@ -1,0 +1,1 @@
+  MINOR: change initial value of Min stat to Double.MAX_VALUE (not MIN)  this is consistent with the Max stat implementation.  Author: Zack Dever <zdever@pandora.com>  Reviewers: Aditya Auradkar, Gwen Shapira  Closes #1143 from zackdever/min-stat-fix  

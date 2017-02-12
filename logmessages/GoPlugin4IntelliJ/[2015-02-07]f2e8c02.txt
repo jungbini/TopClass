@@ -1,0 +1,1 @@
+ Prioritize imported types in completion  #1099 fixed  

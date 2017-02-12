@@ -1,0 +1,1 @@
+  IDEA-86283 "Create Class" always suggests to create it in existing class fixed  

@@ -1,0 +1,1 @@
+  GRADLE-646. Tiny fixes to the version names in the test - now they will not clash with other numbers and the test should mostly run OK :)  

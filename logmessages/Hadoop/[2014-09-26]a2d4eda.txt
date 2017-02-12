@@ -1,0 +1,1 @@
+  HDFS-7155. Bugfix in createLocatedFileStatus caused by bad merge. (Arpit Agarwal)  

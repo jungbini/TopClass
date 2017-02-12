@@ -1,0 +1,1 @@
+  Ninja-fix native proto spec typo (v2)  

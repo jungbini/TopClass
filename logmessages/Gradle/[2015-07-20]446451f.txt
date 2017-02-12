@@ -1,0 +1,1 @@
+  Clean up of test cases.  - All of the test classes didn't actually run as they were not extending Specification. - Added test case that shows the use of the test-kit JAR as a single dependency without the Gradle distribution. - Smaller fixes for some test cases.  +review REVIEW-5533  

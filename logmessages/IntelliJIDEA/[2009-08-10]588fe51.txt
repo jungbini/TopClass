@@ -1,0 +1,1 @@
+  DeferredIcon fix: now should relayout the tree if evaluated icon's width 

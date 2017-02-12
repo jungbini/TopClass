@@ -1,0 +1,1 @@
+  PY-16334: django rerun test fix  First time Django runner was used and correct locator was injected, but rerun uses FailedPythonTestCommandLineStateBase that knows nothing about Django. So, EP added to support any locator at any time  

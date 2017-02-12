@@ -1,0 +1,1 @@
+  convert to atomic: work for local variables; fixed up refernces  

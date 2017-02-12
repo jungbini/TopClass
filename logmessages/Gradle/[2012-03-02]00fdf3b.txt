@@ -1,0 +1,1 @@
+  GRADLE-2104: refactored SFTPServer Test fixtures implementation to use apache sshd instead of j2ssh to - have a much more simple implementation - have better diagnosis options - fix threading issues with j2ssh - get faster test execution  

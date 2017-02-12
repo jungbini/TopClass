@@ -1,0 +1,1 @@
+  try to fix VarArgTest  Accoring to spec array of class.getMethods() is not sorted, so we can't just call getMethods()[0] to get desired method.  

@@ -1,0 +1,1 @@
+ Fixed bug in documentation around threaded transactions.  Docs were referencing some very old syntax with newThreadedTx() when it should have been createThreadedTx().  

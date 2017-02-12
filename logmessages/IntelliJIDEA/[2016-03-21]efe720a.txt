@@ -1,0 +1,1 @@
+  fix line breaks in html notification  Let MultiRootMessage support <br/> line breaks. Actually use "<br/>\n" as html separator to make message look nicer even when not rendered (e.g. in tests).  

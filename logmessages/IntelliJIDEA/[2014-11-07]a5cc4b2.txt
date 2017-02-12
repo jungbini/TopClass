@@ -1,0 +1,1 @@
+  IDEA-130781 Log and file history fixed for files with spaces in name  

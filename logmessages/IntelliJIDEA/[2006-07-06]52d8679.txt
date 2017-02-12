@@ -1,0 +1,1 @@
+  Add <attribute> to Not Required HTML Attributes quickfix has disappeared (IDEADEV-6866)  

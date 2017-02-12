@@ -1,0 +1,1 @@
+  fixed bad performance for multi-special chars  

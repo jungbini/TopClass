@@ -1,0 +1,1 @@
+  PY-21183 Debugger state after accepting debugging script connection is connected  

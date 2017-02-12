@@ -1,0 +1,1 @@
+ another effort on fixing the transient error for Broker/CoordinatorServerViewTest happend on Travis build  

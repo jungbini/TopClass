@@ -1,0 +1,1 @@
+  prevent recursion in groovy class reference resolve, should fix IDEADEV-37708 SOE  

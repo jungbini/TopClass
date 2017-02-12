@@ -1,0 +1,1 @@
+  Patch by Artyom Loginov to fix the problem of Steven Thomer  

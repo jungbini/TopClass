@@ -1,0 +1,1 @@
+  Fix bug in StrictJavaDeps that was preventing jars on the bootclasspath from being exempted from StrictJavaDeps enforcement.  -- MOS_MIGRATED_REVID=87194169  

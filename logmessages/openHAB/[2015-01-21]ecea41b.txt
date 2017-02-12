@@ -1,0 +1,1 @@
+  bugfix: Changes in color should not result in changing brightness  

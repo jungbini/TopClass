@@ -1,0 +1,1 @@
+  Moved fixtures to a separate package...  This way we can have more reasonable package declaration in the tooling api compatibility runner. If the packge 'org.gradle.tests.fixtures' is ok the next step would be moving other classes to it for consistency. For now, I only moved a ConcurrenTestUtil to avoid a massive change.  

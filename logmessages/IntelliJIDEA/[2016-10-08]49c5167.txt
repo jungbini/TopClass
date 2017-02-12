@@ -1,0 +1,1 @@
+  gui-tests-framework: fixed branch after rebase (added missed fixtures); migrate to TransactionGuard policy in GuiTestBase; tests fixes  

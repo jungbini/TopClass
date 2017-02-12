@@ -1,0 +1,1 @@
+  IDEA-102301 (Don't recommend string switch statement quick-fix if string is @Nullable)  

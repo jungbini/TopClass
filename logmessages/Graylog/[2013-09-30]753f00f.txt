@@ -1,0 +1,1 @@
+  fix sidebar height problems. fixes #264  

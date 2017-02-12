@@ -1,0 +1,1 @@
+er before starting the sketch.  Fixes processing#2402  

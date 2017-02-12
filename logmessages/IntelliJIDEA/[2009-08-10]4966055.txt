@@ -1,0 +1,1 @@
+  groovy missing property inspection fixes  

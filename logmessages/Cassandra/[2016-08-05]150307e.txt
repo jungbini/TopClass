@@ -1,0 +1,1 @@
+ Merge branch 'cassandra-3.0' into cassandra-3.9  * cassandra-3.0: Ninja-fix test build  commit 150307e95c907939cd9c690f77d7b475edb86c9e  Ninja-fix test build  

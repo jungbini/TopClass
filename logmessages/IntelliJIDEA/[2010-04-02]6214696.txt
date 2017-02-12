@@ -1,0 +1,1 @@
+  fix introduce variable dialog to hide combobox popup on user type  

@@ -1,0 +1,1 @@
+  fix mvn-install target patch by stunnicliffe reviewed by dbrosius for CASSANDRA-5532  

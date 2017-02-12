@@ -1,0 +1,1 @@
+  Fixed bug on creating edges with no class  

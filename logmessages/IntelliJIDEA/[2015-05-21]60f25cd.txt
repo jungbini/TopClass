@@ -1,0 +1,1 @@
+  Debugger exits in multiprocess programs (PY-15007)  CheckOutputThread finishes debug session too early. The pause should be made in order to start all necessary threads in the new process tracing.  

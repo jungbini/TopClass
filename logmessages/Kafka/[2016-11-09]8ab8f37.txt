@@ -1,0 +1,1 @@
+  MINOR: fix typos and incorrect docs  Author: Xavier Laut <xavier@confluent.io>  Reviewers: Matthias J. Sax, Guozhang Wang  Closes #2112 from xvrl/minor-doc-fixes  

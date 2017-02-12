@@ -1,0 +1,1 @@
+  show hostname in health node list  fixes #WEBINTERFACE-344  

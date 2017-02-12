@@ -1,0 +1,1 @@
+  [NTI] Bugfix to preserve @abstract in a method when implementing an interface method.  See #104 on github.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=141782977  

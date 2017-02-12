@@ -1,0 +1,1 @@
+  Sometimes ago I have fixed how we call functions with receiver (pass explicitly instead of use implicit this). YEP! Now we can get rid of Kotlin.b* and use native function.bind method  (cherry-picked from f6550e9)  

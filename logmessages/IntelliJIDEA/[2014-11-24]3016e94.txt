@@ -1,0 +1,1 @@
+  fixed PY-6398 Hide "Package successfully installed" notification when you start installing another package  

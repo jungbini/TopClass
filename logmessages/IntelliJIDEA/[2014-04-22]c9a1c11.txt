@@ -1,0 +1,1 @@
+  apply laf once, fix stale bg, add beforeShown() & preselect laf-default editor scheme  

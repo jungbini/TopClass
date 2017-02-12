@@ -1,0 +1,1 @@
+ Merge pull request #18 from actorapp/feature/pubgroup-empty-bug  fix(rpc): zero friends/members in public group if user is not member  commit ad36beebe6772616efdc7894cab1fdc0556de386  fix(rpc): handleGetFileUploadPartUrl fails when same request comes twice  

@@ -1,0 +1,1 @@
+  fixed database left frozen in case of failed backup, issue #6309  

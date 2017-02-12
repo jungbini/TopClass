@@ -1,0 +1,1 @@
+  fix wording on radio inputs page  fixes #1077  

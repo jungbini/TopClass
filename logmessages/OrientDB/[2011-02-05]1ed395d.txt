@@ -1,0 +1,1 @@
+  Fixed bug on SQL and float/double conversion reported on ML  

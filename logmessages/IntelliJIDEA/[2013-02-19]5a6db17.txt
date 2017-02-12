@@ -1,0 +1,1 @@
+  [github] Add "Enterprise" to the list of possible user plans.  It fixes IDEA-101433, since unknown plan is treated as "free".  

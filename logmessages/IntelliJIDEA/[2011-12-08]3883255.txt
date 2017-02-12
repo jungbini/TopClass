@@ -1,0 +1,1 @@
+  fix wrong maximization under Alloy LaF  

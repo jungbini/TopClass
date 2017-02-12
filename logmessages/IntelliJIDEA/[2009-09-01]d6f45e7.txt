@@ -1,0 +1,1 @@
+  fix NPE when moving class in default package  

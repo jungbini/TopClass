@@ -1,0 +1,1 @@
+  fix for error reported. https://gist.github.com/724882 node.elements returned incorrect result.  

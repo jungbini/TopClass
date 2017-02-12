@@ -1,0 +1,1 @@
+  Code cleanup, updated TexturedSphere example, some more fixes  

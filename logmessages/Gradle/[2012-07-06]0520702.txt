@@ -1,0 +1,1 @@
+ fixed GRADLE-443: Generated POM dependencies do not respect custom artifactIds  

@@ -1,0 +1,1 @@
+  svn merge -c 1430917 from trunk for HDFS-4261. Fix bugs in Balaner causing infinite loop and TestBalancerWithNodeGroup timeing out.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1488855 13f79535-47bb-0310-9956-ffa450edef68  

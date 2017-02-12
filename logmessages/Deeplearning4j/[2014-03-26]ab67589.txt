@@ -1,0 +1,1 @@
+  added quick fix for handling cases where worker port is unspecified  

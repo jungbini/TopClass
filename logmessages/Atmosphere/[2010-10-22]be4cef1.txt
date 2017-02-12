@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=58 (" Shared BroadcasterConfig instance ")  We are now back with 1-1 relation.  

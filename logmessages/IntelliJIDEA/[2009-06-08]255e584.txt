@@ -1,0 +1,1 @@
+  make public static void fix for @Before/@AfterClass (IDEADEV-13408)  

@@ -1,0 +1,1 @@
+  Rename root hadoop config root ns to "faunus"  Now that we've decided to retain Faunus as an internal tech codename, I think it's a better choice for the normally-invisible root of the configuration namespace hierarchy used in titan-hadoop.  Looking at "h-root" sucks when debugging.  

@@ -1,0 +1,1 @@
+  Git and Hg repository structure fixed  *Common methods moved to AbstractRepositoryManager *update config method called from HgRepo using separate event queue in HgRepositoryUpdater is case hgrc file changed *HgConfig doesn't implement HgUpdater interface *Do not reuse old HgConfig, just create new instance in HgRepository  

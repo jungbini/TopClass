@@ -1,0 +1,1 @@
+  IDEA-105595 Select last search / replace string in Find and Replace, even simplier fix  

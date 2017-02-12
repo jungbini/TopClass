@@ -1,0 +1,1 @@
+  RunnerLayoutUi fixes for Gregory - close view -> minimize view  

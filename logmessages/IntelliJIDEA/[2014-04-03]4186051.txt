@@ -1,0 +1,1 @@
+  presentation mode fixes: IDEA-123043, IDEA-122892  

@@ -1,0 +1,1 @@
+  fix KT-9843 Bug in incremental compilation: module is not recompiled when optional parameter added and KT-8434 Removing parameter with default value from function in 

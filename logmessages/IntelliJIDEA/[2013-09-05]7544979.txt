@@ -1,0 +1,1 @@
+  fixed EA-48280 - assert: CompositeElement.addChild  

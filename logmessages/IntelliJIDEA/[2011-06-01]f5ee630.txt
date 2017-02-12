@@ -1,0 +1,1 @@
+  a better NPE fix, some space around the log icon  

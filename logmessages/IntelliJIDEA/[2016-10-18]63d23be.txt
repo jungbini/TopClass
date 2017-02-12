@@ -1,0 +1,1 @@
+  build.xml for community: fixed OutOfMemory during compilation  

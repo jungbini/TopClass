@@ -1,0 +1,1 @@
+  JS backend: fix KT-6323: KotlinJS library modules  #KT-6323 Fixed  

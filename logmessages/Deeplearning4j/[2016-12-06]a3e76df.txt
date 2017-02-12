@@ -1,0 +1,1 @@
+ Compgraph score training param (output layer) + fix labeled point method signature  

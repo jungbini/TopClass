@@ -1,0 +1,1 @@
+  fix division by zero in IDEA-118443 UI hang on console hyperlink calculation  

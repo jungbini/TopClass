@@ -1,0 +1,1 @@
+  fixed  PY-6071 Django Testing in PyCharm Doesn't Load Fixtures  

@@ -1,0 +1,1 @@
+  assertion fixed: find files using indexes under read action  

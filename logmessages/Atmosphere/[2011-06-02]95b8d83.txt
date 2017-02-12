@@ -1,0 +1,1 @@
+  Fix for http://java.net/jira/browse/ATMOSPHERE-121 ("jQuery plugin bug in removeCallback function")  Patch provided by tinhtruong  

@@ -1,0 +1,1 @@
+ Merge pull request #1723 from guobingkun/fix_typo  fix typo in segments.md  commit e222e6b86be12832a76f77c522a9f253d9bb3da3  fix typo in segments.md  

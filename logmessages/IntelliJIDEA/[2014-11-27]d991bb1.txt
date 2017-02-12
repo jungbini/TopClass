@@ -1,0 +1,1 @@
+  Messages TW: fix hidden toolbar layout  

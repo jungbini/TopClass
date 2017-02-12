@@ -1,0 +1,1 @@
+  fix javadoc incremental reparse; add diagnostics for stub-ast mismatches caused by such events  

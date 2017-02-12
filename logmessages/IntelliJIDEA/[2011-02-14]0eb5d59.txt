@@ -1,0 +1,1 @@
+  xdebugger: alt+click in editor immediately show tree popup for complex values (as in java debugger)  

@@ -1,0 +1,1 @@
+  setDebugMode(false) can lead to significant performance improvements indeed  

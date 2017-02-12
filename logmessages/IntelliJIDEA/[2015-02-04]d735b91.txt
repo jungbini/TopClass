@@ -1,0 +1,1 @@
+  IDEA-126539 Debugger: allow to see full value for long strings without resizing variables window  

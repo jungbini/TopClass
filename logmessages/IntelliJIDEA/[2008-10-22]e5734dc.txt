@@ -1,0 +1,1 @@
+  [revd Anton.Makeev]: Strip prefix and suffix as reported by commenter before matching with PsiComment found. Ruby reports prefix prepended with \n to ensure comment will be inserted to the first column.  

@@ -1,0 +1,1 @@
+ Bug fix. Bug occurs when you have the same applicationName node  

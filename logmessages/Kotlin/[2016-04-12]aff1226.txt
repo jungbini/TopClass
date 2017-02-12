@@ -1,0 +1,1 @@
+  Update ChangeLog with issues fixed since 1.0.2-eap-15  

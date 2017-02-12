@@ -1,0 +1,1 @@
+  decompiler: fixed incorrect method references from single letter classes  

@@ -1,0 +1,1 @@
+  Get loaded_parser_version to parse a version string with a suffix correctly.  Libxml2 built from a VCS checkout will have a version string that looks like "020800-GITv2.8.0".  

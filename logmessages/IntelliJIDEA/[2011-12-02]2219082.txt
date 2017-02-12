@@ -1,0 +1,1 @@
+  fixed PY-5193 Move Statement: do not allow to move break and continue statements out of a loop  

@@ -1,0 +1,1 @@
+  Pydev.Debugger updated to the latest snapshot of template_debugging branch.  

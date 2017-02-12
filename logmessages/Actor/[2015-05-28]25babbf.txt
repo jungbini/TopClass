@@ -1,0 +1,1 @@
+  feat(enrich): #fixed #31 add logging to rich message worker and preview maker  

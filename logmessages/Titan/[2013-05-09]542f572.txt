@@ -1,0 +1,1 @@
+verts the StaticBuffers back to ByteBuffers.  I'd still rather find a way to let the compiler typecheck the method call in question without running aground on ambguous signatures.  

@@ -1,0 +1,1 @@
+  fix: after deletion of files that previously could not be compiled (had errors), those paths were not recognized as deleted and could be scheduled for recompilation  

@@ -1,0 +1,1 @@
+  fixed performance of DataNode#hashCode  

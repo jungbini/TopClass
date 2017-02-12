@@ -1,0 +1,1 @@
+  avoid NPE in selectFolder() on OS X (fixed #3661)  

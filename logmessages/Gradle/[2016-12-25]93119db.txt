@@ -1,0 +1,1 @@
+  In-memory caches should implement `Stoppable`  This should fix errors seen on CI on Windows  

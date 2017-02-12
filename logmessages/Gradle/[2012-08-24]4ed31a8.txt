@@ -1,0 +1,1 @@
+ Updated release notes, mentioned removal of configurations from the dependency report, fixed the link.  

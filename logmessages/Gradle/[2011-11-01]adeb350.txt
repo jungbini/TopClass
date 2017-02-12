@@ -1,0 +1,1 @@
+  Make the daemon connector connect timeout a property instead of requiring it at construction time.  (I also had to fix some previous errors that were preventing tests from passing)  

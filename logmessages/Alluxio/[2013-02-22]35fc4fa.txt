@@ -1,0 +1,1 @@
+  Added debugging in UI, fixed bugs in browsing file system  

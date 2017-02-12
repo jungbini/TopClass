@@ -1,0 +1,1 @@
+  Various corrections to jQuery 1.9 externs  Updates a few extern signatures. Also removes $.support.fixedPosition and $.support.scriptEval .  

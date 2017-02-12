@@ -1,0 +1,1 @@
+  Minor usability fixes for the incremental deployment stub application:  - Pass a File around for cacheDir instead of its String name. It was needlessly converted to String, which made the stub application fail if cacheDir was null (odd, but seems to happen) - Enhance a log message so that it contains more than zero information  -- MOS_MIGRATED_REVID=103928940  

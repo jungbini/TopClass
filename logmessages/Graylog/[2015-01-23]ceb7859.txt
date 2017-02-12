@@ -1,0 +1,1 @@
+  Update travis-ci npm to fix installation issues  

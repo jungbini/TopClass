@@ -1,0 +1,1 @@
+  Bug fix: IDEA can not determinate type for synthetic parameter 'it' in validation closure.  

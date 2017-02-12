@@ -1,0 +1,1 @@
+  fix for curvepoint init and imports for javascript classes  

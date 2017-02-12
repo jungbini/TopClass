@@ -1,0 +1,1 @@
+  fix assertion on surround with and non-grid layout (IDEADEV-10179)  

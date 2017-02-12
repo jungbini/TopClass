@@ -1,0 +1,1 @@
+  Workaround for another JDK bug in cached popups.  

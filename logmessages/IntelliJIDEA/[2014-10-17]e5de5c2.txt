@@ -1,0 +1,1 @@
+  DevKit: in IDEA project, fix rename handling when PsiClass and definition in XML are in unrelated modules  

@@ -1,0 +1,1 @@
+  fix(server:groups): push empty members list on group delete for old API  

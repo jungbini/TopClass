@@ -1,0 +1,1 @@
+  Android module: Try to fix bug with incorrect path to ini file on Windows  

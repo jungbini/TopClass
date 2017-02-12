@@ -1,0 +1,1 @@
+  Fix bad distribution of cache keys across nodes  With the existing hash function some nodes could end up with 3 times the number of keys as others. The following changes improve that to roughly less than 5% 

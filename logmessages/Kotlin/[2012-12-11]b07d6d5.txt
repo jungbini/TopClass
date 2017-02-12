@@ -1,0 +1,1 @@
+  Escaping keywords used as identifiers in DescriptorRenderer.  #KT-2810 fixed  

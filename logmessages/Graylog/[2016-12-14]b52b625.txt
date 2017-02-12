@@ -1,0 +1,1 @@
+  Remove java.util.Date workaround now that we correctly serialize DateTime (#3202)  Serialization of DateTime has been fixed in #3198.  

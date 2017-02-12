@@ -1,0 +1,1 @@
+  IDEA-92790 fix running app on emulator with launched ddms  

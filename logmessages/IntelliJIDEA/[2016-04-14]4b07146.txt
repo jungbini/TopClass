@@ -1,0 +1,1 @@
+  [platform] fixes binary process handler  

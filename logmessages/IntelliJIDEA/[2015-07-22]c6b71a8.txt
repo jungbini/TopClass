@@ -1,0 +1,1 @@
+  show debugger error hints as other hints  

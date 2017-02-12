@@ -1,0 +1,1 @@
+  fix "Inspection suppression annotation" inspection quickfix for suppression annotations  

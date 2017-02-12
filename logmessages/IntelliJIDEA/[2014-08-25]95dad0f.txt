@@ -1,0 +1,1 @@
+  notify user if fix all failed to start any fix (IDEA-41911)  

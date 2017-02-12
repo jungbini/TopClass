@@ -1,0 +1,1 @@
+Author: Krishna Ramachandran <ramach@yahoo-inc.com> Date:   Thu Oct 21 12:21:50 2010 -0700  . Delete PrintWriter using iterator to fix java.util.ConcurrentModificationException (dking)   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077739 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  #IDEA-86620 fixed  - add respective icons in CSS completion list for selectors, tags and elements  

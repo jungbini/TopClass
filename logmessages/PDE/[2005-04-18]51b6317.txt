@@ -1,0 +1,1 @@
+  fix sketch saving issue, and make default stroke cap be ROUND  

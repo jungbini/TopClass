@@ -1,0 +1,1 @@
+  fix DELETE VERTEX from subquery  A query like DELETE VERTEX V FROM (select from ) was not parsed correctly.  Porting this fix from branch 2.1.x to develop (2.2).  Resolves: #4523  

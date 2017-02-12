@@ -1,0 +1,1 @@
+  fixes #495  Xerces will close the InputSource which closes the InputStream of the RubyIO that was passed to Nokogiri::XML. This closes the underlying FileDescriptor that is maintained internally by JRuby while the RubyIO object is still referencing it, which causes a BadFileDescriptor when RubyIO#close is called.  

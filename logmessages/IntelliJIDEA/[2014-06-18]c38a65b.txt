@@ -1,0 +1,1 @@
+  Fix "Replace type parameter with actual class" quickfix when class has type parameter  

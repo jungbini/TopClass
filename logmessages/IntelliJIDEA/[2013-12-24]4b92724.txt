@@ -1,0 +1,1 @@
+  one more fix for IDEA-111701 Emacs: pressing Ctrl+k several times should add lines to muti-line buffer  reverted check for caret position  

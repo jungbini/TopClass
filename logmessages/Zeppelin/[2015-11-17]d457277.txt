@@ -1,0 +1,1 @@
+6e [Damien CORNEAU] Re-activate karma test results on the CLI  

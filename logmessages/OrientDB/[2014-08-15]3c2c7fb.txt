@@ -1,0 +1,1 @@
+ fixed embedded set and embedded map detection, improved otype algorigthm.  

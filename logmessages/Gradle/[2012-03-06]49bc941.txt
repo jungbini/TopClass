@@ -1,0 +1,1 @@
+  Log levels passed as build arguments now are correctly interpreted by the tooling api provider. This means that the tooling api client can now use stuff like --debug, --info for the build arguments.  

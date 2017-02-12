@@ -1,0 +1,1 @@
+  Really fix CM.setConcurrentCompactors, include test coverage for such  Fixes 979af884 and b80ef9b25 for CASSANDRA-12248  

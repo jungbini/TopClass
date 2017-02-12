@@ -1,0 +1,1 @@
+  svn: Use default working directory (instead of IDEA home directory) when setting svn properties values for svn command line client - previously IDEA home directory was used as workaround for setting "svn:ignore" property with wildcard values, which is now fixed by passing properties values through temporary files (see 9a001c751ac053b7d3bd8e96bd63bcf3903f9fa3)  

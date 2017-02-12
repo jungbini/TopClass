@@ -1,0 +1,1 @@
+  bounds check with setVertex(PVector) (fixes #2556)  

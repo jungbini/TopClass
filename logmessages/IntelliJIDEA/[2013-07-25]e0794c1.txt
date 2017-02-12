@@ -1,0 +1,1 @@
+  fixed PY-10152 Web2py: restore parser after not closed tags  

@@ -1,0 +1,1 @@
+  fix for blue video when loading movies on intel macs  

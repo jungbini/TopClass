@@ -1,0 +1,1 @@
+  fixed validation on creating virtualEnv and conda  

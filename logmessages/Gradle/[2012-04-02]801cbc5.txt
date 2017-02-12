@@ -1,0 +1,1 @@
+  GRADLE-2167: Drive Findbugs api directly. - Replace fb invocation via reflection by direct invocation. - Add needed fb related libraries via "provided" configuration to codeQuality project. - Refactor findbugs result to use values directly from findbugs2 instance. - MissingClassesCount does not cause failing fb task; use same defaults here as the prior fb ant task.  

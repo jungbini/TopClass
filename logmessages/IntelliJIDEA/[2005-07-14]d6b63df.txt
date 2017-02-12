@@ -1,0 +1,1 @@
+  Add more debug for http://www.jetbrains.net/jira/browse/FBQ-12592  

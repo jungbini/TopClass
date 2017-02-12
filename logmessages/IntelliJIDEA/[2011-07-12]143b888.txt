@@ -1,0 +1,1 @@
+  remove unnecessary synchronization and advance attribute format version to fix EOFs  

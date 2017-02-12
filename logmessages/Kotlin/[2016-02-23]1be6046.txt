@@ -1,0 +1,1 @@
+  Minor refactorings in legacy codegen tests  Use loadFile() + getPrefix() instead of loadFile(String)  

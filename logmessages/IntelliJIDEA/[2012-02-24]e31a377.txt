@@ -1,0 +1,1 @@
+  fix scroll in view on selecting tab from "more tabs" popup  

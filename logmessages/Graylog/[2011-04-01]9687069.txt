@@ -1,0 +1,1 @@
+  mad performance fixes. this reduced the time to handle a message by ~50%. thank you, profiler #winning  

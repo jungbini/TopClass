@@ -1,0 +1,1 @@
+  Add SearchUnaryOptions and SearchNullaryOptions to improve the parsing of the startup options.  This allows us to do the following: - Avoid using the product name when reporting startup option parsing errors. - Passing --bazelrc as a command argument throws an error (fix for issue #1659).  -- PiperOrigin-RevId: 141445030 MOS_MIGRATED_REVID=141445030  

@@ -1,0 +1,1 @@
+  Fix broken TestMasterFailover test -- needed .tableinfo defined before test started... part of the repercussions from hbase-451; I don't this fixes all TestMasterFailover failures but at least a few obvious failures  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1146495 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  fixed PY-2716 Can't run Doctest under python 2.4: AttributeError: 'module' object has no attribute 'SKIP'  

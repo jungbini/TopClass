@@ -1,0 +1,1 @@
+  fixed renaming in standard schemas  

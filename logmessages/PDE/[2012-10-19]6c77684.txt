@@ -1,0 +1,1 @@
+  modify OS X version for Apple workarounds; implement fix 32-bit install issues (issue #1312)  

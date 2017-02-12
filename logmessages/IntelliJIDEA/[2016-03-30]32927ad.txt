@@ -1,0 +1,1 @@
+  restored previous variant of 'invoke' method to fix API compatibility  

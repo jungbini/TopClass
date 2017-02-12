@@ -1,0 +1,1 @@
+  - Bundled JFlex: apply fix for http://sourceforge.net/p/jflex/bugs/118/ (IDEA-138062) - Disable constructor generation with InputStream parameter by default  

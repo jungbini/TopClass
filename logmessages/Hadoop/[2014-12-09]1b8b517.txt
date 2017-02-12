@@ -1,0 +1,1 @@
+  HADOOP-11367. Fix warnings from findbugs 3.0 in hadoop-streaming. Contributed by Li Lu.  

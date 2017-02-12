@@ -1,0 +1,1 @@
+  fix tombstone handling in repair andsstable2json patch by slebresne; reviewed by jbellis for CASSANDRA-2279  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1081525 13f79535-47bb-0310-9956-ffa450edef68  

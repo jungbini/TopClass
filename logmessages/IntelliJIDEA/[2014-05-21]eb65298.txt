@@ -1,0 +1,1 @@
+  IDEA-125287 [new Java debugger] trimmed string value in Variables view  

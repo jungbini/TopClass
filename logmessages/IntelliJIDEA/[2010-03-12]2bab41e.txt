@@ -1,0 +1,1 @@
+  Maven: ivalid VirtualFile access fix + correctly registering postStartupActivity  

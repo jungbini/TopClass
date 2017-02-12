@@ -1,0 +1,1 @@
+  message box color fix (IDEADEV-12416)  

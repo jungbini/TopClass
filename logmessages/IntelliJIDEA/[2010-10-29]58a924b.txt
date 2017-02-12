@@ -1,0 +1,1 @@
+  Minor JavaScript library management/UI fixes  

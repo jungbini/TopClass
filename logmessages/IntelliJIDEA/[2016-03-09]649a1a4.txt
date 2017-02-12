@@ -1,0 +1,1 @@
+  debugger: fixed variables visibility in for statements evaluation  

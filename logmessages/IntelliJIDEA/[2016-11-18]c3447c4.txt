@@ -1,0 +1,1 @@
+  load idea project via jps for real: show progress & better module-libs fix  

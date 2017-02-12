@@ -1,0 +1,1 @@
+  Create separate NativeBinary(s) for each flavor of a NativeComponent  - Create NativeBinary name based on flavor+component+type - Don't add flavor prefix for "default" flavor  

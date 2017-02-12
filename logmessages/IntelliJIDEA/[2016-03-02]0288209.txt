@@ -1,0 +1,1 @@
+  ActionPlaces: introduce generic TOOLBAR, RUNNER_TOOLBAR places & fix missing "Pin" icon  

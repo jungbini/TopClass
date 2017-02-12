@@ -1,0 +1,1 @@
+  Fixed bug on using functions in traversing  

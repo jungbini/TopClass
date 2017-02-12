@@ -1,0 +1,1 @@
+  fix final checking in inner, nested and anoymous classes  

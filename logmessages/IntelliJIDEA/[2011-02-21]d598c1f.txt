@@ -1,0 +1,1 @@
+  fixed PY-2970 Join 2 if's intention alters behavior of code  

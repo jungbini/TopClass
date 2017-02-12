@@ -1,0 +1,1 @@
+  Recent change that avoids eager resolution of testCompile and testRuntime configurations also fixed a minor problem with '--no-rebuild' switch. Updated the integ test to reflect that.  

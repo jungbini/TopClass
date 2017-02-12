@@ -1,0 +1,1 @@
+  Spring: 1. "insert bean dependency" action(IDEA-56620) and 2. Generate @Qualifier quick fix  

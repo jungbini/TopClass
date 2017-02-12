@@ -1,0 +1,1 @@
+  new targa image saver that also supports alpha, plus some doc fixes  

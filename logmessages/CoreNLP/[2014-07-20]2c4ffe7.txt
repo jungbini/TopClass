@@ -1,0 +1,1 @@
+  Fix bug in printFeatures, if printFeaturesUpto hasn't been specified  

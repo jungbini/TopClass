@@ -1,0 +1,1 @@
+  Handle overlapping source jars  JavaBuilder overwrites files when extracting source jars, silently ignoring duplicates. It it'd be better if it didn't, but until it's fixed turbine should have the same behaviour.  -- MOS_MIGRATED_REVID=118487939  

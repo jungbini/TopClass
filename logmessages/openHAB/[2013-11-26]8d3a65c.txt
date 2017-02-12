@@ -1,0 +1,1 @@
+  - Added encoding of variable length bigdecimal values as Z-Wave fixed point numbers  

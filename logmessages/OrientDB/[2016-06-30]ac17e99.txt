@@ -1,0 +1,1 @@
+  Issue #6269 Issue with empty read buffers was fixed.  

@@ -1,0 +1,1 @@
+  fix Peter and highlighting perf: do not run several same passes for one document  

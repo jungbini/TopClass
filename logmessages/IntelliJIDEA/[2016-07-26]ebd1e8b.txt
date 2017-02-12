@@ -1,0 +1,1 @@
+  do not show failed debugger start notification if the process died before attach  

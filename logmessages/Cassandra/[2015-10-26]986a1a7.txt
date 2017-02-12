@@ -1,0 +1,1 @@
+  10579: fix NativeCell behaviour when clustering components > 32K in size  

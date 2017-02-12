@@ -1,0 +1,1 @@
+  Align debugger "tab" headers to the left.  

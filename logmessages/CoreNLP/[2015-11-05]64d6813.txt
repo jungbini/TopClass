@@ -1,0 +1,1 @@
+  Bumping loglinear to version 1.2.3, with a bunch of speedups and fixes, both formatting and functionality  

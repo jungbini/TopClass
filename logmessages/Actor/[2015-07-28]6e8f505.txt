@@ -1,0 +1,1 @@
+  fix(iOS): Fixing joining to group  

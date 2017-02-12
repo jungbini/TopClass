@@ -1,0 +1,1 @@
+  Use CxxPreprocessAndCompile factory functions in CxxCompilationDatabaseTest  Summary: The separated case in `runCOmbinedTest` was broken, this updates that case to conform to the contents of its originally separate test case, and delete that test case.  Also fix copy pasted typos.  Test Plan: CI  

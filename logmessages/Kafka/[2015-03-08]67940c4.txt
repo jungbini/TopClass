@@ -1,0 +1,1 @@
+  KAFKA-2009 Fix two minor bugs in mirror maker.  

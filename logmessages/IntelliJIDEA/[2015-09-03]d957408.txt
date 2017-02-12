@@ -1,0 +1,1 @@
+  IDEA-144670 IDEA hangs after I tried restart debugging test  

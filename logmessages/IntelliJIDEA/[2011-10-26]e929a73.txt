@@ -1,0 +1,1 @@
+  IDEA-49806 html parsing bug with script / xmp  

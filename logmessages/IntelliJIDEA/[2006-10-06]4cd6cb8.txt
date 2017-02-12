@@ -1,0 +1,1 @@
+  fixing resetting selection when both to- and from- source scrolling is enabled  

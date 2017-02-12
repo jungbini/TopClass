@@ -1,0 +1,1 @@
+  IDEA-140321 Wrong current line highlighting when debugging synchronized block in decompiled code  

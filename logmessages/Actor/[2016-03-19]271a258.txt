@@ -1,0 +1,1 @@
+  fix(server:files): use custom rejection when file signature is invalid  

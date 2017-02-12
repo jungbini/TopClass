@@ -1,0 +1,1 @@
+  Ensure the user supplied manifest is preferred when building a java_binary.  Summary: Values from a user supplied manifest should override the values contained in manifests from jars that have been are being combined to form the uberjar.  This fixes issue 44.  Test Plan: buck test --all  

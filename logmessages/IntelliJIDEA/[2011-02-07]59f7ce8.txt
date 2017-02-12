@@ -1,0 +1,1 @@
+  fixed PY-2828 nosetest runner intermittently fails to catch errors  

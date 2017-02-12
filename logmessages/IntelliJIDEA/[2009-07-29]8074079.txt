@@ -1,0 +1,1 @@
+  extract method: prepare method before fix folded usages  

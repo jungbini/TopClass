@@ -1,0 +1,1 @@
+  Fixed int test for changes to binary name handling.  The lifecycle task and output directory of a custom JarBinarySpec is now prefixed with the owning component's name.  

@@ -1,0 +1,1 @@
+  fixed bug with compilation of this/outer. no need to check context hierarchy for superclasses except case of super call.  

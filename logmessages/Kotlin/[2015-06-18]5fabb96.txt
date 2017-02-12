@@ -1,0 +1,1 @@
+  Private constructors are now accessed via synthetic constructor with DEFAULT_CONSTRUCTOR_MARKER as an additional argument #KT-6299 Fixed  A set of tests provided. Some external tests fixed accordingly. Companion object creation changed accordingly. Derived classes now can use base class with the private constructor. Refactoring of AccessorForFunctionDescriptor.  

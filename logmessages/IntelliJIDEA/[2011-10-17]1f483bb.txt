@@ -1,0 +1,1 @@
+  EA-30004 - assert: AbstractBlockAlignmentProcessor.applyAlignment  Debug info is added  

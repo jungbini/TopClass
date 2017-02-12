@@ -1,0 +1,1 @@
+  bugfix: \n at the end of commands prevents event being parsed correctly - enhances regexp to match these events, too  

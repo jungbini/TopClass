@@ -1,0 +1,1 @@
+  Support for prefix queries and regular expressions in full text search.  

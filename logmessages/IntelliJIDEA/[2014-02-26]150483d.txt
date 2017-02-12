@@ -1,0 +1,1 @@
+  fixed PY-12271 Project Interpreter: not able to set interpreter from Project Interpreters dialog when there are duplicated items in the list  

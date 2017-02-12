@@ -1,0 +1,1 @@
+  Revert CASSANDRA-5577 to fix CASSANDRA-6025 and add test patch by jbellis  

@@ -1,0 +1,1 @@
+  fixed a bug in ModeContribution: looking for className was not stopped after it was found. added check and break on line 97  

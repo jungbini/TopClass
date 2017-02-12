@@ -1,0 +1,1 @@
+  fix(server:messaging): save lastMessageDate on outgoing messages  

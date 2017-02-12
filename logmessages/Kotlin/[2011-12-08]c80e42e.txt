@@ -1,0 +1,1 @@
+  KT-472 Strange bug with resolve - 3  

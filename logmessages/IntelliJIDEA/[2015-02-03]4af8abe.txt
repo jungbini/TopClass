@@ -1,0 +1,1 @@
+  RUBY-16245: let's support typed scalar lists (quick and dirty fix)  

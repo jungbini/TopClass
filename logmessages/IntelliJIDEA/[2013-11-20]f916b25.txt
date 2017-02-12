@@ -1,0 +1,1 @@
+  problem with several hashes argument in mercurial log fixed  *prepareHashes for log updated; *array changed to list  

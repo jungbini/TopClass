@@ -1,0 +1,1 @@
+  Review fixes for smart casts in / out loops.  LoopTypeInfo became TypeInfoWithJumpInfo rewritten in Kotlin. Fixed a bug with break inside Elvis inside a loop, a pack of related tests added. isTrueConstant moved to JetPsiUtil.  

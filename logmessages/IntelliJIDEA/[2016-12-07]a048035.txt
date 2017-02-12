@@ -1,0 +1,1 @@
+  nodejs rc producer using yml config file  fix isConfigurationFromContext (standard nodejs rc should be not used if configured detected)  

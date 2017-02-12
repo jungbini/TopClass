@@ -1,0 +1,1 @@
+  fixed issue with resolve of types with ns prefix  

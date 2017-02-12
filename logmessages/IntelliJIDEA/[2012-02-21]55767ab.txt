@@ -1,0 +1,1 @@
+  Fixed suspend in remote debug (PY-5790)  

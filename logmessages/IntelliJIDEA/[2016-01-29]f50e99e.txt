@@ -1,0 +1,1 @@
+  [platform] fixes direct access to internal JDK API  

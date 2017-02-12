@@ -1,0 +1,1 @@
+  Fix bug where some MISTYPED_ASSIGN_RHS warnings were not using the new error-message functionality and appear garbled. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=122301692  

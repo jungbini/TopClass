@@ -1,0 +1,1 @@
+  PY-18733 Consider return type collected by debugger in generated docstrings  Don't add empty type annotation for return value inside generated docstring unconditionally in PyDocstringGenerator. It should really be found in PyDocstringGenerator#prepareParameters().  

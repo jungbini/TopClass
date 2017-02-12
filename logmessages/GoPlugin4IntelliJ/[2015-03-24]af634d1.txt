@@ -1,0 +1,1 @@
+  better reference for struct fields, fix #1476  

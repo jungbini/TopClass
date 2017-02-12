@@ -1,0 +1,1 @@
+  Defer calling gradle.getTaskGraph() until projectsEvaluated  - fixes problem with parallel execution  +review REVIEW-5972  

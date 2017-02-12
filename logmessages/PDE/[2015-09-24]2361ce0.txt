@@ -1,0 +1,1 @@
+  implement breakpoint diamond and step arrow (fixes #3307)  

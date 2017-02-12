@@ -1,0 +1,1 @@
+  make elasticsearch index name configurable  fixes #SERVER-81  

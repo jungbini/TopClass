@@ -1,0 +1,1 @@
+ EditorHeaderComponent: top border fixes for Linux and Windows  

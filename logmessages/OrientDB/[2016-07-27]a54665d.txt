@@ -1,0 +1,1 @@
+  Parallel query: fixed issue with transactions  When transactions are running, the parallel doesnt work because the way the database is cloned between threads It doesnt take in account the transaction data structures in db.copy()  

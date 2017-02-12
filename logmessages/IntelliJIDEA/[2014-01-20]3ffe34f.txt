@@ -1,0 +1,1 @@
+  fix java.lang.NullPointerException at com.intellij.ide.browsers.StartBrowserPanel$3.chosenFileToResultingText(StartBrowserPanel.java:143)  

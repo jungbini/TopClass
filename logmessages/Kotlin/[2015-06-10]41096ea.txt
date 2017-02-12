@@ -1,0 +1,1 @@
+  JS/RTTI: avoid possible side-effect for is-check on nullable type #KT-7038 fixed  

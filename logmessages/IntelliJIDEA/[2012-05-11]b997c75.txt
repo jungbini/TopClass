@@ -1,0 +1,1 @@
+  fixed PY-6548 @type in class docstrings does not recognize class variables  

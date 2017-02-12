@@ -1,0 +1,1 @@
+  check debug info errors in diagnostic tests  

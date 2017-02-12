@@ -1,0 +1,1 @@
+  fix NPE when no input fields given for aggregator  

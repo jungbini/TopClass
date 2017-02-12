@@ -1,0 +1,1 @@
+  fixed  PY-8374 Unnecessary backslash (line continuation) when moving import to next lines  

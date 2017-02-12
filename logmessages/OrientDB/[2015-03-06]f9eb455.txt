@@ -1,0 +1,1 @@
+  fixed issue #3718 - new parser did not properly recognize complex targets  

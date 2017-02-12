@@ -1,0 +1,1 @@
+  fixed deadlock while freezing atomic opeartions from the atomic operation #6332  

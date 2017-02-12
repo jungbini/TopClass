@@ -1,0 +1,1 @@
+  Fix a bug where the warning message is logged in wrong occasion.  

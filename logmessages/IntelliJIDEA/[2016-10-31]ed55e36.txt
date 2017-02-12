@@ -1,0 +1,1 @@
+  [java] fixes a tread leakage in process proxy  

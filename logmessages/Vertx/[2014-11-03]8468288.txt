@@ -1,0 +1,1 @@
+ File instead of String operations and fixes an issue where the jar couldn't be extracted if it was manipulated with jar command, which apparently puts the dirs after the files on updates)  Signed-off-by: Alex <alexlehm@gmail.com>  

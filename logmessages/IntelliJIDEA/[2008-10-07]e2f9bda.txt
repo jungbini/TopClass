@@ -1,0 +1,1 @@
+  on IDEADEV-30932 assert: CompletionData.getReferencePrefix  

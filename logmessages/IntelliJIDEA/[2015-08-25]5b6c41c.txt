@@ -1,0 +1,1 @@
+  merge: fix NPE if UndoManager not found  

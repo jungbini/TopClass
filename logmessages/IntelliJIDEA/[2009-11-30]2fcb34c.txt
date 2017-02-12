@@ -1,0 +1,1 @@
+  prefixed SpellCheckerCompletion id with com.intellij.spellchecker to avoid clashing with old spellchecker plugin  

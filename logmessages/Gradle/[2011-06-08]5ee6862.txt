@@ -1,0 +1,1 @@
+  Added a toString() on DefaultConfiguration and DefaultConfigutationContainer.  -Facilitates in-build-script println-ing of dependencies and artifacts in a beautiful way. -Provides better debugging visibility into the Configuration objects.  

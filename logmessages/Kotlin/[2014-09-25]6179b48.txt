@@ -1,0 +1,1 @@
+  Debugger: fix className for properties in class objects  

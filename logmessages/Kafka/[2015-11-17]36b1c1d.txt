@@ -1,0 +1,1 @@
+  MINOR: fix shutdownHook in ConsoleConsumer  Author: Confluent <confluent@Confluents-MacBook-Pro.local>  Reviewers: Jun Rao <junrao@gmail.com>  Closes #548 from guozhangwang/HFConsoleConsumer  

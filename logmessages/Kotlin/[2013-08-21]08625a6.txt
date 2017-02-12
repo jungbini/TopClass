@@ -1,0 +1,1 @@
+  Local returns are only allowed with explicitly specified return types  This is a temporary limitation: otherwise type inference is having trouble to account for all the returned expressions. We will fix the inference and remove the limitation  

@@ -1,0 +1,1 @@
+e [Jeff Zhang] fix typo eb7ec27 [Jeff Zhang] add flag to enable display app info in frontend a087a1d [Jeff Zhang] ZEPPELIN-1430. Display appId and webui link in LivyInterpreter's output  

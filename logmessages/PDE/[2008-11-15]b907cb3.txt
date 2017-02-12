@@ -1,0 +1,1 @@
+  working on bug #1010, show sketch folder problems on macosx  

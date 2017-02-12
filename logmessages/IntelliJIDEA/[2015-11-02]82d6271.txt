@@ -1,0 +1,1 @@
+ IG: use quickfix text "Remove qualification" if fully qualified name is already imported  

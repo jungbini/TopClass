@@ -1,0 +1,1 @@
+  Normalized paths fixes ant tests on Windows  

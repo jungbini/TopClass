@@ -1,0 +1,1 @@
+  Revert: IDEA-92876 Gradle plugin causes -javaagent to appear when running my application  Reverting the fix as it breaks JetGradle compatibility with the released v.12.0  

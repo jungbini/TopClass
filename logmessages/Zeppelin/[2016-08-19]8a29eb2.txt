@@ -1,0 +1,1 @@
+ - scatterChart and stackedAreaChart label bug fixed  

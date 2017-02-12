@@ -1,0 +1,1 @@
+  perf fix: don't go looking for fields assigned nearby if we have a good result from the type itself  

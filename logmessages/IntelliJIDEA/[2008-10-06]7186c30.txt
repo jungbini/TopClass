@@ -1,0 +1,1 @@
+  SplitTagAction -> XmlSplitTagAction (to fix intention description assertion on startup)  

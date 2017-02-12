@@ -1,0 +1,1 @@
+  Move the check for goog.scope aliases into the strictMissingRequires group because there is a lot of existing code that violates it by creating an alias for a prefix of a required name, instead of a required name itself. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=126116204  

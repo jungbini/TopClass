@@ -1,0 +1,1 @@
+  EA-28970 - assert: FileManagerImpl.findFile (PropertiesBundleEditor fixed)  

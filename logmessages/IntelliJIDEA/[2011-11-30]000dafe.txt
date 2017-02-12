@@ -1,0 +1,1 @@
+  IDEA-72630: XSLT debug: setting breakpoint just after session completion causes irrelevant message or DSE at RemoteDebuggerClient.handleRemoteException()  

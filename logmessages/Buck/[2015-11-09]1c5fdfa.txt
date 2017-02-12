@@ -1,0 +1,1 @@
+  Ask xctool to tell apple_test() to write logs to buck-out  Summary: Similar to my previous 

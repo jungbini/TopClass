@@ -1,0 +1,1 @@
+  Fixed bug reported in ML when a MAP is un/marshalled to JSON  

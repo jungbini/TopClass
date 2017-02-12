@@ -1,0 +1,1 @@
+  ensure field prefixes/suffixes are stripped on getters/setters generation (IDEA-136777)  

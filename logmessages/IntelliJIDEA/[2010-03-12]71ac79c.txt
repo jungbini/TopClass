@@ -1,0 +1,1 @@
+  js debugger: show error message when breakpoint is set in jsp file  

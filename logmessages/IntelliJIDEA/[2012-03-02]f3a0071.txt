@@ -1,0 +1,1 @@
+  simplify GroovyBuilder, only add javac sourcepaths if stub generation was successful, add debuggability  

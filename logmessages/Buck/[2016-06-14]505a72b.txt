@@ -1,0 +1,1 @@
+  Parse message from stacktrace to be consistent with java_test  Summary: Currently android_instrumentation_test() will show "null" for its message in the output, which is confusing and inconsistent with java_test. This fixes that.  Test Plan: unit tests. Also tested with fbandroid.  Reviewed By: asm89  fbshipit-source-id: edf2cc9  

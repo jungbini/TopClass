@@ -1,0 +1,1 @@
+  MINOR: Fix FileStreamSourceTask to create the reader around System.in when using stdin as the input source.  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Gwen Shapira  Closes #251 from ewencp/minor-fix-filestream-stdin-source  

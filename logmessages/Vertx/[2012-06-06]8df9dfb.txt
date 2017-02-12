@@ -1,0 +1,1 @@
+  Workaround for java 7 bug: http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=7142172  

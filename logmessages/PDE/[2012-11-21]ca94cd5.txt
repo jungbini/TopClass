@@ -1,0 +1,1 @@
+  sets the ambient color in PShapeOpenGL when setting fill for the first time, fixes issue 1342  

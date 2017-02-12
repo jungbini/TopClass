@@ -1,0 +1,1 @@
+  1. Command-line options conflict check. 2. Fixed bugs in exclude processing. 3. Fixed bug in dependency processing. 4. Empty output folder use case workaround implemented.  

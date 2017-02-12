@@ -1,0 +1,1 @@
+  testdata navigation: replace home made cache with cached value cleared on structure change (IDEA-131018) fix compilation for JDK6  

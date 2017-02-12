@@ -1,0 +1,1 @@
+  FormatPostfixTemplate replace deprecated usage of method  shouldRemoveParent with usage of getElementToRemove  

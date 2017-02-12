@@ -1,0 +1,1 @@
+  [vcs-log] teach git bek parent fixer how to (in a hacky-way) recognize automatic merge during command-line pull  Conflicts: plugins/git4idea/src/git4idea/log/GitBekParentFixer.java  

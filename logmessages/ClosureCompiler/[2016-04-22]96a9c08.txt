@@ -1,0 +1,1 @@
+  Tighten the type annotation of XMLHttpRequest.prototype.response  Also fix the @see link describing the property.  Fixes #1751.  Merge pull request #1753 from Dominator008/closure-compiler Closes https://github.com/google/closure-compiler/pull/1753 ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=120712846  

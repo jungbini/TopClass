@@ -1,0 +1,1 @@
+  Bundle junit with dx to make some of its tests build  Summary: Some of DX's tests depend on junit be bundled in dx.jar.  I could probably fix them, but that's pretty involved, and there's no real harm in re-bundling it from our existing jar.  I also had to update the scripts to point to our built dx.jar.  Test Plan: ant dx-tests  

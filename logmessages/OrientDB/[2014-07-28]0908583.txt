@@ -1,0 +1,1 @@
+  Small fix to be compatible with < 1.7.8  

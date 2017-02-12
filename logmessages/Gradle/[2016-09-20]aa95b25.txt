@@ -1,0 +1,1 @@
+  Remove logger.setLevel(FINE) from JavaUtilLoggingSystem  Setting the (java.util.logging) log level to FINE may cause unwanted interaction with other logging systems (e.g. in Tomcat 8), since it causes Log.isDebugEnabled() (from java.util.logging) to return true.  +review REVIEW-6255  

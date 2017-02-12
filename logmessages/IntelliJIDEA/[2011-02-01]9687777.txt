@@ -1,0 +1,1 @@
+  fixed sporadic test failures in light fixtures  

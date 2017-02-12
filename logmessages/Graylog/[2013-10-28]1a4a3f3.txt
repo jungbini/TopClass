@@ -1,0 +1,1 @@
+  don't show login screen for logged in users  fixed #350  

@@ -1,0 +1,1 @@
+  fixes for bySegment queries and caching  - prevent bySegment queries from getting cached - avoid computing cache keys if not populating or using cache - avoid computing cache data when not populating cache  

@@ -1,0 +1,1 @@
+  Assignment operations test fix: type infered for these vals are MutableIterator, but there is no plus (returning MutableIterator) nor plusAssign operator for them, so I casted them explicitly to Iterator  

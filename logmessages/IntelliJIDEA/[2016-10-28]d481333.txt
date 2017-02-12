@@ -1,0 +1,1 @@
+  fixed smart step into interface method implemented by lambda  

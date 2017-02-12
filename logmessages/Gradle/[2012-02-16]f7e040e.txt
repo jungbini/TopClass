@@ -1,0 +1,1 @@
+  More fixes to the tests so that redundant emtpy folders are no longer created within project structure.  

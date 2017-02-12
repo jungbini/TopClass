@@ -1,0 +1,1 @@
+ #765 fix PinpointJUnit4ClassRunner to work with the updated junit  

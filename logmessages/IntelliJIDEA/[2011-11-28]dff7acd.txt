@@ -1,0 +1,1 @@
+  IDEA-77655: XDebugger: Error message is written twice in frames panel [rev by Dmitry A.]  

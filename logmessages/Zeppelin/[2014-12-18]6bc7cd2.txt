@@ -1,0 +1,1 @@
+ Merge branch 'fix-indent-html' into improve-view-only-mode  commit 6bc7cd23c4df504c17b4cce5f620eaacd27964b7  fix i tag closing  

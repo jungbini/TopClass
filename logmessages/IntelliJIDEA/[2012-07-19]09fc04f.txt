@@ -1,0 +1,1 @@
+  [merge tool] fix a misprint in the method name  

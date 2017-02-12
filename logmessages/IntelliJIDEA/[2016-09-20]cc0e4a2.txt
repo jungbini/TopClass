@@ -1,0 +1,1 @@
+  IDEA-157379 'Project Files Tree', copy references doesn't output same content with single or multiple files  use the old way if PSI_ELEMENT_ARRAY returns nothing, fix tests  

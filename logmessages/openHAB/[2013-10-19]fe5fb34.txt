@@ -1,0 +1,1 @@
+ Merge pull request #46 from kaikreuzer/1.4.0-bindingconfigdispatcher  fixed multiple call of processBindingConfiguration  commit fe5fb3437c666244491075168e62ab8c53deb204  fixed multiple call of processBindingConfiguration  

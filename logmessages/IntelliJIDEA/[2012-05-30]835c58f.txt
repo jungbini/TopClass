@@ -1,0 +1,1 @@
+  fix tests (incorrectly performed "SVN: bug when grouping individual change requests into non-recursive directories query + check whether "move source dir into target" is under scope before "old, added" change is removed") (cherry-picked from 51f5737) [review=kirill.l]  

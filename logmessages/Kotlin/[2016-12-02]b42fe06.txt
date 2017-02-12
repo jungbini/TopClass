@@ -1,0 +1,1 @@
+  KJS: fix compiler crash when using inline function inside string template  #KT-12586 Fixed  

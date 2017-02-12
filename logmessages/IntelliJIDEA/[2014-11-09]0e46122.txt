@@ -1,0 +1,1 @@
+  fixed PY-11911 Nosetests: test name gets trimmed if it starts with module name in which test is located.  

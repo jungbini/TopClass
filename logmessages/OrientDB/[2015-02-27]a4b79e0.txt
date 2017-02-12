@@ -1,0 +1,1 @@
+  fixed issue #3580 - wrong JSON decoding when no quotes present on attribute names  

@@ -1,0 +1,1 @@
+  OpenGL blending - fixed SUBTRACT  O = D - (S * SA) now matches Java2D  

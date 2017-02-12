@@ -1,0 +1,1 @@
+Author: Hemanth Yamijala <yhemanth@yahoo-inc.com> Date:   Mon Jan 11 19:59:10 2010 +0530  Reverting https://issues.apache.org/jira/secure/attachment/12428180/y896.v2.1.fix.v2.patch for bug fix for MAPREDUCE:896  +++ b/YAHOO-CHANGES.txt   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.20-security-patches@1077100 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  jps updated to fix problem with duplicate classpath.index in jar files  

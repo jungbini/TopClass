@@ -1,0 +1,1 @@
+  fix KT-8977 Ignore non-public API changes for packages in incremental compilation  #KT-8977 Fixed  

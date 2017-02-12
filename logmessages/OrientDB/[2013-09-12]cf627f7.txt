@@ -1,0 +1,1 @@
+  SBTree NPE fix reported in https://groups.google.com/forum/#!topic/orient-database/8o3dhRrq3v0  

@@ -1,0 +1,1 @@
+  HOTFIX: Adding init file so streams benchmark is autodiscovered  Without this file the benchmark does not run nightly.  Author: Eno Thereska <eno.thereska@gmail.com>  Reviewers: Geoff Anderson <geoff@confluent.io>, Ismael Juma <ismael@juma.me.uk>  Closes #1645 from enothereska/hotfix-streams-test  

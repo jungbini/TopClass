@@ -1,0 +1,1 @@
+  Using the version of ASM that has debug information in it  No more need for extra ASM jars (analysis and util)  

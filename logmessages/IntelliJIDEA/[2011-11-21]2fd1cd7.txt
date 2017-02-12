@@ -1,0 +1,1 @@
+  if a prefix entered during autopopup matches only some scrambled class, don't cancel the lookup (IDEA-76928)  

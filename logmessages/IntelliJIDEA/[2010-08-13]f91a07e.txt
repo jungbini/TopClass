@@ -1,0 +1,1 @@
+  reformatting for PsiElement in injected code fixed (IDEA-55686)  

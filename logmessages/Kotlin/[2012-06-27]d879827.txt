@@ -1,0 +1,1 @@
+  Test for "unnecessary non-null assertion quickfix should not displayed for 'value!!.foo()' case" has been added.  

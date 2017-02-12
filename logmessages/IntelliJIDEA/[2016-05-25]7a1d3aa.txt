@@ -1,0 +1,1 @@
+  IG: fix "Remove leading zero to make decimal" quickfix problem (IDEA-156488)  

@@ -1,0 +1,1 @@
+  YARN-4565. Fix a bug that leads to AM resource limit not hornored when sizeBasedWeight enabled for FairOrderingPolicy. Contributed by Wangda Tan  

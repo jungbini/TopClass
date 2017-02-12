@@ -1,0 +1,1 @@
+ destinations are now also externally configurable.  Issue: SPR-12899  

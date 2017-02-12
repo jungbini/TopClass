@@ -1,0 +1,1 @@
+  fix KT-5645: 'continue' inside 'do...while' statement works as goto to the beginning of the loop (not checking loop condition)  #KT-5645 Fixed  

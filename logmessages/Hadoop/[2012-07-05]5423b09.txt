@@ -1,0 +1,1 @@
+  HADOOP-8543. Invalid pom.xml files on 0.23 branch Updated to fix a bug in orriginal patch.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-0.23@1357785 13f79535-47bb-0310-9956-ffa450edef68  

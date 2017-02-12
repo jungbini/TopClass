@@ -1,0 +1,1 @@
+  GRADLE-2167: Use findbugs tasks loggingmanager to redirect sysout and syserr to debug logging.  

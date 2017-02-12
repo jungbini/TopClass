@@ -1,0 +1,1 @@
+  KT-6582 "Expand selection" in string literal should select word in string  #KT-6582 fixed  

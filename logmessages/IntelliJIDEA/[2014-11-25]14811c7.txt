@@ -1,0 +1,1 @@
+  fixed background color for success/failure package installation  

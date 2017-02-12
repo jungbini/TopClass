@@ -1,0 +1,1 @@
+  jsdebugger: "pause" and "mute breakpoints" actions  

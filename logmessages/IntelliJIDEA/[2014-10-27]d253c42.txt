@@ -1,0 +1,1 @@
+  fixed failing test "testWrapMethodAnnotationBeforeParams"  Added possibility to specify parent block for AbstractJavaBlock. When processing method, wrap after annotation (on keyword "public, private, protected") is set to be parent of method parameters wrap. So when wrap occurs parent wrap is used instead of method parameter wrap (which is now child)  

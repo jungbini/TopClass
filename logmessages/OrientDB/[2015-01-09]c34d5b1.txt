@@ -1,0 +1,1 @@
+  -fixed: calling remote protocol for non existent record metadata, will cause the binary protocol to become corrupted.  metadata variable will be null, on result, than the protocol will send OK response and crush with Null reference exception. those the client channel will become in a undefined state, cause it will get invalid response data.  

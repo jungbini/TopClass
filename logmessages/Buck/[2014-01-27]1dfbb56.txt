@@ -1,0 +1,1 @@
+  Add `getBinPath` and `getGenPath` to a helper class.  Summary: There was a lot of copypasta floating around.  This cleans a lot of it up.  Test Plan: Did clean, uncached build of fb4a debug and release before and after this change. The list of files under buck-out/gen and buck-out/bin were unchanged (except for one that is benign unrelated).  

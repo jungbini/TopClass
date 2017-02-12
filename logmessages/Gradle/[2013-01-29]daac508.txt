@@ -1,0 +1,1 @@
+  Removed the reference to the type introduced in milestone-7 from the fixture code. This fixes the cross version suite. We might look at updating the test coverage for old versions of tooling api clients (e.g. exclude tooling api clients < 1.0).  

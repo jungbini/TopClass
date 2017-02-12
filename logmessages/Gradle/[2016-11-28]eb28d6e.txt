@@ -1,0 +1,1 @@
+  Don't test OpenAPI on IBM JDK  These tests are flaky when run on IBM JDK. It's not worth investing time to fix the tests for this deprecated feature.  Flaky test issue: gradle/gradle-private#437  

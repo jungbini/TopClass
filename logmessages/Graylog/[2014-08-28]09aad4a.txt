@@ -1,0 +1,1 @@
+  Fix broken default rest_listen_uri, refs #701  Wat. As it turns out, the trailing slash is quite important. This should really be fixed in https://github.com/Graylog2/jersey-netty  

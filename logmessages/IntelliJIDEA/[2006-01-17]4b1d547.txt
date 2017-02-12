@@ -1,0 +1,1 @@
+  making bold for js symbols that are better alternatives depending on prefix  

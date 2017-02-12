@@ -1,0 +1,1 @@
+  [git] IDEA-115780 Let branch and tag with same name in the log  The purpose of the special refs hashing strategy is to make sure we don't receive the same reference pointing to 

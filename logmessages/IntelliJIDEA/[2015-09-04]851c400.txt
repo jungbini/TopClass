@@ -1,0 +1,1 @@
+  don't try to debug all configurations with PyDebugRunner  

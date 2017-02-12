@@ -1,0 +1,1 @@
+  IDEA-101453 Mercurial: display reasonable notification on successful repository init bug fixed  *Currently internal IDs are displayed if init was successful: forget using HgVcsMessages.  

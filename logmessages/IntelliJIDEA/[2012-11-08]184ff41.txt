@@ -1,0 +1,1 @@
+  fixed  PY-7974 NPE at com.jetbrains.python.codeInsight.intentions.SpecifyTypeInPy3AnnotationsIntention.isAvailable  

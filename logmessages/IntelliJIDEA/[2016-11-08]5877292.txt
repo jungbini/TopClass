@@ -1,0 +1,1 @@
+  [platform] post-review fixes (IDEA-CR-15535)  

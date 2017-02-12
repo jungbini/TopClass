@@ -1,0 +1,1 @@
+  second half of fix for PY-7887  

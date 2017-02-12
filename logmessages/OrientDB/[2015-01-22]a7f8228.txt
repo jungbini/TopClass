@@ -1,0 +1,1 @@
+  fixed issue on push of distributed configuration for not active sessions.  

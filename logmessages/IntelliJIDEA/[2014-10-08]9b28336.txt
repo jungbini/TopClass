@@ -1,0 +1,1 @@
+  [git] fix deadlocks in cherry-pick, including IDEA-95523  Refresh changes in the background (fixes IDEA-95523), invoke callback in the background as well (fixes newly introduced lock with waiting in the EDT).  

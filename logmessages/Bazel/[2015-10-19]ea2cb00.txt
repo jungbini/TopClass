@@ -1,0 +1,1 @@
+  Bazel: really fix strict deps error in Jenkins project.  Previously I added the missing strict dependency to the wrong target... /o\  -- MOS_MIGRATED_REVID=105732927  

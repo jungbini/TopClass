@@ -1,0 +1,1 @@
+  IDEADEV-29750 : new Language level 1.6 + highlight usage of Override in interfaces in JDK5 context + modified Missing Override inspection to work with lang level + fixed bug when PsiJavaFile.getLangugaeLevel() returns old level after it's changed  

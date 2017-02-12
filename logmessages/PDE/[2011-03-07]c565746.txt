@@ -1,0 +1,1 @@
+  fixing build to use ditto and write osx download  

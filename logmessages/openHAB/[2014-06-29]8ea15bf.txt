@@ -1,0 +1,1 @@
+  Fix 2 bugs: 1) Correct calculation for TX pacing to adhere to 1% rule which CUL enforces. 2) When doing a second appendPayload for base message you would end up appending to the raw message - so now clear this and regenerate the header and message.  

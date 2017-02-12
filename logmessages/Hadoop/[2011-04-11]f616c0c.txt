@@ -1,0 +1,1 @@
+  HBASE-3762  HTableFactory.releaseHTableInterface() should throw IOException not wrap in RTE (test fix)  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1091174 13f79535-47bb-0310-9956-ffa450edef68  

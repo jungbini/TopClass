@@ -1,0 +1,1 @@
+ Disable self-connect tests for JDK6  Current version of JDK6 on Windows seems to be hitting a IPv6 bug http://bugs.java.com/view_bug.do?bug_id=6230761  +review REVIEW-5610  

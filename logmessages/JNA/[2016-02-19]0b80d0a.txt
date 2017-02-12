@@ -1,0 +1,1 @@
+  update windows natives, fix 'bool' support on w32  

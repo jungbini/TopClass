@@ -1,0 +1,1 @@
+  Generating annotations in correct order for methods with synthetic parameters.  #KT-4050 fixed  

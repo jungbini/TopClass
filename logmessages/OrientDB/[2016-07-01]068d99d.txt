@@ -1,0 +1,1 @@
+  extracted logic for delete three ridbugs from hook  

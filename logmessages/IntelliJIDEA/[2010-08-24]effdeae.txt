@@ -1,0 +1,1 @@
+  fixed an NPE with default project when processing hold state in tool window mgr  

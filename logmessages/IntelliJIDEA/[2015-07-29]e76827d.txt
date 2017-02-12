@@ -1,0 +1,1 @@
+  fixed Hide publications folder (/.publications) in study project view #43  do not show any folder which starts with "."  

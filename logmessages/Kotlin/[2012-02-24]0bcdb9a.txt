@@ -1,0 +1,1 @@
+  Added smart Ctrl+W support in Kotlin plugin.  #KT-1267 fixed #KT-1271 fixed  

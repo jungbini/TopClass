@@ -1,0 +1,1 @@
+  more android work with debug stability and running from external devices  

@@ -1,0 +1,1 @@
+  fixed PY-9652 Replace print with function call: does not put argument to call in case print is on one line with compound statement  

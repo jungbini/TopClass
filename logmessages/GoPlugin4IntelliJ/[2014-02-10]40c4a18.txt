@@ -1,0 +1,1 @@
+  Improve GoCallOrConvExpressionImpl to get the return types of literal functions, variables declarations, added an intention to check errors, fix a issue with the cast fix, added some test  

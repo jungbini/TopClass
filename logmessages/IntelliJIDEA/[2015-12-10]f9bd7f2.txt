@@ -1,0 +1,1 @@
+  don't validate breakpoint on set  doesn't make any sense since sourcemaps meteor debug test works  

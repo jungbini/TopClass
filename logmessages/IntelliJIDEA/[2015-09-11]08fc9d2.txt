@@ -1,0 +1,1 @@
+  simplify, add logging to investigate "@NotNull method com/jetbrains/javascript/debugger/GlobalEvaluator$1.getEvaluateContext must not return null"  

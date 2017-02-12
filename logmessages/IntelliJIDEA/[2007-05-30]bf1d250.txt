@@ -1,0 +1,1 @@
+  Some bugs with keyword completion fixed. Added a stup fo introduce variable refactoring  

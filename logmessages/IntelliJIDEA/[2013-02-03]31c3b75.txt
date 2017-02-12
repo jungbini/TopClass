@@ -1,0 +1,1 @@
+  Python debugger settings are project settings. Button to delete dynamic types cache (PY-8136).  

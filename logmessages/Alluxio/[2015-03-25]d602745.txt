@@ -1,0 +1,1 @@
+ Fix debugging in tachyon-workers.sh  The debug statement placed in tachyon-workers.ssh to state which user account is being used to SSH to the remote workers was wrapped inside an if by a later commit so it only fired when using non-background SSH which doesn't aid debugging.  Moved the echo outside of the offending if  

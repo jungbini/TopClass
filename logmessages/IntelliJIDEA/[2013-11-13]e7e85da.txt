@@ -1,0 +1,1 @@
+  [by the patch from opticyclic] quick fix to create a property from unresolved property reference (IDEA-57875)  

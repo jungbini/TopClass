@@ -1,0 +1,1 @@
+  IDEA-126624 (Narrow scope of variable fix generating wrong code with some for loops)  

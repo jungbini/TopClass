@@ -1,0 +1,1 @@
+  properly do graceful shutdown when receiving kill signal  this is slowly becoming a mess with all the 

@@ -1,0 +1,1 @@
+  fixed 'Add to Watches' (PY-2267) and 'Set Value' on dictionary (PY-2267)  

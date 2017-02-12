@@ -1,0 +1,1 @@
+  1.  1-st level cache is invalidated when DB is going to be reused. 2.  shutdown script was fixed.  

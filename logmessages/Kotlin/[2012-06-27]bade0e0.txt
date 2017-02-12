@@ -1,0 +1,1 @@
+  Check that quick fixes don't produce new errors  

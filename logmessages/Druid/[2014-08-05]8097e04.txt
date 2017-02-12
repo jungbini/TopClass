@@ -1,0 +1,1 @@
+ Merge pull request #659 from metamx/fix-metrics  Separate query metrics into scan/time and query/time  commit 8097e049384c34c750b031059ac6774a2b2943cb  fix naming  

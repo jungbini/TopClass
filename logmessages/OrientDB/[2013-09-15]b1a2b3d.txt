@@ -1,0 +1,1 @@
+  Issue #1665 was fixed. Issue reported in https://groups.google.com/forum/?place=forum%2Forient-database&showsearch=true&showtabs=false&hideforumtitle=true&theme=default#!topic/orient-database/8o3dhRrq3v0 was fixed.  

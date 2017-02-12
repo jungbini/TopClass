@@ -1,0 +1,1 @@
+  javadoc inspection: provide add javadoc fix onTheFly (IDEA-147106)  

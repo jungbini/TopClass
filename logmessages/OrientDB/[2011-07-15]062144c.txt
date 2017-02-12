@@ -1,0 +1,1 @@
+  Fixed bug reported in ML by Andreas on the caching of indexed values. This fix should reduce also the memory occupied by the index nodes as well  

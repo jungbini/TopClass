@@ -1,0 +1,1 @@
+  Too long max header or initial line results in no response instead of a 4xx response before closing the connection - fixes #1727 - fixes #1726  

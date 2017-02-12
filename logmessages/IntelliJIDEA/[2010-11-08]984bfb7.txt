@@ -1,0 +1,1 @@
+  fix assertion "Semaphore for unsaved data indexing was not initialized for index"  

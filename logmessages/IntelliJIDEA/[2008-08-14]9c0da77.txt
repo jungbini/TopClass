@@ -1,0 +1,1 @@
+  @NotNull method returns null(PsiMethodCall.getTypeParameterList(), for this(x, x) references), parsing fixed.  

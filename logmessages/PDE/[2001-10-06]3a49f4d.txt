@@ -1,0 +1,1 @@
+  wrapping up major changes to bagel, fixed bagelpublic to now be auto with make.bat, misc todos  

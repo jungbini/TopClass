@@ -1,0 +1,1 @@
+  find/replace fixes from Peter N Lewis, new Quaqua to fix checkboxes in popups, focus fix  

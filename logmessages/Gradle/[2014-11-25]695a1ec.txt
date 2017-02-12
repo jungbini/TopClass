@@ -1,0 +1,1 @@
+  Use https to fetch dependencies from Typesafe repo. Replace 'play new' with 'activator new' since the play script does not exist in Play 2.3.x and has been replaced with Typesafe activator. Also, fix reference to Scala when Play was meant.  

@@ -1,0 +1,1 @@
+  IDEA-134080 XSLT Debugger plugin should not ask users to report bugs to Sascha Weinreuter  

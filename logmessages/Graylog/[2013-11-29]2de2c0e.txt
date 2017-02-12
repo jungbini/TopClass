@@ -1,0 +1,1 @@
+  make no radio nodes msg look nicer. fixes Graylog2/graylog2-server#323  

@@ -1,0 +1,1 @@
+  js repl: editor ask us to paint line 4-6, but we should draw line for line 3 (startLine - 1) also, otherwise it will be not rendered fix layout  

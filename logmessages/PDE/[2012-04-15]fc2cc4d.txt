@@ -1,0 +1,1 @@
+  js mode: cleanups and a fix for save not starting sever automatically when not running  

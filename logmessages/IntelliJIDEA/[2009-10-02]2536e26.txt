@@ -1,0 +1,1 @@
+  git4idea: IDEADEV-40643 (fixed status detection)  

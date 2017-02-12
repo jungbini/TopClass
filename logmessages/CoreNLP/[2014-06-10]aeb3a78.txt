@@ -1,0 +1,1 @@
+  inverted index for applying patterns to sentences. some bug is there - sometimes some words get extracted and sometimes not  

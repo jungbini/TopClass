@@ -1,0 +1,1 @@
+  MINOR: Follow-up from KAFKA-3842 to fix tempDir  p directories, waitForCondition  Author: bbejeck <bbejeck@gmail.com>  Reviewers: Guozhang Wang, Ismael Juma  Closes #1554 from bbejeck/follow_up_for_KAFKA-3842  

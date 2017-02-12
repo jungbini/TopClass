@@ -1,0 +1,1 @@
+  Backport StringDimensionHandler bugfix from #3666. (#3692)  

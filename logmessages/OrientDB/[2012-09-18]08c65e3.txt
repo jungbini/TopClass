@@ -1,0 +1,1 @@
+  Patch to fix nasty error of: java.lang.NullPointerException com.orientechnologies.orient.client.remote.OStorageRemote.readDatabaseInformation(OStorageRemote.java:1812)  

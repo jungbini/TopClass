@@ -1,0 +1,1 @@
+  bump hoe-debugging to v1.2.1  so we can properly test ruby 2.1 and 2.2.  

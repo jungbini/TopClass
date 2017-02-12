@@ -1,0 +1,1 @@
+  Debugger: ability to set breakpoint to lambda in return statement (KT-14615)  #KT-14615 Fixed  

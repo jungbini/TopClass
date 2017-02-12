@@ -1,0 +1,1 @@
+  duplicate recurses component tree when assigning bindings to duplicated components; one more gap cell handling fix  

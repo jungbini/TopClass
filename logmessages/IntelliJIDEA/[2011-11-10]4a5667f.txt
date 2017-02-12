@@ -1,0 +1,1 @@
+  Fixed debug autoreload in case in interpreter like '/usr/bin/python27' (PY-5004).  

@@ -1,0 +1,1 @@
+  Fix CUnit failure in VS2015  In regards with gradle/gradle#892, this patch fix build failure for CUnit. A ticket was also open with the mainline in order to fix this issue: https://sourceforge.net/p/cunit/bugs/71/  

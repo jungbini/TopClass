@@ -1,0 +1,1 @@
+ Merge branch 'hotfix/fix-mongoid-paginator'  commit 1ce1d0fdb90d3e924919867767a0cae2a3ac6ac0  now offering debug information #shell  

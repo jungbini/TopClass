@@ -1,0 +1,1 @@
+  PY-21204 Quickfix "Create function" properly handles injected fragments  by inserting a new function in the containing host file, not inside the fragment itself.  Also I fixed issues with keeping hard references to PSI elements and usage of deprecated TemplateBuilder's API.  

@@ -1,0 +1,1 @@
+  class vs property resolve fix  

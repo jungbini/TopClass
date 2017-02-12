@@ -1,0 +1,1 @@
+  fixed PY-11823 Test Runner detection in settings doesn't pick up just installed test runner  extracted application service, because of xml serialization/deserialization messes VFSTestFrameworkListener up  

@@ -1,0 +1,1 @@
+  fixed EDU-236 Open first task after project creation  

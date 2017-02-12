@@ -1,0 +1,1 @@
+  Minor, tests: rename test directive in debugger tests  

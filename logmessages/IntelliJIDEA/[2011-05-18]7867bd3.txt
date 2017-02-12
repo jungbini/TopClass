@@ -1,0 +1,1 @@
+  fixed PY-3554 Unresolved reference: false positive for imported superclass with the same name as derived one  

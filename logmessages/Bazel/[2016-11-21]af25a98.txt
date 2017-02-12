@@ -1,0 +1,1 @@
+  Turn on j2objc's -g flag (source debugging) by default  Can be disabled via:  --j2objc_translation_flags=-g:none  -- MOS_MIGRATED_REVID=139738308  

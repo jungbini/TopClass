@@ -1,0 +1,1 @@
+  ninja fix commutative op flag for truncate validation  

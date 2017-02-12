@@ -1,0 +1,1 @@
+  RUBY-13059: darcula improvements for ruby specified custom foreground for local vars and parameters #RUBY-13059 fixed  

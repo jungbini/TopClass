@@ -1,0 +1,1 @@
+  Fix generation of workspaces without src_target.  Summary: This fixes generation of workspace targets without a src_target but with extra_tests that was regressed recently. It also adds some new integration tests to make sure we don't regress related functionality.  Test Plan: CI  

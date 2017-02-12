@@ -1,0 +1,1 @@
+  fix bug in comparing-to-empty-array; realize that we need compare-to-empty-array to specify start/finish of slices. patch by jbellis; reviewed by Stu Hood for CASSANDRA-119  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@798273 13f79535-47bb-0310-9956-ffa450edef68  

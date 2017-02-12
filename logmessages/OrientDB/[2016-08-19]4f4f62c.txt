@@ -1,0 +1,1 @@
+  fixes setup of JAVA_OPTS_SCRIPT variable  refs https://github.com/orientechnologies/orientdb/issues/6504  

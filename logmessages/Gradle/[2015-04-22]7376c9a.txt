@@ -1,0 +1,1 @@
+  Renamed some types, to get rid of the `Version1` suffix.  

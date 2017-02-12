@@ -1,0 +1,1 @@
+  Fixed stupid bug reported in ML in OLazyObjectSet in contains() and remove() methods  

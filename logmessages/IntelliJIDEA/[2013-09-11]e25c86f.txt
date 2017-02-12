@@ -1,0 +1,1 @@
+  fixed copying items from 'Dependencies' panel (IDEA-108071)  

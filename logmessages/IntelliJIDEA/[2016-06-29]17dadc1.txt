@@ -1,0 +1,1 @@
+  PY-19015: Check env has commands, skip fixers if has no  Since prev. approach was based on idea that any env has some tests and failed on project from PY-19015, I now use unofficial API to inherit Session and track env start and end. Skip support is also added. See _MySession from _jb_tox_runner.py for more info. This approach is hacky, but all other APIs are too lame  

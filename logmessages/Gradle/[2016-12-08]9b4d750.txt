@@ -1,0 +1,1 @@
+e attributes schema to the dependency handler. It's worth noting that is also renames the configuration method from `configurationAttributesSchema` to simply `attributesSchema`.  

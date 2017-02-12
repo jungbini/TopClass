@@ -1,0 +1,1 @@
+  assume custom stubs only if psifile's content element type isn't IStubElementType, this fixes performance problem of previous change (that added support for dom indices). The performance problem was manifested for flex stubs produced by decompiler.  

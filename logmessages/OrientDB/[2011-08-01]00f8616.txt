@@ -1,0 +1,1 @@
+  Improved SQL engine: - Min and Max functions now works with any type is Comparable. not only numbers - Support chaining field operators even inside and after functions.  This example now works: select max(name.append('.')).prefix('Mr. ') as name from Profile where name is not null  

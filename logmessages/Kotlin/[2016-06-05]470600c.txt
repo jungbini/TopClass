@@ -1,0 +1,1 @@
+  Add support for the Android test plugin.  #KT-11767 fixed  

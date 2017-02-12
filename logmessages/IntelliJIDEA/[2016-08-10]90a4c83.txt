@@ -1,0 +1,1 @@
+  fixed new class level watch for leaf or collapsed nodes  

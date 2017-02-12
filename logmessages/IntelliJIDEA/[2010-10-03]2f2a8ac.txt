@@ -1,0 +1,1 @@
+  AS change signature: fix highlighting and completion in editor text fields (IDEA-59363)  

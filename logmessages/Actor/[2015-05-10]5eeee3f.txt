@@ -1,0 +1,1 @@
+  fix(iOS): Fixed dialog crashing on empty content  

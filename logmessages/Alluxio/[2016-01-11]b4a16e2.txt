@@ -1,0 +1,1 @@
+  TACHYON-1426: Support setting permission model in CLI shell: fix comment  

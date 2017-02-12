@@ -1,0 +1,1 @@
+  update launch4j to 3.9, fixes #4682  

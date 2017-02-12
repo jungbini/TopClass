@@ -1,0 +1,1 @@
+  "Restore Default Value" closes editor; fix NPE in IntroComponentProperty; correct "Restore Default Value" for custom-created components  

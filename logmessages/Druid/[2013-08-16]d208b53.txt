@@ -1,0 +1,1 @@
+  fix caching bug with search query limits  

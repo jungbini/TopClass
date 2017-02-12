@@ -1,0 +1,1 @@
+  Test fixes now that properties are not defined on assignment.  

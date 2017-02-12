@@ -1,0 +1,1 @@
+  update JNA for better windows support (bug #1424)  

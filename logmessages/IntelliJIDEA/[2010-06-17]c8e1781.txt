@@ -1,0 +1,1 @@
+  fixed some cases of file references renaming added find usages to django templates(PY-1081) added navigation to files  

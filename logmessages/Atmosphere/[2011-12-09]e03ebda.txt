@@ -1,0 +1,1 @@
+  One more fix for https://github.com/Atmosphere/atmosphere/issues/114. Disable the mechanism by default  

@@ -1,0 +1,1 @@
+ Fix a bug preventing proper logout from energenie devices  Signed-off-by: hmerk <hans-joerg.merk@t-online.de>  

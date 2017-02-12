@@ -1,0 +1,1 @@
+  Update to rake-compiler-dock-0.5.1, which fixes issues with bundler while cross compilation.  

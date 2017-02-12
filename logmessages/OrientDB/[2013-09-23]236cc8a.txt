@@ -1,0 +1,1 @@
+  Minor: fixed query dump removing the limit to 50 chars  

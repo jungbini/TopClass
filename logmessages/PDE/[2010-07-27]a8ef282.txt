@@ -1,0 +1,1 @@
+  Wizard successfully creates projects in the workspace that are properly placed in the designated sketchbook folder. Also included some changes to the plugin properties to try to track down a major bug causing namespace issues.  

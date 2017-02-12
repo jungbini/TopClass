@@ -1,0 +1,1 @@
+  Restored issue 726 to fix test cases. It's a try for Jetkins  

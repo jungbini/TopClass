@@ -1,0 +1,1 @@
+  Allow access to the maven test fixtures in tooling api tests.  

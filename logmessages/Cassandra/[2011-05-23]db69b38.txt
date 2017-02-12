@@ -1,0 +1,1 @@
+  fix UUIDTypefor direct buffers patch by Ed Anuff; reviewed by jbellis for CASSANDRA-2682  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8.0@1126289 13f79535-47bb-0310-9956-ffa450edef68  

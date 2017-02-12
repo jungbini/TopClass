@@ -1,0 +1,1 @@
+  Refactor JavaConstructorResolver  Extract methods, fix warnings, use JavaClass/JavaMethod instead of Psi  

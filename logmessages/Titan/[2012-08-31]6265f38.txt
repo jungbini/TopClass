@@ -1,0 +1,1 @@
+  found a bug in new MapSequence model. Fixed. Need a more robust way of testing this stuff.  

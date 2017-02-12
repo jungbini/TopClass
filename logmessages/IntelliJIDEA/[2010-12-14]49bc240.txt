@@ -1,0 +1,1 @@
+  fixed test count in doctest runner  

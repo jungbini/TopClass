@@ -1,0 +1,1 @@
+  IDEA-132939 Debugger: Adjust Range: new-shown elements have "modified" appearance  

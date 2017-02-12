@@ -1,0 +1,1 @@
+  fixed GRADLE-1305, part 2: Eclipse plugin should configure the IDE to generate classes into the default location for the IDE, rather than into build/classes/$sourceSet  

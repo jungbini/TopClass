@@ -1,0 +1,1 @@
+  addition to bug with automatically casting mutable variables fix  

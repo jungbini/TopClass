@@ -1,0 +1,1 @@
+  YARN-427. Coverage fix for org.apache.hadoop.yarn.server.api.* (Aleksey Gorshkov via jeagles)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1492285 13f79535-47bb-0310-9956-ffa450edef68  

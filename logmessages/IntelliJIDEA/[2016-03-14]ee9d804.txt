@@ -1,0 +1,1 @@
+  [groovy] fix INRE (IDEA-152776)  

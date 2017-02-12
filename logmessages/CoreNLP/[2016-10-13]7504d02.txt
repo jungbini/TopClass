@@ -1,0 +1,1 @@
+  Fix bug in getting parse() from Simple Document over server  

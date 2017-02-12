@@ -1,0 +1,1 @@
+  Tested re-connect fix (doesn't recreate the daily reconnect trigger)  

@@ -1,0 +1,1 @@
+  change up how extra statements from size() are handled (fixes #3531)  

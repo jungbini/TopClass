@@ -1,0 +1,1 @@
+  fixed PY-5738 False positive on string formatting from clas.__dict__  

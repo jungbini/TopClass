@@ -1,0 +1,1 @@
+  fixed issue with type detection from string for values starting with '-', issue #2924  

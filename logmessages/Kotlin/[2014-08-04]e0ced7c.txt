@@ -1,0 +1,1 @@
+  Boxing values merge fix. #KT-5588 Fixed  When merging Boxed value and something else just return MIXED_VALUE  

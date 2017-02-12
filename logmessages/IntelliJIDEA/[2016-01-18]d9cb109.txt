@@ -1,0 +1,1 @@
+  IDEA-150534 DebugConfigureAction DebugLogConfigureDialog is missing getDimensionServiceKey()  

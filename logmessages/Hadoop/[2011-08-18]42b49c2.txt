@@ -1,0 +1,1 @@
+  Updating CHANGES.txt to reflect fixes from MR-279 branch that came into trunk when merging the two of them.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1159232 13f79535-47bb-0310-9956-ffa450edef68  

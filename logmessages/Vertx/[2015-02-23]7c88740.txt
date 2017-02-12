@@ -1,0 +1,1 @@
+  Fixed bug in HTTP form upload handling for small files, and in counting size, also added more tests  

@@ -1,0 +1,1 @@
+ Fix the ordering of classes in templated angular.$q.Promise to avoid a compiler bug where typechecking only works if the templated class is defined before it is used. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=78741137  

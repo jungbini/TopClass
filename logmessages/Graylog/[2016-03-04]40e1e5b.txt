@@ -1,0 +1,1 @@
+  Simplifying jsRoutes a bit. Removing unneeded keys, fixing linter hints.  

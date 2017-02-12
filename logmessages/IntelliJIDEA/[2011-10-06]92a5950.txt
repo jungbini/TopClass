@@ -1,0 +1,1 @@
+  fixed lazy initialization for libraries and modules (PropertyAccessInterceptor doesn't when property is accessed from the declaring class and Interceptor doesn't work if method is called from Java)  

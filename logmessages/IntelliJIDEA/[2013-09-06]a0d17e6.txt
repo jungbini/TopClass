@@ -1,0 +1,1 @@
+ xdebugger: restored custom presentation for keywords and numbers, changed values are highlighted by coloring their names  

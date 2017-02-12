@@ -1,0 +1,1 @@
+  fix layout of android plugin for community edition (IDEA-107323)  

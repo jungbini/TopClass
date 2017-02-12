@@ -1,0 +1,1 @@
+  MINOR: add useful debug log messages to KConnect source task execution  Author: Gwen Shapira <cshapi@gmail.com>  Reviewers: Ewen Cheslack-Postava <ewen@confluent.io>  Closes #957 from gwenshap/source_worker_debug  

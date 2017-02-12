@@ -1,0 +1,1 @@
+  Fix typo in externs for md.$panel.config: fullScreen --> fullscreen.  Without this fix, property renaming JS cannot enable fullscreen on mdDialog. ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=127454710  

@@ -1,0 +1,1 @@
+  an ability for autopopup completion to restart if a user has typed some definite prefix apply this to live templates (IDEA-59729, WI-3472)  

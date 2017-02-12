@@ -1,0 +1,1 @@
+  Without the newline, our bazel/scripts/ci/build.sh will append an android_sdk_repository() rule into the file in such a way, that it produces a syntax error.  Also fix the build.sh script to be more resilient and not actually require the newline.  -- MOS_MIGRATED_REVID=130737331  

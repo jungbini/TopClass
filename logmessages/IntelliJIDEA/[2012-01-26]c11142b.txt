@@ -1,0 +1,1 @@
+  IDEA-80340 Run/Debug tool window: generic UI: reorder tabs fails, if tab was dragged out of tab row  

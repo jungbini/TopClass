@@ -1,0 +1,1 @@
+  Fix bug where -ha param when running in fatjar caused to be run bare  

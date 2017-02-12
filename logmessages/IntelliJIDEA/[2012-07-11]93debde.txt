@@ -1,0 +1,1 @@
+  new project model: dependencies for xml loader fixed  

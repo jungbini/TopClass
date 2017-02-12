@@ -1,0 +1,1 @@
+  Influxdb bugfix for issue #2208 (restoring switch or contact state)  

@@ -1,0 +1,1 @@
+  KT-7472 function of anonymous class is never used  #KT-7472 fixed  

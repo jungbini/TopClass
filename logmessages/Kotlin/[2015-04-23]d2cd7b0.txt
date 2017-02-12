@@ -1,0 +1,1 @@
+  Map intrinsic companion objects in JavaToKotlinClassMap  Get rid of multiple usages of IntrinsicObjects where JavaToKotlinClassMap was already used, simplify code, and support loading of *CompanionObject as Kotlin built-in companions from Java code.  Also fix a small bug where Boolean was considered a class with an intrinsic companion in IntrinsicObjects, although it was not  

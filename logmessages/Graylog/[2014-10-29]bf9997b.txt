@@ -1,0 +1,1 @@
+  New Sources Tab: fixed double loading of data on first navigation to it  

@@ -1,0 +1,1 @@
+  Try to give move memory to test configuration to fix build tests  

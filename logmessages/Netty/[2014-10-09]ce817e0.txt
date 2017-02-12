@@ -1,0 +1,1 @@
+  NullPointerException fix in http/2 codec  Motivation: There is a NPE due to the order of builder initialization in the  class.  Modifications: -Correct the ordering of initialization and building to avoid NPE.  Result: No more NPE in  construction.  

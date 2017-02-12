@@ -1,0 +1,1 @@
+  registry.properties: fix editor.full.width.scrollbar description key  

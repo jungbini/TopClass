@@ -1,0 +1,1 @@
+  move operator assignment check for object to javac quirks inspection with fix (IDEA-154209)  

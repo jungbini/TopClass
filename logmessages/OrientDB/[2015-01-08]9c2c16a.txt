@@ -1,0 +1,1 @@
+  fixed #3204 (hash index not used with IN operator)  

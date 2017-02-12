@@ -1,0 +1,1 @@
+  fixed  PY-7524 Dragged/pasted code in wrong location fixed PY-7470 Smart copy-paste unindents next line (in place insert)  

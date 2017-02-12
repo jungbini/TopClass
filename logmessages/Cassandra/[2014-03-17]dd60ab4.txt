@@ -1,0 +1,1 @@
+  fix CRLF in bash scripts when building on Windows patch by Peter; reviewed by Joshua McKenzie for CASSANDRA-6798  

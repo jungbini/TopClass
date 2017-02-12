@@ -1,0 +1,1 @@
+  git4idea: fixed missing resources from classpath in the case of build and running script  

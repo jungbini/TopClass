@@ -1,0 +1,1 @@
+  fix smartStep for some cases: should check class of 'this' object rather than the class that declares method being executed  

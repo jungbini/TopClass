@@ -1,0 +1,1 @@
+  don't show "Change type arguments" fix when there's nothing to change #KT-11178 Fixed  

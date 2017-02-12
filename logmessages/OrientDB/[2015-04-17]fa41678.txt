@@ -1,0 +1,1 @@
+  fixed comparation problem due to testng upgrade and the fact that odocument is an iterable  

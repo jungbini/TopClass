@@ -1,0 +1,1 @@
+ Add back resetConnection  minor fix  

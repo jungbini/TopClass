@@ -1,0 +1,1 @@
+  use exec instead of debug, fix #1822  

@@ -1,0 +1,1 @@
+  workaround debugger's invokeAndWait returning before the action has finished  

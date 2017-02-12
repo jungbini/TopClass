@@ -1,0 +1,1 @@
+  disable a workaround for a Mac OS JDK issue, when custom JDK with a fix is used  

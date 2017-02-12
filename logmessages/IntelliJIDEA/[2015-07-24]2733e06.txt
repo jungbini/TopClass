@@ -1,0 +1,1 @@
+  fix compatibility of IDEA 15 with sources from previous versions  

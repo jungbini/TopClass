@@ -1,0 +1,1 @@
+  KAFKA-2776: Fix lookup of schema conversion cache size in JsonConverter.  Author: Ewen Cheslack-Postava <me@ewencp.org>  Reviewers: Gwen Shapira  Closes #458 from ewencp/kafka-2776-json-converter-cache-config-fix  

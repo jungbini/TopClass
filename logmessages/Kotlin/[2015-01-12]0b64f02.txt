@@ -1,0 +1,1 @@
+  Rename jet -> kotlin in idea: quickfixes  org.jetbrains.jet.plugin.quickfix -> org.jetbrains.kotlin.idea.quickfix  

@@ -1,0 +1,1 @@
+  Improved one test that was intermittently failing on CI. Spockified that particular test method to a new spec. The particular feature cannot be easily guaranteed, my fix is pretty simple one (sleep) but should make the CIs happy anyway.  

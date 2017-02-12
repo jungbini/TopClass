@@ -1,0 +1,1 @@
+ Merge pull request #2306 from druciak/satel_logging_fixes  [satel] Fixes format Strings in Error Messages  commit a153e5514a45ab72bd6c50b79f80ccd08daa2b37  Merge pull request #2300 from kaikreuzer/rrd4jcharts-fix-oh2  adapted rrd4j chart servlet to be compatible with openHAB 2  commit a7647869f44b067db2c6abef8099a6f4600fe811  Error messages fixed.  

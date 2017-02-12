@@ -1,0 +1,1 @@
+  HADOOP-10817. ProxyUsers configuration should support configurable prefixes. (tucu)   Conflicts: hadoop-common-project/hadoop-common/CHANGES.txt  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1619533 13f79535-47bb-0310-9956-ffa450edef68  

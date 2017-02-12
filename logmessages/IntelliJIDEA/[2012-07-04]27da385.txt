@@ -1,0 +1,1 @@
+  do not suggest to remove qualifier if fix would produce illegal forward ref (IDEA-87640)  

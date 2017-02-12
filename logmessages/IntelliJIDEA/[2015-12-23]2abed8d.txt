@@ -1,0 +1,1 @@
+  guava type migration: quick fix improved to work in one write-action, support guava's Predicates  

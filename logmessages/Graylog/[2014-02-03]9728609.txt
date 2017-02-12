@@ -1,0 +1,1 @@
+  only load writable dashboards in dashboards selector. fixes #593  

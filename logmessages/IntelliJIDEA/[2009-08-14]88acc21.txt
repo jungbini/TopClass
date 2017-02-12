@@ -1,0 +1,1 @@
+  Maven: fix for embedder bug (returns null from Atrifact.getFile())  

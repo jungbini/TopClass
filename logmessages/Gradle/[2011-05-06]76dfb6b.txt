@@ -1,0 +1,1 @@
+  Temporary fix to allow generating idea for core-impl project. For some reason, both eclipse and idea plugins fail to process those files (they fail on an attempt to download sources / javadocs).  

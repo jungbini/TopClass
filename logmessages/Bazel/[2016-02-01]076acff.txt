@@ -1,0 +1,1 @@
+  Add a test that asserts aspects propagating along implicit deps.  Fix a minor bug in the process.  -- MOS_MIGRATED_REVID=113519574  

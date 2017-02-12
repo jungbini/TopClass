@@ -1,0 +1,1 @@
+  Patch by Luca Molino to fix transaction management on remote protocol and improved rollback() at storage level. Not yet 100% final  

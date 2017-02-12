@@ -1,0 +1,1 @@
+  trying to debug file chooser (bug #951)  

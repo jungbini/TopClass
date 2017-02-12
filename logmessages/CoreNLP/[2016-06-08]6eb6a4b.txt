@@ -1,0 +1,1 @@
+  Debugged simple chinese api a bit  

@@ -1,0 +1,1 @@
+  Find a project for the document not having an active editor (fixes IDEA-156530)  

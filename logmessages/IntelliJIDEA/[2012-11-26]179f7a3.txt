@@ -1,0 +1,1 @@
+  fixed  PY-8094 Change signature: do not allow to change signature when name of the parameter is undefined  

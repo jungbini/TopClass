@@ -1,0 +1,1 @@
+  make "Non-constant string concatenation as argument to logging call" inspection quickfix remove unnecessary parentheses  

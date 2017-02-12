@@ -1,0 +1,1 @@
+  svn: Refactored LatestExistentSearcher - fixed warnings, rewritten recursion with while loop  

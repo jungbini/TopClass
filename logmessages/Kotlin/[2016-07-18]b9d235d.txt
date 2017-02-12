@@ -1,0 +1,1 @@
+ Implement quickfix for wrong long suffix Fixes: KT-13134  

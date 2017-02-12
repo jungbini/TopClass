@@ -1,0 +1,1 @@
+  Fixed bug on orientdb javascript api about the usage of proxy  

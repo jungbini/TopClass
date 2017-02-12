@@ -1,0 +1,1 @@
+ fixing off-by-one with nth-last-child and nth-last-of-type CSS selectors when NOT using an+b notation. closes #354.  

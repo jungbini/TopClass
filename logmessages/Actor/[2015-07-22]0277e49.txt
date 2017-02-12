@@ -1,0 +1,1 @@
+  fix(server): don't store List of events  

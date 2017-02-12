@@ -1,0 +1,1 @@
+ fixed GRADLE-2808 - NotSerializableException when joint compiling and setting options.forkOptions.executable has been successfully created.  

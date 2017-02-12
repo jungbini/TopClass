@@ -1,0 +1,1 @@
+  do NOT call invokeLater for layout problem fix - hack  when in unit test mode  

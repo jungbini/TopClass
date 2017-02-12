@@ -1,0 +1,1 @@
+ bug fix hide realtime-chart layer when changed period-type.  

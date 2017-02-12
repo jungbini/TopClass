@@ -1,0 +1,1 @@
+  Temporary fix for build failure when re-unzipping files  Zip files are unzipped when the server starts up, regardless of whether they've already been unzipped (issue #251).  They actually aren't overwritten when the WORKSPACE file changes, as external/ is assumed to be immutable (issue #236).  -- MOS_MIGRATED_REVID=96206900  

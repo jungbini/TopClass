@@ -1,0 +1,1 @@
+  fix for tips&tricks progress panel height  

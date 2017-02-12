@@ -1,0 +1,1 @@
+  Inline method bug fixed tests added  

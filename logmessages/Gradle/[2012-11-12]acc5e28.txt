@@ -1,0 +1,1 @@
+  Added some details to release notes about dependency management bug fixes.  

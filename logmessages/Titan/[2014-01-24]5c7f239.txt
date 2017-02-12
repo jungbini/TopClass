@@ -1,0 +1,1 @@
+  Introduced Decimal and Precision data types for sort order preserving decimal numbers with a fixed number of digits. Removed FullDouble and FullFloat since those are now replaced with just Double and Float.  

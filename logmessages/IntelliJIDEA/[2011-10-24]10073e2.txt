@@ -1,0 +1,1 @@
+  GitConfig: refactoring; javadocs; fix: pushUrls should be substituted by insteadOf; test for this.  

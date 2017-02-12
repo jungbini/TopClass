@@ -1,0 +1,1 @@
+  deadlock fix in exterenal system notification manager  

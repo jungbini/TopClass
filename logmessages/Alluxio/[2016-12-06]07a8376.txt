@@ -1,0 +1,1 @@
+ Fix bug when object UFS mount point is not ufs://bucket but ufs://bucket/folder instead  

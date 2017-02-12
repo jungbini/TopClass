@@ -1,0 +1,1 @@
+  bound read, mutation, and response stages to fix possible OOM during log replay.  patch by jbellis; tested by Brandon Williams for CASSANDRA-885  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.6@925440 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  fix showing empty text in empty tree  

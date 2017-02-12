@@ -1,0 +1,1 @@
+  GRADLE-221: - Added int test for task dependency samples in userguide (and fixed the samples so they worked) - Renamed master.tex to userguide.tex - Fixed dependency for 'explodedDist' in gradle build so that it actually builds the exploded dist  git-svn-id: http://svn.codehaus.org/gradle/gradle-core/trunk@962 004c2c75-fc45-0410-b1a2-da8352e2331b  

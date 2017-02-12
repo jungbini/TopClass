@@ -1,0 +1,1 @@
+  Filtering kind of speedsearch for more list choosers + fix filtering performance for large lists.  

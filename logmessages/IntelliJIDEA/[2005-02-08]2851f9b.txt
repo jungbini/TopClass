@@ -1,0 +1,1 @@
+  StructureView tests fixed  

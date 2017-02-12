@@ -1,0 +1,1 @@
+  Minor, strip package name from class for script  This is done to be able to construct a FqName of this class. Currently it's not possible because the name contains '/' and FqName validation fails.  This name is only used for debugging and even the ClassDescriptor is used only as a key in binding context to store the internal name of the script class  

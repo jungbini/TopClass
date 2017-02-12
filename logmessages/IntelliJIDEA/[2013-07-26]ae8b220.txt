@@ -1,0 +1,1 @@
+  fixed PY-9637 Extract Method: Replace Duplicates: remove highlighting after skip  

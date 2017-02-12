@@ -1,0 +1,1 @@
+  testng fork per module with debugger  

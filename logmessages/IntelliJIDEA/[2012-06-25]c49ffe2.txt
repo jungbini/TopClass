@@ -1,0 +1,1 @@
+  IDEA-87794 no quickfix for condtional inspection fixed  

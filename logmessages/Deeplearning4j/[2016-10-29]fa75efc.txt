@@ -1,0 +1,1 @@
+  Bug fix for stats listener (learning rates by param) for compgraph  

@@ -1,0 +1,1 @@
+  fix kafka consumer concurrent access during shutdown (#3193)  

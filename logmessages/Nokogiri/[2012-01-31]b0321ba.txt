@@ -1,0 +1,1 @@
+ Use the namespace prefix in `test_custom_xpath_function_return_string` test if not using libxml.  

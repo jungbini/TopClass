@@ -1,0 +1,1 @@
+  vcs: fix scope for a library used only for tests  

@@ -1,0 +1,1 @@
+  IDEA-73251 Mark recursive method calls on gutter partially implemented. Multiple calls on the same line generate multiple icons to be fixed.  

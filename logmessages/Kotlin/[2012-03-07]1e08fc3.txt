@@ -1,0 +1,1 @@
+  make build-tools module depend on idea-core to fix build  

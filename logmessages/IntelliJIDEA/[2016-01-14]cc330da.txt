@@ -1,0 +1,1 @@
+  fragment in debugger text field blinks on/off red  

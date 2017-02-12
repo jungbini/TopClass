@@ -1,0 +1,1 @@
+  drop "ignore unused 'catch' parameters in tests" and use "suppress for 'Tests' scope" quickfix  

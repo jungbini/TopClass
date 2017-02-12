@@ -1,0 +1,1 @@
+  Set some StackTraceElement on pre-instantiated static exceptions  Motivation:  We use pre-instantiated exceptions in various places for performance reasons. These exceptions don't include a stacktrace which makes it hard to know where the exception was thrown. This is especially true as we use the same exception type (for example ChannelClosedException) in 

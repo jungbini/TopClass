@@ -1,0 +1,1 @@
+  fixed eval of compound global vars (PY-2101)  

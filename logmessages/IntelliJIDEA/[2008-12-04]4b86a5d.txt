@@ -1,0 +1,1 @@
+  copyright: import chooser allows xml as copyright container; title fixed  

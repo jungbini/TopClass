@@ -1,0 +1,1 @@
+ fix race condition between supervisor and nimbus that could lead to infinite crash of stormconf.ser not found. supervisor now carefully snapshots the state in zookeeper before making decisions instead of grabbing it piecemeal. the race condition was due to one of the pieces of data grabbed being null  

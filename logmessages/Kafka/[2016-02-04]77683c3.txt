@@ -1,0 +1,1 @@
+  HOTFIX: temp fix for ktable look up  guozhangwang Temporarily disabled state store access checking.  Author: Yasuhiro Matsuda <yasuhiro@confluent.io>  Reviewers: Guozhang Wang  Closes #864 from ymatsuda/fix_table_lookup  

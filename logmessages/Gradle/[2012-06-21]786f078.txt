@@ -1,0 +1,1 @@
+  test logging: fixed output of "short" exception formatter for PlaceholderException  

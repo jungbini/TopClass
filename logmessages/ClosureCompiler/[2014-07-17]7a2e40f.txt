@@ -1,0 +1,1 @@
+  Fix a bug in TransformEs6ModuleToCjsModule where exporting multiple variable declarations in a single statement was not handled correctly. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=71356715  

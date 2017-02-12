@@ -1,0 +1,1 @@
+  Removed extra checking for duplicate annotations in one file. It is performed when reading file anyway.  Also fixing KT-3819 (false "duplicate signature" error): AnnotationData were not checked for VirtualFile equality when interning. Therefore for 

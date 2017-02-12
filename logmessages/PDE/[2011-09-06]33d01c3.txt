@@ -1,0 +1,1 @@
+  Fixed bug preventing old libraries from being deleted  

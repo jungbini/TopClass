@@ -1,0 +1,1 @@
+  [platform] more accurate fix for missing scratch extensions issue (IDEA-126952)  

@@ -1,0 +1,1 @@
+ fixed license header  Signed-off-by: Thomas Eichstdt-Engelen <thomas@openhab.org>  

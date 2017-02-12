@@ -1,0 +1,1 @@
+  First line becomes hidden in the first cell of IPython console (PY-21248)  Integrated and Debug console should remove folding after 

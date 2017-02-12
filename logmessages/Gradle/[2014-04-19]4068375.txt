@@ -1,0 +1,1 @@
+  Fixed some problems with processing of the jar changes for incremental compilation. Started reworking the model, divorced the JarSnapshot from the ClassDependencyInfo of the jar consumer. Jar changes now support transitive class changes. Some unit tests still need fixing. Added bunch of integ test coverage.  

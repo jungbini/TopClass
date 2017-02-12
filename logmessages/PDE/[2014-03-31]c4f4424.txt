@@ -1,0 +1,1 @@
+  renamed buffer uniform to ppixels, fix #2325  

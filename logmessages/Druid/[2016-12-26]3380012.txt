@@ -1,0 +1,1 @@
+  Don't return leaked Objects back to StupidPool, because this is dangerous. Reuse Cleaners in StupidPool. Make StupidPools named. Add StupidPool.leakedObjectCount(). Minor fixes (#3631)  

@@ -1,0 +1,1 @@
+  Fix mismatch between docs and backend/BUILD in master in examples/tutorial.  The tutorial is broken when using the original BUILD source copied from the docs, and this change fixes it.  -- Reviewed-on: https://github.com/bazelbuild/bazel/pull/1137 MOS_MIGRATED_REVID=120102063  

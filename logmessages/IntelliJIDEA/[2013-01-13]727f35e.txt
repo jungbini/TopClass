@@ -1,0 +1,1 @@
+  fixed  PY-8376 "Tools > Sphinx quickstart" command missing from main menu  

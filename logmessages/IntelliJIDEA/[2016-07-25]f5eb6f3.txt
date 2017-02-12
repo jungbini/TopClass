@@ -1,0 +1,1 @@
+  ui: fix progress indicator rendering  Do not use `g.translate` with non-integer arguments - it causes ugly blury rendering. Instead, adjust height to ensure that progress still can be placed exactly in a center.  

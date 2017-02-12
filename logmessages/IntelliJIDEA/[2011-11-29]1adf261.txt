@@ -1,0 +1,1 @@
+  fixed PY-5140 Exclude doctests from quick documentation content  

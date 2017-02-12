@@ -1,0 +1,1 @@
+ [SMALLFIX] pin command, typo fix  

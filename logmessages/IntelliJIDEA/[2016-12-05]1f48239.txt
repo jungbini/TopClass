@@ -1,0 +1,1 @@
+  [platform]: IDEA-165012 fix image dnd when no files are opened  * add Nullable annotations for editor parameter; * check if null in HtmlFileDropHandler;  

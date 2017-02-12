@@ -1,0 +1,1 @@
+  fixup Make launch_buckd return a status code.  Summary: The launcher scripts are crashing when running buckd because propagate_failure expects to be passed a status code, but launch_buckd doesn't return one. This fixes it.  Test Plan: run buckd, see it doesn't crash  

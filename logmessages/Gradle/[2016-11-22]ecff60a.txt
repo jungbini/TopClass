@@ -1,0 +1,1 @@
+  Do not include debug information in class files  

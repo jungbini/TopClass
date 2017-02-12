@@ -1,0 +1,1 @@
+  IDEA-91515 XBreakpointType.createCustomConditionsPanel is not called anymore [rev=amakeev]  Conflicts: java/debugger/impl/src/com/intellij/debugger/ui/JavaDebuggerSupport.java platform/xdebugger-impl/src/com/intellij/xdebugger/impl/breakpoints/XBreakpointPanelProvider.java  

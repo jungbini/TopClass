@@ -1,0 +1,1 @@
+  Bug in check point completeness check was fixed.  

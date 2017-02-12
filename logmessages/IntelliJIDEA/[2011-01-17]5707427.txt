@@ -1,0 +1,1 @@
+  IDEA-64213: EL validation in JSP inspection: do not show quick fixes to create not existent property for library classes  

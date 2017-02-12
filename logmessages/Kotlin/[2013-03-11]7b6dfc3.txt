@@ -1,0 +1,1 @@
+  small fix while choosing maximally specific  return success if there is one candidate after filterOverrides step #KT-1461 fixed  

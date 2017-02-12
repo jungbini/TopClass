@@ -1,0 +1,1 @@
+  fix thread safety of CommitLog.tablesRecovered patch by jbellis; reviewed by rbranson for CASSANDRA-3751  

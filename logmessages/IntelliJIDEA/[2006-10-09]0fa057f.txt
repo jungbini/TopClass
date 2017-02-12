@@ -1,0 +1,1 @@
+  fixing invalid property key in JS plugin  

@@ -1,0 +1,1 @@
+  closure with default parameters fix  

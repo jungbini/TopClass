@@ -1,0 +1,1 @@
+  Wrapper for open to remove stripPrefixIfPresent in object stores  

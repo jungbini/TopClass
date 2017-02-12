@@ -1,0 +1,1 @@
+  refixed NPE in PasteHandler  

@@ -1,0 +1,1 @@
+  fixed PY-6161 Do not propose to add pythonw.exe for virtualenv located in project directory  

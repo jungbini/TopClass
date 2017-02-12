@@ -1,0 +1,1 @@
+  fixed problem with highlighting escaping sequences in 2 string literals concatenation  

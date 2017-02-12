@@ -1,0 +1,1 @@
+  improve speed search in show usages popup, fix IDEA-149094  

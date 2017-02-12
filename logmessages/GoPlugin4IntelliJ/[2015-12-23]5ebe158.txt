@@ -1,0 +1,1 @@
+ Introduce declared but not used inspection for literals (fixes #1310)  

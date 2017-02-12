@@ -1,0 +1,1 @@
+  added GraphFactoryTest to ensure that property prefixes are trimmed correctly.  

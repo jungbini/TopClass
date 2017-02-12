@@ -1,0 +1,1 @@
+  lh: npe fixed in vfs listener  

@@ -1,0 +1,1 @@
+  fixes some problems with the fix for IDEADEV-15621  

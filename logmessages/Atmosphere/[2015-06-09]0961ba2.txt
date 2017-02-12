@@ -1,0 +1,1 @@
+  fix #1992 atmosphere-runtime 2.3.1's bundle manifest does not mark CDI dependency as optional  

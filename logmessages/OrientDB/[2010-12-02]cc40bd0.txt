@@ -1,0 +1,1 @@
+  Fixed bug on treatment of chars when stored as byte  

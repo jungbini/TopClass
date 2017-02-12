@@ -1,0 +1,1 @@
+  'remove catch block' fix for groovy  

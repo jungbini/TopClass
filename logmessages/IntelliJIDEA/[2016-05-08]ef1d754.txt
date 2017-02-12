@@ -1,0 +1,1 @@
+  PyToxTest fix  script-generated content was passed as format argument to String.format leading to "bad format" errors  

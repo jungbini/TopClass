@@ -1,0 +1,1 @@
+  Custom folding regression fixed (IDEA-103915) +review CR-IC @rustam.vishnyakov  

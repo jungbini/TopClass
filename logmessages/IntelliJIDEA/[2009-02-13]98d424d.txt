@@ -1,0 +1,1 @@
+  IDEADEV-34788, some tests for affected functionality, possible deadlock fixed  

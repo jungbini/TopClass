@@ -1,0 +1,1 @@
+  fixed PY-8437 Nosetest runner is set as default for newly created projects when interpreter doesn't have nose installed.  

@@ -1,0 +1,1 @@
+  Prevent cache of sockjs known prefixes from growing  Issue: SPR-10893  

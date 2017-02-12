@@ -1,0 +1,1 @@
+  Always pass -e; some versions of sed give an error message otherwise.  Maybe fixes #1552.  Closes #2175.  -- Reviewed-on: https://github.com/bazelbuild/bazel/pull/2175 PiperOrigin-RevId: 141060731 MOS_MIGRATED_REVID=141060731  

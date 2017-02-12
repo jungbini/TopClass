@@ -1,0 +1,1 @@
+  fix for GRADLE-3335  Improve handling of exclusion patterns on eclipse when resources and java sources share same folder  - only apply exclusion pattern when defined exlicitly for java and for resources - otherwise: ignore  +review REVIEW-5592  

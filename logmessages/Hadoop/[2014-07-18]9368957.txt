@@ -1,0 +1,1 @@
+  fix eol style on TestBootstrapStandbyWithBKJM  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1611726 13f79535-47bb-0310-9956-ffa450edef68  

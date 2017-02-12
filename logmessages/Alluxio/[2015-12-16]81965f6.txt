@@ -1,0 +1,1 @@
+  tachyon-fuse: update jnr-fuse dependency (bugfixes)  

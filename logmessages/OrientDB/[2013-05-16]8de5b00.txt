@@ -1,0 +1,1 @@
+  Fixed bug on OpenJDK7 when default scripting language is not available  

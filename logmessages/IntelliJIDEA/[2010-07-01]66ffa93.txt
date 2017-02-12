@@ -1,0 +1,1 @@
+  findExportedName() returns import element as exported name only if it's resolved (fixes 'import os.path', where thee are a number of 'import xxxpath as path' imports, only one of which is resolved)  

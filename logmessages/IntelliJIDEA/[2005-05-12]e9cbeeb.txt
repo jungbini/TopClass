@@ -1,0 +1,1 @@
+  wildcard bug corrected: should use PsiWildcardType.getExtendsBound() to work correctly for '? super T'  

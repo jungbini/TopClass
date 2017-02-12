@@ -1,0 +1,1 @@
+  Gradle: compiler output folder configuration fix; related issue - IDEA-128514 Gradle project totally fails to build  

@@ -1,0 +1,1 @@
+  Prefer interface to implementation in type declaration  This fixes the build failure with JDK 8  

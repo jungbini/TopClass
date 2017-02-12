@@ -1,0 +1,1 @@
+  fix EDU-743 Disable create button in new project dialog if no course selected  Properly compare invalid courses. By accident fixed error label listener also  

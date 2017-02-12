@@ -1,0 +1,1 @@
+  show more info about combined charts data series. fixes #507  

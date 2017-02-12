@@ -1,0 +1,1 @@
+  fix up Netapi32Test to match DS_DOMAIN_TRUSTS changes elsewhere; I vaguely recall db saying something about removing a related test entirely for duplication of effort, perhaps this was missed checking in?  

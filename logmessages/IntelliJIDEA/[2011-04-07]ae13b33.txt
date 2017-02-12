@@ -1,0 +1,1 @@
+  - XPath namespace prefix references in "normal" XML should be soft -  make unused namespace declaration inspection work correctly right after file opening (hack!)  

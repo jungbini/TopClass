@@ -1,0 +1,1 @@
+  test fix: made independent of events order (propertyChanged may have arrived to this VirtualFileListener earlier than to LocalHistory's listener)  

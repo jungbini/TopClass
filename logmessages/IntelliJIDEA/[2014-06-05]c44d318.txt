@@ -1,0 +1,1 @@
+  IDEA-104484 Console ExceptionFilters are added twice for debugging java app  

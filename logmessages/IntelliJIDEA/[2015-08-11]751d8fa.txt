@@ -1,0 +1,1 @@
+  fixed EDU-392 NPE at com.jetbrains.edu.coursecreator.actions.CCRunTestsAction.update(CCRunTestsAction.java:80)  

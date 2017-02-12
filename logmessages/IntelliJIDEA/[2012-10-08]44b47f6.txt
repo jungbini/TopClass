@@ -1,0 +1,1 @@
+  Groovy change signature: detect signature collisions in case of optional parameters, fix new dialog  

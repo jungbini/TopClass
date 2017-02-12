@@ -1,0 +1,1 @@
+  [mini-aapt] Do not look for xml id definitions/usages in xml files under values* directories.  Summary: I introduced test failures in my previous attempt. This 

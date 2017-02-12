@@ -1,0 +1,1 @@
+  KT-2350 fix: enums with overrides and constructor parameters  

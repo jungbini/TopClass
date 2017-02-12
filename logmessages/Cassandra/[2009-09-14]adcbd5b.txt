@@ -1,0 +1,1 @@
+  Move log level to debug from info when resolve() is called.  patch by Chris Goffinet; reviewed by jbellis for CASSANDRA-427  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@814755 13f79535-47bb-0310-9956-ffa450edef68  

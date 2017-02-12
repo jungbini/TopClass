@@ -1,0 +1,1 @@
+  STORM-2220 Added config support for each bolt in Cassandra bolts, fixed the bolts to be used also as sinks.  

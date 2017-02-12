@@ -1,0 +1,1 @@
+  fixed PY-10881 Method may be static false positive on abc.abstractproperty  

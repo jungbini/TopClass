@@ -1,0 +1,1 @@
+  HBASE-1526 mapreduce fixup; put back test, deprecate mapred package  git-svn-id: https://svn.apache.org/repos/asf/hadoop/hbase/trunk@785051 13f79535-47bb-0310-9956-ffa450edef68  

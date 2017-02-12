@@ -1,0 +1,1 @@
+  bugfix: full GELF messages with only one line were not displayed  

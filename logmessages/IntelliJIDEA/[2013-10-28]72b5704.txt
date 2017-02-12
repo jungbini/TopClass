@@ -1,0 +1,1 @@
+  remove servers view: fixed 'start' action for server  

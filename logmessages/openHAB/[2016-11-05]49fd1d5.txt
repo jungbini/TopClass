@@ -1,0 +1,1 @@
+  Change default retention policy name to "autogen" (documentation have to be adapted). Bugfix: honour retention policy in queries. (#4744)  Signed-off-by: Theo Weiss <theo@m1theo.org> (github: theoweiss)  

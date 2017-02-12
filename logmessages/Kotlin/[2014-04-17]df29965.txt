@@ -1,0 +1,1 @@
+  Smart completion: one more working test and one more test to fix later  

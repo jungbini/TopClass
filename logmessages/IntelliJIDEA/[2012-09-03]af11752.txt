@@ -1,0 +1,1 @@
+  fix some missed cases where global caching is not allowed because the result depends on a thread-local state  

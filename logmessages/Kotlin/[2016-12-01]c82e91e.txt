@@ -1,0 +1,1 @@
+  Implement Invocable on base evaluator and locally-evaluating JSR223 sample engines  fixes #KT-14707  

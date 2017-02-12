@@ -1,0 +1,1 @@
+  Quick fix for performance project not compiling on Java 5.  All of its tasks are simply disabled unless we are running a performance build.  

@@ -1,0 +1,1 @@
+  svn: Refactored ChangesChecker, SuperfluousRemover, Reverter - warnings fixed, code simplified, @NotNull  

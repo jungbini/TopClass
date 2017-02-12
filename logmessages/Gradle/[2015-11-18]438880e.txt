@@ -1,0 +1,1 @@
+  Simplify keeping test temp files  - adds withSuppressCleanup method that can be used in the Rule directly - useful when manually debugging a single test  

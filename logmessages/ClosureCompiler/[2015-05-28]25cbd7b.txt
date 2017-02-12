@@ -1,0 +1,1 @@
+  [NTI] Remove call_function_with_bottom_formal warning. It does not help people figure out how to fix their code.  Introduced a new warning that finds the error earlier, even though it's still not super easy for a user to see what the fix should be. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=94707578  

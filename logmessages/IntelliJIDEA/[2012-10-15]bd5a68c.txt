@@ -1,0 +1,1 @@
+  [git tests] Introduce myTestRoot to hold all test file system: to let it possible to create files (e.g. remote repositories) outside the project.  Alongside: fix: git init before GitRepositoryImpl creation.  

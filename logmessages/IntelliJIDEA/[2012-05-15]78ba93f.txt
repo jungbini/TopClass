@@ -1,0 +1,1 @@
+  ParameterList: avoid undefined macros in macro map (IDEA-86118 GWT plugin run configuration. ${PROJECT_DIR} macros in VM options. Leads crash if trying to run/debug)  

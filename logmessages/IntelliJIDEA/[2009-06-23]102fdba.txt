@@ -1,0 +1,1 @@
+  specify platfom prefix in fixture builder constructor; more dependencies tweakage  

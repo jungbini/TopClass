@@ -1,0 +1,1 @@
+  [platform] IDEA initial configuration wizard fixes  - hard-coded wizard invocation replaced by explicit configuration - plugin pages removed from IDEA app info (replaced by the wizard) - "Configure Plugins" action disabled if no plugin pages configured  

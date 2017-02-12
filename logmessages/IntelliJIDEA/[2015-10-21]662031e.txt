@@ -1,0 +1,1 @@
+  IDEA-146576 Plugin "Install" button is defunct after timeout: added param cleanup to InstallPluginAction.install method  #IDEA-146576 fixed  

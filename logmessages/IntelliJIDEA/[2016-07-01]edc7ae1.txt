@@ -1,0 +1,1 @@
+  WEB-21106 Cannot change numeric value of Javascript property when stopped in debugger  

@@ -1,0 +1,1 @@
+  fix distributed-test MutationTest patch by stuhood; reviewed by Pavel Yaskevich for CASSANDRA-1964  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.7@1060938 13f79535-47bb-0310-9956-ffa450edef68  

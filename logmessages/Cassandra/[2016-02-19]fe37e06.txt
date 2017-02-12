@@ -1,0 +1,1 @@
+  Fix ClusteringPrefix not being able to read tombstone range boundaries.  patch by Branimir Lambov; reviewed by Sylvain Lebresne for CASSANDRA-11158  

@@ -1,0 +1,1 @@
+use serialized P4 connection settings. rather use connection that relates to the VCS root where changes belong to  

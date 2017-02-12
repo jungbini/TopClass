@@ -1,0 +1,1 @@
+  IDEA-97053 fix apk path browse button in facet settings  (cherry-picked from b7f872a)  

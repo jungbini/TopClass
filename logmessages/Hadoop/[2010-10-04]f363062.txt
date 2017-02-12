@@ -1,0 +1,1 @@
+  Add wait on disable to complete to TestHFileOutputFormat by watching regions in transition...; seems to fix unit test  git-svn-id: https://svn.apache.org/repos/asf/hbase/trunk@1004474 13f79535-47bb-0310-9956-ffa450edef68  

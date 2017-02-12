@@ -1,0 +1,1 @@
+  Moved core/src/test and core/src/integTest into new testing module which contains all fixtures/utilities for testing support.  This module is not part of the Gradle distribution. See the build script for this module for more info.  

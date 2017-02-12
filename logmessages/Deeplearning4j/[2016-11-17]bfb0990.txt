@@ -1,0 +1,1 @@
+ Fix two bugs in IteratorMultiDataSetIterator  Two bugs fixed: - It used features instead of labels at some point when splitting a dataset into 2 - It assumed that the number of inputs and outputs are always the same  

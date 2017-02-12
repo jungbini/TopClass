@@ -1,0 +1,1 @@
+  MINOR: Use the correct processor id in the processor thread name  This restores the behaviour before 1265d7cb7.  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Jun Rao <junrao@gmail.com>  Closes #294 from ijuma/fix-processor-thread-name  

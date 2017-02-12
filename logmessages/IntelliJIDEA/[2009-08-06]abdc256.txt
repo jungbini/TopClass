@@ -1,0 +1,1 @@
+  Maven: system.properties files in goto file + bug fix in property text range calculation  

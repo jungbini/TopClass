@@ -1,0 +1,1 @@
+  KT-2014 Better diagnostic when using property syntax to call a method #KT-2014 fixed  

@@ -1,0 +1,1 @@
+  KT-1920 Don't complete java.lang.Double for the prefix Double #KT-1920 fixed  

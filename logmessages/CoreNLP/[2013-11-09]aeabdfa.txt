@@ -1,0 +1,1 @@
+  Improve correction of messed up CTB6 tree in CTBErrorCorrectingTreeNormalizer and provide an embedded class for a TreeReaderFactory so it can be invoked by reflection. Fix CHTBLexer to not have MISCXML able to swallow newlines and to allow the DOCTYPE element to take attributes. These both fix errors showing up when processing CTB7 trees.  

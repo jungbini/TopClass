@@ -1,0 +1,1 @@
+  Signature checks fixed for plus() and minus()  

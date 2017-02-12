@@ -1,0 +1,1 @@
+  use single empty ClipboardOwner implementation; fix leak on drag&drop in editor (IDEADEV-23069)  

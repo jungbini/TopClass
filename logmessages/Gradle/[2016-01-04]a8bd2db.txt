@@ -1,0 +1,1 @@
+  Busted out inner class as an attempt to fix unit test on ibm jvm.  

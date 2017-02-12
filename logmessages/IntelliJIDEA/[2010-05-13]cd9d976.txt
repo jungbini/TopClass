@@ -1,0 +1,1 @@
+  Create Class quickfix (initial) (PY-197)  

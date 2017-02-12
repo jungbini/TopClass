@@ -1,0 +1,1 @@
+  fix(web): removed meta charset utf8 because if breaks appcache  

@@ -1,0 +1,1 @@
+  fix crash when comparing supercolumns (since they cannot be sorted by time)  git-svn-id: https://svn.apache.org/repos/asf/incubator/cassandra/trunk@758975 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  fix(scheme): removed obsolete send encrypted message, moved history methods to messaging package  

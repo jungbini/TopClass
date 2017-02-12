@@ -1,0 +1,1 @@
+  Quick-fix "wrap with safe let call" introduced #KT-11104 Fixed  

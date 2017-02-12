@@ -1,0 +1,1 @@
+  IDEA-114015 Scrollbar preview is twice as big as it should be +Exception fix  

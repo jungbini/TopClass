@@ -1,0 +1,1 @@
+  Tests fixed after visibility changing  

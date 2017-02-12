@@ -1,0 +1,1 @@
+  Drop old enum syntax. Comma / semicolon are now a syntactic part of enum entry.  Comma must present now between enum entries, semicolon between last entry & first member, constructor calls must be without colons / specifiers. A swarm of tests fixed accordingly.  

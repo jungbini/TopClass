@@ -1,0 +1,1 @@
+  use 'max' effort in findbugs integration test  

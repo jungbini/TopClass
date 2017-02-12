@@ -1,0 +1,1 @@
+  Fix private setter visibility for generic class  #KT-8888 fixed  

@@ -1,0 +1,1 @@
+  correct fix for invoking 'safe delete' refactoring outside of write action (EA-80766 - E: BaseRefactoringProcessor.run)  

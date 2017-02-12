@@ -1,0 +1,1 @@
+ Fix bug in node advancer if no configuration information available  

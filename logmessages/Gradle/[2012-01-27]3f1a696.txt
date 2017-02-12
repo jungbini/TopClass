@@ -1,0 +1,1 @@
+  added spec for CommandLineJavaCompilerSupport  - fixed bugs found - polishing  

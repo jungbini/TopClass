@@ -1,0 +1,1 @@
+  allow configuring log categories in tests on team city: idea. prefix for sys properties  

@@ -1,0 +1,1 @@
+  fix for KT-796/797 candidate/resultingDescriptor misuse  

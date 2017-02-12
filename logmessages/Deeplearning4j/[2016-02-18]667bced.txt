@@ -1,0 +1,1 @@
+ Merge branch 'master' into mw_fix_bn  commit 667bcede132a1654cac765bab710c4f7e8e0d0e1  Fixed bugs in how data is shaped and passed. Works for feedforward and convolution. Need variation for RNN and will log for later date. Also may need passing in layer to bn for rnn solution.  

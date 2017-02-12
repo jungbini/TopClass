@@ -1,0 +1,1 @@
+  fixed DELETE EDGE with LIMIT - issue #4523  

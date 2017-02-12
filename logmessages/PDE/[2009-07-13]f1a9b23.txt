@@ -1,0 +1,1 @@
+  fix lines that are 2x too wide (bug #1283)  

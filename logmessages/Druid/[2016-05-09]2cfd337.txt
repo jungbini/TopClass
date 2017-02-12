@@ -1,0 +1,1 @@
+  Merge pull request #2933 from dclim/SQLMetadataSupervisorManagerTest-fix  add uuid to primary key for supervisor table  

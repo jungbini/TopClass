@@ -1,0 +1,1 @@
+  IDEA-66708 (fix editor search component for Nimbus/GTK+)  

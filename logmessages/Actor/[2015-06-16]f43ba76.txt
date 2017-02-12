@@ -1,0 +1,1 @@
+  fix(common): Remove W and H from banner content  

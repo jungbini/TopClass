@@ -1,0 +1,1 @@
+  MINOR: fix transient QueryableStateIntegration test failure  The verification in verifyGreaterOrEqual was incorrect. It was failing when a new key was found. Set the TimeWindow to a large value so all windowed results fall in a single window  Author: Damian Guy <damian.guy@gmail.com>  Reviewers: Guozhang Wang <wangguoz@gmail.com>  Closes #1833 from dguy/minor-test-fix  

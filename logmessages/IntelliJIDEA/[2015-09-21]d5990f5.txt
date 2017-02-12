@@ -1,0 +1,1 @@
+  Fix a bug with 'read-only scheme' message when text attribute selection changes  

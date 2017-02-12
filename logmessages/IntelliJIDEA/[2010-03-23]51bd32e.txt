@@ -1,0 +1,1 @@
+  auto-configure platform prefix in CE tests  

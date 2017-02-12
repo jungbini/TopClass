@@ -1,0 +1,1 @@
+  When inlining imports, avoid visiting Skylark files multiple times that are loaded by a single package. This also fixes a bug in which Skylark code expecting reference equality for an object imported multiple ways were not getting it.  -- MOS_MIGRATED_REVID=135738789  

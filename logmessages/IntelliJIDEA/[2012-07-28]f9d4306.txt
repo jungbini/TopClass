@@ -1,0 +1,1 @@
+  IDEA-89397 Groovy: quick fix "Create field" generates invalid code  

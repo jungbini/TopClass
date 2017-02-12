@@ -1,0 +1,1 @@
+  IDEA-149666 Bookmark icons are not shown for files in Project View: incorrect default fixed  

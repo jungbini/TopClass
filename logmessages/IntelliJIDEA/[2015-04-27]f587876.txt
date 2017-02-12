@@ -1,0 +1,1 @@
+  More test data fixes for WEB-12840 and WEB-16223 (XML/HTML tag ending element)  

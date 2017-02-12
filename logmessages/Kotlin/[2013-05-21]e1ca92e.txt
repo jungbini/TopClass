@@ -1,0 +1,1 @@
+  test for bug with inheritance from native class in ES3 JS-Backend  

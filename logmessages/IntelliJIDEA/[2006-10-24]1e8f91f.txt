@@ -1,0 +1,1 @@
+  debugger: dedicated option whether to run 'make' before reloading classes  

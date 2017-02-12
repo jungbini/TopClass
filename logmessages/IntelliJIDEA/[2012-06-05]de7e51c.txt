@@ -1,0 +1,1 @@
+  #IDEA-86953 fixed : Legal CSS color value flagged as invalid  - add darkgrey color to registry - according to http://www.w3.org/TR/css3-color/#svg-color following colors: dimgrey, darkslategrey, lightgrey, lightslategrey, slategrey  

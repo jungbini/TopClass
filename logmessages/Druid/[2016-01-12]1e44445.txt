@@ -1,0 +1,1 @@
+ Merge pull request #2257 from tubemogul/index-merge-bug  Adds support for empty merge metrics. fixes #2256  commit 1e44445f06ec799beed0b81c2cfe3994d9b4c5ee  Adds support for empty merge metrics. fixes #2256  

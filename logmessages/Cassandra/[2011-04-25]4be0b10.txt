@@ -1,0 +1,1 @@
+  fix nodetool setcompactionthroughput patch by Terje Marthinussen; reviewed by jbellis for CASSANDRA-2550  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.8@1096479 13f79535-47bb-0310-9956-ffa450edef68  

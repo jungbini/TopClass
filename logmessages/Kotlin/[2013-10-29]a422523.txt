@@ -1,0 +1,1 @@
+  Fix an exception that can be thrown if quickfix still exists but psi is no longer valid  

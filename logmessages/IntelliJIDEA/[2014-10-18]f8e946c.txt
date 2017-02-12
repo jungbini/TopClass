@@ -1,0 +1,1 @@
+  can't switch inline debugger off in RubyMine  

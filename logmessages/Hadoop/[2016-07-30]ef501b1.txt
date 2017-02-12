@@ -1,0 +1,1 @@
+  YARN-5121. fix some container-executor portability issues. Contributed by Allen Wittenauer.  

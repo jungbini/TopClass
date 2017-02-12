@@ -1,0 +1,1 @@
+  fixed compile error (must not use gradle-core class from gradle-native)  

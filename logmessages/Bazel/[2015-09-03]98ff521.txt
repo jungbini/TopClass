@@ -1,0 +1,1 @@
+  Don't use null as a flag when iterating over dirty direct deps. Whether or not the iterator has more elements is a perfectly good signal.  Also put the reference hash code into the string representation for use in debugging.  -- MOS_MIGRATED_REVID=102264568  

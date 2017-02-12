@@ -1,0 +1,1 @@
+  fixed fix for "Non-final field of exception class"  

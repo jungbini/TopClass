@@ -1,0 +1,1 @@
+  A quick and dirty fix for error reporting when no function is applicable  

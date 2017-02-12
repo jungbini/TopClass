@@ -1,0 +1,1 @@
+  fixed PY-7751 Test Runner: pytest: skipped with skipIf decorator tests are shown as unfinished ones  

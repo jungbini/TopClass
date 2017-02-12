@@ -1,0 +1,1 @@
+  ProcessExecutor: fix IntelliJ warning  Summary: Unnecessary `static` on `enum` shows as yellow.  Test Plan: CI  

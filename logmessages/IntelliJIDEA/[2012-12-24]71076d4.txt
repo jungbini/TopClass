@@ -1,0 +1,1 @@
+  [r=Alexander.Zolotov] fix for IDEA-97507 "Unused CSS Selector" inspection tool showing false positives test for IDEA-89404 and WI-200 (cherry-picked from c992fbc)  

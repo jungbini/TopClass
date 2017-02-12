@@ -1,0 +1,1 @@
+  Fixed bug in coloring panels for contribution manager when removed  

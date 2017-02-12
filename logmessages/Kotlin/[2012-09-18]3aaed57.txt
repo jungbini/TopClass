@@ -1,0 +1,1 @@
+  Quick fix to replace sure() calls with !!  

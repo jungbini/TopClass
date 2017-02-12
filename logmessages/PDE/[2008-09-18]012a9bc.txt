@@ -1,0 +1,1 @@
+  clear status message when running (bug #912)  

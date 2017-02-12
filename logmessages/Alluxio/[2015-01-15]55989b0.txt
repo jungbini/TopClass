@@ -1,0 +1,1 @@
+  in the vagrant deploy script, attempt to download maven binary using wget doesn't always work. especially when vendors update their repo. Switching to yum repo fixes this problem  Signed-off-by: rootfs <hchen@redhat.com>  

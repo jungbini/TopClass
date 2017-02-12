@@ -1,0 +1,1 @@
+  fixed PY-3927 Types autodetection should search types for __init__ function parameters in class docstring  

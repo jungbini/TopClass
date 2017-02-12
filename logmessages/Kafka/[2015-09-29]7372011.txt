@@ -1,0 +1,1 @@
+  MINOR: fix Quota's equal() function  It compares upper bound with itself.  Author: Edward Ribeiro <edward.ribeiro@gmail.com>  Reviewers: Aditya Auradkar, Ismael Juma, Guozhang Wang  Closes #182 from eribeiro/equals-bug  

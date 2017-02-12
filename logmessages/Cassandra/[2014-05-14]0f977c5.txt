@@ -1,0 +1,1 @@
+  Fix CellName comparison bugs  Patch by tjake; reviewed by bes for CASSANDRA-7227  

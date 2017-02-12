@@ -1,0 +1,1 @@
+  Correctly fixed IDEA-79095 Code Style (php): alignment options not working in every case  

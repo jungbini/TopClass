@@ -1,0 +1,1 @@
+  StreamToLoopInspection fixes: toArray intermediate list type fixed; keywords are filtered out from possible var names; context added to expression passed to BoolUtils; supported inside method calls  

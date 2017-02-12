@@ -1,0 +1,1 @@
+  Fixed bug causing repeated unsubscribes when item configurations are updated.  Signed-off-by: Davy Vanherbergen <davy.vanherbergen@gmail.com>  

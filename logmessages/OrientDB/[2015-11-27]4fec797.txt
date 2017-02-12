@@ -1,0 +1,1 @@
+  fixup tests: add call to activateOnCurrentThread  

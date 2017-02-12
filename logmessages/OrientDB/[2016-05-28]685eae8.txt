@@ -1,0 +1,1 @@
+  console cursor placement fixes #3003  

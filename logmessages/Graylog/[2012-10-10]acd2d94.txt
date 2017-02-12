@@ -1,0 +1,1 @@
+  Point information collector link to right file  fixes #WEBINTERFACE-328  

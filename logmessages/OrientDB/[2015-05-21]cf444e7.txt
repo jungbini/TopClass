@@ -1,0 +1,1 @@
+  fixed check on set assert  

@@ -1,0 +1,1 @@
+  create function quickfix doesn't take arguments from call expression if function being created is itself an argument  

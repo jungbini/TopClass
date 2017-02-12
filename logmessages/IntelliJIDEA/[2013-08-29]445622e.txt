@@ -1,0 +1,1 @@
+  fixed  PY-9724 Notice about abstract methods and properties  

@@ -1,0 +1,1 @@
+  Try to fix JavaAutoPopupTest.  ChooseItemAction should be disabled if live template with right prefix exists. CustomLiveTemplates should not be considered.  

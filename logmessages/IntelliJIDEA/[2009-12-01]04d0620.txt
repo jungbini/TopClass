@@ -1,0 +1,1 @@
+  IDEADEV-41758 fix: TODO: changing colour scheme triggers re-index [r=Alexey.Pegov]  

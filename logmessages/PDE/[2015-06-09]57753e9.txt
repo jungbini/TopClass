@@ -1,0 +1,1 @@
+  prevent window from appearing briefly then moving, also make windows show up on the correct display (fixes #3264)  

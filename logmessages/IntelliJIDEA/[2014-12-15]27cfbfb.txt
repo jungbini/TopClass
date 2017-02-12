@@ -1,0 +1,1 @@
+  fix: when clicking on external annotation gutter icon editor scrolls and popup shows underneath of the method  

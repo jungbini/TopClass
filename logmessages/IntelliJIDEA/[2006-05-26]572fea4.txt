@@ -1,0 +1,1 @@
+  Attempt to fix problem with unreleased editors reporting at project reload.  

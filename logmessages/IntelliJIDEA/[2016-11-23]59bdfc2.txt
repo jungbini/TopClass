@@ -1,0 +1,1 @@
+  fix retina icon size for Project Toolwindow icon  

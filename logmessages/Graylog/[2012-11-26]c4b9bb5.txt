@@ -1,0 +1,1 @@
+  always include latest index in time range selection  fixes #WEBINTERFACE-377  

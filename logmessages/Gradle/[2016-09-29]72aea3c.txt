@@ -1,0 +1,1 @@
+  Increase read ahead buffer size in GC log parsing  - should fix "java.io.IOException: Mark invalid" in GC log parsing  

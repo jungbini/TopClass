@@ -1,0 +1,1 @@
+  fix EA-66819 - IOE: VirtualDirectoryImpl.contentsToByteArray  Changes: do not try to read content for virtual file in case it is really a directory  

@@ -1,0 +1,1 @@
+  IDEA-77666: XSLT debug: Step Out leaves the session in an incomplete state (Step Out not supported yet, does a normal step)  

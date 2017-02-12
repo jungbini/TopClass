@@ -1,0 +1,1 @@
+  Make JBLabel copyable: fix layout  

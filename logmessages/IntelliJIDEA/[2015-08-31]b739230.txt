@@ -1,0 +1,1 @@
+  [groovy] recognize 'indy' prefix in Groovy libraries (IDEA-144506)  

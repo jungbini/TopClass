@@ -1,0 +1,1 @@
+  Issue 126 - New parameter to enable debug messages on read from binary protocol - Dump of debug messages in all the reads from the binary channel  

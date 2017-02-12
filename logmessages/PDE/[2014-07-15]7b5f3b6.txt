@@ -1,0 +1,1 @@
+  fixes #2619  After a call to get()/set(), pixels array has been treated as up-to-date even though user has been drawing. Because of this, loadPixels() was not updating pixels array with changes.  

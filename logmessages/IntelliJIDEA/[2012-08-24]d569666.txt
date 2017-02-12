@@ -1,0 +1,1 @@
+  IDEA-19061 Integrate the Rearranger-plugin into core-IDE  Conditionally debug arrangement rule modification  

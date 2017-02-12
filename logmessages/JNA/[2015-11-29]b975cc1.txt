@@ -1,0 +1,1 @@
+ Merge pull request #536 from java-native-access/fix-inherited-options  Ensure enclosing class query shows up properly for cached options  commit 051900319fb1b353c686b937d599ae738469889e  Merge pull request #549 from java-native-access/fix-pictformat-struct  Fix PictFormat assignment error in X11 libraries  commit b975cc1be2954febcd8b3e233fa4c2bd05efd085  fix javadoc errors  

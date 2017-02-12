@@ -1,0 +1,1 @@
+  [Mihail.Muhin]: ActionRef - fix memleak in case of reloading action classes  

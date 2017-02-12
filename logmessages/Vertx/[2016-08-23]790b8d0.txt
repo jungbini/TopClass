@@ -1,0 +1,1 @@
+  Close the shared worker pools when closing Vertx - fixes #1577  

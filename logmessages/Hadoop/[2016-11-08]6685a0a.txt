@@ -1,0 +1,1 @@
+  YARN-5833. Addendum patch to fix JDK7 compile issue.  

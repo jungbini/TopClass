@@ -1,0 +1,1 @@
+ Add version method to XmlDocument. This fixes an error raised from test_version in test_document.rb  

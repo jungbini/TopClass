@@ -1,0 +1,1 @@
+  mpd: fix artist and track not updated  It may happen that a song changes, but the id stays the same (e.g. for streams). Therefore, test whether the title or the artist has changed instead of the id (which is of no interest anyway).  

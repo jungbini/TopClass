@@ -1,0 +1,1 @@
+  fixed PY-11837 nose test runner errors while formatting a test error  

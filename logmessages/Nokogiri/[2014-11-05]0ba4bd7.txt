@@ -1,0 +1,1 @@
+  Fix a bug where CSS3 selector :nth(n) did not work correctly. (#1187)  

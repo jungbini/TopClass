@@ -1,0 +1,1 @@
+  IDEA-126521 Debugger: "Add To Watches" action is always disabled in the Variables view  

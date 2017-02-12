@@ -1,0 +1,1 @@
+  EA-67323 vcs: fix AIOOBE - common shortcuts can be empty  

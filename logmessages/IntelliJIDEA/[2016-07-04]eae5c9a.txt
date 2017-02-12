@@ -1,0 +1,1 @@
+  filled all needed fields in class structure to fix NPEs from ASM parser  

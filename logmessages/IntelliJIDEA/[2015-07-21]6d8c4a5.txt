@@ -1,0 +1,1 @@
+  IDEA-142629 Evaluation of expression in the debugger resets scroll position in frames  

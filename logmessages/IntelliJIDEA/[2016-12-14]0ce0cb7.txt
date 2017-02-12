@@ -1,0 +1,1 @@
+lt less dependent on the order of channels.  (cherry picked from commit e86b03d)  

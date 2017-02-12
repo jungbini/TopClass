@@ -1,0 +1,1 @@
+  make messageloader work with values that have quotes. fixes #447 /cc @dennisoelkers  

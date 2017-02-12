@@ -1,0 +1,1 @@
+  Allow Logger and LogLevel through in logging class loader of InProcessCompilerDaemonFactory to fix some casting errors.  +review REVIEW-5417  

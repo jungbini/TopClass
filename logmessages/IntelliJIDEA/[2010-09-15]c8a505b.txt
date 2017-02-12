@@ -1,0 +1,1 @@
+  introduce fixes: try smart introduce before selecting whole line, use correct language level when creating elements from text (PY-1840)  

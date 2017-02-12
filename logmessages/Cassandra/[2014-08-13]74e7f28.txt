@@ -1,0 +1,1 @@
+  fix generate-eclipse-files build.xml target on JDK 8  Patch by Robert Stupp, reviewed by Josh McKenzie for CASSANDRA-7430  

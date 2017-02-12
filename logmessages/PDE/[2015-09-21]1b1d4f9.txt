@@ -1,0 +1,1 @@
+  Code suggestions refactoring  - fixed threading - support for array types - support for static access - support for local classes  

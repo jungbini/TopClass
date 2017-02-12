@@ -1,0 +1,1 @@
+  Bug fix: Formatting in injected JS must be equals to formatting embedded JS.  

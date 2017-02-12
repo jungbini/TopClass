@@ -1,0 +1,1 @@
+  Bug fix to core, better camera capture in video library  

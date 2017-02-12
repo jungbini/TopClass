@@ -1,0 +1,1 @@
+  Fix bug when breakpoint added into parents' constructors  

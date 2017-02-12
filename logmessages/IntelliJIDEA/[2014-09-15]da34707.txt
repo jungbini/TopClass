@@ -1,0 +1,1 @@
+  fix IDEA-129769 for "Implicit call to 'super()'" inspection  

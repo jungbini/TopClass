@@ -1,0 +1,1 @@
+  Update the bundled java driver to fix failing pig tests  patch by Aleksey Yeschenko for CASSANDRA-9841  

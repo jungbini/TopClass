@@ -1,0 +1,1 @@
+  xdebugger toolwindow: actions for toolbars registered in xml  

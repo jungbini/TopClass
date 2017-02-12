@@ -1,0 +1,1 @@
+  fix indexing of jar roots  

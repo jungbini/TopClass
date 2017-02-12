@@ -1,0 +1,1 @@
+  [java-decompiler] fixes indentation in annotations  

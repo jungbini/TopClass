@@ -1,0 +1,1 @@
+  RUBY-9022: RubyConsoleProcessHandler passes all tokenized string to console at once so LanguageConsoleImpl could optimize addition of multiple tokens. #RUBY-9022 fixed  

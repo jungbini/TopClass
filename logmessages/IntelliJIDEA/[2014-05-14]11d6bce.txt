@@ -1,0 +1,1 @@
+  java-xdebugger: IDEA-125081 Debugger: Force Step Into works like simple Step Into  

@@ -1,0 +1,1 @@
+  VCS: fix NPE in history panel  

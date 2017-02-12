@@ -1,0 +1,1 @@
+  Added test case for issue reported with publishing plugins  If released, this would mark a regression from Gradle 2.9. This test case clarifies the issue and may assist with finding a fix.  

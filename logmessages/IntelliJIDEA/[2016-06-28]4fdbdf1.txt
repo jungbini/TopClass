@@ -1,0 +1,1 @@
+  IDEA-157673 After opening Preferences first time, controls are not editable, closing dialog leads to it be shown again. + exception thrown  This is a workaround of the problem. The 163 branch will switch to JB JDK b225 where it is fixed.  

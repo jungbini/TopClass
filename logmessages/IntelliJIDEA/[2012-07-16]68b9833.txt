@@ -1,0 +1,1 @@
+  Linux file watcher: reset manual watch list on emptying roots; fix small leak  

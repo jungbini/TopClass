@@ -1,0 +1,1 @@
+ Merge pull request #89 from robertkowalski/js/fix-dashboard  remove unused JavaScript that is producing an error every reload  commit 98e3535c5006530a84de121bc078a8ca543a4c7f  fix problems with UTF8 in tests on OSX machines  

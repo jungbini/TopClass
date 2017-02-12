@@ -1,0 +1,1 @@
+  fixed bug on update reset in case of duplicate key in unique index.  

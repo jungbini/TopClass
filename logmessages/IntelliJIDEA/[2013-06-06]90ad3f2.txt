@@ -1,0 +1,1 @@
+  continue WEB-1917 Don't register breakpoints in xdebug session start  sometimes xdebugProcess should call it explicitly when it is appropriate  

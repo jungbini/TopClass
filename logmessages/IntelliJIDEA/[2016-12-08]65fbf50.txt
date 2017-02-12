@@ -1,0 +1,1 @@
+  MavenRedundantGroupIdInspection fix: remove unnecessary checks  

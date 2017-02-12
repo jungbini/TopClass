@@ -1,0 +1,1 @@
+  inspections & intentions: remove font-fix in descriptions like "style="font-family: verdana,serif;" IDEA-156893  

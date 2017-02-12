@@ -1,0 +1,1 @@
+  Java inspection: Check that the file is writable when applying the fix for "Add Array Creation Expression" inspection (IDEA-157727)  

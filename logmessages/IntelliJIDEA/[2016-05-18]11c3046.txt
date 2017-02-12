@@ -1,0 +1,1 @@
+  IDEA-156201 merge: fix insertion/deletion range position with "ignore whitespaces" policy  follow-up 1d6688473d779d744603392c23864d0fbf9abdc3  

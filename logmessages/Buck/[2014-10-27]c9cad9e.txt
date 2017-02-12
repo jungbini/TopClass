@@ -1,0 +1,1 @@
+  Add buckconfig option to disable Xcode process check  Summary: Advanced engineers asked for the ability to disable Buck's prompt to kill the running IDE. They said they prefer dealing with IDE instability to having to kill and relaunch the (extremely slow) IDE.  This 

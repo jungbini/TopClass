@@ -1,0 +1,1 @@
+  OC-6956 Using executor from environment for CloseAction in XDebugSessionTab  

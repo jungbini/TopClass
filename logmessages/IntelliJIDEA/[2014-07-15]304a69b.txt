@@ -1,0 +1,1 @@
+  IDEA-103025, EA-53787 fix handling of special fonts in soft wrap model  

@@ -1,0 +1,1 @@
+  backport fix from #1156 to fix range queries better; see CASSANDRA-1042  git-svn-id: https://svn.apache.org/repos/asf/cassandra/branches/cassandra-0.6@982580 13f79535-47bb-0310-9956-ffa450edef68  

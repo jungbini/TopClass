@@ -1,0 +1,1 @@
+  KAFKA-1317 follow up fix  

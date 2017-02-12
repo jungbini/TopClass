@@ -1,0 +1,1 @@
+le error 77c94ee [AhyoungRyu] Remove bootstrap dialog animation by default  (cherry picked from commit fea00460bd8a286dfb18ebd1fe2b6639d5cc8b84) Signed-off-by: Mina Lee <minalee@apache.org>  

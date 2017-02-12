@@ -1,0 +1,1 @@
+  Fix the test by lowering the bar. And add some printing options for debugging.  

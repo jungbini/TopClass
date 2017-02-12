@@ -1,0 +1,1 @@
+  Fixed bug against ORestricted access in case of no-user connection (root)  

@@ -1,0 +1,1 @@
+  * Removed TimeBasedUuidGenerator * Fixed a bug where DefaultChannelGroup doesn't recognize the new Integer ID  

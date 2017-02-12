@@ -1,0 +1,1 @@
+  fixed [RUBY-5133] Keep last rake search  

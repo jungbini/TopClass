@@ -1,0 +1,1 @@
+  integrate from RubyMine10: highlighting of logs in xdebugger tabs  

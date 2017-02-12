@@ -1,0 +1,1 @@
+  [structure view] tweak presentation text: replace \n( and \n) with the empty string, fix #2084  

@@ -1,0 +1,1 @@
+  Fixed navigation to sources when FQ name is present in several files.  #KT-1681 fixed  

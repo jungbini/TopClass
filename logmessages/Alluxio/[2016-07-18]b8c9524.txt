@@ -1,0 +1,1 @@
+  [Docfix] del two new lines in Running-Spark-on-Alluxio.md  

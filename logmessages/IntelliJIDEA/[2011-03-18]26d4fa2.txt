@@ -1,0 +1,1 @@
+  fix "Socket opened but not safely closed" inspection in the presence of try-with-resources  

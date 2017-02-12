@@ -1,0 +1,1 @@
+  IDEA-117359 On unknown variables (say SomeClass.methodCall()) suggest import as the first fix  

@@ -1,0 +1,1 @@
+  fixed  PY-4757 Mako: python code blocks and variable blocks lose background color once highlighted as errors  

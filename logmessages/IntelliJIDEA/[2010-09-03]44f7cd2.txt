@@ -1,0 +1,1 @@
+  instance variable -> instance field static variable -> static field run typo inspection on inspection names, problems descriptors and quickfix names  

@@ -1,0 +1,1 @@
+ Merge pull request #938 from 7eggs/doc-fixes  Broker config small fix  commit df5b5250977b7ecd506f45ef0daf995486dd4f8b  Broker config small fix  

@@ -1,0 +1,1 @@
+  MINOR: Move `Incorporating Security Features in a Running Cluster` to its own section under `Security`  It was previously in the SASL section (probably by mistake).  Author: Ismael Juma <ismael@juma.me.uk>  Reviewers: Sriharsha Chintalapani <schintalapani@hortonworks.com>  Closes #1405 from ijuma/fix-security-upgrade-location-in-docs  

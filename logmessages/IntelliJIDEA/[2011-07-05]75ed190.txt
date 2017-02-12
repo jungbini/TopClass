@@ -1,0 +1,1 @@
+  fixed PY-3849 Support for type detection when type specified in docstring as :class:`SomeClass` or :py:class:`SomeClass` sphinx role  

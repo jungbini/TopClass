@@ -1,0 +1,1 @@
+  Small `CachingBuildEngine` fix/cleanup  Summary: - Remove redundant success result posting from `doHydrationAfterBuildStepsFinish` since this is done immediately after from the call site. - Return from `recordBuildRuleSuccess` after failing to clear metadata rather than continuing to report a success after already reporting an error.  Test Plan: `buck test --all`  

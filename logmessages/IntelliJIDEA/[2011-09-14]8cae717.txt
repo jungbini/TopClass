@@ -1,0 +1,1 @@
+  fixed PY-4363 Map help button to correct Help reference in Python test Run/Debug configurations  

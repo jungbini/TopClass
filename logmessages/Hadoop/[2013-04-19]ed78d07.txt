@@ -1,0 +1,1 @@
+ MAPREDUCE-5161. Merge MAPREDUCE-1806 from branch-1 to branch-1-win. CombineFileInputFormat fix for paths not on default FS (Chris Nauroth via bikas)  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1-win@1470030 13f79535-47bb-0310-9956-ffa450edef68  

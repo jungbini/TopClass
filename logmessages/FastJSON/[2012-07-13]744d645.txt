@@ -1,0 +1,1 @@
+  bug fixed: parse big double value error  

@@ -1,0 +1,1 @@
+  GRADLE-850: Refactor progresslogging test fixture. - Augment executer and resolve temporary directory in the textfixture. - Change implementation to all check for small downloads with no intermediate progress logged. - Change used init script template to remove outputlistener when build is finished. This was necessary to run tests in InProcessExecuter.  

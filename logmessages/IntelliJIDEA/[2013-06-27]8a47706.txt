@@ -1,0 +1,1 @@
+  fixed PY-10102 Web2Py: missing completion of paired symbols inside python code in templates  

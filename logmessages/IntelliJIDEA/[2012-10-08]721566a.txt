@@ -1,0 +1,1 @@
+  fixed adding artifacts to 'before launch tasks' when they are marked for deployment  

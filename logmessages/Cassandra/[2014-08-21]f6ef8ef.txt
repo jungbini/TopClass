@@ -1,0 +1,1 @@
+  Ninja: fix cqlsh grammar for functions  Follow up for CASSANDRA-7740  

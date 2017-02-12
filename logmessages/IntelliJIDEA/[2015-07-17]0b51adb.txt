@@ -1,0 +1,1 @@
+  [git] Provide a registry property to read process output in blocking or non-blocking mode  Trying to debug IDEA-142540 (the process doesn't finish).  

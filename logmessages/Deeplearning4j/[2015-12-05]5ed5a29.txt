@@ -1,0 +1,1 @@
+  Word2Vec and ParagraphVectors subsampling fixed Word2Vec and ParagraphVectors subsampling now defaults to 0 Changed WordVectors similarity method to Transforms.cosineSim()  

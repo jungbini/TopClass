@@ -1,0 +1,1 @@
+  fixes from Bobby Evans review  fix potential long overflow bug employ a use-case-specific Comparator instead of an ill-advised, general Comparable implementation for sorting retry records in the PriorityQueue  

@@ -1,0 +1,1 @@
+  Properly quote variables in bash scripts  Summary: This fixes one of the problems described in issue #38 on GitHub, where a project directory with spaces was exposing a lot of misquoted variables in our bash wrapper scripts.  GitHub: Fixes #38  Test Plan: mkdir "/var/tmp/path with spaces" cd "/var/tmp/path with spaces" touch .buckconfig touch BUCK buck targets  

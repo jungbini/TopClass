@@ -1,0 +1,1 @@
+  add test for multi-field index with nullValues fixes #5579 remote tests disabled  

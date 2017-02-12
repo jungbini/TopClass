@@ -1,0 +1,1 @@
+  fix(server:activation): remove akka-http client and use spray client to avoid connection bugs  

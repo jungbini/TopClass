@@ -1,0 +1,1 @@
+  At least temporarily fix catastrophic failure on screen rotation by basically restarting the whole app. I do this by calling finish) in onDestroy().  

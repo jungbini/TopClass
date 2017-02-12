@@ -1,0 +1,1 @@
+  IDEA-107959 Can't debug unit tests (test task) from Gradle  

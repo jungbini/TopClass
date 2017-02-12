@@ -1,0 +1,1 @@
+  change the presentation of the remote mappings field according to IDEA-150347 Design for remote interpreters mapping settings also fixes WEB-19904 Node remote interpreter: Vagrant: show absolute path instead of relative to the project root  

@@ -1,0 +1,1 @@
+  1. fix timestamp storage crash: do not close the storage while build in progress 2. do not subscribe on 'project saved' events - server cached state is cleared too often  

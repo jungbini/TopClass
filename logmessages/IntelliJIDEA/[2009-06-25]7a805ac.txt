@@ -1,0 +1,1 @@
+  [yole] configureByText() works with light temp fixture  

@@ -1,0 +1,1 @@
+  Bumping jersey-netty and kafka versions.  jersey-netty has been promoted from snapshot to proper version including chunked transfers and some stability fix, kafka is now not a beta anymore, which includes a working POM without the need to add all transitive dependencies manually.  

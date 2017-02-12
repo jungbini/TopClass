@@ -1,0 +1,1 @@
+  added fix to null value management fix for issue ##2307  

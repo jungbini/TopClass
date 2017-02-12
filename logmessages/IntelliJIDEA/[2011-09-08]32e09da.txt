@@ -1,0 +1,1 @@
+  fix delegation to abstract method (EA-29618 - NPE: DelegateWithDefaultParamValueIntentionAction.invoke)  

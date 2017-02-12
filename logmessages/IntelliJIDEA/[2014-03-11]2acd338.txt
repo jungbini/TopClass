@@ -1,0 +1,1 @@
+  rebase several problems fixed  *repository update called after HgRebase continue or abort action performed; *directory marked dirty  after HgRebase actions; *exit code enum used for pull command execution instead of int; *HgRepository used  in hg rebase actions instead of VirtualFile  

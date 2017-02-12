@@ -1,0 +1,1 @@
+  test fixtures: don't wrap action invocations into WriteCommandAction  

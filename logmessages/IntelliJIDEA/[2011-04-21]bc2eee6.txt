@@ -1,0 +1,1 @@
+  thread unsafety fix for AbstractTreeNode.hashCode  

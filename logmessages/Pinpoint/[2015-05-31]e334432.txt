@@ -1,0 +1,1 @@
+  fix error in json-lib/JsonLibPlugin, agent/JsonLibJSONArrayIT  

@@ -1,0 +1,1 @@
+  Escaping a quote in a test to fix Emacs font-lock mode rendering.  

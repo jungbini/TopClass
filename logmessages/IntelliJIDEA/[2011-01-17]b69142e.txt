@@ -1,0 +1,1 @@
+  Misc. UI fixes for JavaScript library support [r=K.Safonov]  

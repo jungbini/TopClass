@@ -1,0 +1,1 @@
+  IDEA-65601 Scroll after zoom bug  Vertical scrollbar of editor scroll pane recalculates its bounds on font size change now  

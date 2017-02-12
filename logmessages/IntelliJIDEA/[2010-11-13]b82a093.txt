@@ -1,0 +1,1 @@
+  EA-23467 fix "already disposed"  

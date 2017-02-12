@@ -1,0 +1,1 @@
+ Fix division by minibatch size (temp), fix/update SGD/MLP unit test  

@@ -1,0 +1,1 @@
+  add new watch doesn't start editing fix  

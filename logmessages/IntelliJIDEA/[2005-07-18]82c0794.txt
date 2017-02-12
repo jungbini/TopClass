@@ -1,0 +1,1 @@
+  fixed picking up html descriptor over doctype one  

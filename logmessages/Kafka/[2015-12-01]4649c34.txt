@@ -1,0 +1,1 @@
+  MINOR - fix typo in index corruption warning message  Author: Dong Lin <lindong28@gmail.com>  Reviewers: Ismael Juma, Guozhang Wang  Closes #606 from lindong28/minor-fix-typo  

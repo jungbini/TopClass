@@ -1,0 +1,1 @@
+  IDEA-85927 (Quick-fix for 'Manual array copy' inspection changes semantic if condition is 'i >= 0')  

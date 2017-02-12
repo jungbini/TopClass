@@ -1,0 +1,1 @@
+  copyright: fix initialization order configurables (IDEA-104512)  

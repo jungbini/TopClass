@@ -1,0 +1,1 @@
+  Add workaround for KT-7544  Inlining lambdas into objects or non-inlineable lambdas does not work well.  Should be reverted after issue will be fixed  

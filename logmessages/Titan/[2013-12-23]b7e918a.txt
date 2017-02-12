@@ -1,0 +1,1 @@
+ Change System.err.println to log.debug  

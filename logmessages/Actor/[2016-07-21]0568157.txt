@@ -1,0 +1,1 @@
+  fix(server:dialogs): reduce key for update instead of delivery id, reorder dialogs list  

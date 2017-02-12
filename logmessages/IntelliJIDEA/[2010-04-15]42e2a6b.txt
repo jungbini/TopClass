@@ -1,0 +1,1 @@
+  CopyClassHandler - don't copy classes in Groovy scripts (GroovyCopyClassTest fixed)  

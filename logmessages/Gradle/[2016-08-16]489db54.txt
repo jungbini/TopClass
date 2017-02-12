@@ -1,0 +1,1 @@
+  Bump up version of plugin  Fix a bug in the plugin code.  

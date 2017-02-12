@@ -1,0 +1,1 @@
+ [ALLUXIO-2021] Fix a bug for setPermission in LocalUFS  

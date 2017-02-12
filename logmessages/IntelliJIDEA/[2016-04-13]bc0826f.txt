@@ -1,0 +1,1 @@
+  do not highlight errors in return statements in debugger code fragments - avoid user data keys (IDEA-CR-10075)  

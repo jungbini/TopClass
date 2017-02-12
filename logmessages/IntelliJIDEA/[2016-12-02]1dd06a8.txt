@@ -1,0 +1,1 @@
+  fix RegexpFilterTest: ApplicationManager.getApplication() is unavailable in tests not implementing PlatformTestCase (IDEA-CR-16529)  

@@ -1,0 +1,1 @@
+  colors schemes were regenerated : html/xml attrs names, ruby strings colors were fixed  

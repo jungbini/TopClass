@@ -1,0 +1,1 @@
+  Fix default statistical value for old widgets  When a statistical widget was created with Graylog < 1.1, we used a 

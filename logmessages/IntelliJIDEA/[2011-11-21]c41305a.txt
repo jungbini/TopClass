@@ -1,0 +1,1 @@
+  fixed PY-5073 Django test can not run if settings are not at the top level of the project  

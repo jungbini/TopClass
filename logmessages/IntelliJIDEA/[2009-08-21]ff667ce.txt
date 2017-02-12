@@ -1,0 +1,1 @@
+  don't create classesByName-requiring fix in dumb mode  

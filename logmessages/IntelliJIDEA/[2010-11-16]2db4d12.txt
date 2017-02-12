@@ -1,0 +1,1 @@
+  IDEA-61299: XSLT: completion of xsl:choose generates red code (no namespace prefix)  

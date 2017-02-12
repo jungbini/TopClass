@@ -1,0 +1,1 @@
+  getEqualityObject() fixed for JS debugger  

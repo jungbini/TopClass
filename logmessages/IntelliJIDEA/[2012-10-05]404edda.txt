@@ -1,0 +1,1 @@
+  fixed drag'n'drop from one IDEA to another: don't move working directory  

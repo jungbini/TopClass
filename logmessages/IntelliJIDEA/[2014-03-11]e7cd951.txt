@@ -1,0 +1,1 @@
+  Presentation Mode: common font-size fix for all toolwindows with trees  

@@ -1,0 +1,1 @@
+  YARN-5082. Limit ContainerId increase in fair scheduler if the num of node app reserved reached the limit. Addendum to fix javac warning. (Arun Suresh via kasha)  

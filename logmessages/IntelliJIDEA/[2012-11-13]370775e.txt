@@ -1,0 +1,1 @@
+  fix npe on 10.6 (as suggested by bjansen)  

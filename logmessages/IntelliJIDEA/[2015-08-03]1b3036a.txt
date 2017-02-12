@@ -1,0 +1,1 @@
+  fix Check Sign icon painting under 1.25f scaling  

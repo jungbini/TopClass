@@ -1,0 +1,1 @@
+  major fix for Shift+arrows (introduce "selection lead" property)  

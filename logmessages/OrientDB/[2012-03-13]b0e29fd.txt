@@ -1,0 +1,1 @@
+  Error in creation of simple non-automatic indexes was fixed.  

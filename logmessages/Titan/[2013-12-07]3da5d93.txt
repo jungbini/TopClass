@@ -1,0 +1,1 @@
+  Changed the shading to exclude all "org" dependencies which required some refactoring in Faunus. Included shaded dependencies on titan-cassandra and titan-hbase. Refactored FaunusTitanGraph to abstract all titan version specific elements in the respective delegated class. Some debugging.  

@@ -1,0 +1,1 @@
+  add firing delay to fix problems in tests when events fire when file change is in progress  +review REVIEW-5481  

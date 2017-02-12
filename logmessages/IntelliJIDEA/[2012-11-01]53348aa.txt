@@ -1,0 +1,1 @@
+  IDEA-85676 add logcat to debugger session tab  

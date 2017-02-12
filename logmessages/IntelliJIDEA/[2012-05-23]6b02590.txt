@@ -1,0 +1,1 @@
+  svnkit 9237. DefaultSVNRepositoryPool uses executor and ScheduledFuture with cancel(false) now, which is better strategy for dispose + sqljet.jar fixed  

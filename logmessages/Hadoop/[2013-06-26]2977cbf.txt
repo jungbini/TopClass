@@ -1,0 +1,1 @@
+  Merge -c 1496741 from trunk to branch-2 to fix MAPREDUCE-5326. Added version to shuffle header. Contributed by Zhijie Shen.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1496742 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Automatic renaming overloads in class or object.  #KT-4642 fixed  

@@ -1,0 +1,1 @@
+  Allow rules to reflectively amend the rule key  Summary: There's a class of bugs caused by us forgetting to add fields to the RuleKey correctly. If annotate the fields to add then the builder is able to set these reflectively, avoiding this class of problem.  Test Plan: buck test --all  

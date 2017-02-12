@@ -1,0 +1,1 @@
+  [NTI] Looser subtyping for functions with @this types.  Removes the false warning from #960, but doesn't fix the underlying issue. ------------- Created by MOE: http://code.google.com/p/moe-java MOE_MIGRATED_REVID=95798756  

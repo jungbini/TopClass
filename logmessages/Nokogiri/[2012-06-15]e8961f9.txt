@@ -1,0 +1,1 @@
+  Drop fix-format-security-issue.patch: included upstream  

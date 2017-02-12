@@ -1,0 +1,1 @@
+  KT-12628: replace infix call supports now array accesses too  

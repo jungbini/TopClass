@@ -1,0 +1,1 @@
+  a bit better fix to detect remote paths  

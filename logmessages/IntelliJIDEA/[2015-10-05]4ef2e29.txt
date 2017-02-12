@@ -1,0 +1,1 @@
+  fix: export settings if one of the stotages is deprecated  

@@ -1,0 +1,1 @@
+ Merge pull request #556 from lwahonen/shlwapi_fix  Make Shlwapi inherit the right class  commit f3e30cd1593b68f23acab75dec3cf6b3c186a5bd  Fix REFIID signatures in tests, fix testFindName  

@@ -1,0 +1,1 @@
+  ClientBoostrap#bind() Javadoc fix. See #588  

@@ -1,0 +1,1 @@
+  A bug caused by side-effects in assertions fixed. A new test (checks the code for suspicious asserts) added.  

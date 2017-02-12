@@ -1,0 +1,1 @@
+ fixing how sax start_elements handle non-namespace attributes: an assoc list of [name,value] pairs. closes #356.  

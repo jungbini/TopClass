@@ -1,0 +1,1 @@
+  merged the TYPE_ARGUMENTS_REDUNDANT quickfix into the 3 previously merged quickfixes  

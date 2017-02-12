@@ -1,0 +1,1 @@
+  Javafx: FXML inspection that validates event handler methods' signature. Use full generic event type in quickfix that creates event handler method. Use multi-reference for navigating to ambiguous event handler methods. (IDEA-151694)  

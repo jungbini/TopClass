@@ -1,0 +1,1 @@
+  fix(server:groups): write dummy data to state of deleted group  

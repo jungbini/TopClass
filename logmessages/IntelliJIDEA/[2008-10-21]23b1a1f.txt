@@ -1,0 +1,1 @@
+  reviewed: AssertionErrord for Gant in Grails support fixed Grails module builder fixes  

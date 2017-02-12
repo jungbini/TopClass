@@ -1,0 +1,1 @@
+  KT-1630 Do not select automatically completion proposal in definition of lambda parameters #KT-1630 fixed  

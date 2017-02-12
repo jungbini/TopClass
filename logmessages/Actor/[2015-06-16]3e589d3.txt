@@ -1,0 +1,1 @@
+  fix(web): apply draft only on ComposeSection mounting  

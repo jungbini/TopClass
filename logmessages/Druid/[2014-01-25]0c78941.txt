@@ -1,0 +1,1 @@
+  add a workaround for jackson bug where jacksoninject fails when a null value is passed through json creator annotated constructor  

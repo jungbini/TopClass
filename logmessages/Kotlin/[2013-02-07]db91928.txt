@@ -1,0 +1,1 @@
+  test fixes after refactorings expected return type for function literal cannot depend on expected type of outer function  

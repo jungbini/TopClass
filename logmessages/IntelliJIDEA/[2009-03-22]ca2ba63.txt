@@ -1,0 +1,1 @@
+  move ContentEntriesEditor and dependencies to lang-impl; fix editing of Java directories settings  

@@ -1,0 +1,1 @@
+  load SQL plugin when running PyCharm under a debugger  

@@ -1,0 +1,1 @@
+  JavaParameters migrated to new api (IDEA-55925 fixed), special order processing for maven implemented  

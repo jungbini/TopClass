@@ -1,0 +1,1 @@
+  make VirtualFilePointerManager more responsive to VFS changes to update virtual file pointers sooner to fix EA-87976 - assert: RootIndex.ensureValid  

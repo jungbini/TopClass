@@ -1,0 +1,1 @@
+  Prevent usage of deprecated constructor  This removes warning with gradle 2.14. Before 2.14 constructor was removed, then it was returned and deprecated.  #KT-12786 fixed  

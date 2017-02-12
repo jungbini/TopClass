@@ -1,0 +1,1 @@
+  Initialize GitRepositoryManager in a DumbAwareRunnable - it should be already available while indexing.  +cosmetics: fix convert to local warning.  

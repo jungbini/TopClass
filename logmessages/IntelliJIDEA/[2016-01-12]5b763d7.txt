@@ -1,0 +1,1 @@
+ PY-17979 Reverted controversial fix for the PY-13304  Continuation indent is used for function arguments only to avoid structure ambiguity.  

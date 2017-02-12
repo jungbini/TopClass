@@ -1,0 +1,1 @@
+  simplify  default storage don't have to implement StateStorage contract (prepare to fix IDEA-134505 Default settings are not applied anymore) reduce memory usage  don't create DefaultsStateStorage instance per store (it is not yet clear  should we support default storage for module/project components?)  

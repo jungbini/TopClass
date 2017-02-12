@@ -1,0 +1,1 @@
+  delete stream alert rules together with stream. fixes #WEBINTERFACE-266  

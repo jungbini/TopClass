@@ -1,0 +1,1 @@
+  findClass should work in debugger manager thread no matter what  

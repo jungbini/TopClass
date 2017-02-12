@@ -1,0 +1,1 @@
+  python: have in-place and standalone use same rule for executable  Summary: Previously, the in-place python binary rule actually used a `WriteFile` rule with a `#script` flavor to generate the output.  This meant if that if the user was switching between the in-place and standalone package modes, that they'd run two 

@@ -1,0 +1,1 @@
+  ~ fix choosing target when outputItem.sourceFiles is empty  

@@ -1,0 +1,1 @@
+  GRADLE-2364: Add integration test for this bug. (currently ignored).  

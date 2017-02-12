@@ -1,0 +1,1 @@
+  do not resolve documentation-only builtin types, fix #2503  

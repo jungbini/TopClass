@@ -1,0 +1,1 @@
+  Tweaked the test fixture that determines whether a given Gradle version works on a given Java version, when used as a target of the tooling API.  

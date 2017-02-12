@@ -1,0 +1,1 @@
+  Introduced IvyHttpRepository fixture, migrated more int tests to MavenHttpRepository fixture.  

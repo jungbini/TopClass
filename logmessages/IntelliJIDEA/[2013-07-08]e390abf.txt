@@ -1,0 +1,1 @@
+  fixed stupid mistake comparing strings  fixed PY-10242 Incorrect caret position after creating docstring stub by pressing Space  

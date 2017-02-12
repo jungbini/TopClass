@@ -1,0 +1,1 @@
+  Fixed bugs for "bazel test" command on Windows  After this fix, we can run shell test, python test and cpp test with msvc toolchain on Windows using bazel test command  -- Change-Id: I61e3984b6df2c4aef8762037a91a0f3a29d01691 Reviewed-on: https://bazel-review.googlesource.com/#/c/3385 MOS_MIGRATED_REVID=119950353  

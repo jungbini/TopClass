@@ -1,0 +1,1 @@
+efault value for width and height z.show() parameters 3e0ef22 [Paul Bustios] Bug fix in show_matplotlib  

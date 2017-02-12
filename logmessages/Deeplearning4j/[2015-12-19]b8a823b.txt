@@ -1,0 +1,1 @@
+ Merge master and fix conflict in datasetiteratortest  commit b8a823b7faa2c2a3ba948e1af945ebdbbf669644  GloVe math fix incoming  

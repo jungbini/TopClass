@@ -1,0 +1,1 @@
+  IDEA-59044 After pressing Soft wrap button in the debugger console, PyCharm hangs  Handling problem with the first soft wraps cache recalculation request  

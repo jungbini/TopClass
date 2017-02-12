@@ -1,0 +1,1 @@
+  Fix 2 bugs in code printing goog.scope code: - Always use the short alias for any aliased types. - Don't print the "$jscomp$scope" rewritten symbol in the final output.  ------------- Created by MOE: https://github.com/google/moe MOE_MIGRATED_REVID=130801883  

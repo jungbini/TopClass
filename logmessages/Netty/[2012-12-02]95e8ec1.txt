@@ -1,0 +1,1 @@
+s and writes.  Additionally, this commit also changes SingleThreadEventExecutor to let it handle unexpected exceptions such as AssertionError in a robus manner.  

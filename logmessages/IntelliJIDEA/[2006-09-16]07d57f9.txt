@@ -1,0 +1,1 @@
+  Introducing rolled back changes. Serious problem fixed in CharArrayUtil.fromSequence() -> char[]  

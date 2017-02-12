@@ -1,0 +1,1 @@
+  moved AutTestedSamplesPluginsIntegrationTest to plugins project and fixed TestLoggingContainer sample  

@@ -1,0 +1,1 @@
+  perf(server:frontend): fixed performance problem of kuznechik  

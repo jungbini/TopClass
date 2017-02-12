@@ -1,0 +1,1 @@
+  fixed bug, inconsistency and missing JDT doc in "Eclipse plugin" userguide  

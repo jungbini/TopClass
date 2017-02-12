@@ -1,0 +1,1 @@
+  Platform: globally use customized 'Delete' shortcuts (IDEA-102003) + typo fixed  

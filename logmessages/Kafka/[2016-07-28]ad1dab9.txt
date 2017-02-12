@@ -1,0 +1,1 @@
+  HOTFIX: Fix unstable Streams application reset integration test  Author: Matthias J. Sax <matthias@confluent.io>  Reviewers: Eno Thereska <eno.thereska@gmail.com>, Ismael Juma <ismael@juma.me.uk>  Closes #1673 from mjsax/hotfix  

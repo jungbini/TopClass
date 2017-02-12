@@ -1,0 +1,1 @@
+  YARN-854. Fixing YARN bugs that are failing applications in secure environment. Contributed by Omkar Vinit Joshi.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/trunk@1494845 13f79535-47bb-0310-9956-ffa450edef68  

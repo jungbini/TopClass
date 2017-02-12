@@ -1,0 +1,1 @@
+  IDEADEV-21411: Someone turned debug info logging on: that's why assertion. Assertion corrected.  

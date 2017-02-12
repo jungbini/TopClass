@@ -1,0 +1,1 @@
+  Get runfiles prefix from the WORKSPACE file  -- MOS_MIGRATED_REVID=87513766  

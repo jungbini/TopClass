@@ -1,0 +1,1 @@
+  Fixed bug on management of indexes with the introducing of new ODistributedStorage  

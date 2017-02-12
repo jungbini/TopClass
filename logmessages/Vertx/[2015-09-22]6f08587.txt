@@ -1,0 +1,1 @@
+  Polish tests and fix start command when running another launcher class.  Signed-off-by: Clement Escoffier <clement.escoffier@gmail.com>  

@@ -1,0 +1,1 @@
+  cosmetics for sources tab 'reset filter' action  fixes #1337  

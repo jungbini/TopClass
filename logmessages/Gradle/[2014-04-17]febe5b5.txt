@@ -1,0 +1,1 @@
+  Hotfixed a problem with our scala template project. We need to use scala 2.10 for now to be consistent with scalatest variant (there is no 2.11 variant of scalatest at the moment). Down the road we need to get it smarter so that the template uses latest scala.  

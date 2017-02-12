@@ -1,0 +1,1 @@
+  fixed cleanup methods to protected against accidental closing of sockets.  

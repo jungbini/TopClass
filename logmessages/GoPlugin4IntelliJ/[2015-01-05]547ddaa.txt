@@ -1,0 +1,1 @@
+  fix #1157: braces completion for struct types  

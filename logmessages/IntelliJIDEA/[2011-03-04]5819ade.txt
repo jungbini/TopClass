@@ -1,0 +1,1 @@
+  Maven: add dependency dialog font fix (IDEA-65651)  

@@ -1,0 +1,1 @@
+d after JTable repaint. The repaint on the other hand tried to guess the area to repaint, but didn't succeed because we were staying in the invalid area, in which case repaint was called for the whole table (see BasicTableUI.paint "if (rMin == -1)..."  

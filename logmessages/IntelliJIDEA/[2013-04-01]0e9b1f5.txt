@@ -1,0 +1,1 @@
+  restored constructor with old signature to fix compilation of android plugin in community repository  

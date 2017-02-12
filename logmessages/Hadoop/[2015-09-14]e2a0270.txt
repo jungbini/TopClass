@@ -1,0 +1,1 @@
+  YARN-4151. Fix findbugs errors in hadoop-yarn-server-common module. (Meng Ding via wangda)  

@@ -1,0 +1,1 @@
+  fixes KT-1464 to add type parameters and arguments to the generated kdoc  

@@ -1,0 +1,1 @@
+  IDEA-104806 'Error creating patch: null' fix;  binary content revisions implemented for hg vcs  

@@ -1,0 +1,1 @@
+  fixed font size in python inspections  

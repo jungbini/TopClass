@@ -1,0 +1,1 @@
+  JspEditingTest fixed Creating non-undoable actions for file operations with binary files  

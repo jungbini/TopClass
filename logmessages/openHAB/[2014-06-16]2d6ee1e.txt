@@ -1,0 +1,1 @@
+  Bugfix which solves a conflict between CV and REST binding where one BroadcasterCache setting overwrites the other  

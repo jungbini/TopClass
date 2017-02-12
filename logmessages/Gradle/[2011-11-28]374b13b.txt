@@ -1,0 +1,1 @@
+  fixed problem where GradleDistributionExecuter run in embeddedDaemon mode couldn't find a Factory<Daemon>  

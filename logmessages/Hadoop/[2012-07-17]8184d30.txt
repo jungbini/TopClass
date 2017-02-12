@@ -1,0 +1,1 @@
+  Moved HADOOP-8365 and HADOOP-8552 to INCOMPATIBLE CHANGES section. Also fixed several formatting issues  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.1@1362659 13f79535-47bb-0310-9956-ffa450edef68  

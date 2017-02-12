@@ -1,0 +1,1 @@
+  platform: plugin URL / plugin download URL separated (test fix)  

@@ -1,0 +1,1 @@
+  fixed EDU-123 Plugin description  

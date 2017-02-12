@@ -1,0 +1,1 @@
+  IDEA-132049 Debugger enumerates member fields of a null reference with NPEs  

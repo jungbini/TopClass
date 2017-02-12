@@ -1,0 +1,1 @@
+  Fix the tool mocking for Java code coverage  The recent fixes in Java coverage changed the place of the code coverage tooling but did not updated the BazelAnalysisMock.  -- Change-Id: I2badeeb2944753bc6de720986a8e36bb6f42d31c Reviewed-on: https://cr.bazel.build/8037 PiperOrigin-RevId: 142546324 MOS_MIGRATED_REVID=142546324  

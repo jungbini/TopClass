@@ -1,0 +1,1 @@
+ prevent multiple sketch windows opening (fixes 2506)  

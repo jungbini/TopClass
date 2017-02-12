@@ -1,0 +1,1 @@
+  disable adagrad by default on word2vec fix bug in line iterator  

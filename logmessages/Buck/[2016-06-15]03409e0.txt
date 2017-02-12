@@ -1,0 +1,1 @@
+  cxx_genrule: add headers to rule key  Summary: This fixes a bug with `cxx_genrule` where modifying a header wouldn't trigger a rebuild of a `cxx_genrule`, as headers weren't being set in the rule key.  Test Plan: added unittest  Reviewed By: Coneko, beefon  fbshipit-source-id: 4cc4f72  

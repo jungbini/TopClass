@@ -1,0 +1,1 @@
+  Use -fno-canonical-system-headers when supported  This makes the same change to cc_configure.bzl made to the hard-coded CROSSTOOL in 763f1397155fc7c12e1f1071a1bc942f91b867c4 to fix #1642  -- Change-Id: Ia05788243d0128ea4921f12c437ef6cebd83a4ff Reviewed-on: https://bazel-review.git.corp.google.com/#/c/5450/ MOS_MIGRATED_REVID=130636065  

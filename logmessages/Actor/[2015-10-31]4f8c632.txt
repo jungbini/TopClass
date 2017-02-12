@@ -1,0 +1,1 @@
+  fix(server:messaging): fixed service message on contact register  

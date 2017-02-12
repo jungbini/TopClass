@@ -1,0 +1,1 @@
+  more diagnostics in groovyc & mysterious 'exception in thread Main' fix  

@@ -1,0 +1,1 @@
+  Gradle-2238: reuse M2Installation fixture in MavenM2CacheReuseIntegrationTest / some cleanup.  

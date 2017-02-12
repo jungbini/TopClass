@@ -1,0 +1,1 @@
+  fixed PY-10458 Chameleon: comment with block comment does nothing inside html ad pt files  

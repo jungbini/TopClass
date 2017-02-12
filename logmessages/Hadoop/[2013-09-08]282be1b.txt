@@ -1,0 +1,1 @@
+  HDFS-5134. Move blockContentsStale, heartbeatedSinceFailover and firstBlockReport from DatanodeDescriptor to DatanodeStorageInfo; and fix a synchronization problem in DatanodeStorageInfo.   git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/HDFS-2832@1520938 13f79535-47bb-0310-9956-ffa450edef68  

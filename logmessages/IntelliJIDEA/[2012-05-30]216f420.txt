@@ -1,0 +1,1 @@
+  IDEA-85987 inner anonymous classes cannot implement interfaces fixed  

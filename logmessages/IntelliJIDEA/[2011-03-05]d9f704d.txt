@@ -1,0 +1,1 @@
+  WI-2592: Funny bug with moving breakpoints  

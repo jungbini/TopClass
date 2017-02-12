@@ -1,0 +1,1 @@
+ Issue 1759: Fixed bug "Put value into index in Tx doesn't work"  

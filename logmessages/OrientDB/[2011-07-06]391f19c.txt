@@ -1,0 +1,1 @@
+  Index: fixed issue on duplicated key when the index remain in configuration  

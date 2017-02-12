@@ -1,0 +1,1 @@
+  fixed PY-6402 noinput option in the django tests  

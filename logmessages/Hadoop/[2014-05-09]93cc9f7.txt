@@ -1,0 +1,1 @@
+  svn merge -c 1593470 merging from trunk to branch-2 to fix:HDFS-6329. WebHdfs does not work if HA is enabled on NN but logical URI is not configured. Contributed by Kihwal Lee.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1593471 13f79535-47bb-0310-9956-ffa450edef68  

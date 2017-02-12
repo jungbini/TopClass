@@ -1,0 +1,1 @@
+  Improve handling of Elasticsearch indices (#2062)  Make sure to only return Graylog indices in the indices and indices overview resources.  Until we find a better solution, hard code the index suffix for restored archive indices to make it possible to search in restored indices and close/delete them.  Fixes #2058  

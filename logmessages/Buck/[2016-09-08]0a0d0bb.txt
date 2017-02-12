@@ -1,0 +1,1 @@
+  Ignore com.facebook.buck.intellij files from compilation by the main buck module.  Summary: Don't compile the intellij module as part of the buck module.  It was wrongly rooted, and even if we fix that, it has 

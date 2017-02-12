@@ -1,0 +1,1 @@
+  fixed 'already disposed' assertion (EA-56661)  

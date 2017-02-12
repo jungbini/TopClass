@@ -1,0 +1,1 @@
+  Index retention cleaner went all mad  The index sorting was not working correctly if you had more than 10 indices. No test went red, because none was crossing the _10 mark.  fixes #SERVER-230  

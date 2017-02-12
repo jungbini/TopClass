@@ -1,0 +1,1 @@
+  Maven: test fixed by removing unnecessary and obsolete assertion  

@@ -1,0 +1,1 @@
+  [git] revert incorrect encoding fixes IDEA-93348  

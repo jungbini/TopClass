@@ -1,0 +1,1 @@
+  [SMALLFIX] fix NPE in worker servlet  

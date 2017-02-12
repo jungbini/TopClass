@@ -1,0 +1,1 @@
+  xdebugger: show alert icon when normal or error output is printed to console  

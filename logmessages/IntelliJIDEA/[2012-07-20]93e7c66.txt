@@ -1,0 +1,1 @@
+  fix race condition: IDEA-88912 Ant completion message not always displayed  

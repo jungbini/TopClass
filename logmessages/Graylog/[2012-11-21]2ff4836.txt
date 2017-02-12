@@ -1,0 +1,1 @@
+  fix wrong alarm save redirect  fixes #WEBINTERFACE-364  

@@ -1,0 +1,1 @@
+  Update user-skeletons path in SDK, fixed a bug with removeRoots() instead of addRoot()  

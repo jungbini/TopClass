@@ -1,0 +1,1 @@
+  fixes for the settings() dialog sometimes causing a crash  

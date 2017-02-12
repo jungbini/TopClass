@@ -1,0 +1,1 @@
+  CodeInsightTestFixture.testHighlighting(java.lang.String...): fix javadoc  

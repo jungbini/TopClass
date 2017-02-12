@@ -1,0 +1,1 @@
+  insert handler fix do not insert parentheses after constructor invocation if they already exist  

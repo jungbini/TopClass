@@ -1,0 +1,1 @@
+  backport of c697c5eb0b421afcc0eceeb92bf5bc396dac4831 to 1.3  fixes #1588  

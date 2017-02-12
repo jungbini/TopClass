@@ -1,0 +1,1 @@
+ temporary array in memory, but rather used the iterator  

@@ -1,0 +1,1 @@
+  Fix for https://atmosphere.dev.java.net/issues/show_bug.cgi?id=60 ("Some data might be lost when junk comments are mixed with streaming data")  See issue description  

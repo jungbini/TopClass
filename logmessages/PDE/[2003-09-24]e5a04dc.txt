@@ -1,0 +1,1 @@
+  fixes to the font builder for windows, fixes for mac dist building, bugs.txt  

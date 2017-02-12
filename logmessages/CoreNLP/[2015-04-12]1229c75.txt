@@ -1,0 +1,1 @@
+  Really fix it so not all properties are passed down to NER.  

@@ -1,0 +1,1 @@
+  Fixed bug that arises when two vertex id sets with 

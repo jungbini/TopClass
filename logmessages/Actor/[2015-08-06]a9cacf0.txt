@@ -1,0 +1,1 @@
+  feat+refactor+style(web): add static preferences window, fix blue button color.  

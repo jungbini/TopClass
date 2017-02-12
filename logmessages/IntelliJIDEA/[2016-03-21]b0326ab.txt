@@ -1,0 +1,1 @@
+  Javafx: Handle wildcard event type in the quick fix that creates event handler method. Add test for that. (IDEA-151694)  

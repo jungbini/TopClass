@@ -1,0 +1,1 @@
+  fixed PY-2533 CCE at com.jetbrains.python.codeInsight.intentions.PyDictLiteralFormToConstructorIntention.isAvailable  

@@ -1,0 +1,1 @@
+  fixed missing failure in case of operation on graph already shutdown, issue #5986  

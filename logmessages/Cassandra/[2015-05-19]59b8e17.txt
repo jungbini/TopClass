@@ -1,0 +1,1 @@
+  Log error when closing streaming connection at debug  (this is good hygiene and remove a findBugs warning in particular)  

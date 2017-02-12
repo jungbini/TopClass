@@ -1,0 +1,1 @@
+  print jvm args on startup  fixes #875  

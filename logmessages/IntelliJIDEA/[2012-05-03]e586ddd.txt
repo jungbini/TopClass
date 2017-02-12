@@ -1,0 +1,1 @@
+  fixed PY-6286 Invalid output format for virtualenvs on py2.4  

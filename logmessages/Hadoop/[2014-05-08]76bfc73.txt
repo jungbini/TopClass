@@ -1,0 +1,1 @@
+  svn merge -c 1593362 merging from trunk to branch-2 to fix:HADOOP-10158. SPNEGO should work with multiple interfaces/SPNs. Contributed by Daryn Sharp.  git-svn-id: https://svn.apache.org/repos/asf/hadoop/common/branches/branch-2@1593363 13f79535-47bb-0310-9956-ffa450edef68  

@@ -1,0 +1,1 @@
+  Supported new type OType.CUSTOM to use custom types inside documents. This fixes the bug on remote Gremlin execution where a OrientVertex and OrientEdge are returned.  

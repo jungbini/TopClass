@@ -1,0 +1,1 @@
+  Added Main.main() method back for now, it's still being used by the test fixtures.  

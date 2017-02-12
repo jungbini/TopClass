@@ -1,0 +1,1 @@
+  fixed  PY-3066 Customer TEST_RUNNER not being used by django_test_runner. Works for custom TEST_RUNNER in django > 1.1.  

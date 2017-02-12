@@ -1,0 +1,1 @@
+  fix handling of JRE_CONTAINER configuration  - reenable test - todo unit test coverage  +review REVIEW-5723  

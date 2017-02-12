@@ -1,0 +1,1 @@
+  IDEA-130724 fix NPE  

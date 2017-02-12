@@ -1,0 +1,1 @@
+  IDEA-93196 Mercurial: Repository View: Copy doesn't copy revision number fixed  

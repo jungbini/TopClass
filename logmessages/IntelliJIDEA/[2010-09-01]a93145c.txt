@@ -1,0 +1,1 @@
+  fix FileContent.getPsiFile to return proper psi when max.file.size is reached  

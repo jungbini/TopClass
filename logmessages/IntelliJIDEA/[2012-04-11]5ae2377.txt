@@ -1,0 +1,1 @@
+  AppCode: npe when creating a new project fixed (OC-3546)  

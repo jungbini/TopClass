@@ -1,0 +1,1 @@
+  Make version comparison more lenient with pre-release versions (#2548)  Use the normal version without pre-release and build suffixes to compare against the other when this a pre-release version.  Makes plugin loading work in a 2.1.0-beta.1 server where the plugin requires 2.1.0.  Fixes #2462  

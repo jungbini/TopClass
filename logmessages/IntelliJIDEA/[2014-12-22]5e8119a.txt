@@ -1,0 +1,1 @@
+  [vcs-log][linear-bek] fix initial import by complicating the code again  

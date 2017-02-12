@@ -1,0 +1,1 @@
+ Merge pull request #1630 from gerrieg/homematic  [Homematic] updateDevice rpc method, add missing ccu rssi datapoints and fixed BinRpc bug  commit 0e3c6d4571c4a1e86c54188036402b734e394647  Fixed BinRpc bug with negative values  

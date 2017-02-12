@@ -1,0 +1,1 @@
+  fixed issue #3904 - short-circuit evaluation in SQL  

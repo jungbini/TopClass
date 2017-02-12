@@ -1,0 +1,1 @@
+  one more check for par type, fix #2348  

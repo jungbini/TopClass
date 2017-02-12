@@ -1,0 +1,1 @@
+  [MRI] Update to libxml-2.9.3.  The new release fixes no less than 10 CVE assigned security issues, so the recommended libxml version is increased as well.  The patch to config.guess is removed, because libxml-2.9.3 ships a reasonably new version of this file (2015-01-01).  See https://mail.gnome.org/archives/xml/2015-November/msg00012.html  

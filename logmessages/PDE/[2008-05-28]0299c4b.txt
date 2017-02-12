@@ -1,0 +1,1 @@
+  fix regression in candy since 0135 caused by extra draw() methods, also comment-out font code  

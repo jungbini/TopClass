@@ -1,0 +1,1 @@
+  [vcs-log] fix keymap group for text filter settings: can add shortcut for the whole menu, remove duplicated actions, fix order  

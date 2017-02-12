@@ -1,0 +1,1 @@
+  #1316 Fixed bug loading from classpath within .zip files  Signed-off-by: Ernesto J. Perez Garcia <ernestojpg@gmail.com>  

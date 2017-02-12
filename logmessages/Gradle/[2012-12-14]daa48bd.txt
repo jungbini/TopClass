@@ -1,0 +1,1 @@
+  improved fixture sharing in integration tests, and renamed it to "build sharing"  

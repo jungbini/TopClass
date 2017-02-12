@@ -1,0 +1,1 @@
+  performing cleanup (and memory usage reporting) only if kotlin compiler was actually called, should fix e.g. KT-10127  

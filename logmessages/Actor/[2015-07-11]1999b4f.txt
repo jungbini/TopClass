@@ -1,0 +1,1 @@
+  fix(electron): Fixing electron building, fixing window close  

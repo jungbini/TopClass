@@ -1,0 +1,1 @@
+  scope language fix: enable [-|0-9]+ in module/file names IDEADEV-13273; IDEADEV-14477  

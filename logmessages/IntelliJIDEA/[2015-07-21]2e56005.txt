@@ -1,0 +1,1 @@
+  Updates dialog shows version of EAP with redundant .0 #IDEA-142772 fixed  

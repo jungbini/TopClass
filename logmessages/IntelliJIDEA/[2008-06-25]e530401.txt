@@ -1,0 +1,1 @@
+  Maven: folder configuration fixes  

@@ -1,0 +1,1 @@
+  process function type by ref in calls, fix #2069  

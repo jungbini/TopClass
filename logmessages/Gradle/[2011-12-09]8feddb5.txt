@@ -1,0 +1,1 @@
+  Copied ivy.RepositoryResolver to org.gradle.api.internal.repository.RepositoryResolver so we can start fixing/replacing it with our own implementation - Used for local and remove maven{} repositories, as well as remote ivy {} repositories so far  

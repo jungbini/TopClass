@@ -1,0 +1,1 @@
+  fixed #3132 (Difference operator with more than one param)  

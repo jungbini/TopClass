@@ -1,0 +1,1 @@
+  Update graylog2.conf  fixed the path for the config  

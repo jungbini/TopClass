@@ -1,0 +1,1 @@
+  fixed EA-65265 - assert: ProjectRootManagerImpl.fireBeforeRootsChanged  

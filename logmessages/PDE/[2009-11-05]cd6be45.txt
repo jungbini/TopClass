@@ -1,0 +1,1 @@
+  use xdg-open as launcher on linux (bug #1358)  

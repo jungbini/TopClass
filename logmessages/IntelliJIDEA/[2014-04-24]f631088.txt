@@ -1,0 +1,1 @@
+  java-xdebugger: do not show empty type  

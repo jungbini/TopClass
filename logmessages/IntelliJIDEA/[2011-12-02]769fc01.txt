@@ -1,0 +1,1 @@
+  exclude inplace rename from available rename handlers when more than one exist - no chance to fix it better now (IDEA-78108 ) [roma]  

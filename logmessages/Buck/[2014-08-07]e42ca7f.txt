@@ -1,0 +1,1 @@
+  Do not perform any git operations if there is no '.git' dir.  Summary: I am not going to fix the bash scripts because we are going to kill them soon anyway.  Fixes #160  Test Plan: Copied buck repo without the .git dir to another dir. Invoke the copied buck and buckd and verify that the launch script doesn't barf.  

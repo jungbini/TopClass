@@ -1,0 +1,1 @@
+  Fixed references for storing data and graphs. Currently data is deleted on exit but not graphs. That should be fixed to prevent maxing out storage. WIP for fixing render filters. Got great feedback on approach but still not there yet.  

@@ -1,0 +1,1 @@
+  Debugger tests: mark objects using NodeDescriptorImpl.getMarkup. Primitive values cannot be marked.  

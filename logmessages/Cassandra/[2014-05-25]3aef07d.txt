@@ -1,0 +1,1 @@
+  fix countAllBatches query patch by Lyuben Todorov; reviewed by jbellis for CASSANDRA-7300  

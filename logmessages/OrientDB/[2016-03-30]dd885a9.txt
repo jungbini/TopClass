@@ -1,0 +1,1 @@
+  Distributed: fixed test case after the change to the graph pool.  

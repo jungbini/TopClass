@@ -1,0 +1,1 @@
+  Better handling of open(), fixed unicode/str version dependency.  

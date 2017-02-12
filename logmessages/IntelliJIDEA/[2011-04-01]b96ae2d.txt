@@ -1,0 +1,1 @@
+  CIDR:Debugger: warning in prompt mode when user is trying to step/resume/etc  

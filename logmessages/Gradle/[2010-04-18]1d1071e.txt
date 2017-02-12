@@ -1,0 +1,1 @@
+  GRADLE-766 - quick fix for when artifact dependency graph contains cycles and ResolvedConfiguration.getFiles() is called with a spec that matches all direct dependencies. Still broken when spec does not match all direct dependencies  

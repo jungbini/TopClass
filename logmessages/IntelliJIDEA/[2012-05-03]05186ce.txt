@@ -1,0 +1,1 @@
+  fixed PY-6376 testrunner attempts to run migrations even if south is not listed in INSTALLED_APPS  

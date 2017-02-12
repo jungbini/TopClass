@@ -1,0 +1,1 @@
+  Incorrect type of an argument that is a function with named return values, fix #1869  

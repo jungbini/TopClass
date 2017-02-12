@@ -1,0 +1,1 @@
+  fixed bug on serialization of vertex as value of property, issue #2761  

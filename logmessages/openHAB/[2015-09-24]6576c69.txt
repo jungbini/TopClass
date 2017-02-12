@@ -1,0 +1,1 @@
+  New DSC Alarm Action Binding  Incorporating DSC Alarm action into openhab.  DSC Alarm Action updates.  Create README.md File  Fix README.md  Another README.md Fix  Still Another README.md Fix  README.md Spelling Correction  Final fixes for Actions Implimentation  Minor Typo Errors Fixed  PR Review Fixes  Fixes made to pull request after review.  

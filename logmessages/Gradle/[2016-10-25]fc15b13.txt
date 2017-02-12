@@ -1,0 +1,1 @@
+  Add a more sophisticated test case for GRADLE-3575  This case tests the ordering of finalizer tasks where multiple tasks are supplied for execution. It also demonstrates that the previous fix does not always correctly honour the finalizer contract where a finalizer task itself has a finalizer task attached.  +review REVIEW-6346  

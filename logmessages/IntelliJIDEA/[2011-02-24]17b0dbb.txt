@@ -1,0 +1,1 @@
+  fixed PY-2976 Django test runner doesn't work.  

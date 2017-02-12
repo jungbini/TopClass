@@ -1,0 +1,1 @@
+  Added an initial plan for fixing GRADLE-2502 and moved finished stories to the end of the spec.  

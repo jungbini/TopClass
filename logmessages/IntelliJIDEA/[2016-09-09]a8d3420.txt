@@ -1,0 +1,1 @@
+  [vcs-log] debug logging while indexes  

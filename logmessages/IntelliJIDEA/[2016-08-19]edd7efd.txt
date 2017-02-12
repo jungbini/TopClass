@@ -1,0 +1,1 @@
+  "Evaluate Expression" triggers action twice when returned value is compound (PY-18734 )  When return value is compound, debugger evaluates expression and after that run a separate command "Change variable", in order to save the temporary value on the Python side. We need to save temporary result right after evaluating expression, in order to not evaluate it twice.  

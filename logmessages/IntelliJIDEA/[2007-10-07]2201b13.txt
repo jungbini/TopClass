@@ -1,0 +1,1 @@
+  [no review]: IDEADEV-22190: Brute force NPE fix.  

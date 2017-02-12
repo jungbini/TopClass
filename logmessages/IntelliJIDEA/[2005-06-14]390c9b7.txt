@@ -1,0 +1,1 @@
+  added quickfix to GUI form to change type of the bound field if they do not correspond  

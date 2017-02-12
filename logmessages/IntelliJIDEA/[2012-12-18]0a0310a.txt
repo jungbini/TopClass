@@ -1,0 +1,1 @@
+  [Nik + AlexD, rev. by Jeka] Rewritten parallel external compilation (also fixes IDEA-96627)  

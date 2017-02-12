@@ -1,0 +1,1 @@
+ Use ctrl-pageup/down on Linux for prev/next tab (fixes #3416)  

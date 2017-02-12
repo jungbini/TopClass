@@ -1,0 +1,1 @@
+  unify change dialect action and quick fix, DBE-1097 [^savenko]  
