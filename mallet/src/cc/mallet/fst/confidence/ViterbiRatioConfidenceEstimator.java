@@ -27,7 +27,7 @@ public class ViterbiRatioConfidenceEstimator extends TransducerSequenceConfidenc
 {
 	
 	private static Logger logger = MalletLogger.getLogger(
-		ViterbiRatioConfidenceEstimator.class.getName());
+		SegmentProductConfidenceEstimator.class.getName());
 
 
 	public ViterbiRatioConfidenceEstimator (Transducer model) {

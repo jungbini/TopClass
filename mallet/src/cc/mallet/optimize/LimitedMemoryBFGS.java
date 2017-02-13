@@ -27,7 +27,7 @@ import cc.mallet.util.MalletLogger;
 
 public class LimitedMemoryBFGS implements Optimizer {
 	
-	private static Logger logger = MalletLogger.getLogger(LimitedMemoryBFGS.class.getName());
+	private static Logger logger = MalletLogger.getLogger("edu.umass.cs.mallet.base.ml.maximize.LimitedMemoryBFGS");
 
 	boolean converged = false;
 	Optimizable.ByGradientValue optimizable;

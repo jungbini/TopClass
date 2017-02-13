@@ -95,19 +95,6 @@ public class MarginalProbEstimator implements Serializable {
 						   Integer.toBinaryString(topicMask) + " topic mask");
 
 	}
-	
-	public void setRandomSeed(int seed) {
-		if (seed == -1) {
-			this.random = new Randoms();
-		}
-		else {
-			this.random = new Randoms(seed);
-		}
-	}
-	
-	public void setRandom(Randoms r) {
-		this.random = r;
-	}
 
 	public int[] getTokensPerTopic() { return tokensPerTopic; }
 	public int[][] getTypeTopicCounts() { return typeTopicCounts; }
@@ -118,6 +105,7 @@ public class MarginalProbEstimator implements Serializable {
 
 	public double evaluateLeftToRight (InstanceList testing, int numParticles, boolean usingResampling,
 									   PrintStream docProbabilityStream) {
+		random = new Randoms();
 
 		double logNumParticles = Math.log(numParticles);
 		double totalLogLikelihood = 0;

@@ -55,31 +55,6 @@ public class WordEmbeddings {
 
 	int windowSize = 5;
 
-	public int getMinDocumentLength()
-	{
-		return minDocumentLength;
-	}
-
-	public void setMinDocumentLength(int minDocumentLength)
-	{
-		if (minDocumentLength <= 0) {
-			throw new IllegalArgumentException("Minimum document length must be at least 1.");
-		}
-		this.minDocumentLength = minDocumentLength;
-	}
-
-	private int minDocumentLength = 10;
-
-	public String getQueryWord()
-	{
-		return queryWord;
-	}
-
-	public void setQueryWord(String queryWord)
-	{
-		this.queryWord = queryWord;
-	}
-
 	String queryWord = "the";
 
 	Randoms random = new Randoms();
@@ -195,7 +170,7 @@ public class WordEmbeddings {
 				}
 			}
 
-			if (queryWord != null && vocabulary.contains(queryWord)) {
+			if (queryWord != null) {
 				findClosest(copy(queryWord));
 			}
 		}
@@ -249,7 +224,7 @@ public class WordEmbeddings {
 
 	public void write(PrintWriter out) {
 		for (int word = 0; word < numWords; word++) {
-			Formatter buffer = new Formatter(Locale.US);
+			Formatter buffer = new Formatter();
 			buffer.format("%s", vocabulary.lookupObject(word));
 			for (int col = 0; col < numColumns; col++) {
 				buffer.format(" %.6f", weights[word * stride + col]);

@@ -24,7 +24,6 @@ public class WordEmbeddingRunnable implements Runnable {
 	int numColumns;
 
 	public int wordsSoFar = 0;
-	private int minDocumentLength;
 
 	public WordEmbeddingRunnable(WordEmbeddings model, InstanceList instances, int numSamples, int numThreads, int threadID) {
 		this.model = model;
@@ -37,7 +36,6 @@ public class WordEmbeddingRunnable implements Runnable {
 		random = new Random();
 
 		numColumns = model.numColumns;
-		minDocumentLength = model.getMinDocumentLength();
 	}
 
 	public double getMeanError() {
@@ -55,6 +53,8 @@ public class WordEmbeddingRunnable implements Runnable {
 		double sampleNormalizer = 1.0f / numSamples;
 
 		double[] gradient = new double[numColumns];
+
+		int queryID = model.vocabulary.lookupIndex(model.queryWord);
 
 		int outputOffset = model.numColumns;
 
@@ -96,8 +96,7 @@ public class WordEmbeddingRunnable implements Runnable {
 			}			
 				
 			// Skip short documents
-			assert minDocumentLength > 0;
-			if (length < minDocumentLength) { continue; }
+			if (length < 10) { continue; }
 			
 			for (int inputPosition = 0; inputPosition < length; inputPosition++) {
 				int inputType = tokenBuffer[inputPosition];

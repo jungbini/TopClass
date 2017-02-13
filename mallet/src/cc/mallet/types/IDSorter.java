@@ -20,8 +20,6 @@ package cc.mallet.types;
  *     Arrays.sort(sortedIDs);
  *     
  *     for (int i=0; i&lt;10; i++) {
- *       // do something with the nth highest weighted item
- *     }
  *   </pre></code>
  *
  *    @author David Mimno

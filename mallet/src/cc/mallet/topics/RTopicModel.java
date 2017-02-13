@@ -93,7 +93,7 @@ public class RTopicModel extends ParallelTopicModel {
 			}
             
 			int[] keys = docCounts.keys();
-			for (int i = 0; i < keys.length; i++) {
+			for (int i = 0; i < keys.length - 1; i++) {
 				int feature = keys[i];
 				result[feature][0] += docCounts.get(feature);
 				result[feature][1]++;
@@ -104,10 +104,6 @@ public class RTopicModel extends ParallelTopicModel {
 		}
 		
 		return result;
-	}
-
-	public TopicModelDiagnostics getDiagnostics(double numWords) {
-		return new TopicModelDiagnostics(this, (int) Math.floor(numWords));
 	}
 
 	public void writeState(String filename) {
